@@ -1,17 +1,22 @@
 {
   "name": "contract-scraper",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "SWE contractor opportunity aggregator with static site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch": "tsx src/cli/fetch.ts",
+    "dedupe": "tsx src/cli/dedupe.ts",
+    "analytics": "tsx src/cli/analytics.ts",
+    "pipeline": "tsx src/cli/pipeline.ts",
+    "dev": "cd site && npm run dev",
+    "build": "cd site && npm run build",
     "start": "tsx src/index.ts"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/themikemoniker/contract-scraper.git"
   },
-  "keywords": [],
+  "keywords": ["jobs", "contractor", "remote", "swe"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
@@ -20,10 +25,13 @@
   },
   "homepage": "https://github.com/themikemoniker/contract-scraper#readme",
   "dependencies": {
-    "@supabase/supabase-js": "^2.90.1",
     "@types/node": "^25.0.6",
     "dotenv": "^17.2.3",
+    "fast-xml-parser": "^4.5.0",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.6"
   }
 }

@@ -1,0 +1,132 @@
+---
+import Layout from '../layouts/Layout.astro';
+import JobCard from '../components/JobCard.astro';
+import Filters from '../components/Filters.astro';
+import Stats from '../components/Stats.astro';
+import * as fs from 'fs';
+import * as path from 'path';
+
+// Read job data at build time
+const dataPath = path.join(process.cwd(), '..', 'data', 'jobs.json');
+const statsPath = path.join(process.cwd(), '..', 'data', 'stats.json');
+
+let jobs: any[] = [];
+let stats = {
+  totalJobs: 0,
+  bySource: {},
+  byTechStack: {},
+  byContractType: {},
+  byRemoteType: {},
+  lastUpdated: new Date().toISOString(),
+};
+
+try {
+  if (fs.existsSync(dataPath)) {
+    jobs = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+  }
+  if (fs.existsSync(statsPath)) {
+    stats = JSON.parse(fs.readFileSync(statsPath, 'utf-8'));
+  }
+} catch (e) {
+  console.error('Error loading data:', e);
+}
+
+// Get unique values for filters
+const techStack = Object.entries(stats.byTechStack as Record<string, number>)
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 30)
+  .map(([tech]) => tech);
+
+const contractTypes = Object.keys(stats.byContractType as Record<string, number>);
+const remoteTypes = Object.keys(stats.byRemoteType as Record<string, number>);
+const sourceCount = Object.keys(stats.bySource as Record<string, number>).length;
+---
+
+<Layout title="SWE Contractor Opportunities">
+  <header>
+    <h1>SWE Contractor Opportunities</h1>
+    <p class="subtitle">
+      Aggregated from Hacker News, Jobicy, Himalayas, and We Work Remotely
+    </p>
+  </header>
+
+  <Stats
+    totalJobs={stats.totalJobs}
+    sources={sourceCount}
+    lastUpdated={stats.lastUpdated}
+  />
+
+  <Filters
+    techStack={techStack}
+    contractTypes={contractTypes}
+    remoteTypes={remoteTypes}
+  />
+
+  <main class="jobs-list">
+    {jobs.length > 0 ? (
+      jobs.map((job) => <JobCard job={job} />)
+    ) : (
+      <div class="no-jobs">
+        <p>No jobs found. Run the pipeline to fetch jobs:</p>
+        <code>npm run pipeline</code>
+      </div>
+    )}
+  </main>
+
+  <footer>
+    <p>
+      Data refreshed every 6 hours via GitHub Actions.
+      <a href="https://github.com/themikemoniker/contract-scraper" target="_blank" rel="noopener">
+        View source
+      </a>
+    </p>
+  </footer>
+</Layout>
+
+<style>
+  header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+
+  .subtitle {
+    color: var(--text-muted);
+    font-size: 1rem;
+  }
+
+  .jobs-list {
+    margin-top: 1rem;
+  }
+
+  .no-jobs {
+    text-align: center;
+    padding: 3rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+
+  .no-jobs code {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background: var(--border);
+    border-radius: 4px;
+    font-family: monospace;
+  }
+
+  footer {
+    margin-top: 3rem;
+    text-align: center;
+    padding: 1.5rem;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 0.875rem;
+  }
+</style>

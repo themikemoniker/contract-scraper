@@ -1,0 +1,63 @@
+---
+interface Props {
+  totalJobs: number;
+  sources: number;
+  lastUpdated: string;
+}
+
+const { totalJobs, sources, lastUpdated } = Astro.props;
+
+function formatDate(date: string): string {
+  const d = new Date(date);
+  const now = new Date();
+  const diffMs = now.getTime() - d.getTime();
+  const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+
+  if (diffHours < 1) return 'Just now';
+  if (diffHours < 24) return `${diffHours}h ago`;
+  return d.toLocaleDateString();
+}
+---
+
+<div class="stats">
+  <div class="stat">
+    <span class="stat-value">{totalJobs}</span>
+    <span class="stat-label">Total Jobs</span>
+  </div>
+  <div class="stat">
+    <span class="stat-value">{sources}</span>
+    <span class="stat-label">Sources</span>
+  </div>
+  <div class="stat">
+    <span class="stat-value">{formatDate(lastUpdated)}</span>
+    <span class="stat-label">Updated</span>
+  </div>
+</div>
+
+<style>
+  .stats {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .stat-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  .stat-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+</style>
