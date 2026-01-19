@@ -1,7 +1,7 @@
 {
-  "totalJobs": 565,
+  "totalJobs": 562,
   "bySource": {
-    "jobicy": 50,
+    "jobicy": 47,
     "wwr": 40,
     "hn": 474,
     "himalayas": 1
@@ -23,7 +23,7 @@
     "kubernetes": 70,
     "jenkins": 11,
     "github-actions": 7,
-    "machine-learning": 75,
+    "machine-learning": 74,
     "terraform": 37,
     "ansible": 28,
     "fastapi": 1,
@@ -69,30 +69,29 @@
     "grpc": 1
   },
   "byContractType": {
-    "full-time": 564,
-    "contract": 1
+    "full-time": 562
   },
   "byRemoteType": {
-    "remote": 269,
+    "remote": 266,
     "onsite": 229,
     "hybrid": 1
   },
   "bySalaryRange": {
     "under50k": 0,
-    "50k-100k": 0,
+    "50k-100k": 1,
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
-    "unknown": 565
+    "unknown": 561
   },
-  "lastUpdated": "2026-01-18T18:01:17.806Z",
+  "lastUpdated": "2026-01-19T00:49:19.252Z",
   "jobsLast7Days": [
-    5,
     5,
     0,
     16,
     0,
     0,
-    2
+    2,
+    0
   ]
 }
