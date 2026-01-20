@@ -1,12 +1,28 @@
 {
-  "totalJobs": 561,
+  "totalJobs": 568,
   "bySource": {
-    "jobicy": 47,
+    "jobicy": 54,
     "wwr": 39,
     "hn": 474,
     "himalayas": 1
   },
   "byTechStack": {
+    "python": 118,
+    "java": 57,
+    "ruby": 40,
+    "aws": 112,
+    "go": 18,
+    "gcp": 37,
+    "machine-learning": 75,
+    "rest": 20,
+    "kotlin": 21,
+    "ios": 43,
+    "android": 43,
+    "swift": 16,
+    "github-actions": 8,
+    "dynamodb": 7,
+    "docker": 54,
+    "kubernetes": 70,
     "javascript": 106,
     "typescript": 68,
     "react": 151,
@@ -14,31 +30,15 @@
     "react-native": 25,
     "blockchain": 11,
     "graphql": 32,
-    "rest": 19,
-    "python": 117,
-    "aws": 110,
-    "gcp": 36,
-    "azure": 27,
-    "docker": 53,
-    "kubernetes": 70,
-    "jenkins": 12,
-    "github-actions": 8,
-    "machine-learning": 73,
+    "azure": 26,
+    "jenkins": 11,
     "terraform": 38,
     "ansible": 27,
     "fastapi": 1,
     "llm": 6,
-    "java": 56,
-    "ios": 41,
-    "android": 41,
-    "kotlin": 19,
-    "go": 16,
     "vue": 24,
     "postgresql": 68,
     "mongodb": 18,
-    "dynamodb": 6,
-    "swift": 15,
-    "ruby": 39,
     "nextjs": 7,
     "php": 14,
     "mysql": 17,
@@ -49,8 +49,8 @@
     "c#": 11,
     "rails": 38,
     "django": 21,
-    "spring": 13,
     "flutter": 4,
+    "spring": 12,
     "svelte": 1,
     "flask": 7,
     "redis": 35,
@@ -69,10 +69,10 @@
     "grpc": 1
   },
   "byContractType": {
-    "full-time": 561
+    "full-time": 568
   },
   "byRemoteType": {
-    "remote": 265,
+    "remote": 272,
     "onsite": 229,
     "hybrid": 1
   },
@@ -82,9 +82,9 @@
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
-    "unknown": 560
+    "unknown": 567
   },
-  "lastUpdated": "2026-01-20T12:01:35.381Z",
+  "lastUpdated": "2026-01-20T18:17:51.815Z",
   "jobsLast7Days": [
     0,
     16,
@@ -92,6 +92,6 @@
     0,
     2,
     0,
-    0
+    8
   ]
 }
