@@ -1,9 +1,10 @@
 {
-  "totalJobs": 560,
+  "totalJobs": 561,
   "bySource": {
     "jobicy": 47,
     "wwr": 39,
-    "hn": 474
+    "hn": 474,
+    "himalayas": 1
   },
   "byTechStack": {
     "javascript": 106,
@@ -68,22 +69,22 @@
     "grpc": 1
   },
   "byContractType": {
-    "full-time": 560
+    "full-time": 561
   },
   "byRemoteType": {
-    "remote": 264,
+    "remote": 265,
     "onsite": 229,
     "hybrid": 1
   },
   "bySalaryRange": {
     "under50k": 0,
-    "50k-100k": 0,
+    "50k-100k": 1,
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
     "unknown": 560
   },
-  "lastUpdated": "2026-01-20T06:18:01.325Z",
+  "lastUpdated": "2026-01-20T12:01:35.381Z",
   "jobsLast7Days": [
     0,
     16,
