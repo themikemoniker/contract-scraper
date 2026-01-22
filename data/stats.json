@@ -1,33 +1,38 @@
 {
-  "totalJobs": 563,
+  "totalJobs": 567,
   "bySource": {
-    "jobicy": 50,
+    "jobicy": 54,
     "wwr": 39,
     "hn": 474
   },
   "byTechStack": {
+    "rust": 13,
+    "postgresql": 69,
+    "kubernetes": 72,
+    "ethereum": 3,
+    "blockchain": 12,
+    "grpc": 2,
+    "websocket": 1,
+    "aws": 113,
+    "machine-learning": 76,
+    "rest": 21,
+    "docker": 54,
     "python": 115,
     "java": 57,
     "ruby": 40,
-    "aws": 111,
     "go": 18,
     "gcp": 37,
-    "machine-learning": 75,
-    "rest": 20,
     "kotlin": 20,
     "ios": 42,
     "android": 42,
     "swift": 15,
     "github-actions": 8,
     "dynamodb": 7,
-    "docker": 53,
-    "kubernetes": 70,
     "javascript": 106,
     "typescript": 68,
     "react": 150,
     "nodejs": 60,
     "react-native": 25,
-    "blockchain": 11,
     "graphql": 31,
     "azure": 26,
     "jenkins": 11,
@@ -36,7 +41,6 @@
     "fastapi": 1,
     "llm": 5,
     "vue": 24,
-    "postgresql": 68,
     "mongodb": 18,
     "nextjs": 7,
     "php": 14,
@@ -56,22 +60,19 @@
     "pytorch": 6,
     "tensorflow": 6,
     "express": 8,
-    "rust": 12,
     "scala": 11,
     "clojure": 4,
     "haskell": 4,
     "elixir": 13,
-    "ethereum": 2,
     "sqlite": 2,
     "laravel": 2,
-    "circleci": 1,
-    "grpc": 1
+    "circleci": 1
   },
   "byContractType": {
-    "full-time": 563
+    "full-time": 567
   },
   "byRemoteType": {
-    "remote": 267,
+    "remote": 271,
     "onsite": 229,
     "hybrid": 1
   },
@@ -81,16 +82,16 @@
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
-    "unknown": 563
+    "unknown": 567
   },
-  "lastUpdated": "2026-01-21T18:26:35.997Z",
+  "lastUpdated": "2026-01-22T00:45:44.451Z",
   "jobsLast7Days": [
-    16,
     0,
     0,
     2,
     0,
     8,
+    4,
     0
   ]
 }
