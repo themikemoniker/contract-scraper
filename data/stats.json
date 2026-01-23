@@ -1,11 +1,14 @@
 {
-  "totalJobs": 566,
+  "totalJobs": 568,
   "bySource": {
+    "wwr": 39,
     "jobicy": 54,
-    "wwr": 38,
-    "hn": 474
+    "hn": 474,
+    "himalayas": 1
   },
   "byTechStack": {
+    "javascript": 106,
+    "azure": 27,
     "rust": 13,
     "postgresql": 67,
     "kubernetes": 70,
@@ -28,13 +31,11 @@
     "swift": 15,
     "github-actions": 9,
     "dynamodb": 7,
-    "javascript": 105,
     "typescript": 67,
     "react": 149,
     "nodejs": 60,
     "react-native": 24,
     "graphql": 30,
-    "azure": 26,
     "jenkins": 11,
     "terraform": 38,
     "ansible": 27,
@@ -69,29 +70,29 @@
     "circleci": 1
   },
   "byContractType": {
-    "full-time": 566
+    "full-time": 567
   },
   "byRemoteType": {
-    "remote": 270,
+    "remote": 272,
     "onsite": 229,
     "hybrid": 1
   },
   "bySalaryRange": {
     "under50k": 0,
-    "50k-100k": 0,
+    "50k-100k": 1,
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
-    "unknown": 566
+    "unknown": 567
   },
-  "lastUpdated": "2026-01-22T18:15:21.354Z",
+  "lastUpdated": "2026-01-23T00:45:46.293Z",
   "jobsLast7Days": [
-    0,
     0,
     2,
     0,
     8,
     4,
+    1,
     0
   ]
 }
