@@ -1,14 +1,14 @@
 {
-  "totalJobs": 565,
+  "totalJobs": 564,
   "bySource": {
     "wwr": 39,
-    "jobicy": 51,
+    "jobicy": 50,
     "hn": 474,
     "himalayas": 1
   },
   "byTechStack": {
-    "javascript": 106,
-    "azure": 26,
+    "javascript": 105,
+    "azure": 25,
     "rust": 13,
     "postgresql": 66,
     "kubernetes": 70,
@@ -18,7 +18,7 @@
     "websocket": 1,
     "aws": 113,
     "machine-learning": 76,
-    "rest": 21,
+    "rest": 20,
     "docker": 53,
     "python": 115,
     "java": 54,
@@ -70,10 +70,10 @@
     "circleci": 1
   },
   "byContractType": {
-    "full-time": 565
+    "full-time": 564
   },
   "byRemoteType": {
-    "remote": 269,
+    "remote": 268,
     "onsite": 229,
     "hybrid": 1
   },
@@ -83,16 +83,16 @@
     "100k-150k": 0,
     "150k-200k": 1,
     "over200k": 0,
-    "unknown": 564
+    "unknown": 563
   },
-  "lastUpdated": "2026-01-23T18:01:31.442Z",
+  "lastUpdated": "2026-01-24T00:43:53.573Z",
   "jobsLast7Days": [
-    0,
     2,
     0,
     8,
     4,
     1,
+    0,
     0
   ]
 }
