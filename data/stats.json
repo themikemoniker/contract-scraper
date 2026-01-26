@@ -12,7 +12,7 @@
     "aws": 112,
     "go": 18,
     "kubernetes": 69,
-    "python": 114,
+    "python": 113,
     "django": 21,
     "fastapi": 2,
     "azure": 24,
@@ -21,7 +21,7 @@
     "javascript": 103,
     "typescript": 65,
     "react": 147,
-    "machine-learning": 76,
+    "machine-learning": 75,
     "rust": 13,
     "ethereum": 3,
     "blockchain": 12,
@@ -42,7 +42,7 @@
     "jenkins": 10,
     "terraform": 35,
     "ansible": 26,
-    "llm": 7,
+    "llm": 6,
     "vue": 24,
     "mongodb": 16,
     "nextjs": 5,
@@ -55,21 +55,22 @@
     "rails": 37,
     "flutter": 4,
     "spring": 12,
-    "pytorch": 5,
-    "tensorflow": 5,
     "redis": 31,
     "express": 8,
     "scala": 11,
+    "tensorflow": 4,
     "clojure": 4,
     "haskell": 4,
     "elixir": 13,
     "flask": 6,
+    "pytorch": 4,
     "sqlite": 2,
     "laravel": 2,
     "circleci": 1
   },
   "byContractType": {
-    "full-time": 569
+    "full-time": 568,
+    "contract": 1
   },
   "byRemoteType": {
     "remote": 273,
@@ -84,7 +85,7 @@
     "over200k": 0,
     "unknown": 569
   },
-  "lastUpdated": "2026-01-26T12:20:01.136Z",
+  "lastUpdated": "2026-01-26T18:17:25.029Z",
   "jobsLast7Days": [
     8,
     4,
