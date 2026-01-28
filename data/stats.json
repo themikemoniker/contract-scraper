@@ -1,34 +1,34 @@
 {
-  "totalJobs": 567,
+  "totalJobs": 566,
   "bySource": {
-    "jobicy": 55,
+    "jobicy": 54,
     "wwr": 38,
     "hn": 474
   },
   "byTechStack": {
     "ruby": 40,
     "postgresql": 67,
-    "aws": 112,
+    "aws": 111,
     "go": 18,
-    "kubernetes": 69,
-    "python": 112,
+    "kubernetes": 68,
+    "python": 111,
     "django": 21,
     "fastapi": 2,
-    "azure": 24,
+    "azure": 23,
     "java": 54,
     "mysql": 17,
     "javascript": 102,
-    "typescript": 65,
-    "react": 147,
+    "typescript": 64,
+    "react": 146,
     "machine-learning": 75,
     "rust": 13,
     "ethereum": 3,
     "blockchain": 12,
     "grpc": 2,
     "websocket": 1,
-    "rest": 18,
+    "rest": 17,
     "docker": 50,
-    "gcp": 33,
+    "gcp": 32,
     "kotlin": 17,
     "ios": 37,
     "android": 38,
@@ -37,7 +37,7 @@
     "dynamodb": 5,
     "nodejs": 57,
     "react-native": 24,
-    "graphql": 29,
+    "graphql": 28,
     "jenkins": 10,
     "terraform": 35,
     "ansible": 26,
@@ -68,10 +68,10 @@
     "circleci": 1
   },
   "byContractType": {
-    "full-time": 567
+    "full-time": 566
   },
   "byRemoteType": {
-    "remote": 271,
+    "remote": 270,
     "onsite": 229,
     "hybrid": 1
   },
@@ -81,16 +81,16 @@
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
-    "unknown": 567
+    "unknown": 566
   },
-  "lastUpdated": "2026-01-27T18:19:46.255Z",
+  "lastUpdated": "2026-01-28T00:45:31.029Z",
   "jobsLast7Days": [
-    4,
     1,
     0,
     4,
     0,
     4,
+    0,
     0
   ]
 }
