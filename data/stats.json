@@ -1,14 +1,19 @@
 {
-  "totalJobs": 573,
+  "totalJobs": 574,
   "bySource": {
-    "jobicy": 60,
+    "jobicy": 61,
     "wwr": 38,
     "hn": 474,
     "himalayas": 1
   },
   "byTechStack": {
-    "python": 116,
-    "java": 56,
+    "python": 117,
+    "rust": 14,
+    "java": 57,
+    "aws": 113,
+    "gcp": 35,
+    "azure": 26,
+    "kubernetes": 68,
     "web3": 5,
     "blockchain": 14,
     "javascript": 106,
@@ -22,17 +27,13 @@
     "angular": 15,
     "nodejs": 58,
     "mongodb": 17,
-    "aws": 112,
-    "gcp": 34,
     "machine-learning": 78,
     "redis": 32,
     "dynamodb": 6,
-    "azure": 25,
     "pytorch": 6,
     "tensorflow": 6,
     "go": 18,
     "docker": 50,
-    "kubernetes": 67,
     "terraform": 36,
     "github-actions": 10,
     "ruby": 40,
@@ -40,7 +41,6 @@
     "django": 21,
     "fastapi": 2,
     "mysql": 17,
-    "rust": 13,
     "ethereum": 3,
     "grpc": 2,
     "websocket": 1,
@@ -69,23 +69,22 @@
     "circleci": 1
   },
   "byContractType": {
-    "full-time": 572,
-    "contract": 1
+    "full-time": 574
   },
   "byRemoteType": {
-    "remote": 277,
+    "remote": 278,
     "onsite": 229,
     "hybrid": 1
   },
   "bySalaryRange": {
     "under50k": 0,
-    "50k-100k": 0,
+    "50k-100k": 1,
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
     "unknown": 573
   },
-  "lastUpdated": "2026-01-30T06:31:54.857Z",
+  "lastUpdated": "2026-01-30T12:24:55.488Z",
   "jobsLast7Days": [
     4,
     0,
@@ -93,6 +92,6 @@
     0,
     8,
     1,
-    0
+    1
   ]
 }
