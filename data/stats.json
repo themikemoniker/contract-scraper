@@ -1,17 +1,17 @@
 {
-  "totalJobs": 576,
+  "totalJobs": 577,
   "bySource": {
+    "jobicy": 59,
     "wwr": 43,
-    "jobicy": 58,
     "hn": 474,
     "himalayas": 1
   },
   "byTechStack": {
-    "aws": 115,
+    "aws": 116,
     "docker": 52,
     "ansible": 31,
     "jenkins": 12,
-    "python": 120,
+    "python": 119,
     "web3": 6,
     "kubernetes": 69,
     "terraform": 39,
@@ -70,10 +70,11 @@
     "circleci": 1
   },
   "byContractType": {
-    "full-time": 576
+    "full-time": 576,
+    "contract": 1
   },
   "byRemoteType": {
-    "remote": 280,
+    "remote": 281,
     "onsite": 229,
     "hybrid": 1
   },
@@ -83,9 +84,9 @@
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
-    "unknown": 576
+    "unknown": 577
   },
-  "lastUpdated": "2026-01-31T06:22:20.914Z",
+  "lastUpdated": "2026-01-31T12:18:18.018Z",
   "jobsLast7Days": [
     0,
     3,
@@ -93,6 +94,6 @@
     8,
     1,
     6,
-    0
+    1
   ]
 }
