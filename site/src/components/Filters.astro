@@ -44,6 +44,25 @@ const { techStack, contractTypes, remoteTypes } = Astro.props;
     </select>
   </div>
 
+  <div class="filter-group">
+    <label for="sort-by">Sort By</label>
+    <select id="sort-by">
+      <option value="newest">Newest First</option>
+      <option value="oldest">Oldest First</option>
+      <option value="highest-salary">Highest Salary</option>
+      <option value="lowest-salary">Lowest Salary</option>
+    </select>
+  </div>
+
+  <div class="filter-group salary-group">
+    <label>Salary Range (in $k)</label>
+    <div class="salary-inputs">
+      <input type="number" id="salary-min" placeholder="Min" min="0" />
+      <span class="salary-separator">-</span>
+      <input type="number" id="salary-max" placeholder="Max" min="0" />
+    </div>
+  </div>
+
   <button id="reset-filters" class="reset-btn">Reset</button>
 </div>
 
@@ -57,14 +76,110 @@ const { techStack, contractTypes, remoteTypes } = Astro.props;
     const techFilter = document.getElementById('tech-filter') as HTMLSelectElement;
     const contractFilter = document.getElementById('contract-filter') as HTMLSelectElement;
     const remoteFilter = document.getElementById('remote-filter') as HTMLSelectElement;
+    const sortBy = document.getElementById('sort-by') as HTMLSelectElement;
+    const salaryMin = document.getElementById('salary-min') as HTMLInputElement;
+    const salaryMax = document.getElementById('salary-max') as HTMLInputElement;
     const resetBtn = document.getElementById('reset-filters');
     const visibleCount = document.getElementById('visible-count');
+    const jobList = document.getElementById('job-list');
+
+    // Convert salary to yearly for comparison (input is in thousands)
+    function getYearlySalary(value: number | null, type: string | null): number | null {
+      if (value === null) return null;
+      if (type === 'hourly') {
+        // Assume 2080 hours/year (40 hrs/week * 52 weeks)
+        return value * 2080;
+      }
+      return value;
+    }
+
+    // Check if job salary range overlaps with filter range
+    function salaryOverlaps(jobMin: number | null, jobMax: number | null, salaryType: string | null, filterMin: number | null, filterMax: number | null): boolean {
+      // If no filter set, show all jobs
+      if (filterMin === null && filterMax === null) return true;
+
+      // Convert job salary to yearly
+      const yearlyJobMin = getYearlySalary(jobMin, salaryType);
+      const yearlyJobMax = getYearlySalary(jobMax, salaryType);
+
+      // If job has no salary info, hide it when salary filter is active
+      if (yearlyJobMin === null && yearlyJobMax === null) return false;
+
+      // Use the same value for both if only one is set
+      const effectiveJobMin = yearlyJobMin ?? yearlyJobMax;
+      const effectiveJobMax = yearlyJobMax ?? yearlyJobMin;
+
+      // Convert filter values from thousands to actual values
+      const effectiveFilterMin = filterMin !== null ? filterMin * 1000 : null;
+      const effectiveFilterMax = filterMax !== null ? filterMax * 1000 : null;
+
+      // Check for overlap: ranges overlap if one starts before the other ends
+      if (effectiveFilterMin !== null && effectiveFilterMax !== null) {
+        return effectiveJobMax! >= effectiveFilterMin && effectiveJobMin! <= effectiveFilterMax;
+      } else if (effectiveFilterMin !== null) {
+        return effectiveJobMax! >= effectiveFilterMin;
+      } else if (effectiveFilterMax !== null) {
+        return effectiveJobMin! <= effectiveFilterMax;
+      }
+
+      return true;
+    }
+
+    function sortJobs() {
+      if (!jobList) return;
+
+      const sortValue = sortBy.value;
+      const jobs = Array.from(jobList.querySelectorAll('.job-card')) as HTMLElement[];
+
+      jobs.sort((a, b) => {
+        if (sortValue === 'newest' || sortValue === 'oldest') {
+          const dateA = a.dataset.posted ? new Date(a.dataset.posted).getTime() : 0;
+          const dateB = b.dataset.posted ? new Date(b.dataset.posted).getTime() : 0;
+          return sortValue === 'newest' ? dateB - dateA : dateA - dateB;
+        } else if (sortValue === 'highest-salary' || sortValue === 'lowest-salary') {
+          // Use the max salary for highest, min for lowest (or whichever is available)
+          const getSalaryValue = (el: HTMLElement): number => {
+            const min = el.dataset.salaryMin ? parseFloat(el.dataset.salaryMin) : null;
+            const max = el.dataset.salaryMax ? parseFloat(el.dataset.salaryMax) : null;
+            const type = el.dataset.salaryType ?? null;
+
+            const yearlyMin = getYearlySalary(min, type);
+            const yearlyMax = getYearlySalary(max, type);
+
+            if (sortValue === 'highest-salary') {
+              return yearlyMax ?? yearlyMin ?? 0;
+            } else {
+              return yearlyMin ?? yearlyMax ?? Infinity;
+            }
+          };
+
+          const salaryA = getSalaryValue(a);
+          const salaryB = getSalaryValue(b);
+
+          if (sortValue === 'highest-salary') {
+            return salaryB - salaryA;
+          } else {
+            // For lowest salary, put Infinity (no salary) at the end
+            if (salaryA === Infinity && salaryB === Infinity) return 0;
+            if (salaryA === Infinity) return 1;
+            if (salaryB === Infinity) return -1;
+            return salaryA - salaryB;
+          }
+        }
+        return 0;
+      });
+
+      // Re-append in sorted order
+      jobs.forEach(job => jobList.appendChild(job));
+    }
 
     function filterJobs() {
       const searchTerm = searchInput.value.toLowerCase();
       const tech = techFilter.value;
       const contract = contractFilter.value;
       const remote = remoteFilter.value;
+      const filterSalaryMin = salaryMin.value ? parseFloat(salaryMin.value) : null;
+      const filterSalaryMax = salaryMax.value ? parseFloat(salaryMax.value) : null;
 
       const jobs = document.querySelectorAll('.job-card');
       let count = 0;
@@ -76,6 +191,9 @@ const { techStack, contractTypes, remoteTypes } = Astro.props;
         const techStack = card.dataset.tech?.split(',') ?? [];
         const jobContract = card.dataset.contract ?? '';
         const jobRemote = card.dataset.remote ?? '';
+        const jobSalaryMin = card.dataset.salaryMin ? parseFloat(card.dataset.salaryMin) : null;
+        const jobSalaryMax = card.dataset.salaryMax ? parseFloat(card.dataset.salaryMax) : null;
+        const jobSalaryType = card.dataset.salaryType ?? null;
 
         const matchesSearch = !searchTerm ||
           title.includes(searchTerm) ||
@@ -85,8 +203,9 @@ const { techStack, contractTypes, remoteTypes } = Astro.props;
         const matchesTech = !tech || techStack.includes(tech);
         const matchesContract = !contract || jobContract === contract;
         const matchesRemote = !remote || jobRemote === remote;
+        const matchesSalary = salaryOverlaps(jobSalaryMin, jobSalaryMax, jobSalaryType, filterSalaryMin, filterSalaryMax);
 
-        if (matchesSearch && matchesTech && matchesContract && matchesRemote) {
+        if (matchesSearch && matchesTech && matchesContract && matchesRemote && matchesSalary) {
           card.style.display = '';
           count++;
         } else {
@@ -99,21 +218,32 @@ const { techStack, contractTypes, remoteTypes } = Astro.props;
       }
     }
 
+    function applyFiltersAndSort() {
+      sortJobs();
+      filterJobs();
+    }
+
     searchInput?.addEventListener('input', filterJobs);
     techFilter?.addEventListener('change', filterJobs);
     contractFilter?.addEventListener('change', filterJobs);
     remoteFilter?.addEventListener('change', filterJobs);
+    salaryMin?.addEventListener('input', filterJobs);
+    salaryMax?.addEventListener('input', filterJobs);
+    sortBy?.addEventListener('change', applyFiltersAndSort);
 
     resetBtn?.addEventListener('click', () => {
       searchInput.value = '';
       techFilter.value = '';
       contractFilter.value = '';
       remoteFilter.value = '';
-      filterJobs();
+      sortBy.value = 'newest';
+      salaryMin.value = '';
+      salaryMax.value = '';
+      applyFiltersAndSort();
     });
 
-    // Initial count
-    filterJobs();
+    // Initial sort and count
+    applyFiltersAndSort();
   }
 
   document.addEventListener('DOMContentLoaded', initFilters);
@@ -192,6 +322,48 @@ const { techStack, contractTypes, remoteTypes } = Astro.props;
     color: var(--text);
   }
 
+  .salary-group {
+    min-width: 180px;
+  }
+
+  .salary-inputs {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .salary-inputs input {
+    width: 70px;
+    padding: 0.5rem 0.5rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 0.875rem;
+  }
+
+  .salary-inputs input:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+  }
+
+  .salary-separator {
+    color: var(--text-muted);
+    font-size: 0.875rem;
+  }
+
+  /* Hide number input spinners */
+  .salary-inputs input[type="number"]::-webkit-inner-spin-button,
+  .salary-inputs input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  .salary-inputs input[type="number"] {
+    -moz-appearance: textfield;
+  }
+
   @media (max-width: 640px) {
     .filters {
       flex-direction: column;
@@ -199,6 +371,10 @@ const { techStack, contractTypes, remoteTypes } = Astro.props;
 
     .filter-group {
       width: 100%;
+    }
+
+    .salary-inputs input {
+      flex: 1;
     }
   }
 </style>

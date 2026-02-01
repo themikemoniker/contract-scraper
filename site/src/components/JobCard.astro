@@ -58,7 +58,7 @@ const platformColors: Record<string, string> = {
 };
 ---
 
-<article class="job-card" data-tech={job.tech_stack.join(',')} data-contract={job.contract_type} data-remote={job.remote_type}>
+<article class="job-card" data-tech={job.tech_stack.join(',')} data-contract={job.contract_type} data-remote={job.remote_type} data-salary-min={job.salary_min} data-salary-max={job.salary_max} data-salary-type={job.salary_type} data-posted={job.posted_at}>
   <div class="job-header">
     <div class="job-title-row">
       <h3 class="job-title">
