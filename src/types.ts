@@ -93,6 +93,60 @@ export interface WWRJob {
   region: string;
 }
 
+export interface WorkingNomadsJob {
+  url: string;
+  title: string;
+  description: string;
+  company_name: string;
+  category_name: string;
+  tags: string;
+  location: string;
+  pub_date: string;
+}
+
+export interface RemoteOKJob {
+  slug: string;
+  id: string;
+  company: string;
+  company_logo: string;
+  position: string;
+  tags: string[];
+  description: string;
+  location: string;
+  apply_url: string;
+  salary_min?: number;
+  salary_max?: number;
+  date: string;
+  url: string;
+}
+
+export interface ArbeitnowJob {
+  slug: string;
+  company_name: string;
+  title: string;
+  description: string;
+  remote: boolean;
+  url: string;
+  tags: string[];
+  job_types: string[];
+  location: string;
+  created_at: number;
+}
+
+export interface RemotiveJob {
+  id: number;
+  url: string;
+  title: string;
+  company_name: string;
+  category: string;
+  tags: string[];
+  job_type: 'full_time' | 'contract' | 'freelance';
+  publication_date: string;
+  candidate_required_location: string;
+  salary: string;
+  description: string;
+}
+
 // Analytics types
 export interface AnalyticsData {
   totalJobs: number;

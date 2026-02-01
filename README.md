@@ -16,12 +16,16 @@ A fully automated pipeline that aggregates software engineering contractor oppor
 - **Jobicy** - Remote tech jobs with salary data
 - **Himalayas** - Remote jobs with timezone/location filters
 - **We Work Remotely** - Curated remote programming jobs
+- **Remotive** - Remote jobs with contract/freelance filtering
+- **Remote OK** - Tech-focused with open salary data
+- **Working Nomads** - Nomad-friendly remote positions
+- **Arbeitnow** - European remote jobs
 
 Jobs are deduplicated, enriched with tech stack detection, and published to a static site.
 
 ## Features
 
-- **Multi-source aggregation** - Fetch from 4 free job APIs/feeds
+- **Multi-source aggregation** - Fetch from 8 free job APIs/feeds
 - **Smart deduplication** - Fuzzy matching on company + title
 - **Tech stack detection** - Auto-extract technologies from descriptions
 - **Salary normalization** - Unified hourly/yearly salary data
@@ -32,6 +36,10 @@ Jobs are deduplicated, enriched with tech stack detection, and published to a st
 ## Tech Stack Chart
 
 ![Tech Stack](site/public/badges/tech-stack.svg)
+
+## Salary Distribution
+
+![Salary Histogram](site/public/badges/salary-histogram.svg)
 
 ## Quick Start
 
@@ -84,7 +92,11 @@ contract-scraper/
 │   │   ├── hn.ts            # Hacker News API
 │   │   ├── jobicy.ts        # Jobicy API
 │   │   ├── himalayas.ts     # Himalayas API
-│   │   └── wwr.ts           # WWR RSS
+│   │   ├── wwr.ts           # WWR RSS
+│   │   ├── remotive.ts      # Remotive API
+│   │   ├── remoteok.ts      # Remote OK API
+│   │   ├── workingnomads.ts # Working Nomads API
+│   │   └── arbeitnow.ts     # Arbeitnow API
 │   ├── pipeline/
 │   │   ├── dedupe.ts        # Deduplication logic
 │   │   └── enrich.ts        # Tech stack detection
@@ -111,7 +123,7 @@ Each job is normalized to this schema:
 ```typescript
 interface JobListing {
   id: string;                  // platform:external_id
-  platform: string;            // hn, jobicy, himalayas, wwr
+  platform: string;            // hn, jobicy, himalayas, wwr, remotive, remoteok, workingnomads, arbeitnow
   title: string;
   company: string | null;
   url: string;

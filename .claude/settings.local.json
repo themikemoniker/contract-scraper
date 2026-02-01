@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(node --version:*)",
+      "Bash(source ~/.bashrc)",
+      "Bash(source ~/.zshrc)",
+      "Bash(npm run typecheck:*)",
+      "Bash(npm run lint)",
+      "Bash(npm run build:*)"
+    ]
+  }
+}

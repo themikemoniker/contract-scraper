@@ -2,6 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { fetchAllJobs } from '../fetchers/index.js';
 import { deduplicateJobs } from '../pipeline/dedupe.js';
+import { cleanJobListings } from '../pipeline/enrich.js';
 import { generateAnalytics, generateSVGBadges } from '../analytics/generate.js';
 import type { JobListing } from '../types.js';
 
@@ -24,7 +25,7 @@ async function main() {
   }
 
   // Step 1: Fetch from all sources
-  console.log('[1/4] Fetching jobs from all sources...');
+  console.log('[1/5] Fetching jobs from all sources...');
   const fetchResults = await fetchAllJobs();
 
   // Save raw source data
@@ -39,9 +40,18 @@ async function main() {
   console.log(`     Total fetched: ${allJobs.length} jobs`);
   console.log();
 
-  // Step 2: Deduplicate
-  console.log('[2/4] Deduplicating jobs...');
-  const dedupeResult = deduplicateJobs(allJobs);
+  // Step 2: Clean and enrich data
+  console.log('[2/5] Cleaning and enriching job data...');
+  const cleanedJobs = cleanJobListings(allJobs);
+  const salaryCount = cleanedJobs.filter((j) => j.salary_min !== null).length;
+  const techStackCount = cleanedJobs.filter((j) => j.tech_stack.length > 0).length;
+  console.log(`     Jobs with salary: ${salaryCount}`);
+  console.log(`     Jobs with tech stack: ${techStackCount}`);
+  console.log();
+
+  // Step 3: Deduplicate
+  console.log('[3/5] Deduplicating jobs...');
+  const dedupeResult = deduplicateJobs(cleanedJobs);
   console.log(`     Unique jobs: ${dedupeResult.stats.totalUnique}`);
   console.log(`     Duplicates removed: ${dedupeResult.stats.totalDuplicates}`);
   console.log();
@@ -59,8 +69,8 @@ async function main() {
   console.log(`     Saved to ${jobsPath}`);
   console.log();
 
-  // Step 3: Generate analytics
-  console.log('[3/4] Generating analytics...');
+  // Step 4: Generate analytics
+  console.log('[4/5] Generating analytics...');
   const analytics = generateAnalytics(sortedJobs);
 
   const statsPath = path.join(DATA_DIR, 'stats.json');
@@ -68,8 +78,8 @@ async function main() {
   console.log(`     Saved stats to ${statsPath}`);
   console.log();
 
-  // Step 4: Generate SVG badges
-  console.log('[4/4] Generating SVG badges...');
+  // Step 5: Generate SVG badges
+  console.log('[5/5] Generating SVG badges...');
   generateSVGBadges(analytics, BADGES_DIR);
   console.log();
 

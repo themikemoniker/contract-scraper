@@ -189,6 +189,89 @@ function generateBarChart(
 }
 
 /**
+ * Generate salary histogram SVG showing distribution of salary ranges
+ */
+function generateSalaryHistogram(
+  bySalaryRange: AnalyticsData['bySalaryRange']
+): string {
+  const labels = [
+    { key: 'under50k', label: '<$50k' },
+    { key: '50k-100k', label: '$50-100k' },
+    { key: '100k-150k', label: '$100-150k' },
+    { key: '150k-200k', label: '$150-200k' },
+    { key: 'over200k', label: '$200k+' },
+  ] as const;
+
+  const data = labels.map(({ key, label }) => ({
+    label,
+    value: bySalaryRange[key],
+  }));
+
+  const width = 400;
+  const height = 220;
+  const padding = { top: 30, right: 30, bottom: 60, left: 50 };
+  const chartWidth = width - padding.left - padding.right;
+  const chartHeight = height - padding.top - padding.bottom;
+
+  const maxValue = Math.max(...data.map((d) => d.value), 1);
+  const barWidth = chartWidth / data.length - 10;
+  const barGap = 10;
+
+  // Color gradient for bars (light to dark blue)
+  const colors = ['#93c5fd', '#60a5fa', '#3b82f6', '#2563eb', '#1d4ed8'];
+
+  const bars = data.map((d, i) => {
+    const barHeight = (d.value / maxValue) * chartHeight;
+    const x = padding.left + i * (barWidth + barGap) + barGap / 2;
+    const y = padding.top + chartHeight - barHeight;
+
+    return `
+    <rect x="${x}" y="${y}" width="${barWidth}" height="${barHeight}" fill="${colors[i]}" rx="4"/>
+    <text x="${x + barWidth / 2}" y="${y - 5}" text-anchor="middle" font-size="11" fill="#374151" font-weight="500">${d.value}</text>
+    <text x="${x + barWidth / 2}" y="${height - 25}" text-anchor="middle" font-size="10" fill="#6b7280">${d.label}</text>`;
+  });
+
+  // Y-axis ticks
+  const yTickCount = 5;
+  const yTicks = Array.from({ length: yTickCount + 1 }, (_, i) => {
+    const value = Math.round((maxValue / yTickCount) * i);
+    const y = padding.top + chartHeight - (i / yTickCount) * chartHeight;
+    return `
+    <line x1="${padding.left - 5}" y1="${y}" x2="${padding.left}" y2="${y}" stroke="#d1d5db" stroke-width="1"/>
+    <text x="${padding.left - 10}" y="${y + 4}" text-anchor="end" font-size="10" fill="#6b7280">${value}</text>
+    <line x1="${padding.left}" y1="${y}" x2="${width - padding.right}" y2="${y}" stroke="#f3f4f6" stroke-width="1"/>`;
+  });
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
+  <style>
+    text { font-family: system-ui, -apple-system, sans-serif; }
+  </style>
+  <rect width="${width}" height="${height}" fill="#ffffff" rx="8"/>
+
+  <!-- Title -->
+  <text x="${width / 2}" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="#111827">Salary Distribution</text>
+
+  <!-- Y-axis -->
+  <line x1="${padding.left}" y1="${padding.top}" x2="${padding.left}" y2="${padding.top + chartHeight}" stroke="#d1d5db" stroke-width="1"/>
+
+  <!-- X-axis -->
+  <line x1="${padding.left}" y1="${padding.top + chartHeight}" x2="${width - padding.right}" y2="${padding.top + chartHeight}" stroke="#d1d5db" stroke-width="1"/>
+
+  <!-- Grid lines and Y-axis ticks -->
+  ${yTicks.join('')}
+
+  <!-- Bars -->
+  ${bars.join('')}
+
+  <!-- Y-axis label -->
+  <text x="15" y="${height / 2}" text-anchor="middle" font-size="11" fill="#6b7280" transform="rotate(-90, 15, ${height / 2})">Jobs</text>
+
+  <!-- X-axis label -->
+  <text x="${width / 2}" y="${height - 5}" text-anchor="middle" font-size="11" fill="#6b7280">Annual Salary Range</text>
+</svg>`;
+}
+
+/**
  * Generate all SVG badges and save to disk
  */
 export function generateSVGBadges(analytics: AnalyticsData, outputDir: string): void {
@@ -235,6 +318,12 @@ export function generateSVGBadges(analytics: AnalyticsData, outputDir: string): 
   fs.writeFileSync(
     path.join(outputDir, 'sources-chart.svg'),
     generateBarChart(analytics.bySource, 5)
+  );
+
+  // Salary histogram
+  fs.writeFileSync(
+    path.join(outputDir, 'salary-histogram.svg'),
+    generateSalaryHistogram(analytics.bySalaryRange)
   );
 
   console.log(`[Analytics] Generated SVG badges in ${outputDir}`);
