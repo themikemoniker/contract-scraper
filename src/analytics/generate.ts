@@ -195,7 +195,7 @@ function generateSalaryHistogram(
   bySalaryRange: AnalyticsData['bySalaryRange']
 ): string {
   const labels = [
-    { key: 'under50k', label: '<$50k' },
+    { key: 'under50k', label: '&lt;$50k' },
     { key: '50k-100k', label: '$50-100k' },
     { key: '100k-150k', label: '$100-150k' },
     { key: '150k-200k', label: '$150-200k' },
