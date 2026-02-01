@@ -1,7 +1,7 @@
 {
-  "totalJobs": 577,
+  "totalJobs": 576,
   "bySource": {
-    "jobicy": 59,
+    "jobicy": 58,
     "wwr": 43,
     "hn": 474,
     "himalayas": 1
@@ -12,7 +12,7 @@
     "ansible": 31,
     "jenkins": 12,
     "python": 119,
-    "web3": 6,
+    "web3": 5,
     "kubernetes": 69,
     "terraform": 39,
     "github-actions": 11,
@@ -21,16 +21,16 @@
     "gcp": 36,
     "azure": 27,
     "ethereum": 4,
-    "blockchain": 15,
+    "blockchain": 14,
     "javascript": 106,
     "typescript": 66,
     "supabase": 1,
     "rust": 14,
-    "java": 58,
-    "react": 147,
+    "java": 57,
+    "react": 146,
     "llm": 6,
     "ios": 37,
-    "android": 39,
+    "android": 38,
     "sass": 6,
     "rest": 17,
     "angular": 16,
@@ -45,9 +45,9 @@
     "mysql": 17,
     "grpc": 2,
     "websocket": 1,
-    "kotlin": 17,
+    "kotlin": 16,
     "swift": 12,
-    "react-native": 23,
+    "react-native": 22,
     "graphql": 28,
     "fastapi": 1,
     "vue": 23,
@@ -58,23 +58,22 @@
     "c#": 10,
     "rails": 37,
     "django": 20,
-    "flutter": 4,
     "express": 8,
     "scala": 11,
     "clojure": 4,
     "haskell": 4,
     "elixir": 13,
     "flask": 6,
+    "flutter": 3,
     "sqlite": 2,
     "laravel": 2,
     "circleci": 1
   },
   "byContractType": {
-    "full-time": 576,
-    "contract": 1
+    "full-time": 576
   },
   "byRemoteType": {
-    "remote": 281,
+    "remote": 280,
     "onsite": 229,
     "hybrid": 1
   },
@@ -84,16 +83,16 @@
     "100k-150k": 0,
     "150k-200k": 0,
     "over200k": 0,
-    "unknown": 577
+    "unknown": 576
   },
-  "lastUpdated": "2026-01-31T18:15:07.962Z",
+  "lastUpdated": "2026-02-01T01:03:39.617Z",
   "jobsLast7Days": [
-    0,
     3,
     0,
     8,
     1,
     6,
-    1
+    1,
+    0
   ]
 }
