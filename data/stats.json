@@ -11,15 +11,17 @@
     "himalayas": 1
   },
   "byTechStack": {
+    "python": 148,
+    "java": 70,
+    "aws": 138,
+    "kubernetes": 87,
     "typescript": 78,
-    "python": 147,
     "ruby": 44,
     "react": 159,
     "backbone": 9,
     "django": 27,
     "fastapi": 5,
     "docker": 68,
-    "kubernetes": 86,
     "javascript": 122,
     "nodejs": 67,
     "segment": 7,
@@ -30,7 +32,6 @@
     "git": 30,
     "figma": 11,
     "swift": 14,
-    "aws": 137,
     "c#": 12,
     "angular": 21,
     "aspnet": 6,
@@ -41,7 +42,6 @@
     "hapi": 1,
     "graphql": 34,
     "amplitude": 1,
-    "java": 69,
     "spring": 18,
     "mysql": 26,
     "mongodb": 21,
@@ -168,13 +168,13 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 621,
+    "full-time": 622,
     "contract": 13,
     "freelance": 6,
     "part-time": 3
   },
   "byRemoteType": {
-    "remote": 427,
+    "remote": 428,
     "onsite": 227,
     "hybrid": 1
   },
@@ -186,14 +186,14 @@
     "over200k": 2,
     "unknown": 650
   },
-  "lastUpdated": "2026-02-01T04:53:14.686Z",
+  "lastUpdated": "2026-02-01T04:56:26.083Z",
   "jobsLast7Days": [
-    3,
-    28,
-    29,
-    12,
-    15,
-    90,
-    24
+    4,
+    35,
+    30,
+    16,
+    77,
+    31,
+    8
   ]
 }
