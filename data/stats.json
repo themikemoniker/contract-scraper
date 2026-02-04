@@ -11,25 +11,28 @@
     "himalayas": 1
   },
   "byTechStack": {
+    "java": 72,
+    "kotlin": 21,
+    "react": 164,
+    "github-actions": 19,
+    "llm": 19,
+    "ios": 41,
+    "android": 41,
     "python": 152,
     "machine-learning": 92,
     "spark": 20,
-    "typescript": 81,
+    "typescript": 80,
     "javascript": 126,
     "segment": 6,
-    "java": 72,
-    "kotlin": 21,
-    "react": 165,
     "angular": 24,
     "spring": 16,
     "aws": 147,
-    "azure": 47,
+    "azure": 45,
     "git": 37,
     "terraform": 53,
     "ansible": 35,
     "linux": 43,
     "backbone": 7,
-    "llm": 19,
     "kubernetes": 87,
     "gitlab": 17,
     "prometheus": 21,
@@ -43,9 +46,6 @@
     "go": 21,
     "grpc": 3,
     "jenkins": 20,
-    "github-actions": 19,
-    "ios": 41,
-    "android": 41,
     "dynamodb": 9,
     "rag": 2,
     "playwright": 2,
@@ -169,8 +169,8 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "contract": 5,
-    "freelance": 13,
+    "contract": 6,
+    "freelance": 11,
     "full-time": 618
   },
   "byRemoteType": {
@@ -186,14 +186,14 @@
     "over200k": 1,
     "unknown": 664
   },
-  "lastUpdated": "2026-02-04T00:53:42.149Z",
+  "lastUpdated": "2026-02-04T06:34:22.941Z",
   "jobsLast7Days": [
     2,
     6,
     1,
-    53,
+    52,
     29,
-    115,
-    0
+    112,
+    4
   ]
 }
