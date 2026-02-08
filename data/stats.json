@@ -1,16 +1,22 @@
 {
-  "totalJobs": 801,
+  "totalJobs": 803,
   "bySource": {
     "arbeitnow": 79,
+    "jobicy": 64,
     "remoteok": 91,
     "remotive": 22,
     "wwr": 57,
-    "jobicy": 62,
     "workingnomads": 18,
     "hn": 472
   },
   "byTechStack": {
-    "python": 163,
+    "gitlab": 20,
+    "graphql": 40,
+    "typescript": 86,
+    "python": 164,
+    "rust": 19,
+    "angular": 31,
+    "sass": 9,
     "java": 76,
     "aws": 142,
     "kubernetes": 87,
@@ -25,7 +31,7 @@
     "nats": 2,
     "php": 17,
     "mysql": 30,
-    "git": 41,
+    "git": 40,
     "vscode": 2,
     "pandas": 4,
     "numpy": 3,
@@ -36,16 +42,14 @@
     "spring": 17,
     "linux": 46,
     "javascript": 130,
-    "typescript": 85,
     "react": 165,
     "nextjs": 14,
     "blockchain": 25,
     "webpack": 6,
-    "figma": 13,
+    "figma": 12,
     "amplitude": 1,
     "mixpanel": 1,
     "vue": 30,
-    "angular": 30,
     "nodejs": 68,
     "backbone": 8,
     "astro": 1,
@@ -58,7 +62,6 @@
     "sqs": 5,
     "pubsub": 1,
     "terraform": 55,
-    "gitlab": 19,
     "bash": 16,
     "ansible": 37,
     "github-actions": 15,
@@ -96,14 +99,11 @@
     "nginx": 4,
     "kotlin": 20,
     "unix": 6,
-    "graphql": 38,
-    "sass": 8,
     "stripe": 7,
     "rocket": 1,
     "airflow": 9,
     "web3": 5,
     "phoenix": 7,
-    "rust": 18,
     "swift": 13,
     "dart": 4,
     "flutter": 6,
@@ -172,32 +172,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 637,
+    "full-time": 639,
     "freelance": 11,
     "part-time": 4,
     "contract": 10
   },
   "byRemoteType": {
-    "remote": 443,
+    "remote": 444,
     "onsite": 227,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 111,
+    "under50k": 110,
     "50k-100k": 9,
-    "100k-150k": 15,
+    "100k-150k": 17,
     "150k-200k": 7,
     "over200k": 3,
-    "unknown": 656
+    "unknown": 657
   },
-  "lastUpdated": "2026-02-08T06:34:18.401Z",
+  "lastUpdated": "2026-02-08T12:01:37.694Z",
   "jobsLast7Days": [
     5,
-    27,
+    26,
     44,
     12,
-    61,
-    48,
-    7
+    58,
+    49,
+    12
   ]
 }
