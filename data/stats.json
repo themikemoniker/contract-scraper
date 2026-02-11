@@ -1,23 +1,25 @@
 {
-  "totalJobs": 816,
+  "totalJobs": 815,
   "bySource": {
-    "arbeitnow": 92,
+    "arbeitnow": 93,
     "wwr": 64,
     "jobicy": 61,
-    "remoteok": 93,
-    "remotive": 22,
+    "remoteok": 92,
+    "remotive": 21,
     "workingnomads": 12,
     "hn": 472
   },
   "byTechStack": {
-    "javascript": 131,
+    "javascript": 132,
     "typescript": 88,
     "rust": 21,
     "go": 25,
     "kubernetes": 87,
+    "php": 19,
+    "mysql": 28,
+    "python": 166,
     "nodejs": 66,
     "spark": 24,
-    "python": 165,
     "java": 75,
     "machine-learning": 100,
     "ios": 45,
@@ -38,7 +40,7 @@
     "grafana": 22,
     "nginx": 5,
     "kafka": 19,
-    "figma": 12,
+    "figma": 13,
     "segment": 7,
     "oracle": 15,
     "llm": 23,
@@ -46,7 +48,6 @@
     "angular": 25,
     "tailwind": 2,
     "vite": 3,
-    "mysql": 27,
     "mariadb": 1,
     "docker": 76,
     "apache": 11,
@@ -93,7 +94,6 @@
     "saml": 2,
     "sso": 5,
     "twilio": 3,
-    "php": 18,
     "laravel": 5,
     "redis": 38,
     "mlops": 6,
@@ -173,31 +173,31 @@
   },
   "byContractType": {
     "full-time": 635,
+    "contract": 15,
     "freelance": 11,
-    "contract": 14,
     "part-time": 3
   },
   "byRemoteType": {
-    "remote": 441,
+    "remote": 440,
     "onsite": 227,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 111,
+    "under50k": 110,
     "50k-100k": 11,
     "100k-150k": 17,
     "150k-200k": 9,
     "over200k": 3,
     "unknown": 665
   },
-  "lastUpdated": "2026-02-11T01:05:23.565Z",
+  "lastUpdated": "2026-02-11T06:46:11.155Z",
   "jobsLast7Days": [
     12,
     18,
     21,
     8,
     19,
-    98,
-    0
+    96,
+    5
   ]
 }
