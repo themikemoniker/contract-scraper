@@ -1,5 +1,110 @@
 [
   {
+    "id": "jobicy:139487",
+    "platform": "jobicy",
+    "external_id": "139487",
+    "title": "Automation QA Engineer",
+    "company": "PriceLabs",
+    "description": "About the Role: We are looking for a Quality Gatekeeper to join PriceLabs, a fast-paced leader in revenue management software. We deal with complex data, dynamic pricing algorithms, and high-traffic dashboards. In this role, you won&#8217;t just write scripts; you will own the automation architecture. You will work side-by-side with Developers and Product Managers to ensure that our React-based platform is robust, reliable, and ready for deployment. You will build scalable automation frameworks that catch regressions before they reach our users. This role is fully remote and open to individuals who reside in India . Key Responsibilities: Architect the Framework: Design, build, and maintain a scalable E2E automation framework using Cypress.io and Java Script . Focus on reusability, stability (handling flakes), and speed. API &amp; Backend Validation: Go beyond the UI. Implement API automation (using cy.request or tools like Postman/Rest-Assured) and write complex SQL queries to validate our pricing logic and data accuracy. CI/CD Integration: Own the &#8220;Quality Pipeline.&#8221; Collaborate with DevOps to integrate automated tests into Jenkins , ensuring rapid feedback loops for every commit. Shift-Left Quality: Participate in design and requirement reviews (grooming) to identify test scenarios early. Advocate for testability in the codebase. Defect Management: Identify, document, and track defects in Jira/ClickUp . Provide developers with detailed root-cause analysis (logs, screenshots, network traces) rather than just &#8220;bug reports.&#8221; Continuous Improvement: Stay updated on Cypress features (e.g., Component Testing, Cypress Studio) and industry trends to continuously optimize our testing strategy. What We Are Looking For (The Must-Haves): Automation Expertise: 3+ years of hands-on automation experience in Cypress.io . Strong Coding Skills: Proficient in TypeScript or JavaScript (ES6+) . You understand asynchronous code, promises, and the DOM. The &#8220;SDET&#8221; Mindset: You treat test code like production code—clean, modular, and version-controlled (Git/Bitbucket). Database Proficiency: Comfortable writing SQL joins and queries to verify data persistence and business logic. API Testing: Solid understanding of RESTful services and experience automating API tests. Tooling: Experience with CI/CD tools (Jenkins), Test Management (BrowserStack/ClickUp), and Cross-browser testing (BrowserStack). Nice to Have (The Differentiators): Experience testing in Native React.js Mobile applications is a huge plus. Experience with Visual Regression Testing tools (e.g., Percy, Applitools). Background in FinTech, SaaS, or data-heavy industries. How to apply for this role? Please fill out the form with the required details. If your profile is shortlisted, our team will reach out to you via email. If you don&#8217;t find the emails in your inbox, please check your spam folder.Tip: Avoid using AI-generated responses. We want to hear from you! About PriceLabs: PriceLabs is a revenue management solution for the short-term rental and hospitality industry, founded in 2014 and headquartered in Chicago, IL. Our platform helps individual hosts and hospitality professionals optimize their pricing and revenue management, adapting to changing market trends and occupancy levels. With dynamic pricing, automation rules, and customizations, we manage pricing and minimum-stay restrictions for any portfolio size, with prices automatically uploaded to preferred channels.Every day, we price over 500,000+ listings globally across 150+ countries, offering world-class tools like the Base Price Help and Minimum Stay Recommendation Engine. In 2025, we scaled to; 500K+ properties syncing daily 60K+ customers worldwide 300+ globally remote team 36% diversity Industry awards won: SaasBoomi 2021 The Shortyz 2020 The Shortyz 2023 STRive Awards 2025 We continue to grow exponentially, backed by a strong team to take us to the next level. Why join PriceLabs? Work with an industry-leading product that has thousands of customers worldwide, and our customers love the product! (NPS in the 70s, Customer reviews here ) Work with a global team (19 countries and counting) of passionate individuals who accept open communication, empowerment, and a shared focus on customer success. We are a remote-first organisation and accept work from home as the norm. PriceLabs is an equal-opportunity employer. We are committed to providing equal opportunity in all aspects of employment. We do not discriminate based on race, colour, religious creed, national origin, ancestry, sex, age, veteran status, marital status or physical challenges.",
+    "url": "https://jobicy.com/jobs/139487-automation-qa-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "react",
+      "jenkins",
+      "cypress",
+      "rest",
+      "git"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-02-13T15:07:54+00:00",
+    "fetched_at": "2026-02-13T18:28:11.388Z",
+    "raw": {
+      "id": 139487,
+      "url": "https://jobicy.com/jobs/139487-automation-qa-engineer",
+      "jobSlug": "139487-automation-qa-engineer",
+      "jobTitle": "Automation QA Engineer",
+      "companyName": "PriceLabs",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/1282d70c-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Midweight",
+      "jobExcerpt": "About the Role:We are looking for a Quality Gatekeeper to join PriceLabs, a fast-paced leader in revenue management software. We deal with complex data, dynamic pricing algorithms, and high-traffic dashboards.In...",
+      "jobDescription": "<strong><u>About the Role:</u></strong><br /><p>We are looking for a <b>Quality Gatekeeper</b> to join PriceLabs, a fast-paced leader in revenue management software. We deal with complex data, dynamic pricing algorithms, and high-traffic dashboards.<br />In this role, you won&#8217;t just write scripts; you will own the automation architecture. You will work side-by-side with Developers and Product Managers to ensure that our React-based platform is robust, reliable, and ready for deployment. You will build scalable automation frameworks that catch regressions before they reach our users. <br><em>This role is <strong>fully remote</strong> and open to individuals <strong>who reside in India</strong>. </em><br><strong><u>Key Responsibilities:</u></strong></p><ul><li><b>Architect the Framework:</b> Design, build, and maintain a scalable E2E automation framework using <b><a href=\"http://Cypress.io\" rel=\"nofollow ugc noopener\" target=\"_blank\">Cypress.io</a></b> and <strong>Java</strong><b><strong>Script</strong></b>. Focus on reusability, stability (handling flakes), and speed.</li><li><b>API &amp; Backend Validation:</b> Go beyond the UI. Implement API automation (using cy.request or tools like Postman/Rest-Assured) and write complex <b>SQL queries</b> to validate our pricing logic and data accuracy.</li><li><b>CI/CD Integration:</b> Own the &#8220;Quality Pipeline.&#8221; Collaborate with DevOps to integrate automated tests into <b>Jenkins</b>, ensuring rapid feedback loops for every commit.</li><li><b>Shift-Left Quality:</b> Participate in design and requirement reviews (grooming) to identify test scenarios early. Advocate for testability in the codebase.</li><li><b>Defect Management:</b> Identify, document, and track defects in <b>Jira/ClickUp</b>. Provide developers with detailed root-cause analysis (logs, screenshots, network traces) rather than just &#8220;bug reports.&#8221;</li><li><b>Continuous Improvement:</b> Stay updated on Cypress features (e.g., Component Testing, Cypress Studio) and industry trends to continuously optimize our testing strategy.</li></ul><br><b><u>What We Are Looking For (The Must-Haves):</u></b><br><ul><li><b>Automation Expertise:</b> 3+ years of hands-on automation experience in <b><a href=\"http://Cypress.io\" rel=\"nofollow ugc noopener\" target=\"_blank\">Cypress.io</a></b>.</li><li><b>Strong Coding Skills:</b> Proficient in <b>TypeScript</b> or <b>JavaScript (ES6+)</b>. You understand asynchronous code, promises, and the DOM.</li><li><b>The &#8220;SDET&#8221; Mindset:</b> You treat test code like production code—clean, modular, and version-controlled (Git/Bitbucket).</li><li><b>Database Proficiency:</b> Comfortable writing SQL joins and queries to verify data persistence and business logic.</li><li><b>API Testing:</b> Solid understanding of RESTful services and experience automating API tests.</li><li><b>Tooling:</b> Experience with CI/CD tools (Jenkins), Test Management (BrowserStack/ClickUp), and Cross-browser testing (BrowserStack).</li></ul><br><b>Nice to Have (The Differentiators):</b><ul><li>Experience testing in <b>Native React.js</b> Mobile applications is a huge plus.</li><li>Experience with Visual Regression Testing tools (e.g., Percy, Applitools).</li><li>Background in FinTech, SaaS, or data-heavy industries.</li></ul><br><strong><u>How to apply for this role?</u></strong><br /><p>Please fill out the form with the required details. If your profile is shortlisted, our team will reach out to you via email. If you don&#8217;t find the emails in your inbox, please check your spam folder.Tip: Avoid using AI-generated responses. We want to hear from you!<br /><strong><u>About PriceLabs:</u></strong><br>PriceLabs is a revenue management solution for the short-term rental and hospitality industry, founded in 2014 and headquartered in Chicago, IL. Our platform helps individual hosts and hospitality professionals optimize their pricing and revenue management, adapting to changing market trends and occupancy levels.<br>With dynamic pricing, automation rules, and customizations, we manage pricing and minimum-stay restrictions for any portfolio size, with prices automatically uploaded to preferred channels.Every day, we price over 500,000+ listings globally across 150+ countries, offering world-class tools like the Base Price Help and Minimum Stay Recommendation Engine.<br><em>In 2025, we scaled to;</em></p><ul><li>500K+ properties syncing daily</li><li>60K+ customers worldwide</li><li>300+ globally remote team</li><li>36% diversity</li></ul><br><em>Industry awards won:</em><ul><li>SaasBoomi 2021</li><li>The Shortyz 2020</li><li>The Shortyz 2023</li><li>STRive Awards 2025</li></ul><p>We continue to grow exponentially, backed by a strong team to take us to the next level. <strong><u>Why join PriceLabs?</u></strong> </p><ul><li>Work with an industry-leading product that has thousands of customers worldwide, and our customers love the product! (NPS in the 70s, <a href=\"https://www.capterra.com/p/158348/PriceLabs/reviews/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Customer reviews here</a>)</li><li>Work with a global team (19 countries and counting) of passionate individuals who accept open communication, empowerment, and a shared focus on customer success.</li><li>We are a remote-first organisation and accept work from home as the norm.</li></ul><p>PriceLabs is an equal-opportunity employer. We are committed to providing equal opportunity in all aspects of employment. We do not discriminate based on race, colour, religious creed, national origin, ancestry, sex, age, veteran status, marital status or physical challenges.</p>",
+      "pubDate": "2026-02-13T15:07:54+00:00"
+    }
+  },
+  {
+    "id": "jobicy:139481",
+    "platform": "jobicy",
+    "external_id": "139481",
+    "title": "Project Delivery Specialist &amp;#8211; Lead API Developer",
+    "company": "Deloitte",
+    "description": "Project Delivery Specialist &#8211; Lead API Developer &#8211; Remote Engineering and Product | Software Engineering Cincinnati, Ohio, United States Position Summary Lead API Developer &#8211; Project Delivery Specialist Are you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced Lead API Developer, you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. If so, consider an opportunity with Deloitte under our Project Delivery Talent Model. Project Delivery Model (PDM) is a talent model that is tailored specifically for long-term, onsite client service delivery. Work you’ll do/Responsibilities Lead design and development of domain APIs (REST/GraphQL/event-driven, as applicable) aligned to domain models and business capabilities. Own end-to-end delivery: requirements translation, technical design, implementation, testing, deployment, and production support handoff. Define and enforce API standards: naming/versioning, error handling, pagination, idempotency, backward compatibility, and documentation. Produce high-quality API artifacts: OpenAPI/Swagger specs, examples, SDK/stub guidance, and consumer onboarding materials. Implement security controls: OAuth2/OIDC, JWT, mTLS (as applicable), authorization patterns, secrets management, and threat modeling inputs. Establish observability: structured logging, distributed tracing, metrics, SLOs (service level objectives), and alerting. Drive performance and reliability: caching, rate limiting, resilience patterns (timeouts/retries/circuit breakers), and capacity planning. Collaborate with domain teams on data access patterns and persistence (SQL/NoSQL), transaction boundaries, and eventing. Guide CI/CD (continuous integration/continuous delivery) and quality practices: unit/integration tests, contract tests, static analysis, code reviews. Mentor and coach engineers; lead technical spikes, resolve blockers, and contribute to roadmap planning. Partner with API governance/platform teams (e.g., API gateway, developer portal) to ensure compliance and consistency. Communicate regularly with Engagement Managers (Directors), project team members, and representatives from various functional and / or technical teams, including escalating any matters that require additional attention and consideration from engagement management Independently and collaboratively lead client engagement workstreams focused on improvement, optimization, and transformation of processes including implementing leading practice workflows, addressing deficits in quality, and driving operational outcomes The Team Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creatives, designers, engineers, and architects. Our team balances business strategy, technology, creativity, and ongoing managed services to solve the biggest problems that affect customers, partners, constituents, and the workforce. Our Hybrid Cloud &amp; Infrastructure Engineering teams works with the Customer group to bring a flexible capability and fluid capacity model to the delivery of small technology projects and enhancements. Qualifications Required: 7+yrs experience with Java/Go/Rust, REST, GraphQL, Oauth, Git 7+ years of software engineering experience, including significant API/service development experience. Proven technical leadership (tech lead for a squad/service area; design ownership; mentoring). Strong knowledge of API design principles and patterns (REST maturity, versioning, contracts). Experience with at least one mainstream backend stack (e.g., Java/Spring, .NET, Node.js, Python) and microservices architecture. Experience with databases and data modeling; familiarity with distributed systems concepts. Strong communication skills and ability to lead onshore collaboration with cross-functional stakeholders. Ability to lead onshore stakeholder communication and drive resolution under time pressure. Bachelor&#8217;s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience Limited immigration sponsorship may be available Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve Information for applicants with a need for accommodation: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html Deloitte is committed to providing reasonable accommodations for people with disabilities. If you require a reasonable accommodation to participate in the recruiting process, please direct your inquiries to the Global Call Center (GCC) at USTalentCICInbox@deloitte.com. Recruiting tips From developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. Check out recruiting tips from Deloitte recruiters. Benefits At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Learn more about what working at Deloitte can mean for you. Our people and culture Our inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas, and perspectives, and bring more creativity and innovation to help solve our clients&#8217; most complex challenges. This makes Deloitte one of the most rewarding places to work. Our purpose Deloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities. Learn more. Professional development From entry-level employees to senior leaders, we believe there’s always room to learn. We offer opportunities to build new skills, take on leadership opportunities and connect and grow through mentorship. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career. As used in this posting, &#8220;Deloitte&#8221; means Deloitte Consulting LLP, a subsidiary of Deloitte LLP. Please see https://www.deloitte.com/us/about for a detailed description of the legal structure of Deloitte LLP and its subsidiaries. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law. Requisition code: 324165 Job ID 324165",
+    "url": "https://jobicy.com/jobs/139481-project-delivery-specialist-lead-api-developer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "rust",
+      "java",
+      "nodejs",
+      "spring",
+      "graphql",
+      "git",
+      "oauth",
+      "jwt"
+    ],
+    "tags": [
+      "Programming"
+    ],
+    "posted_at": "2026-02-13T15:07:45+00:00",
+    "fetched_at": "2026-02-13T18:28:11.389Z",
+    "raw": {
+      "id": 139481,
+      "url": "https://jobicy.com/jobs/139481-project-delivery-specialist-lead-api-developer",
+      "jobSlug": "139481-project-delivery-specialist-lead-api-developer",
+      "jobTitle": "Project Delivery Specialist &amp;#8211; Lead API Developer",
+      "companyName": "Deloitte",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/09/370c2482dacb3fffbd4043cfca5674fe.png",
+      "jobIndustry": [
+        "Programming"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Project Delivery Specialist &amp;#8211; Lead API Developer &amp;#8211; Remote Engineering and Product | Software Engineering Cincinnati, Ohio, United States Position Summary Lead API Developer &amp;#8211; Project Delivery SpecialistAre you an...",
+      "jobDescription": "<h2> Project Delivery Specialist &#8211; Lead API Developer &#8211; Remote </h2>Engineering and Product<p> | Software Engineering </p><p>Cincinnati, Ohio, United States</p><h2> Position Summary </h2> <p><strong>Lead API Developer &#8211; Project Delivery Specialist</strong></p><p>Are you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced <strong>Lead API Developer,</strong> you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. If so, consider an opportunity with Deloitte under our Project Delivery Talent Model. Project Delivery Model (PDM) is a talent model that is tailored specifically for long-term, onsite client service delivery.</p><p> <strong>Work you’ll do/Responsibilities </strong> </p><ul><li>Lead design and development of domain APIs (REST/GraphQL/event-driven, as applicable) aligned to domain models and business capabilities.</li><li>Own end-to-end delivery: requirements translation, technical design, implementation, testing, deployment, and production support handoff.</li><li>Define and enforce API standards: naming/versioning, error handling, pagination, idempotency, backward compatibility, and documentation.</li><li>Produce high-quality API artifacts: OpenAPI/Swagger specs, examples, SDK/stub guidance, and consumer onboarding materials.</li><li>Implement security controls: OAuth2/OIDC, JWT, mTLS (as applicable), authorization patterns, secrets management, and threat modeling inputs.</li><li>Establish observability: structured logging, distributed tracing, metrics, SLOs (service level objectives), and alerting.</li><li>Drive performance and reliability: caching, rate limiting, resilience patterns (timeouts/retries/circuit breakers), and capacity planning.</li><li>Collaborate with domain teams on data access patterns and persistence (SQL/NoSQL), transaction boundaries, and eventing.</li><li>Guide CI/CD (continuous integration/continuous delivery) and quality practices: unit/integration tests, contract tests, static analysis, code reviews.</li><li>Mentor and coach engineers; lead technical spikes, resolve blockers, and contribute to roadmap planning.</li><li>Partner with API governance/platform teams (e.g., API gateway, developer portal) to ensure compliance and consistency.</li><li>Communicate regularly with Engagement Managers (Directors), project team members, and representatives from various functional and / or technical teams, including escalating any matters that require additional attention and consideration from engagement management</li><li>Independently and collaboratively lead client engagement workstreams focused on improvement, optimization, and transformation of processes including implementing leading practice workflows, addressing deficits in quality, and driving operational outcomes</li></ul><p><strong>The Team </strong></p><p>Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creatives, designers, engineers, and architects. Our team balances business strategy, technology, creativity, and ongoing managed services to solve the biggest problems that affect customers, partners, constituents, and the workforce.</p><p>Our Hybrid Cloud &amp; Infrastructure Engineering teams works with the Customer group to bring a flexible capability and fluid capacity model to the delivery of small technology projects and enhancements.</p><p><strong>Qualifications</strong></p><p><strong>Required:</strong></p><ul><li>7+yrs experience with Java/Go/Rust, REST, GraphQL, Oauth, Git</li><li>7+ years of software engineering experience, including significant API/service development experience.</li><li>Proven technical leadership (tech lead for a squad/service area; design ownership; mentoring).</li><li>Strong knowledge of API design principles and patterns (REST maturity, versioning, contracts).</li><li>Experience with at least one mainstream backend stack (e.g., Java/Spring, .NET, Node.js, Python) and microservices architecture.</li><li>Experience with databases and data modeling; familiarity with distributed systems concepts.</li><li>Strong communication skills and ability to lead onshore collaboration with cross-functional stakeholders.</li><li>Ability to lead onshore stakeholder communication and drive resolution under time pressure.</li><li>Bachelor&#8217;s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience</li><li>Limited immigration sponsorship may be available</li><li>Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve</li></ul><p>Information for applicants with a need for accommodation: <a href=\"https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html</a></p> Deloitte is committed to providing reasonable accommodations for people with disabilities. If you require a reasonable accommodation to participate in the recruiting process, please direct your inquiries to the Global Call Center (GCC) at USTalentCICInbox@deloitte.com. <strong>Recruiting tips</strong><br />From developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. <a href=\"https://www2.deloitte.com/us/en/pages/careers/topics/recruiting-tips.html\" rel=\"nofollow ugc noopener\" target=\"_blank\">Check out recruiting tips from Deloitte recruiters.</a> <strong>Benefits</strong><br />At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. <a href=\"https://www2.deloitte.com/us/en/pages/careers/articles/life-at-deloitte-benefits-and-rewards-usdc.html\" rel=\"nofollow ugc noopener\" target=\"_blank\">Learn more about what working at Deloitte can mean for you.</a> <strong>Our people and culture</strong><br />Our inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas, and perspectives, and bring more creativity and innovation to help solve our clients&#8217; most complex challenges. This makes Deloitte one of the most rewarding places to work. <strong>Our purpose</strong><br>Deloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities. <a href=\"https://www2.deloitte.com/us/en/pages/about-deloitte/articles/purpose-at-deloitte-us.html\" rel=\"nofollow ugc noopener\" target=\"_blank\">Learn more.</a> <strong>Professional development</strong><br />From entry-level employees to senior leaders, we believe there’s always room to learn. We offer opportunities to build new skills, take on leadership opportunities and connect and grow through mentorship. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career. As used in this posting, &#8220;Deloitte&#8221; means Deloitte Consulting LLP, a subsidiary of Deloitte LLP. Please see <a href=\"https://www.deloitte.com/us/about\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.deloitte.com/us/about</a> for a detailed description of the legal structure of Deloitte LLP and its subsidiaries.<br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law. Requisition code: 324165 Job ID 324165",
+      "pubDate": "2026-02-13T15:07:45+00:00"
+    }
+  },
+  {
     "id": "jobicy:139467",
     "platform": "jobicy",
     "external_id": "139467",
@@ -33,7 +138,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-12T18:33:04+00:00",
-    "fetched_at": "2026-02-13T12:28:01.818Z",
+    "fetched_at": "2026-02-13T18:28:11.390Z",
     "raw": {
       "id": 139467,
       "url": "https://jobicy.com/jobs/139467-frontend-developer-i-daylight-2",
@@ -80,7 +185,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-11T04:21:30+00:00",
-    "fetched_at": "2026-02-13T12:28:01.819Z",
+    "fetched_at": "2026-02-13T18:28:11.391Z",
     "raw": {
       "id": 139428,
       "url": "https://jobicy.com/jobs/139428-senior-enterprise-solution-architect",
@@ -136,7 +241,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:55:33+00:00",
-    "fetched_at": "2026-02-13T12:28:01.820Z",
+    "fetched_at": "2026-02-13T18:28:11.392Z",
     "raw": {
       "id": 139389,
       "url": "https://jobicy.com/jobs/139389-solutions-architect-3",
@@ -189,7 +294,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:55:32+00:00",
-    "fetched_at": "2026-02-13T12:28:01.821Z",
+    "fetched_at": "2026-02-13T18:28:11.394Z",
     "raw": {
       "id": 139388,
       "url": "https://jobicy.com/jobs/139388-senior-software-engineer-backend-2",
@@ -240,7 +345,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:54:22+00:00",
-    "fetched_at": "2026-02-13T12:28:01.823Z",
+    "fetched_at": "2026-02-13T18:28:11.395Z",
     "raw": {
       "id": 139381,
       "url": "https://jobicy.com/jobs/139381-senior-software-engineer-new-product",
@@ -290,7 +395,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-08T06:19:20+00:00",
-    "fetched_at": "2026-02-13T12:28:01.824Z",
+    "fetched_at": "2026-02-13T18:28:11.397Z",
     "raw": {
       "id": 139320,
       "url": "https://jobicy.com/jobs/139320-staff-product-security-architect",
@@ -344,7 +449,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-08T06:19:09+00:00",
-    "fetched_at": "2026-02-13T12:28:01.825Z",
+    "fetched_at": "2026-02-13T18:28:11.398Z",
     "raw": {
       "id": 139313,
       "url": "https://jobicy.com/jobs/139313-sr-frontend-engineer",
@@ -397,7 +502,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-05T17:27:26+00:00",
-    "fetched_at": "2026-02-13T12:28:01.829Z",
+    "fetched_at": "2026-02-13T18:28:11.402Z",
     "raw": {
       "id": 139270,
       "url": "https://jobicy.com/jobs/139270-sr-full-stack-developer",
@@ -444,7 +549,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-05T17:26:41+00:00",
-    "fetched_at": "2026-02-13T12:28:01.830Z",
+    "fetched_at": "2026-02-13T18:28:11.403Z",
     "raw": {
       "id": 139255,
       "url": "https://jobicy.com/jobs/139255-erp-senior-solution-architect-retail-distribution-consumer-goods-industries",
@@ -500,7 +605,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-05T17:26:36+00:00",
-    "fetched_at": "2026-02-13T12:28:01.831Z",
+    "fetched_at": "2026-02-13T18:28:11.404Z",
     "raw": {
       "id": 139253,
       "url": "https://jobicy.com/jobs/139253-senior-full-stack-next-js-developer",
@@ -543,7 +648,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-04T16:59:28+00:00",
-    "fetched_at": "2026-02-13T12:28:01.832Z",
+    "fetched_at": "2026-02-13T18:28:11.405Z",
     "raw": {
       "id": 139213,
       "url": "https://jobicy.com/jobs/139213-mechanical-engineer-life-sciences",
@@ -592,7 +697,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-04T16:59:26+00:00",
-    "fetched_at": "2026-02-13T12:28:01.832Z",
+    "fetched_at": "2026-02-13T18:28:11.405Z",
     "raw": {
       "id": 139212,
       "url": "https://jobicy.com/jobs/139212-react-native-engineer-remote-latam-2",
@@ -641,7 +746,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-04T16:59:24+00:00",
-    "fetched_at": "2026-02-13T12:28:01.833Z",
+    "fetched_at": "2026-02-13T18:28:11.406Z",
     "raw": {
       "id": 139211,
       "url": "https://jobicy.com/jobs/139211-sr-solutions-enterprise-architect",
@@ -693,7 +798,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-04T16:59:19+00:00",
-    "fetched_at": "2026-02-13T12:28:01.835Z",
+    "fetched_at": "2026-02-13T18:28:11.408Z",
     "raw": {
       "id": 139208,
       "url": "https://jobicy.com/jobs/139208-senior-solutions-architect",
@@ -740,7 +845,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-04T16:59:15+00:00",
-    "fetched_at": "2026-02-13T12:28:01.836Z",
+    "fetched_at": "2026-02-13T18:28:11.409Z",
     "raw": {
       "id": 139206,
       "url": "https://jobicy.com/jobs/139206-ai-advisor-ai-native-engineering",
@@ -791,7 +896,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:22:47+00:00",
-    "fetched_at": "2026-02-13T12:28:01.837Z",
+    "fetched_at": "2026-02-13T18:28:11.410Z",
     "raw": {
       "id": 139165,
       "url": "https://jobicy.com/jobs/139165-freelance-mechanical-engineering-python-expert-ai-trainer",
@@ -844,7 +949,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-03T05:22:46+00:00",
-    "fetched_at": "2026-02-13T12:28:01.837Z",
+    "fetched_at": "2026-02-13T18:28:11.410Z",
     "raw": {
       "id": 139164,
       "url": "https://jobicy.com/jobs/139164-freelance-python-test-framework-specialist-ai-trainer",
@@ -910,7 +1015,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:22:42+00:00",
-    "fetched_at": "2026-02-13T12:28:01.838Z",
+    "fetched_at": "2026-02-13T18:28:11.411Z",
     "raw": {
       "id": 139162,
       "url": "https://jobicy.com/jobs/139162-senior-software-engineer-product-platform",
@@ -956,7 +1061,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:21:56+00:00",
-    "fetched_at": "2026-02-13T12:28:01.839Z",
+    "fetched_at": "2026-02-13T18:28:11.412Z",
     "raw": {
       "id": 139150,
       "url": "https://jobicy.com/jobs/139150-forward-deployed-engineering-intern-ai-agent",
@@ -1004,7 +1109,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:21:26+00:00",
-    "fetched_at": "2026-02-13T12:28:01.840Z",
+    "fetched_at": "2026-02-13T18:28:11.413Z",
     "raw": {
       "id": 139145,
       "url": "https://jobicy.com/jobs/139145-backend-engineer-database-excellence-ruby",
@@ -1062,7 +1167,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:21:22+00:00",
-    "fetched_at": "2026-02-13T12:28:01.842Z",
+    "fetched_at": "2026-02-13T18:28:11.415Z",
     "raw": {
       "id": 139142,
       "url": "https://jobicy.com/jobs/139142-staff-frontend-engineer-ccxp",
@@ -1107,7 +1212,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-31T07:16:03+00:00",
-    "fetched_at": "2026-02-13T12:28:01.842Z",
+    "fetched_at": "2026-02-13T18:28:11.416Z",
     "raw": {
       "id": 139076,
       "url": "https://jobicy.com/jobs/139076-staff-backend-engineer-game-team",
@@ -1160,7 +1265,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-30T05:48:37+00:00",
-    "fetched_at": "2026-02-13T12:28:01.844Z",
+    "fetched_at": "2026-02-13T18:28:11.417Z",
     "raw": {
       "id": 139042,
       "url": "https://jobicy.com/jobs/139042-senior-backend-engineer-grafana-k6-germany-remote",
@@ -1217,7 +1322,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-30T05:48:35+00:00",
-    "fetched_at": "2026-02-13T12:28:01.845Z",
+    "fetched_at": "2026-02-13T18:28:11.419Z",
     "raw": {
       "id": 139041,
       "url": "https://jobicy.com/jobs/139041-senior-backend-engineer-grafana-k6-spain-remote",
@@ -1274,7 +1379,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-30T05:48:33+00:00",
-    "fetched_at": "2026-02-13T12:28:01.847Z",
+    "fetched_at": "2026-02-13T18:28:11.420Z",
     "raw": {
       "id": 139040,
       "url": "https://jobicy.com/jobs/139040-senior-backend-engineer-grafana-k6-uk-remote",
@@ -1331,7 +1436,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-30T05:48:20+00:00",
-    "fetched_at": "2026-02-13T12:28:01.848Z",
+    "fetched_at": "2026-02-13T18:28:11.422Z",
     "raw": {
       "id": 139034,
       "url": "https://jobicy.com/jobs/139034-senior-backend-engineer-grafana-k6-sweden-remote",
@@ -1374,7 +1479,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-29T05:40:34+00:00",
-    "fetched_at": "2026-02-13T12:28:01.850Z",
+    "fetched_at": "2026-02-13T18:28:11.423Z",
     "raw": {
       "id": 139012,
       "url": "https://jobicy.com/jobs/139012-senior-vehicle-security-engineer-all-genders",
@@ -1424,7 +1529,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:26:05+00:00",
-    "fetched_at": "2026-02-13T12:28:01.850Z",
+    "fetched_at": "2026-02-13T18:28:11.423Z",
     "raw": {
       "id": 138964,
       "url": "https://jobicy.com/jobs/138964-senior-qa-engineer-earn",
@@ -1478,7 +1583,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:26:02+00:00",
-    "fetched_at": "2026-02-13T12:28:01.851Z",
+    "fetched_at": "2026-02-13T18:28:11.424Z",
     "raw": {
       "id": 138962,
       "url": "https://jobicy.com/jobs/138962-senior-frontend-engineer-stablecoin",
@@ -1524,7 +1629,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-28T05:26:01+00:00",
-    "fetched_at": "2026-02-13T12:28:01.852Z",
+    "fetched_at": "2026-02-13T18:28:11.425Z",
     "raw": {
       "id": 138961,
       "url": "https://jobicy.com/jobs/138961-nice-cxone-developer-cxone-mpower-ai-specialist-consultant-or-freelance",
@@ -1570,7 +1675,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:25:32+00:00",
-    "fetched_at": "2026-02-13T12:28:01.853Z",
+    "fetched_at": "2026-02-13T18:28:11.426Z",
     "raw": {
       "id": 138954,
       "url": "https://jobicy.com/jobs/138954-solutions-engineer-critical-infrastructure",
@@ -1620,7 +1725,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:25:30+00:00",
-    "fetched_at": "2026-02-13T12:28:01.854Z",
+    "fetched_at": "2026-02-13T18:28:11.427Z",
     "raw": {
       "id": 138953,
       "url": "https://jobicy.com/jobs/138953-solutions-engineer-dod",
@@ -1679,7 +1784,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-28T05:24:46+00:00",
-    "fetched_at": "2026-02-13T12:28:01.854Z",
+    "fetched_at": "2026-02-13T18:28:11.427Z",
     "raw": {
       "id": 138940,
       "url": "https://jobicy.com/jobs/138940-middle-node-js-developer",
@@ -1737,7 +1842,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:24:41+00:00",
-    "fetched_at": "2026-02-13T12:28:01.856Z",
+    "fetched_at": "2026-02-13T18:28:11.429Z",
     "raw": {
       "id": 138937,
       "url": "https://jobicy.com/jobs/138937-senior-software-engineer-artificial-intelligence",
@@ -1796,7 +1901,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:24:39+00:00",
-    "fetched_at": "2026-02-13T12:28:01.857Z",
+    "fetched_at": "2026-02-13T18:28:11.430Z",
     "raw": {
       "id": 138936,
       "url": "https://jobicy.com/jobs/138936-staff-software-engineer-libraries-platform",
@@ -1845,7 +1950,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-26T04:28:17+00:00",
-    "fetched_at": "2026-02-13T12:28:01.859Z",
+    "fetched_at": "2026-02-13T18:28:11.432Z",
     "raw": {
       "id": 138868,
       "url": "https://jobicy.com/jobs/138868-senior-database-engineer",
@@ -1891,7 +1996,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-26T04:28:15+00:00",
-    "fetched_at": "2026-02-13T12:28:01.860Z",
+    "fetched_at": "2026-02-13T18:28:11.433Z",
     "raw": {
       "id": 138867,
       "url": "https://jobicy.com/jobs/138867-senior-software-engineer-platform",
@@ -1939,7 +2044,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-26T04:28:10+00:00",
-    "fetched_at": "2026-02-13T12:28:01.860Z",
+    "fetched_at": "2026-02-13T18:28:11.433Z",
     "raw": {
       "id": 138863,
       "url": "https://jobicy.com/jobs/138863-senior-software-engineer-6",
@@ -1991,7 +2096,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-24T10:57:06+00:00",
-    "fetched_at": "2026-02-13T12:28:01.862Z",
+    "fetched_at": "2026-02-13T18:28:11.434Z",
     "raw": {
       "id": 138825,
       "url": "https://jobicy.com/jobs/138825-advanced-frontend-engineer-product",
@@ -2037,7 +2142,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-24T10:57:02+00:00",
-    "fetched_at": "2026-02-13T12:28:01.862Z",
+    "fetched_at": "2026-02-13T18:28:11.435Z",
     "raw": {
       "id": 138823,
       "url": "https://jobicy.com/jobs/138823-manager-engineering-2",
@@ -2085,7 +2190,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-24T10:57:01+00:00",
-    "fetched_at": "2026-02-13T12:28:01.864Z",
+    "fetched_at": "2026-02-13T18:28:11.437Z",
     "raw": {
       "id": 138822,
       "url": "https://jobicy.com/jobs/138822-solutions-engineer-commercial-german",
@@ -2128,7 +2233,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-24T10:56:52+00:00",
-    "fetched_at": "2026-02-13T12:28:01.865Z",
+    "fetched_at": "2026-02-13T18:28:11.438Z",
     "raw": {
       "id": 138815,
       "url": "https://jobicy.com/jobs/138815-principal-solutions-engineer",
@@ -2173,7 +2278,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-21T19:46:23+00:00",
-    "fetched_at": "2026-02-13T12:28:01.866Z",
+    "fetched_at": "2026-02-13T18:28:11.439Z",
     "raw": {
       "id": 138696,
       "url": "https://jobicy.com/jobs/138696-fsi-architect-foreign-systems-interface",
@@ -2228,7 +2333,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-21T19:45:34+00:00",
-    "fetched_at": "2026-02-13T12:28:01.867Z",
+    "fetched_at": "2026-02-13T18:28:11.440Z",
     "raw": {
       "id": 138686,
       "url": "https://jobicy.com/jobs/138686-senior-rust-engineer",
@@ -2275,7 +2380,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-20T13:18:38+00:00",
-    "fetched_at": "2026-02-13T12:28:01.869Z",
+    "fetched_at": "2026-02-13T18:28:11.441Z",
     "raw": {
       "id": 138590,
       "url": "https://jobicy.com/jobs/138590-solutions-consultant-apac",
@@ -2322,7 +2427,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-20T13:18:36+00:00",
-    "fetched_at": "2026-02-13T12:28:01.870Z",
+    "fetched_at": "2026-02-13T18:28:11.442Z",
     "raw": {
       "id": 138589,
       "url": "https://jobicy.com/jobs/138589-solutions-engineer-apac",
@@ -2370,7 +2475,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-20T13:12:06+00:00",
-    "fetched_at": "2026-02-13T12:28:01.871Z",
+    "fetched_at": "2026-02-13T18:28:11.444Z",
     "raw": {
       "id": 138584,
       "url": "https://jobicy.com/jobs/138584-senior-software-engineer-5",
@@ -2417,7 +2522,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-20T13:11:59+00:00",
-    "fetched_at": "2026-02-13T12:28:01.873Z",
+    "fetched_at": "2026-02-13T18:28:11.445Z",
     "raw": {
       "id": 138580,
       "url": "https://jobicy.com/jobs/138580-associate-solutions-engineer-italian-spanish-speaking",
@@ -2466,7 +2571,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-20T13:11:56+00:00",
-    "fetched_at": "2026-02-13T12:28:01.873Z",
+    "fetched_at": "2026-02-13T18:28:11.446Z",
     "raw": {
       "id": 138578,
       "url": "https://jobicy.com/jobs/138578-senior-backend-engineer-2",
@@ -2519,7 +2624,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-20T13:11:32+00:00",
-    "fetched_at": "2026-02-13T12:28:01.874Z",
+    "fetched_at": "2026-02-13T18:28:11.447Z",
     "raw": {
       "id": 138575,
       "url": "https://jobicy.com/jobs/138575-staff-software-engineer-risk-engineering",
@@ -2571,7 +2676,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-20T13:10:54+00:00",
-    "fetched_at": "2026-02-13T12:28:01.875Z",
+    "fetched_at": "2026-02-13T18:28:11.448Z",
     "raw": {
       "id": 138563,
       "url": "https://jobicy.com/jobs/138563-kotlin-game-developer",
@@ -2622,7 +2727,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-20T13:10:51+00:00",
-    "fetched_at": "2026-02-13T12:28:01.876Z",
+    "fetched_at": "2026-02-13T18:28:11.448Z",
     "raw": {
       "id": 138561,
       "url": "https://jobicy.com/jobs/138561-freelance-software-developer-kotlin-quality-assurance-ai-trainer",
@@ -2676,7 +2781,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-20T13:10:47+00:00",
-    "fetched_at": "2026-02-13T12:28:01.877Z",
+    "fetched_at": "2026-02-13T18:28:11.449Z",
     "raw": {
       "id": 138559,
       "url": "https://jobicy.com/jobs/138559-manager-software-engineering",
@@ -2721,7 +2826,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-18T03:34:05+00:00",
-    "fetched_at": "2026-02-13T12:28:01.879Z",
+    "fetched_at": "2026-02-13T18:28:11.452Z",
     "raw": {
       "id": 138504,
       "url": "https://jobicy.com/jobs/138504-senior-manager-solutions-architect-team-lead",
@@ -2777,7 +2882,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-18T03:33:23+00:00",
-    "fetched_at": "2026-02-13T12:28:01.880Z",
+    "fetched_at": "2026-02-13T18:28:11.453Z",
     "raw": {
       "id": 138490,
       "url": "https://jobicy.com/jobs/138490-senior-software-engineer-frontend-onchain",
@@ -2829,7 +2934,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-18T03:33:20+00:00",
-    "fetched_at": "2026-02-13T12:28:01.882Z",
+    "fetched_at": "2026-02-13T18:28:11.454Z",
     "raw": {
       "id": 138488,
       "url": "https://jobicy.com/jobs/138488-software-engineer-2",
@@ -2875,7 +2980,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-15T05:51:53+00:00",
-    "fetched_at": "2026-02-13T12:28:01.883Z",
+    "fetched_at": "2026-02-13T18:28:11.455Z",
     "raw": {
       "id": 138441,
       "url": "https://jobicy.com/jobs/138441-principal-software-engineer",
@@ -2930,7 +3035,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-15T05:51:47+00:00",
-    "fetched_at": "2026-02-13T12:28:01.883Z",
+    "fetched_at": "2026-02-13T18:28:11.456Z",
     "raw": {
       "id": 138438,
       "url": "https://jobicy.com/jobs/138438-software-qa-automation-engineer",
@@ -2978,7 +3083,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-15T05:51:22+00:00",
-    "fetched_at": "2026-02-13T12:28:01.885Z",
+    "fetched_at": "2026-02-13T18:28:11.457Z",
     "raw": {
       "id": 138436,
       "url": "https://jobicy.com/jobs/138436-senior-iam-engineer-enterprise",
@@ -3024,7 +3129,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-15T05:51:20+00:00",
-    "fetched_at": "2026-02-13T12:28:01.886Z",
+    "fetched_at": "2026-02-13T18:28:11.458Z",
     "raw": {
       "id": 138435,
       "url": "https://jobicy.com/jobs/138435-security-engineer-ii-2",
@@ -3069,7 +3174,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-15T05:50:51+00:00",
-    "fetched_at": "2026-02-13T12:28:01.887Z",
+    "fetched_at": "2026-02-13T18:28:11.460Z",
     "raw": {
       "id": 138425,
       "url": "https://jobicy.com/jobs/138425-engineering-manager-code-sync",
@@ -3129,7 +3234,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-15T05:50:50+00:00",
-    "fetched_at": "2026-02-13T12:28:01.889Z",
+    "fetched_at": "2026-02-13T18:28:11.461Z",
     "raw": {
       "id": 138424,
       "url": "https://jobicy.com/jobs/138424-senior-software-developer",
@@ -3181,7 +3286,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-15T05:50:45+00:00",
-    "fetched_at": "2026-02-13T12:28:01.890Z",
+    "fetched_at": "2026-02-13T18:28:11.462Z",
     "raw": {
       "id": 138421,
       "url": "https://jobicy.com/jobs/138421-sr-manager-field-engineering-ai-natives",
@@ -3233,7 +3338,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-13T05:32:26+00:00",
-    "fetched_at": "2026-02-13T12:28:01.890Z",
+    "fetched_at": "2026-02-13T18:28:11.463Z",
     "raw": {
       "id": 138388,
       "url": "https://jobicy.com/jobs/138388-senior-backend-engineer-user-platform-java-remote-across-anz-2",
@@ -3287,7 +3392,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-13T05:31:50+00:00",
-    "fetched_at": "2026-02-13T12:28:01.892Z",
+    "fetched_at": "2026-02-13T18:28:11.464Z",
     "raw": {
       "id": 138376,
       "url": "https://jobicy.com/jobs/138376-principal-engineer-software-development-2",
