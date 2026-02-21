@@ -1,7 +1,7 @@
 {
-  "totalJobs": 815,
+  "totalJobs": 816,
   "bySource": {
-    "arbeitnow": 84,
+    "arbeitnow": 85,
     "wwr": 73,
     "remoteok": 97,
     "remotive": 20,
@@ -10,7 +10,12 @@
     "hn": 473
   },
   "byTechStack": {
-    "python": 173,
+    "python": 174,
+    "fastapi": 8,
+    "llm": 29,
+    "machine-learning": 96,
+    "langchain": 8,
+    "rag": 9,
     "spark": 25,
     "databricks": 13,
     "linux": 48,
@@ -32,8 +37,6 @@
     "perl": 3,
     "gcp": 59,
     "azure": 59,
-    "llm": 28,
-    "machine-learning": 95,
     "huggingface": 3,
     "mlops": 8,
     "web3": 7,
@@ -44,7 +47,7 @@
     "datadog": 8,
     "circleci": 7,
     "sqs": 5,
-    "figma": 9,
+    "figma": 8,
     "react-native": 25,
     "expo": 2,
     "php": 17,
@@ -65,7 +68,6 @@
     "mysql": 29,
     "oracle": 13,
     "kafka": 20,
-    "rag": 8,
     "vscode": 3,
     "ruby": 45,
     "argocd": 8,
@@ -85,7 +87,6 @@
     "svelte": 2,
     "nestjs": 4,
     "django": 28,
-    "fastapi": 7,
     "dynamodb": 4,
     "sentry": 2,
     "c++": 1,
@@ -101,7 +102,6 @@
     "sso": 4,
     "kotlin": 17,
     "cassandra": 4,
-    "langchain": 7,
     "pytest": 4,
     "pandas": 4,
     "numpy": 3,
@@ -176,32 +176,32 @@
     "sendgrid": 1
   },
   "byContractType": {
+    "full-time": 639,
+    "contract": 13,
     "freelance": 15,
-    "contract": 12,
-    "full-time": 638,
     "part-time": 3
   },
   "byRemoteType": {
-    "remote": 454,
+    "remote": 455,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 116,
-    "50k-100k": 11,
+    "under50k": 117,
+    "50k-100k": 10,
     "100k-150k": 22,
     "150k-200k": 6,
     "over200k": 2,
-    "unknown": 658
+    "unknown": 659
   },
-  "lastUpdated": "2026-02-21T00:53:49.148Z",
+  "lastUpdated": "2026-02-21T06:25:54.781Z",
   "jobsLast7Days": [
     4,
     12,
-    13,
+    12,
     43,
     57,
-    89,
-    0
+    88,
+    3
   ]
 }
