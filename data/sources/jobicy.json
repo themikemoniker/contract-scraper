@@ -1,5 +1,111 @@
 [
   {
+    "id": "jobicy:139746",
+    "platform": "jobicy",
+    "external_id": "139746",
+    "title": "Quality Automation Engineer (IT Applications)",
+    "company": "iFIT",
+    "description": "General Purpose: The QA Automation Engineer designs, develops, and maintains software-based test automation solutions to ensure the reliability, performance, and security of TPx enterprise applications. This role’s primary function is the engineering and maintenance of automated testing frameworks, test code, and CI/CD quality gates for SaaS and enterprise platforms (including ServiceNow and Salesforce and related integrations). The QA Automation Engineer performs systems analysis of functional and non-functional requirements, translates specifications into automated validation strategies, and delivers reusable testing utilities that enable rapid, consistent, and measurable product quality. Direct Reports: No Essential Duties and Responsibilities: Design and develop automated test frameworks and code Designs, develops, and maintains automated test frameworks, libraries, and reusable components for UI, API, and integration testing. Writes, reviews, and maintains test automation code using modern programming/scripting languages and testing frameworks (e.g., Java, JavaScript/TypeScript, Python; Selenium/Playwright/Cypress; REST/API test tooling). Establishes coding standards and patterns for automation (page object model or equivalent), and implements version-controlled test code practices. Systems analysis and test architecture based on specifications Performs analysis of business and technical requirements and system design specifications to determine automated testing approaches and coverage. Translates user stories, acceptance criteria, and interface specifications into automated test designs that validate functional behavior, data integrity, and security controls. CI/CD integration and quality gates Integrates automated test execution into CI/CD pipelines (e.g., GitHub Actions, Jenkins, Azure DevOps) and manages quality gates for build/release readiness. Diagnoses and resolves test pipeline failures, test flakiness, environment issues, and test-data dependencies to ensure reliable automated validation at scale. Automated regression, integration, and data validation Builds and maintains automated regression suites and integration tests to validate enterprise workflows across ServiceNow, Salesforce, and connected systems. Develops automated validation for data movement and transformations using SQL and/or API validation techniques. Performance and security test automation support Develops and maintains automated checks for role-based access controls, field-level security, data visibility rules, and authentication flows (OAuth/SAML/SSO), as applicable to the supported platforms. Implements automated performance and reliability checks (where appropriate) and provides engineering recommendations to improve system performance and stability. Defect engineering and root cause collaboration Produces high-quality defect reports with reproducible steps, logs, and automation evidence; partners with developers/architects to isolate root cause. Uses engineering judgment to determine whether failures arise from defects in application code, test automation, environment configuration, or data. Test environment and tooling management Develops and maintains automation-friendly test environments, datasets, and configuration alignment practices in partnership with admins/dev teams. Selects, configures, and maintains automation tooling and supporting infrastructure (e.g., test runners, reporting dashboards, secrets handling in pipelines). Other Responsibilities: Establishes QA automation standards, templates, metrics, and reporting (e.g., coverage, pass rates, defect escape rate, pipeline stability) to support measurable quality outcomes. Provides technical mentorship guidance to QA team members on automation coding practices, test design, and CI/CD integration. Supports occasional exploratory/manual testing for high-risk releases or emergent issues; however, the role is fundamentally engineered around automation and tooling. Required Qualifications: Bachelor’s degree in Computer Science, Software Engineering, or related field; or equivalent professional experience demonstrating software development competency. 3+ years of experience designing and developing automated test solutions in a software engineering or test automation engineering capacity. Demonstrated experience building and maintaining automated test frameworks and integrating automated testing into CI/CD pipelines. Technical Requirements Proficiency in at least one modern programming/scripting language used for automation (e.g., Java, JavaScript/TypeScript, Python) and strong command of test automation frameworks/tools (e.g., Playwright/Cypress/Selenium). Experience with API testing (REST) and test data validation using SQL. Experience with source control (Git), code review workflows, and CI/CD pipeline concepts and tools (GitHub Actions/Jenkins/Azure DevOps). Familiarity with authentication and access-control concepts (OAuth, SAML, SSO) and ability to automate validation of security-related requirements. Competencies Strong systems analysis skills: ability to translate functional requirements and technical specifications into automated test designs. Strong debugging and root-cause analysis skills across automation code, pipelines, and application behavior. Excellent written and verbal communication skills; ability to partner effectively with engineering, product, and business stakeholders. Other Qualifications: Experience testing or integrating with ServiceNow and/or Salesforce (including configuration-driven workflows). Experience with performance testing tools and practices. ISTQB or similar certification (helpful but not required). TPx is an Equal Opportunity / Affirmative Action employer. Qualified applicants will receive consideration for employment without regard to race, color, religious creed, sex (including pregnancy, childbirth, breast-feeding and related medical conditions), sexual orientation, gender identity, gender expression, national origin or ancestry, age, mental or physical disability (including medical condition), military or veteran status, political preference, marital status, citizenship, genetic information or other status protected by law or regulation. We are committed to providing reasonable accommodations for qualified individuals with disabilities. If you need assistance or an accommodation, please let us know during the application process. #LI-Remote Req: #25-0096",
+    "url": "https://jobicy.com/jobs/139746-quality-automation-engineer-it-applications",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": null,
+    "location": "Ireland",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "java",
+      "azure",
+      "jenkins",
+      "github-actions",
+      "cypress",
+      "playwright",
+      "selenium",
+      "git",
+      "oauth",
+      "saml",
+      "sso"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-02-21T05:14:41+00:00",
+    "fetched_at": "2026-02-21T12:18:33.705Z",
+    "raw": {
+      "id": 139746,
+      "url": "https://jobicy.com/jobs/139746-quality-automation-engineer-it-applications",
+      "jobSlug": "139746-quality-automation-engineer-it-applications",
+      "jobTitle": "Quality Automation Engineer (IT Applications)",
+      "companyName": "iFIT",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/3d982579-221.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Ireland",
+      "jobLevel": "Any",
+      "jobExcerpt": "General Purpose:The QA Automation Engineer designs, develops, and maintains software-based test automation solutions to ensure the reliability, performance, and security of TPx enterprise applications. This role’s primary function is the...",
+      "jobDescription": "<p><strong>General Purpose:</strong></p><p>The QA Automation Engineer designs, develops, and maintains software-based test automation solutions to ensure the reliability, performance, and security of TPx enterprise applications. This role’s primary function is the engineering and maintenance of automated testing frameworks, test code, and CI/CD quality gates for SaaS and enterprise platforms (including ServiceNow and Salesforce and related integrations). The QA Automation Engineer performs systems analysis of functional and non-functional requirements, translates specifications into automated validation strategies, and delivers reusable testing utilities that enable rapid, consistent, and measurable product quality.</p><p><strong>Direct Reports: No</strong></p><p><strong>Essential Duties and Responsibilities:</strong></p><p><strong>Design and develop automated test frameworks and code</strong> </p><ul>\n<li>Designs, develops, and maintains automated test frameworks, libraries, and reusable components for UI, API, and integration testing. </li>\n<li>Writes, reviews, and maintains test automation code using modern programming/scripting languages and testing frameworks (e.g., Java, JavaScript/TypeScript, Python; Selenium/Playwright/Cypress; REST/API test tooling). </li>\n<li>Establishes coding standards and patterns for automation (page object model or equivalent), and implements version-controlled test code practices. </li>\n</ul><p><strong>Systems analysis and test architecture based on specifications</strong> </p><ul>\n<li>Performs analysis of business and technical requirements and system design specifications to determine automated testing approaches and coverage. </li>\n<li>Translates user stories, acceptance criteria, and interface specifications into automated test designs that validate functional behavior, data integrity, and security controls. </li>\n</ul><p><strong>CI/CD integration and quality gates</strong> </p><ul>\n<li>Integrates automated test execution into CI/CD pipelines (e.g., GitHub Actions, Jenkins, Azure DevOps) and manages quality gates for build/release readiness. </li>\n<li>Diagnoses and resolves test pipeline failures, test flakiness, environment issues, and test-data dependencies to ensure reliable automated validation at scale. </li>\n<li><strong>Automated regression, integration, and data validation</strong></li>\n<li>Builds and maintains automated regression suites and integration tests to validate enterprise workflows across ServiceNow, Salesforce, and connected systems. </li>\n<li>Develops automated validation for data movement and transformations using SQL and/or API validation techniques. </li>\n</ul><p><strong>Performance and security test automation support</strong> </p><ul>\n<li>Develops and maintains automated checks for role-based access controls, field-level security, data visibility rules, and authentication flows (OAuth/SAML/SSO), as applicable to the supported platforms. </li>\n<li>Implements automated performance and reliability checks (where appropriate) and provides engineering recommendations to improve system performance and stability. </li>\n</ul><p><strong>Defect engineering and root cause collaboration</strong> </p><ul>\n<li>Produces high-quality defect reports with reproducible steps, logs, and automation evidence; partners with developers/architects to isolate root cause. </li>\n<li>Uses engineering judgment to determine whether failures arise from defects in application code, test automation, environment configuration, or data. </li>\n</ul><p><strong>Test environment and tooling management</strong> </p><ul>\n<li>Develops and maintains automation-friendly test environments, datasets, and configuration alignment practices in partnership with admins/dev teams. </li>\n<li>Selects, configures, and maintains automation tooling and supporting infrastructure (e.g., test runners, reporting dashboards, secrets handling in pipelines). </li>\n</ul><p><strong>Other Responsibilities:</strong></p><ul>\n<li>Establishes QA automation standards, templates, metrics, and reporting (e.g., coverage, pass rates, defect escape rate, pipeline stability) to support measurable quality outcomes. </li>\n<li>Provides technical mentorship guidance to QA team members on automation coding practices, test design, and CI/CD integration. </li>\n<li>Supports occasional exploratory/manual testing for high-risk releases or emergent issues; however, the role is fundamentally engineered around automation and tooling. </li>\n</ul><p><strong>Required Qualifications:</strong></p><ul>\n<li>Bachelor’s degree in Computer Science, Software Engineering, or related field; or equivalent professional experience demonstrating software development competency. </li>\n<li>3+ years of experience designing and developing automated test solutions in a software engineering or test automation engineering capacity. </li>\n<li>Demonstrated experience building and maintaining automated test frameworks and integrating automated testing into CI/CD pipelines. </li>\n</ul><p><strong>Technical Requirements</strong><strong> </strong></p><ul>\n<li>Proficiency in at least one modern programming/scripting language used for automation (e.g., Java, JavaScript/TypeScript, Python) and strong command of test automation frameworks/tools (e.g., Playwright/Cypress/Selenium). </li>\n<li>Experience with API testing (REST) and test data validation using SQL. </li>\n<li>Experience with source control (Git), code review workflows, and CI/CD pipeline concepts and tools (GitHub Actions/Jenkins/Azure DevOps). </li>\n<li>Familiarity with authentication and access-control concepts (OAuth, SAML, SSO) and ability to automate validation of security-related requirements.</li>\n</ul><p><strong>Competencies</strong> </p><ul>\n<li>Strong systems analysis skills: ability to translate functional requirements and technical specifications into automated test designs.</li>\n<li>Strong debugging and root-cause analysis skills across automation code, pipelines, and application behavior.</li>\n<li>Excellent written and verbal communication skills; ability to partner effectively with engineering, product, and business stakeholders. </li>\n</ul><p><strong>Other Qualifications:</strong></p><ul>\n<li>Experience testing or integrating with ServiceNow and/or Salesforce (including configuration-driven workflows).</li>\n<li>Experience with performance testing tools and practices.</li>\n<li>ISTQB or similar certification (helpful but not required).</li>\n</ul><p>TPx is an Equal Opportunity / Affirmative Action employer. Qualified applicants will receive consideration for employment without regard to race, color, religious creed, sex (including pregnancy, childbirth, breast-feeding and related medical conditions), sexual orientation, gender identity, gender expression, national origin or ancestry, age, mental or physical disability (including medical condition), military or veteran status, political preference, marital status, citizenship, genetic information or other status protected by law or regulation.</p><p>We are committed to providing reasonable accommodations for qualified individuals with disabilities. If you need assistance or an accommodation, please let us know during the application process.</p><p>#LI-Remote</p><p>Req: #25-0096</p>",
+      "pubDate": "2026-02-21T05:14:41+00:00"
+    }
+  },
+  {
+    "id": "jobicy:139745",
+    "platform": "jobicy",
+    "external_id": "139745",
+    "title": "Senior C++ developer",
+    "company": "TechMagic",
+    "description": "Who we need We are looking for a talented Senior Software Engineer (C++) with 4+ years of programming experience to build a lot from scratch. This is a full-time, permanent position in Lviv, Kyiv or remote. Become an integral member of our client, which oversees several innovative SaaS services, including Remote Access and Secure Web Sessions. Must have Requirements : • Experience: 4+ years of expertise in modern C++ development, delivering high-performance and scalable code. Problem-Solving: Strong analytical mindset with a proven track record of troubleshooting and resolving complex technical challenges. Soft Skills: Exceptional communication and presentation skills, with the ability to articulate technical concepts clearly. Adaptability: Self-motivated learner capable of mastering intricate systems and emerging technologies independently. Collaboration: A proactive team player dedicated to achieving shared goals through a results-driven approach. Fluent English Will be a plus: Cloud Infrastructure: Proven track record working with AWS or other major cloud platforms. Development: Hands-on experience in Python for building scalable applications. DevOps &amp; CI/CD: Practical knowledge of CI/CD pipelines and tools, including Jenkins, Git, and Artifactory . Agile Excellence: Strong familiarity with Agile methodologies and proficient in using JIRA for project tracking. Security-First Mindset: Solid understanding of security principles such as OWASP , data encryption , and authentication protocols (LDAP, Radius). Architecture: Exposure to microservices and cloud-native development strategies Responsibilities: Architect and ship end-to-end features for SIA RDP, maintaining a &#8220;security-first&#8221; mindset throughout the development process. Collaborate across teams to translate stakeholder needs into scalable product enhancements. Empower the team by mentoring new engineers and fostering an environment of continuous improvement. Spearhead clean code and security initiatives , ensuring all development aligns with modern threat modeling and compliance standards. About Project Customer Our client is the worldwide frontrunner in identity security. By emphasising intelligent privilege controls, they deliver the most extensive security solutions for any identity within business applications, distributed workforces, hybrid cloud environments, and throughout the entire DevOps lifecycle. Stage This is a growing project Work Schedule Full-time working day in our Lviv or Kyiv office (flexible hours) or full-time remote",
+    "url": "https://jobicy.com/jobs/139745-senior-c-developer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Ukraine",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "aws",
+      "jenkins",
+      "git"
+    ],
+    "tags": [
+      "Programming"
+    ],
+    "posted_at": "2026-02-21T05:14:39+00:00",
+    "fetched_at": "2026-02-21T12:18:33.706Z",
+    "raw": {
+      "id": 139745,
+      "url": "https://jobicy.com/jobs/139745-senior-c-developer",
+      "jobSlug": "139745-senior-c-developer",
+      "jobTitle": "Senior C++ developer",
+      "companyName": "TechMagic",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/09/3015c753-221.png",
+      "jobIndustry": [
+        "Programming"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Ukraine",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Who we needWe are looking for a talented Senior Software Engineer (C++) with 4+ years of programming experience to build a lot from scratch. This is a full-time, permanent position in...",
+      "jobDescription": "<p><strong>Who we need</strong></p><p>We are looking for a talented Senior Software Engineer (C++) with 4+ years of programming experience to build a lot from scratch. This is a full-time, permanent position in Lviv, Kyiv or remote.</p><p>Become an integral member of our client, which oversees several innovative SaaS services, including Remote Access and Secure Web Sessions.</p><p><strong>Must have<br>Requirements</strong><strong>:</strong></p><ul><li>• <strong>Experience:</strong> 4+ years of expertise in modern C++ development, delivering high-performance and scalable code.</li><li><p><strong>Problem-Solving:</strong> Strong analytical mindset with a proven track record of troubleshooting and resolving complex technical challenges.</p></li><li><p><strong>Soft Skills:</strong> Exceptional communication and presentation skills, with the ability to articulate technical concepts clearly.</p></li><li><p><strong>Adaptability:</strong> Self-motivated learner capable of mastering intricate systems and emerging technologies independently.</p></li><li><p><strong>Collaboration:</strong> A proactive team player dedicated to achieving shared goals through a results-driven approach.</p></li><li><p>Fluent English</p></li></ul><p></p><p><strong>Will be a plus:</strong></p><ul><li><p><strong>Cloud Infrastructure:</strong> Proven track record working with <strong>AWS</strong> or other major cloud platforms.</p></li><li><p><strong>Development:</strong> Hands-on experience in <strong>Python</strong> for building scalable applications.</p></li><li><p><strong>DevOps &amp; CI/CD:</strong> Practical knowledge of <strong>CI/CD pipelines</strong> and tools, including <strong>Jenkins, Git, and Artifactory</strong>.</p></li><li><p><strong>Agile Excellence:</strong> Strong familiarity with <strong>Agile methodologies</strong> and proficient in using <strong>JIRA</strong> for project tracking.</p></li><li><p><strong>Security-First Mindset:</strong> Solid understanding of <strong>security principles</strong> such as <strong>OWASP</strong>, data <strong>encryption</strong>, and <strong>authentication protocols</strong> (LDAP, Radius).</p></li><li><p><strong>Architecture:</strong> Exposure to <strong>microservices</strong> and <strong>cloud-native development</strong> strategies</p></li></ul><p></p><p><strong>Responsibilities:</strong></p><ul><li><p><strong>Architect and ship</strong> end-to-end features for SIA RDP, maintaining a &#8220;security-first&#8221; mindset throughout the development process.</p></li><li><p><strong>Collaborate across teams</strong> to translate stakeholder needs into scalable product enhancements.</p></li><li><p><strong>Empower the team</strong> by mentoring new engineers and fostering an environment of continuous improvement.</p></li><li><p><strong>Spearhead clean code and security initiatives</strong>, ensuring all development aligns with modern threat modeling and compliance standards.</p></li></ul><p></p><p><strong>About Project</strong></p><p><strong>Customer</strong></p><p>Our client is the worldwide frontrunner in identity security. By emphasising intelligent privilege controls, they deliver the most extensive security solutions for any identity within business applications, distributed workforces, hybrid cloud environments, and throughout the entire DevOps lifecycle.</p><p><strong>Stage</strong></p><p>This is a growing project</p><p><strong>Work Schedule</strong></p><p>Full-time working day in our Lviv or Kyiv office (flexible hours) or full-time remote</p>",
+      "pubDate": "2026-02-21T05:14:39+00:00"
+    }
+  },
+  {
     "id": "jobicy:139655",
     "platform": "jobicy",
     "external_id": "139655",
@@ -35,7 +141,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-18T03:45:57+00:00",
-    "fetched_at": "2026-02-21T06:25:47.626Z",
+    "fetched_at": "2026-02-21T12:18:33.707Z",
     "raw": {
       "id": 139655,
       "url": "https://jobicy.com/jobs/139655-deputy-head-of-engineering-node-js-next-js",
@@ -82,7 +188,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-18T03:45:54+00:00",
-    "fetched_at": "2026-02-21T06:25:47.627Z",
+    "fetched_at": "2026-02-21T12:18:33.708Z",
     "raw": {
       "id": 139653,
       "url": "https://jobicy.com/jobs/139653-parent-poland-gen-swe-intern-summer-2026-2",
@@ -134,7 +240,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-18T03:45:40+00:00",
-    "fetched_at": "2026-02-21T06:25:47.628Z",
+    "fetched_at": "2026-02-21T12:18:33.708Z",
     "raw": {
       "id": 139646,
       "url": "https://jobicy.com/jobs/139646-middle-middle-strong-node-js-developer",
@@ -183,7 +289,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:44:13+00:00",
-    "fetched_at": "2026-02-21T06:25:47.629Z",
+    "fetched_at": "2026-02-21T12:18:33.710Z",
     "raw": {
       "id": 139618,
       "url": "https://jobicy.com/jobs/139618-fullstack-software-engineer-x-f-m-ai-customer-support",
@@ -235,7 +341,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:44:06+00:00",
-    "fetched_at": "2026-02-21T06:25:47.631Z",
+    "fetched_at": "2026-02-21T12:18:33.712Z",
     "raw": {
       "id": 139614,
       "url": "https://jobicy.com/jobs/139614-senior-staff-engineer-ai-customer-operations",
@@ -290,7 +396,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:43:48+00:00",
-    "fetched_at": "2026-02-21T06:25:47.631Z",
+    "fetched_at": "2026-02-21T12:18:33.712Z",
     "raw": {
       "id": 139603,
       "url": "https://jobicy.com/jobs/139603-mlops-engineer-portfolio-optimisation-and-customer-analytics-platform-banking",
@@ -333,7 +439,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:41:25+00:00",
-    "fetched_at": "2026-02-21T06:25:47.632Z",
+    "fetched_at": "2026-02-21T12:18:33.713Z",
     "raw": {
       "id": 139597,
       "url": "https://jobicy.com/jobs/139597-field-service-engineer-generator-controls-lead",
@@ -376,7 +482,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:40:24+00:00",
-    "fetched_at": "2026-02-21T06:25:47.633Z",
+    "fetched_at": "2026-02-21T12:18:33.714Z",
     "raw": {
       "id": 139588,
       "url": "https://jobicy.com/jobs/139588-apm-strategy-reliability-sme-digital-implementation-services",
@@ -429,7 +535,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-16T16:40:18+00:00",
-    "fetched_at": "2026-02-21T06:25:47.634Z",
+    "fetched_at": "2026-02-21T12:18:33.715Z",
     "raw": {
       "id": 139585,
       "url": "https://jobicy.com/jobs/139585-senior-fullstack-developer-m-f-d-patient-portal",
@@ -481,7 +587,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-16T16:40:14+00:00",
-    "fetched_at": "2026-02-21T06:25:47.634Z",
+    "fetched_at": "2026-02-21T12:18:33.715Z",
     "raw": {
       "id": 139583,
       "url": "https://jobicy.com/jobs/139583-senior-python-engineer-ai-testing-project-freelance-mindrift",
@@ -544,7 +650,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:39:55+00:00",
-    "fetched_at": "2026-02-21T06:25:47.635Z",
+    "fetched_at": "2026-02-21T12:18:33.716Z",
     "raw": {
       "id": 139574,
       "url": "https://jobicy.com/jobs/139574-senior-ai-engineer",
@@ -591,7 +697,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:38:51+00:00",
-    "fetched_at": "2026-02-21T06:25:47.636Z",
+    "fetched_at": "2026-02-21T12:18:33.716Z",
     "raw": {
       "id": 139565,
       "url": "https://jobicy.com/jobs/139565-freelance-energy-systems-engineer-ai-trainer",
@@ -637,7 +743,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T07:06:23+00:00",
-    "fetched_at": "2026-02-21T06:25:47.637Z",
+    "fetched_at": "2026-02-21T12:18:33.718Z",
     "raw": {
       "id": 139548,
       "url": "https://jobicy.com/jobs/139548-lead-solution-architect-networking",
@@ -687,7 +793,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-15T07:06:10+00:00",
-    "fetched_at": "2026-02-21T06:25:47.638Z",
+    "fetched_at": "2026-02-21T12:18:33.718Z",
     "raw": {
       "id": 139540,
       "url": "https://jobicy.com/jobs/139540-servicenow-developer",
@@ -737,7 +843,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T07:00:15+00:00",
-    "fetched_at": "2026-02-21T06:25:47.639Z",
+    "fetched_at": "2026-02-21T12:18:33.719Z",
     "raw": {
       "id": 139530,
       "url": "https://jobicy.com/jobs/139530-software-engineer-lead-automation-anywhere-python-java",
@@ -790,7 +896,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T06:57:56+00:00",
-    "fetched_at": "2026-02-21T06:25:47.639Z",
+    "fetched_at": "2026-02-21T12:18:33.720Z",
     "raw": {
       "id": 139511,
       "url": "https://jobicy.com/jobs/139511-software-engineer-product",
@@ -839,7 +945,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T06:57:55+00:00",
-    "fetched_at": "2026-02-21T06:25:47.640Z",
+    "fetched_at": "2026-02-21T12:18:33.720Z",
     "raw": {
       "id": 139510,
       "url": "https://jobicy.com/jobs/139510-software-engineer-leadership-product",
@@ -885,7 +991,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T06:57:51+00:00",
-    "fetched_at": "2026-02-21T06:25:47.640Z",
+    "fetched_at": "2026-02-21T12:18:33.721Z",
     "raw": {
       "id": 139508,
       "url": "https://jobicy.com/jobs/139508-software-engineer-leadership-machine-learning-2",
@@ -932,7 +1038,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T06:57:45+00:00",
-    "fetched_at": "2026-02-21T06:25:47.641Z",
+    "fetched_at": "2026-02-21T12:18:33.722Z",
     "raw": {
       "id": 139504,
       "url": "https://jobicy.com/jobs/139504-software-specialist-tl-ai-ml-monetisation",
@@ -983,7 +1089,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-13T15:07:54+00:00",
-    "fetched_at": "2026-02-21T06:25:47.642Z",
+    "fetched_at": "2026-02-21T12:18:33.722Z",
     "raw": {
       "id": 139487,
       "url": "https://jobicy.com/jobs/139487-automation-qa-engineer",
@@ -1037,7 +1143,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-13T15:07:45+00:00",
-    "fetched_at": "2026-02-21T06:25:47.644Z",
+    "fetched_at": "2026-02-21T12:18:33.724Z",
     "raw": {
       "id": 139481,
       "url": "https://jobicy.com/jobs/139481-project-delivery-specialist-lead-api-developer",
@@ -1092,7 +1198,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-12T18:33:04+00:00",
-    "fetched_at": "2026-02-21T06:25:47.645Z",
+    "fetched_at": "2026-02-21T12:18:33.725Z",
     "raw": {
       "id": 139467,
       "url": "https://jobicy.com/jobs/139467-frontend-developer-i-daylight-2",
@@ -1139,7 +1245,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-11T04:21:30+00:00",
-    "fetched_at": "2026-02-21T06:25:47.646Z",
+    "fetched_at": "2026-02-21T12:18:33.726Z",
     "raw": {
       "id": 139428,
       "url": "https://jobicy.com/jobs/139428-senior-enterprise-solution-architect",
@@ -1195,7 +1301,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:55:33+00:00",
-    "fetched_at": "2026-02-21T06:25:47.647Z",
+    "fetched_at": "2026-02-21T12:18:33.727Z",
     "raw": {
       "id": 139389,
       "url": "https://jobicy.com/jobs/139389-solutions-architect-3",
@@ -1248,7 +1354,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:55:32+00:00",
-    "fetched_at": "2026-02-21T06:25:47.648Z",
+    "fetched_at": "2026-02-21T12:18:33.728Z",
     "raw": {
       "id": 139388,
       "url": "https://jobicy.com/jobs/139388-senior-software-engineer-backend-2",
@@ -1299,7 +1405,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:54:22+00:00",
-    "fetched_at": "2026-02-21T06:25:47.650Z",
+    "fetched_at": "2026-02-21T12:18:33.730Z",
     "raw": {
       "id": 139381,
       "url": "https://jobicy.com/jobs/139381-senior-software-engineer-new-product",
@@ -1349,7 +1455,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-08T06:19:20+00:00",
-    "fetched_at": "2026-02-21T06:25:47.652Z",
+    "fetched_at": "2026-02-21T12:18:33.731Z",
     "raw": {
       "id": 139320,
       "url": "https://jobicy.com/jobs/139320-staff-product-security-architect",
@@ -1403,7 +1509,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-08T06:19:09+00:00",
-    "fetched_at": "2026-02-21T06:25:47.653Z",
+    "fetched_at": "2026-02-21T12:18:33.732Z",
     "raw": {
       "id": 139313,
       "url": "https://jobicy.com/jobs/139313-sr-frontend-engineer",
@@ -1456,7 +1562,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-05T17:27:26+00:00",
-    "fetched_at": "2026-02-21T06:25:47.654Z",
+    "fetched_at": "2026-02-21T12:18:33.733Z",
     "raw": {
       "id": 139270,
       "url": "https://jobicy.com/jobs/139270-sr-full-stack-developer",
@@ -1516,7 +1622,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-05T17:26:36+00:00",
-    "fetched_at": "2026-02-21T06:25:47.654Z",
+    "fetched_at": "2026-02-21T12:18:33.734Z",
     "raw": {
       "id": 139253,
       "url": "https://jobicy.com/jobs/139253-senior-full-stack-next-js-developer",
@@ -1559,7 +1665,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-04T16:59:28+00:00",
-    "fetched_at": "2026-02-21T06:25:47.656Z",
+    "fetched_at": "2026-02-21T12:18:33.735Z",
     "raw": {
       "id": 139213,
       "url": "https://jobicy.com/jobs/139213-mechanical-engineer-life-sciences",
@@ -1608,7 +1714,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-04T16:59:24+00:00",
-    "fetched_at": "2026-02-21T06:25:47.657Z",
+    "fetched_at": "2026-02-21T12:18:33.736Z",
     "raw": {
       "id": 139211,
       "url": "https://jobicy.com/jobs/139211-sr-solutions-enterprise-architect",
@@ -1660,7 +1766,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-04T16:59:19+00:00",
-    "fetched_at": "2026-02-21T06:25:47.659Z",
+    "fetched_at": "2026-02-21T12:18:33.738Z",
     "raw": {
       "id": 139208,
       "url": "https://jobicy.com/jobs/139208-senior-solutions-architect",
@@ -1707,7 +1813,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-04T16:59:15+00:00",
-    "fetched_at": "2026-02-21T06:25:47.660Z",
+    "fetched_at": "2026-02-21T12:18:33.739Z",
     "raw": {
       "id": 139206,
       "url": "https://jobicy.com/jobs/139206-ai-advisor-ai-native-engineering",
@@ -1758,7 +1864,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:22:47+00:00",
-    "fetched_at": "2026-02-21T06:25:47.660Z",
+    "fetched_at": "2026-02-21T12:18:33.739Z",
     "raw": {
       "id": 139165,
       "url": "https://jobicy.com/jobs/139165-freelance-mechanical-engineering-python-expert-ai-trainer",
@@ -1811,7 +1917,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-03T05:22:46+00:00",
-    "fetched_at": "2026-02-21T06:25:47.661Z",
+    "fetched_at": "2026-02-21T12:18:33.740Z",
     "raw": {
       "id": 139164,
       "url": "https://jobicy.com/jobs/139164-freelance-python-test-framework-specialist-ai-trainer",
@@ -1877,7 +1983,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:22:42+00:00",
-    "fetched_at": "2026-02-21T06:25:47.662Z",
+    "fetched_at": "2026-02-21T12:18:33.741Z",
     "raw": {
       "id": 139162,
       "url": "https://jobicy.com/jobs/139162-senior-software-engineer-product-platform",
@@ -1923,7 +2029,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:21:56+00:00",
-    "fetched_at": "2026-02-21T06:25:47.662Z",
+    "fetched_at": "2026-02-21T12:18:33.741Z",
     "raw": {
       "id": 139150,
       "url": "https://jobicy.com/jobs/139150-forward-deployed-engineering-intern-ai-agent",
@@ -1971,7 +2077,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:21:26+00:00",
-    "fetched_at": "2026-02-21T06:25:47.664Z",
+    "fetched_at": "2026-02-21T12:18:33.743Z",
     "raw": {
       "id": 139145,
       "url": "https://jobicy.com/jobs/139145-backend-engineer-database-excellence-ruby",
@@ -2029,7 +2135,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-03T05:21:22+00:00",
-    "fetched_at": "2026-02-21T06:25:47.665Z",
+    "fetched_at": "2026-02-21T12:18:33.744Z",
     "raw": {
       "id": 139142,
       "url": "https://jobicy.com/jobs/139142-staff-frontend-engineer-ccxp",
@@ -2074,7 +2180,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-31T07:16:03+00:00",
-    "fetched_at": "2026-02-21T06:25:47.666Z",
+    "fetched_at": "2026-02-21T12:18:33.745Z",
     "raw": {
       "id": 139076,
       "url": "https://jobicy.com/jobs/139076-staff-backend-engineer-game-team",
@@ -2127,7 +2233,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-30T05:48:37+00:00",
-    "fetched_at": "2026-02-21T06:25:47.668Z",
+    "fetched_at": "2026-02-21T12:18:33.746Z",
     "raw": {
       "id": 139042,
       "url": "https://jobicy.com/jobs/139042-senior-backend-engineer-grafana-k6-germany-remote",
@@ -2184,7 +2290,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-30T05:48:35+00:00",
-    "fetched_at": "2026-02-21T06:25:47.669Z",
+    "fetched_at": "2026-02-21T12:18:33.748Z",
     "raw": {
       "id": 139041,
       "url": "https://jobicy.com/jobs/139041-senior-backend-engineer-grafana-k6-spain-remote",
@@ -2241,7 +2347,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-30T05:48:33+00:00",
-    "fetched_at": "2026-02-21T06:25:47.671Z",
+    "fetched_at": "2026-02-21T12:18:33.750Z",
     "raw": {
       "id": 139040,
       "url": "https://jobicy.com/jobs/139040-senior-backend-engineer-grafana-k6-uk-remote",
@@ -2298,7 +2404,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-30T05:48:20+00:00",
-    "fetched_at": "2026-02-21T06:25:47.673Z",
+    "fetched_at": "2026-02-21T12:18:33.751Z",
     "raw": {
       "id": 139034,
       "url": "https://jobicy.com/jobs/139034-senior-backend-engineer-grafana-k6-sweden-remote",
@@ -2341,7 +2447,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-29T05:40:34+00:00",
-    "fetched_at": "2026-02-21T06:25:47.674Z",
+    "fetched_at": "2026-02-21T12:18:33.752Z",
     "raw": {
       "id": 139012,
       "url": "https://jobicy.com/jobs/139012-senior-vehicle-security-engineer-all-genders",
@@ -2391,7 +2497,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:26:05+00:00",
-    "fetched_at": "2026-02-21T06:25:47.675Z",
+    "fetched_at": "2026-02-21T12:18:33.753Z",
     "raw": {
       "id": 138964,
       "url": "https://jobicy.com/jobs/138964-senior-qa-engineer-earn",
@@ -2445,7 +2551,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:26:02+00:00",
-    "fetched_at": "2026-02-21T06:25:47.675Z",
+    "fetched_at": "2026-02-21T12:18:33.754Z",
     "raw": {
       "id": 138962,
       "url": "https://jobicy.com/jobs/138962-senior-frontend-engineer-stablecoin",
@@ -2491,7 +2597,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-28T05:26:01+00:00",
-    "fetched_at": "2026-02-21T06:25:47.676Z",
+    "fetched_at": "2026-02-21T12:18:33.755Z",
     "raw": {
       "id": 138961,
       "url": "https://jobicy.com/jobs/138961-nice-cxone-developer-cxone-mpower-ai-specialist-consultant-or-freelance",
@@ -2537,7 +2643,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:25:32+00:00",
-    "fetched_at": "2026-02-21T06:25:47.677Z",
+    "fetched_at": "2026-02-21T12:18:33.756Z",
     "raw": {
       "id": 138954,
       "url": "https://jobicy.com/jobs/138954-solutions-engineer-critical-infrastructure",
@@ -2587,7 +2693,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:25:30+00:00",
-    "fetched_at": "2026-02-21T06:25:47.678Z",
+    "fetched_at": "2026-02-21T12:18:33.757Z",
     "raw": {
       "id": 138953,
       "url": "https://jobicy.com/jobs/138953-solutions-engineer-dod",
@@ -2646,7 +2752,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-28T05:24:46+00:00",
-    "fetched_at": "2026-02-21T06:25:47.679Z",
+    "fetched_at": "2026-02-21T12:18:33.757Z",
     "raw": {
       "id": 138940,
       "url": "https://jobicy.com/jobs/138940-middle-node-js-developer",
@@ -2704,7 +2810,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:24:41+00:00",
-    "fetched_at": "2026-02-21T06:25:47.680Z",
+    "fetched_at": "2026-02-21T12:18:33.759Z",
     "raw": {
       "id": 138937,
       "url": "https://jobicy.com/jobs/138937-senior-software-engineer-artificial-intelligence",
@@ -2763,7 +2869,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-28T05:24:39+00:00",
-    "fetched_at": "2026-02-21T06:25:47.682Z",
+    "fetched_at": "2026-02-21T12:18:33.760Z",
     "raw": {
       "id": 138936,
       "url": "https://jobicy.com/jobs/138936-staff-software-engineer-libraries-platform",
@@ -2812,7 +2918,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-26T04:28:17+00:00",
-    "fetched_at": "2026-02-21T06:25:47.683Z",
+    "fetched_at": "2026-02-21T12:18:33.762Z",
     "raw": {
       "id": 138868,
       "url": "https://jobicy.com/jobs/138868-senior-database-engineer",
@@ -2858,7 +2964,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-26T04:28:15+00:00",
-    "fetched_at": "2026-02-21T06:25:47.684Z",
+    "fetched_at": "2026-02-21T12:18:33.763Z",
     "raw": {
       "id": 138867,
       "url": "https://jobicy.com/jobs/138867-senior-software-engineer-platform",
@@ -2906,7 +3012,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-26T04:28:10+00:00",
-    "fetched_at": "2026-02-21T06:25:47.685Z",
+    "fetched_at": "2026-02-21T12:18:33.763Z",
     "raw": {
       "id": 138863,
       "url": "https://jobicy.com/jobs/138863-senior-software-engineer-6",
@@ -2958,7 +3064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-24T10:57:06+00:00",
-    "fetched_at": "2026-02-21T06:25:47.686Z",
+    "fetched_at": "2026-02-21T12:18:33.765Z",
     "raw": {
       "id": 138825,
       "url": "https://jobicy.com/jobs/138825-advanced-frontend-engineer-product",
@@ -3004,7 +3110,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-24T10:57:02+00:00",
-    "fetched_at": "2026-02-21T06:25:47.687Z",
+    "fetched_at": "2026-02-21T12:18:33.765Z",
     "raw": {
       "id": 138823,
       "url": "https://jobicy.com/jobs/138823-manager-engineering-2",
@@ -3052,7 +3158,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-24T10:57:01+00:00",
-    "fetched_at": "2026-02-21T06:25:47.689Z",
+    "fetched_at": "2026-02-21T12:18:33.767Z",
     "raw": {
       "id": 138822,
       "url": "https://jobicy.com/jobs/138822-solutions-engineer-commercial-german",
@@ -3095,7 +3201,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-24T10:56:52+00:00",
-    "fetched_at": "2026-02-21T06:25:47.690Z",
+    "fetched_at": "2026-02-21T12:18:33.768Z",
     "raw": {
       "id": 138815,
       "url": "https://jobicy.com/jobs/138815-principal-solutions-engineer",
@@ -3140,7 +3246,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-01-21T19:46:23+00:00",
-    "fetched_at": "2026-02-21T06:25:47.691Z",
+    "fetched_at": "2026-02-21T12:18:33.769Z",
     "raw": {
       "id": 138696,
       "url": "https://jobicy.com/jobs/138696-fsi-architect-foreign-systems-interface",
@@ -3195,7 +3301,7 @@
       "Programming"
     ],
     "posted_at": "2026-01-21T19:45:34+00:00",
-    "fetched_at": "2026-02-21T06:25:47.692Z",
+    "fetched_at": "2026-02-21T12:18:33.770Z",
     "raw": {
       "id": 138686,
       "url": "https://jobicy.com/jobs/138686-senior-rust-engineer",
