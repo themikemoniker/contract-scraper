@@ -1,16 +1,17 @@
 {
-  "totalJobs": 833,
+  "totalJobs": 832,
   "bySource": {
-    "wwr": 76,
     "arbeitnow": 91,
+    "wwr": 76,
     "jobicy": 62,
     "workingnomads": 15,
-    "remoteok": 97,
+    "remoteok": 96,
     "remotive": 18,
     "hn": 473,
     "himalayas": 1
   },
   "byTechStack": {
+    "typescript": 100,
     "c#": 13,
     "terraform": 66,
     "aws": 146,
@@ -36,7 +37,6 @@
     "dbt": 2,
     "snowflake": 8,
     "databricks": 10,
-    "typescript": 98,
     "php": 17,
     "laravel": 4,
     "mysql": 28,
@@ -172,32 +172,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 648,
-    "contract": 12,
-    "part-time": 6,
-    "freelance": 10
+    "freelance": 11,
+    "full-time": 649,
+    "contract": 11,
+    "part-time": 6
   },
   "byRemoteType": {
-    "remote": 461,
+    "remote": 460,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 115,
-    "50k-100k": 13,
+    "under50k": 113,
+    "50k-100k": 14,
     "100k-150k": 18,
     "150k-200k": 6,
     "over200k": 3,
     "unknown": 678
   },
-  "lastUpdated": "2026-02-24T00:55:44.061Z",
+  "lastUpdated": "2026-02-24T06:42:58.610Z",
   "jobsLast7Days": [
-    10,
+    9,
     56,
     29,
     16,
     3,
-    117,
-    0
+    111,
+    6
   ]
 }
