@@ -1,24 +1,26 @@
 {
-  "totalJobs": 829,
+  "totalJobs": 831,
   "bySource": {
-    "arbeitnow": 89,
+    "arbeitnow": 90,
     "workingnomads": 16,
     "remotive": 21,
     "wwr": 76,
     "remoteok": 97,
     "jobicy": 57,
-    "hn": 473
+    "hn": 473,
+    "himalayas": 1
   },
   "byTechStack": {
+    "python": 180,
+    "java": 76,
+    "aws": 150,
+    "kubernetes": 101,
+    "terraform": 67,
+    "unix": 3,
     "docker": 89,
-    "kubernetes": 99,
     "linux": 47,
-    "java": 75,
     "figma": 6,
     "oauth": 4,
-    "python": 180,
-    "aws": 148,
-    "terraform": 66,
     "spark": 22,
     "kafka": 21,
     "postgresql": 86,
@@ -27,16 +29,16 @@
     "huggingface": 4,
     "dbt": 3,
     "rag": 10,
-    "azure": 64,
+    "azure": 63,
     "ansible": 42,
     "git": 45,
     "bash": 25,
-    "javascript": 146,
-    "typescript": 103,
+    "javascript": 144,
+    "typescript": 101,
     "kotlin": 20,
     "react": 165,
     "vue": 30,
-    "angular": 26,
+    "angular": 25,
     "nodejs": 74,
     "nestjs": 6,
     "spring": 24,
@@ -52,8 +54,8 @@
     "go": 24,
     "c#": 14,
     "aspnet": 6,
-    "oracle": 13,
-    "sqlserver": 11,
+    "oracle": 12,
+    "sqlserver": 10,
     "mongodb": 16,
     "dynamodb": 5,
     "github-actions": 23,
@@ -132,7 +134,6 @@
     "scala": 12,
     "ember": 5,
     "pulumi": 3,
-    "unix": 2,
     "fiber": 1,
     "nats": 2,
     "ethereum": 4,
@@ -172,32 +173,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "freelance": 15,
-    "full-time": 645,
+    "full-time": 649,
+    "freelance": 14,
     "contract": 10,
     "part-time": 3
   },
   "byRemoteType": {
-    "remote": 461,
+    "remote": 462,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 118,
+    "under50k": 119,
     "50k-100k": 13,
-    "100k-150k": 19,
+    "100k-150k": 18,
     "150k-200k": 6,
     "over200k": 3,
-    "unknown": 670
+    "unknown": 672
   },
-  "lastUpdated": "2026-02-25T01:01:25.853Z",
+  "lastUpdated": "2026-02-25T06:46:16.803Z",
   "jobsLast7Days": [
     52,
     29,
     16,
     3,
     38,
-    90,
-    0
+    83,
+    8
   ]
 }
