@@ -2,8 +2,8 @@
   "totalJobs": 840,
   "bySource": {
     "arbeitnow": 84,
-    "jobicy": 70,
     "remoteok": 96,
+    "jobicy": 70,
     "remotive": 21,
     "wwr": 80,
     "workingnomads": 15,
@@ -11,9 +11,9 @@
     "himalayas": 1
   },
   "byTechStack": {
-    "python": 187,
+    "python": 188,
     "julia": 3,
-    "machine-learning": 103,
+    "machine-learning": 104,
     "java": 81,
     "kotlin": 20,
     "javascript": 142,
@@ -62,7 +62,7 @@
     "gitlab": 32,
     "helm": 12,
     "bash": 23,
-    "backbone": 4,
+    "backbone": 3,
     "blockchain": 20,
     "sentry": 3,
     "react-native": 26,
@@ -178,10 +178,10 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 664,
-    "contract": 13,
+    "full-time": 663,
+    "contract": 14,
     "freelance": 8,
-    "part-time": 3
+    "part-time": 4
   },
   "byRemoteType": {
     "remote": 470,
@@ -190,13 +190,13 @@
   },
   "bySalaryRange": {
     "under50k": 112,
-    "50k-100k": 14,
+    "50k-100k": 15,
     "100k-150k": 19,
     "150k-200k": 7,
     "over200k": 2,
-    "unknown": 686
+    "unknown": 685
   },
-  "lastUpdated": "2026-02-28T00:49:07.017Z",
+  "lastUpdated": "2026-02-28T06:20:06.923Z",
   "jobsLast7Days": [
     3,
     38,
@@ -204,6 +204,6 @@
     18,
     6,
     96,
-    0
+    1
   ]
 }
