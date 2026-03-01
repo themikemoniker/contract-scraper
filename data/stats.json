@@ -1,24 +1,23 @@
 {
-  "totalJobs": 837,
+  "totalJobs": 835,
   "bySource": {
     "arbeitnow": 86,
+    "remoteok": 95,
     "jobicy": 65,
-    "remoteok": 96,
     "remotive": 21,
     "wwr": 80,
     "workingnomads": 15,
-    "hn": 473,
-    "himalayas": 1
+    "hn": 473
   },
   "byTechStack": {
+    "segment": 5,
     "python": 181,
-    "segment": 4,
     "llm": 31,
     "linux": 44,
-    "aws": 152,
+    "aws": 151,
     "gcp": 61,
     "azure": 58,
-    "kubernetes": 106,
+    "kubernetes": 105,
     "machine-learning": 101,
     "vector-db": 4,
     "rag": 10,
@@ -39,16 +38,16 @@
     "vue": 28,
     "angular": 22,
     "spring": 25,
-    "docker": 88,
-    "kafka": 25,
+    "docker": 87,
+    "kafka": 24,
     "spark": 21,
     "git": 42,
     "databricks": 14,
     "express": 13,
     "figma": 10,
-    "terraform": 65,
+    "terraform": 64,
     "sso": 5,
-    "postgresql": 83,
+    "postgresql": 82,
     "mongodb": 15,
     "cassandra": 5,
     "apache": 12,
@@ -177,32 +176,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "contract": 16,
     "full-time": 657,
-    "freelance": 9,
-    "part-time": 3
+    "contract": 17,
+    "freelance": 8,
+    "part-time": 2
   },
   "byRemoteType": {
-    "remote": 469,
+    "remote": 466,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 112,
+    "under50k": 111,
     "50k-100k": 13,
-    "100k-150k": 18,
+    "100k-150k": 17,
     "150k-200k": 7,
     "over200k": 2,
     "unknown": 685
   },
-  "lastUpdated": "2026-03-01T06:30:26.167Z",
+  "lastUpdated": "2026-03-01T12:19:18.256Z",
   "jobsLast7Days": [
     38,
     6,
     18,
-    6,
-    74,
-    23,
-    11
+    5,
+    63,
+    25,
+    22
   ]
 }
