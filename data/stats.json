@@ -1,5 +1,5 @@
 {
-  "totalJobs": 829,
+  "totalJobs": 830,
   "bySource": {
     "arbeitnow": 86,
     "remoteok": 95,
@@ -7,7 +7,8 @@
     "remotive": 21,
     "wwr": 75,
     "workingnomads": 15,
-    "hn": 473
+    "hn": 473,
+    "himalayas": 1
   },
   "byTechStack": {
     "python": 175,
@@ -41,7 +42,7 @@
     "git": 40,
     "databricks": 12,
     "express": 13,
-    "figma": 10,
+    "figma": 9,
     "terraform": 61,
     "sso": 5,
     "postgresql": 80,
@@ -178,11 +179,11 @@
   "byContractType": {
     "freelance": 9,
     "contract": 17,
-    "full-time": 651,
+    "full-time": 652,
     "part-time": 2
   },
   "byRemoteType": {
-    "remote": 464,
+    "remote": 465,
     "onsite": 228,
     "hybrid": 1
   },
@@ -192,16 +193,16 @@
     "100k-150k": 17,
     "150k-200k": 7,
     "over200k": 2,
-    "unknown": 678
+    "unknown": 679
   },
-  "lastUpdated": "2026-03-02T00:56:29.517Z",
+  "lastUpdated": "2026-03-02T06:39:36.580Z",
   "jobsLast7Days": [
     6,
     18,
     5,
-    54,
+    52,
     27,
     32,
-    0
+    2
   ]
 }
