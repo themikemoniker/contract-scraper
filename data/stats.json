@@ -11,15 +11,19 @@
     "himalayas": 1
   },
   "byTechStack": {
+    "python": 179,
+    "aws": 138,
+    "gcp": 60,
+    "azure": 54,
+    "llm": 29,
+    "machine-learning": 100,
+    "spark": 22,
     "javascript": 136,
-    "python": 178,
     "ios": 45,
     "android": 47,
-    "gcp": 59,
     "java": 76,
     "typescript": 95,
     "zig": 1,
-    "azure": 53,
     "react": 165,
     "figma": 10,
     "linux": 50,
@@ -38,8 +42,6 @@
     "oracle": 11,
     "blockchain": 18,
     "backbone": 4,
-    "spark": 21,
-    "llm": 28,
     "ray": 1,
     "segment": 3,
     "saml": 4,
@@ -60,9 +62,7 @@
     "gitlab": 31,
     "newrelic": 1,
     "rust": 22,
-    "machine-learning": 99,
     "docker": 83,
-    "aws": 137,
     "heroku": 8,
     "nodejs": 68,
     "dynamodb": 4,
@@ -177,12 +177,12 @@
   },
   "byContractType": {
     "contract": 15,
-    "full-time": 654,
+    "full-time": 653,
     "freelance": 5,
     "part-time": 2
   },
   "byRemoteType": {
-    "remote": 458,
+    "remote": 459,
     "onsite": 228,
     "hybrid": 1
   },
@@ -194,14 +194,14 @@
     "over200k": 2,
     "unknown": 685
   },
-  "lastUpdated": "2026-03-03T00:58:11.283Z",
+  "lastUpdated": "2026-03-03T06:33:49.420Z",
   "jobsLast7Days": [
     17,
     5,
     20,
     6,
     0,
-    97,
-    0
+    94,
+    3
   ]
 }
