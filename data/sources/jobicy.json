@@ -1,5 +1,198 @@
 [
   {
+    "id": "jobicy:140234",
+    "platform": "jobicy",
+    "external_id": "140234",
+    "title": "Senior Staff SDE I (Czech Republic)",
+    "company": "EDB",
+    "description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally and as the leading contributor to the vibrant and fast-growing PostgreSQL community, EDB supports major government organizations, financial services, media and information technology companies. EDB’s data-driven solutions enable customers to modernize legacy systems and break data silos while leveraging enterprise-grade open source technologies. EDB delivers the confidence of up to 99.999% high availability with mission critical capabilities built in such as security, compliance controls, and observability. For more information, visit www.enterprisedb.com *Candidate Note: This position is 100% remote for candidates based in Czech Republic. We are seeking a highly skilled PostgreSQL and Kubernetes Specialist to design, implement, and maintain the EDB Postgres Distributed (PGD) Operator on a multi-master distributed PostgreSQL solution that provides high availability, geographic distribution, and active-active replication for enterprise workloads. As a member of the team, you will work directly on PGD operator’s architecture design, development, testing, and documentation of new and existing capabilities with EDB’s quality standards. What you’ll be doing: Design, develop, test, and document Kubernetes operators to manage PGD clusters in public, private, and hybrid cloud environments Analyze business requirements and translate them into executable tasks Provide world-class production support to EDB’s PGD customers on K8s Participate in code reviews and collaborate with a globally distributed team What you will bring: 5+ years of experience in a software engineering position Strong proficiency with Kubernetes Operators development in Go language (controller-runtime) Strong proficiency with Kubernetes API programming (event-driven) Experience with PostgreSQL internals (storage engine, WAL, replication, catalog system, or extension development) Understanding of distributed systems concepts: replication topologies, consensus, conflict resolution, eventual consistency, and failure modes Experience working on multi-version/multi-branch codebases with active backporting workflows Familiarity with build systems and CI/CD practices Comfort working with Git on a large, long-lived codebase with complex branching Strong debugging and performance analysis skills What will set you apart: Prior contributions to CloudNativePG or other Open Source projects in the Cloud Native operators landscape Advanced experience with Kubernetes administration, preferably with relevant certifications from CNCF such as Certified Kubernetes Administrator and Certified Kubernetes Security Expertise with PostgreSQL administration Experience with vendor-supported container orchestration platforms, both public (such as EKS, AKS and GKE) and private (such as Red Hat OpenShift, Rancher, or Tanzu) Experience with logical replication, logical decoding, or custom replication solutions Experience with high availability architectures and failover mechanisms EDB is committed to supporting our employees&#8217; overall well being by offering a range of benefits and resources to promote a healthy work-life balance and wellness. We provide access to CuraLinc to aid employees in health and wellness tips and practices, as well as Wellness Fridays extending to December 2026! Check out our career site for more information on perks and benefits and reach out to our Talent Acquisition team for region specific benefits. We know it takes a unique mix of people and skills to help us in our mission to supercharge Postgres, and we understand that not everyone will check every box. We’d love to hear from you and we want you to apply! EDB is proud to be an equal opportunity workplace. We celebrate diversity and are committed to creating an inclusive environment for all employees. EDB was built on a commitment to trust and respect each other and to embrace an array of people and ideas. These values remain at the center of our culture and are key to our company’s integrity. EDB does not seek or accept unsolicited resumes or CVs from recruitment agencies. EDB and its affiliates are not responsible for, and will not pay, any fees, commissions, or any other similar payment related to unsolicited resumes or CVs except as required in a written signed agreement between EDB and the recruitment agency or party requesting payment of a fee. #LI-Remote",
+    "url": "https://jobicy.com/jobs/140234-senior-staff-sde-i-czech-republic",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Czechia",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "postgresql",
+      "kubernetes",
+      "git"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-05T03:39:00+00:00",
+    "fetched_at": "2026-03-05T12:29:49.840Z",
+    "raw": {
+      "id": 140234,
+      "url": "https://jobicy.com/jobs/140234-senior-staff-sde-i-czech-republic",
+      "jobSlug": "140234-senior-staff-sde-i-czech-republic",
+      "jobTitle": "Senior Staff SDE I (Czech Republic)",
+      "companyName": "EDB",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6c7d3949-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Czechia",
+      "jobLevel": "Senior",
+      "jobExcerpt": "A Little About UsEDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere....",
+      "jobDescription": "<p><strong>A Little About Us</strong></p><p>EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally and as the leading contributor to the vibrant and fast-growing PostgreSQL community, EDB supports major government organizations, financial services, media and information technology companies. EDB’s data-driven solutions enable customers to modernize legacy systems and break data silos while leveraging enterprise-grade open source technologies. EDB delivers the confidence of up to 99.999% high availability with mission critical capabilities built in such as security, compliance controls, and observability. For more information, visit <a href=\"http://www.enterprisedb.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">www.enterprisedb.com</a></p><p><strong>*Candidate</strong> <strong>Note:</strong> This position is 100% remote for candidates based in Czech Republic. </p><p>We are seeking a highly skilled PostgreSQL and Kubernetes Specialist to design, implement, and maintain the EDB Postgres Distributed (PGD) Operator on a multi-master distributed PostgreSQL solution that provides high availability, geographic distribution, and active-active replication for enterprise workloads. </p><p>As a member of the team, you will work directly on PGD operator’s architecture design, development, testing, and documentation of new and existing capabilities with EDB’s quality standards.</p><p><strong>What you’ll be doing:</strong></p><ul>\r\n<li>Design, develop, test, and document Kubernetes operators to manage PGD clusters in public, private, and hybrid cloud environments</li>\r\n<li>Analyze business requirements and translate them into executable tasks</li>\r\n<li>Provide world-class production support to EDB’s PGD customers on K8s</li>\r\n<li>Participate in code reviews and collaborate with a globally distributed team</li>\r\n</ul><p><strong>What you will bring:</strong></p><ul>\r\n<li>5+ years of experience in a software engineering position</li>\r\n<li>Strong proficiency with Kubernetes Operators development in Go language (controller-runtime)</li>\r\n<li>Strong proficiency with Kubernetes API programming (event-driven)</li>\r\n<li>Experience with PostgreSQL internals (storage engine, WAL, replication, catalog system, or extension development)</li>\r\n<li>Understanding of distributed systems concepts: replication topologies, consensus, conflict resolution, eventual consistency, and failure modes</li>\r\n<li>Experience working on multi-version/multi-branch codebases with active backporting workflows</li>\r\n<li>Familiarity with build systems and CI/CD practices</li>\r\n<li>Comfort working with Git on a large, long-lived codebase with complex branching</li>\r\n<li>Strong debugging and performance analysis skills</li>\r\n</ul><p><strong>What will set you apart:</strong></p><ul>\r\n<li>Prior contributions to CloudNativePG or other Open Source projects in the Cloud Native operators landscape</li>\r\n<li>Advanced experience with Kubernetes administration, preferably with relevant certifications from CNCF such as Certified Kubernetes Administrator and Certified Kubernetes Security</li>\r\n<li>Expertise with PostgreSQL administration</li>\r\n<li>Experience with vendor-supported container orchestration platforms, both public (such as EKS, AKS and GKE) and private (such as Red Hat OpenShift, Rancher, or Tanzu)</li>\r\n<li>Experience with logical replication, logical decoding, or custom replication solutions</li>\r\n<li>Experience with high availability architectures and failover mechanisms</li>\r\n</ul><p>EDB is committed to supporting our employees&#8217; overall well being by offering a range of benefits and resources to promote a healthy work-life balance and wellness. We provide access to CuraLinc to aid employees in health and wellness tips and practices, as well as Wellness Fridays extending to December 2026! Check out our career site for more information on perks and benefits and reach out to our Talent Acquisition team for region specific benefits.</p><p>We know it takes a unique mix of people and skills to help us in our mission to supercharge Postgres, and we understand that not everyone will check every box. We’d love to hear from you and we want you to apply!</p><p>EDB is proud to be an equal opportunity workplace. We celebrate diversity and are committed to creating an inclusive environment for all employees. EDB was built on a commitment to trust and respect each other and to embrace an array of people and ideas. These values remain at the center of our culture and are key to our company’s integrity. </p><p>EDB does not seek or accept unsolicited resumes or CVs from recruitment agencies. EDB and its affiliates are not responsible for, and will not pay, any fees, commissions, or any other similar payment related to unsolicited resumes or CVs except as required in a written signed agreement between EDB and the recruitment agency or party requesting payment of a fee.</p><p>#LI-Remote</p>",
+      "pubDate": "2026-03-05T03:39:00+00:00"
+    }
+  },
+  {
+    "id": "jobicy:140211",
+    "platform": "jobicy",
+    "external_id": "140211",
+    "title": "Partner Solutions Architect",
+    "company": "Twilio",
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! . See yourself at Twilio Join the team as Twilio’s next Partner Solutions Architect. About the job This position is needed to act as a lead technical strategic advisor for our most strategic partners in the APJ region, ensuring they have the technical vision and enablement to build world-class solutions on the platform. Join our Partners team as a Principal technical influencer guiding strategic System Integrators and Technology Partners across APJ. You will design sophisticated, multi-platform solutions that integrate with complex technology stacks. By driving technical enablement, you ensure partners deliver customer outcomes independently. In this role, you will maintain alignment with internal GTM teams to drive regional success and serve as a Subject Matter Expert to help shape our global partner strategy and product roadmap. Responsibilities In this role, you’ll: Drive technical enablement and readiness across strategic partners to ensure long-term architectural self-sufficiency. Partner with regional GTM teams to embed partner implementation strategies into early-stage planning and business alignment. Architect scalable, secure solutions that integrate products into complex enterprise technology stacks. Act as a technical bridge between the partner community and Product teams to influence global roadmaps. Create reusable solution assets and technical documentation that help partners scale adoption. Qualifications Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn&#8217;t followed a traditional path, don&#8217;t let that stop you from considering Twilio. We are always looking for people who will bring something new to the table! *Required: 8+ years of experience in technical pre-sales, consulting, or partner-facing architectural roles. Demonstrated experience in System Integrator (SI) or Technology Partner ecosystems focused on building technical practices. Technical fluency in API-first architectures and the ability to build functional prototypes to demonstrate integration concepts. Outstanding communication skills with the ability to convey complex technical topics to both executive and developer audiences. Desired: Subject Matter Expertise in AI-powered customer engagement (Agentic workflows, RAG, LLMs), CCaaS, or Telecom (SIP, WebRTC). Proficiency in multiple languages applicable to the APJ region. Experience as a strategic influencer, providing insights to internal product teams to shape global roadmaps. Location This role will be remote, and based in Singapore. Travel We prioritize connection and opportunities to build relationships with our customers and each other. For this role, approximately 15% travel is anticipated to help you connect in-person in a meaningful way. What We Offer Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location. Twilio thinks big. Do you? We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That&#8217;s why we seek out colleagues who embody our values — something we call Twilio Magic . Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts. So, if you&#8217;re ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn&#8217;t what you&#8217;re looking for, please consider other open positions. Twilio is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.",
+    "url": "https://jobicy.com/jobs/140211-partner-solutions-architect",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Singapore",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "rag",
+      "twilio"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-05T03:37:49+00:00",
+    "fetched_at": "2026-03-05T12:29:49.841Z",
+    "raw": {
+      "id": 140211,
+      "url": "https://jobicy.com/jobs/140211-partner-solutions-architect",
+      "jobSlug": "140211-partner-solutions-architect",
+      "jobTitle": "Partner Solutions Architect",
+      "companyName": "Twilio",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/WRILS-201023175858-722503.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Singapore",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers...",
+      "jobDescription": "<p><strong>Who we are </strong></p><p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a href=\"https://customers.twilio.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\"> hundreds of thousands of businesses </a>and empower millions of developers worldwide to craft personalized customer experiences.</p><p>Our dedication to <a href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" rel=\"nofollow ugc noopener\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br />We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!</p><p>.</p><p><strong>See yourself at Twilio</strong></p><p>Join the team as Twilio’s next Partner Solutions Architect.</p><p><strong>About the job</strong></p><p>This position is needed to act as a lead technical strategic advisor for our most strategic partners in the APJ region, ensuring they have the technical vision and enablement to build world-class solutions on the platform.</p><p>Join our Partners team as a Principal technical influencer guiding strategic System Integrators and Technology Partners across APJ. You will design sophisticated, multi-platform solutions that integrate with complex technology stacks. By driving technical enablement, you ensure partners deliver customer outcomes independently. In this role, you will maintain alignment with internal GTM teams to drive regional success and serve as a Subject Matter Expert to help shape our global partner strategy and product roadmap.</p><p><strong>Responsibilities</strong></p><p>In this role, you’ll:</p><ul>\n<li>Drive technical enablement and readiness across strategic partners to ensure long-term architectural self-sufficiency.</li>\n<li>Partner with regional GTM teams to embed partner implementation strategies into early-stage planning and business alignment.</li>\n<li>Architect scalable, secure solutions that integrate products into complex enterprise technology stacks.</li>\n<li>Act as a technical bridge between the partner community and Product teams to influence global roadmaps.</li>\n<li>Create reusable solution assets and technical documentation that help partners scale adoption.</li>\n</ul><p><strong>Qualifications </strong></p><p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn&#8217;t followed a traditional path, don&#8217;t let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p><p><strong>*Required:</strong></p><ul>\n<li>8+ years of experience in technical pre-sales, consulting, or partner-facing architectural roles.</li>\n<li>Demonstrated experience in System Integrator (SI) or Technology Partner ecosystems focused on building technical practices.</li>\n<li>Technical fluency in API-first architectures and the ability to build functional prototypes to demonstrate integration concepts.</li>\n<li>Outstanding communication skills with the ability to convey complex technical topics to both executive and developer audiences.</li>\n</ul><p><strong>Desired:</strong></p><ul>\n<li>Subject Matter Expertise in AI-powered customer engagement (Agentic workflows, RAG, LLMs), CCaaS, or Telecom (SIP, WebRTC).</li>\n<li>Proficiency in multiple languages applicable to the APJ region.</li>\n<li>Experience as a strategic influencer, providing insights to internal product teams to shape global roadmaps.</li>\n</ul><p><strong>Location</strong></p><p> This role will be remote, and based in Singapore.</p><p><strong>Travel </strong></p><p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, approximately 15% travel is anticipated to help you connect in-person in a meaningful way. </p><p><strong>What We Offer</strong></p><p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p><p><strong>Twilio thinks big. Do you?</strong></p><p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That&#8217;s why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\" rel=\"nofollow ugc noopener\" target=\"_blank\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\" rel=\"nofollow ugc noopener\" target=\"_blank\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p><p>So, if you&#8217;re ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn&#8217;t what you&#8217;re looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\" rel=\"nofollow ugc noopener\" target=\"_blank\">please consider other open positions.</a></p><p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p>",
+      "pubDate": "2026-03-05T03:37:49+00:00"
+    }
+  },
+  {
+    "id": "jobicy:140210",
+    "platform": "jobicy",
+    "external_id": "140210",
+    "title": "Senior Machine Learning Engineer &amp;#8211; Canva AI (AU remote)",
+    "company": "Canva",
+    "description": "Company Description Join the team redefining how the world experiences design. Hey, g&#8217;day, mabuhay, kia ora,你好, hallo, vítejte! Thanks for stopping by. We know job hunting can be a little time consuming and you&#8217;re probably keen to find out what&#8217;s on offer, so we&#8217;ll get straight to the point. Where and how you can work Our flagship campus is in Sydney, with a second campus in Melbourne and co-working spaces in Brisbane, Perth, Adelaide, and Auckland, NZ. You have flexibility in how and where you work — whether that&#8217;s from one of our spaces, from home, or a mix of both. This role is remote-friendly within Australia or New Zealand , so you can choose the setup that empowers you and your team to do your best work. Job Description About the team We are the Canva AI Group, and we’re the team behind the intelligence that powers Canva’s AI experiences. From content generation to smart Q&amp;A and brainstorming, we create the end-to-end journeys that make AI feel intuitive, magical, and useful. Our vision is to create the most natural and powerful conversational experience for our users &#8211; helping them design, write, ideate, and bring their ideas to life with ease. The work we do is at the core of Canva’s success, and it plays a vital role in our ambition to become the world’s leading visual communication platform. About the role We’re looking for a Senior Machine Learning Engineer to help reimagine how people interact with Canva. You’ll work on the AI that powers our conversational experiences, building on top of large models and designing scalable systems that can be used across the product. This is a deeply hands-on role where you’ll be writing code, shaping features, and working side by side with software engineers. You’ll take ideas from prototype to production, partnering with teams across Canva to deliver ML-driven features that feel seamless and genuinely helpful. If you’re excited about crafting AI that feels human, useful, and empowering. If you want to work on something that touches millions of users every day, please apply today. What you will be doing Building a truly flexible and scalable conversational AI platform, designed to serve diverse use cases without custom implementations (designing modular architecture, scalable model serving, configurable workflows) Fine-tuning and evaluating LLM-based models to improve performance, efficiency, and user experience Contributing to platform engineering across both ML and backend systems—this is a highly hands-on role Exploring integrations with industry-standard tools and best practices like MCP and A2A Collaborating with cross-functional teams to define and deliver impactful AI features Mentoring other Machine Learning Engineers and lifting engineering quality and excellence You’re probably a match if You bring a strong bias for action and a product-minded approach to engineering You love getting hands-on, working side-by-side with software engineers, writing Python production code (including Java Backend &#8211; where needed), and solving complex engineering problems You have deep experience building and deploying ML-powered products, particularly in conversational AI You enjoy influencing roadmap decisions and thrive in ambiguous environments You’re passionate about keeping up with the rapidly evolving AI space and proactively experiment with emerging techniques Additional Information Don&#8217;t tick all the boxes? Don&#8217;t worry about that &#8211; nobody does! We’d still love to hear from you! At Canva, we know that great engineers come from a variety of backgrounds, and we value passion, curiosity, and a willingness to learn just as much as specific experience. If you&#8217;re excited about this role but don’t tick every box, we encourage you to apply, you might a great fit in ways you didn’t expect! What&#8217;s in it for you? Achieving our crazy big goals motivates us to work hard &#8211; and we do &#8211; but you&#8217;ll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work. Here&#8217;s a taste of what&#8217;s on offer: Equity packages &#8211; we want our success to be yours too Inclusive parental leave policy that supports all parents &amp; carers An annual Vibe &amp; Thrive allowance to support your wellbeing, social connection, office setup &amp; more Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally Check out lifeatcanva.com for more info. Other stuff to know We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process. All our interviews are conducted virtually",
+    "url": "https://jobicy.com/jobs/140210-senior-machine-learning-engineer-canva-ai-au-remote",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Australia",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "java",
+      "llm",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-05T03:37:47+00:00",
+    "fetched_at": "2026-03-05T12:29:49.842Z",
+    "raw": {
+      "id": 140210,
+      "url": "https://jobicy.com/jobs/140210-senior-machine-learning-engineer-canva-ai-au-remote",
+      "jobSlug": "140210-senior-machine-learning-engineer-canva-ai-au-remote",
+      "jobTitle": "Senior Machine Learning Engineer &amp;#8211; Canva AI (AU remote)",
+      "companyName": "Canva",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/12/WRILS-201227212703-643638.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Australia",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Company DescriptionJoin the team redefining how the world experiences design.Hey, g&amp;#8217;day, mabuhay, kia ora,你好, hallo, vítejte!Thanks for stopping by. We know job hunting can be a little time consuming and...",
+      "jobDescription": "<h2>Company Description</h2><p><strong>Join the team redefining how the world experiences design.</strong></p><p>Hey, g&#8217;day, mabuhay, kia ora,你好, hallo, vítejte!</p><p>Thanks for stopping by. We know job hunting can be a little time consuming and you&#8217;re probably keen to find out what&#8217;s on offer, so we&#8217;ll get straight to the point. </p><p><strong>Where and how you can work</strong></p><p>Our flagship campus is in Sydney, with a second campus in Melbourne and co-working spaces in Brisbane, Perth, Adelaide, and Auckland, NZ. You have flexibility in how and where you work — whether that&#8217;s from one of our spaces, from home, or a mix of both. This role is remote-friendly <strong>within Australia or New Zealand</strong>, so you can choose the setup that empowers you and your team to do your best work.</p><h2>Job Description</h2><p><strong>About the team</strong></p><p>We are the Canva AI Group, and we’re the team behind the intelligence that powers Canva’s AI experiences. From content generation to smart Q&amp;A and brainstorming, we create the end-to-end journeys that make AI feel intuitive, magical, and useful. </p><p>Our vision is to create the most natural and powerful conversational experience for our users &#8211; helping them design, write, ideate, and bring their ideas to life with ease. The work we do is at the core of Canva’s success, and it plays a vital role in our ambition to become the world’s leading visual communication platform.</p><p><strong>About the role</strong></p><p>We’re looking for a Senior Machine Learning Engineer to help reimagine how people interact with Canva. You’ll work on the AI that powers our conversational experiences, building on top of large models and designing scalable systems that can be used across the product.</p><p>This is a deeply hands-on role where you’ll be writing code, shaping features, and working side by side with software engineers. You’ll take ideas from prototype to production, partnering with teams across Canva to deliver ML-driven features that feel seamless and genuinely helpful.</p><p>If you’re excited about crafting AI that feels human, useful, and empowering. If you want to work on something that touches millions of users every day, please apply today.</p><p><strong>What you will be doing</strong></p><ul><li>Building a truly flexible and scalable conversational AI platform, designed to serve diverse use cases without custom implementations (designing modular architecture, scalable model serving, configurable workflows)</li><li>Fine-tuning and evaluating LLM-based models to improve performance, efficiency, and user experience</li><li>Contributing to platform engineering across both ML and backend systems—this is a highly hands-on role</li><li>Exploring integrations with industry-standard tools and best practices like MCP and A2A</li><li>Collaborating with cross-functional teams to define and deliver impactful AI features</li><li>Mentoring other Machine Learning Engineers and lifting engineering quality and excellence</li></ul><p><strong>You’re probably a match if</strong></p><ul><li>You bring a strong bias for action and a product-minded approach to engineering</li><li>You love getting hands-on, working side-by-side with software engineers, writing Python production code (including Java Backend &#8211; where needed), and solving complex engineering problems</li><li>You have deep experience building and deploying ML-powered products, particularly in conversational AI</li><li>You enjoy influencing roadmap decisions and thrive in ambiguous environments</li><li>You’re passionate about keeping up with the rapidly evolving AI space and proactively experiment with emerging techniques</li></ul><h2>Additional Information</h2><p><strong>Don&#8217;t tick all the boxes? Don&#8217;t worry about that &#8211; nobody does! </strong>We’d still love to hear from you! At Canva, we know that great engineers come from a variety of backgrounds, and we value passion, curiosity, and a willingness to learn just as much as specific experience. If you&#8217;re excited about this role but don’t tick every box, we encourage you to apply, you might a great fit in ways you didn’t expect!</p><p><strong>What&#8217;s in it for you?</strong></p><p>Achieving our crazy big goals motivates us to work hard &#8211; and we do &#8211; but you&#8217;ll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.</p><p><strong>Here&#8217;s a taste of what&#8217;s on offer:</strong></p><ul><li>Equity packages &#8211; we want our success to be yours too</li><li>Inclusive parental leave policy that supports all parents &amp; carers</li><li>An annual Vibe &amp; Thrive allowance to support your wellbeing, social connection, office setup &amp; more</li><li>Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally</li></ul><p>Check out <a href=\"https://www.lifeatcanva.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">lifeatcanva.com </a>for more info.</p><p><strong>Other stuff to know</strong></p><p>We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.</p><p><em>All our interviews are conducted virtually</em></p>",
+      "pubDate": "2026-03-05T03:37:47+00:00"
+    }
+  },
+  {
+    "id": "jobicy:140193",
+    "platform": "jobicy",
+    "external_id": "140193",
+    "title": "Senior Software Engineer, Fullstack/Backend Technologies (Poland Remote)",
+    "company": "Turnitin, LLC",
+    "description": "Company Description When you join Turnitin, you&#8217;ll be welcomed into a company that is a recognized innovator in the global education space. For more than 20 years, Turnitin has partnered with educational institutions to promote honesty, consistency, and fairness across all subject areas and assessment types. Over 16,000 academic institutions, publishers, and corporations use our services: Gradescope by Turnitin, iThenticate, Turnitin Feedback Studio, Turnitin Originality, Turnitin Similarity, ExamSoft, and ProctorExam. Turnitin has offices in Australia, India, Indonesia, Japan, Korea, Mexico, the Netherlands, the Philippines, Ukraine, the United Kingdom, and the United States. Our diverse community of colleagues are all unified by a shared desire to make a difference in education. Come join us, and let&#8217;s make change together. Job Description Turnitin is seeking a Senior Fullstack/Backend Engineer with a strong focus on backend development, particularly in Java and serverless architectures, combined with solid frontend experience. This role is ideal for engineers passionate about building scalable distributed systems, data modeling, and delivering high-performing, reliable software solutions for our award-winning educational platform. As a core contributor to our shared services team, you will play a key role in developing and enhancing the foundational systems that power both existing and new applications. Responsibilities: Design, develop, and optimize scalable shared backend services using Java and serverless technologies (AWS Lambda) Design / implement RESTful APIs and event-driven systems Contribute to the development of user-facing frontend components as needed. Optimize existing services for improved performance and cost-efficiency Collaborate closely with cross-functional teams, including Architects, Product Managers, and other engineering leads, to deliver innovative solutions. Provide mentorship and guidance to junior developers, fostering growth and sharing best practices. Implement and maintain CI/CD pipelines Ensure high-quality code through peer reviews, automated testing, and adherence to software development standards. Create comprehensive documentation for the developed shared components, including usage guidelines and examples. Qualifications Essential Qualifications, Skills, and Knowledge/Experience 8+ years of expertise in backend development, with proficiency in Java and experience with serverless frameworks (e.g., AWS Lambda, Google Cloud Functions). Hands-on experience with frontend technologies (e.g., React, Web Components). Strong understanding of distributed systems, scalability, and data modeling. Proven ability to work effectively in cross-functional teams and collaborate with stakeholders across various locations, including distributed teams based in Europe and the USA, to deliver impactful solutions. Practical experience in cloud technologies and frameworks, specifically developing serverless applications on AWS using technologies such as lambda, DynamoDB, API Gateway and SNS/SQS/EventBridge. Extensive experience with software development best practices (e.g. design patterns, test-driven development, code profiling, debugging). Experience with CI/CD tools, including build, deployment and test automation. Ability to communicate effectively with both technical and non-technical colleagues in agile environments. A passion for mentoring and developing the skills of junior engineers. Preferred Qualifications, Skills, and Knowledge/Experience Understanding or experience with AI/ML. Additional Information Our Mission is to ensure the integrity of global education and meaningfully improve learning outcomes. Our Values underpin everything we do. Customer Centric &#8211; We realize our mission to ensure integrity and improve learning outcomes by putting educators and learners at the center of everything we do. Passion for Learning &#8211; We seek out teammates that are constantly learning and growing and build a workplace which enables them to do so. Integrity &#8211; We believe integrity is the heartbeat of Turnitin. It shapes our products, the way we treat each other, and how we work with our customers and vendors. Action &amp; Ownership &#8211; We have a bias toward action and empower teammates to make decisions. One Team &#8211; We strive to break down silos, collaborate effectively, and celebrate each other’s successes. Global Mindset &#8211; We respect local cultures and embrace diversity. We think globally and act locally to maximize our impact on education. Seeing Beyond the Job Ad At Turnitin, we recognize it’s unrealistic for candidates to fulfill 100% of the criteria in a job ad. We encourage you to apply if you meet the majority of the requirements because we know that skills evolve over time. If you’re willing to learn and evolve alongside us, join our team! Turnitin, LLC is committed to the policy that all persons have equal access to its programs, facilities and employment. We strongly encourage applications from people of color, persons with disabilities, women, and the LGBTQ+ community, regardless of age, gender, religion, marital or veterans status.",
+    "url": "https://jobicy.com/jobs/140193-senior-software-engineer-fullstack-backend-technologies-poland-remote-2",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Poland",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "java",
+      "react",
+      "dynamodb",
+      "aws",
+      "gcp",
+      "machine-learning",
+      "sqs",
+      "rest"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-05T03:36:48+00:00",
+    "fetched_at": "2026-03-05T12:29:49.843Z",
+    "raw": {
+      "id": 140193,
+      "url": "https://jobicy.com/jobs/140193-senior-software-engineer-fullstack-backend-technologies-poland-remote-2",
+      "jobSlug": "140193-senior-software-engineer-fullstack-backend-technologies-poland-remote-2",
+      "jobTitle": "Senior Software Engineer, Fullstack/Backend Technologies (Poland Remote)",
+      "companyName": "Turnitin, LLC",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/07/74eaceda-221.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Poland",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Company DescriptionWhen you join Turnitin, you&amp;#8217;ll be welcomed into a company that is a recognized innovator in the global education space. For more than 20 years, Turnitin has partnered with...",
+      "jobDescription": "<h2>Company Description</h2><p>When you join Turnitin, you&#8217;ll be welcomed into a company that is a recognized innovator in the global education space. For more than 20 years, Turnitin has partnered with educational institutions to promote honesty, consistency, and fairness across all subject areas and assessment types. Over 16,000 academic institutions, publishers, and corporations use our services: Gradescope by Turnitin, iThenticate, Turnitin Feedback Studio, Turnitin Originality, Turnitin Similarity, ExamSoft, and ProctorExam.</p><p>Turnitin has offices in Australia, India, Indonesia, Japan, Korea, Mexico, the Netherlands, the Philippines, Ukraine, the United Kingdom, and the United States. Our diverse community of colleagues are all unified by a shared desire to make a difference in education. Come join us, and let&#8217;s make change together.</p><h2>Job Description</h2><p>Turnitin is seeking a Senior Fullstack/Backend Engineer with a strong focus on backend development, particularly in Java and serverless architectures, combined with solid frontend experience. This role is ideal for engineers passionate about building scalable distributed systems, data modeling, and delivering high-performing, reliable software solutions for our award-winning educational platform.</p><p>As a core contributor to our shared services team, you will play a key role in developing and enhancing the foundational systems that power both existing and new applications. </p><p><strong>Responsibilities: </strong></p><ul><li>Design, develop, and optimize scalable shared backend services using Java and serverless technologies (AWS Lambda)</li><li>Design / implement RESTful APIs and event-driven systems</li><li>Contribute to the development of user-facing frontend components as needed.</li><li>Optimize existing services for improved performance and cost-efficiency</li><li>Collaborate closely with cross-functional teams, including Architects, Product Managers, and other engineering leads, to deliver innovative solutions.</li><li>Provide mentorship and guidance to junior developers, fostering growth and sharing best practices.</li><li>Implement and maintain CI/CD pipelines</li><li>Ensure high-quality code through peer reviews, automated testing, and adherence to software development standards.</li><li>Create comprehensive documentation for the developed shared components, including usage guidelines and examples.</li></ul><h2>Qualifications</h2><p><strong>Essential Qualifications, Skills, and Knowledge/Experience</strong></p><ul><li>8+ years of expertise in backend development, with proficiency in Java and experience with serverless frameworks (e.g., AWS Lambda, Google Cloud Functions).</li><li>Hands-on experience with frontend technologies (e.g., React, Web Components).</li><li>Strong understanding of distributed systems, scalability, and data modeling.</li><li>Proven ability to work effectively in cross-functional teams and collaborate with stakeholders across various locations, including distributed teams based in Europe and the USA, to deliver impactful solutions.</li><li>Practical experience in cloud technologies and frameworks, specifically developing serverless applications on AWS using technologies such as lambda, DynamoDB, API Gateway and SNS/SQS/EventBridge.</li><li>Extensive experience with software development best practices (e.g. design patterns, test-driven development, code profiling, debugging).</li><li>Experience with CI/CD tools, including build, deployment and test automation.</li><li>Ability to communicate effectively with both technical and non-technical colleagues in agile environments.</li><li>A passion for mentoring and developing the skills of junior engineers.</li></ul><p><strong>Preferred Qualifications, Skills, and Knowledge/Experience</strong></p><ul><li><p>Understanding or experience with AI/ML.</p></li></ul><h2>Additional Information</h2><p><strong>Our Mission </strong>is to ensure the integrity of global education and meaningfully improve learning outcomes. </p><p><strong>Our Values </strong>underpin everything we do.</p><ul><li><strong>Customer Centric &#8211; </strong>We realize our mission to ensure integrity and improve learning outcomes by putting educators and learners at the center of everything we do.</li><li><strong>Passion for Learning &#8211; </strong>We seek out teammates that are constantly learning and growing and build a workplace which enables them to do so.</li><li><strong>Integrity &#8211; </strong>We believe integrity is the heartbeat of Turnitin. It shapes our products, the way we treat each other, and how we work with our customers and vendors.</li><li><strong>Action &amp; Ownership &#8211; </strong>We have a bias toward action and empower teammates to make decisions.</li><li><strong>One Team &#8211; </strong>We strive to break down silos, collaborate effectively, and celebrate each other’s successes.</li><li><strong>Global Mindset &#8211; </strong>We respect local cultures and embrace diversity. We think globally and act locally to maximize our impact on education.</li></ul><p><strong>Seeing Beyond the Job Ad</strong></p><p>At Turnitin, we recognize it’s unrealistic for candidates to fulfill 100% of the criteria in a job ad. We encourage you to apply if you meet the majority of the requirements because we know that skills evolve over time. If you’re willing to learn and evolve alongside us, join our team! </p><p>Turnitin, LLC is committed to the policy that all persons have equal access to its programs, facilities and employment. We strongly encourage applications from people of color, persons with disabilities, women, and the LGBTQ+ community, regardless of age, gender, religion, marital or veterans status.</p>",
+      "pubDate": "2026-03-05T03:36:48+00:00"
+    }
+  },
+  {
     "id": "jobicy:140157",
     "platform": "jobicy",
     "external_id": "140157",
@@ -24,7 +217,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:15+00:00",
-    "fetched_at": "2026-03-05T06:33:47.163Z",
+    "fetched_at": "2026-03-05T12:29:49.844Z",
     "raw": {
       "id": 140157,
       "url": "https://jobicy.com/jobs/140157-senior-software-engineer-10",
@@ -79,7 +272,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:14+00:00",
-    "fetched_at": "2026-03-05T06:33:47.165Z",
+    "fetched_at": "2026-03-05T12:29:49.846Z",
     "raw": {
       "id": 140156,
       "url": "https://jobicy.com/jobs/140156-principal-machine-learning-engineer-2",
@@ -131,7 +324,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:09+00:00",
-    "fetched_at": "2026-03-05T06:33:47.166Z",
+    "fetched_at": "2026-03-05T12:29:49.847Z",
     "raw": {
       "id": 140153,
       "url": "https://jobicy.com/jobs/140153-staff-site-reliability-engineer-2",
@@ -189,7 +382,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:06+00:00",
-    "fetched_at": "2026-03-05T06:33:47.167Z",
+    "fetched_at": "2026-03-05T12:29:49.848Z",
     "raw": {
       "id": 140151,
       "url": "https://jobicy.com/jobs/140151-senior-software-engineer-risk-engineering-2",
@@ -246,7 +439,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:04+00:00",
-    "fetched_at": "2026-03-05T06:33:47.169Z",
+    "fetched_at": "2026-03-05T12:29:49.850Z",
     "raw": {
       "id": 140150,
       "url": "https://jobicy.com/jobs/140150-full-stack-software-engineer-robotics-hmi",
@@ -295,7 +488,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:02+00:00",
-    "fetched_at": "2026-03-05T06:33:47.171Z",
+    "fetched_at": "2026-03-05T12:29:49.852Z",
     "raw": {
       "id": 140149,
       "url": "https://jobicy.com/jobs/140149-ai-engineer",
@@ -347,7 +540,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:01+00:00",
-    "fetched_at": "2026-03-05T06:33:47.172Z",
+    "fetched_at": "2026-03-05T12:29:49.854Z",
     "raw": {
       "id": 140148,
       "url": "https://jobicy.com/jobs/140148-senior-software-engineer-9",
@@ -399,7 +592,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:23:59+00:00",
-    "fetched_at": "2026-03-05T06:33:47.174Z",
+    "fetched_at": "2026-03-05T12:29:49.856Z",
     "raw": {
       "id": 140147,
       "url": "https://jobicy.com/jobs/140147-staff-product-engineer-fullstack",
@@ -446,7 +639,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:35+00:00",
-    "fetched_at": "2026-03-05T06:33:47.175Z",
+    "fetched_at": "2026-03-05T12:29:49.858Z",
     "raw": {
       "id": 140123,
       "url": "https://jobicy.com/jobs/140123-manufacturing-engineer",
@@ -497,7 +690,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:33+00:00",
-    "fetched_at": "2026-03-05T06:33:47.176Z",
+    "fetched_at": "2026-03-05T12:29:49.860Z",
     "raw": {
       "id": 140122,
       "url": "https://jobicy.com/jobs/140122-senior-research-engineer-europe-uk-remote",
@@ -546,7 +739,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:19+00:00",
-    "fetched_at": "2026-03-05T06:33:47.177Z",
+    "fetched_at": "2026-03-05T12:29:49.861Z",
     "raw": {
       "id": 140113,
       "url": "https://jobicy.com/jobs/140113-software-developer-in-test-javascript",
@@ -594,7 +787,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:17+00:00",
-    "fetched_at": "2026-03-05T06:33:47.178Z",
+    "fetched_at": "2026-03-05T12:29:49.862Z",
     "raw": {
       "id": 140112,
       "url": "https://jobicy.com/jobs/140112-mobile-software-development-engineer",
@@ -643,7 +836,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:03+00:00",
-    "fetched_at": "2026-03-05T06:33:47.179Z",
+    "fetched_at": "2026-03-05T12:29:49.863Z",
     "raw": {
       "id": 140103,
       "url": "https://jobicy.com/jobs/140103-software-engineer-backend-payments-2",
@@ -690,7 +883,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:00+00:00",
-    "fetched_at": "2026-03-05T06:33:47.179Z",
+    "fetched_at": "2026-03-05T12:29:49.864Z",
     "raw": {
       "id": 140101,
       "url": "https://jobicy.com/jobs/140101-energy-systems-engineer-freelance-ai-trainer",
@@ -740,7 +933,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:46+00:00",
-    "fetched_at": "2026-03-05T06:33:47.180Z",
+    "fetched_at": "2026-03-05T12:29:49.864Z",
     "raw": {
       "id": 140068,
       "url": "https://jobicy.com/jobs/140068-automotive-engineering-python-expert-freelance-ai-trainer",
@@ -790,7 +983,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:45+00:00",
-    "fetched_at": "2026-03-05T06:33:47.180Z",
+    "fetched_at": "2026-03-05T12:29:49.865Z",
     "raw": {
       "id": 140067,
       "url": "https://jobicy.com/jobs/140067-automotive-engineer-with-python-freelance-ai-trainer",
@@ -840,7 +1033,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:38+00:00",
-    "fetched_at": "2026-03-05T06:33:47.181Z",
+    "fetched_at": "2026-03-05T12:29:49.865Z",
     "raw": {
       "id": 140063,
       "url": "https://jobicy.com/jobs/140063-mechanical-engineer-with-python-freelance-ai-trainer",
@@ -900,7 +1093,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:36+00:00",
-    "fetched_at": "2026-03-05T06:33:47.182Z",
+    "fetched_at": "2026-03-05T12:29:49.866Z",
     "raw": {
       "id": 140062,
       "url": "https://jobicy.com/jobs/140062-deputy-head-of-engineering-node-js-next-js-2",
@@ -948,7 +1141,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:27+00:00",
-    "fetched_at": "2026-03-05T06:33:47.182Z",
+    "fetched_at": "2026-03-05T12:29:49.867Z",
     "raw": {
       "id": 140056,
       "url": "https://jobicy.com/jobs/140056-senior-software-engineer-8",
@@ -991,7 +1184,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:23+00:00",
-    "fetched_at": "2026-03-05T06:33:47.184Z",
+    "fetched_at": "2026-03-05T12:29:49.868Z",
     "raw": {
       "id": 140054,
       "url": "https://jobicy.com/jobs/140054-senior-software-engineer-full-remote-france-or-hybrid",
@@ -1036,7 +1229,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:30+00:00",
-    "fetched_at": "2026-03-05T06:33:47.184Z",
+    "fetched_at": "2026-03-05T12:29:49.869Z",
     "raw": {
       "id": 140032,
       "url": "https://jobicy.com/jobs/140032-software-engineer-iii",
@@ -1090,7 +1283,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:23+00:00",
-    "fetched_at": "2026-03-05T06:33:47.186Z",
+    "fetched_at": "2026-03-05T12:29:49.871Z",
     "raw": {
       "id": 140028,
       "url": "https://jobicy.com/jobs/140028-staff-mobile-engineer-instrumentation-sdk-ios-android-observability-germany-remote",
@@ -1147,7 +1340,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:21+00:00",
-    "fetched_at": "2026-03-05T06:33:47.187Z",
+    "fetched_at": "2026-03-05T12:29:49.872Z",
     "raw": {
       "id": 140027,
       "url": "https://jobicy.com/jobs/140027-staff-mobile-engineer-instrumentation-sdk-ios-android-observability-spain-remote",
@@ -1205,7 +1398,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:19+00:00",
-    "fetched_at": "2026-03-05T06:33:47.189Z",
+    "fetched_at": "2026-03-05T12:29:49.874Z",
     "raw": {
       "id": 140026,
       "url": "https://jobicy.com/jobs/140026-staff-mobile-engineer-instrumentation-sdk-ios-android-observability-sweden-remote",
@@ -1259,7 +1452,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:17+00:00",
-    "fetched_at": "2026-03-05T06:33:47.190Z",
+    "fetched_at": "2026-03-05T12:29:49.875Z",
     "raw": {
       "id": 140025,
       "url": "https://jobicy.com/jobs/140025-staff-mobile-engineer-instrumentation-sdk-ios-android-observability-united-kingdom-remote",
@@ -1310,7 +1503,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:03+00:00",
-    "fetched_at": "2026-03-05T06:33:47.191Z",
+    "fetched_at": "2026-03-05T12:29:49.878Z",
     "raw": {
       "id": 140016,
       "url": "https://jobicy.com/jobs/140016-full-stack-engineer-2",
@@ -1357,7 +1550,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:41:57+00:00",
-    "fetched_at": "2026-03-05T06:33:47.192Z",
+    "fetched_at": "2026-03-05T12:29:49.879Z",
     "raw": {
       "id": 140013,
       "url": "https://jobicy.com/jobs/140013-senior-software-developer-ai-networking",
@@ -1410,7 +1603,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-27T03:35:32+00:00",
-    "fetched_at": "2026-03-05T06:33:47.193Z",
+    "fetched_at": "2026-03-05T12:29:49.880Z",
     "raw": {
       "id": 139958,
       "url": "https://jobicy.com/jobs/139958-senior-software-engineer-fullstack",
@@ -1460,7 +1653,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:35:16+00:00",
-    "fetched_at": "2026-03-05T06:33:47.194Z",
+    "fetched_at": "2026-03-05T12:29:49.881Z",
     "raw": {
       "id": 139948,
       "url": "https://jobicy.com/jobs/139948-forward-deployed-engineer-2",
@@ -1506,7 +1699,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:35:12+00:00",
-    "fetched_at": "2026-03-05T06:33:47.194Z",
+    "fetched_at": "2026-03-05T12:29:49.882Z",
     "raw": {
       "id": 139945,
       "url": "https://jobicy.com/jobs/139945-llm-engineer-bei-der-just-add-ai-all-genders",
@@ -1561,7 +1754,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-27T03:35:10+00:00",
-    "fetched_at": "2026-03-05T06:33:47.195Z",
+    "fetched_at": "2026-03-05T12:29:49.882Z",
     "raw": {
       "id": 139944,
       "url": "https://jobicy.com/jobs/139944-senior-backend-developer-all-genders",
@@ -1615,7 +1808,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-27T03:35:02+00:00",
-    "fetched_at": "2026-03-05T06:33:47.196Z",
+    "fetched_at": "2026-03-05T12:29:49.883Z",
     "raw": {
       "id": 139940,
       "url": "https://jobicy.com/jobs/139940-senior-backend-developer",
@@ -1658,7 +1851,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:34:54+00:00",
-    "fetched_at": "2026-03-05T06:33:47.197Z",
+    "fetched_at": "2026-03-05T12:29:49.884Z",
     "raw": {
       "id": 139935,
       "url": "https://jobicy.com/jobs/139935-senior-software-engineer-full-remote-or-hybrid",
@@ -1706,7 +1899,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:34:51+00:00",
-    "fetched_at": "2026-03-05T06:33:47.198Z",
+    "fetched_at": "2026-03-05T12:29:49.885Z",
     "raw": {
       "id": 139934,
       "url": "https://jobicy.com/jobs/139934-senior-security-engineer-100-remote-friendly-within-poland",
@@ -1754,7 +1947,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:34:49+00:00",
-    "fetched_at": "2026-03-05T06:33:47.199Z",
+    "fetched_at": "2026-03-05T12:29:49.886Z",
     "raw": {
       "id": 139933,
       "url": "https://jobicy.com/jobs/139933-senior-security-engineer-100-remote-friendly-within-spain",
@@ -1797,7 +1990,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:51+00:00",
-    "fetched_at": "2026-03-05T06:33:47.201Z",
+    "fetched_at": "2026-03-05T12:29:49.888Z",
     "raw": {
       "id": 139924,
       "url": "https://jobicy.com/jobs/139924-senior-electrical-engineer-data-centers-remote-u-s",
@@ -1842,7 +2035,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-27T03:33:42+00:00",
-    "fetched_at": "2026-03-05T06:33:47.202Z",
+    "fetched_at": "2026-03-05T12:29:49.889Z",
     "raw": {
       "id": 139918,
       "url": "https://jobicy.com/jobs/139918-developer",
@@ -1891,7 +2084,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-27T03:33:40+00:00",
-    "fetched_at": "2026-03-05T06:33:47.204Z",
+    "fetched_at": "2026-03-05T12:29:49.891Z",
     "raw": {
       "id": 139917,
       "url": "https://jobicy.com/jobs/139917-senior-developer",
@@ -1943,7 +2136,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:39+00:00",
-    "fetched_at": "2026-03-05T06:33:47.206Z",
+    "fetched_at": "2026-03-05T12:29:49.893Z",
     "raw": {
       "id": 139916,
       "url": "https://jobicy.com/jobs/139916-technical-solutions-architect-ii-application-modernization-and-software-strategy-aws-focused",
@@ -1990,7 +2183,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:24+00:00",
-    "fetched_at": "2026-03-05T06:33:47.207Z",
+    "fetched_at": "2026-03-05T12:29:49.894Z",
     "raw": {
       "id": 139907,
       "url": "https://jobicy.com/jobs/139907-electrical-engineering-lead-data-centers-remote-u-s",
@@ -2033,7 +2226,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:22+00:00",
-    "fetched_at": "2026-03-05T06:33:47.209Z",
+    "fetched_at": "2026-03-05T12:29:49.896Z",
     "raw": {
       "id": 139906,
       "url": "https://jobicy.com/jobs/139906-electrical-engineer-technical-lead-data-centers-remote-u-s",
@@ -2076,7 +2269,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:21+00:00",
-    "fetched_at": "2026-03-05T06:33:47.210Z",
+    "fetched_at": "2026-03-05T12:29:49.897Z",
     "raw": {
       "id": 139905,
       "url": "https://jobicy.com/jobs/139905-mechanical-engineering-lead-data-centers-remote-u-s",
@@ -2121,7 +2314,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:05:00+00:00",
-    "fetched_at": "2026-03-05T06:33:47.211Z",
+    "fetched_at": "2026-03-05T12:29:49.898Z",
     "raw": {
       "id": 139876,
       "url": "https://jobicy.com/jobs/139876-senior-application-engineer",
@@ -2169,7 +2362,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:04:34+00:00",
-    "fetched_at": "2026-03-05T06:33:47.211Z",
+    "fetched_at": "2026-03-05T12:29:49.898Z",
     "raw": {
       "id": 139859,
       "url": "https://jobicy.com/jobs/139859-senior-embedded-software-engineer-remote-from-bulgaria-north-macedonia-or-poland",
@@ -2221,7 +2414,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:04:23+00:00",
-    "fetched_at": "2026-03-05T06:33:47.212Z",
+    "fetched_at": "2026-03-05T12:29:49.899Z",
     "raw": {
       "id": 139853,
       "url": "https://jobicy.com/jobs/139853-senior-software-engineer-ii-data-solutions-measurement",
@@ -2270,7 +2463,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:04:21+00:00",
-    "fetched_at": "2026-03-05T06:33:47.213Z",
+    "fetched_at": "2026-03-05T12:29:49.900Z",
     "raw": {
       "id": 139852,
       "url": "https://jobicy.com/jobs/139852-senior-software-engineer-fraud-quality-expert",
@@ -2313,7 +2506,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:03:31+00:00",
-    "fetched_at": "2026-03-05T06:33:47.214Z",
+    "fetched_at": "2026-03-05T12:29:49.901Z",
     "raw": {
       "id": 139849,
       "url": "https://jobicy.com/jobs/139849-electrical-engineering-lead-data-center",
@@ -2365,7 +2558,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:02:13+00:00",
-    "fetched_at": "2026-03-05T06:33:47.215Z",
+    "fetched_at": "2026-03-05T12:29:49.902Z",
     "raw": {
       "id": 139835,
       "url": "https://jobicy.com/jobs/139835-software-architect",
@@ -2411,7 +2604,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-25T04:02:10+00:00",
-    "fetched_at": "2026-03-05T06:33:47.215Z",
+    "fetched_at": "2026-03-05T12:29:49.902Z",
     "raw": {
       "id": 139833,
       "url": "https://jobicy.com/jobs/139833-senior-servicenow-developer-2",
@@ -2461,7 +2654,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:17:26+00:00",
-    "fetched_at": "2026-03-05T06:33:47.216Z",
+    "fetched_at": "2026-03-05T12:29:49.903Z",
     "raw": {
       "id": 139808,
       "url": "https://jobicy.com/jobs/139808-senior-software-engineer-7",
@@ -2508,7 +2701,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:17:19+00:00",
-    "fetched_at": "2026-03-05T06:33:47.217Z",
+    "fetched_at": "2026-03-05T12:29:49.903Z",
     "raw": {
       "id": 139805,
       "url": "https://jobicy.com/jobs/139805-freelance-automotive-engineering-python-expert-ai-trainer",
@@ -2558,7 +2751,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:17:17+00:00",
-    "fetched_at": "2026-03-05T06:33:47.217Z",
+    "fetched_at": "2026-03-05T12:29:49.904Z",
     "raw": {
       "id": 139804,
       "url": "https://jobicy.com/jobs/139804-electrical-engineer-with-python-freelance-ai-trainer",
@@ -2614,7 +2807,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:16:33+00:00",
-    "fetched_at": "2026-03-05T06:33:47.218Z",
+    "fetched_at": "2026-03-05T12:29:49.905Z",
     "raw": {
       "id": 139787,
       "url": "https://jobicy.com/jobs/139787-senior-fullstack-software-engineer-ruby-typescript-m-f-d",
@@ -2666,7 +2859,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:16:31+00:00",
-    "fetched_at": "2026-03-05T06:33:47.219Z",
+    "fetched_at": "2026-03-05T12:29:49.906Z",
     "raw": {
       "id": 139786,
       "url": "https://jobicy.com/jobs/139786-backend-engineer-ai-integration",
@@ -2712,7 +2905,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:16:25+00:00",
-    "fetched_at": "2026-03-05T06:33:47.220Z",
+    "fetched_at": "2026-03-05T12:29:49.906Z",
     "raw": {
       "id": 139784,
       "url": "https://jobicy.com/jobs/139784-enterprise-architect-2",
@@ -2760,7 +2953,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:16:23+00:00",
-    "fetched_at": "2026-03-05T06:33:47.221Z",
+    "fetched_at": "2026-03-05T12:29:49.907Z",
     "raw": {
       "id": 139783,
       "url": "https://jobicy.com/jobs/139783-senior-software-engineer-lead",
@@ -2818,7 +3011,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-21T05:14:41+00:00",
-    "fetched_at": "2026-03-05T06:33:47.222Z",
+    "fetched_at": "2026-03-05T12:29:49.909Z",
     "raw": {
       "id": 139746,
       "url": "https://jobicy.com/jobs/139746-quality-automation-engineer-it-applications",
@@ -2866,7 +3059,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-21T05:14:39+00:00",
-    "fetched_at": "2026-03-05T06:33:47.223Z",
+    "fetched_at": "2026-03-05T12:29:49.909Z",
     "raw": {
       "id": 139745,
       "url": "https://jobicy.com/jobs/139745-senior-c-developer",
@@ -2913,7 +3106,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-18T03:45:54+00:00",
-    "fetched_at": "2026-03-05T06:33:47.224Z",
+    "fetched_at": "2026-03-05T12:29:49.910Z",
     "raw": {
       "id": 139653,
       "url": "https://jobicy.com/jobs/139653-parent-poland-gen-swe-intern-summer-2026-2",
@@ -2965,7 +3158,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-18T03:45:40+00:00",
-    "fetched_at": "2026-03-05T06:33:47.225Z",
+    "fetched_at": "2026-03-05T12:29:49.911Z",
     "raw": {
       "id": 139646,
       "url": "https://jobicy.com/jobs/139646-middle-middle-strong-node-js-developer",
@@ -3017,7 +3210,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:44:06+00:00",
-    "fetched_at": "2026-03-05T06:33:47.227Z",
+    "fetched_at": "2026-03-05T12:29:49.913Z",
     "raw": {
       "id": 139614,
       "url": "https://jobicy.com/jobs/139614-senior-staff-engineer-ai-customer-operations",
@@ -3072,7 +3265,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:43:48+00:00",
-    "fetched_at": "2026-03-05T06:33:47.227Z",
+    "fetched_at": "2026-03-05T12:29:49.913Z",
     "raw": {
       "id": 139603,
       "url": "https://jobicy.com/jobs/139603-mlops-engineer-portfolio-optimisation-and-customer-analytics-platform-banking",
@@ -3115,7 +3308,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:41:25+00:00",
-    "fetched_at": "2026-03-05T06:33:47.228Z",
+    "fetched_at": "2026-03-05T12:29:49.914Z",
     "raw": {
       "id": 139597,
       "url": "https://jobicy.com/jobs/139597-field-service-engineer-generator-controls-lead",
@@ -3158,7 +3351,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:40:24+00:00",
-    "fetched_at": "2026-03-05T06:33:47.229Z",
+    "fetched_at": "2026-03-05T12:29:49.915Z",
     "raw": {
       "id": 139588,
       "url": "https://jobicy.com/jobs/139588-apm-strategy-reliability-sme-digital-implementation-services",
@@ -3211,7 +3404,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-16T16:40:18+00:00",
-    "fetched_at": "2026-03-05T06:33:47.230Z",
+    "fetched_at": "2026-03-05T12:29:49.916Z",
     "raw": {
       "id": 139585,
       "url": "https://jobicy.com/jobs/139585-senior-fullstack-developer-m-f-d-patient-portal",
@@ -3263,7 +3456,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-16T16:40:14+00:00",
-    "fetched_at": "2026-03-05T06:33:47.231Z",
+    "fetched_at": "2026-03-05T12:29:49.916Z",
     "raw": {
       "id": 139583,
       "url": "https://jobicy.com/jobs/139583-senior-python-engineer-ai-testing-project-freelance-mindrift",
@@ -3326,7 +3519,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:39:55+00:00",
-    "fetched_at": "2026-03-05T06:33:47.231Z",
+    "fetched_at": "2026-03-05T12:29:49.917Z",
     "raw": {
       "id": 139574,
       "url": "https://jobicy.com/jobs/139574-senior-ai-engineer",
@@ -3373,7 +3566,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:38:51+00:00",
-    "fetched_at": "2026-03-05T06:33:47.232Z",
+    "fetched_at": "2026-03-05T12:29:49.918Z",
     "raw": {
       "id": 139565,
       "url": "https://jobicy.com/jobs/139565-freelance-energy-systems-engineer-ai-trainer",
@@ -3419,7 +3612,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T07:06:23+00:00",
-    "fetched_at": "2026-03-05T06:33:47.233Z",
+    "fetched_at": "2026-03-05T12:29:49.919Z",
     "raw": {
       "id": 139548,
       "url": "https://jobicy.com/jobs/139548-lead-solution-architect-networking",
@@ -3469,7 +3662,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-15T07:06:10+00:00",
-    "fetched_at": "2026-03-05T06:33:47.234Z",
+    "fetched_at": "2026-03-05T12:29:49.919Z",
     "raw": {
       "id": 139540,
       "url": "https://jobicy.com/jobs/139540-servicenow-developer",
@@ -3519,7 +3712,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T07:00:15+00:00",
-    "fetched_at": "2026-03-05T06:33:47.235Z",
+    "fetched_at": "2026-03-05T12:29:49.921Z",
     "raw": {
       "id": 139530,
       "url": "https://jobicy.com/jobs/139530-software-engineer-lead-automation-anywhere-python-java",
@@ -3572,7 +3765,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T06:57:56+00:00",
-    "fetched_at": "2026-03-05T06:33:47.236Z",
+    "fetched_at": "2026-03-05T12:29:49.921Z",
     "raw": {
       "id": 139511,
       "url": "https://jobicy.com/jobs/139511-software-engineer-product",
@@ -3621,7 +3814,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T06:57:55+00:00",
-    "fetched_at": "2026-03-05T06:33:47.236Z",
+    "fetched_at": "2026-03-05T12:29:49.922Z",
     "raw": {
       "id": 139510,
       "url": "https://jobicy.com/jobs/139510-software-engineer-leadership-product",
@@ -3667,7 +3860,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T06:57:51+00:00",
-    "fetched_at": "2026-03-05T06:33:47.237Z",
+    "fetched_at": "2026-03-05T12:29:49.922Z",
     "raw": {
       "id": 139508,
       "url": "https://jobicy.com/jobs/139508-software-engineer-leadership-machine-learning-2",
@@ -3714,7 +3907,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T06:57:45+00:00",
-    "fetched_at": "2026-03-05T06:33:47.237Z",
+    "fetched_at": "2026-03-05T12:29:49.923Z",
     "raw": {
       "id": 139504,
       "url": "https://jobicy.com/jobs/139504-software-specialist-tl-ai-ml-monetisation",
@@ -3765,7 +3958,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-13T15:07:54+00:00",
-    "fetched_at": "2026-03-05T06:33:47.238Z",
+    "fetched_at": "2026-03-05T12:29:49.924Z",
     "raw": {
       "id": 139487,
       "url": "https://jobicy.com/jobs/139487-automation-qa-engineer",
@@ -3819,7 +4012,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-13T15:07:45+00:00",
-    "fetched_at": "2026-03-05T06:33:47.240Z",
+    "fetched_at": "2026-03-05T12:29:49.925Z",
     "raw": {
       "id": 139481,
       "url": "https://jobicy.com/jobs/139481-project-delivery-specialist-lead-api-developer",
@@ -3874,7 +4067,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-12T18:33:04+00:00",
-    "fetched_at": "2026-03-05T06:33:47.241Z",
+    "fetched_at": "2026-03-05T12:29:49.926Z",
     "raw": {
       "id": 139467,
       "url": "https://jobicy.com/jobs/139467-frontend-developer-i-daylight-2",
@@ -3921,7 +4114,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-11T04:21:30+00:00",
-    "fetched_at": "2026-03-05T06:33:47.242Z",
+    "fetched_at": "2026-03-05T12:29:49.927Z",
     "raw": {
       "id": 139428,
       "url": "https://jobicy.com/jobs/139428-senior-enterprise-solution-architect",
@@ -3977,7 +4170,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:55:33+00:00",
-    "fetched_at": "2026-03-05T06:33:47.243Z",
+    "fetched_at": "2026-03-05T12:29:49.929Z",
     "raw": {
       "id": 139389,
       "url": "https://jobicy.com/jobs/139389-solutions-architect-3",
@@ -4030,7 +4223,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:55:32+00:00",
-    "fetched_at": "2026-03-05T06:33:47.245Z",
+    "fetched_at": "2026-03-05T12:29:49.930Z",
     "raw": {
       "id": 139388,
       "url": "https://jobicy.com/jobs/139388-senior-software-engineer-backend-2",
@@ -4081,7 +4274,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-10T08:54:22+00:00",
-    "fetched_at": "2026-03-05T06:33:47.246Z",
+    "fetched_at": "2026-03-05T12:29:49.932Z",
     "raw": {
       "id": 139381,
       "url": "https://jobicy.com/jobs/139381-senior-software-engineer-new-product",
@@ -4131,7 +4324,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-08T06:19:20+00:00",
-    "fetched_at": "2026-03-05T06:33:47.248Z",
+    "fetched_at": "2026-03-05T12:29:49.934Z",
     "raw": {
       "id": 139320,
       "url": "https://jobicy.com/jobs/139320-staff-product-security-architect",
@@ -4185,7 +4378,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-08T06:19:09+00:00",
-    "fetched_at": "2026-03-05T06:33:47.249Z",
+    "fetched_at": "2026-03-05T12:29:49.934Z",
     "raw": {
       "id": 139313,
       "url": "https://jobicy.com/jobs/139313-sr-frontend-engineer",
@@ -4238,7 +4431,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-05T17:27:26+00:00",
-    "fetched_at": "2026-03-05T06:33:47.250Z",
+    "fetched_at": "2026-03-05T12:29:49.936Z",
     "raw": {
       "id": 139270,
       "url": "https://jobicy.com/jobs/139270-sr-full-stack-developer",
@@ -4298,7 +4491,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-05T17:26:36+00:00",
-    "fetched_at": "2026-03-05T06:33:47.251Z",
+    "fetched_at": "2026-03-05T12:29:49.936Z",
     "raw": {
       "id": 139253,
       "url": "https://jobicy.com/jobs/139253-senior-full-stack-next-js-developer",
