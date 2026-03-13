@@ -1,5 +1,263 @@
 [
   {
+    "id": "jobicy:140597",
+    "platform": "jobicy",
+    "external_id": "140597",
+    "title": "Senior Software Engineer, DevOps",
+    "company": "Planet Labs Inc.",
+    "description": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one. Customers and users across the globe use Planet&#8217;s data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles. As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains. We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world. Planet is a global company with employees working remotely world wide and joining us from offices in San Francisco, Washington DC, Germany, Austria, Slovenia, and The Netherlands. About the Role: The Global Monitoring Service (GMS) App Team is hiring for a Senior Software Engineer to ensure fast, secure, and reliable releases through the team’s DevOps capabilities. The GMS App Team is responsible for providing a customized application for Defense &amp; Intelligence customers from around the world. This application provides daily, near-real time monitoring and analytic insights on customer-defined sites built atop Planet’s satellite data. This is a full-time, remote position based in either Germany, the Netherlands or Slovenia. If located near an office, you are expected to work from that office 3 days per week. Impact You’ll Own: Own the container-based application lifecycle, bi-weekly releases, and CI/CD pipelines for GMS. Organize and execute migrations as the service evolves. Manage deployments on customer-isolated Kubernetes clusters running stateful applications, persistent storage, and infrastructure-as-code (manifests/Makefiles), closely partnering with infrastructure teams to ensure operational and performance needs are met. Ensure high availability and performance by meeting contractual SLAs through proactive monitoring and alert response, including participation in a 24&#215;7 on-call rotation. Rapidly debug and resolve complex issues surfaced by customers or internal monitoring. Own auth for GMS resources and provide full stack technical expertise to customer-facing teams to fulfill service obligations. Manage terraform deployments for data pipelines. What You Bring: 10+ years of software engineering experience with a focus on infrastructure or DevOps, specifically deploying and managing containers. Bachelor’s Degree in Computer Science or a similar field. Hands-on experience with Kubernetes and stateful applications, persistent storage, and node pool isolation in Kubernetes. Track record of owning and optimizing CI/CD pipelines and managing infrastructure via Makefiles and manifests. Practical knowledge of secrets management and security best practices within a cloud-native environment. Experience participating in on-call rotations and participating in blameless postmortems. Ability to monitor complex distributed systems with established SLAs and SLOs and a commitment to meeting strict performance SLOs and contractual obligations. A high degree of independence and a sense of ownership over the full deployment lifecycle. Experience deploying in secured customer environments. Willingness to collaborate across multiple time zones and travel quarterly for team alignment. Evolve systems and services intentionally and responsibly using Architectural Decision Records among stakeholders. Experience managing data pipelines, particularly with dbt. What Makes You Stand Out: Experience working with Defense &amp; Intelligence customers. Operational experiences with SQL and noSQL data stores. Experience with Google Cloud Platform and Grafana. Experience authoring Kubernetes custom resources (CRDs). Experience contributing to open source projects. Involvement with Geospatial software community. Familiarity with front end development practices. Background in Professional Services, customer-facing deployment, and solutions optimization. Application Deadline: May 18, 2026 by 11:59p / 23:59 CET (Central European Time) Benefits While Working at Planet: These offerings are dependent on employment type and geographical location, based upon applicable law or company policy. Paid time off including vacation, holidays and company-wide days off Employee Wellness Program Home Office Reimbursement Monthly Phone and Internet Reimbursement Tuition Reimbursement and access to LinkedIn Learning Equity Volunteering Paid Time Off #LI-REMOTE San Francisco Fair Chance Ordinance Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Why we care so much about Belonging. We’re dedicated to helping the whole Planet, and to do that we must strive to represent all of it within each of our offices and on all of our teams. That’s why Planet is guided by an ultimate north star of Belonging—dreaming big as we approach our ongoing work. If this job intrigues you, but you’re thinking you might not have all the qualifications, please&#8230; do apply! At Planet, we are looking for well-rounded people from around the world who can contribute to more ways than just what is listed in this job description. We don’t just fill positions, we aspire to fulfill people’s careers, most excited about folks who are motivated by our underlying humanitarian efforts. We are a few orbits around the sun before we get to where we want to be, so we hope you’re excited to come along for the ride. EEO statement: Planet is committed to building a community where everyone belongs and we invite people from all backgrounds to apply. Planet is an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. Know Your Rights. Accommodations: Planet is an inclusive community and we know that everyone has their own needs. If you have a disability or special need that requires accommodation during the hiring process, please reach out to accommodations@planet.com or contact your recruiter with your request. Your message will be confidential and we will be happy to assist you. Privacy Policy : By clicking &#8220;Apply Now&#8221; at the top of this job posting, I acknowledge that I have read the Planet Data Privacy Notice for California Staff Members and Applicants , and hereby consent to the collection, processing, use, and storage of my personal information as described therein. Privacy Policy (European Applicants): By clicking &#8220;Apply Now&#8221; at the top of this job posting, I acknowledge that I have read the Candidate Privacy Notice GDPR Planet Labs Europe , and hereby consent to the collection, processing, use, and storage of my personal information as described therein. AI in Our Interviewing Process : Planet is committed to providing an exceptional interview experience for all candidates. We are currently exploring AI interviewing technologies to better focus on candidates and less on trying to capture notes. As such, with the candidate&#8217;s consent, select interviews may be recorded and include a Planet AI Notetaker for transcription and summarization purposes. Should an interview involve use of AI interview technologies, the candidate will receive notification and have the ability to opt out both in advance and/or real-time. Opting out will not affect one&#8217;s candidacy. Candidate AI Policy : Planet embraces Artificial Intelligence (AI) tools, and we encourage its responsible use. We understand that candidates may use various resources, including AI tools, to prepare for interviews and assessments. However, during any live interview stage or when actively completing assessments for this position, the use of AI tools—e.g. Large Language Models (LLMs), deep fake technology, etc.—is strictly prohibited unless explicitly prompted by an interviewer or assessment instructions . If you are unsure about acceptable use, please contact your recruiter for clarification. If an AI tool or similar technology is desired as an accommodation, please contact accommodations@planet.com with your request for assistance. Your message will be confidential, and we will be happy to assist you. Violation of this policy may result in disqualification of your application.",
+    "url": "https://jobicy.com/jobs/140597-senior-software-engineer-devops",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Slovenia",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "nodejs",
+      "gcp",
+      "kubernetes",
+      "terraform",
+      "grafana",
+      "dbt"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-13T07:21:49+00:00",
+    "fetched_at": "2026-03-13T12:27:17.727Z",
+    "raw": {
+      "id": 140597,
+      "url": "https://jobicy.com/jobs/140597-senior-software-engineer-devops",
+      "jobSlug": "140597-senior-software-engineer-devops",
+      "jobTitle": "Senior Software Engineer, DevOps",
+      "companyName": "Planet Labs Inc.",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/87ec343c-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Slovenia",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Welcome to Planet. We believe in using space to help life on Earth.Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented...",
+      "jobDescription": "<p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p><p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p><p>Customers and users across the globe use Planet&#8217;s data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</p><p>As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains.</p><p>We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world.</p><p>Planet is a global company with employees working remotely world wide and joining us from offices in San Francisco, Washington DC, Germany, Austria, Slovenia, and The Netherlands.</p><p><strong>About the Role: </strong></p><p>The Global Monitoring Service (GMS) App Team is hiring for a Senior Software Engineer to ensure fast, secure, and reliable releases through the team’s DevOps capabilities. The GMS App Team is responsible for providing a customized application for Defense &amp; Intelligence customers from around the world. This application provides daily, near-real time monitoring and analytic insights on customer-defined sites built atop Planet’s satellite data.</p><p>This is a full-time, remote position based in either Germany, the Netherlands or Slovenia. If located near an office, you are expected to work from that office 3 days per week.</p><p><strong>Impact You’ll Own:</strong></p><ul>\n<li>Own the container-based application lifecycle, bi-weekly releases, and CI/CD pipelines for GMS.</li>\n<li>Organize and execute migrations as the service evolves.</li>\n<li>Manage deployments on customer-isolated Kubernetes clusters running stateful applications, persistent storage, and infrastructure-as-code (manifests/Makefiles), closely partnering with infrastructure teams to ensure operational and performance needs are met.</li>\n<li>Ensure high availability and performance by meeting contractual SLAs through proactive monitoring and alert response, including participation in a 24&#215;7 on-call rotation.</li>\n<li>Rapidly debug and resolve complex issues surfaced by customers or internal monitoring.</li>\n<li>Own auth for GMS resources and provide full stack technical expertise to customer-facing teams to fulfill service obligations.</li>\n<li>Manage terraform deployments for data pipelines.</li>\n</ul><p><strong>What You Bring:</strong></p><ul>\n<li>10+ years of software engineering experience with a focus on infrastructure or DevOps, specifically deploying and managing containers.</li>\n<li>Bachelor’s Degree in Computer Science or a similar field.</li>\n<li>Hands-on experience with Kubernetes and stateful applications, persistent storage, and node pool isolation in Kubernetes.</li>\n<li>Track record of owning and optimizing CI/CD pipelines and managing infrastructure via Makefiles and manifests.</li>\n<li>Practical knowledge of secrets management and security best practices within a cloud-native environment.</li>\n<li>Experience participating in on-call rotations and participating in blameless postmortems.</li>\n<li>Ability to monitor complex distributed systems with established SLAs and SLOs and a commitment to meeting strict performance SLOs and contractual obligations.</li>\n<li>A high degree of independence and a sense of ownership over the full deployment lifecycle.</li>\n<li>Experience deploying in secured customer environments.</li>\n<li>Willingness to collaborate across multiple time zones and travel quarterly for team alignment.</li>\n<li>Evolve systems and services intentionally and responsibly using Architectural Decision Records among stakeholders.</li>\n<li>Experience managing data pipelines, particularly with dbt.</li>\n</ul><p><strong>What Makes You Stand Out:</strong></p><ul>\n<li>Experience working with Defense &amp; Intelligence customers.</li>\n<li>Operational experiences with SQL and noSQL data stores.</li>\n<li>Experience with Google Cloud Platform and Grafana.</li>\n<li>Experience authoring Kubernetes custom resources (CRDs).</li>\n<li>Experience contributing to open source projects.</li>\n<li>Involvement with Geospatial software community.</li>\n<li>Familiarity with front end development practices.</li>\n<li>Background in Professional Services, customer-facing deployment, and solutions optimization.</li>\n</ul><p><strong>Application Deadline:</strong></p><p>May 18, 2026 by 11:59p / 23:59 CET (Central European Time)</p><p><strong>Benefits While Working at Planet:</strong></p><p><em>These offerings are dependent on employment type and geographical location, based upon applicable law or company policy.</em></p><ul>\n<li>Paid time off including vacation, holidays and company-wide days off </li>\n<li>Employee Wellness Program </li>\n<li>Home Office Reimbursement</li>\n<li>Monthly Phone and Internet Reimbursement</li>\n<li>Tuition Reimbursement and access to LinkedIn Learning</li>\n<li>Equity </li>\n<li>Volunteering Paid Time Off</li>\n</ul><h3>#LI-REMOTE</h3><p><strong>San Francisco Fair Chance Ordinance<br></strong>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<strong><br></strong></p><p><strong>Why we care so much about Belonging. <br></strong>We’re dedicated to helping the whole Planet, and to do that we must strive to represent all of it within each of our offices and on all of our teams. That’s why Planet is guided by an ultimate north star of Belonging—dreaming big as we approach our ongoing work. If this job intrigues you, but you’re thinking you might not have all the qualifications, please&#8230; do apply! At Planet, we are looking for well-rounded people from around the world who can contribute to more ways than just what is listed in this job description. We don’t just fill positions, we aspire to fulfill people’s careers, most excited about folks who are motivated by our underlying humanitarian efforts. We are a few orbits around the sun before we get to where we want to be, so we hope you’re excited to come along for the ride. </p><p><strong>EEO statement: <br></strong>Planet is committed to building a community where everyone belongs and we invite people from all backgrounds to apply. Planet is an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. <a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf\" rel=\"nofollow ugc noopener\" target=\"_blank\">Know Your Rights.</a></p><p><strong>Accommodations: <br></strong>Planet is an inclusive community and we know that everyone has their own needs. If you have a disability or special need that requires accommodation during the hiring process, please reach out to accommodations@planet.com or contact your recruiter with your request. Your message will be confidential and we will be happy to assist you.</p><p><strong>Privacy Policy</strong>: By clicking &#8220;Apply Now&#8221; at the top of this job posting, I acknowledge that I have read the <a href=\"https://www.planet.com/privacy/#california\" rel=\"nofollow ugc noopener\" target=\"_blank\">Planet Data Privacy Notice for California Staff Members and Applicants</a>, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.</p><p><strong>Privacy Policy (European Applicants):</strong> By clicking &#8220;Apply Now&#8221; at the top of this job posting, I acknowledge that I have read the <a href=\"https://www.planet.com/privacy/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Candidate Privacy Notice GDPR Planet Labs Europe</a>, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.</p><p><strong>AI in Our Interviewing Process</strong>: Planet is committed to providing an exceptional interview experience for all candidates. We are currently exploring AI interviewing technologies to better focus on candidates and less on trying to capture notes. As such, with the candidate&#8217;s consent, select interviews may be recorded and include a Planet AI Notetaker for transcription and summarization purposes. Should an interview involve use of AI interview technologies, the candidate will receive notification and have the ability to opt out both in advance and/or real-time. Opting out will not affect one&#8217;s candidacy.</p><p><strong>Candidate AI Policy</strong>: Planet embraces Artificial Intelligence (AI) tools, and we encourage its responsible use. We understand that candidates may use various resources, including AI tools, to <em>prepare</em> for interviews and assessments. However, <em>during any live interview stage or when actively completing assessments for this position, the use of AI tools—e.g. Large Language Models (LLMs), deep fake technology, etc.—is strictly prohibited unless explicitly prompted by an interviewer or assessment instructions</em>. If you are unsure about acceptable use, please contact your recruiter for clarification. If an AI tool or similar technology is desired as an accommodation, please contact accommodations@planet.com with your request for assistance. Your message will be confidential, and we will be happy to assist you. Violation of this policy may result in disqualification of your application.</p>",
+      "pubDate": "2026-03-13T07:21:49+00:00"
+    }
+  },
+  {
+    "id": "jobicy:140595",
+    "platform": "jobicy",
+    "external_id": "140595",
+    "title": "Senior Security Engineer &amp;#8211; Cloud &amp;#038; Platform Security (Devsecops)",
+    "company": "dLocal",
+    "description": "Why should you join dLocal? dLocal enables the biggest companies in the world to collect payments in 40 countries in emerging markets. Global brands rely on us to increase conversion rates and simplify payment expansion effortlessly. As both a payments processor and a merchant of record where we operate, we make it possible for our merchants to make inroads into the world’s fastest-growing, emerging markets. By joining us you will be a part of an amazing global team that makes it all happen. Being a part of dLocal means working with 1000+ teammates from 30+ different nationalities and developing an international career that impacts millions of people’s daily lives. We are builders, we never run from a challenge, we are customer-centric, and if this sounds like you, we know you will thrive in our team. Why should you join dLocal? dLocal enables the biggest companies in the world to collect payments in 40 countries in emerging markets. Global brands rely on us to increase conversion rates and simplify payment expansion effortlessly. As both a payments processor and a merchant of record where we operate, we make it possible for our merchants to make inroads into the world’s fastest-growing, emerging markets. By joining us you will be a part of an amazing global team that makes it all happen, in a flexible, remote-first dynamic culture with travel, health and learning benefits, among others. Being a part of dLocal means working with around 1500 teammates from 30+ different nationalities and developing an international career that impacts millions of people’s daily lives. We are builders, we never run from a challenge, we are customer- centric, and if this sounds like you, we know you will thrive in our team. About Us &amp; The Role: We&#8217;re not building a traditional security team. We are a lean, forward-thinking organization that rapidly adopts the latest disruptive innovations to stay ahead of the curve. We believe the future of defense is smart, efficient, and scaled, and we&#8217;re leveraging AI agents and modern platforms to build it (e.g., AI-assisted policy checks, drift correlation, and AI-driven correlation of posture, CI/CD). We are looking for a hands-on builder and executor who lives and breathes &#8220;secure-by- default&#8221; infrastructure. This isn&#8217;t just a compliance or audit role; it&#8217;s a &#8220;full-stack&#8221; security engineering position focused onprevention. You&#8217;ll be an architect, an engineer, and a key enabler, codifying security into every part of our cloud and CI/CD lifecycle. In our environment, a small, senior team means massive impact. You won&#8217;t just write policies—you&#8217;ll codify them as automated guardrails, design the hardened platforms our services run on, and build the &#8220;paved road&#8221; that makes security the easiest and fastest path for all our engineers. You’ll partner closely with dLocal’s Cloud Platform/SRE teams to deliver shared guardrails and ‘paved road’ services, not day-to-day platform operations. This role is focused on prevention and platform engineering. What You’ll Do: Engineer Secure-by-Default Foundations: Design, build, and maintain hardened, multi-account AWS architectures, &#8220;golden&#8221; AMIs, and secure-by-default container/Kubernetes (EKS) base images. Automate Security via IaC: Be the expert in &#8220;Policy-as-Code.&#8221; Publish and maintain Infrastructure controls, golden Terraform modules, Helm charts, and admission policies. You will measure adoption, drift detection, and exception aging while preventing misconfigurations before they&#8217;re deployed. Own the Platform &amp; Edge Defense: Configure and manage runtime security for Kubernetes (e.g., admission controllers, least-privilege policies) and own the safe- change processes for our layered edge defenses (WAF/CDN/anti-Bot), including pre- prod testing, blast-radius limits, rollback patterns, and change metrics. Generate High-Fidelity Signals: Integrate posture signals (CSPM, KSPM, CI/CD, WAF) into centralized dashboards and our SIEM/SOAR with clear routing and ownership, partnering with D&amp;R to ensure signals are high-fidelity and actionable. Enable &amp; Mentor: Lead threat modeling exercises and partner with Platform, SRE, and Product teams to translate risks into actionable backlogs. You&#8217;ll be mentoring others on prevention-first design. Support Incident Response: Define platform incident playbooks for misconfiguration and drift containment. You will act as the senior subject-matter expert for cloud/platform incidents, providing deep technical expertise to the IR team. What You Bring: A &#8220;Builder&#8221; Mindset: 4-8+ years of hands-on experience in Cloud Security, Platform Security, or DevSecOps. You have a passion for building preventative solutions from the ground up. Deep Cloud-Native Expertise: Advanced AWS security architecture (multi-account, IAM boundaries, org SCPs) and expert-level, hands-on knowledge of building and securing production environments. Mastery of Modern Stacks: Deep, practical experience with production EKS baseline hardening (admission control, least privilege, runtime controls). You arefluent in IaC (Terraform, Pulumi, or Ansible) and have strong scripting/automation skills (Python, Go, etc.). Application &amp; Edge Security: Hands-on experience configuring and tuning modern WAFs, CDNs, and edge security platforms (e.g., Cloudflare, Akamai, AWS WAF). A Pragmatic Risk-Based Approach: You can translate risks from threat models and compliance frameworks (CIS, NIST, OWASP, PCI) into actionable, prioritized engineering work—not just checkbox-ticking. A Force-Multiplier: You have a leadership attitude to influence and mentor engineers, document complex systems clearly, and influence other teams to adopt security-first practices. Nice to Have: Experience with modern posture management tools (CSPM/KSPM/DSPM). Experience with common, large-scale edge security stacks (e.g., Cloudflare, Akamai, AWS WAF). Multi-cloud experience (GCP, Azure) in addition to AWS. Certifications like CKA/CKS, AWS Security Specialty, or OSCP are valued but not required. How You’ll Work You will work through Cloud Platform/SRE teams to roll out guardrails as shared services and &#8220;paved roads.&#8221; You&#8217;ll coordinate with the Application Security team for threat modeling and with the Detection &amp; Response (D&amp;R) team for signal fidelity and automated containment handoffs Why You&#8217;ll Love It Here: This is a high-impact, high-ownership role. You&#8217;ll join a small, senior team where everyone contributes end-to-end. We&#8217;re building a modern, intelligent, and automated defense program from the ground up. If you&#8217;re tired of legacy tools and &#8220;bolt-on&#8221; security, and you want to build the future ofproactive, automatedcyber defense from the code up, let&#8217;s talk. What do we offer? Besides the tailored benefits we have for each country, dLocal will help you thrive and go that extra mile by offering you:- Flexibility: we have flexible schedules and we are driven by performance.- Fintech industry: work in a dynamic and ever-evolving environment, with plenty to build and boost your creativity.- Referral bonus program: our internal talents are the best recruiters &#8211; refer someone ideal for a role and get rewarded.- Learning &amp; development: get access to a Premium Coursera subscription.- Language classes: we provide free English, Spanish, or Portuguese classes.- Social budget: you&#8217;ll get a monthly budget to chill out with your team (in person or remotely) and deepen your connections!- dLocal Houses: want to rent a house to spend one week anywhere in the world coworking with your team? We’ve got your back! Flexibility in how you work: We focus on impact and productivity over fixed hours. This means our teams have flexible schedules and, depending on your role and location, you will combine self‑managed focus time with moments of in‑person connection in our collaboration hubs. What happens after you apply? Our Talent Acquisition team is invested in creating the best candidate experience possible, so don’t worry, you will definitely hear from us. We will review your CV and keep you posted by email at every step of the process! Also, you can check out our webpage , Linkedin and Youtube for more about dLocal!",
+    "url": "https://jobicy.com/jobs/140595-senior-security-engineer-cloud-platform-security-devsecops",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Spain",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "aws",
+      "gcp",
+      "azure",
+      "kubernetes",
+      "terraform",
+      "ansible",
+      "cloudflare",
+      "pulumi",
+      "helm"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-13T07:21:44+00:00",
+    "fetched_at": "2026-03-13T12:27:17.729Z",
+    "raw": {
+      "id": 140595,
+      "url": "https://jobicy.com/jobs/140595-senior-security-engineer-cloud-platform-security-devsecops",
+      "jobSlug": "140595-senior-security-engineer-cloud-platform-security-devsecops",
+      "jobTitle": "Senior Security Engineer &amp;#8211; Cloud &amp;#038; Platform Security (Devsecops)",
+      "companyName": "dLocal",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/5c2f54fe-221.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Spain",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Why should you join dLocal?dLocal enables the biggest companies in the world to collect payments in 40 countries in emerging markets. Global brands rely on us to increase conversion rates...",
+      "jobDescription": "<b>Why should you join dLocal?</b>dLocal enables the biggest companies in the world to collect payments in 40 countries in emerging markets. Global brands rely on us to increase conversion rates and simplify payment expansion effortlessly. As both a payments processor and a merchant of record where we operate, we make it possible for our merchants to make inroads into the world’s fastest-growing, emerging markets. <br>By joining us you will be a part of an amazing global team that makes it all happen. Being a part of dLocal means working with 1000+ teammates from 30+ different nationalities and developing an international career that impacts millions of people’s daily lives. We are builders, we never run from a challenge, we are customer-centric, and if this sounds like you, we know you will thrive in our team.<br><p><strong>Why should you join dLocal?</strong><br />dLocal enables the biggest companies in the world to collect payments in 40 countries in<br>emerging markets. Global brands rely on us to increase conversion rates and simplify<br>payment expansion effortlessly. As both a payments processor and a merchant of record<br>where we operate, we make it possible for our merchants to make inroads into the<br>world’s fastest-growing, emerging markets.<br />By joining us you will be a part of an amazing global team that makes it all happen, in a<br>flexible, remote-first dynamic culture with travel, health and learning benefits, among<br>others. Being a part of dLocal means working with around 1500 teammates from 30+<br>different nationalities and developing an international career that impacts millions of<br>people’s daily lives. We are builders, we never run from a challenge, we are customer-<br>centric, and if this sounds like you, we know you will thrive in our team.</p><strong>About Us &amp; The Role:<br></strong><br>We&#8217;re not building a traditional security team. We are a lean, forward-thinking<br>organization that rapidly adopts the latest disruptive innovations to stay ahead of the<br>curve. We believe the future of defense is smart, efficient, and scaled, and we&#8217;re<br>leveraging AI agents and modern platforms to build it (e.g., AI-assisted policy checks,<br>drift correlation, and AI-driven correlation of posture, CI/CD).<br />We are looking for a hands-on builder and executor who lives and breathes &#8220;secure-by-<br>default&#8221; infrastructure. This isn&#8217;t just a compliance or audit role; it&#8217;s a &#8220;full-stack&#8221;<br>security engineering position focused onprevention. You&#8217;ll be an architect, an engineer,<br>and a key enabler, codifying security into every part of our cloud and CI/CD lifecycle.<br />In our environment, a small, senior team means massive impact. You won&#8217;t just write<br>policies—you&#8217;ll codify them as automated guardrails, design the hardened platforms our services run on, and build the &#8220;paved road&#8221; that makes security the easiest and fastest<br>path for all our engineers. You’ll partner closely with dLocal’s Cloud Platform/SRE teams<br>to deliver shared guardrails and ‘paved road’ services, not day-to-day platform<br>operations. This role is focused on prevention and platform engineering.<br /><h2>What You’ll Do:</h2><ul>\n<li><strong>Engineer Secure-by-Default Foundations:</strong> Design, build, and maintain hardened,<br>multi-account AWS architectures, &#8220;golden&#8221; AMIs, and secure-by-default<br>container/Kubernetes (EKS) base images.</li>\n<li><strong>Automate Security via IaC:</strong> Be the expert in &#8220;Policy-as-Code.&#8221; Publish and maintain<br>Infrastructure controls, golden Terraform modules, Helm charts, and admission<br>policies. You will measure adoption, drift detection, and exception aging while<br>preventing misconfigurations before they&#8217;re deployed.</li>\n<li><strong>Own the Platform &amp; Edge Defense:</strong> Configure and manage runtime security for<br>Kubernetes (e.g., admission controllers, least-privilege policies) and own the safe-<br>change processes for our layered edge defenses (WAF/CDN/anti-Bot), including pre-<br>prod testing, blast-radius limits, rollback patterns, and change metrics.</li>\n<li><strong>Generate High-Fidelity Signals: </strong>Integrate posture signals (CSPM, KSPM, CI/CD,<br>WAF) into centralized dashboards and our SIEM/SOAR with clear routing and<br>ownership, partnering with D&amp;R to ensure signals are high-fidelity and actionable.</li>\n<li><strong>Enable &amp; Mentor: </strong>Lead threat modeling exercises and partner with Platform, SRE,<br>and Product teams to translate risks into actionable backlogs. You&#8217;ll be mentoring<br>others on prevention-first design.</li>\n<li><strong>Support Incident Response: </strong>Define platform incident playbooks for<br>misconfiguration and drift containment. You will act as the senior subject-matter<br>expert for cloud/platform incidents, providing deep technical expertise to the IR<br>team.</li>\n</ul><h2>What You Bring:</h2><li><strong>A &#8220;Builder&#8221; Mindset:</strong> 4-8+ years of hands-on experience in Cloud Security, Platform<br>Security, or DevSecOps. You have a passion for building preventative solutions from<br>the ground up.</li><li><strong>Deep Cloud-Native Expertise: </strong>Advanced AWS security architecture (multi-account,<br>IAM boundaries, org SCPs) and expert-level, hands-on knowledge of building and<br>securing production environments.</li><li><strong>Mastery of Modern Stacks: </strong>Deep, practical experience with production EKS<br>baseline hardening (admission control, least privilege, runtime controls). You arefluent in IaC (Terraform, Pulumi, or Ansible) and have strong scripting/automation<br>skills (Python, Go, etc.).</li><li><strong>Application &amp; Edge Security: </strong>Hands-on experience configuring and tuning modern<br>WAFs, CDNs, and edge security platforms (e.g., Cloudflare, Akamai, AWS WAF).</li><li><strong>A Pragmatic Risk-Based Approach: </strong>You can translate risks from threat models and<br>compliance frameworks (CIS, NIST, OWASP, PCI) into actionable, prioritized<br>engineering work—not just checkbox-ticking.</li><li><strong>A Force-Multiplier: </strong>You have a leadership attitude to influence and mentor<br>engineers, document complex systems clearly, and influence other teams to adopt<br>security-first practices.</li><h2>Nice to Have:</h2><ul>\n<li>Experience with modern posture management tools (CSPM/KSPM/DSPM).</li>\n<li>Experience with common, large-scale edge security stacks (e.g., Cloudflare, Akamai,<br>AWS WAF).</li>\n<li>Multi-cloud experience (GCP, Azure) in addition to AWS.</li>\n<li>Certifications like CKA/CKS, AWS Security Specialty, or OSCP are valued but not<br>required.</li>\n</ul><h2>How You’ll Work</h2><ul>\n<li>You will work through Cloud Platform/SRE teams to roll out guardrails as shared<br>services and &#8220;paved roads.&#8221;<br></li>\n<li>You&#8217;ll coordinate with the Application Security team for threat modeling and with<br>the Detection &amp; Response (D&amp;R) team for signal fidelity and automated containment<br>handoffs</li> </ul><strong>Why You&#8217;ll Love It Here: </strong>This is a high-impact, high-ownership role. You&#8217;ll join a small, senior team where<br>everyone contributes end-to-end. We&#8217;re building a modern, intelligent, and automated<br>defense program from the ground up. If you&#8217;re tired of legacy tools and &#8220;bolt-on&#8221;<br>security, and you want to build the future ofproactive, automatedcyber defense from the<br>code up, let&#8217;s talk.<br><b>What do we offer? </b><br><p>Besides the tailored benefits we have for each country, dLocal will help you thrive and go that extra mile by offering you:- Flexibility: we have flexible schedules and we are driven by performance.- Fintech industry: work in a dynamic and ever-evolving environment, with plenty to build and boost your creativity.- Referral bonus program: our internal talents are the best recruiters &#8211; refer someone ideal for a role and get rewarded.- Learning &amp; development: get access to a Premium Coursera subscription.- Language classes: we provide free English, Spanish, or Portuguese classes.- Social budget: you&#8217;ll get a monthly budget to chill out with your team (in person or remotely) and deepen your connections!- dLocal Houses: want to rent a house to spend one week anywhere in the world coworking with your team? We’ve got your back!<br><b>Flexibility in how you work: </b>We focus on impact and productivity over fixed hours. This means our teams have flexible schedules and, depending on your role and location, you will combine self‑managed focus time with moments of in‑person connection in our collaboration hubs.<br /><b>What happens after you apply?</b>Our Talent Acquisition team is invested in creating the best candidate experience possible, so don’t worry, you will definitely hear from us. We will review your CV and keep you posted by email at every step of the process!<br>Also, you can check out our <a href=\"https://t.lever-analytics.com/email-link?dest=https%3A%2F%2Fdlocal.com%2F&amp;eid=aef21020-4dcd-46c4-9847-95ccd3651332&amp;idx=1&amp;token=rqc7gOyvQkQ91DDUfVxbdQLVTfQ\" rel=\"nofollow ugc noopener\" target=\"_blank\">webpage</a>, <a href=\"https://t.lever-analytics.com/email-link?dest=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fdlocal%2F&amp;eid=aef21020-4dcd-46c4-9847-95ccd3651332&amp;idx=2&amp;token=0eI_Z5HRCSV966dZjpsae-VX3dw\" rel=\"nofollow ugc noopener\" target=\"_blank\">Linkedin</a> and <a href=\"https://t.lever-analytics.com/email-link?dest=https%3A%2F%2Fwww.youtube.com%2Fc%2FdLocalPayments&amp;eid=aef21020-4dcd-46c4-9847-95ccd3651332&amp;idx=4&amp;token=ldItr6wwoy9FP2UZu32oh3E27W4\" rel=\"nofollow ugc noopener\" target=\"_blank\">Youtube</a> for more about dLocal!</p>",
+      "pubDate": "2026-03-13T07:21:44+00:00"
+    }
+  },
+  {
+    "id": "jobicy:140594",
+    "platform": "jobicy",
+    "external_id": "140594",
+    "title": "Software Engineer II",
+    "company": "Affirm",
+    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. About the team The Consumer Payments team at Affirm owns systems handling billions of Dollars worth of transactions each year. You will work at scale to support the growth and expansion of Affirm&#8217;s payments platform and wider business. What You&#8217;ll Do With the support of your team’s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team’s artifacts by creating and monitoring metrics, escalating when needed, and supporting “keep the lights on” &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others&#8217; code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. Pay Grade &#8211; L Equity Grade &#8211; 4 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). GBR base pay range per year: £98,000 &#8211; 138,000 Location: UK Remote #LI-Remote Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities. We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: Health care coverage &#8211; Affirm covers all premiums for all levels of coverage for you and your dependents Flexible Spending Wallets &#8211; generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses Time off &#8211; competitive vacation and holiday schedules allowing you to take time off to rest and recharge ESPP &#8211; An employee stock purchase plan enabling you to buy shares of Affirm at a discount We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process. [For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records. By clicking &#8220;Submit Application,&#8221; you acknowledge that you have read Affirm&#8217;s Global Candidate Privacy Notice and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.",
+    "url": "https://jobicy.com/jobs/140594-software-engineer-ii-2",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "GBP",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "kotlin",
+      "mysql",
+      "aws",
+      "kubernetes"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-13T07:21:43+00:00",
+    "fetched_at": "2026-03-13T12:27:17.730Z",
+    "raw": {
+      "id": 140594,
+      "url": "https://jobicy.com/jobs/140594-software-engineer-ii-2",
+      "jobSlug": "140594-software-engineer-ii-2",
+      "jobTitle": "Software Engineer II",
+      "companyName": "Affirm",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fac7714c-221-1.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "UK",
+      "jobLevel": "Midweight",
+      "jobExcerpt": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.Affirm is reinventing...",
+      "jobDescription": "<p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p><p><strong>About the team</strong></p><p>The Consumer Payments team at Affirm owns systems handling billions of Dollars worth of transactions each year. You will work at scale to support the growth and expansion of Affirm&#8217;s payments platform and wider business.</p><p><strong>What You&#8217;ll Do</strong></p><ul>\n<li>With the support of your team’s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work.</li>\n<li>You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.</li>\n<li>You will support the operations and availability of your team’s artifacts by creating and monitoring metrics, escalating when needed, and supporting “keep the lights on” &amp; on-call efforts.</li>\n<li>You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process.</li>\n</ul><p><strong>What We Look For</strong></p><ul>\n<li>You have a total of 1.5+ years of experience as a software engineer.</li>\n<li>You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin.</li>\n<li>You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes.</li>\n<li>You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.</li>\n<li>You are comfortable navigating a large code base, debugging others&#8217; code, and providing feedback to other engineers through code reviews.</li>\n<li>Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.</li>\n<li>You have strong verbal and written communication skills that support effective collaboration with our global engineering team.</li>\n</ul><p>Pay Grade &#8211; L</p><p>Equity Grade &#8211; 4</p><p>Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. </p><p>Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).</p><p>GBR base pay range per year: £98,000 &#8211; 138,000</p><p>Location: UK Remote</p><p>#LI-Remote</p><p>Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.</p><p>We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: </p><ul>\n<li>Health care coverage &#8211; Affirm covers all premiums for all levels of coverage for you and your dependents </li>\n<li>Flexible Spending Wallets &#8211; generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses</li>\n<li>Time off &#8211; competitive vacation and holiday schedules allowing you to take time off to rest and recharge</li>\n<li>ESPP &#8211; An employee stock purchase plan enabling you to buy shares of Affirm at a discount</li>\n</ul><p>We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.</p><p>[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.</p><p>By clicking &#8220;Submit Application,&#8221; you acknowledge that you have read Affirm&#8217;s <a href=\"https://www.affirm.com/global-candidate-privacy-notice\" target=\"_blank\" rel=\"nofollow ugc noopener\">Global Candidate Privacy Notice</a> and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.</p>",
+      "pubDate": "2026-03-13T07:21:43+00:00",
+      "salaryMin": 98000,
+      "salaryCurrency": "GBP",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:140590",
+    "platform": "jobicy",
+    "external_id": "140590",
+    "title": "Software Engineer II &amp;#8211; Android",
+    "company": "Tripadvisor",
+    "description": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The subsidiaries of Tripadvisor, Inc. (Nasdaq: TRIP), include a portfolio of travel brands and businesses, including Tripadvisor, Viator, and TheFork. About the Role We’re looking for a Software Engineer II (Android) to join our fast-growing mobile team. This role is open to candidates based within a commutable distance (generally within 2–3 hours) of one of our office hubs in Oxford or London. We embrace flexibility in where and how work gets done and also value meaningful in-person moments to connect and collaborate. You can expect a remote-first working model with periodic in-person gatherings at your closest office for team connection, planning, or other key moments. Within Tripadvisor Experiences we have a fun and friendly environment where the key objective is getting things done. Working closely alongside product managers and designers, our engineers are part of the full process from software design, to code, to test, to deployment and back again. Most of our engineers release code to production every few days and we have a daily release cycle. What You&#8217;ll Do At Tripadvisor Experiences, our Engineers are versatile problem-solvers who thrive on a wide range of technical challenges. This is a Android-focused, full-stack role where you&#8217;ll primarily work on Android systems, with occasional back-end projects. You don’t need to be an expert with everything — if you&#8217;re eager to learn, we’ll support you on the job and help you grow your skills. Our tech stack includes Kotlin, Coroutines, Jetpack Compose, Cursor and GraphQL in a modular layout that follows the clean-architecture concept with MVVM. Code! Our engineers focus on doing what they enjoy most and do best, writing code Touch code at every level – while the focus is app development, you’ll also have opportunities to work on backend microservices Collaborate closely with Product and design teams to define feature specifications and develop high quality deliverables for our customers Take responsibility for all aspects of software engineering, from design to implementation, development experience, QA and maintenance Work alongside other engineering groups located around the world Skills &amp; Experience Demonstrated ability to use AI tools to improve efficiency, quality, and decision-making in day-to-day work. Proven ability to operate effectively with a global-first mindset Experience of developing an Android app and familiarity with mobile web and back-end technologies would be beneficial At least 3 years’ experience of commercial software development, solving different kinds of technical problems Experience with reactive programming in native mobile platforms Willingness and ability to take on new technologies Ability to break down complex problems into simple solutions High quality verbal and written communication skills Sense of ownership and pride in your work. What We Offer Competitive compensation packages (routinely benchmarked against the latest industry data), including base salary and annual bonuses “Work your way” with flexibility to suit your lifestyle. Tripadvisor Group takes a remote-friendly approach to collaboration across a worldwide team, with the option to join on-site as often as you’d like or as required by your team. Flexible schedule. Work-life balance is ingrained in our culture by design. Trust and accountability make it work. Donation matching. Give back? Give more! We match qualifying charitable donations annually. Tuition assistance. Want to level up your career? We love to hear it! Receive annual support for qualified programs. Lifestyle benefit. An annual benefit to spend on yourself. Use it on travel, wellness, or whatever suits you. Travel perks. We believe that travel is employee development, so we provide discounts and more. Employee assistance program. We’re here for you with resources and programs to help you through life’s challenges. Health benefits. We offer great coverage and competitive premiums. Generous referral bonuses. Help us grow and be rewarded with generous awards for referring successful candidates. Our Cultural Pillars: Traveler first We exist to create value for our customer, the traveler. We enable our suppliers and partners to unlock this value. Their collective behaviors and insights are what drives us. Execution is our edge We act fast, experiment, learn from failure, iterate, and improve the solutions of tomorrow across every aspect of our business. Our execution is agile, data-driven, prioritised, and built to scale. We assume no problem is someone else’s problem and finish what can be done today, knowing tomorrow will bring fresh challenges. We succeed together The best outcomes are driven by empathic, humble, and diverse subject matter experts working toward shared goals. We collaborate relentlessly, challenge assumptions, give actionable feedback, and set each other up for success through empowered teams with a clear charter. We transparently take ownership of our growth, individually and as a team. We celebrate the quality of our effort, our learnings, and our collective achievements. We strive to create an accessible and inclusive experience for all candidates. If you need a reasonable accommodation during the application or the recruiting process, please make sure to reach out to your individual recruiter or our team at AccessibleRecruiting@tripadvisor.com . If you have any additional questions about careers at Tripadvisor you can email us at recruitment@tripadvisor.com . We have all the answers! #LI-SM1 #Viator #LI-Remote",
+    "url": "https://jobicy.com/jobs/140590-software-engineer-ii-android",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": null,
+    "location": "UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "kotlin",
+      "android",
+      "jetpack",
+      "graphql"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-13T07:21:38+00:00",
+    "fetched_at": "2026-03-13T12:27:17.731Z",
+    "raw": {
+      "id": 140590,
+      "url": "https://jobicy.com/jobs/140590-software-engineer-ii-android",
+      "jobSlug": "140590-software-engineer-ii-android",
+      "jobTitle": "Software Engineer II &amp;#8211; Android",
+      "companyName": "Tripadvisor",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/01/WRILS-210129125206-036216.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "UK",
+      "jobLevel": "Midweight",
+      "jobExcerpt": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities...",
+      "jobDescription": "<p><strong>About Tripadvisor </strong></p><p>The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The subsidiaries of Tripadvisor, Inc. (Nasdaq: TRIP), include a portfolio of travel brands and businesses, including Tripadvisor, Viator, and TheFork.</p><p><strong>About the Role</strong></p><p>We’re looking for a <strong>Software Engineer II (Android)</strong> to join our fast-growing mobile team. This role is open to candidates based within a commutable distance (generally within 2–3 hours) of one of our office hubs in Oxford or London. We embrace flexibility in where and how work gets done and also value meaningful in-person moments to connect and collaborate. You can expect a remote-first working model with periodic in-person gatherings at your closest office for team connection, planning, or other key moments.</p><p>Within Tripadvisor Experiences we have a fun and friendly environment where the key objective is getting things done. Working closely alongside product managers and designers, our engineers are part of the full process from software design, to code, to test, to deployment and back again. Most of our engineers release code to production every few days and we have a daily release cycle.</p><p><strong>What You&#8217;ll Do</strong></p><p>At Tripadvisor Experiences, our Engineers are versatile problem-solvers who thrive on a wide range of technical challenges. This is a Android-focused, full-stack role where you&#8217;ll primarily work on Android systems, with occasional back-end projects. You don’t need to be an expert with everything — if you&#8217;re eager to learn, we’ll support you on the job and help you grow your skills. <strong>Our tech stack includes Kotlin, Coroutines, Jetpack Compose, Cursor and GraphQL in a modular layout that follows the clean-architecture concept with MVVM.</strong></p><ul>\n<li>Code! Our engineers focus on doing what they enjoy most and do best, writing code</li>\n<li>Touch code at every level – while the focus is app development, you’ll also have opportunities to work on backend microservices</li>\n<li>Collaborate closely with Product and design teams to define feature specifications and develop high quality deliverables for our customers</li>\n<li>Take responsibility for all aspects of software engineering, from design to implementation, development experience, QA and maintenance</li>\n<li>Work alongside other engineering groups located around the world</li>\n</ul><p><strong>Skills &amp; Experience</strong></p><ul>\n<li>Demonstrated ability to use AI tools to improve efficiency, quality, and decision-making in day-to-day work.</li>\n<li>Proven ability to operate effectively with a global-first mindset</li>\n<li>Experience of developing an Android app and familiarity with mobile web and back-end technologies would be beneficial</li>\n<li>At least 3 years’ experience of commercial software development, solving different kinds of technical problems</li>\n<li>Experience with reactive programming in native mobile platforms</li>\n<li>Willingness and ability to take on new technologies</li>\n<li>Ability to break down complex problems into simple solutions</li>\n<li>High quality verbal and written communication skills</li>\n<li>Sense of ownership and pride in your work.</li>\n</ul><p><strong>What We Offer </strong></p><ul>\n<li>Competitive compensation packages (routinely benchmarked against the latest industry data), including base salary and annual bonuses</li>\n<li>“Work your way” with flexibility to suit your lifestyle. Tripadvisor Group takes a remote-friendly approach to collaboration across a worldwide team, with the option to join on-site as often as you’d like or as required by your team.</li>\n<li>Flexible schedule. Work-life balance is ingrained in our culture by design. Trust and accountability make it work.</li>\n<li>Donation matching. Give back? Give more! We match qualifying charitable donations annually.</li>\n<li>Tuition assistance. Want to level up your career? We love to hear it! Receive annual support for qualified programs.</li>\n<li>Lifestyle benefit. An annual benefit to spend on yourself. Use it on travel, wellness, or whatever suits you.</li>\n<li>Travel perks. We believe that travel is employee development, so we provide discounts and more.</li>\n<li>Employee assistance program. We’re here for you with resources and programs to help you through life’s challenges.</li>\n<li>Health benefits. We offer great coverage and competitive premiums.</li>\n<li>Generous referral bonuses. Help us grow and be rewarded with generous awards for referring successful candidates.</li>\n</ul><p><strong>Our Cultural Pillars:</strong></p><p><strong>Traveler first</strong></p><p>We exist to create value for our customer, the traveler. We enable our suppliers and partners to unlock this value. Their collective behaviors and insights are what drives us. </p><p><strong>Execution is our edge</strong></p><p>We act fast, experiment, learn from failure, iterate, and improve the solutions of tomorrow across every aspect of our business. Our execution is agile, data-driven, prioritised, and built to scale. We assume no problem is someone else’s problem and finish what can be done today, knowing tomorrow will bring fresh challenges. </p><p><strong>We succeed together</strong></p><p>The best outcomes are driven by empathic, humble, and diverse subject matter experts working toward shared goals. We collaborate relentlessly, challenge assumptions, give actionable feedback, and set each other up for success through empowered teams with a clear charter. We transparently take ownership of our growth, individually and as a team. We celebrate the quality of our effort, our learnings, and our collective achievements.</p><p>We strive to create an accessible and inclusive experience for all candidates. If you need a reasonable accommodation during the application or the recruiting process, please make sure to reach out to your individual recruiter or our team at <strong>AccessibleRecruiting@tripadvisor.com</strong>.</p><p>If you have any additional questions about careers at Tripadvisor you can email us at <strong>recruitment@tripadvisor.com</strong>. We have all the answers!</p><p>#LI-SM1</p><p>#Viator</p><p>#LI-Remote</p>",
+      "pubDate": "2026-03-13T07:21:38+00:00"
+    }
+  },
+  {
+    "id": "jobicy:140587",
+    "platform": "jobicy",
+    "external_id": "140587",
+    "title": "Senior/Lead Software Engineer (Node.js/Angular/.NET)",
+    "company": "TechMagic",
+    "description": "We are looking for a Software Engineer with strong backend expertise to strengthen our engineering team at a successful web project from the USA. As a Software Engineer , you will contribute to building and enhancing the platform within a collaborative engineering team. While the current stack includes Angular and Node.js , the strategic goal is to expand backend capabilities and strengthen collaboration with engineering and ETL teams . Depending on project priorities, you may initially focus on Angular/Node.js features , while gradually contributing more to backend services and integrations , where .NET/C# experience will be valuable. You should be comfortable working across the stack when needed . Our ideal candidate: Is comfortable working across both frontend and backend when needed Brings strong backend engineering experience Can help increase the technical seniority of the team Is proactive and capable of contributing to technical direction and system design Demonstrates strong ownership and problem-solving skills Is collaborative, comfortable working in ambiguous environments, able to mentor others, and raise the overall technical maturity of the team Requirements Must have 5+ years of professional software development experience. Strong experience in backend development. Hands-on experience with Node.js and Angular. Previous or current experience with .NET / C#. Experience designing and implementing backend services or APIs. Strong problem-solving skills and the ability to work with complex systems. Upper-Intermediate English (B2+) or higher. Proactive mindset and ability to take ownership of technical solutions. Will be a plus Experience with AWS or other cloud platforms Experience working with healthcare systems or regulated environments Experience with SQL and/or NoSQL databases (e.g., MySQL, MongoDB) Mentorship or technical leadership experience Responsibilities Develop and maintain features using Angular and Node.js (Express). Contribute to backend services and system architecture where applicable. Strengthen the team&#8217;s backend expertise and engineering maturity. Collaborate with engineering and ETL teams on integrations and data-related workflows. Participate in architecture discussions, code reviews, and technical decision-making. Identify opportunities to improve system scalability, reliability, and maintainability. Share knowledge and support other engineers when needed. About Project Our client is a Software company from the USA. Product This platform is dedicated to ensuring payment integrity for health payers. Our project focuses on creating and implementing cutting-edge technology solutions to tackle current and future challenges in the healthcare industry for health plans. By bringing together payers, providers, and business partners on one technology platform, we aim to facilitate transparent communication and support collaboration. Stage Active phase of development Project team Existing team on the client side. We work with the US team (Eastern and Central time zones) — around 10 people. Our team is 17 people (9 MEAN stack developers, 8 QA, 1 PM) Project Technologies MEAN (MongoDB, Express. js, Angular and Node.js) Work schedule Full-time working day (flexible hours), possibility to work remotely or visit our offices in Lviv, Kyiv or Krakow. Interview Stages 1-st stage — Call with Recruiter (30 minutes) 2-nd stage — Interview with our Senior Engineer (1 hour) 3-rd stage — Client interview Our Benefits Projects with a modern JS stack (React.js, React Native, Vue.js, Angular, Node.js) Work entirely remotely or in our office (Lviv, Kyiv or Krakow). Wellness: Medical insurance/sports compensation/ health check-up+flu vaccination at your choice Paid vacations and sick leaves, additional days off, relocation bonus Education: regular tech talks, educational courses, paid certifications, English classes One of the best IT employers in Lviv (or IT service companies in Ukraine) based on DOU rating. Recruiter &#8211; Anastasiia Vaskiv",
+    "url": "https://jobicy.com/jobs/140587-senior-lead-software-engineer-node-js-angular-net",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Ukraine",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "react",
+      "vue",
+      "angular",
+      "nodejs",
+      "express",
+      "mysql",
+      "mongodb",
+      "aws",
+      "react-native"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-03-13T07:21:32+00:00",
+    "fetched_at": "2026-03-13T12:27:17.732Z",
+    "raw": {
+      "id": 140587,
+      "url": "https://jobicy.com/jobs/140587-senior-lead-software-engineer-node-js-angular-net",
+      "jobSlug": "140587-senior-lead-software-engineer-node-js-angular-net",
+      "jobTitle": "Senior/Lead Software Engineer (Node.js/Angular/.NET)",
+      "companyName": "TechMagic",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/09/3015c753-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Ukraine",
+      "jobLevel": "Senior",
+      "jobExcerpt": "We are looking for a Software Engineer with strong backend expertise to strengthen our engineering team at a successful web project from the USA.As a Software Engineer, you will contribute...",
+      "jobDescription": "<p>We are looking for a <strong>Software Engineer with strong backend expertise</strong> to strengthen our engineering team at a successful web project from the USA.</p><p>As a <strong>Software Engineer</strong>, you will contribute to building and enhancing the platform within a collaborative engineering team. While the current stack includes <strong>Angular and Node.js</strong>, the strategic goal is to <strong>expand backend capabilities and strengthen collaboration with engineering and ETL teams</strong>.</p><p>Depending on project priorities, you may initially focus on <strong>Angular/Node.js features</strong>, while gradually contributing more to <strong>backend services and integrations</strong>, where <strong>.NET/C# experience</strong> will be valuable. You should be comfortable <strong>working across the stack when needed</strong>.</p><p><strong>Our ideal candidate:</strong></p><ul><li><p>Is comfortable working across both frontend and backend when needed</p></li><li><p>Brings strong backend engineering experience</p></li><li><p>Can help increase the technical seniority of the team</p></li><li><p>Is proactive and capable of contributing to technical direction and system design</p></li><li><p>Demonstrates strong ownership and problem-solving skills</p></li><li>Is collaborative, comfortable working in ambiguous environments, able to mentor others, and raise the overall technical maturity of the team</li></ul><p><b>Requirements</b></p><p><strong>Must have</strong></p><ul><li><p>5+ years of professional software development experience.</p></li><li><p>Strong experience in backend development.</p></li><li><p>Hands-on experience with Node.js and Angular.</p></li><li><p>Previous or current experience with .NET / C#.</p></li><li><p>Experience designing and implementing backend services or APIs.</p></li><li><p>Strong problem-solving skills and the ability to work with complex systems.</p></li><li><p>Upper-Intermediate English (B2+) or higher.</p></li><li>Proactive mindset and ability to take ownership of technical solutions.</li></ul><p><b>Will be a plus</b></p><ul><li><p>Experience with AWS or other cloud platforms</p></li><li><p>Experience working with healthcare systems or regulated environments</p></li><li><p>Experience with SQL and/or NoSQL databases (e.g., MySQL, MongoDB)</p></li><li><p>Mentorship or technical leadership experience</p></li></ul><p><strong>Responsibilities</strong></p><ul><li><p>Develop and maintain features using Angular and Node.js (Express).</p></li><li><p>Contribute to backend services and system architecture where applicable.</p></li><li><p>Strengthen the team&#8217;s backend expertise and engineering maturity.</p></li><li><p>Collaborate with engineering and ETL teams on integrations and data-related workflows.</p></li><li><p>Participate in architecture discussions, code reviews, and technical decision-making.</p></li><li><p>Identify opportunities to improve system scalability, reliability, and maintainability.</p></li><li><p>Share knowledge and support other engineers when needed.</p></li></ul><p><b>About Project</b></p><p>Our client is a Software company from the USA.</p><p><b>Product</b></p><p>This platform is dedicated to ensuring payment integrity for health payers. Our project focuses on creating and implementing cutting-edge technology solutions to tackle current and future challenges in the healthcare industry for health plans. By bringing together payers, providers, and business partners on one technology platform, we aim to facilitate transparent communication and support collaboration.</p><p><b>Stage</b></p><p>Active phase of development</p><p><b>Project team</b></p><p>Existing team on the client side. We work with the US team (Eastern and Central time zones) — around 10 people. Our team is 17 people (9 MEAN stack developers, 8 QA, 1 PM)</p><p><b>Project Technologies</b></p><p>MEAN (MongoDB, Express. js, Angular and Node.js)</p><p><b>Work schedule</b></p><p>Full-time working day (flexible hours), possibility to work remotely or visit our offices in Lviv, Kyiv or Krakow.</p><p><b>Interview Stages</b></p><p>1-st stage — Call with Recruiter (30 minutes)<br>2-nd stage — Interview with our Senior Engineer (1 hour)<br>3-rd stage — Client interview</p><p><b>Our Benefits</b></p><ul><li>Projects with a modern JS stack (React.js, React Native, Vue.js, Angular, Node.js)</li><li>Work entirely remotely or in our office (Lviv, Kyiv or Krakow).</li><li>Wellness: Medical insurance/sports compensation/ health check-up+flu vaccination at your choice</li><li>Paid vacations and sick leaves, additional days off, relocation bonus</li><li>Education: regular tech talks, educational courses, paid certifications, English classes</li><li>One of the best IT employers in Lviv (or IT service companies in Ukraine) based on DOU rating.</li></ul><p>Recruiter &#8211;<a href=\"https://www.linkedin.com/in/anastasiiavaskiv/\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Anastasiia Vaskiv</a></p>",
+      "pubDate": "2026-03-13T07:21:32+00:00"
+    }
+  },
+  {
     "id": "jobicy:140531",
     "platform": "jobicy",
     "external_id": "140531",
@@ -30,7 +288,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:13:55+00:00",
-    "fetched_at": "2026-03-13T06:35:12.317Z",
+    "fetched_at": "2026-03-13T12:27:17.733Z",
     "raw": {
       "id": 140531,
       "url": "https://jobicy.com/jobs/140531-staff-backend-python-engineer-ai-engineeringduo-chat",
@@ -81,7 +339,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:13:49+00:00",
-    "fetched_at": "2026-03-13T06:35:12.318Z",
+    "fetched_at": "2026-03-13T12:27:17.734Z",
     "raw": {
       "id": 140527,
       "url": "https://jobicy.com/jobs/140527-cloud-software-engineer",
@@ -126,7 +384,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:12:00+00:00",
-    "fetched_at": "2026-03-13T06:35:12.320Z",
+    "fetched_at": "2026-03-13T12:27:17.736Z",
     "raw": {
       "id": 140520,
       "url": "https://jobicy.com/jobs/140520-director-analyst-software-engineering-technologies-and-practices",
@@ -175,7 +433,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:11:51+00:00",
-    "fetched_at": "2026-03-13T06:35:12.321Z",
+    "fetched_at": "2026-03-13T12:27:17.737Z",
     "raw": {
       "id": 140512,
       "url": "https://jobicy.com/jobs/140512-senior-solution-architect-ai-compute-engineer-nvis",
@@ -225,7 +483,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:11:42+00:00",
-    "fetched_at": "2026-03-13T06:35:12.322Z",
+    "fetched_at": "2026-03-13T12:27:17.738Z",
     "raw": {
       "id": 140506,
       "url": "https://jobicy.com/jobs/140506-senior-software-engineer-cloud-enablement-team-gcp-golang-python-remote-across-anz",
@@ -279,7 +537,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-11T11:10:43+00:00",
-    "fetched_at": "2026-03-13T06:35:12.322Z",
+    "fetched_at": "2026-03-13T12:27:17.739Z",
     "raw": {
       "id": 140503,
       "url": "https://jobicy.com/jobs/140503-middle-react-native-developer",
@@ -329,7 +587,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:10:41+00:00",
-    "fetched_at": "2026-03-13T06:35:12.323Z",
+    "fetched_at": "2026-03-13T12:27:17.740Z",
     "raw": {
       "id": 140501,
       "url": "https://jobicy.com/jobs/140501-ai-software-engineer",
@@ -380,7 +638,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:10:31+00:00",
-    "fetched_at": "2026-03-13T06:35:12.325Z",
+    "fetched_at": "2026-03-13T12:27:17.741Z",
     "raw": {
       "id": 140494,
       "url": "https://jobicy.com/jobs/140494-senior-qa-engineer-4",
@@ -428,7 +686,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:10:28+00:00",
-    "fetched_at": "2026-03-13T06:35:12.326Z",
+    "fetched_at": "2026-03-13T12:27:17.742Z",
     "raw": {
       "id": 140492,
       "url": "https://jobicy.com/jobs/140492-senior-android-engineer",
@@ -478,7 +736,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:10:22+00:00",
-    "fetched_at": "2026-03-13T06:35:12.327Z",
+    "fetched_at": "2026-03-13T12:27:17.743Z",
     "raw": {
       "id": 140487,
       "url": "https://jobicy.com/jobs/140487-sr-staff-security-engineer",
@@ -542,7 +800,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-11T11:10:19+00:00",
-    "fetched_at": "2026-03-13T06:35:12.328Z",
+    "fetched_at": "2026-03-13T12:27:17.744Z",
     "raw": {
       "id": 140485,
       "url": "https://jobicy.com/jobs/140485-senior-back-end-developer-node-express-js",
@@ -593,7 +851,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:10:16+00:00",
-    "fetched_at": "2026-03-13T06:35:12.329Z",
+    "fetched_at": "2026-03-13T12:27:17.745Z",
     "raw": {
       "id": 140483,
       "url": "https://jobicy.com/jobs/140483-electrical-engineer-python-expert-freelance-ai-trainer",
@@ -643,7 +901,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:10:15+00:00",
-    "fetched_at": "2026-03-13T06:35:12.329Z",
+    "fetched_at": "2026-03-13T12:27:17.745Z",
     "raw": {
       "id": 140482,
       "url": "https://jobicy.com/jobs/140482-mechanical-engineer-python-expert-freelance-ai-trainer",
@@ -701,7 +959,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-11T11:10:12+00:00",
-    "fetched_at": "2026-03-13T06:35:12.330Z",
+    "fetched_at": "2026-03-13T12:27:17.746Z",
     "raw": {
       "id": 140480,
       "url": "https://jobicy.com/jobs/140480-staff-engineer-python-agent-engineer",
@@ -753,7 +1011,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-09T11:45:19+00:00",
-    "fetched_at": "2026-03-13T06:35:12.332Z",
+    "fetched_at": "2026-03-13T12:27:17.747Z",
     "raw": {
       "id": 140402,
       "url": "https://jobicy.com/jobs/140402-senior-platform-engineer",
@@ -812,7 +1070,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-09T11:45:14+00:00",
-    "fetched_at": "2026-03-13T06:35:12.333Z",
+    "fetched_at": "2026-03-13T12:27:17.749Z",
     "raw": {
       "id": 140398,
       "url": "https://jobicy.com/jobs/140398-senior-full-stack-engineer-4",
@@ -857,7 +1115,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-09T11:45:04+00:00",
-    "fetched_at": "2026-03-13T06:35:12.334Z",
+    "fetched_at": "2026-03-13T12:27:17.750Z",
     "raw": {
       "id": 140391,
       "url": "https://jobicy.com/jobs/140391-netsuite-developer-6-month-ftc",
@@ -911,7 +1169,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-09T11:44:59+00:00",
-    "fetched_at": "2026-03-13T06:35:12.334Z",
+    "fetched_at": "2026-03-13T12:27:17.750Z",
     "raw": {
       "id": 140388,
       "url": "https://jobicy.com/jobs/140388-full-stack-developer-2",
@@ -957,7 +1215,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-07T06:47:05+00:00",
-    "fetched_at": "2026-03-13T06:35:12.335Z",
+    "fetched_at": "2026-03-13T12:27:17.751Z",
     "raw": {
       "id": 140329,
       "url": "https://jobicy.com/jobs/140329-staff-solutions-engineer-emea",
@@ -1003,7 +1261,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-07T06:47:03+00:00",
-    "fetched_at": "2026-03-13T06:35:12.337Z",
+    "fetched_at": "2026-03-13T12:27:17.752Z",
     "raw": {
       "id": 140328,
       "url": "https://jobicy.com/jobs/140328-security-engineer",
@@ -1060,7 +1318,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-07T06:47:01+00:00",
-    "fetched_at": "2026-03-13T06:35:12.338Z",
+    "fetched_at": "2026-03-13T12:27:17.754Z",
     "raw": {
       "id": 140326,
       "url": "https://jobicy.com/jobs/140326-backend-engineer-knowledge-graph-rust",
@@ -1111,7 +1369,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-07T06:46:53+00:00",
-    "fetched_at": "2026-03-13T06:35:12.340Z",
+    "fetched_at": "2026-03-13T12:27:17.755Z",
     "raw": {
       "id": 140321,
       "url": "https://jobicy.com/jobs/140321-staff-solutions-architect-emea",
@@ -1158,7 +1416,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-06T14:24:48+00:00",
-    "fetched_at": "2026-03-13T06:35:12.341Z",
+    "fetched_at": "2026-03-13T12:27:17.756Z",
     "raw": {
       "id": 140272,
       "url": "https://jobicy.com/jobs/140272-senior-ios-engineer",
@@ -1209,7 +1467,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-06T14:24:46+00:00",
-    "fetched_at": "2026-03-13T06:35:12.341Z",
+    "fetched_at": "2026-03-13T12:27:17.757Z",
     "raw": {
       "id": 140270,
       "url": "https://jobicy.com/jobs/140270-junior-software-engineer-claimsource",
@@ -1261,7 +1519,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-06T14:24:44+00:00",
-    "fetched_at": "2026-03-13T06:35:12.343Z",
+    "fetched_at": "2026-03-13T12:27:17.758Z",
     "raw": {
       "id": 140269,
       "url": "https://jobicy.com/jobs/140269-application-developer-remote-mexico-only",
@@ -1309,7 +1567,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-06T14:24:35+00:00",
-    "fetched_at": "2026-03-13T06:35:12.343Z",
+    "fetched_at": "2026-03-13T12:27:17.759Z",
     "raw": {
       "id": 140263,
       "url": "https://jobicy.com/jobs/140263-front-end-engineer",
@@ -1355,7 +1613,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-06T14:24:32+00:00",
-    "fetched_at": "2026-03-13T06:35:12.344Z",
+    "fetched_at": "2026-03-13T12:27:17.759Z",
     "raw": {
       "id": 140261,
       "url": "https://jobicy.com/jobs/140261-software-engineer-android-technical-leadership",
@@ -1402,7 +1660,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-05T03:39:00+00:00",
-    "fetched_at": "2026-03-13T06:35:12.345Z",
+    "fetched_at": "2026-03-13T12:27:17.760Z",
     "raw": {
       "id": 140234,
       "url": "https://jobicy.com/jobs/140234-senior-staff-sde-i-czech-republic",
@@ -1448,7 +1706,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-05T03:37:49+00:00",
-    "fetched_at": "2026-03-13T06:35:12.346Z",
+    "fetched_at": "2026-03-13T12:27:17.761Z",
     "raw": {
       "id": 140211,
       "url": "https://jobicy.com/jobs/140211-partner-solutions-architect",
@@ -1496,7 +1754,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-05T03:37:47+00:00",
-    "fetched_at": "2026-03-13T06:35:12.347Z",
+    "fetched_at": "2026-03-13T12:27:17.762Z",
     "raw": {
       "id": 140210,
       "url": "https://jobicy.com/jobs/140210-senior-machine-learning-engineer-canva-ai-au-remote",
@@ -1548,7 +1806,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-05T03:36:48+00:00",
-    "fetched_at": "2026-03-13T06:35:12.348Z",
+    "fetched_at": "2026-03-13T12:27:17.763Z",
     "raw": {
       "id": 140193,
       "url": "https://jobicy.com/jobs/140193-senior-software-engineer-fullstack-backend-technologies-poland-remote-2",
@@ -1594,7 +1852,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:15+00:00",
-    "fetched_at": "2026-03-13T06:35:12.349Z",
+    "fetched_at": "2026-03-13T12:27:17.765Z",
     "raw": {
       "id": 140157,
       "url": "https://jobicy.com/jobs/140157-senior-software-engineer-10",
@@ -1649,7 +1907,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:14+00:00",
-    "fetched_at": "2026-03-13T06:35:12.353Z",
+    "fetched_at": "2026-03-13T12:27:17.766Z",
     "raw": {
       "id": 140156,
       "url": "https://jobicy.com/jobs/140156-principal-machine-learning-engineer-2",
@@ -1707,7 +1965,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:06+00:00",
-    "fetched_at": "2026-03-13T06:35:12.354Z",
+    "fetched_at": "2026-03-13T12:27:17.767Z",
     "raw": {
       "id": 140151,
       "url": "https://jobicy.com/jobs/140151-senior-software-engineer-risk-engineering-2",
@@ -1756,7 +2014,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:02+00:00",
-    "fetched_at": "2026-03-13T06:35:12.355Z",
+    "fetched_at": "2026-03-13T12:27:17.771Z",
     "raw": {
       "id": 140149,
       "url": "https://jobicy.com/jobs/140149-ai-engineer",
@@ -1808,7 +2066,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:24:01+00:00",
-    "fetched_at": "2026-03-13T06:35:12.357Z",
+    "fetched_at": "2026-03-13T12:27:17.773Z",
     "raw": {
       "id": 140148,
       "url": "https://jobicy.com/jobs/140148-senior-software-engineer-9",
@@ -1860,7 +2118,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T15:23:59+00:00",
-    "fetched_at": "2026-03-13T06:35:12.358Z",
+    "fetched_at": "2026-03-13T12:27:17.774Z",
     "raw": {
       "id": 140147,
       "url": "https://jobicy.com/jobs/140147-staff-product-engineer-fullstack",
@@ -1907,7 +2165,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:35+00:00",
-    "fetched_at": "2026-03-13T06:35:12.360Z",
+    "fetched_at": "2026-03-13T12:27:17.776Z",
     "raw": {
       "id": 140123,
       "url": "https://jobicy.com/jobs/140123-manufacturing-engineer",
@@ -1958,7 +2216,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:33+00:00",
-    "fetched_at": "2026-03-13T06:35:12.361Z",
+    "fetched_at": "2026-03-13T12:27:17.777Z",
     "raw": {
       "id": 140122,
       "url": "https://jobicy.com/jobs/140122-senior-research-engineer-europe-uk-remote",
@@ -2007,7 +2265,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:19+00:00",
-    "fetched_at": "2026-03-13T06:35:12.362Z",
+    "fetched_at": "2026-03-13T12:27:17.777Z",
     "raw": {
       "id": 140113,
       "url": "https://jobicy.com/jobs/140113-software-developer-in-test-javascript",
@@ -2055,7 +2313,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:17+00:00",
-    "fetched_at": "2026-03-13T06:35:12.363Z",
+    "fetched_at": "2026-03-13T12:27:17.779Z",
     "raw": {
       "id": 140112,
       "url": "https://jobicy.com/jobs/140112-mobile-software-development-engineer",
@@ -2104,7 +2362,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:03+00:00",
-    "fetched_at": "2026-03-13T06:35:12.364Z",
+    "fetched_at": "2026-03-13T12:27:17.779Z",
     "raw": {
       "id": 140103,
       "url": "https://jobicy.com/jobs/140103-software-engineer-backend-payments-2",
@@ -2151,7 +2409,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-04T09:54:00+00:00",
-    "fetched_at": "2026-03-13T06:35:12.364Z",
+    "fetched_at": "2026-03-13T12:27:17.780Z",
     "raw": {
       "id": 140101,
       "url": "https://jobicy.com/jobs/140101-energy-systems-engineer-freelance-ai-trainer",
@@ -2201,7 +2459,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:46+00:00",
-    "fetched_at": "2026-03-13T06:35:12.365Z",
+    "fetched_at": "2026-03-13T12:27:17.780Z",
     "raw": {
       "id": 140068,
       "url": "https://jobicy.com/jobs/140068-automotive-engineering-python-expert-freelance-ai-trainer",
@@ -2251,7 +2509,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:45+00:00",
-    "fetched_at": "2026-03-13T06:35:12.365Z",
+    "fetched_at": "2026-03-13T12:27:17.781Z",
     "raw": {
       "id": 140067,
       "url": "https://jobicy.com/jobs/140067-automotive-engineer-with-python-freelance-ai-trainer",
@@ -2301,7 +2559,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:38+00:00",
-    "fetched_at": "2026-03-13T06:35:12.366Z",
+    "fetched_at": "2026-03-13T12:27:17.781Z",
     "raw": {
       "id": 140063,
       "url": "https://jobicy.com/jobs/140063-mechanical-engineer-with-python-freelance-ai-trainer",
@@ -2352,7 +2610,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:27+00:00",
-    "fetched_at": "2026-03-13T06:35:12.366Z",
+    "fetched_at": "2026-03-13T12:27:17.782Z",
     "raw": {
       "id": 140056,
       "url": "https://jobicy.com/jobs/140056-senior-software-engineer-8",
@@ -2395,7 +2653,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-03T04:21:23+00:00",
-    "fetched_at": "2026-03-13T06:35:12.367Z",
+    "fetched_at": "2026-03-13T12:27:17.783Z",
     "raw": {
       "id": 140054,
       "url": "https://jobicy.com/jobs/140054-senior-software-engineer-full-remote-france-or-hybrid",
@@ -2440,7 +2698,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:30+00:00",
-    "fetched_at": "2026-03-13T06:35:12.368Z",
+    "fetched_at": "2026-03-13T12:27:17.784Z",
     "raw": {
       "id": 140032,
       "url": "https://jobicy.com/jobs/140032-software-engineer-iii",
@@ -2494,7 +2752,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:23+00:00",
-    "fetched_at": "2026-03-13T06:35:12.370Z",
+    "fetched_at": "2026-03-13T12:27:17.785Z",
     "raw": {
       "id": 140028,
       "url": "https://jobicy.com/jobs/140028-staff-mobile-engineer-instrumentation-sdk-ios-android-observability-germany-remote",
@@ -2551,7 +2809,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:21+00:00",
-    "fetched_at": "2026-03-13T06:35:12.371Z",
+    "fetched_at": "2026-03-13T12:27:17.787Z",
     "raw": {
       "id": 140027,
       "url": "https://jobicy.com/jobs/140027-staff-mobile-engineer-instrumentation-sdk-ios-android-observability-spain-remote",
@@ -2609,7 +2867,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:19+00:00",
-    "fetched_at": "2026-03-13T06:35:12.372Z",
+    "fetched_at": "2026-03-13T12:27:17.788Z",
     "raw": {
       "id": 140026,
       "url": "https://jobicy.com/jobs/140026-staff-mobile-engineer-instrumentation-sdk-ios-android-observability-sweden-remote",
@@ -2663,7 +2921,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:17+00:00",
-    "fetched_at": "2026-03-13T06:35:12.374Z",
+    "fetched_at": "2026-03-13T12:27:17.789Z",
     "raw": {
       "id": 140025,
       "url": "https://jobicy.com/jobs/140025-staff-mobile-engineer-instrumentation-sdk-ios-android-observability-united-kingdom-remote",
@@ -2714,7 +2972,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:42:03+00:00",
-    "fetched_at": "2026-03-13T06:35:12.375Z",
+    "fetched_at": "2026-03-13T12:27:17.790Z",
     "raw": {
       "id": 140016,
       "url": "https://jobicy.com/jobs/140016-full-stack-engineer-2",
@@ -2761,7 +3019,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-02T07:41:57+00:00",
-    "fetched_at": "2026-03-13T06:35:12.375Z",
+    "fetched_at": "2026-03-13T12:27:17.791Z",
     "raw": {
       "id": 140013,
       "url": "https://jobicy.com/jobs/140013-senior-software-developer-ai-networking",
@@ -2811,7 +3069,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:35:16+00:00",
-    "fetched_at": "2026-03-13T06:35:12.377Z",
+    "fetched_at": "2026-03-13T12:27:17.792Z",
     "raw": {
       "id": 139948,
       "url": "https://jobicy.com/jobs/139948-forward-deployed-engineer-2",
@@ -2857,7 +3115,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:35:12+00:00",
-    "fetched_at": "2026-03-13T06:35:12.377Z",
+    "fetched_at": "2026-03-13T12:27:17.793Z",
     "raw": {
       "id": 139945,
       "url": "https://jobicy.com/jobs/139945-llm-engineer-bei-der-just-add-ai-all-genders",
@@ -2911,7 +3169,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-27T03:35:02+00:00",
-    "fetched_at": "2026-03-13T06:35:12.378Z",
+    "fetched_at": "2026-03-13T12:27:17.793Z",
     "raw": {
       "id": 139940,
       "url": "https://jobicy.com/jobs/139940-senior-backend-developer",
@@ -2954,7 +3212,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:34:54+00:00",
-    "fetched_at": "2026-03-13T06:35:12.379Z",
+    "fetched_at": "2026-03-13T12:27:17.794Z",
     "raw": {
       "id": 139935,
       "url": "https://jobicy.com/jobs/139935-senior-software-engineer-full-remote-or-hybrid",
@@ -3002,7 +3260,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:34:51+00:00",
-    "fetched_at": "2026-03-13T06:35:12.380Z",
+    "fetched_at": "2026-03-13T12:27:17.796Z",
     "raw": {
       "id": 139934,
       "url": "https://jobicy.com/jobs/139934-senior-security-engineer-100-remote-friendly-within-poland",
@@ -3050,7 +3308,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:34:49+00:00",
-    "fetched_at": "2026-03-13T06:35:12.381Z",
+    "fetched_at": "2026-03-13T12:27:17.797Z",
     "raw": {
       "id": 139933,
       "url": "https://jobicy.com/jobs/139933-senior-security-engineer-100-remote-friendly-within-spain",
@@ -3093,7 +3351,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:51+00:00",
-    "fetched_at": "2026-03-13T06:35:12.383Z",
+    "fetched_at": "2026-03-13T12:27:17.798Z",
     "raw": {
       "id": 139924,
       "url": "https://jobicy.com/jobs/139924-senior-electrical-engineer-data-centers-remote-u-s",
@@ -3138,7 +3396,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-27T03:33:42+00:00",
-    "fetched_at": "2026-03-13T06:35:12.384Z",
+    "fetched_at": "2026-03-13T12:27:17.800Z",
     "raw": {
       "id": 139918,
       "url": "https://jobicy.com/jobs/139918-developer",
@@ -3187,7 +3445,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-27T03:33:40+00:00",
-    "fetched_at": "2026-03-13T06:35:12.386Z",
+    "fetched_at": "2026-03-13T12:27:17.801Z",
     "raw": {
       "id": 139917,
       "url": "https://jobicy.com/jobs/139917-senior-developer",
@@ -3239,7 +3497,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:39+00:00",
-    "fetched_at": "2026-03-13T06:35:12.388Z",
+    "fetched_at": "2026-03-13T12:27:17.803Z",
     "raw": {
       "id": 139916,
       "url": "https://jobicy.com/jobs/139916-technical-solutions-architect-ii-application-modernization-and-software-strategy-aws-focused",
@@ -3286,7 +3544,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:24+00:00",
-    "fetched_at": "2026-03-13T06:35:12.389Z",
+    "fetched_at": "2026-03-13T12:27:17.804Z",
     "raw": {
       "id": 139907,
       "url": "https://jobicy.com/jobs/139907-electrical-engineering-lead-data-centers-remote-u-s",
@@ -3329,7 +3587,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:22+00:00",
-    "fetched_at": "2026-03-13T06:35:12.390Z",
+    "fetched_at": "2026-03-13T12:27:17.806Z",
     "raw": {
       "id": 139906,
       "url": "https://jobicy.com/jobs/139906-electrical-engineer-technical-lead-data-centers-remote-u-s",
@@ -3372,7 +3630,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-27T03:33:21+00:00",
-    "fetched_at": "2026-03-13T06:35:12.392Z",
+    "fetched_at": "2026-03-13T12:27:17.807Z",
     "raw": {
       "id": 139905,
       "url": "https://jobicy.com/jobs/139905-mechanical-engineering-lead-data-centers-remote-u-s",
@@ -3417,7 +3675,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:05:00+00:00",
-    "fetched_at": "2026-03-13T06:35:12.392Z",
+    "fetched_at": "2026-03-13T12:27:17.807Z",
     "raw": {
       "id": 139876,
       "url": "https://jobicy.com/jobs/139876-senior-application-engineer",
@@ -3465,7 +3723,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:04:34+00:00",
-    "fetched_at": "2026-03-13T06:35:12.393Z",
+    "fetched_at": "2026-03-13T12:27:17.808Z",
     "raw": {
       "id": 139859,
       "url": "https://jobicy.com/jobs/139859-senior-embedded-software-engineer-remote-from-bulgaria-north-macedonia-or-poland",
@@ -3517,7 +3775,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:04:23+00:00",
-    "fetched_at": "2026-03-13T06:35:12.393Z",
+    "fetched_at": "2026-03-13T12:27:17.809Z",
     "raw": {
       "id": 139853,
       "url": "https://jobicy.com/jobs/139853-senior-software-engineer-ii-data-solutions-measurement",
@@ -3566,7 +3824,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:04:21+00:00",
-    "fetched_at": "2026-03-13T06:35:12.394Z",
+    "fetched_at": "2026-03-13T12:27:17.809Z",
     "raw": {
       "id": 139852,
       "url": "https://jobicy.com/jobs/139852-senior-software-engineer-fraud-quality-expert",
@@ -3609,7 +3867,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:03:31+00:00",
-    "fetched_at": "2026-03-13T06:35:12.396Z",
+    "fetched_at": "2026-03-13T12:27:17.811Z",
     "raw": {
       "id": 139849,
       "url": "https://jobicy.com/jobs/139849-electrical-engineering-lead-data-center",
@@ -3661,7 +3919,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-25T04:02:13+00:00",
-    "fetched_at": "2026-03-13T06:35:12.396Z",
+    "fetched_at": "2026-03-13T12:27:17.811Z",
     "raw": {
       "id": 139835,
       "url": "https://jobicy.com/jobs/139835-software-architect",
@@ -3707,7 +3965,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-25T04:02:10+00:00",
-    "fetched_at": "2026-03-13T06:35:12.397Z",
+    "fetched_at": "2026-03-13T12:27:17.812Z",
     "raw": {
       "id": 139833,
       "url": "https://jobicy.com/jobs/139833-senior-servicenow-developer-2",
@@ -3757,7 +4015,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:17:26+00:00",
-    "fetched_at": "2026-03-13T06:35:12.398Z",
+    "fetched_at": "2026-03-13T12:27:17.813Z",
     "raw": {
       "id": 139808,
       "url": "https://jobicy.com/jobs/139808-senior-software-engineer-7",
@@ -3804,7 +4062,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:17:19+00:00",
-    "fetched_at": "2026-03-13T06:35:12.398Z",
+    "fetched_at": "2026-03-13T12:27:17.813Z",
     "raw": {
       "id": 139805,
       "url": "https://jobicy.com/jobs/139805-freelance-automotive-engineering-python-expert-ai-trainer",
@@ -3854,7 +4112,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:17:17+00:00",
-    "fetched_at": "2026-03-13T06:35:12.399Z",
+    "fetched_at": "2026-03-13T12:27:17.813Z",
     "raw": {
       "id": 139804,
       "url": "https://jobicy.com/jobs/139804-electrical-engineer-with-python-freelance-ai-trainer",
@@ -3910,7 +4168,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:16:33+00:00",
-    "fetched_at": "2026-03-13T06:35:12.399Z",
+    "fetched_at": "2026-03-13T12:27:17.814Z",
     "raw": {
       "id": 139787,
       "url": "https://jobicy.com/jobs/139787-senior-fullstack-software-engineer-ruby-typescript-m-f-d",
@@ -3962,7 +4220,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:16:31+00:00",
-    "fetched_at": "2026-03-13T06:35:12.401Z",
+    "fetched_at": "2026-03-13T12:27:17.815Z",
     "raw": {
       "id": 139786,
       "url": "https://jobicy.com/jobs/139786-backend-engineer-ai-integration",
@@ -4008,7 +4266,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:16:25+00:00",
-    "fetched_at": "2026-03-13T06:35:12.401Z",
+    "fetched_at": "2026-03-13T12:27:17.816Z",
     "raw": {
       "id": 139784,
       "url": "https://jobicy.com/jobs/139784-enterprise-architect-2",
@@ -4056,7 +4314,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-23T15:16:23+00:00",
-    "fetched_at": "2026-03-13T06:35:12.402Z",
+    "fetched_at": "2026-03-13T12:27:17.817Z",
     "raw": {
       "id": 139783,
       "url": "https://jobicy.com/jobs/139783-senior-software-engineer-lead",
@@ -4114,7 +4372,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-21T05:14:41+00:00",
-    "fetched_at": "2026-03-13T06:35:12.403Z",
+    "fetched_at": "2026-03-13T12:27:17.818Z",
     "raw": {
       "id": 139746,
       "url": "https://jobicy.com/jobs/139746-quality-automation-engineer-it-applications",
@@ -4162,7 +4420,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-21T05:14:39+00:00",
-    "fetched_at": "2026-03-13T06:35:12.404Z",
+    "fetched_at": "2026-03-13T12:27:17.819Z",
     "raw": {
       "id": 139745,
       "url": "https://jobicy.com/jobs/139745-senior-c-developer",
@@ -4209,7 +4467,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-18T03:45:54+00:00",
-    "fetched_at": "2026-03-13T06:35:12.405Z",
+    "fetched_at": "2026-03-13T12:27:17.820Z",
     "raw": {
       "id": 139653,
       "url": "https://jobicy.com/jobs/139653-parent-poland-gen-swe-intern-summer-2026-2",
@@ -4261,7 +4519,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-18T03:45:40+00:00",
-    "fetched_at": "2026-03-13T06:35:12.406Z",
+    "fetched_at": "2026-03-13T12:27:17.820Z",
     "raw": {
       "id": 139646,
       "url": "https://jobicy.com/jobs/139646-middle-middle-strong-node-js-developer",
@@ -4313,7 +4571,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:44:06+00:00",
-    "fetched_at": "2026-03-13T06:35:12.408Z",
+    "fetched_at": "2026-03-13T12:27:17.822Z",
     "raw": {
       "id": 139614,
       "url": "https://jobicy.com/jobs/139614-senior-staff-engineer-ai-customer-operations",
@@ -4368,7 +4626,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:43:48+00:00",
-    "fetched_at": "2026-03-13T06:35:12.409Z",
+    "fetched_at": "2026-03-13T12:27:17.823Z",
     "raw": {
       "id": 139603,
       "url": "https://jobicy.com/jobs/139603-mlops-engineer-portfolio-optimisation-and-customer-analytics-platform-banking",
@@ -4411,7 +4669,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:41:25+00:00",
-    "fetched_at": "2026-03-13T06:35:12.409Z",
+    "fetched_at": "2026-03-13T12:27:17.823Z",
     "raw": {
       "id": 139597,
       "url": "https://jobicy.com/jobs/139597-field-service-engineer-generator-controls-lead",
@@ -4454,7 +4712,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:40:24+00:00",
-    "fetched_at": "2026-03-13T06:35:12.410Z",
+    "fetched_at": "2026-03-13T12:27:17.824Z",
     "raw": {
       "id": 139588,
       "url": "https://jobicy.com/jobs/139588-apm-strategy-reliability-sme-digital-implementation-services",
@@ -4507,7 +4765,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-16T16:40:18+00:00",
-    "fetched_at": "2026-03-13T06:35:12.411Z",
+    "fetched_at": "2026-03-13T12:27:17.825Z",
     "raw": {
       "id": 139585,
       "url": "https://jobicy.com/jobs/139585-senior-fullstack-developer-m-f-d-patient-portal",
@@ -4559,7 +4817,7 @@
       "Programming"
     ],
     "posted_at": "2026-02-16T16:40:14+00:00",
-    "fetched_at": "2026-03-13T06:35:12.412Z",
+    "fetched_at": "2026-03-13T12:27:17.826Z",
     "raw": {
       "id": 139583,
       "url": "https://jobicy.com/jobs/139583-senior-python-engineer-ai-testing-project-freelance-mindrift",
@@ -4622,7 +4880,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:39:55+00:00",
-    "fetched_at": "2026-03-13T06:35:12.412Z",
+    "fetched_at": "2026-03-13T12:27:17.826Z",
     "raw": {
       "id": 139574,
       "url": "https://jobicy.com/jobs/139574-senior-ai-engineer",
@@ -4669,7 +4927,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-16T16:38:51+00:00",
-    "fetched_at": "2026-03-13T06:35:12.413Z",
+    "fetched_at": "2026-03-13T12:27:17.827Z",
     "raw": {
       "id": 139565,
       "url": "https://jobicy.com/jobs/139565-freelance-energy-systems-engineer-ai-trainer",
@@ -4715,7 +4973,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-02-15T07:06:23+00:00",
-    "fetched_at": "2026-03-13T06:35:12.414Z",
+    "fetched_at": "2026-03-13T12:27:17.828Z",
     "raw": {
       "id": 139548,
       "url": "https://jobicy.com/jobs/139548-lead-solution-architect-networking",
@@ -4738,250 +4996,6 @@
       "salaryMax": 175000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:139540",
-    "platform": "jobicy",
-    "external_id": "139540",
-    "title": "ServiceNow Developer",
-    "company": "ECS",
-    "description": "ECS is seeking a ServiceNow Developer to work remotely . We are currently seeking a ServiceNow Developer with varying skill levels that will consult and support end to end ServiceNow implementations and delivery goals. This position will leverage knowledge and experience to deliver end-to-end automated solutions which includes technical implementation of IT Infrastructure Library (ITIL) processes, workflow customization, ticketing, process automation, report development, dashboard creation, and system configurations. Salary Range: $100,000 &#8211; $130,000 General Description of Benefits Qualifications Must be a US Citizen per contract and possess a current Public Trust or DoD Secret level clearance or higher. Bachelor&#8217;s Degree in CIS, Computer Science or equivalent Must be able to solution and develop complex CUSTOM APPLICATIONS in the ServiceNow platform. 5+ years; ServiceNow development experience in ITSM, ITOM, SAM, ITBM and/or equivalent. ServiceNow Fundamentals (CSA) and ServiceNow Implementation certifications. Functional and technical knowledge of the ServiceNow configuration and implementation. Consultant in 3 or more ServiceNow implementation projects Knowledge of JavaScript within ServiceNow. Implementation experience working directly with customers and clients. Knowledge of LDAP, AD, SSO, Email Infrastructure, Web Services.",
-    "url": "https://jobicy.com/jobs/139540-servicenow-developer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "sso"
-    ],
-    "tags": [
-      "Programming"
-    ],
-    "posted_at": "2026-02-15T07:06:10+00:00",
-    "fetched_at": "2026-03-13T06:35:12.415Z",
-    "raw": {
-      "id": 139540,
-      "url": "https://jobicy.com/jobs/139540-servicenow-developer",
-      "jobSlug": "139540-servicenow-developer",
-      "jobTitle": "ServiceNow Developer",
-      "companyName": "ECS",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e346542a-221.png",
-      "jobIndustry": [
-        "Programming"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "ECS is seeking a ServiceNow Developer to work remotely. We are currently seeking a ServiceNow Developer with varying skill levels that will consult and support end to end ServiceNow implementations and delivery goals....",
-      "jobDescription": "<p>ECS is seeking a <strong><em>ServiceNow Developer </em></strong>to work <em><strong>remotely</strong></em>. </p><p>We are currently seeking a ServiceNow Developer with varying skill levels that will consult and support end to end ServiceNow implementations and delivery goals. This position will leverage knowledge and experience to deliver end-to-end automated solutions which includes technical implementation of IT Infrastructure Library (ITIL) processes, workflow customization, ticketing, process automation, report development, dashboard creation, and system configurations.</p><p><em>Salary Range: $100,000 &#8211; $130,000</em></p><p><em><a href=\"https://ecstech.com/careers/benefits\" rel=\"nofollow ugc noopener\" target=\"_blank\">General Description of Benefits</a></em></p><strong>Qualifications</strong><ul>\n<li><em><strong>Must be a US Citizen per contract and possess a current Public Trust or DoD Secret level clearance or higher.</strong></em></li>\n<li><em><strong>Bachelor&#8217;s Degree in CIS, Computer Science or equivalent</strong></em></li>\n<li>Must be able to solution and develop complex <em><strong>CUSTOM APPLICATIONS</strong></em> in the ServiceNow platform. </li>\n<li>5+ years; ServiceNow development experience in ITSM, ITOM, SAM, ITBM and/or equivalent.</li>\n<li>ServiceNow Fundamentals (CSA) and ServiceNow Implementation certifications.</li>\n<li>Functional and technical knowledge of the ServiceNow configuration and implementation.</li>\n<li>Consultant in 3 or more ServiceNow implementation projects</li>\n<li>Knowledge of JavaScript within ServiceNow.</li>\n<li>Implementation experience working directly with customers and clients.</li>\n<li>Knowledge of LDAP, AD, SSO, Email Infrastructure, Web Services.</li>\n</ul>",
-      "pubDate": "2026-02-15T07:06:10+00:00",
-      "salaryMin": 100000,
-      "salaryMax": 130000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:139530",
-    "platform": "jobicy",
-    "external_id": "139530",
-    "title": "Software Engineer Lead &amp;#8211; Automation Anywhere/Python/JAVA",
-    "company": "PNC",
-    "description": "Position Overview At PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As a Software Engineer within PNC’s Technology organization, you will be based in Pittsburgh, PA or Cleveland, OH. Must have: &#8211; Coded in A360; Power Automate &#8211; Python &#8211; JAVA &#8211; Experience monitoring applications Preferred skills: &#8211; Indico AI; Agentic AI; GenAI &#8211; experience building complex AI bots &#8211; Hadoop PNC is an in-office company that fosters a supportive culture where employees can thrive and achieve balance. We encourage candidates to connect with their recruiter and hiring manager to understand workplace expectations and ensure the role aligns with their goals. PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position. Job Description Creates and leads the technical design and development of software solutions. Proposes &amp; designs software solutions to address complex business needs. Prepares technical and procedural documentation required. Facilitates complex problem resolution. Provides technical guidance and support to colleagues. Reviews coding, testing, and documentation of software. Applies modern principles, methodologies and tools to advance business initiatives and capabilities. PNC Employees take pride in our reputation and to continue building upon that we expect our employees to be: Customer Focused &#8211; Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions. Managing Risk &#8211; Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC&#8217;s Enterprise Risk Management Framework. Qualifications Successful candidates must demonstrate appropriate knowledge, skills, and abilities for a role. Listed below are skills, competencies, work experience, education, and required certifications/licensures needed to be successful in this position. Preferred Skills Application Development, Automation Anywhere (RPA Software), Automation Anywhere (Software), Business Management, Customer Solutions, Design, Group Problem Solving, Process Improvements, Release Management, Software Solutions, User Experience (UX) Design Competencies Application Delivery Process, Application Design, Architecture, Application Development Tools, Application Testing, Packaged Application Integration, System Development Life Cycle, Technical Troubleshooting Work Experience Roles at this level typically require a university / college degree, with 3+ years of relevant / direct industry experience. Certifications are often desired. In lieu of a degree, a comparable combination of education, job specific certification(s), and experience (including military service) may be considered. Education Bachelors Certifications No Required Certification(s) Licenses No Required License(s) Pay Transparency Base Salary: $55,000.00 – $138,000.00 Salaries may vary based on geographic location, market data and on individual skills, experience, and education. This role is incentive eligible with the payment based upon company, business and/or individual performance. Application Window Generally, this opening is expected to be posted for two business days from 10/29/2025, although it may be longer with business discretion. Benefits PNC offers a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include: medical/prescription drug coverage (with a Health Savings Account feature), dental and vision options; employee and spouse/child life insurance; short and long-term disability protection; 401(k) with PNC match, pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption, surrogacy, and doula reimbursement; educational assistance, including select programs fully paid; a robust wellness program with financial incentives. In addition, PNC generally provides the following paid time off, depending on your eligibility: maternity and/or parental leave; up to 11 paid holidays each year; 9 occasional absence days each year, unless otherwise required by law; between 15 to 25 vacation days each year, depending on career level; and years of service. To learn more about these and other programs, including benefits for full time and part-time employees, visit pncthrive.com . Disability Accommodations Statement If an accommodation is required to participate in the application process, please contact us via email at AccommodationRequest@pnc.com . Please include “accommodation request” in the subject line title and be sure to include your name, the job ID, and your preferred method of contact in the body of the email. Emails not related to accommodation requests will not receive responses. Applicants may also call 877-968-7762 and say &#8220;Workday&#8221; for accommodation assistance. All information provided will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. At PNC we foster an inclusive and accessible workplace. We provide reasonable accommodations to employment applicants and qualified individuals with a disability who need an accommodation to perform the essential functions of their positions. Equal Employment Opportunity (EEO) PNC provides equal employment opportunity to qualified persons regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or other categories protected by law. This position is subject to the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA) and, for any registered role, the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (SAFE Act) and/or the Financial Industry Regulatory Authority (FINRA), which prohibit the hiring of individuals with certain criminal history. California Residents Refer to the California Consumer Privacy Act Privacy Notice to gain understanding of how PNC may use or disclose your personal information in our hiring practices.",
-    "url": "https://jobicy.com/jobs/139530-software-engineer-lead-automation-anywhere-python-java",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "java"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-02-15T07:00:15+00:00",
-    "fetched_at": "2026-03-13T06:35:12.416Z",
-    "raw": {
-      "id": 139530,
-      "url": "https://jobicy.com/jobs/139530-software-engineer-lead-automation-anywhere-python-java",
-      "jobSlug": "139530-software-engineer-lead-automation-anywhere-python-java",
-      "jobTitle": "Software Engineer Lead &amp;#8211; Automation Anywhere/Python/JAVA",
-      "companyName": "PNC",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/12/75d3d3f2357a3484561324827c7dcdde.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Position OverviewAt PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We...",
-      "jobDescription": "<h2><b>Position Overview</b></h2><p>At PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As a Software Engineer within PNC’s Technology organization, you will be based in Pittsburgh, PA or Cleveland, OH. <br />Must have:<br> &#8211; Coded in A360; Power Automate<br>&#8211; Python<br>&#8211; JAVA<br>&#8211; Experience monitoring applications<br />Preferred skills:<br> &#8211; Indico AI; Agentic AI; GenAI<br>&#8211; experience building complex AI bots<br>&#8211; Hadoop</p><p>PNC is an in-office company that fosters a supportive culture where employees can thrive and achieve balance. We encourage candidates to connect with their recruiter and hiring manager to understand workplace expectations and ensure the role aligns with their goals.</p><p>PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.</p><h2><b>Job Description</b></h2><ul><li>Creates and leads the technical design and development of software solutions.</li><li>Proposes &amp; designs software solutions to address complex business needs. Prepares technical and procedural documentation required.</li><li>Facilitates complex problem resolution.</li><li>Provides technical guidance and support to colleagues. Reviews coding, testing, and documentation of software.</li><li>Applies modern principles, methodologies and tools to advance business initiatives and capabilities.</li></ul><p>PNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:</p><ul><li><b>Customer Focused</b> &#8211; Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions.</li><li><b>Managing Risk</b> &#8211; Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC&#8217;s Enterprise Risk Management Framework.</li></ul><h2><b>Qualifications</b></h2><p>Successful candidates must demonstrate appropriate knowledge, skills, and abilities for a role. Listed below are skills, competencies, work experience, education, and required certifications/licensures needed to be successful in this position.</p><h2><b>Preferred Skills</b></h2><p>Application Development, Automation Anywhere (RPA Software), Automation Anywhere (Software), Business Management, Customer Solutions, Design, Group Problem Solving, Process Improvements, Release Management, Software Solutions, User Experience (UX) Design</p><h2><b>Competencies</b></h2><p>Application Delivery Process, Application Design, Architecture, Application Development Tools, Application Testing, Packaged Application Integration, System Development Life Cycle, Technical Troubleshooting</p><h2><b>Work Experience</b></h2><p>Roles at this level typically require a university / college degree, with 3+ years of relevant / direct industry experience. Certifications are often desired. In lieu of a degree, a comparable combination of education, job specific certification(s), and experience (including military service) may be considered.</p><h2><b>Education</b></h2><p>Bachelors</p><h2><b>Certifications</b></h2><p>No Required Certification(s)</p><h2><b>Licenses</b></h2><p>No Required License(s)</p><h2><b>Pay Transparency</b></h2><p>Base Salary: $55,000.00 – $138,000.00</p><p>Salaries may vary based on geographic location, market data and on individual skills, experience, and education. This role is incentive eligible with the payment based upon company, business and/or individual performance.</p><h2><b>Application Window</b></h2><p>Generally, this opening is expected to be posted for two business days from 10/29/2025, although it may be longer with business discretion.</p><h2><b>Benefits</b></h2><p>PNC offers a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include: medical/prescription drug coverage (with a Health Savings Account feature), dental and vision options; employee and spouse/child life insurance; short and long-term disability protection; 401(k) with PNC match, pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption, surrogacy, and doula reimbursement; educational assistance, including select programs fully paid; a robust wellness program with financial incentives.</p><p>In addition, PNC generally provides the following paid time off, depending on your eligibility: maternity and/or parental leave; up to 11 paid holidays each year; 9 occasional absence days each year, unless otherwise required by law; between 15 to 25 vacation days each year, depending on career level; and years of service.</p><p>To learn more about these and other programs, including benefits for full time and part-time employees, visit <a href=\"http://pncthrive.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>pncthrive.com</u></a>.</p><h2><b>Disability Accommodations Statement</b></h2><p>If an accommodation is required to participate in the application process, please contact us via email at <a href=\"mailto:AccommodationRequest@pnc.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">AccommodationRequest@pnc.com</a>. Please include “accommodation request” in the subject line title and be sure to include your name, the job ID, and your preferred method of contact in the body of the email. Emails not related to accommodation requests will not receive responses. Applicants may also call 877-968-7762 and say &#8220;Workday&#8221; for accommodation assistance. All information provided will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. </p><p>At PNC we foster an inclusive and accessible workplace. We provide reasonable accommodations to employment applicants and qualified individuals with a disability who need an accommodation to perform the essential functions of their positions.</p><h2><b>Equal Employment Opportunity (EEO)</b></h2><p>PNC provides equal employment opportunity to qualified persons regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or other categories protected by law.</p><p>This position is subject to the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA) and, for any registered role, the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (SAFE Act) and/or the Financial Industry Regulatory Authority (FINRA), which prohibit the hiring of individuals with certain criminal history.</p><h2><b>California Residents </b></h2><p>Refer to the <a href=\"https://content.pncmc.com/live/pnc/aboutus/HR/Onboarding/PNC_CCPA_Privacy_Disclosure_Employee.pdf\" rel=\"nofollow ugc noopener\" target=\"_blank\">California Consumer Privacy Act Privacy Notice</a> to gain understanding of how PNC may use or disclose your personal information in our hiring practices.</p>",
-      "pubDate": "2026-02-15T07:00:15+00:00",
-      "salaryMin": 55000,
-      "salaryMax": 138000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:139511",
-    "platform": "jobicy",
-    "external_id": "139511",
-    "title": "Software Engineer, Product",
-    "company": "Meta",
-    "description": "Meta is seeking talented engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we&#8217;re looking for passionate individuals who can help us advance the way people connect globally. If you&#8217;re interested in joining a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.ResponsibilitiesCollaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiences* Implement custom user interfaces using latest programming techniques and technologies* Analyze and optimize code for quality, efficiency, and performance, and provide feedback to peers during code reviews* Set direction and goals for teams, lead major initiatives, provide technical guidance and mentorship to peers, and help onboard new team members* Architect efficient and scalable systems that drive complex applications* Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debt* Work on a variety of coding languages and technologies* Establish ownership of components, features, or systems with expert end-to-end understandingQualificationsProgramming experience in a relevant language* Bachelor&#8217;s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience* Demonstrated experience driving change within an organization and leading complex technical projects* Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions Experience in programming languages such as C, C++, Java, Swift, or Kotlin, and scripting languages such as Python, Javascript, or Hack* Experience building large-scale applications or similar experience* Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes",
-    "url": "https://jobicy.com/jobs/139511-software-engineer-product",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "UK",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "python",
-      "java",
-      "swift",
-      "kotlin"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-02-15T06:57:56+00:00",
-    "fetched_at": "2026-03-13T06:35:12.417Z",
-    "raw": {
-      "id": 139511,
-      "url": "https://jobicy.com/jobs/139511-software-engineer-product",
-      "jobSlug": "139511-software-engineer-product",
-      "jobTitle": "Software Engineer, Product",
-      "companyName": "Meta",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/750f86a9-221.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "UK",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Meta is seeking talented engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will have...",
-      "jobDescription": "<p>Meta is seeking talented engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we&#8217;re looking for passionate individuals who can help us advance the way people connect globally. If you&#8217;re interested in joining a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.ResponsibilitiesCollaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiences* Implement custom user interfaces using latest programming techniques and technologies* Analyze and optimize code for quality, efficiency, and performance, and provide feedback to peers during code reviews* Set direction and goals for teams, lead major initiatives, provide technical guidance and mentorship to peers, and help onboard new team members* Architect efficient and scalable systems that drive complex applications* Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debt* Work on a variety of coding languages and technologies* Establish ownership of components, features, or systems with expert end-to-end understandingQualificationsProgramming experience in a relevant language* Bachelor&#8217;s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience* Demonstrated experience driving change within an organization and leading complex technical projects* Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions Experience in programming languages such as C, C++, Java, Swift, or Kotlin, and scripting languages such as Python, Javascript, or Hack* Experience building large-scale applications or similar experience* Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes</p>",
-      "pubDate": "2026-02-15T06:57:56+00:00"
-    }
-  },
-  {
-    "id": "jobicy:139510",
-    "platform": "jobicy",
-    "external_id": "139510",
-    "title": "Software Engineer (Leadership) &amp;#8211; Product",
-    "company": "Meta",
-    "description": "Meta is seeking talented principal engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will manage complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we&#8217;re looking for passionate individuals who can help us advance the way people connect globally. If you&#8217;re interested in leading a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.ResponsibilitiesDrive the team&#8217;s goals and technical direction to pursue opportunities that make your larger organization more efficient* Effectively communicate complex features and systems in detail* Understand industry &amp; company-wide trends to help assess &amp; develop new technologies* Partner &amp; collaborate with organization leaders to help improve the level of performance of the team &amp; organization* Identify new opportunities for the larger organization &amp; influence the appropriate people for staffing/prioritizing these new ideas* Lead long term technical strategy and roadmap for large cross-company efforts* Suggest, collect and synthesize requirements and create an effective feature roadmap* Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debtQualificationsProgramming experience in a relevant language* Bachelor&#8217;s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience* Proven track record of planning multi-year roadmap in which short-term projects ladder to the long-term mission* Experience driving large cross-functional/industry-wide engineering efforts* Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions* Experience communicating and working across functions to drive solutions* Experience mentoring/influencing experienced engineers across organizations Experience in programming languages such as C, C++, Java, Swift, or Kotlin, and scripting languages such as Python, Javascript, or Hack* Experience building large-scale applications or similar experience* Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes",
-    "url": "https://jobicy.com/jobs/139510-software-engineer-leadership-product",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "UK",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "python",
-      "java",
-      "swift",
-      "kotlin"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-02-15T06:57:55+00:00",
-    "fetched_at": "2026-03-13T06:35:12.417Z",
-    "raw": {
-      "id": 139510,
-      "url": "https://jobicy.com/jobs/139510-software-engineer-leadership-product",
-      "jobSlug": "139510-software-engineer-leadership-product",
-      "jobTitle": "Software Engineer (Leadership) &amp;#8211; Product",
-      "companyName": "Meta",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/750f86a9-221.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "UK",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Meta is seeking talented principal engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will...",
-      "jobDescription": "<p>Meta is seeking talented principal engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will manage complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we&#8217;re looking for passionate individuals who can help us advance the way people connect globally. If you&#8217;re interested in leading a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.ResponsibilitiesDrive the team&#8217;s goals and technical direction to pursue opportunities that make your larger organization more efficient* Effectively communicate complex features and systems in detail* Understand industry &amp; company-wide trends to help assess &amp; develop new technologies* Partner &amp; collaborate with organization leaders to help improve the level of performance of the team &amp; organization* Identify new opportunities for the larger organization &amp; influence the appropriate people for staffing/prioritizing these new ideas* Lead long term technical strategy and roadmap for large cross-company efforts* Suggest, collect and synthesize requirements and create an effective feature roadmap* Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debtQualificationsProgramming experience in a relevant language* Bachelor&#8217;s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience* Proven track record of planning multi-year roadmap in which short-term projects ladder to the long-term mission* Experience driving large cross-functional/industry-wide engineering efforts* Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions* Experience communicating and working across functions to drive solutions* Experience mentoring/influencing experienced engineers across organizations Experience in programming languages such as C, C++, Java, Swift, or Kotlin, and scripting languages such as Python, Javascript, or Hack* Experience building large-scale applications or similar experience* Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes</p>",
-      "pubDate": "2026-02-15T06:57:55+00:00"
-    }
-  },
-  {
-    "id": "jobicy:139508",
-    "platform": "jobicy",
-    "external_id": "139508",
-    "title": "Software Engineer (Leadership) &amp;#8211; Machine Learning",
-    "company": "Meta",
-    "description": "Meta is seeking talented principal engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will manage complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we&#8217;re looking for passionate individuals who can help us advance the way people connect globally. If you&#8217;re interested in leading a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.ResponsibilitiesDrive the team&#8217;s goals and technical direction to pursue opportunities that make your larger organization more efficient* Effectively communicate complex features and systems in detail* Understand industry &amp; company-wide trends to help assess &amp; develop new technologies* Partner &amp; collaborate with organization leaders to help improve the level of performance of the team &amp; organization* Identify new opportunities for the larger organization &amp; influence the appropriate people for staffing/prioritizing these new ideas* Lead long term technical strategy and roadmap for large cross-company efforts* Suggest, collect and synthesize requirements and create an effective feature roadmap* Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debtQualificationsProgramming experience in a relevant language* Bachelor&#8217;s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience* Proven track record of planning multi-year roadmap in which short-term projects ladder to the long-term mission* Experience driving large cross-functional/industry-wide engineering efforts* Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions* Experience communicating and working across functions to drive solutions* Experience mentoring/influencing experienced engineers across organizations B.S. Computer Science or related technical field* Experience with Hadoop/HBase/Pig or MapReduce/Sawzall/Bigtable/Hive/Spark* Experience in shipping products to millions of customers or have started a new line of product",
-    "url": "https://jobicy.com/jobs/139508-software-engineer-leadership-machine-learning-2",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Switzerland,  UK",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "machine-learning",
-      "spark"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-02-15T06:57:51+00:00",
-    "fetched_at": "2026-03-13T06:35:12.418Z",
-    "raw": {
-      "id": 139508,
-      "url": "https://jobicy.com/jobs/139508-software-engineer-leadership-machine-learning-2",
-      "jobSlug": "139508-software-engineer-leadership-machine-learning-2",
-      "jobTitle": "Software Engineer (Leadership) &amp;#8211; Machine Learning",
-      "companyName": "Meta",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/750f86a9-221.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Switzerland,  UK",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Meta is seeking talented principal engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will...",
-      "jobDescription": "<p>Meta is seeking talented principal engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will manage complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we&#8217;re looking for passionate individuals who can help us advance the way people connect globally. If you&#8217;re interested in leading a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.ResponsibilitiesDrive the team&#8217;s goals and technical direction to pursue opportunities that make your larger organization more efficient* Effectively communicate complex features and systems in detail* Understand industry &amp; company-wide trends to help assess &amp; develop new technologies* Partner &amp; collaborate with organization leaders to help improve the level of performance of the team &amp; organization* Identify new opportunities for the larger organization &amp; influence the appropriate people for staffing/prioritizing these new ideas* Lead long term technical strategy and roadmap for large cross-company efforts* Suggest, collect and synthesize requirements and create an effective feature roadmap* Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debtQualificationsProgramming experience in a relevant language* Bachelor&#8217;s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience* Proven track record of planning multi-year roadmap in which short-term projects ladder to the long-term mission* Experience driving large cross-functional/industry-wide engineering efforts* Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions* Experience communicating and working across functions to drive solutions* Experience mentoring/influencing experienced engineers across organizations B.S. Computer Science or related technical field* Experience with Hadoop/HBase/Pig or MapReduce/Sawzall/Bigtable/Hive/Spark* Experience in shipping products to millions of customers or have started a new line of product</p>",
-      "pubDate": "2026-02-15T06:57:51+00:00"
     }
   }
 ]
