@@ -1,5 +1,5 @@
 {
-  "totalJobs": 842,
+  "totalJobs": 841,
   "bySource": {
     "arbeitnow": 91,
     "workingnomads": 16,
@@ -7,10 +7,11 @@
     "remoteok": 98,
     "remotive": 21,
     "wwr": 55,
-    "hn": 472,
-    "himalayas": 1
+    "hn": 472
   },
   "byTechStack": {
+    "machine-learning": 112,
+    "aws": 153,
     "railway": 1,
     "spark": 19,
     "javascript": 147,
@@ -20,7 +21,6 @@
     "java": 74,
     "spring": 24,
     "mysql": 33,
-    "aws": 152,
     "gcp": 61,
     "azure": 52,
     "gitlab": 24,
@@ -73,7 +73,6 @@
     "sso": 9,
     "vue": 37,
     "django": 28,
-    "machine-learning": 110,
     "rust": 26,
     "mlops": 14,
     "kotlin": 21,
@@ -176,32 +175,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "freelance": 16,
-    "full-time": 664,
+    "full-time": 661,
+    "freelance": 17,
     "contract": 16,
     "part-time": 1
   },
   "byRemoteType": {
-    "remote": 472,
+    "remote": 469,
     "onsite": 227,
     "hybrid": 1
   },
   "bySalaryRange": {
     "under50k": 122,
-    "50k-100k": 12,
+    "50k-100k": 11,
     "100k-150k": 18,
     "150k-200k": 8,
     "over200k": 1,
     "unknown": 681
   },
-  "lastUpdated": "2026-03-14T00:54:32.998Z",
+  "lastUpdated": "2026-03-14T06:30:29.917Z",
   "jobsLast7Days": [
     1,
     14,
     21,
     21,
     23,
-    99,
-    0
+    96,
+    4
   ]
 }
