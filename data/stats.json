@@ -1,19 +1,22 @@
 {
-  "totalJobs": 832,
+  "totalJobs": 834,
   "bySource": {
-    "arbeitnow": 89,
+    "arbeitnow": 90,
     "jobicy": 89,
     "remoteok": 95,
     "remotive": 22,
     "workingnomads": 15,
     "wwr": 50,
-    "hn": 472
+    "hn": 472,
+    "himalayas": 1
   },
   "byTechStack": {
+    "python": 179,
+    "java": 76,
+    "aws": 156,
+    "kubernetes": 102,
     "phoenix": 8,
     "typescript": 95,
-    "python": 179,
-    "aws": 155,
     "azure": 49,
     "llm": 39,
     "langchain": 8,
@@ -22,12 +25,10 @@
     "go": 23,
     "gcp": 61,
     "docker": 73,
-    "kubernetes": 101,
     "terraform": 56,
     "ansible": 34,
-    "linux": 47,
+    "linux": 46,
     "sso": 5,
-    "java": 75,
     "spring": 28,
     "helm": 7,
     "git": 30,
@@ -63,7 +64,7 @@
     "spark": 19,
     "dbt": 4,
     "stripe": 16,
-    "figma": 13,
+    "figma": 12,
     "rust": 26,
     "nginx": 6,
     "mongodb": 19,
@@ -86,8 +87,6 @@
     "bun": 2,
     "dart": 3,
     "ios": 48,
-    "pytorch": 8,
-    "numpy": 9,
     "netlify": 1,
     "web3": 8,
     "ethereum": 3,
@@ -118,6 +117,7 @@
     "jest": 4,
     "mocha": 4,
     "pandas": 9,
+    "numpy": 8,
     "fastapi": 8,
     "segment": 3,
     "swift": 15,
@@ -140,6 +140,7 @@
     "svelte": 2,
     "firestore": 1,
     "alpinejs": 1,
+    "pytorch": 7,
     "tensorflow": 7,
     "keras": 3,
     "scikit": 1,
@@ -174,13 +175,13 @@
     "sendgrid": 1
   },
   "byContractType": {
+    "full-time": 653,
     "freelance": 17,
-    "full-time": 651,
     "contract": 10,
     "part-time": 2
   },
   "byRemoteType": {
-    "remote": 466,
+    "remote": 468,
     "onsite": 227,
     "hybrid": 1
   },
@@ -190,16 +191,16 @@
     "100k-150k": 21,
     "150k-200k": 13,
     "over200k": 2,
-    "unknown": 672
+    "unknown": 674
   },
-  "lastUpdated": "2026-03-16T01:04:31.231Z",
+  "lastUpdated": "2026-03-16T07:01:30.192Z",
   "jobsLast7Days": [
     21,
     21,
     23,
-    48,
+    45,
     47,
     39,
-    2
+    6
   ]
 }
