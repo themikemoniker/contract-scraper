@@ -1,5 +1,352 @@
 [
   {
+    "id": "remoteok:1130798",
+    "platform": "remoteok",
+    "external_id": "1130798",
+    "title": "Senior Design Engineer",
+    "company": "Loancrate",
+    "description": "What is Loancrate? We started Loancrate to make home-buying simpler and less expensive for lenders and borrowers (us!). Today, mortgage lenders are stuck running their companies on software products built 20 years ago. These products are slow, unstable, and don't lead to material improvements in efficiency. When using these systems, the average human cost to originate a loan is still over $11,000. Loancrate builds AI-native tooling to automate mortgage workflows. Our ultimate goal is fully automated origination, which has the potential to save lenders over $16B in operating expense per year. Since starting in 2020, our remote team has enabled our customers to power &gt;$85 billion in new home loans. We are a group of people excited to tackle the complexity of the home-lending industry. We care about collaboration, very open communication covering the good &amp; the bad so that we learn from our decisions quickly, and ultimately having fun while we're building. You'll fit in well if you like diving deep quickly! The Opportunity Our dreams are big and we have much to build! We're looking for a Senior Design Engineer who is equal parts engineer and artist - someone who obsesses over the details that most people wouldn't notice, and loses sleep over a transition that's two milliseconds off. You'll be the person who makes Loancrate feel as good as it works - owning the quality of our UI from pixel to production in collaboration with Design and Product. Our product handles some of the most complex, high-stakes workflows in financial services, and great design is how we make that feel approachable and trustworthy for our customers. If you're the type who notices micro-interactions before anyone asks, who treats delight as a requirement rather than a nice-to-have, and who brings genuine craft to every component you ship - you'll fit right in here. If pixel-perfect isn't your thing, this probably isn't the right role. What To Expect As a Senior Design Engineer at Loancrate, you'll own design quality end-to-end - from early wireframes to shipped, production-quality UI. A quick note before diving in: we're building an AI-native product, and we rely on AI heavily in our own internal workflows too. If that excites you, you'll thrive here - if it gives you pause, this probably isn't the right fit. Within your first month, you'll be contributing to work such as... Designing and building core UI components for our AI-powered mortgage workflow tools, balancing information density with usability for power users. Establishing and maintaining a component library and design system that gives our engineering team a coherent visual language to build on. Partnering with product and engineering to translate complex workflow requirements into intuitive, elegant user experiences. Writing production-quality React components in TypeScript that bring your designs to life - you don't hand off, you ship. Defining design standards, patterns, and guidelines that scale as the team grows. Core Responsibilities Own the end-to-end design process for features - from discovery and wireframing through high-fidelity Figma design and final implementation in React/TypeScript. Build and maintain a design system and component library, using shadcn/ui variants and a dedicated component package with documented permutation coverage. Write accessible, production-quality React components, ensuring correct ARIA, keyboard, and focus management. Collaborate with PMs and engineers during discovery to ensure designs are user-centered and technically feasible. Define and enforce visual and interaction design standards; audit and drive consistency across the product. Maintain Figma libraries, component documentation, and design-to-code handoff tooling. Partner with engineering to ensure design system components are implemented correctly and consistently across the codebase. Design for accessibility (WCAG compliance) and advocate for inclusive design practices. Develop and document UX patterns for complex interaction paradigms (multi-step workflows, AI-generated content, data-dense tables). Contribute to product strategy discussions and motion/microinteraction guidelines. Audit existing UI for consistency and drive improvements. Scope design work and make pragmatic tradeoffs between design quality and delivery velocity. Help establish and document our design principles and visual identity. Mentor team members on design thinking, UI best practices, and frontend implementation. Tech Stack React + TypeScript, Vite Styling: Tailwind CSS, shadcn/ui, class-variance-authority for variants API: GraphQL/Apollo Client; types generated and shared via monorepo Monorepo: Turborepo + PNPM; workspace packages for schema, shared types, and UI primitives Testing: React Testing Library + MSW; snapshot testing consolidated per component story Accessibility: Focus/keyboard support and ARIA semantics in shared components Preferred Skills and Background (It's okay not to have all of these things - these are just some skills we are excited about!) ð¼ Portfolio showing high-craft visual/interaction design in complex B2B/SaaS, with dense layouts and strong keyboard/focus patterns. âï¸ Production React + TypeScript proficiency; comfortable shipping components for broad consumption. ð§© Experience building design systems with component libraries, variant APIs, and documented stories. ð¨ Deep Figma skills: variables, auto-layout, variants, prototyping, library hygiene. â¿ Accessibility proficiency: WCAG, ARIA, color/contrast, motion sensitivity. ð¤ Comfort designing AI UX: uncertainty, intervention affordances, streaming content, error states. ð Facility with data-dense UIs: tables, filtering/sorting, bulk actions. ð¬ User research skills for fast iteration: task-based tests, heuristic reviews, telemetry-informed iteration. ð Product mindset; crisp written communication and rationale; bias to ship without compromising correctness. Perks &amp; Benefits Robust medical coverage (100% of employee + family premiums covered) Vision &amp; dental coverage 401(k) HSA / FSA Remote-first culture - work from wherever you do your best work Flexible time off - we trust you to manage your time Loancrate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Please mention the word **WITTY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-design-engineer-loancrate-1130798",
+    "salary_min": 10000,
+    "salary_max": 300000,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": null,
+    "experience_level": "lead",
+    "location": "",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "react",
+      "graphql",
+      "vite",
+      "turbo",
+      "figma"
+    ],
+    "tags": [
+      "javascript",
+      "react",
+      "typescript",
+      "Figma",
+      "ai",
+      "design"
+    ],
+    "posted_at": "2026-03-16T17:18:26+00:00",
+    "fetched_at": "2026-03-17T18:41:46.133Z",
+    "raw": {
+      "slug": "remote-senior-design-engineer-loancrate-1130798",
+      "id": "1130798",
+      "epoch": 1773681506,
+      "date": "2026-03-16T17:18:26+00:00",
+      "company": "Loancrate",
+      "company_logo": "",
+      "position": "Senior Design Engineer",
+      "tags": [
+        "javascript",
+        "react",
+        "typescript",
+        "Figma",
+        "ai",
+        "design"
+      ],
+      "description": "<h2><strong>What is Loancrate?</strong></h2><p>We started Loancrate to make home-buying simpler and less expensive for lenders and borrowers (us!). Today, mortgage lenders are stuck running their companies on software products built 20 years ago. These products are slow, unstable, and don't lead to material improvements in efficiency. When using these systems, the average human cost to originate a loan is still over $11,000.</p><p>Loancrate builds AI-native tooling to automate mortgage workflows. Our ultimate goal is fully automated origination, which has the potential to save lenders over $16B in operating expense per year.</p><p>Since starting in 2020, our remote team has enabled our customers to power &gt;$85 billion in new home loans. We are a group of people excited to tackle the complexity of the home-lending industry. We care about collaboration, very open communication covering the good &amp; the bad so that we learn from our decisions quickly, and ultimately having fun while we're building. You'll fit in well if you like diving deep quickly!</p><h2><strong>The Opportunity</strong></h2><p>Our dreams are big and we have much to build! We're looking for a Senior Design Engineer who is equal parts engineer and artist - someone who obsesses over the details that most people wouldn't notice, and loses sleep over a transition that's two milliseconds off. You'll be the person who makes Loancrate feel as good as it works - owning the quality of our UI from pixel to production in collaboration with Design and Product. Our product handles some of the most complex, high-stakes workflows in financial services, and great design is how we make that feel approachable and trustworthy for our customers.</p><p>If you're the type who notices micro-interactions before anyone asks, who treats delight as a requirement rather than a nice-to-have, and who brings genuine craft to every component you ship - you'll fit right in here. If pixel-perfect isn't your thing, this probably isn't the right role.</p><h2><strong>What To Expect</strong></h2><p>As a Senior Design Engineer at Loancrate, you'll own design quality end-to-end - from early wireframes to shipped, production-quality UI. A quick note before diving in: we're building an AI-native product, and we rely on AI heavily in our own internal workflows too. If that excites you, you'll thrive here - if it gives you pause, this probably isn't the right fit. Within your first month, you'll be contributing to work such as...</p><ul><li><p>Designing and building core UI components for our AI-powered mortgage workflow tools, balancing information density with usability for power users.</p></li><li><p>Establishing and maintaining a component library and design system that gives our engineering team a coherent visual language to build on.</p></li><li><p>Partnering with product and engineering to translate complex workflow requirements into intuitive, elegant user experiences.</p></li><li><p>Writing production-quality React components in TypeScript that bring your designs to life - you don't hand off, you ship.</p></li><li><p>Defining design standards, patterns, and guidelines that scale as the team grows.</p></li></ul><h2><strong>Core Responsibilities</strong></h2><ul><li><p>Own the end-to-end design process for features - from discovery and wireframing through high-fidelity Figma design and final implementation in React/TypeScript.</p></li><li><p>Build and maintain a design system and component library, using shadcn/ui variants and a dedicated component package with documented permutation coverage.</p></li><li><p>Write accessible, production-quality React components, ensuring correct ARIA, keyboard, and focus management.</p></li><li><p>Collaborate with PMs and engineers during discovery to ensure designs are user-centered and technically feasible.</p></li><li><p>Define and enforce visual and interaction design standards; audit and drive consistency across the product.</p></li><li><p>Maintain Figma libraries, component documentation, and design-to-code handoff tooling.</p></li><li><p>Partner with engineering to ensure design system components are implemented correctly and consistently across the codebase.</p></li><li><p>Design for accessibility (WCAG compliance) and advocate for inclusive design practices.</p></li><li><p>Develop and document UX patterns for complex interaction paradigms (multi-step workflows, AI-generated content, data-dense tables).</p></li><li><p>Contribute to product strategy discussions and motion/microinteraction guidelines.</p></li><li><p>Audit existing UI for consistency and drive improvements.</p></li><li><p>Scope design work and make pragmatic tradeoffs between design quality and delivery velocity.</p></li><li><p>Help establish and document our design principles and visual identity.</p></li><li><p>Mentor team members on design thinking, UI best practices, and frontend implementation.</p></li></ul><h2><strong>Tech Stack</strong></h2><ul><li><p>React + TypeScript, Vite</p></li><li><p>Styling: Tailwind CSS, shadcn/ui, class-variance-authority for variants</p></li><li><p>API: GraphQL/Apollo Client; types generated and shared via monorepo</p></li><li><p>Monorepo: Turborepo + PNPM; workspace packages for schema, shared types, and UI primitives</p></li><li><p>Testing: React Testing Library + MSW; snapshot testing consolidated per component story</p></li><li><p>Accessibility: Focus/keyboard support and ARIA semantics in shared components</p></li></ul><h2><strong>Preferred Skills and Background</strong></h2><p>(It's okay not to have all of these things - these are just some skills we are excited about!)</p><ul><li><p>ð¼ Portfolio showing high-craft visual/interaction design in complex B2B/SaaS, with dense layouts and strong keyboard/focus patterns.</p></li><li><p>âï¸ Production React + TypeScript proficiency; comfortable shipping components for broad consumption.</p></li><li><p>ð§© Experience building design systems with component libraries, variant APIs, and documented stories.</p></li><li><p>ð¨ Deep Figma skills: variables, auto-layout, variants, prototyping, library hygiene.</p></li><li><p>â¿ Accessibility proficiency: WCAG, ARIA, color/contrast, motion sensitivity.</p></li><li><p>ð¤ Comfort designing AI UX: uncertainty, intervention affordances, streaming content, error states.</p></li><li><p>ð Facility with data-dense UIs: tables, filtering/sorting, bulk actions.</p></li><li><p>ð¬ User research skills for fast iteration: task-based tests, heuristic reviews, telemetry-informed iteration.</p></li><li><p>ð Product mindset; crisp written communication and rationale; bias to ship without compromising correctness.</p></li></ul><h2><strong>Perks &amp; Benefits</strong></h2><ul><li><p>Robust medical coverage (100% of employee + family premiums covered)</p></li><li><p>Vision &amp; dental coverage</p></li><li><p>401(k)</p></li><li><p>HSA / FSA</p></li><li><p>Remote-first culture - work from wherever you do your best work</p></li><li><p>Flexible time off - we trust you to manage your time</p></li></ul><p><em>Loancrate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic.</em></p><br/><br/>Please mention the word **WITTY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "location": "",
+      "salary_min": 10000,
+      "salary_max": 300000,
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-design-engineer-loancrate-1130798",
+      "original": true,
+      "logo": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-design-engineer-loancrate-1130798"
+    }
+  },
+  {
+    "id": "remoteok:1130797",
+    "platform": "remoteok",
+    "external_id": "1130797",
+    "title": "Senior Platform Engineer",
+    "company": "Loancrate",
+    "description": "What is Loancrate? We started Loancrate to make home-buying simpler and less expensive for lenders and borrowers (us!). Today, mortgage lenders are stuck running their companies on software products built 20 years ago. These products are slow, unstable, and don't lead to material improvements in efficiency. When using these systems, the average human cost to originate a loan is still over $11,000. Loancrate builds AI-native tooling to automate mortgage workflows. Our ultimate goal is fully automated origination, which has the potential to save lenders over $16B in operating expense per year. Since starting in 2020, our remote team has enabled our customers to power &gt;$85 billion in new home loans. We are a group of people excited to tackle the complexity of the home-lending industry. We care about collaboration, very open communication covering the good &amp; the bad so that we learn from our decisions quickly, and ultimately having fun while we're building. You'll fit in well if you like diving deep quickly! The Opportunity Our dreams are big and we have much to build! Weâre looking for a Senior Platform Engineer to build the tooling and systems that let product engineers focus on shipping features fast - without having to worry about performance, reliability, or scale. This role spans infrastructure and internal developer tooling: youâll design self-serve platforms, libraries, and automation that âjust work,â enabling complex product experiences without compromising security or uptime. What To Expect As a Senior Platform Engineer at Loancrate, youâll ship platform improvements to production early and often - spanning infrastructure, developer tooling, and shared libraries. Within your first month, you'll be diving into mission-critical work such as... Designing and building the systems that let engineers deploy dozens of times per day with confidence - from our Buildkite CI/CD pipelines and per-PR ephemeral environments to our IaC-managed AWS infrastructure. Creating self-serve developer experiences - local dev tooling, templates, golden paths, and CI-integrated workflows - so âthe right thingâ is the easy thing. Extending our internal TypeScript tooling - from schema/code generation to data access libraries - so teams can build features faster with safer, more consistent primitives. Making Loancrate's platform observable and self-healing - instrumenting our services with Datadog, building alerting that actually signals rather than spams, and reducing the blast radius of incidents before they happen. Baking security into our platform defaults - across infra and developer tooling - while keeping engineering velocity high. Solving interesting scaling problems as our AI-native mortgage platform grows - from Aurora PostgreSQL tuning to Kafka throughput to cost-efficient compute autoscaling. Core Responsibilities Own and evolve our AWS infrastructure using Terraform and Pulumi Cloud - treating infrastructure as a product that engineering teams depend on. Design and maintain internal developer tooling and libraries that standardize how we build and ship - code generation, shared SDKs, data access patterns, and service scaffolding. Create and maintain golden paths for common workflows (new service setup, background jobs, event streams, APIs) so teams can ship quickly with built-in security and observability (and consistent defaults across services). Build and maintain CI/CD pipelines and per-PR ephemeral environments that make deploying feel easy and safe. Drive reliability through SLOs, auto-scaling, incident response, and postmortems - and build systems that make the next incident less likely. Create observability tooling and shared instrumentation libraries that give engineers real-time insight into their services. Enforce security best practices across IAM, secrets management, encryption, audit logging, and DDoS protection. Own the reliability and performance of our data platform (Aurora PostgreSQL) - provisioning, backups, failover, and tuning - and build tooling that makes safe usage the default. Reduce toil through automation and self-service tooling so engineers can move fast without waiting on the platform. Contribute to architecture decisions and documentation, and participate in on-call rotation (shared by the whole engineering team). Tech Stack Our infrastructure runs on AWS and is managed 100% with Terraform and Pulumi Cloud. Application services run in Docker on ECS EC2 or Fargate. Key services include Aurora PostgreSQL, ElastiCache (Redis), MSK (Kafka), and OpenSearch. Our CI/CD runs on Buildkite with TypeScript pipeline-as-code. We also maintain internal TypeScript platform libraries (codegen, service templates, shared data access/instrumentation) that power consistent APIs and developer workflows across the monorepo. Observability is powered by Datadog, CloudWatch, and Sentry. DNS and CDN are handled by Cloudflare. Application code is a TypeScript monorepo running Node/Express with a React frontend and GraphQL/Apollo API layer. We use GitHub for source control. Preferred Skills and Background (It's okay not to have all of these things - these are just some skills we are excited about!) ð§© Experience building internal platforms / developer tooling: code generation, CLIs, templates, shared SDKs, or frameworks that improve engineering velocity. ðï¸ Strong TypeScript skills and API design taste - you enjoy building stable primitives that other engineers rely on. ð© Deep AWS experience across compute, networking, storage, and security (ECS, Lambda, VPC, ALB, IAM, RDS, ElastiCache, MSK, OpenSearch, S3, CloudWatch, CloudTrail, GuardDuty). ð Strong Terraform and/or Pulumi proficiency: modules, workspaces, and CI-driven plan/apply workflows. ð Experience designing and operating CI/CD systems that help large engineering teams ship frequently and confidently. ð Track record building production observability stacks (Datadog, CloudWatch, Sentry, distributed tracing, SLOs). ð§± Youâve built âpaved roadsâ that bake in secure, reliable defaults (instrumentation helpers, policy-as-code, safe-by-default deployment patterns). ð Security-first mindset - you proactively harden infrastructure without slowing teams down. ð¢ Aurora PostgreSQL operations at scale: backups, PITR, failover, read replicas, query tuning. ð§° Comfort with Docker and container orchestration environments. ð Reliability engineering mindset: SLOs, error budgets, incident response. ð¤ Curiosity about the unique infrastructure demands of AI and LLM workloads. ð Strong written communication - you document decisions and help the team understand the systems they depend on. Perks &amp; Benefits Robust medical coverage (100% of employee + family premiums covered) Vision &amp; dental coverage 401(k) HSA / FSA Remote-first culture - work from wherever you do your best work Flexible time off - we trust you to manage your time Loancrate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Please mention the word **AMBITIOUSLY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-loancrate-1130797",
+    "salary_min": 10000,
+    "salary_max": 300000,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": null,
+    "experience_level": "lead",
+    "location": "",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "react",
+      "nodejs",
+      "express",
+      "postgresql",
+      "redis",
+      "aws",
+      "docker",
+      "terraform",
+      "cloudflare",
+      "pulumi",
+      "datadog",
+      "sentry",
+      "llm",
+      "kafka",
+      "graphql"
+    ],
+    "tags": [
+      "aws",
+      "Terraform",
+      "dev",
+      "javascript",
+      "typescript",
+      "postgres",
+      "api",
+      "Pulumi",
+      "docker"
+    ],
+    "posted_at": "2026-03-16T16:16:49+00:00",
+    "fetched_at": "2026-03-17T18:41:46.135Z",
+    "raw": {
+      "slug": "remote-senior-platform-engineer-loancrate-1130797",
+      "id": "1130797",
+      "epoch": 1773677809,
+      "date": "2026-03-16T16:16:49+00:00",
+      "company": "Loancrate",
+      "company_logo": "",
+      "position": "Senior Platform Engineer",
+      "tags": [
+        "aws",
+        "Terraform",
+        "dev",
+        "javascript",
+        "typescript",
+        "postgres",
+        "api",
+        "Pulumi",
+        "docker"
+      ],
+      "description": "<h2><strong>What is Loancrate?</strong></h2><p>We started Loancrate to make home-buying simpler and less expensive for lenders and borrowers (us!). Today, mortgage lenders are stuck running their companies on software products built 20 years ago. These products are slow, unstable, and don't lead to material improvements in efficiency. When using these systems, the average human cost to originate a loan is still over $11,000.</p><p>Loancrate builds AI-native tooling to automate mortgage workflows. Our ultimate goal is fully automated origination, which has the potential to save lenders over $16B in operating expense per year.</p><p>Since starting in 2020, our remote team has enabled our customers to power &gt;$85 billion in new home loans. We are a group of people excited to tackle the complexity of the home-lending industry. We care about collaboration, very open communication covering the good &amp; the bad so that we learn from our decisions quickly, and ultimately having fun while we're building. You'll fit in well if you like diving deep quickly!</p><h2><strong>The Opportunity</strong></h2><p>Our dreams are big and we have much to build! Weâre looking for a Senior Platform Engineer to build the tooling and systems that let product engineers focus on shipping features fast - without having to worry about performance, reliability, or scale. This role spans infrastructure <em>and</em> internal developer tooling: youâll design self-serve platforms, libraries, and automation that âjust work,â enabling complex product experiences without compromising security or uptime.</p><h2><strong>What To Expect</strong></h2><p>As a Senior Platform Engineer at Loancrate, youâll ship platform improvements to production early and often - spanning infrastructure, developer tooling, and shared libraries. Within your first month, you'll be diving into mission-critical work such as...</p><ul><li><p>Designing and building the systems that let engineers deploy dozens of times per day with confidence - from our Buildkite CI/CD pipelines and per-PR ephemeral environments to our IaC-managed AWS infrastructure.</p></li><li><p>Creating self-serve developer experiences - local dev tooling, templates, golden paths, and CI-integrated workflows - so âthe right thingâ is the easy thing.</p></li><li><p>Extending our internal TypeScript tooling - from schema/code generation to data access libraries - so teams can build features faster with safer, more consistent primitives.</p></li><li><p>Making Loancrate's platform observable and self-healing - instrumenting our services with Datadog, building alerting that actually signals rather than spams, and reducing the blast radius of incidents before they happen.</p></li><li><p>Baking security into our platform defaults - across infra and developer tooling - while keeping engineering velocity high.</p></li><li><p>Solving interesting scaling problems as our AI-native mortgage platform grows - from Aurora PostgreSQL tuning to Kafka throughput to cost-efficient compute autoscaling.</p></li></ul><h2><strong>Core Responsibilities</strong></h2><ul><li><p>Own and evolve our AWS infrastructure using Terraform and Pulumi Cloud - treating infrastructure as a product that engineering teams depend on.</p></li><li><p>Design and maintain internal developer tooling and libraries that standardize how we build and ship - code generation, shared SDKs, data access patterns, and service scaffolding.</p></li><li><p>Create and maintain golden paths for common workflows (new service setup, background jobs, event streams, APIs) so teams can ship quickly with built-in security and observability (and consistent defaults across services).</p></li><li><p>Build and maintain CI/CD pipelines and per-PR ephemeral environments that make deploying feel easy and safe.</p></li><li><p>Drive reliability through SLOs, auto-scaling, incident response, and postmortems - and build systems that make the next incident less likely.</p></li><li><p>Create observability tooling and shared instrumentation libraries that give engineers real-time insight into their services.</p></li><li><p>Enforce security best practices across IAM, secrets management, encryption, audit logging, and DDoS protection.</p></li><li><p>Own the reliability and performance of our data platform (Aurora PostgreSQL) - provisioning, backups, failover, and tuning - and build tooling that makes safe usage the default.</p></li><li><p>Reduce toil through automation and self-service tooling so engineers can move fast without waiting on the platform.</p></li><li><p>Contribute to architecture decisions and documentation, and participate in on-call rotation (shared by the whole engineering team).</p></li></ul><h2><strong>Tech Stack</strong></h2><p>Our infrastructure runs on AWS and is managed 100% with Terraform and Pulumi Cloud. Application services run in Docker on ECS EC2 or Fargate. Key services include Aurora PostgreSQL, ElastiCache (Redis), MSK (Kafka), and OpenSearch. Our CI/CD runs on Buildkite with TypeScript pipeline-as-code.</p><p>We also maintain internal TypeScript platform libraries (codegen, service templates, shared data access/instrumentation) that power consistent APIs and developer workflows across the monorepo. Observability is powered by Datadog, CloudWatch, and Sentry. DNS and CDN are handled by Cloudflare. Application code is a TypeScript monorepo running Node/Express with a React frontend and GraphQL/Apollo API layer. We use GitHub for source control.</p><h2><strong>Preferred Skills and Background</strong></h2><p>(It's okay not to have all of these things - these are just some skills we are excited about!)</p><ul><li><p>ð§© Experience building internal platforms / developer tooling: code generation, CLIs, templates, shared SDKs, or frameworks that improve engineering velocity.</p></li><li><p>ðï¸ Strong TypeScript skills and API design taste - you enjoy building stable primitives that other engineers rely on.</p></li><li><p>ð© Deep AWS experience across compute, networking, storage, and security (ECS, Lambda, VPC, ALB, IAM, RDS, ElastiCache, MSK, OpenSearch, S3, CloudWatch, CloudTrail, GuardDuty).</p></li><li><p>ð  Strong Terraform and/or Pulumi proficiency: modules, workspaces, and CI-driven plan/apply workflows.</p></li><li><p>ð Experience designing and operating CI/CD systems that help large engineering teams ship frequently and confidently.</p></li><li><p>ð Track record building production observability stacks (Datadog, CloudWatch, Sentry, distributed tracing, SLOs).</p></li><li><p>ð§± Youâve built âpaved roadsâ that bake in secure, reliable defaults (instrumentation helpers, policy-as-code, safe-by-default deployment patterns).</p></li><li><p>ð Security-first mindset - you proactively harden infrastructure without slowing teams down.</p></li><li><p>ð¢ Aurora PostgreSQL operations at scale: backups, PITR, failover, read replicas, query tuning.</p></li><li><p>ð§° Comfort with Docker and container orchestration environments.</p></li><li><p>ð Reliability engineering mindset: SLOs, error budgets, incident response.</p></li><li><p>ð¤ Curiosity about the unique infrastructure demands of AI and LLM workloads.</p></li><li><p>ð Strong written communication - you document decisions and help the team understand the systems they depend on.</p></li></ul><h2><strong>Perks &amp; Benefits</strong></h2><ul><li><p>Robust medical coverage (100% of employee + family premiums covered)</p></li><li><p>Vision &amp; dental coverage</p></li><li><p>401(k)</p></li><li><p>HSA / FSA</p></li><li><p>Remote-first culture - work from wherever you do your best work</p></li><li><p>Flexible time off - we trust you to manage your time</p></li></ul><p><br /></p><p><em>Loancrate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic.</em></p><br/><br/>Please mention the word **AMBITIOUSLY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "location": "",
+      "salary_min": 10000,
+      "salary_max": 300000,
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-loancrate-1130797",
+      "original": true,
+      "logo": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-loancrate-1130797"
+    }
+  },
+  {
+    "id": "remoteok:1130795",
+    "platform": "remoteok",
+    "external_id": "1130795",
+    "title": "Senior Security Engineer",
+    "company": "Loancrate",
+    "description": "What is Loancrate? We started Loancrate to make home-buying simpler and less expensive for lenders and borrowers (us!). Today, mortgage lenders are stuck running their companies on software products built 20 years ago. These products are slow, unstable, and don't lead to material improvements in efficiency. When using these systems, the average human cost to originate a loan is still over $11,000. Loancrate builds AI-native tooling to automate mortgage workflows. Our ultimate goal is fully automated origination, which has the potential to save lenders over $16B in operating expense per year. Since starting in 2020, our remote team has enabled our customers to power &gt;$85 billion in new home loans. We are a group of people excited to tackle the complexity of the home-lending industry. We care about collaboration, very open communication covering the good &amp; the bad so that we learn from our decisions quickly, and ultimately having fun while weâre building. Youâll fit in well if you like diving deep quickly! The Opportunity Our dreams are big and we have much to build! Weâre looking for a Senior Security Engineer who makes Loancrate more secure - without making it harder to build here. Youâll build systems, guardrails, and tooling that catch issues early, make secure defaults easy, and help engineers move fast and sleep at night. We handle some of the most sensitive personal and financial data in the country, and we take that responsibility seriously - security is an enabler here, not a gatekeeper. This is an IC role with broad scope - youâll work across application security, infrastructure security, compliance, and internal tooling. If youâve been in fintech or another regulated industry and gotten frustrated watching security slow engineering down, this is your chance to do it differently. Youâll write code, ship tooling, and improve our defaults - not just write policies. What To Expect As a Senior Security Engineer at Loancrate, youâll get into the codebase and infrastructure quickly. Within your first month, youâll be contributing to work such as... Conducting a comprehensive threat model of our application and infrastructure layers, identifying the highest-leverage gaps and building a pragmatic remediation roadmap. Hardening our AWS infrastructure - IAM least-privilege, secrets management, network segmentation, CloudTrail audit coverage, and GuardDuty alerting - while keeping developer workflows frictionless. Integrating security tooling into our CI/CD pipeline: SAST, dependency scanning, container image scanning, and secret detection that catches issues before they ship. Partnering with engineering on our SOC 2 Type II posture - working across evidence collection, control design, and vendor risk so that compliance is a byproduct of doing good security, not a separate workstream. Building secure-by-default patterns and libraries (authn/authz helpers, input validation, secure logging/redaction) so teams donât have to reinvent security per service. Core Responsibilities Lead and drive Loancrateâs security posture across application security, cloud security, identity, and compliance - partnering closely with engineering and leadership. Perform regular threat modeling, vulnerability assessments, and penetration testing - and work directly with engineering to remediate findings fast. Build and maintain security tooling and automation: SAST/DAST, dependency scanning, container scanning, SBOM management, and secret detection integrated into CI/CD. Harden our AWS environment: IAM, VPC boundaries, secrets management (AWS Secrets Manager), audit logging, GuardDuty, Security Hub, KMS key management, and DDoS protection. Own our SOC 2 Type II program - design practical controls, automate evidence collection where possible, manage the auditor relationship, and drive continuous improvement. Lead or coordinate incident response for security events - runbooks, postmortems, and clear communication to customers and leadership when needed. Establish and maintain a secure SDLC - lightweight design reviews, threat modeling in planning, and developer enablement (training, docs, examples) that scales. Maintain a risk register - tracking identified threats, ownership, and remediation status so nothing falls through the cracks. Partner with Operations on endpoint and device security: laptop hardening, MDM policy, hardware key rollout, and offboarding access revocation. Manage third-party and vendor security risk, including due diligence for new integrations and annual reviews of existing vendors. Own identity and access infrastructure: SSO, MFA enforcement (including hardware key policies), SCIM provisioning, and access reviews. Contribute to security documentation, internal runbooks, and team education - you make the secure path the easy path. Tech Stack Our infrastructure runs on AWS and is managed 100% with Terraform and Pulumi Cloud. Application services run in Docker on ECS EC2 or Fargate. Key services include Aurora PostgreSQL, ElastiCache (Redis), MSK (Kafka), and OpenSearch. Our CI/CD runs on Buildkite with TypeScript pipeline-as-code. Observability is powered by Datadog, CloudWatch, and Sentry. DNS and CDN are handled by Cloudflare. Application code is a TypeScript monorepo running Node/Express with a React frontend and GraphQL/Apollo API layer. We use GitHub for source control. Preferred Skills and Background (Itâs okay not to have all of these things - these are just some skills we are excited about!) ð Deep application security experience: threat modeling, OWASP Top 10 (and beyond), secure code review, SAST/DAST tooling, and working directly with engineers to fix what you find. â¡ Strong AWS security experience across IAM, VPC, GuardDuty, Security Hub, CloudTrail, KMS, Secrets Manager, and WAF. ð Terraform and/or Pulumi proficiency - you can read and contribute to infrastructure-as-code, and you understand the security implications of what youâre reviewing. ð Hands-on SOC 2 experience: youâve designed controls, collected evidence, and managed an auditor relationship - not just checked boxes. ð CI/CD security experience: integrating security tooling into developer pipelines in a way engineers actually appreciate. ð¦ Fintech or regulated industry experience - you understand the intersection of security, compliance, and data privacy in a lending or financial services context. ð¤ Collaborative mindset - you build relationships with engineering rather than operating as an external reviewer or blocker. You measure success by how secure the product is, not how many policies youâve issued. ð Identity and access experience: SSO/SAML, SCIM, MFA enforcement, hardware security keys, and access review programs. ð¡ï¸Familiarity with data security for sensitive personal and financial data - encryption at rest and in transit, data classification, and minimization. ð Strong written communication - you document decisions, write clear runbooks, and communicate security risks to non-security audiences without FUD. ð§® Scripting and automation chops (Python, Bash, or similar) - you build tools to make security scalable, not just write policies. Perks &amp; Benefits Robust medical coverage (100% of employee + family premiums covered) Vision &amp; dental coverage 401(k) HSA / FSA Remote-first culture - work from wherever you do your best work Flexible time off - we trust you to manage your time Loancrate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Please mention the word **YAY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-loancrate-1130795",
+    "salary_min": 10000,
+    "salary_max": 300000,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": null,
+    "experience_level": "lead",
+    "location": "",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "react",
+      "nodejs",
+      "express",
+      "postgresql",
+      "redis",
+      "aws",
+      "docker",
+      "terraform",
+      "cloudflare",
+      "pulumi",
+      "datadog",
+      "sentry",
+      "kafka",
+      "graphql",
+      "bash",
+      "saml",
+      "sso"
+    ],
+    "tags": [
+      "infosec",
+      "Terraform",
+      "docker",
+      "postgres",
+      "javascript",
+      "typescript"
+    ],
+    "posted_at": "2026-03-16T13:53:18+00:00",
+    "fetched_at": "2026-03-17T18:41:46.137Z",
+    "raw": {
+      "slug": "remote-senior-security-engineer-loancrate-1130795",
+      "id": "1130795",
+      "epoch": 1773669198,
+      "date": "2026-03-16T13:53:18+00:00",
+      "company": "Loancrate",
+      "company_logo": "",
+      "position": "Senior Security Engineer",
+      "tags": [
+        "infosec",
+        "Terraform",
+        "docker",
+        "postgres",
+        "javascript",
+        "typescript"
+      ],
+      "description": "<h2><strong>What is Loancrate?</strong></h2><p>We started Loancrate to make home-buying simpler and less expensive for lenders and borrowers (us!). Today, mortgage lenders are stuck running their companies on software products built 20 years ago. These products are slow, unstable, and don't lead to material improvements in efficiency. When using these systems, the average human cost to originate a loan is still over $11,000.</p><p>Loancrate builds AI-native tooling to automate mortgage workflows. Our ultimate goal is fully automated origination, which has the potential to save lenders over $16B in operating expense per year.</p><p>Since starting in 2020, our remote team has enabled our customers to power &gt;$85 billion in new home loans. We are a group of people excited to tackle the complexity of the home-lending industry. We care about collaboration, very open communication covering the good &amp; the bad so that we learn from our decisions quickly, and ultimately having fun while weâre building. Youâll fit in well if you like diving deep quickly!</p><h2><strong>The Opportunity</strong></h2><p>Our dreams are big and we have much to build! Weâre looking for a Senior Security Engineer who makes Loancrate more secure - without making it harder to build here. Youâll build systems, guardrails, and tooling that catch issues early, make secure defaults easy, and help engineers move fast and sleep at night. We handle some of the most sensitive personal and financial data in the country, and we take that responsibility seriously - security is an enabler here, not a gatekeeper.</p><p>This is an IC role with broad scope - youâll work across application security, infrastructure security, compliance, and internal tooling. If youâve been in fintech or another regulated industry and gotten frustrated watching security slow engineering down, this is your chance to do it differently. Youâll write code, ship tooling, and improve our defaults - not just write policies.</p><h2><strong>What To Expect</strong></h2><p>As a Senior Security Engineer at Loancrate, youâll get into the codebase and infrastructure quickly. Within your first month, youâll be contributing to work such as...</p><ul><li><p>Conducting a comprehensive threat model of our application and infrastructure layers, identifying the highest-leverage gaps and building a pragmatic remediation roadmap.</p></li><li><p>Hardening our AWS infrastructure - IAM least-privilege, secrets management, network segmentation, CloudTrail audit coverage, and GuardDuty alerting - while keeping developer workflows frictionless.</p></li><li><p>Integrating security tooling into our CI/CD pipeline: SAST, dependency scanning, container image scanning, and secret detection that catches issues before they ship.</p></li><li><p>Partnering with engineering on our SOC 2 Type II posture - working across evidence collection, control design, and vendor risk so that compliance is a byproduct of doing good security, not a separate workstream.</p></li><li><p>Building secure-by-default patterns and libraries (authn/authz helpers, input validation, secure logging/redaction) so teams donât have to reinvent security per service.</p></li></ul><h2><strong>Core Responsibilities</strong></h2><ul><li><p>Lead and drive Loancrateâs security posture across application security, cloud security, identity, and compliance - partnering closely with engineering and leadership.</p></li><li><p>Perform regular threat modeling, vulnerability assessments, and penetration testing - and work directly with engineering to remediate findings fast.</p></li><li><p>Build and maintain security tooling and automation: SAST/DAST, dependency scanning, container scanning, SBOM management, and secret detection integrated into CI/CD.</p></li><li><p>Harden our AWS environment: IAM, VPC boundaries, secrets management (AWS Secrets Manager), audit logging, GuardDuty, Security Hub, KMS key management, and DDoS protection.</p></li><li><p>Own our SOC 2 Type II program - design practical controls, automate evidence collection where possible, manage the auditor relationship, and drive continuous improvement.</p></li><li><p>Lead or coordinate incident response for security events - runbooks, postmortems, and clear communication to customers and leadership when needed.</p></li><li><p>Establish and maintain a secure SDLC - lightweight design reviews, threat modeling in planning, and developer enablement (training, docs, examples) that scales.</p></li><li><p>Maintain a risk register - tracking identified threats, ownership, and remediation status so nothing falls through the cracks.</p></li><li><p>Partner with Operations on endpoint and device security: laptop hardening, MDM policy, hardware key rollout, and offboarding access revocation.</p></li><li><p>Manage third-party and vendor security risk, including due diligence for new integrations and annual reviews of existing vendors.</p></li><li><p>Own identity and access infrastructure: SSO, MFA enforcement (including hardware key policies), SCIM provisioning, and access reviews.</p></li><li><p>Contribute to security documentation, internal runbooks, and team education - you make the secure path the easy path.</p></li></ul><h2><strong>Tech Stack</strong></h2><p>Our infrastructure runs on AWS and is managed 100% with Terraform and Pulumi Cloud. Application services run in Docker on ECS EC2 or Fargate. Key services include Aurora PostgreSQL, ElastiCache (Redis), MSK (Kafka), and OpenSearch. Our CI/CD runs on Buildkite with TypeScript pipeline-as-code. Observability is powered by Datadog, CloudWatch, and Sentry. DNS and CDN are handled by Cloudflare. Application code is a TypeScript monorepo running Node/Express with a React frontend and GraphQL/Apollo API layer. We use GitHub for source control.</p><h2><strong>Preferred Skills and Background</strong></h2><p>(Itâs okay not to have all of these things - these are just some skills we are excited about!)</p><ul><li><p>ð Deep application security experience: threat modeling, OWASP Top 10 (and beyond), secure code review, SAST/DAST tooling, and working directly with engineers to fix what you find.</p></li><li><p>â¡ Strong AWS security experience across IAM, VPC, GuardDuty, Security Hub, CloudTrail, KMS, Secrets Manager, and WAF.</p></li><li><p>ð  Terraform and/or Pulumi proficiency - you can read and contribute to infrastructure-as-code, and you understand the security implications of what youâre reviewing.</p></li><li><p>ð Hands-on SOC 2 experience: youâve designed controls, collected evidence, and managed an auditor relationship - not just checked boxes.</p></li><li><p>ð CI/CD security experience: integrating security tooling into developer pipelines in a way engineers actually appreciate.</p></li><li><p>ð¦ Fintech or regulated industry experience - you understand the intersection of security, compliance, and data privacy in a lending or financial services context.</p></li><li><p>ð¤ Collaborative mindset - you build relationships with engineering rather than operating as an external reviewer or blocker. You measure success by how secure the product is, not how many policies youâve issued.</p></li><li><p>ð Identity and access experience: SSO/SAML, SCIM, MFA enforcement, hardware security keys, and access review programs.</p></li><li><p>ð¡ï¸Familiarity with data security for sensitive personal and financial data - encryption at rest and in transit, data classification, and minimization.</p></li><li><p>ð Strong written communication - you document decisions, write clear runbooks, and communicate security risks to non-security audiences without FUD.</p></li><li><p>ð§® Scripting and automation chops (Python, Bash, or similar) - you build tools to make security scalable, not just write policies.</p></li></ul><h2><strong>Perks &amp; Benefits</strong></h2><ul><li><p>Robust medical coverage (100% of employee + family premiums covered)</p></li><li><p>Vision &amp; dental coverage</p></li><li><p>401(k)</p></li><li><p>HSA / FSA</p></li><li><p>Remote-first culture - work from wherever you do your best work</p></li><li><p>Flexible time off - we trust you to manage your time</p></li></ul><p><br /></p><p><em>Loancrate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic.</em></p><br/><br/>Please mention the word **YAY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "location": "",
+      "salary_min": 10000,
+      "salary_max": 300000,
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-loancrate-1130795",
+      "original": true,
+      "logo": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-loancrate-1130795"
+    }
+  },
+  {
+    "id": "remoteok:1130794",
+    "platform": "remoteok",
+    "external_id": "1130794",
+    "title": "Senior Software Engineer",
+    "company": "Loancrate",
+    "description": "What is Loancrate? We started Loancrate to make home-buying simpler and less expensive for lenders and borrowers (us!). Today, mortgage lenders are stuck running their companies on software products built 20 years ago. These products are slow, unstable, and don't lead to material improvements in efficiency. When using these systems, the average human cost to originate a loan is still over $11,000. Loancrate builds AI-native tooling to automate mortgage workflows. Our ultimate goal is fully automated origination, which has the potential to save lenders over $16B in operating expense per year. Since starting in 2020, our remote team has enabled our customers to power &gt;$85 billion in new home loans. We are a group of people excited to tackle the complexity of the home-lending industry. We care about collaboration, very open communication covering the good &amp; the bad so that we learn from our decisions quickly, and ultimately having fun while we're building. You'll fit in well if you like diving deep quickly! The Opportunity Our dreams are big and we have much to build! We're looking for a Senior Software Engineer to help lead our team in powering the future of home buying in the US (which could entail managing a majority of US home loans every year - financial assets worth trillions of dollars). What To Expect As a Senior Software Engineer at Loancrate, you'll continue our team tradition by shipping code to production on your first day! Following that, within your first month, you'll dive into your first mission-critical project, such as... Architecting, building, and launching complex, multi-step AI agents that our customers use to digitize their ops workflows and save millions of dollars per year. Integrating with 3rd-party providers of lending services APIs to generate documents/disclosures, produce automated underwriting results, or prevent fraud. Architecting, building, and launching the next generation of our job processing infrastructure on AWS to make Loancrate's back end more observable and reliable. Tech Stack Nearly all of our code is written in TypeScript. We use React on the frontend, Node/Express on the backend (running inside Docker), GraphQL/Apollo on both sides, and Postgres as our database. We use AWS (ECS, RDS, ElastiCache, Kafka, ElasticSearch, and more) and manage all of our infrastructure with Terraform. We believe that high engineering velocity drives high product velocity (and, in turn, our success as a company). Keeping this in mind, we've invested heavily in creating a great developer experience that enables engineers to ship fast. Some highlights of our stack: End-to-End Type Safety - We generate TypeScript types from our Postgres and GraphQL schemas so that when we change our database schema we see type errors in any incompatible frontend React components. Full-Stack Code Sharing - Our build tooling supports seamless sharing of TypeScript files between the client, server, and other packages in our mono-repo so that we never have to define functions or configuration values twice. Reproducible Infrastructure - We've used Terraform to manage 100% of our infrastructure since day 1 and have configured our CI pipeline to automatically deploy temporary staging environments for every pull request. First Class Testing Utilities - We have a comprehensive library of utilities that mock production-like data and feed automated end-to-end, integration, and performance tests. Our wide-ranging test suite allows us to move fast while maintaining nearly perfect uptime. Preferred Skills and Background (It's okay not to have all of these things - these are just some skills we are excited about!) ð¤ Familiarity with modern AI product development lifecycles (evals, experiment design, dataset curation, etc). We don't just build AI chat bots. We wrangle non-deterministic LLMs into reliable mission-critical systems. ð A constant and keen eye for security risks - we store and display some of people's most sensitive personal data and need to keep it safe! ð¨ A desire to be product-oriented, from thinking through the product implications of what you're building to contributing your unique ideas of how to improve the product. ðï¸ Ability to develop readable, maintainable, and effective software architecture patterns that support use of our product by various enterprise customers. ð©âð« Excitement to mentor less senior engineers in both hard and soft skills. ð SRE-oriented mindset for developing infrastructure that's reliable, observable, and requires minimal toil to maintain. ð©ï¸ Experience scaling high-throughput distributed systems in the cloud. Bonus points if you're experienced with infrastructure-as-code solutions like Terraform or CloudFormation! ð§ Ability to develop full-stack web app features from design through deployment. ð¢ï¸ Experience designing and scaling complex relational DB schemas, as well as figuring out performant ways to store, retrieve, and update such data. Home loans have thousands of data fields. Perks &amp; Benefits Robust medical coverage (100% of employee + family premiums covered) Vision &amp; dental coverage 401(k) HSA / FSA Remote-first culture - work from wherever you do your best work Flexible time off - we trust you to manage your time Loancrate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Please mention the word **FASCINATING** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-loancrate-1130794",
+    "salary_min": 10000,
+    "salary_max": 300000,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": null,
+    "experience_level": "lead",
+    "location": "",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "react",
+      "nodejs",
+      "express",
+      "postgresql",
+      "elasticsearch",
+      "aws",
+      "docker",
+      "terraform",
+      "kafka",
+      "graphql"
+    ],
+    "tags": [
+      "full stack",
+      "javascript",
+      "react",
+      "node",
+      "docker",
+      "typescript",
+      "graphql",
+      "postgres",
+      "aws"
+    ],
+    "posted_at": "2026-03-16T13:22:53+00:00",
+    "fetched_at": "2026-03-17T18:41:46.138Z",
+    "raw": {
+      "slug": "remote-senior-software-engineer-loancrate-1130794",
+      "id": "1130794",
+      "epoch": 1773667373,
+      "date": "2026-03-16T13:22:53+00:00",
+      "company": "Loancrate",
+      "company_logo": "",
+      "position": "Senior Software Engineer",
+      "tags": [
+        "full stack",
+        "javascript",
+        "react",
+        "node",
+        "docker",
+        "typescript",
+        "graphql",
+        "postgres",
+        "aws"
+      ],
+      "description": "<h2><strong>What is Loancrate?</strong></h2><p>We started Loancrate to make home-buying simpler and less expensive for lenders and borrowers (us!). Today, mortgage lenders are stuck running their companies on software products built 20 years ago. These products are slow, unstable, and don't lead to material improvements in efficiency. When using these systems, the average human cost to originate a loan is still over $11,000.</p><p>Loancrate builds AI-native tooling to automate mortgage workflows. Our ultimate goal is fully automated origination, which has the potential to save lenders over $16B in operating expense per year.</p><p>Since starting in 2020, our remote team has enabled our customers to power &gt;$85 billion in new home loans. We are a group of people excited to tackle the complexity of the home-lending industry. We care about collaboration, very open communication covering the good &amp; the bad so that we learn from our decisions quickly, and ultimately having fun while we're building. You'll fit in well if you like diving deep quickly!</p><h2><strong>The Opportunity</strong></h2><p>Our dreams are big and we have much to build! We're looking for a Senior Software Engineer to help lead our team in powering the future of home buying in the US (which could entail managing a majority of US home loans every year - financial assets worth trillions of dollars).</p><h2><strong>What To Expect</strong></h2><p>As a Senior Software Engineer at Loancrate, you'll continue our team tradition by shipping code to production on your first day! Following that, within your first month, you'll dive into your first mission-critical project, such as...</p><ul><li><p>Architecting, building, and launching complex, multi-step AI agents that our customers use to digitize their ops workflows and save millions of dollars per year.</p></li><li><p>Integrating with 3rd-party providers of lending services APIs to generate documents/disclosures, produce automated underwriting results, or prevent fraud.</p></li><li><p>Architecting, building, and launching the next generation of our job processing infrastructure on AWS to make Loancrate's back end more observable and reliable.</p></li></ul><h2><strong>Tech Stack</strong></h2><p>Nearly all of our code is written in TypeScript. We use React on the frontend, Node/Express on the backend (running inside Docker), GraphQL/Apollo on both sides, and Postgres as our database. We use AWS (ECS, RDS, ElastiCache, Kafka, ElasticSearch, and more) and manage all of our infrastructure with Terraform.</p><p>We believe that high engineering velocity drives high product velocity (and, in turn, our success as a company). Keeping this in mind, we've invested heavily in creating a great developer experience that enables engineers to ship fast. Some highlights of our stack:</p><ul><li><p>End-to-End Type Safety - We generate TypeScript types from our Postgres and GraphQL schemas so that when we change our database schema we see type errors in any incompatible frontend React components.</p></li><li><p>Full-Stack Code Sharing - Our build tooling supports seamless sharing of TypeScript files between the client, server, and other packages in our mono-repo so that we never have to define functions or configuration values twice.</p></li><li><p>Reproducible Infrastructure - We've used Terraform to manage 100% of our infrastructure since day 1 and have configured our CI pipeline to automatically deploy temporary staging environments for every pull request.</p></li><li><p>First Class Testing Utilities - We have a comprehensive library of utilities that mock production-like data and feed automated end-to-end, integration, and performance tests. Our wide-ranging test suite allows us to move fast while maintaining nearly perfect uptime.</p></li></ul><h2><strong>Preferred Skills and Background</strong></h2><p>(It's okay not to have all of these things - these are just some skills we are excited about!)</p><ul><li><p>ð¤ Familiarity with modern AI product development lifecycles (evals, experiment design, dataset curation, etc). We don't just build AI chat bots. We wrangle non-deterministic LLMs into reliable mission-critical systems.</p></li><li><p>ð A constant and keen eye for security risks - we store and display some of people's most sensitive personal data and need to keep it safe!</p></li><li><p>ð¨ A desire to be product-oriented, from thinking through the product implications of what you're building to contributing your unique ideas of how to improve the product.</p></li><li><p>ðï¸ Ability to develop readable, maintainable, and effective software architecture patterns that support use of our product by various enterprise customers.</p></li><li><p>ð©âð« Excitement to mentor less senior engineers in both hard and soft skills.</p></li><li><p>ð SRE-oriented mindset for developing infrastructure that's reliable, observable, and requires minimal toil to maintain.</p></li><li><p>ð©ï¸ Experience scaling high-throughput distributed systems in the cloud. Bonus points if you're experienced with infrastructure-as-code solutions like Terraform or CloudFormation!</p></li><li><p>ð§ Ability to develop full-stack web app features from design through deployment.</p></li><li><p>ð¢ï¸ Experience designing and scaling complex relational DB schemas, as well as figuring out performant ways to store, retrieve, and update such data. Home loans have thousands of data fields.</p></li></ul><h2><strong>Perks &amp; Benefits</strong></h2><ul><li><p>Robust medical coverage (100% of employee + family premiums covered)</p></li><li><p>Vision &amp; dental coverage</p></li><li><p>401(k)</p></li><li><p>HSA / FSA</p></li><li><p>Remote-first culture - work from wherever you do your best work</p></li><li><p>Flexible time off - we trust you to manage your time</p></li></ul><p><br /></p><p><em>Loancrate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic.</em></p><br/><br/>Please mention the word **FASCINATING** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "location": "",
+      "salary_min": 10000,
+      "salary_max": 300000,
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-loancrate-1130794",
+      "original": true,
+      "logo": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-loancrate-1130794"
+    }
+  },
+  {
+    "id": "remoteok:1130793",
+    "platform": "remoteok",
+    "external_id": "1130793",
+    "title": "Senior Sales Systems Engineer",
+    "company": "Veeam Software",
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world's biggest brands. As an Enterprise Pre-Sales Systems Engineer at Veeam, you will act as a trusted technical and strategic advisor to large enterprise customers facing complex data resilience and cyber recovery challenges. You will engage Please mention the word **FEASIBLY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-systems-engineer-veeam-software-1130793",
+    "salary_min": 0,
+    "salary_max": 0,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": null,
+    "experience_level": "senior",
+    "location": "Massachusetts",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [],
+    "tags": [
+      "dev",
+      "security",
+      "technical",
+      "leader",
+      "senior",
+      "sales",
+      "go",
+      "engineer",
+      "digital nomad"
+    ],
+    "posted_at": "2026-03-16T12:00:04+00:00",
+    "fetched_at": "2026-03-17T18:41:46.138Z",
+    "raw": {
+      "slug": "remote-senior-sales-systems-engineer-veeam-software-1130793",
+      "id": "1130793",
+      "epoch": 1773662404,
+      "date": "2026-03-16T12:00:04+00:00",
+      "company": "Veeam Software",
+      "company_logo": "",
+      "position": "Senior Sales Systems Engineer",
+      "tags": [
+        "dev",
+        "security",
+        "technical",
+        "leader",
+        "senior",
+        "sales",
+        "go",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world's biggest brands.\n\nAs an Enterprise Pre-Sales Systems Engineer at Veeam, you will act as a trusted technical and strategic advisor to large enterprise customers facing complex data resilience and cyber recovery challenges. You will engage<br/><br/>Please mention the word **FEASIBLY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "location": "Massachusetts",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-sales-systems-engineer-veeam-software-1130793",
+      "salary_min": 0,
+      "salary_max": 0,
+      "logo": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-systems-engineer-veeam-software-1130793"
+    }
+  },
+  {
     "id": "remoteok:1130791",
     "platform": "remoteok",
     "external_id": "1130791",
@@ -25,7 +372,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-16T11:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.767Z",
+    "fetched_at": "2026-03-17T18:41:46.139Z",
     "raw": {
       "slug": "remote-lead-product-designer-circle-so-1130791",
       "id": "1130791",
@@ -75,7 +422,7 @@
       "management"
     ],
     "posted_at": "2026-03-16T00:00:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.768Z",
+    "fetched_at": "2026-03-17T18:41:46.139Z",
     "raw": {
       "slug": "remote-benefits-advisor-leadership-training-program-fisher-agencies-1130788",
       "id": "1130788",
@@ -128,7 +475,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-15T16:00:07+00:00",
-    "fetched_at": "2026-03-17T12:36:49.768Z",
+    "fetched_at": "2026-03-17T18:41:46.139Z",
     "raw": {
       "slug": "remote-senior-sales-engineer-data-ai-security-veeam-software-1130787",
       "id": "1130787",
@@ -188,7 +535,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-15T08:00:02+00:00",
-    "fetched_at": "2026-03-17T12:36:49.769Z",
+    "fetched_at": "2026-03-17T18:41:46.140Z",
     "raw": {
       "slug": "remote-electrical-engineer-central-moloney-1130786",
       "id": "1130786",
@@ -257,7 +604,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-15T00:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.771Z",
+    "fetched_at": "2026-03-17T18:41:46.142Z",
     "raw": {
       "slug": "remote-data-center-site-start-up-manager-serverfarm-1130785",
       "id": "1130785",
@@ -314,7 +661,7 @@
     "tech_stack": [],
     "tags": [],
     "posted_at": "2026-03-14T21:00:10+00:00",
-    "fetched_at": "2026-03-17T12:36:49.771Z",
+    "fetched_at": "2026-03-17T18:41:46.142Z",
     "raw": {
       "slug": "remote-1130784",
       "id": "1130784",
@@ -366,7 +713,7 @@
       "apache"
     ],
     "posted_at": "2026-03-14T21:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.772Z",
+    "fetched_at": "2026-03-17T18:41:46.143Z",
     "raw": {
       "slug": "remote-staff-devops-engineer-life360-1130783",
       "id": "1130783",
@@ -426,7 +773,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-14T16:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.773Z",
+    "fetched_at": "2026-03-17T18:41:46.145Z",
     "raw": {
       "slug": "remote-vp-corporate-marketing-brand-communications-blackpoint-cyber-1130780",
       "id": "1130780",
@@ -489,7 +836,7 @@
       "engineering"
     ],
     "posted_at": "2026-03-14T13:00:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.774Z",
+    "fetched_at": "2026-03-17T18:41:46.146Z",
     "raw": {
       "slug": "remote-engineering-manager-workload-management-graphcore-1130779",
       "id": "1130779",
@@ -547,7 +894,7 @@
       "linux"
     ],
     "posted_at": "2026-03-14T12:11:33+00:00",
-    "fetched_at": "2026-03-17T12:36:49.774Z",
+    "fetched_at": "2026-03-17T18:41:46.147Z",
     "raw": {
       "slug": "remote-c-c-linux-developer-tempesta-technologies-1130778",
       "id": "1130778",
@@ -605,7 +952,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-14T08:00:09+00:00",
-    "fetched_at": "2026-03-17T12:36:49.775Z",
+    "fetched_at": "2026-03-17T18:41:46.148Z",
     "raw": {
       "slug": "remote-forward-deployed-ai-architect-tribe-ai-1130777",
       "id": "1130777",
@@ -662,7 +1009,7 @@
       "part-time"
     ],
     "posted_at": "2026-03-14T08:00:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.775Z",
+    "fetched_at": "2026-03-17T18:41:46.148Z",
     "raw": {
       "slug": "remote-ai-trainer-kastle-1130776",
       "id": "1130776",
@@ -721,7 +1068,7 @@
       "ecommerce"
     ],
     "posted_at": "2026-03-14T00:01:23+00:00",
-    "fetched_at": "2026-03-17T12:36:49.776Z",
+    "fetched_at": "2026-03-17T18:41:46.149Z",
     "raw": {
       "slug": "remote-senior-ecommerce-creative-strategist-philippines-hirehawk-1130774",
       "id": "1130774",
@@ -777,7 +1124,7 @@
       "ecommerce"
     ],
     "posted_at": "2026-03-14T00:01:17+00:00",
-    "fetched_at": "2026-03-17T12:36:49.777Z",
+    "fetched_at": "2026-03-17T18:41:46.150Z",
     "raw": {
       "slug": "remote-head-of-european-and-uk-policy-whatnot-1130773",
       "id": "1130773",
@@ -825,7 +1172,7 @@
       "operations"
     ],
     "posted_at": "2026-03-14T00:01:11+00:00",
-    "fetched_at": "2026-03-17T12:36:49.778Z",
+    "fetched_at": "2026-03-17T18:41:46.151Z",
     "raw": {
       "slug": "remote-payroll-and-benefits-specialist-the-pac-group-1130772",
       "id": "1130772",
@@ -876,7 +1223,7 @@
       "non tech"
     ],
     "posted_at": "2026-03-14T00:01:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.779Z",
+    "fetched_at": "2026-03-17T18:41:46.152Z",
     "raw": {
       "slug": "remote-partnerships-manager-japan-whatnot-1130771",
       "id": "1130771",
@@ -946,7 +1293,7 @@
       "engineering"
     ],
     "posted_at": "2026-03-14T00:00:50+00:00",
-    "fetched_at": "2026-03-17T12:36:49.780Z",
+    "fetched_at": "2026-03-17T18:41:46.153Z",
     "raw": {
       "slug": "remote-staff-software-engineer-office-hours-1130769",
       "id": "1130769",
@@ -1005,7 +1352,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-14T00:00:44+00:00",
-    "fetched_at": "2026-03-17T12:36:49.782Z",
+    "fetched_at": "2026-03-17T18:41:46.154Z",
     "raw": {
       "slug": "remote-associate-creative-director-design-whatnot-1130768",
       "id": "1130768",
@@ -1064,7 +1411,7 @@
       "health"
     ],
     "posted_at": "2026-03-14T00:00:31+00:00",
-    "fetched_at": "2026-03-17T12:36:49.782Z",
+    "fetched_at": "2026-03-17T18:41:46.155Z",
     "raw": {
       "slug": "remote-salesforce-agentforce-ai-technical-architect-manager-accenture-federal-services-1130767",
       "id": "1130767",
@@ -1123,7 +1470,7 @@
       "non tech"
     ],
     "posted_at": "2026-03-14T00:00:16+00:00",
-    "fetched_at": "2026-03-17T12:36:49.783Z",
+    "fetched_at": "2026-03-17T18:41:46.155Z",
     "raw": {
       "slug": "remote-vice-president-of-sales-asg-1130766",
       "id": "1130766",
@@ -1179,7 +1526,7 @@
       "excel"
     ],
     "posted_at": "2026-03-14T00:00:06+00:00",
-    "fetched_at": "2026-03-17T12:36:49.784Z",
+    "fetched_at": "2026-03-17T18:41:46.157Z",
     "raw": {
       "slug": "remote-payroll-analyst-whatnot-1130765",
       "id": "1130765",
@@ -1229,7 +1576,7 @@
       "chatbot"
     ],
     "posted_at": "2026-03-13T21:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.784Z",
+    "fetched_at": "2026-03-17T18:41:46.157Z",
     "raw": {
       "slug": "remote-support-agent-descript-1130764",
       "id": "1130764",
@@ -1300,7 +1647,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-13T19:00:01+00:00",
-    "fetched_at": "2026-03-17T12:36:49.786Z",
+    "fetched_at": "2026-03-17T18:41:46.159Z",
     "raw": {
       "slug": "remote-software-engineer-new-grad-production-infrastructure-palantir-technologies-1130763",
       "id": "1130763",
@@ -1369,7 +1716,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-13T16:00:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.788Z",
+    "fetched_at": "2026-03-17T18:41:46.161Z",
     "raw": {
       "slug": "remote-principal-vc-startup-ecosystem-lead-ashby-1130762",
       "id": "1130762",
@@ -1431,7 +1778,7 @@
       "Firmware"
     ],
     "posted_at": "2026-03-13T14:01:47+00:00",
-    "fetched_at": "2026-03-17T12:36:49.789Z",
+    "fetched_at": "2026-03-17T18:41:46.162Z",
     "raw": {
       "slug": "remote-senior-firmware-engineer-sanctuary-computer-1130761",
       "id": "1130761",
@@ -1493,7 +1840,7 @@
       "postgres"
     ],
     "posted_at": "2026-03-13T12:15:25+00:00",
-    "fetched_at": "2026-03-17T12:36:49.790Z",
+    "fetched_at": "2026-03-17T18:41:46.162Z",
     "raw": {
       "slug": "remote-full-stack-developer-electe-s-r-l-1130760",
       "id": "1130760",
@@ -1556,7 +1903,7 @@
       "legal"
     ],
     "posted_at": "2026-03-13T08:23:00+00:00",
-    "fetched_at": "2026-03-17T12:36:49.790Z",
+    "fetched_at": "2026-03-17T18:41:46.163Z",
     "raw": {
       "slug": "remote-entry-level-crypto-market-specialist-elemental-terra-1130759",
       "id": "1130759",
@@ -1624,7 +1971,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-13T08:00:37+00:00",
-    "fetched_at": "2026-03-17T12:36:49.791Z",
+    "fetched_at": "2026-03-17T18:41:46.163Z",
     "raw": {
       "slug": "remote-senior-developer-experience-engineer-galaxy-1130758",
       "id": "1130758",
@@ -1687,7 +2034,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-13T08:00:11+00:00",
-    "fetched_at": "2026-03-17T12:36:49.792Z",
+    "fetched_at": "2026-03-17T18:41:46.164Z",
     "raw": {
       "slug": "remote-cloud-security-architect-altium-1130757",
       "id": "1130757",
@@ -1745,7 +2092,7 @@
       "non tech"
     ],
     "posted_at": "2026-03-13T08:00:09+00:00",
-    "fetched_at": "2026-03-17T12:36:49.792Z",
+    "fetched_at": "2026-03-17T18:41:46.164Z",
     "raw": {
       "slug": "remote-go-to-market-strategist-ai-trainer-freelance-8-20-hrs-week-10x-team-1130756",
       "id": "1130756",
@@ -1798,7 +2145,7 @@
       "part-time"
     ],
     "posted_at": "2026-03-13T08:00:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.793Z",
+    "fetched_at": "2026-03-17T18:41:46.165Z",
     "raw": {
       "slug": "remote-migration-specialist-ai-trainer-freelance-8-20-hrs-week-10x-team-1130755",
       "id": "1130755",
@@ -1849,7 +2196,7 @@
       "speech"
     ],
     "posted_at": "2026-03-13T04:00:02+00:00",
-    "fetched_at": "2026-03-17T12:36:49.794Z",
+    "fetched_at": "2026-03-17T18:41:46.166Z",
     "raw": {
       "slug": "remote-ai-specialist-haitian-creole-rws-trainai-1130752",
       "id": "1130752",
@@ -1912,7 +2259,7 @@
       "backend"
     ],
     "posted_at": "2026-03-13T00:00:15+00:00",
-    "fetched_at": "2026-03-17T12:36:49.794Z",
+    "fetched_at": "2026-03-17T18:41:46.166Z",
     "raw": {
       "slug": "remote-cit-27985-senior-ai-engineer-brazil-cit-1130751",
       "id": "1130751",
@@ -1975,7 +2322,7 @@
       "sales"
     ],
     "posted_at": "2026-03-13T00:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.795Z",
+    "fetched_at": "2026-03-17T18:41:46.168Z",
     "raw": {
       "slug": "remote-client-partner-enterprise-platform-sales-aera-technology-1130750",
       "id": "1130750",
@@ -2030,7 +2377,7 @@
       "content"
     ],
     "posted_at": "2026-03-12T22:00:08+00:00",
-    "fetched_at": "2026-03-17T12:36:49.796Z",
+    "fetched_at": "2026-03-17T18:41:46.168Z",
     "raw": {
       "slug": "remote-lead-3d-environment-artist-eleventh-hour-games-1130749",
       "id": "1130749",
@@ -2078,7 +2425,7 @@
       "senior"
     ],
     "posted_at": "2026-03-12T21:00:06+00:00",
-    "fetched_at": "2026-03-17T12:36:49.796Z",
+    "fetched_at": "2026-03-17T18:41:46.169Z",
     "raw": {
       "slug": "remote-principal-3d-character-artist-eleventh-hour-games-1130748",
       "id": "1130748",
@@ -2129,7 +2476,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-12T20:00:06+00:00",
-    "fetched_at": "2026-03-17T12:36:49.797Z",
+    "fetched_at": "2026-03-17T18:41:46.170Z",
     "raw": {
       "slug": "remote-senior-it-project-manager-precision-medicine-group-1130747",
       "id": "1130747",
@@ -2190,7 +2537,7 @@
       "quality assurance"
     ],
     "posted_at": "2026-03-12T19:16:32+00:00",
-    "fetched_at": "2026-03-17T12:36:49.799Z",
+    "fetched_at": "2026-03-17T18:41:46.173Z",
     "raw": {
       "slug": "remote-technical-product-manager-launchbrightly-1130746",
       "id": "1130746",
@@ -2262,7 +2609,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-12T17:00:02+00:00",
-    "fetched_at": "2026-03-17T12:36:49.799Z",
+    "fetched_at": "2026-03-17T18:41:46.174Z",
     "raw": {
       "slug": "remote-senior-software-engineer-ruby-on-rails-versapay-1130745",
       "id": "1130745",
@@ -2321,7 +2668,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-12T16:00:26+00:00",
-    "fetched_at": "2026-03-17T12:36:49.800Z",
+    "fetched_at": "2026-03-17T18:41:46.174Z",
     "raw": {
       "slug": "remote-bpm-llp-ai-ml-engineer-bpm-llp-1130744",
       "id": "1130744",
@@ -2370,7 +2717,7 @@
       "non tech"
     ],
     "posted_at": "2026-03-12T16:00:18+00:00",
-    "fetched_at": "2026-03-17T12:36:49.800Z",
+    "fetched_at": "2026-03-17T18:41:46.175Z",
     "raw": {
       "slug": "remote-work-from-home-client-support-manager-global-elite-empire-consultants-1130743",
       "id": "1130743",
@@ -2424,7 +2771,7 @@
       "engineer"
     ],
     "posted_at": "2026-03-12T13:00:02+00:00",
-    "fetched_at": "2026-03-17T12:36:49.800Z",
+    "fetched_at": "2026-03-17T18:41:46.175Z",
     "raw": {
       "slug": "remote-senior-software-engineer-karpenter-cast-ai-1130741",
       "id": "1130741",
@@ -2478,7 +2825,7 @@
       "engineer"
     ],
     "posted_at": "2026-03-12T13:00:02+00:00",
-    "fetched_at": "2026-03-17T12:36:49.800Z",
+    "fetched_at": "2026-03-17T18:41:46.176Z",
     "raw": {
       "slug": "remote-senior-software-engineer-reporting-cast-ai-1130742",
       "id": "1130742",
@@ -2536,7 +2883,7 @@
       "legal"
     ],
     "posted_at": "2026-03-12T08:00:15+00:00",
-    "fetched_at": "2026-03-17T12:36:49.801Z",
+    "fetched_at": "2026-03-17T18:41:46.177Z",
     "raw": {
       "slug": "remote-cfo-marathon-talent-1130739",
       "id": "1130739",
@@ -2619,7 +2966,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-12T08:00:09+00:00",
-    "fetched_at": "2026-03-17T12:36:49.802Z",
+    "fetched_at": "2026-03-17T18:41:46.178Z",
     "raw": {
       "slug": "remote-senior-backend-engineer-pavago-1130738",
       "id": "1130738",
@@ -2689,7 +3036,7 @@
       "recruitment"
     ],
     "posted_at": "2026-03-12T08:00:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.803Z",
+    "fetched_at": "2026-03-17T18:41:46.179Z",
     "raw": {
       "slug": "remote-uk-support-specialist-substack-1130737",
       "id": "1130737",
@@ -2734,7 +3081,7 @@
     "tech_stack": [],
     "tags": [],
     "posted_at": "2026-03-12T00:01:28+00:00",
-    "fetched_at": "2026-03-17T12:36:49.803Z",
+    "fetched_at": "2026-03-17T18:41:46.180Z",
     "raw": {
       "slug": "remote-human-resources-engagement-partner-abbyy-1130736",
       "id": "1130736",
@@ -2804,7 +3151,7 @@
       "apache"
     ],
     "posted_at": "2026-03-12T00:01:18+00:00",
-    "fetched_at": "2026-03-17T12:36:49.804Z",
+    "fetched_at": "2026-03-17T18:41:46.181Z",
     "raw": {
       "slug": "remote-senior-software-engineer-data-platform-zus-health-1130735",
       "id": "1130735",
@@ -2865,7 +3212,7 @@
       "legal"
     ],
     "posted_at": "2026-03-12T00:01:10+00:00",
-    "fetched_at": "2026-03-17T12:36:49.805Z",
+    "fetched_at": "2026-03-17T18:41:46.182Z",
     "raw": {
       "slug": "remote-corporate-associate-ecvc-scale-llp-1130734",
       "id": "1130734",
@@ -2918,7 +3265,7 @@
       "recruiting"
     ],
     "posted_at": "2026-03-12T00:00:59+00:00",
-    "fetched_at": "2026-03-17T12:36:49.806Z",
+    "fetched_at": "2026-03-17T18:41:46.183Z",
     "raw": {
       "slug": "remote-recruiting-coordinator-zocalo-health-1130733",
       "id": "1130733",
@@ -2972,7 +3319,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-12T00:00:49+00:00",
-    "fetched_at": "2026-03-17T12:36:49.806Z",
+    "fetched_at": "2026-03-17T18:41:46.184Z",
     "raw": {
       "slug": "remote-manager-revenue-accounting-boulevard-1130732",
       "id": "1130732",
@@ -3027,7 +3374,7 @@
       "full-time"
     ],
     "posted_at": "2026-03-12T00:00:38+00:00",
-    "fetched_at": "2026-03-17T12:36:49.807Z",
+    "fetched_at": "2026-03-17T18:41:46.186Z",
     "raw": {
       "slug": "remote-data-analyst-marketing-architects-1130731",
       "id": "1130731",
@@ -3085,7 +3432,7 @@
       "engineering"
     ],
     "posted_at": "2026-03-12T00:00:30+00:00",
-    "fetched_at": "2026-03-17T12:36:49.808Z",
+    "fetched_at": "2026-03-17T18:41:46.186Z",
     "raw": {
       "slug": "remote-contract-data-architect-the-motley-fool-1130730",
       "id": "1130730",
@@ -3140,7 +3487,7 @@
       "recruitment"
     ],
     "posted_at": "2026-03-12T00:00:19+00:00",
-    "fetched_at": "2026-03-17T12:36:49.808Z",
+    "fetched_at": "2026-03-17T18:41:46.187Z",
     "raw": {
       "slug": "remote-people-operations-specialist-orcrist-technologies-1130729",
       "id": "1130729",
@@ -3197,7 +3544,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-12T00:00:08+00:00",
-    "fetched_at": "2026-03-17T12:36:49.809Z",
+    "fetched_at": "2026-03-17T18:41:46.188Z",
     "raw": {
       "slug": "remote-director-planning-analytics-temporal-technologies-1130728",
       "id": "1130728",
@@ -3257,7 +3604,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-11T21:00:05+00:00",
-    "fetched_at": "2026-03-17T12:36:49.809Z",
+    "fetched_at": "2026-03-17T18:41:46.188Z",
     "raw": {
       "slug": "remote-senior-technical-game-designer-thats-no-moon-entertainment-1130727",
       "id": "1130727",
@@ -3309,7 +3656,7 @@
       "educational"
     ],
     "posted_at": "2026-03-11T19:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.810Z",
+    "fetched_at": "2026-03-17T18:41:46.189Z",
     "raw": {
       "slug": "remote-benefit-verification-pharmacy-technician-shields-health-solutions-1130726",
       "id": "1130726",
@@ -3359,7 +3706,7 @@
       "sales"
     ],
     "posted_at": "2026-03-11T16:00:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.810Z",
+    "fetched_at": "2026-03-17T18:41:46.190Z",
     "raw": {
       "slug": "remote-infrastructure-manager-andromeda-cluster-1130725",
       "id": "1130725",
@@ -3415,7 +3762,7 @@
       "non tech"
     ],
     "posted_at": "2026-03-11T08:00:11+00:00",
-    "fetched_at": "2026-03-17T12:36:49.811Z",
+    "fetched_at": "2026-03-17T18:41:46.191Z",
     "raw": {
       "slug": "remote-assistant-pricing-manager-restaurant-supply-1130724",
       "id": "1130724",
@@ -3467,7 +3814,7 @@
       "technical"
     ],
     "posted_at": "2026-03-11T06:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.811Z",
+    "fetched_at": "2026-03-17T18:41:46.192Z",
     "raw": {
       "slug": "remote-ai-training-for-igbo-writers-remotasks-1130723",
       "id": "1130723",
@@ -3518,7 +3865,7 @@
       "android"
     ],
     "posted_at": "2026-03-11T00:00:26+00:00",
-    "fetched_at": "2026-03-17T12:36:49.812Z",
+    "fetched_at": "2026-03-17T18:41:46.192Z",
     "raw": {
       "slug": "remote-staff-threat-intelligence-researcher-lookout-inc-1130722",
       "id": "1130722",
@@ -3569,7 +3916,7 @@
       "non tech"
     ],
     "posted_at": "2026-03-11T00:00:08+00:00",
-    "fetched_at": "2026-03-17T12:36:49.812Z",
+    "fetched_at": "2026-03-17T18:41:46.193Z",
     "raw": {
       "slug": "remote-chw-manager-zocalo-health-1130721",
       "id": "1130721",
@@ -3620,7 +3967,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-10T22:00:45+00:00",
-    "fetched_at": "2026-03-17T12:36:49.813Z",
+    "fetched_at": "2026-03-17T18:41:46.193Z",
     "raw": {
       "slug": "remote-lead-level-designer-eleventh-hour-games-1130720",
       "id": "1130720",
@@ -3673,7 +4020,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-10T22:00:35+00:00",
-    "fetched_at": "2026-03-17T12:36:49.813Z",
+    "fetched_at": "2026-03-17T18:41:46.194Z",
     "raw": {
       "slug": "remote-senior-level-designer-eleventh-hour-games-1130719",
       "id": "1130719",
@@ -3725,7 +4072,7 @@
       "lead"
     ],
     "posted_at": "2026-03-10T22:00:25+00:00",
-    "fetched_at": "2026-03-17T12:36:49.813Z",
+    "fetched_at": "2026-03-17T18:41:46.194Z",
     "raw": {
       "slug": "remote-narrative-and-world-lead-eleventh-hour-games-1130718",
       "id": "1130718",
@@ -3773,7 +4120,7 @@
       "operations"
     ],
     "posted_at": "2026-03-10T22:00:12+00:00",
-    "fetched_at": "2026-03-17T12:36:49.814Z",
+    "fetched_at": "2026-03-17T18:41:46.195Z",
     "raw": {
       "slug": "remote-procurement-specialist-hardware-blueprint-1130717",
       "id": "1130717",
@@ -3823,7 +4170,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-10T21:00:17+00:00",
-    "fetched_at": "2026-03-17T12:36:49.814Z",
+    "fetched_at": "2026-03-17T18:41:46.195Z",
     "raw": {
       "slug": "remote-lead-animator-eleventh-hour-games-1130715",
       "id": "1130715",
@@ -3881,7 +4228,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-10T16:00:07+00:00",
-    "fetched_at": "2026-03-17T12:36:49.815Z",
+    "fetched_at": "2026-03-17T18:41:46.196Z",
     "raw": {
       "slug": "remote-senior-software-engineer-omada-health-1130714",
       "id": "1130714",
@@ -3941,7 +4288,7 @@
       "sales"
     ],
     "posted_at": "2026-03-10T16:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.816Z",
+    "fetched_at": "2026-03-17T18:41:46.197Z",
     "raw": {
       "slug": "remote-territory-sales-representative-green-grass-southeast-trackman-a-s-1130713",
       "id": "1130713",
@@ -3994,7 +4341,7 @@
       "healthcare"
     ],
     "posted_at": "2026-03-10T13:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.816Z",
+    "fetched_at": "2026-03-17T18:41:46.198Z",
     "raw": {
       "slug": "remote-customer-service-representative-member-care-sidecar-health-1130711",
       "id": "1130711",
@@ -4047,7 +4394,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-10T10:00:06+00:00",
-    "fetched_at": "2026-03-17T12:36:49.817Z",
+    "fetched_at": "2026-03-17T18:41:46.198Z",
     "raw": {
       "slug": "remote-design-intern-summer-2026-betterhelp-1130710",
       "id": "1130710",
@@ -4100,7 +4447,7 @@
       "operational"
     ],
     "posted_at": "2026-03-10T09:00:06+00:00",
-    "fetched_at": "2026-03-17T12:36:49.817Z",
+    "fetched_at": "2026-03-17T18:41:46.199Z",
     "raw": {
       "slug": "remote-restaurant-account-manager-sharebite-1130709",
       "id": "1130709",
@@ -4155,7 +4502,7 @@
       "health"
     ],
     "posted_at": "2026-03-10T08:00:17+00:00",
-    "fetched_at": "2026-03-17T12:36:49.819Z",
+    "fetched_at": "2026-03-17T18:41:46.200Z",
     "raw": {
       "slug": "remote-journeyperson-electrician-rising-edge-group-1130708",
       "id": "1130708",
@@ -4219,7 +4566,7 @@
       "engineering"
     ],
     "posted_at": "2026-03-10T08:00:11+00:00",
-    "fetched_at": "2026-03-17T12:36:49.820Z",
+    "fetched_at": "2026-03-17T18:41:46.201Z",
     "raw": {
       "slug": "remote-solutions-analytics-data-scientist-sentilink-1130707",
       "id": "1130707",
@@ -4274,7 +4621,7 @@
       "software"
     ],
     "posted_at": "2026-03-10T06:00:23+00:00",
-    "fetched_at": "2026-03-17T12:36:49.820Z",
+    "fetched_at": "2026-03-17T18:41:46.202Z",
     "raw": {
       "slug": "remote-director-of-community-alx-africa-1130705",
       "id": "1130705",
@@ -4326,7 +4673,7 @@
       "technical"
     ],
     "posted_at": "2026-03-10T00:01:14+00:00",
-    "fetched_at": "2026-03-17T12:36:49.821Z",
+    "fetched_at": "2026-03-17T18:41:46.202Z",
     "raw": {
       "slug": "remote-data-scientist-iv-goguardian-1130703",
       "id": "1130703",
@@ -4374,7 +4721,7 @@
       "engineer"
     ],
     "posted_at": "2026-03-10T00:01:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.822Z",
+    "fetched_at": "2026-03-17T18:41:46.202Z",
     "raw": {
       "slug": "remote-senior-sales-engineer-majors-west-datadog-1130702",
       "id": "1130702",
@@ -4438,7 +4785,7 @@
       "full-time"
     ],
     "posted_at": "2026-03-10T00:00:56+00:00",
-    "fetched_at": "2026-03-17T12:36:49.824Z",
+    "fetched_at": "2026-03-17T18:41:46.204Z",
     "raw": {
       "slug": "remote-director-product-management-orasure-technologies-inc-1130701",
       "id": "1130701",
@@ -4507,7 +4854,7 @@
       "non tech"
     ],
     "posted_at": "2026-03-10T00:00:49+00:00",
-    "fetched_at": "2026-03-17T12:36:49.824Z",
+    "fetched_at": "2026-03-17T18:41:46.205Z",
     "raw": {
       "slug": "remote-senior-configuration-analyst-gravie-1130700",
       "id": "1130700",
@@ -4564,7 +4911,7 @@
       "health"
     ],
     "posted_at": "2026-03-10T00:00:42+00:00",
-    "fetched_at": "2026-03-17T12:36:49.825Z",
+    "fetched_at": "2026-03-17T18:41:46.205Z",
     "raw": {
       "slug": "remote-manager-strategic-partnerships-mural-health-1130699",
       "id": "1130699",
@@ -4624,7 +4971,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-10T00:00:27+00:00",
-    "fetched_at": "2026-03-17T12:36:49.825Z",
+    "fetched_at": "2026-03-17T18:41:46.206Z",
     "raw": {
       "slug": "remote-staff-automation-engineer-internal-audit-ionq-1130698",
       "id": "1130698",
@@ -4676,7 +5023,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-10T00:00:18+00:00",
-    "fetched_at": "2026-03-17T12:36:49.826Z",
+    "fetched_at": "2026-03-17T18:41:46.206Z",
     "raw": {
       "slug": "remote-temp-clinical-product-lead-headspace-1130697",
       "id": "1130697",
@@ -4727,7 +5074,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-10T00:00:06+00:00",
-    "fetched_at": "2026-03-17T12:36:49.826Z",
+    "fetched_at": "2026-03-17T18:41:46.207Z",
     "raw": {
       "slug": "remote-security-intern-ezcater-inc-1130696",
       "id": "1130696",
@@ -4786,7 +5133,7 @@
       "lead"
     ],
     "posted_at": "2026-03-09T22:00:13+00:00",
-    "fetched_at": "2026-03-17T12:36:49.827Z",
+    "fetched_at": "2026-03-17T18:41:46.207Z",
     "raw": {
       "slug": "remote-rigging-technical-artist-nba-2k-2k-1130695",
       "id": "1130695",
@@ -4865,7 +5212,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-09T18:00:23+00:00",
-    "fetched_at": "2026-03-17T12:36:49.827Z",
+    "fetched_at": "2026-03-17T18:41:46.208Z",
     "raw": {
       "slug": "remote-senior-software-engineer-python-django-postgresql-and-vue-js-ghx-1130694",
       "id": "1130694",
@@ -4932,7 +5279,7 @@
       "engineering"
     ],
     "posted_at": "2026-03-09T18:00:06+00:00",
-    "fetched_at": "2026-03-17T12:36:49.828Z",
+    "fetched_at": "2026-03-17T18:41:46.208Z",
     "raw": {
       "slug": "remote-head-of-forward-deployment-engineering-parloa-1130693",
       "id": "1130693",
@@ -4990,7 +5337,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-09T17:00:06+00:00",
-    "fetched_at": "2026-03-17T12:36:49.829Z",
+    "fetched_at": "2026-03-17T18:41:46.209Z",
     "raw": {
       "slug": "remote-customer-support-specialist-cofactr-1130692",
       "id": "1130692",
@@ -5051,7 +5398,7 @@
       "executive"
     ],
     "posted_at": "2026-03-09T12:00:02+00:00",
-    "fetched_at": "2026-03-17T12:36:49.830Z",
+    "fetched_at": "2026-03-17T18:41:46.210Z",
     "raw": {
       "slug": "remote-executive-brand-operations-gate-1130691",
       "id": "1130691",
@@ -5129,7 +5476,7 @@
       "GitHub Actions"
     ],
     "posted_at": "2026-03-09T10:34:28+00:00",
-    "fetched_at": "2026-03-17T12:36:49.831Z",
+    "fetched_at": "2026-03-17T18:41:46.211Z",
     "raw": {
       "slug": "remote-senior-python-backend-engineer-mission-critical-amstar-curacao-1130690",
       "id": "1130690",
@@ -5195,7 +5542,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-09T09:00:04+00:00",
-    "fetched_at": "2026-03-17T12:36:49.831Z",
+    "fetched_at": "2026-03-17T18:41:46.212Z",
     "raw": {
       "slug": "remote-frontend-engineer-ii-core-product-pulley-1130687",
       "id": "1130687",
@@ -5253,7 +5600,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-03-09T08:00:05+00:00",
-    "fetched_at": "2026-03-17T12:36:49.832Z",
+    "fetched_at": "2026-03-17T18:41:46.212Z",
     "raw": {
       "slug": "remote-security-engineer-exodus-movement-inc-1130686",
       "id": "1130686",
@@ -5307,7 +5654,7 @@
       "non tech"
     ],
     "posted_at": "2026-03-09T08:00:03+00:00",
-    "fetched_at": "2026-03-17T12:36:49.833Z",
+    "fetched_at": "2026-03-17T18:41:46.213Z",
     "raw": {
       "slug": "remote-training-assessment-assessor-hunt-st-1130685",
       "id": "1130685",
@@ -5332,360 +5679,6 @@
       "salary_max": 0,
       "logo": "",
       "url": "https://remoteOK.com/remote-jobs/remote-training-assessment-assessor-hunt-st-1130685"
-    }
-  },
-  {
-    "id": "remoteok:1130684",
-    "platform": "remoteok",
-    "external_id": "1130684",
-    "title": "Product Operations Lead",
-    "company": "Alpaca",
-    "description": "Who We Are: Alpaca is a US-headquartered self-clearing broker-dealer and brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. Our&nbsp; recent Series D funding round brought our total investment to over $320 million, fueling our ambitious vision. Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 9 million brokerage accounts. Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of&nbsp; opening financial services to everyone on the planet . We're deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it. Alpaca is proudly backed by top-tier global investors, including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Unbound, SBI Group, Derayah Financial, Elefund, and Y Combinator. &nbsp; Our Team Members: We're a dynamic team of 230+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond! We're searching for passionate individuals eager to contribute to Alpaca's rapid growth. If you align with our core valuesâStay Curious, Have Empathy, and Be Accountableâand are ready to make a significant impact, we encourage you to apply. &nbsp; &nbsp; Your Role : Fix Alpaca's operational bottlenecks for scale.&nbsp; Your mission is to own and break the cycle of operational debt by transforming high-risk bottlenecks into automated, scalable solutions. You will operate as the critical bridge, ensuring Alpaca's ambitions are balanced against operational reality to secure the foundation for parabolic growth.&nbsp; Things You Get To Do: Own Structural Bottlenecks: Own the product roadmap for Alpaca's internal workflows and tooling. Drive root cause analysis and execute on the most complex and high-risk operational problems (e.g. AML/KYC workflows, reconciliations, corporate actions, cost basis processing, tax reporting, and security master/reference data management) Automation Strategy: Design systems and leverage internal tooling, AI, and workflow orchestration, so existing operations teams can support 100x growth. Eliminate critical failure modes by automating core workflows.&nbsp; Delivery &amp; Measurement: Define clear success metrics and SLAs. Write crisp specifications, map processes, and work cross-functionally to sh Please mention the word **THOUGHTFUL** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-product-operations-lead-alpaca-1130684",
-    "salary_min": 0,
-    "salary_max": 0,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": null,
-    "experience_level": "lead",
-    "location": "Remote - Americas",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "spark"
-    ],
-    "tags": [
-      "design",
-      "crypto",
-      "security",
-      "support",
-      "financial",
-      "investment",
-      "api",
-      "lead",
-      "operations",
-      "operational",
-      "digital nomad"
-    ],
-    "posted_at": "2026-03-09T07:00:07+00:00",
-    "fetched_at": "2026-03-17T12:36:49.833Z",
-    "raw": {
-      "slug": "remote-product-operations-lead-alpaca-1130684",
-      "id": "1130684",
-      "epoch": 1773039607,
-      "date": "2026-03-09T07:00:07+00:00",
-      "company": "Alpaca",
-      "company_logo": "",
-      "position": "Product Operations Lead",
-      "tags": [
-        "design",
-        "crypto",
-        "security",
-        "support",
-        "financial",
-        "investment",
-        "api",
-        "lead",
-        "operations",
-        "operational",
-        "digital nomad"
-      ],
-      "description": "<p><strong>Who We Are:</strong></p>\n<p>Alpaca is a US-headquartered self-clearing broker-dealer and brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. Our&nbsp;<a href=\"https://alpaca.markets/blog/alpaca-raises-150-million-at-a-1-15b-valuation-to-build-the-global-standard-for-brokerage-infrastructure/\">recent Series D funding round</a> brought our total investment to over $320 million, fueling our ambitious vision.</p>\n<p>Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 9 million brokerage accounts.</p>\n<p>Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of&nbsp;<strong>opening financial services to everyone on the planet</strong>. We're deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.</p>\n<p>Alpaca is proudly backed by top-tier global investors, including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Unbound, SBI Group, Derayah Financial, Elefund, and Y Combinator.</p>\n<p>&nbsp;</p>\n<p><strong>Our Team Members:</strong></p>\n<p>We're a dynamic team of 230+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!<br><br>We're searching for passionate individuals eager to contribute to Alpaca's rapid growth. If you align with our core valuesâStay Curious, Have Empathy, and Be Accountableâand are ready to make a significant impact, we encourage you to apply.</p></div><div><p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Your Role</strong>:</p>\n<p>Fix Alpaca's operational bottlenecks for scale.&nbsp;</p>\n<p>Your mission is to own and break the cycle of operational debt by transforming high-risk bottlenecks into automated, scalable solutions. You will operate as the critical bridge, ensuring Alpaca's ambitions are balanced against operational reality to secure the foundation for parabolic growth.&nbsp;</p>\n<p><strong>Things You Get To Do:</strong></p>\n<ul>\n<li><strong>Own Structural Bottlenecks: </strong>Own the product roadmap for Alpaca's internal workflows and tooling.<strong> </strong>Drive root cause analysis and execute on the most complex and high-risk operational problems (e.g. AML/KYC workflows, reconciliations, corporate actions, cost basis processing, tax reporting, and security master/reference data management)</li>\n<li><strong>Automation Strategy:</strong> Design systems and leverage internal tooling, AI, and workflow orchestration, so existing operations teams can support 100x growth. Eliminate critical failure modes by automating core workflows.&nbsp;</li>\n<li><strong>Delivery &amp; Measurement:</strong> Define clear success metrics and SLAs. Write crisp specifications, map processes, and work cross-functionally to sh<br/><br/>Please mention the word **THOUGHTFUL** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "location": "Remote - Americas",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-product-operations-lead-alpaca-1130684",
-      "salary_min": 0,
-      "salary_max": 0,
-      "logo": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-operations-lead-alpaca-1130684"
-    }
-  },
-  {
-    "id": "remoteok:1130679",
-    "platform": "remoteok",
-    "external_id": "1130679",
-    "title": "Staff DevOps Engineer",
-    "company": "Crunchyroll, LLC",
-    "description": "About Crunchyroll Founded by fans, Crunchyroll delivers the art and culture of anime to a passionate community. We super-serve over 100 million anime and manga fans across 200+ countries and territories, and help them connect with the stories and characters they crave. Whether that experience is online or in-person, streaming video, theatrical, games, merchandise, events and more, it's powered by the anime content we all love. Join our team, and help us shape the future of anime! About the Team At Crunchyroll, our Cloud Reliability team within the Infrastructure Engineering team forms the foundation on which our services are built and directly influence our customer experience and the velocity of our engineers. Our team focus is to ensure that our developers are enabled, self-service, that everything about our infrastructure is automated and that our services are highly reliable and scalable. Cloud Reliability team members will engage directly with development teams on helping them become empowered and effective at delivering on our Infrastructure. About the role As a Staff DevOps Engineer within the Infrastructure Engineering team, you are essential in automating and scaling the systems and services that power our streaming platform. You will work with our DevOps team, delivery teams and lead projects related to infrastructure automation, scaling, CICD, driving them forward to completion and ensuring that the platform processes, automation and best practices are being followed. In collaboration with other engineers, you develop tools and systems that support services and facilitate high-quality software delivery and arc Please mention the word **ASSUREDLY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-crunchyroll-llc-1130679",
-    "salary_min": 0,
-    "salary_max": 0,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": null,
-    "experience_level": "lead",
-    "location": "Los Angeles",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "support",
-      "software",
-      "devops",
-      "cloud",
-      "lead",
-      "content",
-      "reliability",
-      "engineer",
-      "engineering"
-    ],
-    "posted_at": "2026-03-07T20:00:19+00:00",
-    "fetched_at": "2026-03-17T12:36:49.834Z",
-    "raw": {
-      "slug": "remote-staff-devops-engineer-crunchyroll-llc-1130679",
-      "id": "1130679",
-      "epoch": 1772913619,
-      "date": "2026-03-07T20:00:19+00:00",
-      "company": "Crunchyroll, LLC",
-      "company_logo": "",
-      "position": "Staff DevOps Engineer",
-      "tags": [
-        "support",
-        "software",
-        "devops",
-        "cloud",
-        "lead",
-        "content",
-        "reliability",
-        "engineer",
-        "engineering"
-      ],
-      "description": "<div><h2 data-pm-slice=\"1 1 []\">About Crunchyroll</h2>\n<p>Founded by fans, Crunchyroll delivers the art and culture of anime to a passionate community. We super-serve over 100 million anime and manga fans across 200+ countries and territories, and help them connect with the stories and characters they crave. Whether that experience is online or in-person, streaming video, theatrical, games, merchandise, events and more, it's powered by the anime content we all love.</p>\n<p>Join our team, and help us shape the future of anime!</p></div><div><h3 data-pm-slice=\"1 1 []\">About the Team</h3>\n<p>At Crunchyroll, our Cloud Reliability team within the Infrastructure Engineering team forms the foundation on which our services are built and directly influence our customer experience and the velocity of our engineers. Our team focus is to ensure that our developers are enabled, self-service, that everything about our infrastructure is automated and that our services are highly reliable and scalable. Cloud Reliability team members will engage directly with development teams on helping them become empowered and effective at delivering on our Infrastructure.</p>\n<h3>About the role</h3>\n<p>As a Staff DevOps Engineer within the Infrastructure Engineering team, you are essential in automating and scaling the systems and services that power our streaming platform. You will work with our DevOps team, delivery teams and lead projects related to infrastructure automation, scaling, CICD, driving them forward to completion and ensuring that the platform processes, automation and best practices are being followed. In collaboration with other engineers, you develop tools and systems that support services and facilitate high-quality software delivery and arc</p><br/><br/>Please mention the word **ASSUREDLY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "location": "Los Angeles",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-crunchyroll-llc-1130679",
-      "salary_min": 0,
-      "salary_max": 0,
-      "logo": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-crunchyroll-llc-1130679"
-    }
-  },
-  {
-    "id": "remoteok:1130678",
-    "platform": "remoteok",
-    "external_id": "1130678",
-    "title": "Cloud Systems Engineer",
-    "company": "Accenture Federal Services",
-    "description": "At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people.â¯Our 13,000+ people are united in a shared purpose to pursue the limitless potential of technology and ingenuity for clients across defense, national security, public safety, civilian, and military health organizations.Â Join Accenture Federal Services, a technology company within global Accenture. Recognized as a Glassdoor Top 100 Best Place to Work, we offer a collaborative and caring community where you feel like you belong and are empowered to grow, learn and thrive through hands-on experience, certifications, industry training and more.Â Join us to drive positive, lasting change that moves missions and the government forward! Accenture is seeking a Cloud Systems Engineer specializing in AWS GovCloud who will be responsible for designing and implementing AWS infrastructure architecture to meet mission requirements. This person will join our team and support our client near the Orlando, FL area.Â What youâll do: â¢ Design and implement AWS infrastructure architecture based on mission requirements â¢ Configure security groups, Network ACLs, and AWS CLI access and integration â¢ Implement container security controls including image scanning, pod security policies, network policies, and RBAC configurations â¢ Establish GitOps workflows and integrate CI/CD pipelines for containerized application deployments â¢ Configure monitoring, logging, and alerting using AWS CloudWatch, EKS-native tools, and container observability platforms â¢ Optimize infrastructure and container resource utilization through autoscaling, performance tuning, and RDS configuration â¢ Integrate IAM roles, service accounts, and secrets management with infrastructure and container components â¢ Automation of routine tasks with scripting and developing supporting scripts for application implementation and integration â¢ Configure EC2 instances, Auto Scaling, Elastic Load Balancing, and high availability solutions â¢ Design, deploy, and manage Kubernetes (EKS) clusters with proper node groups, networking, and security configurations â¢ Develop and maintain reusable, modular IaC templates (e.g., Terraform) and container orchestration manifests (Helm charts, Kubernetes manifests) â¢ Create documentation, operational runbooks, and troubleshooting guides What youâll need: â¢ 3 years of experience in cloud technologies and platforms, such as AWS, Azure, or other cloud service providers â¢ 3 years implementing, testing, and deploying security services and tools (i.e., antivirus software, vulnerability scanning software, and DISA STIGs) â¢ 1 year of experience architecting information systems for authorization under ICD 503 or DoD Risk Management Framework â¢ Experience with Kubernetes â¢ DoD 8570 Compliant with IAT Level 2 certification Bonus points if you have: â¢ Bachelorâs Degree in Technical Discipline â¢ AWS Cloud certifications, such as AWS Solutions Architect or AWS Security Specialty â¢ Assessment and Authorization experience in a related industry (experience owning a program/product/feature, scoping requirements, and working with technical teams) â¢ Familiarity with the processes and documentation required to articulate the appropriate syst Please mention the word **DISTINGUISHED** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-cloud-systems-engineer-accenture-federal-services-1130678",
-    "salary_min": 0,
-    "salary_max": 0,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": null,
-    "experience_level": "lead",
-    "location": "Tampa, FL",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "nodejs",
-      "aws",
-      "azure",
-      "kubernetes",
-      "terraform",
-      "helm"
-    ],
-    "tags": [
-      "design",
-      "security",
-      "training",
-      "architect",
-      "technical",
-      "support",
-      "cloud",
-      "node",
-      "management",
-      "operational",
-      "health",
-      "engineer",
-      "digital nomad"
-    ],
-    "posted_at": "2026-03-07T20:00:08+00:00",
-    "fetched_at": "2026-03-17T12:36:49.834Z",
-    "raw": {
-      "slug": "remote-cloud-systems-engineer-accenture-federal-services-1130678",
-      "id": "1130678",
-      "epoch": 1772913608,
-      "date": "2026-03-07T20:00:08+00:00",
-      "company": "Accenture Federal Services",
-      "company_logo": "",
-      "position": "Cloud Systems Engineer",
-      "tags": [
-        "design",
-        "security",
-        "training",
-        "architect",
-        "technical",
-        "support",
-        "cloud",
-        "node",
-        "management",
-        "operational",
-        "health",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": "At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people.â¯Our 13,000+ people are united in a shared purpose to pursue the limitless potential of technology and ingenuity for clients across defense, national security, public safety, civilian, and military health organizations.Â \n\nJoin Accenture Federal Services, a technology company within global Accenture. Recognized as a Glassdoor Top 100 Best Place to Work, we offer a collaborative and caring community where you feel like you belong and are empowered to grow, learn and thrive through hands-on experience, certifications, industry training and more.Â \n\nJoin us to drive positive, lasting change that moves missions and the government forward!\n\nAccenture is seeking a Cloud Systems Engineer specializing in AWS GovCloud who will be responsible for designing and implementing AWS infrastructure architecture to meet mission requirements. This person will join our team and support our client near the Orlando, FL area.Â \n\nWhat youâll do: \nâ¢ Design and implement AWS infrastructure architecture based on mission requirements\nâ¢ Configure security groups, Network ACLs, and AWS CLI access and integration\nâ¢ Implement container security controls including image scanning, pod security policies, network policies, and RBAC configurations\nâ¢ Establish GitOps workflows and integrate CI/CD pipelines for containerized application deployments\nâ¢ Configure monitoring, logging, and alerting using AWS CloudWatch, EKS-native tools, and container observability platforms\nâ¢ Optimize infrastructure and container resource utilization through autoscaling, performance tuning, and RDS configuration\nâ¢ Integrate IAM roles, service accounts, and secrets management with infrastructure and container components\nâ¢ Automation of routine tasks with scripting and developing supporting scripts for application implementation and integration\nâ¢ Configure EC2 instances, Auto Scaling, Elastic Load Balancing, and high availability solutions\nâ¢ Design, deploy, and manage Kubernetes (EKS) clusters with proper node groups, networking, and security configurations\nâ¢ Develop and maintain reusable, modular IaC templates (e.g., Terraform) and container orchestration manifests (Helm charts, Kubernetes manifests)\nâ¢ Create documentation, operational runbooks, and troubleshooting guides\n\nWhat youâll need: \nâ¢ 3 years of experience in cloud technologies and platforms, such as AWS, Azure, or other cloud service providers\nâ¢ 3 years implementing, testing, and deploying security services and tools (i.e., antivirus software, vulnerability scanning software, and DISA STIGs)\nâ¢ 1 year of experience architecting information systems for authorization under ICD 503 or DoD Risk Management Framework\nâ¢ Experience with Kubernetes\nâ¢ DoD 8570 Compliant with IAT Level 2 certification\n\nBonus points if you have: \nâ¢ Bachelorâs Degree in Technical Discipline\nâ¢ AWS Cloud certifications, such as AWS Solutions Architect or AWS Security Specialty\nâ¢ Assessment and Authorization experience in a related industry (experience owning a program/product/feature, scoping requirements, and working with technical teams)\nâ¢ Familiarity with the processes and documentation required to articulate the appropriate syst<br/><br/>Please mention the word **DISTINGUISHED** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "location": "Tampa, FL",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-cloud-systems-engineer-accenture-federal-services-1130678",
-      "salary_min": 0,
-      "salary_max": 0,
-      "logo": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-systems-engineer-accenture-federal-services-1130678"
-    }
-  },
-  {
-    "id": "remoteok:1130676",
-    "platform": "remoteok",
-    "external_id": "1130676",
-    "title": "Engineering Manager Accelerator Platform",
-    "company": "Anthropic",
-    "description": "About Anthropic Anthropic's mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the Role Every time someone talks to Claude -- through the API, claude.ai , our cloud partners, or any of our expanding surfaces -- the request lands on an AI accelerator.&nbsp; Not one kind, many kinds: TPUs, Trainium chips, GPUs.&nbsp; Each arrives with its own software stack, performance characteristics, failure modes, and operational quirks.&nbsp; Someone has to take raw silicon and turn it into a platform that the rest of Anthropic can build on without thinking about which chip is underneath.&nbsp; That's us. The Accelerator Platform team owns the bringup and normalization of new hardware platforms for Anthropic's first party inference fleet.&nbsp; We sit between the low-level systems teams and the serving infrastructure that runs production inference -- bridging the gap so that every new accelerator generation ships as a first-class production platform.&nbsp; It's deeply technical work at the intersection of hardware enablement, di Please mention the word **FERVOR** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-accelerator-platform-anthropic-1130676",
-    "salary_min": 0,
-    "salary_max": 0,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": null,
-    "experience_level": "lead",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "llm"
-    ],
-    "tags": [
-      "manager",
-      "technical",
-      "software",
-      "cloud",
-      "operational",
-      "engineering"
-    ],
-    "posted_at": "2026-03-07T13:00:12+00:00",
-    "fetched_at": "2026-03-17T12:36:49.835Z",
-    "raw": {
-      "slug": "remote-engineering-manager-accelerator-platform-anthropic-1130676",
-      "id": "1130676",
-      "epoch": 1772888412,
-      "date": "2026-03-07T13:00:12+00:00",
-      "company": "Anthropic",
-      "company_logo": "",
-      "position": "Engineering Manager Accelerator Platform",
-      "tags": [
-        "manager",
-        "technical",
-        "software",
-        "cloud",
-        "operational",
-        "engineering"
-      ],
-      "description": "<div><h2><strong>About Anthropic</strong></h2>\n<p>Anthropic's mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div><h2 class=\"heading\">About the Role</h2>\n<p>Every time someone talks to Claude -- through the API, <a class=\"text-accent-secondary-100 underline\" href=\"http://claude.ai\" target=\"_blank\">claude.ai</a>, our cloud partners, or any of our expanding surfaces -- the request lands on an AI accelerator.&nbsp; Not one kind, many kinds: TPUs, Trainium chips, GPUs.&nbsp; Each arrives with its own software stack, performance characteristics, failure modes, and operational quirks.&nbsp; Someone has to take raw silicon and turn it into a platform that the rest of Anthropic can build on without thinking about which chip is underneath.&nbsp; That's us.</p>\n<p>The Accelerator Platform team owns the bringup and normalization of new hardware platforms for Anthropic's first party inference fleet.&nbsp; We sit between the low-level systems teams and the serving infrastructure that runs production inference -- bridging the gap so that every new accelerator generation ships as a first-class production platform.&nbsp; It's deeply technical work at the intersection of hardware enablement, di<br/><br/>Please mention the word **FERVOR** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-accelerator-platform-anthropic-1130676",
-      "salary_min": 0,
-      "salary_max": 0,
-      "logo": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-accelerator-platform-anthropic-1130676"
-    }
-  },
-  {
-    "id": "remoteok:1130673",
-    "platform": "remoteok",
-    "external_id": "1130673",
-    "title": "Senior DevOps Engineer",
-    "company": "ChowNow ",
-    "description": "Are you looking for an opportunity to put your deep experience with AWS to use? Are you eager to contribute to the shaping and direction of a DevOps team? Do you love the challenge of removing bottlenecks in development and deployment processes? If scalability and stability are your thing, then we may have the perfect opportunity for you.&nbsp; About Us: ChowNow is one of the leading players in off-premise restaurant technology. As takeout becomes a vital revenue stream for independent restaurants, our platform helps owners focus on what they do bestâserving great foodâby offering solutions across the entire digital dining experience. From building branded websites and mobile apps, to powering online orders, managing menus, consolidating delivery, and running targeted marketing, we give restaurants the tools to grow on their own terms. We support over 20,000 restaurants across North America , helping process $1B+ in gross food sales while saving our partners over $700M in third-party commission fees . Through our white-label ordering solutions, a growing demand network (including Google, Yelp, Apple, and Snap), and a diner-friendly marketplace, we empower independent restaurants to own their customer relationships and avoid inflated pricing and fees charged by 3rd party delivery apps like Uber and Doordash.&nbsp; Founded in 2012, weâve navigated rapid growth and transformationâfrom startup roots through the pandemic boomâand are now beginning an exciting new era under our CEO, Kanika Soni . As we evolve with new leadership and cutting-edge tools, weâre deepening our commitment to helping local restaurants thrive in the digital economy. About the Position: As a Senior DevOps Engineer at ChowNow, you will be specifically responsible for building, improving, and growing our technology infrastructure. You will help design and implement reproducible processes in the enterprise environment as well as support the application production environment. You will own and support engineering user-facing technology as well as share responsibility for supporting the production operations. This is a remote position located in the United States, and will report to an Engineering Manager; No direct reports. This is a remote role based in the United States. Please note: ChowNow is not eligible to employ in every state and the recruiting team will confirm location and eligibility before moving past initial stages. What We Love About You: You put restaurants first. You deeply understand the importance of local restaurants and put them at the center of everything you do. You aim to help them not only survive but thrive. You celebrate diversity. You recognize that diversity and inclusivity matter. Youâre committed to progress, which means everyone gets the support and resources they need, no matter who they are.&nbsp; You have an ability to listen to other team members' ideas and can thrive in an environment that embraces individuality. Everyoneâs voice counts. You raise your hand. You consistently go above and beyond what is asked of you. You help your peers accomplish their tasks while also excelling at accomplishing your own. When you have a smart idea, you raise your hand and share it. You keep reaching. You set clear ambitious goals. You donât allow yourself to become complacent with where youâre at and what youâve done, so you seek out new opportunities and challenges. What Success Looks Like: \\n Within 30 days, youâllâ¦ Progress through our Ramp Camp (ChowNowâs New Hire Onboarding Experience) You will begin to learn and contribute to our development and deployment patterns. You will begin contributing to our release process, log analysis, security patching, AWS infrastructure management, and high availability by advancing our Terraform and Ansible codebase through writing code and documentation. Within 60 days, youâllâ¦ Participate with engineering leadership to plan the prioritized roadmap of DevOps and Infrastructure projects. Have a command of infrastructure tools and processes, and be able to contribute to refining them. Share responsibility for defining, sharing, and achieving team and individual KPI goals. Within 90 days, youâllâ¦ Contribute to the technology architecture review board. Be a knowledge leader, contributing, teaching, and continuing to learn. Be able to take active part in shaping DevOps roadmap by proposing new projects and defining priorities and initiatives You Should Apply If: 3+ years of experience with DevOps practices 5+ years of overall infrastructure management experience 3+ years AWS experience, including but not limited to EC2, RDS, Lambda, and ECS/Fargate Experience operating container-based workloads Proficiency in at least one programming language, Python preferred Solid understanding of Linux operating systems, ideally RedHat/CentOS/Amazon Linux, and networking fundamentals. Solid foundation in security principles and best practices Solid knowledge of at least one of the major configuration management and automation frameworks (Terraform and Ansible preferred) Hands on experience running highly available MySQL, PostgreSQL, ElasticSearch, or Redis Hands on experience setting up and maintaining monitoring, alerting and logging solution Experience building CI/CD pipelines, qa/development environments and related tooling Experience creating scalable systems, preferably in e-commerce or consumer-facing websites Enthusiastic contributor to high-level architecture About Our Benefits: Expected Base Salary Range: $169,725 - $200,540 depending on candidate location and experience Ongoing training and growth opportunities. A \"Best Place to Work\" winner multiple times where we focus on creating a great employee experience. Rock solid medical, dental, and vision plans. Mental Health Coverage - we offer several programs to support your mental health and wellness goals. Unlimited Paid Vacation. We expect you to work hard, but still enjoy your personal life 7 weeks of baby bonding time for all new parents (within the first year of birth or adoption), 8 Weeks of Paid Pregnancy Leave. 401(k) Matching Employer-contributing student loan assistance program or continuing education reimbursement program Employee Stock Incentive Plan. Pet insurance for your fur babies Consistent &amp; fair leadership: weâll share info, set clear goals, show you respect, and treat everyone fairly. Enough freedom to spread your wings while still holding you accountable. \\n The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. This is not intended to be an exhaustive list of all responsibilities, duties and skills required. As one of ChowNowâs core values, âCelebrates Diversityâ, we are committed to an inclusive and diverse work environment. ChowNow is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.&nbsp; We are committed to developing a barrier-free recruitment process and work environment, if you require any accommodation, please let us know at your earliest convenience and weâll work with you to meet your accessibility needs. Information Regarding Recruiting Scams: ChowNow does not engage in outreach to prospective candidates by text message about employment opportunities, interviews, or employment offers, and we do not make job offers after only one interview. ChowNow does not ask candidates to submit sensitive personal information (Passport details, banking information, etc.) as part of the interview process. ChowNow employment offers are made by a ChowNow Talent Acquisition team member with a @chownow.com email address only. ChowNow does not ask candidates to provide funds to the company for onboarding, equipment, or supplies. If you receive an employment inquiry or employment offer from a non @chownow.com email address, consider it spam. Read here about your California privacy rights. &nbsp; #Li-Remote Please mention the word **PAINLESSLY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-chownow-1130673",
-    "salary_min": 0,
-    "salary_max": 0,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": null,
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "postgresql",
-      "mysql",
-      "redis",
-      "elasticsearch",
-      "aws",
-      "terraform",
-      "ansible",
-      "linux"
-    ],
-    "tags": [
-      "design",
-      "ansible",
-      "security",
-      "python",
-      "training",
-      "support",
-      "growth",
-      "code",
-      "voice",
-      "devops",
-      "education",
-      "banking",
-      "mobile",
-      "management",
-      "senior",
-      "sales",
-      "go",
-      "health",
-      "recruiting",
-      "engineer",
-      "engineering",
-      "recruitment",
-      "linux",
-      "e-commerce",
-      "digital nomad"
-    ],
-    "posted_at": "2026-03-07T00:01:33+00:00",
-    "fetched_at": "2026-03-17T12:36:49.836Z",
-    "raw": {
-      "slug": "remote-senior-devops-engineer-chownow-1130673",
-      "id": "1130673",
-      "epoch": 1772841693,
-      "date": "2026-03-07T00:01:33+00:00",
-      "company": "ChowNow ",
-      "company_logo": "",
-      "position": "Senior DevOps Engineer",
-      "tags": [
-        "design",
-        "ansible",
-        "security",
-        "python",
-        "training",
-        "support",
-        "growth",
-        "code",
-        "voice",
-        "devops",
-        "education",
-        "banking",
-        "mobile",
-        "management",
-        "senior",
-        "sales",
-        "go",
-        "health",
-        "recruiting",
-        "engineer",
-        "engineering",
-        "recruitment",
-        "linux",
-        "e-commerce",
-        "digital nomad"
-      ],
-      "description": "<p>Are you looking for an opportunity to put your deep experience with AWS to use? Are you eager to contribute to the shaping and direction of a DevOps team? Do you love the challenge of removing bottlenecks in development and deployment processes? If scalability and stability are your thing, then we may have the perfect opportunity for you.&nbsp;</p><p><br></p><p><b>About Us:</b></p><p><br></p><p>ChowNow is one of the leading players in off-premise restaurant technology. As takeout becomes a vital revenue stream for independent restaurants, our platform helps owners focus on what they do bestâserving great foodâby offering solutions across the entire digital dining experience. From building branded websites and mobile apps, to powering online orders, managing menus, consolidating delivery, and running targeted marketing, we give restaurants the tools to grow on their own terms.</p><p><br></p><p>We support over <b>20,000 restaurants across North America</b>, helping process <b>$1B+ in gross food sales </b>while saving our partners over <b>$700M in third-party commission fees</b>. Through our white-label ordering solutions, a growing demand network (including Google, Yelp, Apple, and Snap), and a diner-friendly marketplace, we empower independent restaurants to own their customer relationships and avoid inflated pricing and fees charged by 3rd party delivery apps like Uber and Doordash.&nbsp;</p><p><br></p><p>Founded in 2012, weâve navigated rapid growth and transformationâfrom startup roots through the pandemic boomâand are now beginning an exciting new era under our CEO, <b>Kanika Soni</b>. As we evolve with new leadership and cutting-edge tools, weâre deepening our commitment to helping local restaurants thrive in the digital economy.</p><p><br></p><p><b>About the Position:</b></p><p>As a Senior DevOps Engineer at ChowNow, you will be specifically responsible for building, improving, and growing our technology infrastructure. You will help design and implement reproducible processes in the enterprise environment as well as support the application production environment. You will own and support engineering user-facing technology as well as share responsibility for supporting the production operations.</p><p><br></p><p>This is a remote position located in the United States, and will report to an Engineering Manager; No direct reports.</p><p><br></p><p>This is a remote role based in the United States. <b>Please note:</b> ChowNow is not eligible to employ in every state and the recruiting team will confirm location and eligibility before moving past initial stages.</p><p><br></p><p><b>What We Love About You:</b></p><p><br></p><p><b>You put restaurants first.</b> You deeply understand the importance of local restaurants and put them at the center of everything you do. You aim to help them not only survive but thrive.</p><p><br></p><p><b>You celebrate diversity.</b> You recognize that diversity and inclusivity matter. Youâre committed to progress, which means everyone gets the support and resources they need, no matter who they are.&nbsp; You have an ability to listen to other team members' ideas and can thrive in an environment that embraces individuality. Everyoneâs voice counts.</p><p><br></p><p><b>You raise your hand.</b> You consistently go above and beyond what is asked of you. You help your peers accomplish their tasks while also excelling at accomplishing your own. When you have a smart idea, you raise your hand and share it.</p><p><br></p><p><b>You keep reaching.</b> You set clear ambitious goals. You donât allow yourself to become complacent with where youâre at and what youâve done, so you seek out new opportunities and challenges.</p><p><br></p><p><b>What Success Looks Like: </b></p>\\n<p></p><p><br></p><b>Within 30 days, youâllâ¦</b><ul><li>Progress through our Ramp Camp (ChowNowâs New Hire Onboarding Experience)</li><li>You will begin to learn and contribute to our development and deployment patterns.</li><li>You will begin contributing to our release process, log analysis, security patching, AWS infrastructure management, and high availability by advancing our Terraform and Ansible codebase through writing code and documentation.</li></ul><p><br></p><b>Within 60 days, youâllâ¦</b><ul><li>Participate with engineering leadership to plan the prioritized roadmap of DevOps and Infrastructure projects.</li><li>Have a command of infrastructure tools and processes, and be able to contribute to refining them.</li><li>Share responsibility for defining, sharing, and achieving team and individual KPI goals.</li></ul><p><br></p><b>Within 90 days, youâllâ¦</b><ul><li>Contribute to the technology architecture review board.</li><li>Be a knowledge leader, contributing, teaching, and continuing to learn.</li><li>Be able to take active part in shaping DevOps roadmap by proposing new projects and defining priorities and initiatives</li></ul><p><br></p><b>You Should Apply If:</b><ul><li>3+ years of experience with DevOps practices</li><li>5+ years of overall infrastructure management experience</li><li>3+ years AWS experience, including but not limited to EC2, RDS, Lambda, and ECS/Fargate</li><li>Experience operating container-based workloads</li><li>Proficiency in at least one programming language, Python preferred</li><li>Solid understanding of Linux operating systems, ideally RedHat/CentOS/Amazon Linux, and networking fundamentals.</li><li>Solid foundation in security principles and best practices</li><li>Solid knowledge of at least one of the major configuration management and automation frameworks (Terraform and Ansible preferred)</li><li>Hands on experience running highly available MySQL, PostgreSQL, ElasticSearch, or Redis</li><li>Hands on experience setting up and maintaining monitoring, alerting and logging solution</li><li>Experience building CI/CD pipelines, qa/development environments and related tooling</li><li>Experience creating scalable systems, preferably in e-commerce or consumer-facing websites</li><li>Enthusiastic contributor to high-level architecture</li></ul><p><br></p><b>About Our Benefits:</b><ul><li><b>Expected Base Salary Range:</b> $169,725 - $200,540 depending on candidate location and experience </li><li>Ongoing training and growth opportunities.</li><li>A \"Best Place to Work\" winner multiple times where we focus on creating a great employee experience.</li><li>Rock solid medical, dental, and vision plans.</li><li>Mental Health Coverage - we offer several programs to support your mental health and wellness goals.</li><li>Unlimited Paid Vacation. We expect you to work hard, but still enjoy your personal life</li><li>7 weeks of baby bonding time for all new parents (within the first year of birth or adoption), 8 Weeks of Paid Pregnancy Leave.</li><li>401(k) Matching</li><li>Employer-contributing student loan assistance program or continuing education reimbursement program </li><li>Employee Stock Incentive Plan.</li><li>Pet insurance for your fur babies</li><li>Consistent &amp; fair leadership: weâll share info, set clear goals, show you respect, and treat everyone fairly.</li><li>Enough freedom to spread your wings while still holding you accountable.</li></ul><p><br></p><p></p>\\n<p>The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. This is not intended to be an exhaustive list of all responsibilities, duties and skills required.</p><p><br></p><p>As one of ChowNowâs core values, âCelebrates Diversityâ, we are committed to an inclusive and diverse work environment. ChowNow is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.&nbsp; We are committed to developing a barrier-free recruitment process and work environment, if you require any accommodation, please let us know at your earliest convenience and weâll work with you to meet your accessibility needs.</p><p><br></p><p><b>Information Regarding Recruiting Scams:</b> ChowNow does not engage in outreach to prospective candidates by text message about employment opportunities, interviews, or employment offers, and we do not make job offers after only one interview. ChowNow does not ask candidates to submit sensitive personal information (Passport details, banking information, etc.) as part of the interview process. ChowNow employment offers are made by a ChowNow Talent Acquisition team member with a @chownow.com email address only. ChowNow does not ask candidates to provide funds to the company for onboarding, equipment, or supplies. If you receive an employment inquiry or employment offer from a non @chownow.com email address, consider it spam. </p><p><br></p><p>Read <a rel=\"noopener noreferrer\" class=\"postings-link\" href=\"https://get.chownow.com/california-privacy-rights-act/\">here</a> about your California privacy rights.</p><p>&nbsp;</p><p>#Li-Remote</p><br/><br/>Please mention the word **PAINLESSLY** and tag RMTk5LjE4MC4xMTMuMTQw when applying to show you read the job post completely (#RMTk5LjE4MC4xMTMuMTQw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "location": "Remote",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-chownow-1130673",
-      "salary_min": 0,
-      "salary_max": 0,
-      "logo": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-chownow-1130673"
     }
   }
 ]
