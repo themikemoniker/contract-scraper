@@ -1,7 +1,7 @@
 {
-  "totalJobs": 830,
+  "totalJobs": 828,
   "bySource": {
-    "arbeitnow": 90,
+    "arbeitnow": 88,
     "remoteok": 95,
     "jobicy": 88,
     "remotive": 19,
@@ -11,10 +11,10 @@
     "himalayas": 1
   },
   "byTechStack": {
-    "javascript": 139,
     "typescript": 91,
+    "javascript": 138,
     "python": 183,
-    "react": 160,
+    "react": 159,
     "nodejs": 68,
     "aws": 155,
     "docker": 77,
@@ -23,7 +23,7 @@
     "llm": 40,
     "git": 30,
     "linux": 45,
-    "figma": 13,
+    "figma": 12,
     "azure": 50,
     "bash": 17,
     "sso": 6,
@@ -61,10 +61,6 @@
     "rocket": 3,
     "mlops": 10,
     "snowflake": 11,
-    "ruby": 48,
-    "rails": 44,
-    "react-native": 25,
-    "expo": 3,
     "ansible": 33,
     "helm": 7,
     "selenium": 5,
@@ -73,6 +69,8 @@
     "elasticsearch": 17,
     "airflow": 9,
     "databricks": 10,
+    "ruby": 47,
+    "rails": 43,
     "huggingface": 2,
     "scala": 12,
     "dbt": 4,
@@ -95,6 +93,7 @@
     "jetpack": 2,
     "graphql": 34,
     "express": 13,
+    "react-native": 24,
     "c#": 14,
     "aspnet": 6,
     "rest": 24,
@@ -107,6 +106,7 @@
     "solana": 3,
     "circleci": 4,
     "rspec": 1,
+    "expo": 2,
     "oracle": 8,
     "playwright": 2,
     "nestjs": 6,
@@ -171,32 +171,32 @@
     "sendgrid": 1
   },
   "byContractType": {
+    "freelance": 15,
     "full-time": 648,
     "part-time": 3,
-    "freelance": 15,
     "contract": 8
   },
   "byRemoteType": {
-    "remote": 456,
+    "remote": 460,
     "onsite": 227,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 110,
+    "under50k": 109,
     "50k-100k": 12,
     "100k-150k": 21,
     "150k-200k": 13,
     "over200k": 2,
-    "unknown": 672
+    "unknown": 671
   },
-  "lastUpdated": "2026-03-17T00:57:00.337Z",
+  "lastUpdated": "2026-03-17T06:46:03.590Z",
   "jobsLast7Days": [
     21,
     23,
     19,
     18,
     12,
-    91,
-    0
+    81,
+    8
   ]
 }
