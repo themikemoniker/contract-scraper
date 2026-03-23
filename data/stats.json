@@ -1,15 +1,19 @@
 {
   "totalJobs": 810,
   "bySource": {
-    "arbeitnow": 78,
+    "arbeitnow": 77,
     "remoteok": 94,
     "remotive": 22,
     "jobicy": 91,
     "workingnomads": 19,
     "wwr": 34,
-    "hn": 472
+    "hn": 472,
+    "himalayas": 1
   },
   "byTechStack": {
+    "aws": 141,
+    "kubernetes": 93,
+    "terraform": 51,
     "figma": 17,
     "python": 154,
     "go": 20,
@@ -18,10 +22,7 @@
     "redis": 41,
     "elasticsearch": 19,
     "neo4j": 4,
-    "aws": 141,
     "docker": 75,
-    "kubernetes": 93,
-    "terraform": 51,
     "github-actions": 10,
     "prometheus": 12,
     "grafana": 14,
@@ -46,15 +47,15 @@
     "azure": 43,
     "nginx": 5,
     "backbone": 7,
-    "java": 76,
+    "java": 75,
     "spring": 22,
     "mysql": 35,
     "mongodb": 21,
     "dynamodb": 7,
     "graphql": 44,
-    "kotlin": 22,
-    "react": 169,
-    "flutter": 5,
+    "kotlin": 21,
+    "react": 168,
+    "flutter": 4,
     "php": 20,
     "vue": 34,
     "rabbitmq": 13,
@@ -62,7 +63,6 @@
     "gitlab": 19,
     "datadog": 14,
     "apache": 14,
-    "linux": 39,
     "ethereum": 4,
     "blockchain": 19,
     "solana": 4,
@@ -71,6 +71,7 @@
     "spark": 15,
     "segment": 4,
     "tensorflow": 7,
+    "linux": 38,
     "jest": 5,
     "oracle": 4,
     "objectivec": 6,
@@ -175,26 +176,26 @@
     "contract": 8
   },
   "byRemoteType": {
-    "remote": 450,
+    "remote": 453,
     "onsite": 227,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 104,
+    "under50k": 105,
     "50k-100k": 15,
     "100k-150k": 20,
     "150k-200k": 11,
     "over200k": 3,
-    "unknown": 657
+    "unknown": 656
   },
-  "lastUpdated": "2026-03-23T01:01:34.266Z",
+  "lastUpdated": "2026-03-23T06:54:20.827Z",
   "jobsLast7Days": [
     12,
     19,
     21,
-    28,
-    36,
+    23,
+    35,
     30,
-    0
+    5
   ]
 }
