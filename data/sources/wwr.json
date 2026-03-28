@@ -1,5 +1,57 @@
 [
   {
+    "id": "wwr:close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "platform": "wwr",
+    "external_id": "close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "title": "Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+    "company": "Close",
+    "description": "Headquarters: USA URL: http://www.close.com About Us Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again. &nbsp; We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&nbsp; &nbsp; Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools. &nbsp; Our product development process is inspired by Shape Up . We love open sourcing our code and ideas on our GitHub and on The Making of Close , our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like SocketShark , TaskTiger , LimitLion and ciso8601 . &nbsp; &nbsp; About the Role You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp; Onboarding, Conversations, Messaging &amp; Scheduling, Automations &amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp; frontend engineers, product managers, designers, and other teams here at Close. &nbsp; &nbsp; About You We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features. &nbsp; You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team. Come help us with projects like... Conceiving, designing, building, and launching new user-facing features Implementing new AI features to turbocharge our customers’ daily tasks Improving the performance and scalability of our GraphQL and REST API Improving how we sync millions of sales emails and calendar events each month Working with Twilio's API, WebSockets, and WebRTC to improve our calling features Building user-facing analytics features that provide actionable insights based on sales activity data Improving our Elasticsearch-backed powerful search features Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&nbsp; Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers Enhancing our web app with real-time updates powered by GraphQL Subscriptions Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI Help manage our ever growing data processing needs… Billions of Mongo documents Millions and millions of rows of PostgreSQL data 55 Terabytes of logs / month 500 billion OTEL spans over the last 30 days 10+ million events / day Tens of thousands of docker containers 7 million minutes of call recordings / month Petabytes / month of network traffic Requirements... Senior 1 &amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity. Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python. You have built web APIs that were Internet facing or supported other high volume loads. You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&nbsp; You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&nbsp; You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&nbsp; You care about the craftsmanship of the code and systems you produce. Located in the USA (lower 48 timezones). Bonus point if you have Contributed open source code related to our tech stack. Led small project teams building and launching features. Built B2B SaaS products. Implemented features that leveraged AI to deliver unimaginable new product capabilities. Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks. 🌏 Why Close? Watch our most recent culture video featuring our annual team retreat in Italy 100% remote company 5 weeks PTO + Winter &amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company 1 month paid sabbatical every 5 years Paid parental leave Medical, Dental, Vision with HSA option (US residents) 401k matching at 6% (US residents) Dependent care FSA (US residents) Our story and team 🚀 Our Values Build a house you want to live in -- Examine long-term thinking and action No BS -- Practice transparency and honesty, especially when it’s hard Invest in each other -- Build successful relationships with your coworkers and customers&nbsp; Discipline equals freedom -- Keep your word to yourself and others Strive for greatness -- Constantly challenge yourself and others&nbsp; How We Work Together Productivity, Quality &amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&nbsp; Asynchronous communication &amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&nbsp; Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.&nbsp; Autonomy &amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&nbsp; &nbsp; We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp; II is $140,000 to $210,000. To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "url": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "flask",
+      "postgresql",
+      "mongodb",
+      "redis",
+      "elasticsearch",
+      "aws",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "ansible",
+      "llm",
+      "kafka",
+      "graphql",
+      "rest",
+      "twilio"
+    ],
+    "tags": [
+      "programming",
+      "Back-End Programming"
+    ],
+    "posted_at": "2025-07-23T14:31:54.000Z",
+    "fetched_at": "2026-03-28T18:21:08.805Z",
+    "raw": {
+      "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+      "region": "Anywhere in the World",
+      "category": "Back-End Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> USA\n    <br /><strong>URL:</strong> <a href=\"http://www.close.com\">http://www.close.com</a>\n</p>\n\n<div><strong>About Us</strong></div>\n<div><a href=\"https://close.com/\">Close</a> is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again.</div>\n<div>&nbsp;</div>\n<div>We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Our backend <a href=\"https://stackshare.io/close-crm/close\">tech stack</a> consists primarily of Python Flask web apps with our <a href=\"https://github.com/closeio/tasktiger\">TaskTiger</a> scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented <a href=\"https://developer.close.com/\">public API</a> that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.</div>\n<div>&nbsp;</div>\n<div>Our product development process is inspired by <a href=\"https://basecamp.com/shapeup\">Shape Up</a>. We love open sourcing our code and ideas on <a href=\"https://github.com/closeio\">our GitHub</a> and on <a href=\"https://making.close.com/\">The Making of Close</a>, our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like <a href=\"https://github.com/closeio/socketshark\">SocketShark</a>, <a href=\"https://github.com/closeio/tasktiger\">TaskTiger</a>, <a href=\"https://github.com/closeio/limitlion\">LimitLion</a> and <a href=\"https://github.com/closeio/ciso8601\">ciso8601</a>.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><strong>About the Role</strong></div>\n<div>You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp; Onboarding, Conversations, Messaging &amp; Scheduling, Automations &amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp; frontend engineers, product managers, designers, and other teams here at Close.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><strong>About You</strong></div>\n<div>We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.</div>\n<div>&nbsp;</div>\n<div>You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.<br><br></div>\n<div><strong><br>Come help us with projects like...</strong></div>\n<ul>\n<li>Conceiving, designing, building, and launching new user-facing features</li>\n<li>Implementing new AI features to turbocharge our customers’ daily tasks</li>\n<li>Improving the performance and scalability of our GraphQL and <a href=\"https://developer.close.com/\">REST</a> API</li>\n<li>Improving how we <a href=\"https://close.com/emailing/\">sync</a> millions of sales emails and calendar events each month</li>\n<li>Working with Twilio's API, WebSockets, and WebRTC to improve our <a href=\"https://close.com/calling/\">calling features</a></li>\n<li>Building user-facing analytics features that provide actionable insights based on sales activity data</li>\n<li>Improving our Elasticsearch-backed powerful search features</li>\n<li>Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&nbsp;</li>\n<li>Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers</li>\n<li>Enhancing our web app with real-time updates powered by GraphQL Subscriptions</li>\n<li>Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI</li>\n</ul>\n<div><strong><br>Help manage our ever growing data processing needs…</strong></div>\n<ul>\n<li>Billions of Mongo documents</li>\n<li>Millions and millions of rows of PostgreSQL data</li>\n<li>55 Terabytes of logs / month</li>\n<li>500 billion OTEL spans over the last 30 days</li>\n<li>10+ million events / day</li>\n<li>Tens of thousands of docker containers</li>\n<li>7 million minutes of call recordings / month</li>\n<li>Petabytes / month of network traffic</li>\n</ul>\n<div><strong><br>Requirements...</strong></div>\n<ul>\n<li>Senior 1 &amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.</li>\n<li>Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.</li>\n<li>You have built web APIs that were Internet facing or supported other high volume loads.</li>\n<li>You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&nbsp;</li>\n<li>You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&nbsp;</li>\n<li>You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&nbsp;</li>\n<li>You care about the craftsmanship of the code and systems you produce.</li>\n<li>Located in the USA (lower 48 timezones).</li>\n</ul>\n<div><strong><br>Bonus point if you have</strong></div>\n<ul>\n<li>Contributed open source code related to our tech stack.</li>\n<li>Led small project teams building and launching features.</li>\n<li>Built B2B SaaS products.</li>\n<li>Implemented features that leveraged AI to deliver unimaginable new product capabilities.</li>\n<li>Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.</li>\n</ul>\n<div><strong><br>🌏 Why Close?</strong></div>\n<ul>\n<li>Watch our most recent <a href=\"https://www.youtube.com/watch?v=maXKi1GN2MI\">culture video</a> featuring our annual team retreat in Italy</li>\n<li>100% remote company</li>\n<li>5 weeks PTO + Winter &amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company</li>\n<li>1 month paid sabbatical every 5 years</li>\n<li>Paid parental leave</li>\n<li>Medical, Dental, Vision with HSA option (US residents)</li>\n<li>401k matching at 6% (US residents)</li>\n<li>Dependent care FSA (US residents)</li>\n<li><a href=\"https://close.io/about/\">Our story and team</a> 🚀</li>\n</ul>\n<div><strong><br>Our Values</strong></div>\n<ul>\n<li><strong>Build a house you want to live in</strong> -- Examine long-term thinking and action</li>\n<li><strong>No BS</strong> -- Practice transparency and honesty, especially when it’s hard</li>\n<li><strong>Invest in each other</strong> -- Build successful relationships with your coworkers and customers&nbsp;</li>\n<li><strong>Discipline equals freedom</strong> -- Keep your word to yourself and others</li>\n<li><strong>Strive for greatness </strong>-- Constantly challenge yourself and others&nbsp;</li>\n</ul>\n<div><strong><br>How We Work Together</strong></div>\n<ul>\n<li><strong>Productivity, Quality &amp; Impact: </strong>We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&nbsp;</li>\n<li><strong>Asynchronous communication &amp; collaboration:</strong> We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&nbsp;</li>\n<li><strong>Appreciation for Deep Work:</strong> *During your normal work day, not after a day of meetings*.&nbsp;</li>\n<li><strong>Autonomy &amp; Freedom:</strong> Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&nbsp;</li>\n</ul>\n<div>&nbsp;</div>\n<div><strong>We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp; II is $140,000 to $210,000.</strong></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1\">https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</a></p>",
+      "pubDate": "Wed, 23 Jul 2025 14:31:54 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+      "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1"
+    }
+  },
+  {
     "id": "wwr:clouddevs-java-developer-ai-backend",
     "platform": "wwr",
     "external_id": "clouddevs-java-developer-ai-backend",
@@ -30,7 +82,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-19T15:08:14.000Z",
-    "fetched_at": "2026-03-28T12:24:17.454Z",
+    "fetched_at": "2026-03-28T18:21:08.806Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0081/8410/logo.gif",
@@ -81,7 +133,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2025-01-22T23:59:57.000Z",
-    "fetched_at": "2026-03-28T12:24:17.456Z",
+    "fetched_at": "2026-03-28T18:21:08.807Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0161/8011/logo.gif",
@@ -130,7 +182,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-18T21:08:16.000Z",
-    "fetched_at": "2026-03-28T12:24:17.457Z",
+    "fetched_at": "2026-03-28T18:21:08.808Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4529/logo.gif",
@@ -174,7 +226,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-17T13:01:49.000Z",
-    "fetched_at": "2026-03-28T12:24:17.458Z",
+    "fetched_at": "2026-03-28T18:21:08.810Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9650/logo.gif",
@@ -212,7 +264,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-17T06:05:35.000Z",
-    "fetched_at": "2026-03-28T12:24:17.459Z",
+    "fetched_at": "2026-03-28T18:21:08.810Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4508/logo.gif",
@@ -260,7 +312,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-17T00:18:00.000Z",
-    "fetched_at": "2026-03-28T12:24:17.460Z",
+    "fetched_at": "2026-03-28T18:21:08.811Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/3286/logo.gif",
@@ -303,7 +355,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-13T13:16:56.000Z",
-    "fetched_at": "2026-03-28T12:24:17.461Z",
+    "fetched_at": "2026-03-28T18:21:08.812Z",
     "raw": {
       "title": "Sanctuary Computer: Senior Firmware Engineer",
       "region": "Anywhere in the World",
@@ -347,7 +399,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-13T10:52:07.000Z",
-    "fetched_at": "2026-03-28T12:24:17.461Z",
+    "fetched_at": "2026-03-28T18:21:08.813Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4471/logo.gif",
@@ -393,7 +445,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2025-05-16T20:03:34.000Z",
-    "fetched_at": "2026-03-28T12:24:17.462Z",
+    "fetched_at": "2026-03-28T18:21:08.814Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0170/9402/logo.gif",
@@ -440,7 +492,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2025-11-12T08:56:02.000Z",
-    "fetched_at": "2026-03-28T12:24:17.462Z",
+    "fetched_at": "2026-03-28T18:21:08.815Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/2586/logo.gif",
@@ -483,7 +535,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-10T16:25:58.000Z",
-    "fetched_at": "2026-03-28T12:24:17.463Z",
+    "fetched_at": "2026-03-28T18:21:08.815Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0000/1595/logo.gif",
@@ -525,7 +577,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-10T13:52:50.000Z",
-    "fetched_at": "2026-03-28T12:24:17.464Z",
+    "fetched_at": "2026-03-28T18:21:08.816Z",
     "raw": {
       "title": "Ivy Tech: Full Stack Engineer",
       "region": "Anywhere in the World",
@@ -559,7 +611,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-03-28T12:24:17.465Z",
+    "fetched_at": "2026-03-28T18:21:08.817Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
@@ -602,7 +654,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-01-07T12:37:47.000Z",
-    "fetched_at": "2026-03-28T12:24:17.465Z",
+    "fetched_at": "2026-03-28T18:21:08.818Z",
     "raw": {
       "title": "Speechify Inc: Software Engineer, macOS Core Product",
       "region": "Anywhere in the World",
@@ -646,7 +698,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-02-05T19:57:18.000Z",
-    "fetched_at": "2026-03-28T12:24:17.466Z",
+    "fetched_at": "2026-03-28T18:21:08.818Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0170/9422/logo.gif",
@@ -698,7 +750,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-02-04T21:57:47.000Z",
-    "fetched_at": "2026-03-28T12:24:17.468Z",
+    "fetched_at": "2026-03-28T18:21:08.820Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/3828/logo.gif",
@@ -741,7 +793,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2025-07-09T15:35:11.000Z",
-    "fetched_at": "2026-03-28T12:24:17.468Z",
+    "fetched_at": "2026-03-28T18:21:08.820Z",
     "raw": {
       "title": "Speechify Inc: Software Engineer, iOS Core Product",
       "region": "Anywhere in the World",
@@ -775,7 +827,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-05-13T03:14:30.000Z",
-    "fetched_at": "2026-03-28T12:24:17.469Z",
+    "fetched_at": "2026-03-28T18:21:08.821Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif",
@@ -820,7 +872,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-03T17:26:57.000Z",
-    "fetched_at": "2026-03-28T12:24:17.470Z",
+    "fetched_at": "2026-03-28T18:21:08.822Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0016/4046/logo.gif",
@@ -887,7 +939,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-03T15:53:39.000Z",
-    "fetched_at": "2026-03-28T12:24:17.471Z",
+    "fetched_at": "2026-03-28T18:21:08.823Z",
     "raw": {
       "title": "Lemon.io: Senior React Full-stack Developer",
       "region": "Anywhere in the World",
@@ -927,7 +979,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-03T13:34:12.000Z",
-    "fetched_at": "2026-03-28T12:24:17.471Z",
+    "fetched_at": "2026-03-28T18:21:08.824Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4350/logo.gif",
@@ -980,7 +1032,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-02T16:32:16.000Z",
-    "fetched_at": "2026-03-28T12:24:17.472Z",
+    "fetched_at": "2026-03-28T18:21:08.825Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0144/3305/logo.gif",
@@ -1027,7 +1079,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-01-29T21:06:16.000Z",
-    "fetched_at": "2026-03-28T12:24:17.473Z",
+    "fetched_at": "2026-03-28T18:21:08.825Z",
     "raw": {
       "title": "WALTER: Senior Software Engineer",
       "region": "Anywhere in the World",
@@ -1067,7 +1119,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-02-26T19:02:08.000Z",
-    "fetched_at": "2026-03-28T12:24:17.474Z",
+    "fetched_at": "2026-03-28T18:21:08.826Z",
     "raw": {
       "title": "Nexthire: LUCIO - DEVOPS ENGINEER",
       "region": "Anywhere in the World",
@@ -1076,46 +1128,6 @@
       "pubDate": "Thu, 26 Feb 2026 19:02:08 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/nexthire-lucio-devops-engineer",
       "link": "https://weworkremotely.com/remote-jobs/nexthire-lucio-devops-engineer"
-    }
-  },
-  {
-    "id": "wwr:ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn",
-    "platform": "wwr",
-    "external_id": "ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn",
-    "title": "Data Analyst (Medicaid, ADF, SQL, Python)-Eden Prairie, MN",
-    "company": "AHU Technologies",
-    "description": "Headquarters: Washington, DC 20009 URL: http://ahutech.com Job Description &nbsp; Assisting with all ETL change requests developing ETL jobs to bring in and load data and extracts building new ETL pipelines in ADF Creating and maintaining existing stored procedures analyzing requirements and developing specifications documenting interfaces in ICD. M&amp;O phase of the project and work work performed is the same as what is listed above: Assisting with all ETL change requests developing ETL jobs to bring in and load data and extracts building new ETL pipelines in ADF Creating and maintaining existing stored procedures analyzing requirements and developing specifications documenting interfaces in ICD. This is a remote position. Compensation: $50.00 per hour About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world. To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn",
-    "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python"
-    ],
-    "tags": [
-      "programming",
-      "Back-End Programming"
-    ],
-    "posted_at": "2026-02-26T16:43:31.000Z",
-    "fetched_at": "2026-03-28T12:24:17.474Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4308/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "AHU Technologies: Data Analyst (Medicaid, ADF, SQL, Python)-Eden Prairie, MN",
-      "region": "Washington",
-      "category": "Back-End Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/4308/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Washington, DC 20009\n    <br /><strong>URL:</strong> <a href=\"http://ahutech.com\">http://ahutech.com</a>\n</p>\n\n<div class=\"job-description-container\">\n<div class=\"trix-content\">\n<div><strong>Job Description</strong></div><div>&nbsp;</div><div>Assisting with all ETL change requests developing ETL jobs to bring in and load data and extracts building new ETL pipelines in ADF Creating and maintaining existing stored procedures analyzing requirements and developing specifications documenting interfaces in ICD. M&amp;O phase of the project and work work performed is the same as what is listed above: Assisting with all ETL change requests developing ETL jobs to bring in and load data and extracts building new ETL pipelines in ADF Creating and maintaining existing stored procedures analyzing requirements and developing specifications documenting interfaces in ICD.</div>\n</div>\n<p>This is a remote position.</p>\n<div class=\"job-compensation\">\n          Compensation: $50.00 per hour\n        </div>\n<br><br><br> <div class=\"account_description\">\n<h1>About Us</h1> <div><strong>AHU Technologies INC. </strong>is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&nbsp;<br><br></div> <div><strong>AHU Technologies INC.</strong> was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.<br><br></div>\n</div>\n<br></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn\">https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn</a></p>",
-      "pubDate": "Thu, 26 Feb 2026 16:43:31 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn",
-      "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn"
     }
   },
   {
@@ -1147,7 +1159,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2025-10-18T13:09:36.000Z",
-    "fetched_at": "2026-03-28T12:24:17.564Z",
+    "fetched_at": "2026-03-28T18:21:08.883Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/2146/logo.gif",
