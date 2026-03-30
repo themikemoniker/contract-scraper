@@ -1,5 +1,5 @@
 {
-  "totalJobs": 813,
+  "totalJobs": 812,
   "bySource": {
     "arbeitnow": 90,
     "jobicy": 91,
@@ -7,16 +7,23 @@
     "workingnomads": 20,
     "remotive": 18,
     "wwr": 25,
-    "hn": 471,
-    "himalayas": 1
+    "hn": 471
   },
   "byTechStack": {
+    "figma": 13,
+    "rust": 25,
+    "kubernetes": 83,
+    "helm": 4,
+    "grpc": 5,
+    "python": 150,
+    "java": 77,
     "aws": 144,
+    "typescript": 92,
     "gcp": 53,
     "cloudflare": 3,
     "machine-learning": 103,
     "mlops": 8,
-    "javascript": 143,
+    "javascript": 142,
     "llm": 46,
     "django": 26,
     "postgresql": 91,
@@ -38,7 +45,6 @@
     "oauth": 2,
     "jwt": 2,
     "express": 13,
-    "java": 78,
     "azure": 37,
     "kafka": 23,
     "sqs": 5,
@@ -46,7 +52,6 @@
     "twilio": 5,
     "react": 171,
     "nodejs": 68,
-    "python": 150,
     "angular": 24,
     "firestore": 1,
     "sentry": 3,
@@ -59,10 +64,8 @@
     "git": 29,
     "newrelic": 3,
     "pagerduty": 1,
-    "typescript": 91,
     "nextjs": 13,
     "nestjs": 4,
-    "kubernetes": 82,
     "jest": 7,
     "cypress": 3,
     "mocha": 4,
@@ -90,15 +93,12 @@
     "vue": 39,
     "mongodb": 21,
     "rabbitmq": 15,
-    "figma": 13,
     "traefik": 1,
     "elixir": 15,
-    "grpc": 4,
     "amplitude": 1,
     "kotlin": 23,
     "mariadb": 1,
     "timescaledb": 1,
-    "helm": 3,
     "argocd": 1,
     "pandas": 5,
     "numpy": 3,
@@ -106,9 +106,6 @@
     "sass": 8,
     "vscode": 1,
     "segment": 5,
-    "c#": 11,
-    "aspnet": 5,
-    "rust": 24,
     "nuxt": 8,
     "flask": 16,
     "solidity": 6,
@@ -143,6 +140,7 @@
     "rails": 41,
     "huggingface": 1,
     "scala": 12,
+    "c#": 10,
     "netlify": 1,
     "pulumi": 1,
     "jetpack": 2,
@@ -166,6 +164,7 @@
     "typeorm": 1,
     "erlang": 2,
     "gatsby": 2,
+    "aspnet": 4,
     "sqlite": 2,
     "celery": 2,
     "lua": 2,
@@ -174,13 +173,13 @@
     "unix": 1
   },
   "byContractType": {
-    "full-time": 634,
+    "freelance": 11,
+    "full-time": 633,
     "contract": 15,
-    "freelance": 13,
-    "part-time": 4
+    "part-time": 3
   },
   "byRemoteType": {
-    "remote": 447,
+    "remote": 444,
     "onsite": 227,
     "hybrid": 1
   },
@@ -190,16 +189,16 @@
     "100k-150k": 21,
     "150k-200k": 6,
     "over200k": 5,
-    "unknown": 661
+    "unknown": 660
   },
-  "lastUpdated": "2026-03-30T01:07:31.327Z",
+  "lastUpdated": "2026-03-30T07:11:48.264Z",
   "jobsLast7Days": [
     12,
     13,
     32,
-    60,
-    33,
-    40,
-    0
+    52,
+    32,
+    39,
+    10
   ]
 }
