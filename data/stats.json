@@ -1,10 +1,10 @@
 {
-  "totalJobs": 825,
+  "totalJobs": 826,
   "bySource": {
     "arbeitnow": 78,
+    "remotive": 18,
     "remoteok": 93,
     "wwr": 55,
-    "remotive": 17,
     "jobicy": 88,
     "workingnomads": 20,
     "hn": 473,
@@ -174,32 +174,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "part-time": 6,
+    "part-time": 7,
     "contract": 17,
     "freelance": 10,
-    "full-time": 668
+    "full-time": 667
   },
   "byRemoteType": {
-    "remote": 459,
+    "remote": 460,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 107,
+    "under50k": 108,
     "50k-100k": 12,
     "100k-150k": 16,
     "150k-200k": 3,
     "over200k": 3,
     "unknown": 684
   },
-  "lastUpdated": "2026-04-05T01:07:15.354Z",
+  "lastUpdated": "2026-04-05T06:50:20.678Z",
   "jobsLast7Days": [
     0,
     20,
     19,
     19,
-    62,
-    24,
-    0
+    61,
+    25,
+    1
   ]
 }
