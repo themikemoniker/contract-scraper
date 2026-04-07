@@ -11,6 +11,9 @@
     "himalayas": 1
   },
   "byTechStack": {
+    "aws": 157,
+    "kubernetes": 104,
+    "terraform": 53,
     "segment": 6,
     "javascript": 149,
     "typescript": 91,
@@ -19,12 +22,10 @@
     "vue": 35,
     "angular": 21,
     "docker": 81,
-    "kubernetes": 104,
     "helm": 6,
     "python": 166,
     "go": 26,
     "postgresql": 92,
-    "aws": 157,
     "gcp": 70,
     "azure": 62,
     "github-actions": 13,
@@ -35,7 +36,6 @@
     "apache": 18,
     "rest": 30,
     "git": 40,
-    "terraform": 53,
     "ansible": 32,
     "linux": 44,
     "grafana": 24,
@@ -61,7 +61,6 @@
     "backbone": 5,
     "machine-learning": 96,
     "figma": 10,
-    "express": 13,
     "web3": 11,
     "gin": 1,
     "oracle": 6,
@@ -92,6 +91,7 @@
     "snowflake": 7,
     "amplitude": 2,
     "sass": 5,
+    "express": 12,
     "supabase": 3,
     "drizzle": 1,
     "vite": 4,
@@ -177,10 +177,10 @@
     "ocaml": 1
   },
   "byContractType": {
-    "full-time": 666,
+    "full-time": 665,
     "freelance": 14,
     "contract": 17,
-    "part-time": 6
+    "part-time": 5
   },
   "byRemoteType": {
     "remote": 476,
@@ -195,14 +195,14 @@
     "over200k": 3,
     "unknown": 694
   },
-  "lastUpdated": "2026-04-07T01:05:51.600Z",
+  "lastUpdated": "2026-04-07T07:00:36.098Z",
   "jobsLast7Days": [
     19,
     19,
-    9,
-    26,
+    8,
+    23,
     17,
-    60,
-    0
+    59,
+    5
   ]
 }
