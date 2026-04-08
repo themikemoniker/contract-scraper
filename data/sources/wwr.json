@@ -1,5 +1,91 @@
 [
   {
+    "id": "wwr:close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "platform": "wwr",
+    "external_id": "close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "title": "Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+    "company": "Close",
+    "description": "Headquarters: USA URL: http://www.close.com About Us Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again. &nbsp; We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&nbsp; &nbsp; Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools. &nbsp; Our product development process is inspired by Shape Up . We love open sourcing our code and ideas on our GitHub and on The Making of Close , our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like SocketShark , TaskTiger , LimitLion and ciso8601 . &nbsp; &nbsp; About the Role You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp; Onboarding, Conversations, Messaging &amp; Scheduling, Automations &amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp; frontend engineers, product managers, designers, and other teams here at Close. &nbsp; &nbsp; About You We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features. &nbsp; You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team. Come help us with projects like... Conceiving, designing, building, and launching new user-facing features Implementing new AI features to turbocharge our customers’ daily tasks Improving the performance and scalability of our GraphQL and REST API Improving how we sync millions of sales emails and calendar events each month Working with Twilio's API, WebSockets, and WebRTC to improve our calling features Building user-facing analytics features that provide actionable insights based on sales activity data Improving our Elasticsearch-backed powerful search features Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&nbsp; Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers Enhancing our web app with real-time updates powered by GraphQL Subscriptions Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI Help manage our ever growing data processing needs… Billions of Mongo documents Millions and millions of rows of PostgreSQL data 55 Terabytes of logs / month 500 billion OTEL spans over the last 30 days 10+ million events / day Tens of thousands of docker containers 7 million minutes of call recordings / month Petabytes / month of network traffic Requirements... Senior 1 &amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity. Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python. You have built web APIs that were Internet facing or supported other high volume loads. You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&nbsp; You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&nbsp; You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&nbsp; You care about the craftsmanship of the code and systems you produce. Located in the USA (lower 48 timezones). Bonus point if you have Contributed open source code related to our tech stack. Led small project teams building and launching features. Built B2B SaaS products. Implemented features that leveraged AI to deliver unimaginable new product capabilities. Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks. 🌏 Why Close? Watch our most recent culture video featuring our annual team retreat in Italy 100% remote company 5 weeks PTO + Winter &amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company 1 month paid sabbatical every 5 years Paid parental leave Medical, Dental, Vision with HSA option (US residents) 401k matching at 6% (US residents) Dependent care FSA (US residents) Our story and team 🚀 Our Values Build a house you want to live in -- Examine long-term thinking and action No BS -- Practice transparency and honesty, especially when it’s hard Invest in each other -- Build successful relationships with your coworkers and customers&nbsp; Discipline equals freedom -- Keep your word to yourself and others Strive for greatness -- Constantly challenge yourself and others&nbsp; How We Work Together Productivity, Quality &amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&nbsp; Asynchronous communication &amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&nbsp; Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.&nbsp; Autonomy &amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&nbsp; &nbsp; We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp; II is $140,000 to $210,000. To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "url": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "flask",
+      "postgresql",
+      "mongodb",
+      "redis",
+      "elasticsearch",
+      "aws",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "ansible",
+      "llm",
+      "kafka",
+      "graphql",
+      "rest",
+      "twilio"
+    ],
+    "tags": [
+      "programming",
+      "Back-End Programming"
+    ],
+    "posted_at": "2025-07-23T14:31:54.000Z",
+    "fetched_at": "2026-04-08T01:06:56.621Z",
+    "raw": {
+      "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+      "region": "Anywhere in the World",
+      "category": "Back-End Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> USA\n    <br /><strong>URL:</strong> <a href=\"http://www.close.com\">http://www.close.com</a>\n</p>\n\n<div><strong>About Us</strong></div>\n<div><a href=\"https://close.com/\">Close</a> is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again.</div>\n<div>&nbsp;</div>\n<div>We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Our backend <a href=\"https://stackshare.io/close-crm/close\">tech stack</a> consists primarily of Python Flask web apps with our <a href=\"https://github.com/closeio/tasktiger\">TaskTiger</a> scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented <a href=\"https://developer.close.com/\">public API</a> that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.</div>\n<div>&nbsp;</div>\n<div>Our product development process is inspired by <a href=\"https://basecamp.com/shapeup\">Shape Up</a>. We love open sourcing our code and ideas on <a href=\"https://github.com/closeio\">our GitHub</a> and on <a href=\"https://making.close.com/\">The Making of Close</a>, our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like <a href=\"https://github.com/closeio/socketshark\">SocketShark</a>, <a href=\"https://github.com/closeio/tasktiger\">TaskTiger</a>, <a href=\"https://github.com/closeio/limitlion\">LimitLion</a> and <a href=\"https://github.com/closeio/ciso8601\">ciso8601</a>.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><strong>About the Role</strong></div>\n<div>You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp; Onboarding, Conversations, Messaging &amp; Scheduling, Automations &amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp; frontend engineers, product managers, designers, and other teams here at Close.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><strong>About You</strong></div>\n<div>We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.</div>\n<div>&nbsp;</div>\n<div>You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.<br><br></div>\n<div><strong><br>Come help us with projects like...</strong></div>\n<ul>\n<li>Conceiving, designing, building, and launching new user-facing features</li>\n<li>Implementing new AI features to turbocharge our customers’ daily tasks</li>\n<li>Improving the performance and scalability of our GraphQL and <a href=\"https://developer.close.com/\">REST</a> API</li>\n<li>Improving how we <a href=\"https://close.com/emailing/\">sync</a> millions of sales emails and calendar events each month</li>\n<li>Working with Twilio's API, WebSockets, and WebRTC to improve our <a href=\"https://close.com/calling/\">calling features</a></li>\n<li>Building user-facing analytics features that provide actionable insights based on sales activity data</li>\n<li>Improving our Elasticsearch-backed powerful search features</li>\n<li>Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&nbsp;</li>\n<li>Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers</li>\n<li>Enhancing our web app with real-time updates powered by GraphQL Subscriptions</li>\n<li>Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI</li>\n</ul>\n<div><strong><br>Help manage our ever growing data processing needs…</strong></div>\n<ul>\n<li>Billions of Mongo documents</li>\n<li>Millions and millions of rows of PostgreSQL data</li>\n<li>55 Terabytes of logs / month</li>\n<li>500 billion OTEL spans over the last 30 days</li>\n<li>10+ million events / day</li>\n<li>Tens of thousands of docker containers</li>\n<li>7 million minutes of call recordings / month</li>\n<li>Petabytes / month of network traffic</li>\n</ul>\n<div><strong><br>Requirements...</strong></div>\n<ul>\n<li>Senior 1 &amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.</li>\n<li>Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.</li>\n<li>You have built web APIs that were Internet facing or supported other high volume loads.</li>\n<li>You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&nbsp;</li>\n<li>You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&nbsp;</li>\n<li>You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&nbsp;</li>\n<li>You care about the craftsmanship of the code and systems you produce.</li>\n<li>Located in the USA (lower 48 timezones).</li>\n</ul>\n<div><strong><br>Bonus point if you have</strong></div>\n<ul>\n<li>Contributed open source code related to our tech stack.</li>\n<li>Led small project teams building and launching features.</li>\n<li>Built B2B SaaS products.</li>\n<li>Implemented features that leveraged AI to deliver unimaginable new product capabilities.</li>\n<li>Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.</li>\n</ul>\n<div><strong><br>🌏 Why Close?</strong></div>\n<ul>\n<li>Watch our most recent <a href=\"https://www.youtube.com/watch?v=maXKi1GN2MI\">culture video</a> featuring our annual team retreat in Italy</li>\n<li>100% remote company</li>\n<li>5 weeks PTO + Winter &amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company</li>\n<li>1 month paid sabbatical every 5 years</li>\n<li>Paid parental leave</li>\n<li>Medical, Dental, Vision with HSA option (US residents)</li>\n<li>401k matching at 6% (US residents)</li>\n<li>Dependent care FSA (US residents)</li>\n<li><a href=\"https://close.io/about/\">Our story and team</a> 🚀</li>\n</ul>\n<div><strong><br>Our Values</strong></div>\n<ul>\n<li><strong>Build a house you want to live in</strong> -- Examine long-term thinking and action</li>\n<li><strong>No BS</strong> -- Practice transparency and honesty, especially when it’s hard</li>\n<li><strong>Invest in each other</strong> -- Build successful relationships with your coworkers and customers&nbsp;</li>\n<li><strong>Discipline equals freedom</strong> -- Keep your word to yourself and others</li>\n<li><strong>Strive for greatness </strong>-- Constantly challenge yourself and others&nbsp;</li>\n</ul>\n<div><strong><br>How We Work Together</strong></div>\n<ul>\n<li><strong>Productivity, Quality &amp; Impact: </strong>We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&nbsp;</li>\n<li><strong>Asynchronous communication &amp; collaboration:</strong> We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&nbsp;</li>\n<li><strong>Appreciation for Deep Work:</strong> *During your normal work day, not after a day of meetings*.&nbsp;</li>\n<li><strong>Autonomy &amp; Freedom:</strong> Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&nbsp;</li>\n</ul>\n<div>&nbsp;</div>\n<div><strong>We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp; II is $140,000 to $210,000.</strong></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1\">https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</a></p>",
+      "pubDate": "Wed, 23 Jul 2025 14:31:54 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+      "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1"
+    }
+  },
+  {
+    "id": "wwr:vee-technologiesorporated-product-engineering-operations-director",
+    "platform": "wwr",
+    "external_id": "vee-technologiesorporated-product-engineering-operations-director",
+    "title": "Product Engineering Operations Director",
+    "company": "Vee Technologiesorporated",
+    "description": "Headquarters: Remote We are seeking a highly motivated and experienced Product Engineering Operations Director (Project Engineer) to join our growing team. This is a fully remote position.&nbsp; In this role, you will support Vee Technologies’ clients by leveraging deep expertise across mechanical, automotive, maritime, and industrial engineering domains.&nbsp; This position partners closely with clients and offshore delivery teams to provide technical leadership, guide project execution, and act as a critical liaison in developing and presenting customer-specific engineering solutions.&nbsp; The ideal candidate is a technically adept professional with a strong passion for enabling seamless, end-to-end project delivery.&nbsp; You will take full ownership of client interactions, ensuring clear and effective communication, aligning technical requirements, and overseeing project execution in close collaboration with the offshore delivery teams. Success in this role requires a balance of strong engineering knowledge, client-facing leadership, and operational excellence. Key Responsibilities: Serve as primary liaison between client and offshore delivery teams to ensure project objectives, timelines and quality expectations are met. Lead the development of client projects, including reviewing engineering drawings, interpreting client quotations (RFQs), and translating requirements into clear, actionable project plans. Maintain continuous communication with clients and internal teams to clarify scope, identify all applicable specifications, provide project status updates, address concerns, and proactively manage expectations. Collaborate closely with clients and suppliers to negotiate design specifications, technical requirements, and cost estimates. &nbsp; Optimize manufacturing processes by evaluating the balance between cost efficiency and production volumes. Assess existing working methods and recommend improvements to process documentation, operational manuals and standard operating procedures. Leverage engineering expertise to enhance conceptual solutions, support the design of new equipment, and redesign existing systems, to meet client specifications.&nbsp;&nbsp; Address unique or non-standard requirements by identifying root causes and implementing corrective actions. Lead technical reviews, oversee corrective actions, and conduct in-depth analyses to continuously improve outcomes. Manage project timelines, deliverables, and quality standards to ensure full compliance with contractual agreements. Partner with sales teams to ensure a seamless transition of projects from post-sale to execution. Build and sustain strong working relationships with clients and internal teams, fostering collaboration, trust and long-term partnerships. Provide proactive leadership in navigating complex projects and delivering consistent, high-quality results. Prior experience working with offshore delivery teams is highly preferred. Qualifications &amp; Skills: Bachelor’s degree in mechanical engineering, automotive engineering, or related experience required 6 to 10 years of experience in automotive, mechanical, maritime or industrial engineering Strong working knowledge of Solid Works or other 3D software systems, with proficiency in AutoCAD and application-based engineering design. Experience with pricing analysis, should-costing modeling, GD&amp;T and statistical tolerancing Proven ability to build and maintain client relationships, identifying and leveraging business and technical opportunities. Demonstrated success managing and collaborating with offshore delivery teams. Exceptional verbal, written, presentations and interpersonal communication skills. Demonstrated experience in developing client-specific technical solutions or serving in a customer-facing engineering role. Strong organization and time-management skills with the ability to manage multiple projects concurrently. Natural leadership qualities with a track record of initiative, problem solving, and continuous improvement. Compensation &amp; Benefits: Competitive base salary + commission ($100K – $140K) Health, dental, and vision insurance 401(k) with company match Paid time off and holidays Professional development opportunities Vee Technologies is an equal opportunity employer committed to diversity and valuing the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristics protected by applicable law. &nbsp; To apply: https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director",
+    "url": "https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-03-19T20:31:29.000Z",
+    "fetched_at": "2026-04-08T01:06:56.622Z",
+    "raw": {
+      "title": "Vee Technologiesorporated: Product Engineering Operations Director",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote\n</p>\n\n<div class=\"col col-xs-7 description\"><br><span><span><span>We are seeking a highly motivated and experienced <b>Product</b> <b>Engineering Operations Director (Project Engineer) </b>to join our growing team. </span><strong><span>This is a fully remote position.&nbsp; </span></strong><span>In this role, you will support Vee Technologies’ clients by leveraging deep expertise across mechanical, automotive, maritime, and industrial engineering domains.&nbsp; </span></span></span><br><br><span><span><span>This position partners closely with clients and offshore delivery teams to provide technical leadership, guide project execution, and act </span>as a critical liaison in developing and presenting customer-specific engineering solutions.&nbsp; The ideal candidate is a technically adept professional with a strong passion for enabling seamless, end-to-end project delivery.&nbsp;</span></span><br><br><span><span>You will take full ownership of client interactions, ensuring clear and effective communication, aligning technical requirements, and overseeing project execution in close collaboration with the offshore delivery teams. Success in this role requires a balance of strong engineering knowledge, client-facing leadership, and operational excellence.</span></span><br><br><span><span><b><span>Key Responsibilities:</span></b></span></span><br><br><span><span>Serve as primary liaison between client and offshore delivery teams to ensure project objectives, timelines and quality expectations are met. </span></span><ul><li><span><span>Lead the development of client projects, including reviewing engineering drawings, interpreting client quotations (RFQs), and translating requirements into clear, actionable project plans.</span></span></li><li><span><span><span><span>Maintain continuous communication with clients and internal teams to clarify scope, identify all applicable specifications, provide project status updates, address concerns, and proactively manage expectations.</span></span></span></span></li><li><span><span><span><span>Collaborate closely with clients and suppliers to negotiate design specifications, technical requirements, and cost estimates. &nbsp;</span></span></span></span></li><li><span><span><span><span>Optimize manufacturing processes by evaluating the balance between cost efficiency and production volumes.</span></span></span></span></li><li><span><span><span><span>Assess existing working methods and recommend improvements to process documentation, operational manuals and standard operating procedures.</span></span></span></span></li><li><span><span><span><span>Leverage engineering expertise to enhance conceptual solutions, support the design of new equipment, and redesign existing systems, to meet client specifications.&nbsp;&nbsp; Address unique or non-standard requirements by identifying root causes and implementing corrective actions.</span></span></span></span></li><li><span><span>Lead technical reviews, oversee corrective actions, and conduct in-depth analyses to continuously improve outcomes. </span></span></li><li><span><span>Manage project timelines, deliverables, and quality standards to ensure full compliance with contractual agreements.</span></span></li><li><span><span>Partner with sales teams to ensure a seamless transition of projects from post-sale to execution.</span></span></li><li><span><span>Build and sustain strong working relationships with clients and internal teams, fostering collaboration, trust and long-term partnerships.</span></span></li><li><span><span>Provide proactive leadership in navigating complex projects and delivering consistent, high-quality results.</span></span></li><li><span><span>Prior experience working with offshore delivery teams is highly preferred.</span></span></li></ul><br><span><span><b><span>Qualifications &amp; Skills:</span></b></span></span><ul><li><span><span>Bachelor’s degree in mechanical engineering, automotive engineering, or related experience required</span></span></li><li><span><span>6 to 10 years of experience in automotive, mechanical, maritime or industrial engineering</span></span></li><li><span><span>Strong working knowledge of Solid Works or other 3D software systems, with proficiency in AutoCAD and application-based engineering design. </span></span></li><li><span><span>Experience with pricing analysis, should-costing modeling, GD&amp;T and statistical tolerancing </span></span></li><li><span><span>Proven ability to build and maintain client relationships, identifying and leveraging business and technical opportunities.</span></span></li><li><span><span>Demonstrated success managing and collaborating with offshore delivery teams.</span></span></li><li><span><span>Exceptional verbal, written, presentations and interpersonal communication skills.</span></span></li><li><span><span>Demonstrated experience in developing client-specific technical solutions or serving in a customer-facing engineering role.</span></span></li><li><span><span>Strong organization and time-management skills with the ability to manage multiple projects concurrently.</span></span></li><li><span><span>Natural leadership qualities with a track record of initiative, problem solving, and continuous improvement.</span></span></li></ul><div></div><br><span><span><b><span>Compensation &amp; Benefits:</span></b></span></span><ul><li><span><span><span>Competitive base salary + commission ($100K – $140K)</span></span></span></li><li><span><span><span>Health, dental, and vision insurance</span></span></span></li><li><span><span><span>401(k) with company match</span></span></span></li><li><span><span><span>Paid time off and holidays</span></span></span></li><li><span><span><span>Professional development opportunities</span></span></span></li></ul><br><br><span><span><span><b><span lang=\"en\"><span>Vee Technologies is an equal opportunity employer committed to diversity and valuing the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristics protected by applicable law.</span></span></b></span></span></span><br><br>&nbsp;                </div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director\">https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director</a></p>",
+      "pubDate": "Thu, 19 Mar 2026 20:31:29 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director",
+      "link": "https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director"
+    }
+  },
+  {
     "id": "wwr:clouddevs-java-developer-ai-backend",
     "platform": "wwr",
     "external_id": "clouddevs-java-developer-ai-backend",
@@ -30,7 +116,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-19T15:08:14.000Z",
-    "fetched_at": "2026-04-07T18:42:17.438Z",
+    "fetched_at": "2026-04-08T01:06:56.622Z",
     "raw": {
       "title": "CloudDevs:  Java Developer - AI (Backend)",
       "region": "Anywhere in the World",
@@ -75,7 +161,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-18T21:08:16.000Z",
-    "fetched_at": "2026-04-07T18:42:17.439Z",
+    "fetched_at": "2026-04-08T01:06:56.623Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4529/logo.gif",
@@ -116,7 +202,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-17T20:31:34.000Z",
-    "fetched_at": "2026-04-07T18:42:17.440Z",
+    "fetched_at": "2026-04-08T01:06:56.624Z",
     "raw": {
       "title": "Mesh: Director of Product Money Movement",
       "region": "Anywhere in the World",
@@ -156,7 +242,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-17T13:01:49.000Z",
-    "fetched_at": "2026-04-07T18:42:17.441Z",
+    "fetched_at": "2026-04-08T01:06:56.626Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9650/logo.gif",
@@ -194,7 +280,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-17T06:05:35.000Z",
-    "fetched_at": "2026-04-07T18:42:17.441Z",
+    "fetched_at": "2026-04-08T01:06:56.626Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4508/logo.gif",
@@ -242,7 +328,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-17T00:18:00.000Z",
-    "fetched_at": "2026-04-07T18:42:17.442Z",
+    "fetched_at": "2026-04-08T01:06:56.627Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/3286/logo.gif",
@@ -282,7 +368,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-15T20:31:52.000Z",
-    "fetched_at": "2026-04-07T18:42:17.444Z",
+    "fetched_at": "2026-04-08T01:06:56.629Z",
     "raw": {
       "title": "Confluent: Senior Manager, Product-Led Growth Strategy and Operations",
       "region": "Anywhere in the World",
@@ -337,7 +423,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-14T20:32:00.000Z",
-    "fetched_at": "2026-04-07T18:42:17.445Z",
+    "fetched_at": "2026-04-08T01:06:56.630Z",
     "raw": {
       "title": "Master-works: Full-stack Developer (React & Node.js)",
       "region": "Anywhere in the World",
@@ -374,7 +460,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-13T17:21:55.000Z",
-    "fetched_at": "2026-04-07T18:42:17.446Z",
+    "fetched_at": "2026-04-08T01:06:56.631Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0074/4123/logo.gif",
@@ -417,7 +503,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-13T13:16:56.000Z",
-    "fetched_at": "2026-04-07T18:42:17.447Z",
+    "fetched_at": "2026-04-08T01:06:56.632Z",
     "raw": {
       "title": "Sanctuary Computer: Senior Firmware Engineer",
       "region": "Anywhere in the World",
@@ -461,7 +547,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-13T10:52:07.000Z",
-    "fetched_at": "2026-04-07T18:42:17.447Z",
+    "fetched_at": "2026-04-08T01:06:56.632Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4471/logo.gif",
@@ -507,7 +593,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2025-05-16T20:03:34.000Z",
-    "fetched_at": "2026-04-07T18:42:17.448Z",
+    "fetched_at": "2026-04-08T01:06:56.633Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0170/9402/logo.gif",
@@ -554,7 +640,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2025-11-12T08:56:02.000Z",
-    "fetched_at": "2026-04-07T18:42:17.448Z",
+    "fetched_at": "2026-04-08T01:06:56.633Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/2586/logo.gif",
@@ -596,7 +682,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-11T20:32:16.000Z",
-    "fetched_at": "2026-04-07T18:42:17.449Z",
+    "fetched_at": "2026-04-08T01:06:56.634Z",
     "raw": {
       "title": "Confluent: Senior Product Manager, Confluent Cloud Kafka",
       "region": "Anywhere in the World",
@@ -634,7 +720,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-11T20:31:42.000Z",
-    "fetched_at": "2026-04-07T18:42:17.450Z",
+    "fetched_at": "2026-04-08T01:06:56.635Z",
     "raw": {
       "title": "European Dynamics: .NET Full Stack Developer (Power Platform specialization)",
       "region": "Anywhere in the World",
@@ -683,7 +769,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-11T20:31:37.000Z",
-    "fetched_at": "2026-04-07T18:42:17.451Z",
+    "fetched_at": "2026-04-08T01:06:56.636Z",
     "raw": {
       "title": "Microventures: Senior Full Stack Developer (Laravel + Vue.js)",
       "region": "Anywhere in the World",
@@ -719,7 +805,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-10T20:36:13.000Z",
-    "fetched_at": "2026-04-07T18:42:17.451Z",
+    "fetched_at": "2026-04-08T01:06:56.636Z",
     "raw": {
       "title": "Workana: Jr Product Administrator",
       "region": "Anywhere in the World",
@@ -756,7 +842,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-10T20:35:27.000Z",
-    "fetched_at": "2026-04-07T18:42:17.452Z",
+    "fetched_at": "2026-04-08T01:06:56.637Z",
     "raw": {
       "title": "Dropbox: Staff Product Backend Software Engineer, Core Sync",
       "region": "Anywhere in the World",
@@ -802,7 +888,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-10T20:34:15.000Z",
-    "fetched_at": "2026-04-07T18:42:17.453Z",
+    "fetched_at": "2026-04-08T01:06:56.638Z",
     "raw": {
       "title": "Abstrabit Technologies: Full Stack Developer Intern (AI Focus | Class of 2025 | Conversion Opportunity)",
       "region": "Anywhere in the World",
@@ -841,7 +927,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-10T16:25:58.000Z",
-    "fetched_at": "2026-04-07T18:42:17.454Z",
+    "fetched_at": "2026-04-08T01:06:56.639Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0000/1595/logo.gif",
@@ -883,7 +969,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-10T13:52:50.000Z",
-    "fetched_at": "2026-04-07T18:42:17.455Z",
+    "fetched_at": "2026-04-08T01:06:56.640Z",
     "raw": {
       "title": "Ivy Tech: Full Stack Engineer",
       "region": "Anywhere in the World",
@@ -923,7 +1009,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-09T20:33:12.000Z",
-    "fetched_at": "2026-04-07T18:42:17.455Z",
+    "fetched_at": "2026-04-08T01:06:56.640Z",
     "raw": {
       "title": "Attio: Senior Product Engineer [Backend]",
       "region": "Anywhere in the World",
@@ -965,7 +1051,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-09T20:32:36.000Z",
-    "fetched_at": "2026-04-07T18:42:17.456Z",
+    "fetched_at": "2026-04-08T01:06:56.641Z",
     "raw": {
       "title": "Agentic Dream: Senior Full Stack Developer (Java)",
       "region": "Anywhere in the World",
@@ -977,51 +1063,165 @@
     }
   },
   {
-    "id": "wwr:kasama-salesforce-cloud-commerce-full-stack-developer",
+    "id": "wwr:exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up",
     "platform": "wwr",
-    "external_id": "kasama-salesforce-cloud-commerce-full-stack-developer",
-    "title": "Salesforce Cloud Commerce Full Stack Developer",
-    "company": "Kasama",
-    "description": "Headquarters: Philippines Work in close partnership with agile team members including project leads, engineers, analysts, and digital commerce stakeholders. Guide and support junior developers through mentoring and knowledge sharing. Build and maintain server-side logic, controllers, scripts, and integrations within Salesforce Commerce Cloud (SFCC). Produce clean, well-structured, and easily maintainable code to ensure long-term scalability and clarity for future contributors.Write performant solutions that can handle heavy traffic in an eCommerce environment. Integrate multiple systems by leveraging LINK cartridges or custom-built connections. Design and implement automated test coverage to safeguard core application functions. Document new features, workflows, and processes in a clear and structured manner. Diagnose and resolve issues across production and development environments, including integrations and scheduled jobs. Actively engage in agile ceremonies such as sprint planning, estimations, reviews, and retrospectives. At least 3 years of professional experience in web application development. Minimum 3 years of hands-on expertise working with Salesforce Commerce Cloud (Demandware/SFCC). Strong proficiency in JavaScript, Node.js, and modern web technologies. Familiarity with REST APIs and proven experience building integrations with third-party systems. Knowledge of both relational and non-relational database structures. Solid understanding of version control, particularly Git workflows. Practical knowledge of Storefront Reference Architecture (SFRA). Skilled in using Business Manager for SFCC administration. Strong problem-solving mindset with the ability to analyze and resolve complex issues. Effective communication skills, both written and verbal. Team player who can collaborate with technical and non-technical stakeholders. A Salesforce Commerce Cloud Developer certification (or equivalent) is a plus. Kasama offers a career experience defined by growth, impact, and global collaboration. We provide a dynamic, inclusive, and globally connected work environment where you can thrive personally and professionally.&nbsp;Our commitment to continuous growth is reflected in providing access to ongoing learning opportunities, including sponsored training, certifications, and knowledge-sharing across international teams, to ensure you stay at the forefront of your field.&nbsp;Our total rewards package includes attractive bonuses, paid leave, and comprehensive healthcare coverage for you and your family. We also prioritize well-being with employee wellness programs and performance incentives designed to help you perform at your best. To apply: https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer",
-    "url": "https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer",
+    "external_id": "exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up",
+    "title": "Fullstack Engineer (with DevOps focus) (f/m/d) at climate tech start-up",
+    "company": "Exnaton Ag",
+    "description": "Headquarters: Spain,Italy,Remote,Poland,Austria Exnaton is a startup, spun out of ETH Zurich, which offers software for renewable energy to utility companies. Our software enables energy providers to set up energy communities and smart energy tariffs in their distribution areas. Users of our software can track their energy consumption and buy renewable energy from their neighbors, which makes investing in the energy transition simple and fun!&nbsp; Prosumers, dynamic electricity tariffs, and energy sharing are driving the energy transition and becoming integral components of the decentralized energy world. Our software is a cloud application that processes smart meter data and computes smart real-time prices for locally produced energy which makes renewable energy financially more attractive. End-users receive an app that maps the sources of their energy, making their electricity consumption more understandable. Our team is growing and we are looking for extraordinary, talented and motivated people to complement our team. We are a diverse team of engineers and business developers, all driven by the shared goal of using technology to create a sustainable impact in our society. If you're enthusiastic about contributing to this exciting journey, we invite you to be a part of our innovative and skilled team. The job can be performed remotely in EU countries.We operate a stack with a backend built in a micro-services pattern with polyglot services written in TypeScript, Python and C#. Technologies are chosen to fit the purpose. We deploy via GitOps (flux) and Helm to various Kubernetes clusters running on AWS (arm64 &amp; amd64). Our frontend is written in next.js, served by a highly configurable headless CMS using our own component library.&nbsp; As a&nbsp;Fullstack Engineer&nbsp;at Exnaton, you will join our 30 people team and shape the company and its vision from the ground up. Among others, your main responsibilities are the following: Fullstack tasks: Developing a state-of-the-art application for the energy sector; Building highly reliable software and operating customer deployments; Working as part of a team of highly motivated and talented individuals and take ownership and responsibility of components in frontend and/or backend from conceptualisation to production. DevOps tasks: Ensure reliability and scalability of our software deployments for high availability and performance; Improve the efficiency and transparency of our development pipeline by streamlining workflows and automation; Optimize cloud infrastructure with efficient server provisioning and multi-tenancy architecture; Manage our AWS infrastructure &amp; CI/CD pipeline by overseeing cloud resources and automating deployments; Enhance monitoring and logging of our different services and deployments to improve observability, quickly detect, diagnose, and resolve system issues and identify root causes; Improve and leverage our microservices architecture for scalability, efficiency and security; Strengthen system security by implementing best practices and improving access controls. We define ourselves by a culture of collaboration and ownership. We’re looking for a driven, capable, and thoughtful person to add to our mission. We are looking for someone who: Has 1-2 years of hands on experience in cloud/SaaS software development, with a strong understanding of modern software architectures; Has worked with one of the modern javascript frontend frameworks and has an understanding of core concepts, such as “component boundaries”, “state management”, and some experience with data visualisation; Has experience with microservices and event-driven architectures, optimizing for scalability and performance; Has hands-on experience with CI/CD pipelines, ensuring smooth and automated deployments; Has a deep understanding of cloud infrastructure, with experience managing AWS-hosted environments; Is familiar with containerization and orchestration tools, including Kubernetes, Docker, and Helm; Can work effectively under pressure, is able to troubleshoot and resolve critical issues efficiently; Has a willingness to handle urgent issues outside of regular hours in exchange for flexibility in availability; Is a team player who learns quickly and thrives in a dynamic, high-performance startup environment. We would consider it a big plus if you have an interest in renewable energy and sustainability.&nbsp; If you do not meet all of the above requirements but feel you would be a good match for our team do not hesitate to apply anyway.At exnaton, you work in a dynamic environment with a flat hierarchy and direct communication, fostering quick operation and collaborative learning. You can also expect the following: Competitive salary and equity package; Flexible working hours and location as we believe in ownership and trust. We are a remote-first company and we support those working from different locations across the EU; Additional benefits such as a new MacBook, a learning budget, sports membership, or Headspace subscription; Virtual office for a truly interactive collaboration, even in a distributed team; Working with exciting technology for a really important purpose, together with a highly motivated team. To apply: https://weworkremotely.com/remote-jobs/exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up",
+    "url": "https://weworkremotely.com/remote-jobs/exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "salary_type": null,
     "contract_type": "full-time",
-    "experience_level": "lead",
+    "experience_level": "junior",
     "location": "Remote",
     "remote_type": "remote",
     "timezone": null,
     "tech_stack": [
       "javascript",
-      "nodejs",
-      "git"
+      "typescript",
+      "python",
+      "nextjs",
+      "aws",
+      "docker",
+      "kubernetes",
+      "helm"
     ],
     "tags": [
-      "programming",
-      "Full-Stack Programming"
+      "devops",
+      "DevOps and Sysadmin"
     ],
-    "posted_at": "2026-03-08T20:46:01.000Z",
-    "fetched_at": "2026-04-07T18:42:17.456Z",
+    "posted_at": "2026-04-07T20:35:10.000Z",
+    "fetched_at": "2026-04-08T01:06:56.801Z",
     "raw": {
-      "title": "Kasama: Salesforce Cloud Commerce Full Stack Developer",
+      "title": "Exnaton Ag: Fullstack Engineer (with DevOps focus) (f/m/d) at climate tech start-up",
       "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> Philippines\n</p>\n\n Work in close partnership with agile team members including project leads, engineers, analysts, and digital commerce stakeholders. Guide and support junior developers through mentoring and knowledge sharing. Build and maintain server-side logic, controllers, scripts, and integrations within Salesforce Commerce Cloud (SFCC). Produce clean, well-structured, and easily maintainable code to ensure long-term scalability and clarity for future contributors.Write performant solutions that can handle heavy traffic in an eCommerce environment. Integrate multiple systems by leveraging LINK cartridges or custom-built connections. Design and implement automated test coverage to safeguard core application functions. Document new features, workflows, and processes in a clear and structured manner. Diagnose and resolve issues across production and development environments, including integrations and scheduled jobs. Actively engage in agile ceremonies such as sprint planning, estimations, reviews, and retrospectives.   At least 3 years of professional experience in web application development. Minimum 3 years of hands-on expertise working with Salesforce Commerce Cloud (Demandware/SFCC). Strong proficiency in JavaScript, Node.js, and modern web technologies. Familiarity with REST APIs and proven experience building integrations with third-party systems. Knowledge of both relational and non-relational database structures. Solid understanding of version control, particularly Git workflows. Practical knowledge of Storefront Reference Architecture (SFRA). Skilled in using Business Manager for SFCC administration. Strong problem-solving mindset with the ability to analyze and resolve complex issues. Effective communication skills, both written and verbal. Team player who can collaborate with technical and non-technical stakeholders. A Salesforce Commerce Cloud Developer certification (or equivalent) is a plus.  Kasama offers a career experience defined by growth, impact, and global collaboration. We provide a dynamic, inclusive, and globally connected work environment where you can thrive personally and professionally.&nbsp;Our commitment to continuous growth is reflected in providing access to ongoing learning opportunities, including sponsored training, certifications, and knowledge-sharing across international teams, to ensure you stay at the forefront of your field.&nbsp;Our total rewards package includes attractive bonuses, paid leave, and comprehensive healthcare coverage for you and your family. We also prioritize well-being with employee wellness programs and performance incentives designed to help you perform at your best.\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer\">https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer</a></p>",
-      "pubDate": "Sun, 08 Mar 2026 20:46:01 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer",
-      "link": "https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer"
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> Spain,Italy,Remote,Poland,Austria\n</p>\n\nExnaton is a startup, spun out of ETH Zurich, which offers software for renewable energy to utility companies. Our software enables energy providers to set up energy communities and smart energy tariffs in their distribution areas. Users of our software can track their energy consumption and buy renewable energy from their neighbors, which makes investing in the energy transition simple and fun!&nbsp;<br>Prosumers, dynamic electricity tariffs, and energy sharing are driving the energy transition and becoming integral components of the decentralized energy world. Our software is a cloud application that processes smart meter data and computes smart real-time prices for locally produced energy which makes renewable energy financially more attractive. End-users receive an app that maps the sources of their energy, making their electricity consumption more understandable.<br>Our team is growing and we are looking for extraordinary, talented and motivated people to complement our team. We are a diverse team of engineers and business developers, all driven by the shared goal of using technology to create a sustainable impact in our society. If you're enthusiastic about contributing to this exciting journey, we invite you to be a part of our innovative and skilled team.<br><br>The job can be performed remotely in EU countries.We operate a stack with a backend built in a micro-services pattern with polyglot services written in TypeScript, Python and C#. Technologies are chosen to fit the purpose. We deploy via GitOps (flux) and Helm to various Kubernetes clusters running on AWS (arm64 &amp; amd64). Our frontend is written in next.js, served by a highly configurable headless CMS using our own component library.&nbsp;<br>As a&nbsp;Fullstack Engineer&nbsp;at Exnaton, you will join our 30 people team and shape the company and its vision from the ground up. Among others, your main responsibilities are the following:<br>Fullstack tasks:<br><ul><li>Developing a state-of-the-art application for the energy sector;</li><li>Building highly reliable software and operating customer deployments;</li><li>Working as part of a team of highly motivated and talented individuals and take ownership and responsibility of components in frontend and/or backend from conceptualisation to production.</li></ul>DevOps tasks:<br><ul><li>Ensure reliability and scalability of our software deployments for high availability and performance;</li><li>Improve the efficiency and transparency of our development pipeline by streamlining workflows and automation;</li><li>Optimize cloud infrastructure with efficient server provisioning and multi-tenancy architecture;</li><li>Manage our AWS infrastructure &amp; CI/CD pipeline by overseeing cloud resources and automating deployments;</li><li>Enhance monitoring and logging of our different services and deployments to improve observability, quickly detect, diagnose, and resolve system issues and identify root causes;</li><li>Improve and leverage our microservices architecture for scalability, efficiency and security;</li><li>Strengthen system security by implementing best practices and improving access controls.</li></ul>We define ourselves by a culture of collaboration and ownership. We’re looking for a driven, capable, and thoughtful person to add to our mission. We are looking for someone who:<br><ul><li>Has 1-2 years of hands on experience in cloud/SaaS software development, with a strong understanding of modern software architectures;</li><li>Has worked with one of the modern javascript frontend frameworks and has an understanding of core concepts, such as “component boundaries”, “state management”, and some experience with data visualisation;</li><li>Has experience with microservices and event-driven architectures, optimizing for scalability and performance;</li><li>Has hands-on experience with CI/CD pipelines, ensuring smooth and automated deployments;</li><li>Has a deep understanding of cloud infrastructure, with experience managing AWS-hosted environments;</li><li>Is familiar with containerization and orchestration tools, including Kubernetes, Docker, and Helm;</li><li>Can work effectively under pressure, is able to troubleshoot and resolve critical issues efficiently;</li><li>Has a willingness to handle urgent issues outside of regular hours in exchange for flexibility in availability;</li><li>Is a team player who learns quickly and thrives in a dynamic, high-performance startup environment.</li></ul>We would consider it a big plus if you have an interest in renewable energy and sustainability.&nbsp;<br><br>If you do not meet all of the above requirements but feel you would be a good match for our team do not hesitate to apply anyway.At exnaton, you work in a dynamic environment with a flat hierarchy and direct communication, fostering quick operation and collaborative learning. You can also expect the following:<br><ul><li>Competitive salary and equity package;</li><li>Flexible working hours and location as we believe in ownership and trust. We are a remote-first company and we support those working from different locations across the EU;</li><li>Additional benefits such as a new MacBook, a learning budget, sports membership, or Headspace subscription;</li><li>Virtual office for a truly interactive collaboration, even in a distributed team;</li><li>Working with exciting technology for a really important purpose, together with a highly motivated team.</li></ul>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up\">https://weworkremotely.com/remote-jobs/exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up</a></p>",
+      "pubDate": "Tue, 07 Apr 2026 20:35:10 +0000",
+      "expires_at": "Thu, 07 May 2026 20:35:10 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up",
+      "link": "https://weworkremotely.com/remote-jobs/exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up"
     }
   },
   {
-    "id": "wwr:appetiser-part-time-full-stack-developer-laravel-and-vuejs",
+    "id": "wwr:dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai",
     "platform": "wwr",
-    "external_id": "appetiser-part-time-full-stack-developer-laravel-and-vuejs",
-    "title": "Part-Time Full-Stack Developer (Laravel and VueJS)",
-    "company": "Appetiser",
-    "description": "Headquarters: Colombo, 1, Sri Lanka Job description\"Appetiser challenges me to give the best version of myself. I like how the company is transparent about its business model and anyone can contribute with an idea for its improvement. The culture within the team is unique and everyone is talented and skillful in their profession. We set goals guided by virtues created by the team rather than the traditional core values.” - Jeff Miralles / iOS DeveloperAre you someone who is DRIVING themselves to peak performance?Are you excited by HELPING PEOPLE create technology that impacts millions every day?If you answered YES to these questions, you may be a fit for Appetiser Apps. Join a high-performance team who are striving to go from an Australian market leader to a worldwide phenomenon. Our competitors cannot keep up with our technology, pace, and track record of successful clients.We need ambitious people like YOU to help us grow by 10X over the next 5 years.YOU WILL:BUILD beautiful websites using HTML and CSS to bring creative ideas to life.COLLABORATE with designers and developers to create web apps and backend mobile solutions.COORDINATE with teams to launch content, setting clear timelines and expectations.PLAN for the unexpected by preparing backup solutions to ensure site reliability.GROW and maintain the website by expanding its features and keeping content fresh.LEAD projects and, when needed, take charge of a team from start to finish.ADAPT quickly and take on new tasks as they arise.Job requirements​​The right fit for this role is DETERMINED and AMBITIOUS with: WORK ETHIC that leaves others in their dustRelentless desire to BECOME YOUR VERY BEST, and can prove it!DEEP KNOWLEDGE in technology&nbsp;A TRACK RECORD of IT experience, with a strong background in mobile and web app development, plus a solid grasp of programming basics.BONUS: Past experience as a DEVELOPER, ENGINEER, or PRODUCT MANAGER.&nbsp;Frontend/BackendProficient in using Git for version control and collaborationExperience in writing unit tests and building testable, maintainable codeSolid experience working with Stripe API and documentationUnderstanding of Agile software development practices (Scrum or Kanban)Reliable internet connection (minimum 30 Mbps download / 10 Mbps upload)Must own a personal laptop or desktop capable of handling development workloadsBackend:In-depth experience with Laravel 10 or later and a strong grasp of the Laravel ecosystemSolid knowledge of SQL schema design and SOLID principlesExperience with MySQL query optimization and performance profilingUnderstanding of scalable application architecture and design patternsProficient in developing RESTful APIs, including documentation using tools like Bruno, Insomnia, or PostmanFamiliarity with server setup and deployment, or experience using Amazon Web Services (AWS)Frontend:Proficient in HTML5, CSS3, JavaScript, and pre-processors like SassExperience with the Nuxt.js frameworkUnderstanding of modern frontend practices: composables, state management, component reuse, and responsive designBonus: Hands-on experience with Vitest, Cypress/Playwright, and TypeScriptJoin our team!Flexible Work Arrangements: The ability to work from anywhere in the world as long as you perform.Global Impact: Build products that reach users worldwide and truly make a difference in the world!Public Recognition: Track your achievements as you build a personal portfolio &amp; track record.Join a Culture of Drivers: Become part of a team that’s striving to be their very best.&nbsp;If this resonates with you, please apply today.P.S. We're hiring multiple individuals. If you want to recommend someone, please email us; an attractive referral bonus awaits!P.P.S. If you have any questions, email us at joinus@appetiser.com.auAll done!Your application has been successfully submitted!Other jobs To apply: https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs",
-    "url": "https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs",
+    "external_id": "dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai",
+    "title": "Senior GCP DevOps con Especialización en MLOps & GenAI",
+    "company": "Dacodes",
+    "description": "Headquarters: Mexico Descripción General Buscamos un/a Senior GCP DevOps Engineer con profundo dominio de infraestructura en Google Cloud, automatización, Kubernetes, Terraform y CI/CD; que además cuente con experiencia o especialización en MLOps y GenAI , para habilitar y operar plataformas de IA basadas en modelos de Machine Learning y LLMs. Este rol es clave para garantizar que los modelos, workflows y sistemas multiagente del equipo de IA puedan ejecutarse de forma escalable, confiable, segura y eficiente . Senior GCP DevOps Engineer (MLOps &amp; GenAI) 100% remoto | LATAM ¿Te apasiona GCP, Kubernetes, IaC y quieres trabajar con modelos de IA/LLMs en producción? Este rol es para ti. Buscamos a alguien que domine: GCP (IAM, VPCs, Cloud Run, Compute Engine, Pub/Sub…) Kubernetes/GKE (mejor aún si has trabajado con GPU) Terraform avanzado GitLab CI/CD Observabilidad / costos / seguridad Y que además tenga experiencia o interés fuerte en: Vertex AI, MLflow Despliegue de modelos ML LLMs, RAG, workflows multiagente Sistemas de IA escalables Serás quien habilite la infraestructura que permite que la IA cobre vida en producción. Responsabilidades Principales Infraestructura &amp; DevOps (Core del rol) Diseñar, automatizar y operar infraestructura en GCP (IAM, redes, VPCs, Cloud Run, Compute Engine, Pub/Sub, Cloud SQL). Implementar prácticas de Infraestructura como Código usando Terraform (módulos, state remoto, workspaces multiambiente). Construir y mantener pipelines CI/CD con GitLab , asegurando buenas prácticas de branching, versionado y despliegue. Kubernetes / GKE Administrar clústeres en GKE , incluyendo nodepools con GPU, autoscaling, seguridad, networking y monitoreo. Desplegar aplicaciones de IA/ML y servicios de inferencia en GKE o Cloud Run. MLOps Integrar y operar plataformas de Machine Learning como Vertex AI, MLflow o equivalentes . Desplegar modelos en endpoints online, batch jobs o contenedores. Gestionar experiment tracking, model registry y artefactos. GenAI &amp; Sistemas Multiagente Consumir APIs de LLMs (GPT, Gemini, Claude, etc.). Implementar workflows con RAG, embeddings, pasos multiagente o pipelines de concurrencia . Desplegar servicios basados en LLM en GCP, optimizando rendimiento y costos. Observabilidad &amp; Costos Configurar monitoreo y trazabilidad (Grafana, Datadog, Looker Studio). Monitorear consumo de tokens de LLMs, recursos de GPU/CPU y costos de GCP. Implementar alertas de latencia, fallas y carga. Requisitos Obligatorios Base DevOps/Cloud (lo más importante) +4 años de experiencia con GCP en producción. +3 años con Terraform avanzado. +3 años administrando Kubernetes/GKE , idealmente con GPU. +3 años construyendo pipelines CI/CD . Dominio de Docker, seguridad en cloud, redes y observabilidad. Especialización MLOps Haber colaborado con squads de datos/IA (no hace falta que sea el que entrena modelos, pero sí que haya desplegado modelos o servicios de ML). Experiencia desplegando modelos ML en endpoints batch u online. Alguna experiencia con GenAI: LLMs, RAG o al menos consumo de APIs (OpenAI, Gemini, etc.). Vertex AI / MLflow / SageMaker / Azure ML (cualquiera aplicable). Conocimientos de experiment tracking y versionado de modelos. Experiencia en GenAI Uso de LLM APIs. Familiaridad con RAG o workflows multiagente. Comprensión de tokens, latencia, concurrencia y costos en inferencia. ⭐ Nice to Have Certificación GCP (Cloud Architect, Data Engineer o ML Engineer). Experiencia con Dataflow, BigQuery o pipelines de datos. Conocimientos en NLP o frameworks como LangChain, LangGraph, LlamaIndex. Integración a marcas globales y startups disruptivas. Trabajo remoto/Home office. En caso de requerir modalidad híbrida o presencial, serás informado desde la primera sesión. ⏳ Horario ajustado a la célula de trabajo/proyecto asignado. Trabajo de lunes a viernes. Día off en tu cumpleaños. Seguro de gastos médicos mayores (aplica para México). ️ Seguro de vida (aplica para México). Equipos de trabajo multiculturales. Acceso a cursos y certificaciones. Meetups con invitados especiales del área de IT. Eventos virtuales de integración y grupos de interés. Clases de inglés. Oportunidades dentro de nuestras diferentes líneas de negocio. Orgullosamente certificados como Great Place to Work. To apply: https://weworkremotely.com/remote-jobs/dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai",
+    "url": "https://weworkremotely.com/remote-jobs/dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "gcp",
+      "azure",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "gitlab",
+      "grafana",
+      "datadog",
+      "llm",
+      "machine-learning",
+      "langchain",
+      "mlops",
+      "rag"
+    ],
+    "tags": [
+      "devops",
+      "DevOps and Sysadmin"
+    ],
+    "posted_at": "2026-04-07T20:35:02.000Z",
+    "fetched_at": "2026-04-08T01:06:56.802Z",
+    "raw": {
+      "title": "Dacodes: Senior GCP DevOps con Especialización en MLOps & GenAI",
+      "region": "Anywhere in the World",
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> Mexico\n</p>\n\n<h3> <strong>Descripción General</strong></h3><p>Buscamos un/a <strong>Senior GCP DevOps Engineer</strong> con profundo dominio de infraestructura en Google Cloud, automatización, Kubernetes, Terraform y CI/CD; que además cuente con <strong>experiencia o especialización en MLOps y GenAI</strong>, para habilitar y operar plataformas de IA basadas en modelos de Machine Learning y LLMs.</p><p>Este rol es clave para garantizar que los modelos, workflows y sistemas multiagente del equipo de IA puedan ejecutarse de forma <strong>escalable, confiable, segura y eficiente</strong>.</p><p></p><h3><strong>Senior GCP DevOps Engineer (MLOps &amp; GenAI)</strong></h3><p><strong>100% remoto | LATAM</strong><br> ¿Te apasiona GCP, Kubernetes, IaC y quieres trabajar con modelos de IA/LLMs en producción?<br> Este rol es para ti.</p><h3>Buscamos a alguien que domine:</h3><p> GCP (IAM, VPCs, Cloud Run, Compute Engine, Pub/Sub…)<br>  Kubernetes/GKE (mejor aún si has trabajado con GPU)<br>  Terraform avanzado<br>  GitLab CI/CD<br>  Observabilidad / costos / seguridad</p><p>Y que además tenga experiencia o interés fuerte en:<br>  Vertex AI, MLflow<br>  Despliegue de modelos ML<br>  LLMs, RAG, workflows multiagente<br>  Sistemas de IA escalables</p><p>Serás quien habilite la infraestructura que permite que la IA cobre vida en producción.</p> <h3> <strong>Responsabilidades Principales</strong></h3><h3><strong>Infraestructura &amp; DevOps (Core del rol)</strong></h3><ul><li> Diseñar, automatizar y operar infraestructura en <strong>GCP</strong> (IAM, redes, VPCs, Cloud Run, Compute Engine, Pub/Sub, Cloud SQL). </li><li> Implementar prácticas de <strong>Infraestructura como Código</strong> usando <strong>Terraform</strong> (módulos, state remoto, workspaces multiambiente). </li><li> Construir y mantener pipelines <strong>CI/CD con GitLab</strong>, asegurando buenas prácticas de branching, versionado y despliegue. </li></ul><h3><strong>Kubernetes / GKE</strong></h3><ul><li> Administrar clústeres en <strong>GKE</strong>, incluyendo nodepools con GPU, autoscaling, seguridad, networking y monitoreo. </li><li> Desplegar aplicaciones de IA/ML y servicios de inferencia en GKE o Cloud Run. </li></ul><h3><strong>MLOps</strong></h3><ul><li> Integrar y operar plataformas de Machine Learning como <strong>Vertex AI, MLflow o equivalentes</strong>. </li><li> Desplegar modelos en endpoints online, batch jobs o contenedores. </li><li> Gestionar experiment tracking, model registry y artefactos. </li></ul><h3><strong>GenAI &amp; Sistemas Multiagente</strong></h3><ul><li> Consumir APIs de LLMs (GPT, Gemini, Claude, etc.). </li><li> Implementar workflows con <strong>RAG, embeddings, pasos multiagente o pipelines de concurrencia</strong>. </li><li> Desplegar servicios basados en LLM en GCP, optimizando rendimiento y costos. </li></ul><h3><strong>Observabilidad &amp; Costos</strong></h3><ul><li> Configurar monitoreo y trazabilidad (Grafana, Datadog, Looker Studio). </li><li> Monitorear consumo de tokens de LLMs, recursos de GPU/CPU y costos de GCP. </li><li> Implementar alertas de latencia, fallas y carga. </li></ul><p></p><h3> <strong>Requisitos Obligatorios</strong></h3><h3><strong>Base DevOps/Cloud (lo más importante)</strong></h3><ul><li> +4 años de experiencia con <strong>GCP</strong> en producción. </li><li> +3 años con <strong>Terraform</strong> avanzado. </li><li> +3 años administrando <strong>Kubernetes/GKE</strong>, idealmente con GPU. </li><li> +3 años construyendo pipelines <strong>CI/CD</strong>. </li><li> Dominio de Docker, seguridad en cloud, redes y observabilidad. </li></ul><h3><strong>Especialización MLOps</strong></h3><ul><li> Haber colaborado con squads de datos/IA (no hace falta que sea el que entrena modelos, pero sí que haya desplegado modelos o servicios de ML).</li><li>Experiencia desplegando modelos ML en endpoints batch u online. </li><li>Alguna experiencia con GenAI: LLMs, RAG o al menos consumo de APIs (OpenAI, Gemini, etc.).</li><li>Vertex AI / MLflow / SageMaker / Azure ML (cualquiera aplicable). </li><li>Conocimientos de experiment tracking y versionado de modelos. </li></ul><h3><strong>Experiencia en GenAI</strong></h3><ul><li> Uso de LLM APIs. </li><li> Familiaridad con RAG o workflows multiagente. </li><li> Comprensión de tokens, latencia, concurrencia y costos en inferencia. </li></ul><p></p><h3>⭐ Nice to Have</h3><ul><li> Certificación GCP (Cloud Architect, Data Engineer o ML Engineer). </li><li> Experiencia con Dataflow, BigQuery o pipelines de datos. </li><li> Conocimientos en NLP o frameworks como LangChain, LangGraph, LlamaIndex.</li></ul><p></p> <p> Integración a marcas globales y startups disruptivas.</p><p>  Trabajo remoto/Home office.</p><p>  En caso de requerir modalidad híbrida o presencial, serás informado desde la primera sesión.</p><p> ⏳ Horario ajustado a la célula de trabajo/proyecto asignado.</p><p>  Trabajo de lunes a viernes.</p><p>  Día off en tu cumpleaños.</p><p>  Seguro de gastos médicos mayores (aplica para México).</p><p> ️ Seguro de vida (aplica para México).</p><p>  Equipos de trabajo multiculturales.</p><p>  Acceso a cursos y certificaciones.</p><p>  Meetups con invitados especiales del área de IT.</p><p>  Eventos virtuales de integración y grupos de interés.</p><p>  Clases de inglés.</p><p>  Oportunidades dentro de nuestras diferentes líneas de negocio.</p><p>  Orgullosamente certificados como Great Place to Work.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai\">https://weworkremotely.com/remote-jobs/dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai</a></p>",
+      "pubDate": "Tue, 07 Apr 2026 20:35:02 +0000",
+      "expires_at": "Thu, 07 May 2026 20:35:02 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai",
+      "link": "https://weworkremotely.com/remote-jobs/dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai"
+    }
+  },
+  {
+    "id": "wwr:evolutioniq-senior-devops-engineer-cloudinfra",
+    "platform": "wwr",
+    "external_id": "evolutioniq-senior-devops-engineer-cloudinfra",
+    "title": "Senior DevOps Engineer (CloudInfra)",
+    "company": "Evolutioniq",
+    "description": "Headquarters: New York, NY or Remote About Us: EvolutionIQ’s mission is to improve the lives of injured and disabled workers and enable them to return to the workforce, saving billions of dollars in avoidable costs and lost productivity to the US and global economies and make insurance more affordable for everyone. We are currently experiencing massive growth and to accomplish our goals, we are hiring world-class talent who want to help build and scale internally, and transform the insurance space. Our team is our #1 priority, and we have been named one of Inc.’s Best Workplaces 3 years in a row! The Opportunity: We’re looking for a Senior DevOps Engineer with deep expertise in infrastructure-as-code (IaC) using Terraform to build and manage scalable infrastructure across cloud platforms. This role is pivotal in building scalable, secure, and cost-optimized infrastructure that powers our data pipelines, applications, and machine learning models. You’ll play a leading role in evolving our platform while driving cost efficiencies and operational excellence across our environments. About You : An ambitious DevOps guru who will be in the driver’s seat as we build out the backbone of our core infrastructure You thrive on fast, secure, consistent deployments and want to be in the lead thanks to your high degree of ownership and control Scalability and reliability are hardwired into your DNA You love defining the standards for a consistent software development life cycle You’re supercharged by reducing friction in the engineering experience, making a fast impact, and having interesting, unsolved problems continually present themselves In this Role You Will: Improve and further our observability stack across GCP infrastructure and applications Drive consistency and operational excellence across all teams Enable the data engineering team to use Dagster efficiently Leverage tools like Terraform, Github Actions, Helm, and ArgoCD to build efficient infrastructure as code pipelines Ensure industry standard security controls in our cloud environments Institute culture of reliability in a federated ownership environment Requirements : 7+ years of DevOps experience Extensive experience designing and running production systems on GCP Deep exposure and familiarity to networking concepts, Kubernetes clusters, Docker, containerized development, Terraform, Helm, and ArgoCD Experience with production operations and working with product engineering teams Experience integrating with SIEM and security software, such as vulnerability scanners You know the critical questions to ask in order to understand a client’s business problem and can show the business impact of your technical solutions&nbsp; Team player who is solutions-oriented&nbsp; You have crisp written and verbal communication skills&nbsp; Even Better if You Have: Experience with automation and scaffolding around Prometheus and Grafana Experience with data pipeline tools such as Dagster Hold yourself to high standards ensuring timely delivery of our CI/CD pipeline&nbsp; Exude our ambitious, collaborative, and empathetic values&nbsp; A self-starter mindset with an eagerness to solve previously unsolved problems The ability to effectively correspond between technical and non-technical audiences Excellent collaboration skills and are open to giving and receiving critical feedback across teams Work-life, Culture &amp; Perks:&nbsp; Compensation: The base salary range is $180-225K, with flexibility depending on a candidate’s background and experience. An annual bonus plan and company equity plan (RSUs) are also included in our compensation package. Well-Being: Medical, dental, vision, short &amp; long-term disability, life insurance and AD&amp;D, and 401k matching. Additional family, wellness, and pet benefits.&nbsp; Home &amp; Family: Paid time off and sick leave, 100% paid parental leave (16 weeks for primary caregivers and 12 weeks for secondary caregivers). We offer a flexible schedule for new parents returning to work.&nbsp; Office Life: Catered lunches, happy hours, pet-friendly spaces, and monthly technology stipend. Growth &amp; Training: $1,000/year for each employee for professional development, as well opportunities for tuition reimbursement. Sponsorship: We are open to sponsoring candidates currently in the U.S. who need to transfer their active visa. Please check with our Recruiting team if your visa is applicable for transfer. &nbsp; EvolutionIQ appreciates your interest in our company as a place of employment. EvolutionIQ is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. To apply: https://weworkremotely.com/remote-jobs/evolutioniq-senior-devops-engineer-cloudinfra",
+    "url": "https://weworkremotely.com/remote-jobs/evolutioniq-senior-devops-engineer-cloudinfra",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "backbone",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "github-actions",
+      "helm",
+      "argocd",
+      "prometheus",
+      "grafana",
+      "machine-learning"
+    ],
+    "tags": [
+      "devops",
+      "DevOps and Sysadmin"
+    ],
+    "posted_at": "2026-04-07T20:34:02.000Z",
+    "fetched_at": "2026-04-08T01:06:56.803Z",
+    "raw": {
+      "title": "Evolutioniq: Senior DevOps Engineer (CloudInfra)",
+      "region": "Anywhere in the World",
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> New York, NY or Remote\n</p>\n\n<div class=\"job__description body\"><div><p><strong>About Us: </strong>EvolutionIQ’s mission is to improve the lives of injured and disabled workers and enable them to return to the workforce, saving billions of dollars in avoidable costs and lost productivity to the US and global economies and make insurance more affordable for everyone. We are currently experiencing massive growth and to accomplish our goals, we are hiring world-class talent who want to help build and scale internally, and transform the insurance space. Our team is our #1 priority, and we have been named one of <a href=\"https://www.evolutioniq.com/fr-fr/resources/evolutioniqs-award-winning-culture-three-years-running-as-an-inc-best-workplace\">Inc.’s Best Workplaces</a> 3 years in a row!<br><br><strong>The Opportunity: </strong>We’re looking for a Senior DevOps Engineer with deep expertise in infrastructure-as-code (IaC) using Terraform to build and manage scalable infrastructure across cloud platforms.<strong> </strong>This role is pivotal in building scalable, secure, and cost-optimized infrastructure that powers our data pipelines, applications, and machine learning models. You’ll play a leading role in evolving our platform while driving cost efficiencies and operational excellence across our environments.</p><br><p><strong>About You</strong>:</p><br><ul><br><li>An ambitious DevOps guru who will be in the driver’s seat as we build out the backbone of our core infrastructure</li><br><li>You thrive on fast, secure, consistent deployments and want to be in the lead thanks to your high degree of ownership and control</li><br><li>Scalability and reliability are hardwired into your DNA</li><br><li>You love defining the standards for a consistent software development life cycle</li><br><li>You’re supercharged by reducing friction in the engineering experience, making a fast impact, and having interesting, unsolved problems continually present themselves</li><br></ul><br><p><strong>In this Role You Will:</strong></p><br><ul><br><li>Improve and further our observability stack across GCP infrastructure and applications</li><br><li>Drive consistency and operational excellence across all teams</li><br><li>Enable the data engineering team to use Dagster efficiently</li><br><li>Leverage tools like Terraform, Github Actions, Helm, and ArgoCD to build efficient infrastructure as code pipelines</li><br><li>Ensure industry standard security controls in our cloud environments</li><br><li>Institute culture of reliability in a federated ownership environment</li><br></ul><br><p><strong>Requirements</strong>:</p><br><ul><br><li>7+ years of DevOps experience</li><br><li>Extensive experience designing and running production systems on GCP</li><br><li>Deep exposure and familiarity to networking concepts, Kubernetes clusters, Docker, containerized development, Terraform, Helm, and ArgoCD</li><br><li>Experience with production operations and working with product engineering teams</li><br><li>Experience integrating with SIEM and security software, such as vulnerability scanners</li><br><li>You know the critical questions to ask in order to understand a client’s business problem and can show the business impact of your technical solutions&nbsp;</li><br><li>Team player who is solutions-oriented&nbsp;</li><br><li>You have crisp written and verbal communication skills&nbsp;</li><br></ul><br><p><strong>Even Better if You Have:</strong></p><br><ul><br><li>Experience with automation and scaffolding around Prometheus and Grafana</li><br><li>Experience with data pipeline tools such as Dagster</li><br><li>Hold yourself to high standards ensuring timely delivery of our CI/CD pipeline&nbsp;</li><br><li>Exude our ambitious, collaborative, and empathetic values&nbsp;</li><br><li>A self-starter mindset with an eagerness to solve previously unsolved problems</li><br><li>The ability to effectively correspond between technical and non-technical audiences</li><br><li>Excellent collaboration skills and are open to giving and receiving critical feedback across teams</li><br></ul><br><p><strong>Work-life, Culture &amp; Perks:&nbsp;</strong></p><br><ul><br><li><strong>Compensation: </strong>The base salary range is <strong>$180-225K,</strong> with flexibility depending on a candidate’s background and experience. An annual bonus plan and company equity plan (RSUs) are also included in our compensation package.</li><br><li><strong>Well-Being: </strong>Medical, dental, vision, short &amp; long-term disability, life insurance and AD&amp;D, and 401k matching. Additional family, wellness, and pet benefits.&nbsp;</li><br><li><strong>Home &amp; Family:</strong> Paid time off and sick leave, 100% paid parental leave (16 weeks for primary caregivers and 12 weeks for secondary caregivers). We offer a flexible schedule for new parents returning to work.&nbsp;</li><br><li><strong>Office Life: </strong>Catered lunches, happy hours, pet-friendly spaces, and monthly technology stipend.</li><br><li><strong>Growth &amp; Training: </strong>$1,000/year for each employee for professional development, as well opportunities for tuition reimbursement.</li><br><li><strong>Sponsorship: </strong>We are open to sponsoring candidates currently in the U.S. who need to transfer their active visa. Please check with our Recruiting team if your visa is applicable for transfer.</li><br></ul><br><p>&nbsp;</p><br><p><em>EvolutionIQ appreciates your interest in our company as a place of employment. EvolutionIQ is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</em></p></div></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/evolutioniq-senior-devops-engineer-cloudinfra\">https://weworkremotely.com/remote-jobs/evolutioniq-senior-devops-engineer-cloudinfra</a></p>",
+      "pubDate": "Tue, 07 Apr 2026 20:34:02 +0000",
+      "expires_at": "Thu, 07 May 2026 20:34:02 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/evolutioniq-senior-devops-engineer-cloudinfra",
+      "link": "https://weworkremotely.com/remote-jobs/evolutioniq-senior-devops-engineer-cloudinfra"
+    }
+  },
+  {
+    "id": "wwr:blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1",
+    "platform": "wwr",
+    "external_id": "blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1",
+    "title": "UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
+    "company": "Blockchain & Climate Institute/ BCI America Inc.",
+    "description": "Headquarters: Canada THIS IS AN UNPAID VOLUNTEERING ROLE. Role Title: Technology Officers (Data Scientists/DevOps/Full Stack) Role Nature: Volunteer Location: Home-based The Blockchain &amp; Climate Institute (BCI) is an international volunteers-led think tank supporting and advocating the application of blockchain and other data technologies in the global fight against climate change. What will you be doing? We are looking for passionate VOLUNTEERS who take a methodological approach to their work, conducts independent research and analysis, engage with key stakeholders, and establish strategic partnerships to progress the BCI’s core mission. As with all roles in BCI, this role is a voluntary unpaid role. The technical roles considered will aim to support end-to-end projects, from the start this will involve business or domain knowledge understanding (e.g. finance, energy, forestry, etc) until a fully data-driven pipeline that delivers valuable insights. This entire pipeline can include (among others): “Data Scientists” developing machine learning and other statistical models, “Data Engineers” performing ETL (Extract, Transform, Load) and other data wrangling tasks, “DevOps” supporting the entire hybrid IT Infrastructure (e.g. cloud, on-premise) and “Full Stack Developers” supporting front end and back of Apps (e.g. Web, Mobile, APIs, etc). The amazing opportunity provided by this role will help the successful candidate improve their skills in a wide range of cutting-edge technologies while helping to support a good cause. Technology Officers will be appointed to a specific technical role (e.g. Data Scientist, DevOps, etc) or could be general in order to accommodate their personal interests and future career development. These roles will work extensively with other roles within BCI to support technical projects that could involve a wide range of Data Technologies, not just Distributed Ledgers (e.g. Blockchains, Directed Acyclic graphs) but also Artificial Intelligence, the Internet of Things, etc. In the Technology Officer Grade, volunteers with more experience may be appointed as Principal or Senior Technology Officer. Responsibilities: To provide technical support for members of working groups in areas such as renewable energy, carbon trading, forest monitoring, natural resource management, blockchain technology, artificial intelligence, etc. To generate opportunities for strategic partnerships; To attend conferences and events to promote the BCI, communicate research findings and insights via Powerpoint decks, and engage with key stakeholders. Skills &amp; Abilities Excellent oral communication skills, including the ability to develop effective working relationships, work flexibly across professional and operational boundaries, and communicate professionally with internal and external stakeholders at all levels; Excellent organizational skills and ability to balance competing demands under pressure; Strong technical skills (e.g. math and coding skills) and detail-orientated; Strong presentation skills and ability to present ideas appropriately and persuasively; Sense of mission and willingness to learn not just about technology but also about all other aspects that could be necessary to learn in order to deliver impactful climate actions; Aptitude in Arabic, Chinese, French, Russian, or Spanish (desirable). General &amp;Specialist Knowledge Proficiency in one or more programming languages (e.g. Python, Java/C#, JavaScript, R, Scala, Go, etc); Strong knowledge or interest in topics central to the BCI such as climate change, climate finance, blockchain technology, and artificial intelligence preferred. Education &amp; Training A relevant degree or training in a relevant discipline is preferred; Experience in software development or other technical aspects of data-driven systems. Relevant Experience Proven ability in computing or math-related tasks of Agile technology projects; A portfolio of supported Open Source GitHub projects (desirable); Experience in building constructive relationships with stakeholders; Experience in working independently and with teams to drive forward projects using own initiative; Experience in designing, planning, and facilitating independent research and the ability to meet tight deadlines. What difference will you make? Blockchain and other emerging technologies. Climate change and sustainability. These are two hot topic groups that have been headlining media outlets, dominating conferences &amp; events, and gaining increasing traction in research and pilot projects. BCI is here as an expert platform to help governments, inter-governmental and regional organizations as well as relevant corporates to negotiate the complex landscape of emerging technologies for environmental good. We cement our expertise by putting in the hard work in researching, identifying, and analyzing the applications of emerging technologies so that informed decisions can be made by the stakeholders in the climate change and action network. Benefits you will get from volunteering with BCI are enormous and some include: You will hone or learn new skills including research, presentation, writing, professional etiquette, Your mind will be mentally stimulated, hence providing you with a sense of purpose; You will advance and boost your professional career by helping you to make professional connections and giving you real-world experience at the intersection between climate and emerging technologies; and Help you develop long-lasting professional relationships with others. People who come together to make the world a better place forge a close connection. Selection Process As a voluntary organization, we are pleased to open the door for candidates who may not have the prior experience they need to start, progress, or switch their careers. To recruit the most suitable, talented, or potential new members out of the volume of applications received, it is the BCI’s policy to also consider inexperienced candidates to fill our voluntary unpaid roles as long as they can demonstrate the skills required in the written assessment. In the selection process, most candidates will be invited to complete the following assessment. Section A: Verbal and Numerical Reasoning (20 multiple-choice questions) Section B: Situation Judgement Test (20 multiple-choice questions) Section C: In-Tray Exercise (An open-ended assessment relevant to the duties of the role) Candidates who pass all three sections will be invited to attend a phone screening, first interview, and final interview online. To apply: https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1",
+    "url": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
@@ -1033,33 +1233,126 @@
     "timezone": null,
     "tech_stack": [
       "javascript",
-      "vue",
-      "nuxt",
-      "laravel",
-      "mysql",
-      "aws",
-      "ios",
-      "cypress",
-      "playwright",
-      "vitest",
-      "rest",
-      "git",
-      "stripe"
+      "python",
+      "java",
+      "scala",
+      "machine-learning",
+      "blockchain"
     ],
     "tags": [
-      "programming",
-      "Front-End Programming"
+      "devops",
+      "DevOps and Sysadmin"
     ],
-    "posted_at": "2026-03-08T20:46:01.000Z",
-    "fetched_at": "2026-04-07T18:42:17.457Z",
+    "posted_at": "2026-04-07T20:33:50.000Z",
+    "fetched_at": "2026-04-08T01:06:56.804Z",
     "raw": {
-      "title": "Appetiser: Part-Time Full-Stack Developer (Laravel and VueJS)",
+      "title": "Blockchain & Climate Institute/ BCI America Inc.: UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
       "region": "Anywhere in the World",
-      "category": "Front-End Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> Colombo, 1, Sri Lanka\n</p>\n\nJob description\"Appetiser challenges me to give the best version of myself. I like how the company is transparent about its business model and anyone can contribute with an idea for its improvement. The culture within the team is unique and everyone is talented and skillful in their profession. We set goals guided by virtues created by the team rather than the traditional core values.” - Jeff Miralles / iOS DeveloperAre you someone who is DRIVING themselves to peak performance?Are you excited by HELPING PEOPLE create technology that impacts millions every day?If you answered YES to these questions, you may be a fit for Appetiser Apps. Join a high-performance team who are striving to go from an Australian market leader to a worldwide phenomenon. Our competitors cannot keep up with our technology, pace, and track record of successful clients.We need ambitious people like YOU to help us grow by 10X over the next 5 years.YOU WILL:BUILD beautiful websites using HTML and CSS to bring creative ideas to life.COLLABORATE with designers and developers to create web apps and backend mobile solutions.COORDINATE with teams to launch content, setting clear timelines and expectations.PLAN for the unexpected by preparing backup solutions to ensure site reliability.GROW and maintain the website by expanding its features and keeping content fresh.LEAD projects and, when needed, take charge of a team from start to finish.ADAPT quickly and take on new tasks as they arise.Job requirements​​The right fit for this role is DETERMINED and AMBITIOUS with: WORK ETHIC that leaves others in their dustRelentless desire to BECOME YOUR VERY BEST, and can prove it!DEEP KNOWLEDGE in technology&nbsp;A TRACK RECORD of IT experience, with a strong background in mobile and web app development, plus a solid grasp of programming basics.BONUS: Past experience as a DEVELOPER, ENGINEER, or PRODUCT MANAGER.&nbsp;Frontend/BackendProficient in using Git for version control and collaborationExperience in writing unit tests and building testable, maintainable codeSolid experience working with Stripe API and documentationUnderstanding of Agile software development practices (Scrum or Kanban)Reliable internet connection (minimum 30 Mbps download / 10 Mbps upload)Must own a personal laptop or desktop capable of handling development workloadsBackend:In-depth experience with Laravel 10 or later and a strong grasp of the Laravel ecosystemSolid knowledge of SQL schema design and SOLID principlesExperience with MySQL query optimization and performance profilingUnderstanding of scalable application architecture and design patternsProficient in developing RESTful APIs, including documentation using tools like Bruno, Insomnia, or PostmanFamiliarity with server setup and deployment, or experience using Amazon Web Services (AWS)Frontend:Proficient in HTML5, CSS3, JavaScript, and pre-processors like SassExperience with the Nuxt.js frameworkUnderstanding of modern frontend practices: composables, state management, component reuse, and responsive designBonus: Hands-on experience with Vitest, Cypress/Playwright, and TypeScriptJoin our team!Flexible Work Arrangements: The ability to work from anywhere in the world as long as you perform.Global Impact: Build products that reach users worldwide and truly make a difference in the world!Public Recognition: Track your achievements as you build a personal portfolio &amp; track record.Join a Culture of Drivers: Become part of a team that’s striving to be their very best.&nbsp;If this resonates with you, please apply today.P.S. We're hiring multiple individuals. If you want to recommend someone, please email us; an attractive referral bonus awaits!P.P.S. If you have any questions, email us at joinus@appetiser.com.auAll done!Your application has been successfully submitted!Other jobs\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs\">https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs</a></p>",
-      "pubDate": "Sun, 08 Mar 2026 20:46:01 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs",
-      "link": "https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs"
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> Canada\n</p>\n\n<p><strong>THIS IS AN UNPAID VOLUNTEERING ROLE.</strong></p><p><strong>Role Title: Technology Officers (Data Scientists/DevOps/Full Stack)</strong></p><p><strong>Role Nature: Volunteer</strong></p><p><strong>Location: Home-based</strong></p><p>The Blockchain &amp; Climate Institute (BCI) is an international volunteers-led think tank supporting and advocating the application of blockchain and other data technologies in the global fight against climate change.</p><p><strong>What will you be doing?</strong></p><p>We are looking for passionate <strong>VOLUNTEERS</strong> who take a methodological approach to their work, conducts independent research and analysis, engage with key stakeholders, and establish strategic partnerships to progress the BCI’s core mission.</p><p><strong>As with all roles in BCI, this role is a voluntary unpaid role.</strong></p><p>The technical roles considered will aim to support end-to-end projects, from the start this will involve business or domain knowledge understanding (e.g. finance, energy, forestry, etc) until a fully data-driven pipeline that delivers valuable insights. This entire pipeline can include (among others): “Data Scientists” developing machine learning and other statistical models, “Data Engineers” performing ETL (Extract, Transform, Load) and other data wrangling tasks, “DevOps” supporting the entire hybrid IT Infrastructure (e.g. cloud, on-premise) and “Full Stack Developers” supporting front end and back of Apps (e.g. Web, Mobile, APIs, etc). </p><p>The amazing opportunity provided by this role will help the successful candidate improve their skills in a wide range of cutting-edge technologies while helping to support a good cause. Technology Officers will be appointed to a specific technical role (e.g. Data Scientist, DevOps, etc) or could be general in order to accommodate their personal interests and future career development. These roles will work extensively with other roles within BCI to support technical projects that could involve a wide range of Data Technologies, not just Distributed Ledgers (e.g. Blockchains, Directed Acyclic graphs) but also Artificial Intelligence, the Internet of Things, etc.</p><p>In the Technology Officer Grade, volunteers with more experience may be appointed as Principal or Senior Technology Officer.</p><p></p><p><strong>Responsibilities:</strong></p><p></p><ul> <li>To provide technical support for members of working groups in areas such as renewable energy, carbon trading, forest monitoring, natural resource management, blockchain technology, artificial intelligence, etc.</li> <li>To generate opportunities for strategic partnerships;</li> <li>To attend conferences and events to promote the BCI, communicate research findings and insights via Powerpoint decks, and engage with key stakeholders.</li> </ul> <p></p><p><strong>Skills &amp; Abilities</strong></p><p></p><ul> <li>Excellent oral communication skills, including the ability to develop effective working relationships, work flexibly across professional and operational boundaries, and communicate professionally with internal and external stakeholders at all levels;</li> <li>Excellent organizational skills and ability to balance competing demands under pressure;</li> <li>Strong technical skills (e.g. math and coding skills) and detail-orientated;</li> <li>Strong presentation skills and ability to present ideas appropriately and persuasively;</li> <li>Sense of mission and willingness to learn not just about technology but also about all other aspects that could be necessary to learn in order to deliver impactful climate actions; </li> <li>Aptitude in Arabic, Chinese, French, Russian, or Spanish (desirable).</li> </ul><p></p><p><strong>General &amp;Specialist Knowledge</strong></p><p></p><ul> <li>Proficiency in one or more programming languages (e.g. Python, Java/C#, JavaScript, R, Scala, Go, etc); </li> <li>Strong knowledge or interest in topics central to the BCI such as climate change, climate finance, blockchain technology, and artificial intelligence preferred.</li> </ul><p></p><p><strong>Education &amp; Training</strong></p><p></p><ul> <li>A relevant degree or training in a relevant discipline is preferred; </li> <li>Experience in software development or other technical aspects of data-driven systems.</li> </ul><p></p><p><strong>Relevant Experience</strong></p><p></p><ul> <li>Proven ability in computing or math-related tasks of Agile technology projects;</li> <li>A portfolio of supported Open Source GitHub projects (desirable);</li> <li>Experience in building constructive relationships with stakeholders;</li> <li>Experience in working independently and with teams to drive forward projects using own initiative; </li> <li>Experience in designing, planning, and facilitating independent research and the ability to meet tight deadlines.</li> </ul> <p><strong>What difference will you make?</strong></p><p>Blockchain and other emerging technologies. Climate change and sustainability. These are two hot topic groups that have been headlining media outlets, dominating conferences &amp; events, and gaining increasing traction in research and pilot projects. </p><p>BCI is here as an expert platform to help governments, inter-governmental and regional organizations as well as relevant corporates to negotiate the complex landscape of emerging technologies for environmental good. We cement our expertise by putting in the hard work in researching, identifying, and analyzing the applications of emerging technologies so that informed decisions can be made by the stakeholders in the climate change and action network. </p><p><strong>Benefits you will get from volunteering with BCI are enormous and some include:</strong></p><ul> <li>You will hone or learn new skills including research, presentation, writing, professional etiquette,</li> <li>Your mind will be mentally stimulated, hence providing you with a sense of purpose;</li> <li>You will advance and boost your professional career by helping you to make professional connections and giving you real-world experience at the intersection between climate and emerging technologies; and</li> <li>Help you develop long-lasting professional relationships with others. People who come together to make the world a better place forge a close connection.</li> </ul><p><strong>Selection Process</strong></p><p>As a voluntary organization, we are pleased to open the door for candidates who may not have the prior experience they need to start, progress, or switch their careers. To recruit the most suitable, talented, or potential new members out of the volume of applications received, it is the BCI’s policy to also consider inexperienced candidates to fill our voluntary unpaid roles as long as they can demonstrate the skills required in the written assessment. In the selection process, most candidates will be invited to complete the following assessment.</p><p>Section A: Verbal and Numerical Reasoning (20 multiple-choice questions)</p><p>Section B: Situation Judgement Test (20 multiple-choice questions)</p><p>Section C: In-Tray Exercise (An open-ended assessment relevant to the duties of the role)</p><p>Candidates who pass all three sections will be invited to attend a phone screening, first interview, and final interview online.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1\">https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1</a></p>",
+      "pubDate": "Tue, 07 Apr 2026 20:33:50 +0000",
+      "expires_at": "Thu, 07 May 2026 20:33:50 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1",
+      "link": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1"
+    }
+  },
+  {
+    "id": "wwr:blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack",
+    "platform": "wwr",
+    "external_id": "blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack",
+    "title": "UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
+    "company": "Blockchain & Climate Institute/ Bci America Inc.",
+    "description": "Headquarters: United States THIS IS AN UNPAID VOLUNTEERING ROLE. Role Title: Technology Officers (Data Scientists/DevOps/Full Stack) Role Nature: Volunteer Location: Home-based The Blockchain &amp; Climate Institute (BCI) is an international volunteers-led think tank supporting and advocating the application of blockchain and other data technologies in the global fight against climate change. What will you be doing? We are looking for passionate VOLUNTEERS who take a methodological approach to their work, conducts independent research and analysis, engage with key stakeholders, and establish strategic partnerships to progress the BCI’s core mission. As with all roles in BCI, this role is a voluntary unpaid role. The technical roles considered will aim to support end-to-end projects, from the start this will involve business or domain knowledge understanding (e.g. finance, energy, forestry, etc) until a fully data-driven pipeline that delivers valuable insights. This entire pipeline can include (among others): “Data Scientists” developing machine learning and other statistical models, “Data Engineers” performing ETL (Extract, Transform, Load) and other data wrangling tasks, “DevOps” supporting the entire hybrid IT Infrastructure (e.g. cloud, on-premise) and “Full Stack Developers” supporting front end and back of Apps (e.g. Web, Mobile, APIs, etc). The amazing opportunity provided by this role will help the successful candidate improve their skills in a wide range of cutting-edge technologies while helping to support a good cause. Technology Officers will be appointed to a specific technical role (e.g. Data Scientist, DevOps, etc) or could be general in order to accommodate their personal interests and future career development. These roles will work extensively with other roles within BCI to support technical projects that could involve a wide range of Data Technologies, not just Distributed Ledgers (e.g. Blockchains, Directed Acyclic graphs) but also Artificial Intelligence, the Internet of Things, etc. In the Technology Officer Grade, volunteers with more experience may be appointed as Principal or Senior Technology Officer. Responsibilities: To provide technical support for members of working groups in areas such as renewable energy, carbon trading, forest monitoring, natural resource management, blockchain technology, artificial intelligence, etc. To generate opportunities for strategic partnerships; To attend conferences and events to promote the BCI, communicate research findings and insights via Powerpoint decks, and engage with key stakeholders. Skills &amp; Abilities Excellent oral communication skills, including the ability to develop effective working relationships, work flexibly across professional and operational boundaries, and communicate professionally with internal and external stakeholders at all levels; Excellent organizational skills and ability to balance competing demands under pressure; Strong technical skills (e.g. math and coding skills) and detail-orientated; Strong presentation skills and ability to present ideas appropriately and persuasively; Sense of mission and willingness to learn not just about technology but also about all other aspects that could be necessary to learn in order to deliver impactful climate actions; Aptitude in Arabic, Chinese, French, Russian, or Spanish (desirable). General &amp;Specialist Knowledge Proficiency in one or more programming languages (e.g. Python, Java/C#, JavaScript, R, Scala, Go, etc); Strong knowledge or interest in topics central to the BCI such as climate change, climate finance, blockchain technology, and artificial intelligence preferred. Education &amp; Training A relevant degree or training in a relevant discipline is preferred; Experience in software development or other technical aspects of data-driven systems. Relevant Experience Proven ability in computing or math-related tasks of Agile technology projects; A portfolio of supported Open Source GitHub projects (desirable); Experience in building constructive relationships with stakeholders; Experience in working independently and with teams to drive forward projects using own initiative; Experience in designing, planning, and facilitating independent research and the ability to meet tight deadlines. What difference will you make? Blockchain and other emerging technologies. Climate change and sustainability. These are two hot topic groups that have been headlining media outlets, dominating conferences &amp; events, and gaining increasing traction in research and pilot projects. BCI is here as an expert platform to help governments, inter-governmental and regional organizations as well as relevant corporates to negotiate the complex landscape of emerging technologies for environmental good. We cement our expertise by putting in the hard work in researching, identifying, and analyzing the applications of emerging technologies so that informed decisions can be made by the stakeholders in the climate change and action network. Benefits you will get from volunteering with BCI are enormous and some include: You will hone or learn new skills including research, presentation, writing, professional etiquette, Your mind will be mentally stimulated, hence providing you with a sense of purpose; You will advance and boost your professional career by helping you to make professional connections and giving you real-world experience at the intersection between climate and emerging technologies; and Help you develop long-lasting professional relationships with others. People who come together to make the world a better place forge a close connection. Selection Process As a voluntary organization, we are pleased to open the door for candidates who may not have the prior experience they need to start, progress, or switch their careers. To recruit the most suitable, talented, or potential new members out of the volume of applications received, it is the BCI’s policy to also consider inexperienced candidates to fill our voluntary unpaid roles as long as they can demonstrate the skills required in the written assessment. In the selection process, most candidates will be invited to complete the following assessment. Section A: Verbal and Numerical Reasoning (20 multiple-choice questions) Section B: Situation Judgement Test (20 multiple-choice questions) Section C: In-Tray Exercise (An open-ended assessment relevant to the duties of the role) Candidates who pass all three sections will be invited to attend a phone screening, first interview, and final interview online. To apply: https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack",
+    "url": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "java",
+      "scala",
+      "machine-learning",
+      "blockchain"
+    ],
+    "tags": [
+      "devops",
+      "DevOps and Sysadmin"
+    ],
+    "posted_at": "2026-04-07T20:33:45.000Z",
+    "fetched_at": "2026-04-08T01:06:56.806Z",
+    "raw": {
+      "title": "Blockchain & Climate Institute/ Bci America Inc.: UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
+      "region": "Anywhere in the World",
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> United States\n</p>\n\n<p><strong>THIS IS AN UNPAID VOLUNTEERING ROLE.</strong></p><p><strong>Role Title: Technology Officers (Data Scientists/DevOps/Full Stack)</strong></p><p><strong>Role Nature: Volunteer</strong></p><p><strong>Location: Home-based</strong></p><p>The Blockchain &amp; Climate Institute (BCI) is an international volunteers-led think tank supporting and advocating the application of blockchain and other data technologies in the global fight against climate change.</p><p><strong>What will you be doing?</strong></p><p>We are looking for passionate <strong>VOLUNTEERS</strong> who take a methodological approach to their work, conducts independent research and analysis, engage with key stakeholders, and establish strategic partnerships to progress the BCI’s core mission.</p><p><strong>As with all roles in BCI, this role is a voluntary unpaid role.</strong></p><p>The technical roles considered will aim to support end-to-end projects, from the start this will involve business or domain knowledge understanding (e.g. finance, energy, forestry, etc) until a fully data-driven pipeline that delivers valuable insights. This entire pipeline can include (among others): “Data Scientists” developing machine learning and other statistical models, “Data Engineers” performing ETL (Extract, Transform, Load) and other data wrangling tasks, “DevOps” supporting the entire hybrid IT Infrastructure (e.g. cloud, on-premise) and “Full Stack Developers” supporting front end and back of Apps (e.g. Web, Mobile, APIs, etc). </p><p>The amazing opportunity provided by this role will help the successful candidate improve their skills in a wide range of cutting-edge technologies while helping to support a good cause. Technology Officers will be appointed to a specific technical role (e.g. Data Scientist, DevOps, etc) or could be general in order to accommodate their personal interests and future career development. These roles will work extensively with other roles within BCI to support technical projects that could involve a wide range of Data Technologies, not just Distributed Ledgers (e.g. Blockchains, Directed Acyclic graphs) but also Artificial Intelligence, the Internet of Things, etc.</p><p>In the Technology Officer Grade, volunteers with more experience may be appointed as Principal or Senior Technology Officer.</p><p></p><p><strong>Responsibilities:</strong></p><p></p><ul> <li>To provide technical support for members of working groups in areas such as renewable energy, carbon trading, forest monitoring, natural resource management, blockchain technology, artificial intelligence, etc.</li> <li>To generate opportunities for strategic partnerships;</li> <li>To attend conferences and events to promote the BCI, communicate research findings and insights via Powerpoint decks, and engage with key stakeholders.</li> </ul> <p></p><p><strong>Skills &amp; Abilities</strong></p><p></p><ul> <li>Excellent oral communication skills, including the ability to develop effective working relationships, work flexibly across professional and operational boundaries, and communicate professionally with internal and external stakeholders at all levels;</li> <li>Excellent organizational skills and ability to balance competing demands under pressure;</li> <li>Strong technical skills (e.g. math and coding skills) and detail-orientated;</li> <li>Strong presentation skills and ability to present ideas appropriately and persuasively;</li> <li>Sense of mission and willingness to learn not just about technology but also about all other aspects that could be necessary to learn in order to deliver impactful climate actions; </li> <li>Aptitude in Arabic, Chinese, French, Russian, or Spanish (desirable).</li> </ul><p></p><p><strong>General &amp;Specialist Knowledge</strong></p><p></p><ul> <li>Proficiency in one or more programming languages (e.g. Python, Java/C#, JavaScript, R, Scala, Go, etc); </li> <li>Strong knowledge or interest in topics central to the BCI such as climate change, climate finance, blockchain technology, and artificial intelligence preferred.</li> </ul><p></p><p><strong>Education &amp; Training</strong></p><p></p><ul> <li>A relevant degree or training in a relevant discipline is preferred; </li> <li>Experience in software development or other technical aspects of data-driven systems.</li> </ul><p></p><p><strong>Relevant Experience</strong></p><p></p><ul> <li>Proven ability in computing or math-related tasks of Agile technology projects;</li> <li>A portfolio of supported Open Source GitHub projects (desirable);</li> <li>Experience in building constructive relationships with stakeholders;</li> <li>Experience in working independently and with teams to drive forward projects using own initiative; </li> <li>Experience in designing, planning, and facilitating independent research and the ability to meet tight deadlines.</li> </ul> <p><strong>What difference will you make?</strong></p><p>Blockchain and other emerging technologies. Climate change and sustainability. These are two hot topic groups that have been headlining media outlets, dominating conferences &amp; events, and gaining increasing traction in research and pilot projects. </p><p>BCI is here as an expert platform to help governments, inter-governmental and regional organizations as well as relevant corporates to negotiate the complex landscape of emerging technologies for environmental good. We cement our expertise by putting in the hard work in researching, identifying, and analyzing the applications of emerging technologies so that informed decisions can be made by the stakeholders in the climate change and action network. </p><p><strong>Benefits you will get from volunteering with BCI are enormous and some include:</strong></p><ul> <li>You will hone or learn new skills including research, presentation, writing, professional etiquette,</li> <li>Your mind will be mentally stimulated, hence providing you with a sense of purpose;</li> <li>You will advance and boost your professional career by helping you to make professional connections and giving you real-world experience at the intersection between climate and emerging technologies; and</li> <li>Help you develop long-lasting professional relationships with others. People who come together to make the world a better place forge a close connection.</li> </ul><p><strong>Selection Process</strong></p><p>As a voluntary organization, we are pleased to open the door for candidates who may not have the prior experience they need to start, progress, or switch their careers. To recruit the most suitable, talented, or potential new members out of the volume of applications received, it is the BCI’s policy to also consider inexperienced candidates to fill our voluntary unpaid roles as long as they can demonstrate the skills required in the written assessment. In the selection process, most candidates will be invited to complete the following assessment.</p><p>Section A: Verbal and Numerical Reasoning (20 multiple-choice questions)</p><p>Section B: Situation Judgement Test (20 multiple-choice questions)</p><p>Section C: In-Tray Exercise (An open-ended assessment relevant to the duties of the role)</p><p>Candidates who pass all three sections will be invited to attend a phone screening, first interview, and final interview online.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack\">https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack</a></p>",
+      "pubDate": "Tue, 07 Apr 2026 20:33:45 +0000",
+      "expires_at": "Thu, 07 May 2026 20:33:45 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack",
+      "link": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack"
+    }
+  },
+  {
+    "id": "wwr:blau-direkt-senior-devops-engineer-m-w-d",
+    "platform": "wwr",
+    "external_id": "blau-direkt-senior-devops-engineer-m-w-d",
+    "title": "Senior DevOps Engineer (m/w/d)",
+    "company": "blau direkt",
+    "description": "Headquarters: Remote / Deutschlandweit, Pforzheim Das erwartet dich „Eines der innovativsten Unternehmen Deutschlands“ – das sagen Institutionen wie Capital oder Brand Eins über uns. Was wir selbst mit Sicherheit sagen können, ist, dass wir der Digitalisierungsmotor der Versicherungswirtschaft sind. Wir entwickeln automatisierte Kommunikations- und Vernetzungslösungen für die Versicherungsbranche, die den Geschäftsmodellen unserer Kunden die Zukunftsfähigkeit sichern. Unsere Werte werden von unserem Leitbild bestimmt, das auf die Schaffung von Nutzen und Kundenmehrwert ausgerichtet ist. Das macht uns verlässlich und wertschätzend – eine hervorragende Kombination. Findest Du nicht auch? Deine Aufgaben: Betrieb &amp; Support: Im engen Austausch mit unseren Business Analysten und Kunden analysierst Du neue Anforderungen sowie Incidents, kümmerst dich um die operative Systembetreuung, unterstützt bei der Planung und stehst als kompetenter Ansprechpartner im Third-Level-Support zur Verfügung. Security: Du gewährleistest die Einhaltung hoher Sicherheitsanforderungen und unterstützt die Implementierung sowie kontinuierliche Verbesserung unseres Information Security Management Systems (ISMS – ISO 27001). Development: Du konzipierst und entwickelst anspruchsvolle Webanwendungen sowie Schnittstellen für verschiedene Projekte. Du betreust zudem unsere bestehenden, webserviceorientierten Kernapplikationen. Operating: Gemeinsam mit den anderen DevOps-Teammitgliedern übernimmst Du die Steuerung und Verwaltung unserer Infrastruktur und leistest einen entscheidenden Beitrag zur kontinuierlichen Optimierung unserer Services. Zu Deinem Tätigkeitsbereich gehören so unter anderem die Administration klassischer VMs, die Betreuung von Kubernetes Clustern und Deployments sowie Docker Compose Deployments und CI/CD Pipelines. Netzwerksicherheit: Du betreust den Aufbau und die Pflege von Firewalls, Policies und Security Guidelines. Datenbank- &amp; Serverbetrieb: Du übernimmst die Planung, Verwaltung und Optimierung unserer Datenbanken sowie die Administration der Linux- und Windows-Server. Dein Fokus liegt dabei sowohl auf Effizienz als auch Skalierbarkeit der Systeme, um auch zukünftigen Anwendungen gerecht zu werden.&nbsp; Monitoring &amp; Logging: Du baust unser Monitoring durch Tools wie Elastic aus und erweiterst das Logging um die Analyse &amp; Stabilisierung der Betriebsumgebung zu gewährleisten. Koordination: Du koordinierst Deine Aufgaben innerhalb des Teams, indem Du fachliche Vorgaben in klaren und strukturierten Sprintphasen umsetzt und die Projektziele im Blick behältst. Projektmanagement: Du treibst eigenverantwortlich Deine Projekte in unserer internen Tech-Roadmap voran.&nbsp; Dokumentation: Du erstellst und pflegst eigenständig unsere Entwicklungs- und Infrastrukturdokumentationen und sorgst dafür, dass Wissen nachhaltig gesichert und jederzeit zugänglich bleibt. Infrastructure as Code: Du konzipierst zukunftsfähige Anforderungen an unsere Infrastrukur und stellst den automatisierten Aufbau und die Pflege von Cloud- und On-Premise-Umgebungen bereit. Das bringst du mit Langjährige Erfahrung: Du hast ein Informatikstudium oder eine vergleichbare Ausbildung absolviert und bringst mindestens fünf Jahre Erfahrung in der Backend-Entwicklung im PHP-Umfeld mit. DevOps Kompetenz: Du bringst DevOps Know-how mit und besitzt Expertenwissen in CI-/CD-Pipelines, Network &amp; Security, Monitoring/Logging (Elastic Stack), Containerisierung, Linux &amp; Windows VM-Betreuung, RabbitMQ, Kubernetes, Infrastruktur-as-Code. Development Know-how: Du hast fundierte Erfahrungen mit PHP (Versionen 7.3 bis 8.4), PHP-Frameworks (Symfony, Laravel, Slim etc.), Datenbankadministration mit MySQL, SOAP-Webservices und JSON-APIs. Teamarbeit: Du hast Erfahrung in der Arbeit und Kommunikation innerhalb von Entwicklungsteams (Git/GitLab, Jira, Confluence, SCRUM-Erfahrung von Vorteil) sowie im Third-Level-Support. Analysefähigkeit: Du besitzt eine schnelle Auffassungsgabe und kannst Dich schnell in neue Themen einarbeiten. Eigenverantwortliches Arbeiten in einem erfahrenen Team runden Dein Profil ab. Das bieten wir dir Flexibilität: Ob vollständig mobil, vor Ort oder hybrid – die Wahl liegt bei Dir. Karriere und Weiterbildung: Selbstverständlich bieten wir Dir fachliche und persönliche Weiterbildungsmöglichkeiten in verschiedenen Bereichen an. Workspace: Wir sind kreativ, innovativ, modern und schnell – und haben auch noch eine Menge Spaß dabei. Das geht nur in einer Arbeitsumgebung, die dies widerspiegelt. Willkommen in der 1. Liga: Bei uns geht’s schneller voran! Geschwindigkeit und Qualität werden bei uns großgeschrieben – sei es in der Produktentwicklung oder bei unseren Digitalisierungsinitiativen. Wir setzen auf Effizienz und Innovation, um stets einen Schritt voraus zu sein. Das schätzen nicht nur wir selbst, sondern auch unsere Kunden und Partner. Dynamisches Team: Bei uns triffst Du auf ein engagiertes und motiviertes Team, in dem Fairness und Offenheit an erster Stelle stehen.&nbsp; Bei uns hilft jeder jedem: Hilfsbereitschaft wird bei uns großgeschrieben, um auf Augenhöhe gemeinsam die besten Lösungen zu finden und als Team zu wachsen. Betriebliche Vorsorge: Wir eröffnen Dir eine Vorsorge mit zeitlichem Mehrwert und den Zugang zur betrieblichen Krankenversicherung und betrieblichen Altersvorsorge. Über uns Revolutionäre Software, moderne Offices und hochmotivierte Teams - das gibt es nur in Berlin oder im Silicon Valley, stimmt's? Nicht ganz! Auch im beschaulichen Lübeck findest du so ein rasant wachsendes Unternehmen, das im Begriff ist, eine ganze Branche umzukrempeln. Das sind wir, blau direkt! Gegründet im Jahr 2000 mit der Vision, den Versicherungs- und Investmentbereich durch den Einsatz von Technologie radikal zu verändern. Konkret bedeutet das: Versicherungsmakler und -vertriebe in ganz Deutschland nutzen unsere innovative Infrastruktur, um ihre Betriebe zu digitalisieren. Auch wenn es uns schon eine ganze Zeit lang gibt, das Spannendste liegt noch vor uns! Und dafür brauchen wir noch mehr kluge Köpfe, mutige Entdecker und clevere Strategen. Wenn Du einen unserer 350 Mitarbeiter:innen fragst, wie sie blau direkt beschreiben, würden sie dir wohl von familiärer Atmosphäre, großartigen Weiterentwicklungsmöglichkeiten und spektakulären Events berichten. Klingt nach dem Unternehmen, bei dem du morgen arbeiten möchtest? Dann schicke uns doch heute deine Bewerbung. Wir freuen uns auf dich! &nbsp; To apply: https://weworkremotely.com/remote-jobs/blau-direkt-senior-devops-engineer-m-w-d",
+    "url": "https://weworkremotely.com/remote-jobs/blau-direkt-senior-devops-engineer-m-w-d",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "php",
+      "laravel",
+      "mysql",
+      "docker",
+      "kubernetes",
+      "gitlab",
+      "rabbitmq",
+      "git",
+      "linux"
+    ],
+    "tags": [
+      "devops",
+      "DevOps and Sysadmin"
+    ],
+    "posted_at": "2026-04-07T20:31:29.000Z",
+    "fetched_at": "2026-04-08T01:06:56.807Z",
+    "raw": {
+      "title": "blau direkt: Senior DevOps Engineer (m/w/d)",
+      "region": "Anywhere in the World",
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote / Deutschlandweit, Pforzheim\n</p>\n\n<div class=\"description-wrapper description-wrapper-shown\" lang=\"de\"><br><br><h5 class=\"detail-block-title\">Das erwartet dich</h5><br><div class=\"detail-block-description\"><br><p>„Eines der innovativsten Unternehmen Deutschlands“ – das sagen Institutionen wie Capital oder Brand Eins über uns. Was wir selbst mit Sicherheit sagen können, ist, dass wir der Digitalisierungsmotor der Versicherungswirtschaft sind. Wir entwickeln automatisierte Kommunikations- und Vernetzungslösungen für die Versicherungsbranche, die den Geschäftsmodellen unserer Kunden die Zukunftsfähigkeit sichern. Unsere Werte werden von unserem Leitbild bestimmt, das auf die Schaffung von Nutzen und Kundenmehrwert ausgerichtet ist. Das macht uns verlässlich und wertschätzend – eine hervorragende Kombination. Findest Du nicht auch?</p><br><p><strong>Deine Aufgaben:</strong><br><br></p><ul><li><p><strong>Betrieb &amp; Support:</strong> Im engen Austausch mit unseren Business Analysten und Kunden analysierst Du neue Anforderungen sowie Incidents, kümmerst dich um die operative Systembetreuung, unterstützt bei der Planung und stehst als kompetenter Ansprechpartner im Third-Level-Support zur Verfügung.</p></li><li><p><strong>Security:</strong> Du gewährleistest die Einhaltung hoher Sicherheitsanforderungen und unterstützt die Implementierung sowie kontinuierliche Verbesserung unseres Information Security Management Systems (ISMS – ISO 27001).</p></li><li><p><strong>Development:</strong> Du konzipierst und entwickelst anspruchsvolle Webanwendungen sowie Schnittstellen für verschiedene Projekte. Du betreust zudem unsere bestehenden, webserviceorientierten Kernapplikationen.</p></li><li><p><strong>Operating:</strong> Gemeinsam mit den anderen DevOps-Teammitgliedern übernimmst Du die Steuerung und Verwaltung unserer Infrastruktur und leistest einen entscheidenden Beitrag zur kontinuierlichen Optimierung unserer Services. Zu Deinem Tätigkeitsbereich gehören so unter anderem die Administration klassischer VMs, die Betreuung von Kubernetes Clustern und Deployments sowie Docker Compose Deployments und CI/CD Pipelines.</p></li><li><p><strong>Netzwerksicherheit:</strong> Du betreust den Aufbau und die Pflege von Firewalls, Policies und Security Guidelines.</p></li><li><p><strong>Datenbank- &amp; Serverbetrieb:</strong> Du übernimmst die Planung, Verwaltung und Optimierung unserer Datenbanken sowie die Administration der Linux- und Windows-Server. Dein Fokus liegt dabei sowohl auf Effizienz als auch Skalierbarkeit der Systeme, um auch zukünftigen Anwendungen gerecht zu werden.&nbsp;</p></li><li><strong>Monitoring &amp; Logging:</strong> Du baust unser Monitoring durch Tools wie Elastic aus und erweiterst das Logging um die Analyse &amp; Stabilisierung der Betriebsumgebung zu gewährleisten.<br><br></li><li><p><strong>Koordination:</strong> Du koordinierst Deine Aufgaben innerhalb des Teams, indem Du fachliche Vorgaben in klaren und strukturierten Sprintphasen umsetzt und die Projektziele im Blick behältst.</p></li><li><p><strong>Projektmanagement:</strong> Du treibst eigenverantwortlich Deine Projekte in unserer internen Tech-Roadmap voran.&nbsp;</p></li><li><p><strong>Dokumentation:</strong> Du erstellst und pflegst eigenständig unsere Entwicklungs- und Infrastrukturdokumentationen und sorgst dafür, dass Wissen nachhaltig gesichert und jederzeit zugänglich bleibt.</p></li><li><strong>Infrastructure as Code:</strong> Du konzipierst zukunftsfähige Anforderungen an unsere Infrastrukur und stellst den automatisierten Aufbau und die Pflege von Cloud- und On-Premise-Umgebungen bereit.</li></ul><br></div><br><br><br><h5 class=\"detail-block-title\">Das bringst du mit</h5><br><div class=\"detail-block-description\"><br><ul><li><p><strong>Langjährige Erfahrung:</strong> Du hast ein Informatikstudium oder eine vergleichbare Ausbildung absolviert und bringst mindestens fünf Jahre Erfahrung in der Backend-Entwicklung im PHP-Umfeld mit.</p></li><li><p><strong>DevOps Kompetenz:</strong> Du bringst DevOps Know-how mit und besitzt Expertenwissen in CI-/CD-Pipelines, Network &amp; Security, Monitoring/Logging (Elastic Stack), Containerisierung, Linux &amp; Windows VM-Betreuung, RabbitMQ, Kubernetes, Infrastruktur-as-Code.</p></li><li><p><strong>Development Know-how:</strong> Du hast fundierte Erfahrungen mit PHP (Versionen 7.3 bis 8.4), PHP-Frameworks (Symfony, Laravel, Slim etc.), Datenbankadministration mit MySQL, SOAP-Webservices und JSON-APIs.</p></li><li><p><strong>Teamarbeit:</strong> Du hast Erfahrung in der Arbeit und Kommunikation innerhalb von Entwicklungsteams (Git/GitLab, Jira, Confluence, SCRUM-Erfahrung von Vorteil) sowie im Third-Level-Support.</p></li><li><p><strong>Analysefähigkeit:</strong> Du besitzt eine schnelle Auffassungsgabe und kannst Dich schnell in neue Themen einarbeiten. Eigenverantwortliches Arbeiten in einem erfahrenen Team runden Dein Profil ab.</p></li></ul><br></div><br><br><br><h5 class=\"detail-block-title\">Das bieten wir dir</h5><br><div class=\"detail-block-description\"><br><ul><li><strong>Flexibilität:</strong> Ob vollständig mobil, vor Ort oder hybrid – die Wahl liegt bei Dir.<br><br></li><li><strong>Karriere und Weiterbildung:</strong> Selbstverständlich bieten wir Dir fachliche und persönliche Weiterbildungsmöglichkeiten in verschiedenen Bereichen an.<br><br></li><li><strong>Workspace:</strong> Wir sind kreativ, innovativ, modern und schnell – und haben auch noch eine Menge Spaß dabei. Das geht nur in einer Arbeitsumgebung, die dies widerspiegelt.<br><br></li><li><strong>Willkommen in der 1. Liga:</strong> Bei uns geht’s schneller voran! Geschwindigkeit und Qualität werden bei uns großgeschrieben – sei es in der Produktentwicklung oder bei unseren Digitalisierungsinitiativen. Wir setzen auf Effizienz und Innovation, um stets einen Schritt voraus zu sein. Das schätzen nicht nur wir selbst, sondern auch unsere Kunden und Partner.<br><br></li><li><strong>Dynamisches Team:</strong> Bei uns triffst Du auf ein engagiertes und motiviertes Team, in dem Fairness und Offenheit an erster Stelle stehen.&nbsp;<br><br></li><li><strong>Bei uns hilft jeder jedem:</strong> Hilfsbereitschaft wird bei uns großgeschrieben, um auf Augenhöhe gemeinsam die besten Lösungen zu finden und als Team zu wachsen.<br><br></li><li><strong>Betriebliche Vorsorge:</strong> Wir eröffnen Dir eine Vorsorge mit zeitlichem Mehrwert und den Zugang zur betrieblichen Krankenversicherung und betrieblichen Altersvorsorge.</li></ul><br></div><br><br><br><h5 class=\"detail-block-title\">Über uns</h5><br><div class=\"detail-block-description\"><br><p><span>Revolutionäre Software, moderne Offices und hochmotivierte Teams - das gibt es nur in Berlin oder im Silicon Valley, stimmt's? Nicht ganz! Auch im beschaulichen Lübeck findest du so ein rasant wachsendes Unternehmen, das im Begriff ist, eine ganze Branche umzukrempeln.</span></p><span>Das sind wir, blau direkt! Gegründet im Jahr 2000 mit der Vision, den Versicherungs- und Investmentbereich durch den Einsatz von Technologie radikal zu verändern. Konkret bedeutet das: Versicherungsmakler und -vertriebe in ganz Deutschland nutzen unsere innovative Infrastruktur, um ihre Betriebe zu digitalisieren. Auch wenn es uns schon eine ganze Zeit lang gibt, das Spannendste liegt noch vor uns! Und dafür brauchen wir noch mehr kluge Köpfe, mutige Entdecker und clevere Strategen. Wenn Du einen unserer 350 Mitarbeiter:innen fragst, wie sie blau direkt beschreiben, würden sie dir wohl von familiärer Atmosphäre, großartigen Weiterentwicklungsmöglichkeiten und spektakulären Events berichten. Klingt nach dem Unternehmen, bei dem du morgen arbeiten möchtest? Dann schicke uns doch heute deine Bewerbung. Wir freuen uns auf dich!</span><span>&nbsp;</span><br></div><br><br></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/blau-direkt-senior-devops-engineer-m-w-d\">https://weworkremotely.com/remote-jobs/blau-direkt-senior-devops-engineer-m-w-d</a></p>",
+      "pubDate": "Tue, 07 Apr 2026 20:31:29 +0000",
+      "expires_at": "Thu, 07 May 2026 20:31:29 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/blau-direkt-senior-devops-engineer-m-w-d",
+      "link": "https://weworkremotely.com/remote-jobs/blau-direkt-senior-devops-engineer-m-w-d"
     }
   },
   {
@@ -1095,7 +1388,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:34.000Z",
-    "fetched_at": "2026-04-07T18:42:17.719Z",
+    "fetched_at": "2026-04-08T01:06:56.808Z",
     "raw": {
       "title": "Marbis: Frontend DevOps Engineer - Full or Part-time (m/f/x)",
       "region": "Anywhere in the World",
@@ -1145,7 +1438,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:22.000Z",
-    "fetched_at": "2026-04-07T18:42:17.719Z",
+    "fetched_at": "2026-04-08T01:06:56.809Z",
     "raw": {
       "title": "Greenbone: Senior DevOps Engineer - Delivery & Infrastructure Automation (m/f/d)",
       "region": "Anywhere in the World",
@@ -1199,7 +1492,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:22.000Z",
-    "fetched_at": "2026-04-07T18:42:17.721Z",
+    "fetched_at": "2026-04-08T01:06:56.810Z",
     "raw": {
       "title": "Dr.kaske: Full Stack WordPress Developer (m/f/d) with DevOps Skills",
       "region": "Anywhere in the World",
@@ -1253,7 +1546,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:12.000Z",
-    "fetched_at": "2026-04-07T18:42:17.722Z",
+    "fetched_at": "2026-04-08T01:06:56.812Z",
     "raw": {
       "title": "Smile.ai: Full Stack WordPress Developer (m/f/d) with DevOps Skills",
       "region": "Anywhere in the World",
@@ -1295,7 +1588,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:33:23.000Z",
-    "fetched_at": "2026-04-07T18:42:17.723Z",
+    "fetched_at": "2026-04-08T01:06:56.813Z",
     "raw": {
       "title": "Sophos: Senior DevOps Engineer 2 (Power Platform Engineer)",
       "region": "Anywhere in the World",
@@ -1339,7 +1632,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:33:14.000Z",
-    "fetched_at": "2026-04-07T18:42:17.723Z",
+    "fetched_at": "2026-04-08T01:06:56.814Z",
     "raw": {
       "title": "3pillar: DevOps Technical Lead",
       "region": "Anywhere in the World",
@@ -1387,7 +1680,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:53.000Z",
-    "fetched_at": "2026-04-07T18:42:17.725Z",
+    "fetched_at": "2026-04-08T01:06:56.815Z",
     "raw": {
       "title": "Nord Security: DevOps Engineer | Mid-Senior | Saily",
       "region": "Anywhere in the World",
@@ -1435,7 +1728,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:53.000Z",
-    "fetched_at": "2026-04-07T18:42:17.726Z",
+    "fetched_at": "2026-04-08T01:06:56.816Z",
     "raw": {
       "title": "Nord Security: DevOps Engineer | Mid-Senior | Saily",
       "region": "Anywhere in the World",
@@ -1482,7 +1775,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:03.000Z",
-    "fetched_at": "2026-04-07T18:42:17.726Z",
+    "fetched_at": "2026-04-08T01:06:56.817Z",
     "raw": {
       "title": "Botario: (Senior) DevOps Engineer (all genders)",
       "region": "Anywhere in the World",
@@ -1530,7 +1823,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:04:31.000Z",
-    "fetched_at": "2026-04-07T18:42:17.727Z",
+    "fetched_at": "2026-04-08T01:06:56.818Z",
     "raw": {
       "title": "Zollsoft Gmbh: DevOps Engineer (Homeoffice möglich)",
       "region": "Anywhere in the World",
@@ -1575,7 +1868,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:04:03.000Z",
-    "fetched_at": "2026-04-07T18:42:17.728Z",
+    "fetched_at": "2026-04-08T01:06:56.818Z",
     "raw": {
       "title": "Workidentity: DevOps Engineer (gn) / full-remote",
       "region": "Anywhere in the World",
@@ -1621,7 +1914,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:03:38.000Z",
-    "fetched_at": "2026-04-07T18:42:17.729Z",
+    "fetched_at": "2026-04-08T01:06:56.819Z",
     "raw": {
       "title": "Nscon Network, Security & Consulting Gmbh: (Senior) DevOps Engineer / Consultant (m/w/d)",
       "region": "Anywhere in the World",
@@ -1669,7 +1962,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:17.000Z",
-    "fetched_at": "2026-04-07T18:42:17.729Z",
+    "fetched_at": "2026-04-08T01:06:56.820Z",
     "raw": {
       "title": "Spectrum It Recruitment: Senior GCP DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1726,7 +2019,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:14.000Z",
-    "fetched_at": "2026-04-07T18:42:17.730Z",
+    "fetched_at": "2026-04-08T01:06:56.821Z",
     "raw": {
       "title": "Cardano Foundation: DevOps Engineer - Decentralized Identity Solutions",
       "region": "Anywhere in the World",
@@ -1765,7 +2058,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-07T18:42:17.730Z",
+    "fetched_at": "2026-04-08T01:06:56.822Z",
     "raw": {
       "title": "Adistec: Product Sales Manager -Cybersecurity - Jamaica",
       "region": "Anywhere in the World",
@@ -1808,7 +2101,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-07T18:42:17.731Z",
+    "fetched_at": "2026-04-08T01:06:56.822Z",
     "raw": {
       "title": "Espritek: Ingénieur Zscaler Confirmé - Design & Implémentation H/F",
       "region": "Anywhere in the World",
@@ -1849,7 +2142,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-07T18:42:17.732Z",
+    "fetched_at": "2026-04-08T01:06:56.824Z",
     "raw": {
       "title": "Amadeus: Senior Sre - DevOps H/F",
       "region": "Anywhere in the World",
@@ -1895,7 +2188,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-07T18:42:17.733Z",
+    "fetched_at": "2026-04-08T01:06:56.825Z",
     "raw": {
       "title": "Mirakl: Platform And Product Security Officer H/F",
       "region": "Anywhere in the World",
@@ -1934,7 +2227,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:00:38.000Z",
-    "fetched_at": "2026-04-07T18:42:17.734Z",
+    "fetched_at": "2026-04-08T01:06:56.825Z",
     "raw": {
       "title": "Adistec: Product Sales Manager -Cybersecurity - Dominican Republic",
       "region": "Anywhere in the World",
@@ -1976,7 +2269,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-07T18:42:17.734Z",
+    "fetched_at": "2026-04-08T01:06:56.826Z",
     "raw": {
       "title": "Extreme Digital Solutions: ed3b ANALISTA DEVOPS III",
       "region": "Anywhere in the World",
@@ -2015,7 +2308,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-07T18:42:17.735Z",
+    "fetched_at": "2026-04-08T01:06:56.827Z",
     "raw": {
       "title": "FIAP/Alura/PM3: Executivo de Contas II - Tech Touch",
       "region": "Anywhere in the World",
@@ -2070,7 +2363,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-07T18:42:17.736Z",
+    "fetched_at": "2026-04-08T01:06:56.828Z",
     "raw": {
       "title": "Matera: Devops - Pleno e Sênior (Banco de Talentos)",
       "region": "Anywhere in the World",
@@ -2118,7 +2411,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-07T18:42:17.737Z",
+    "fetched_at": "2026-04-08T01:06:56.829Z",
     "raw": {
       "title": "Luby: Profissional SRE/DevOps (AWS/Terraform) Sênior - Remoto",
       "region": "Anywhere in the World",
@@ -2167,7 +2460,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-07T18:42:17.738Z",
+    "fetched_at": "2026-04-08T01:06:56.830Z",
     "raw": {
       "title": "Grupo Taking: Analista de Sustentação N1 - Dados (Azure & DevOps) - Pleno - 26181",
       "region": "Anywhere in the World",
@@ -2210,7 +2503,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-21T20:32:01.000Z",
-    "fetched_at": "2026-04-07T18:42:17.739Z",
+    "fetched_at": "2026-04-08T01:06:56.831Z",
     "raw": {
       "title": "Aptos: Information Security Engineer, Product",
       "region": "Anywhere in the World",
@@ -2260,7 +2553,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:35:27.000Z",
-    "fetched_at": "2026-04-07T18:42:17.739Z",
+    "fetched_at": "2026-04-08T01:06:56.831Z",
     "raw": {
       "title": "Intetics: 1025 | Senior DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2301,7 +2594,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:35:23.000Z",
-    "fetched_at": "2026-04-07T18:42:17.741Z",
+    "fetched_at": "2026-04-08T01:06:56.833Z",
     "raw": {
       "title": "Digitalocean: Product Security Manager, Secure Design",
       "region": "Anywhere in the World",
@@ -2359,7 +2652,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:32:42.000Z",
-    "fetched_at": "2026-04-07T18:42:17.742Z",
+    "fetched_at": "2026-04-08T01:06:56.834Z",
     "raw": {
       "title": "Consensys: Senior Staff DevOps Engineer - MetaMask",
       "region": "Anywhere in the World",
@@ -2410,7 +2703,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:32:19.000Z",
-    "fetched_at": "2026-04-07T18:42:17.743Z",
+    "fetched_at": "2026-04-08T01:06:56.835Z",
     "raw": {
       "title": "H1: Sr. DevOps AWS Cloud Engineer",
       "region": "Anywhere in the World",
@@ -2449,7 +2742,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-19T20:31:48.000Z",
-    "fetched_at": "2026-04-07T18:42:17.743Z",
+    "fetched_at": "2026-04-08T01:06:56.836Z",
     "raw": {
       "title": "Alphorm: Formateur IT Indépendant  Cybersécurité,IA, DevOps, Réseaux ...",
       "region": "Anywhere in the World",
@@ -2497,7 +2790,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-19T20:31:34.000Z",
-    "fetched_at": "2026-04-07T18:42:17.744Z",
+    "fetched_at": "2026-04-08T01:06:56.837Z",
     "raw": {
       "title": "Stakefish: (f2pool) DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2540,7 +2833,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-13T20:31:49.000Z",
-    "fetched_at": "2026-04-07T18:42:17.745Z",
+    "fetched_at": "2026-04-08T01:06:56.837Z",
     "raw": {
       "title": "Abnormal: AI Product Builder",
       "region": "Anywhere in the World",
@@ -2587,7 +2880,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-11T20:32:20.000Z",
-    "fetched_at": "2026-04-07T18:42:17.745Z",
+    "fetched_at": "2026-04-08T01:06:56.838Z",
     "raw": {
       "title": "Confluent: Senior Software Engineer II - Product Security",
       "region": "Anywhere in the World",
@@ -2633,7 +2926,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-11T20:31:53.000Z",
-    "fetched_at": "2026-04-07T18:42:17.746Z",
+    "fetched_at": "2026-04-08T01:06:56.839Z",
     "raw": {
       "title": "Digital Forms: Azure DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2683,7 +2976,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-11T20:31:49.000Z",
-    "fetched_at": "2026-04-07T18:42:17.747Z",
+    "fetched_at": "2026-04-08T01:06:56.840Z",
     "raw": {
       "title": "European Dynamics: DevOps Engineer (Remote/Thessaloniki)",
       "region": "Anywhere in the World",
@@ -2730,7 +3023,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-11T20:31:43.000Z",
-    "fetched_at": "2026-04-07T18:42:17.747Z",
+    "fetched_at": "2026-04-08T01:06:56.840Z",
     "raw": {
       "title": "European Dynamics: Junior Java Developer / DevOps Engineer (Remote/Thessaloniki)",
       "region": "Anywhere in the World",
@@ -2783,7 +3076,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-10T20:35:50.000Z",
-    "fetched_at": "2026-04-07T18:42:17.748Z",
+    "fetched_at": "2026-04-08T01:06:56.841Z",
     "raw": {
       "title": "Nick Ai: Backend/DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2834,7 +3127,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-10T20:33:57.000Z",
-    "fetched_at": "2026-04-07T18:42:17.748Z",
+    "fetched_at": "2026-04-08T01:06:56.841Z",
     "raw": {
       "title": "Rhino Partners: Full Stack Developer (Python / Django / Next.js / Kubernetes) (Remote)",
       "region": "Anywhere in the World",
@@ -2883,7 +3176,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-10T20:33:47.000Z",
-    "fetched_at": "2026-04-07T18:42:17.749Z",
+    "fetched_at": "2026-04-08T01:06:56.842Z",
     "raw": {
       "title": "Oben Technology: DevOps with French",
       "region": "Anywhere in the World",
@@ -2935,7 +3228,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-09T20:34:46.000Z",
-    "fetched_at": "2026-04-07T18:42:17.750Z",
+    "fetched_at": "2026-04-08T01:06:56.843Z",
     "raw": {
       "title": "Decircle: M0 Labs - DevOps - Engineer",
       "region": "Anywhere in the World",
@@ -2979,7 +3272,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-09T20:32:46.000Z",
-    "fetched_at": "2026-04-07T18:42:17.751Z",
+    "fetched_at": "2026-04-08T01:06:56.844Z",
     "raw": {
       "title": "Akinox Solutions: TeamLead DevOps",
       "region": "Anywhere in the World",
@@ -3027,7 +3320,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-09T20:32:23.000Z",
-    "fetched_at": "2026-04-07T18:42:17.752Z",
+    "fetched_at": "2026-04-08T01:06:56.845Z",
     "raw": {
       "title": "Jetbrains: Security Engineer in Product Security",
       "region": "Anywhere in the World",
@@ -3041,205 +3334,6 @@
       "expires_at": "Wed, 08 Apr 2026 20:32:23 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/jetbrains-security-engineer-in-product-security",
       "link": "https://weworkremotely.com/remote-jobs/jetbrains-security-engineer-in-product-security"
-    }
-  },
-  {
-    "id": "wwr:tetrascience-product-security-tech-lead",
-    "platform": "wwr",
-    "external_id": "tetrascience-product-security-tech-lead",
-    "title": "Product Security Tech Lead",
-    "company": "Tetrascience",
-    "description": "Headquarters: United States Who We AreTetraScience is the Scientific Data and AI company. We are catalyzing the Scientific AI revolution by designing and industrializing AI-native scientific data sets, which we bring to life in a growing suite of next-gen lab data management solutions, scientific use cases, and AI-enabled outcomes.&nbsp;TetraScience is the category leader in this vital new market, generating more revenue than all other companies in the aggregate. In the last year alone, the world’s dominant players in compute, cloud, data, and AI infrastructure have converged on TetraScience as the de facto standard, entering into co-innovation and go-to-market partnerships: Latest News and Announcements | TetraScience NewsroomIn connection with your candidacy, you will be asked to carefully review the Tetra Way letter, authored directly by Patrick Grady, our co-founder and CEO. This letter is designed to assist you in better understanding whether TetraScience’s values and ethos are the right fit for you.&nbsp;It is impossible to overstate the importance of this document and you are encouraged to take it literally and reflect on whether you are aligned with our unique approach to company and team building. If you join us, you will be expected to embody its contents daily.&nbsp;What You Will DoWe’re looking for a hands-on Product Security Technical Lead to drive the design, implementation, and evolution of our security engineering program. You’ll lead a team of Security Engineers focused on hardening our SaaS and data platforms by breaking things before attackers do — identifying vulnerabilities, building secure infrastructure, and integrating protection across our CI/CD pipelines. This role demands deep technical expertise across AWS, Python, and application &amp; cloud security, along with a hacker’s curiosity and a builder’s discipline. You’ll have complete ownership of product and cloud security from architecture to execution. You’ll lead by doing — hacking, breaking, and building resilient systems. Be part of a company where security isn’t an afterthought — it’s a product feature.Key ResponsibilitiesOwn and evolve the organization’s entire application security posture, with a focus on application and cloud security across all product linesPerform offensive and defensive security assessments — threat modeling, code review, penetration testing, and vulnerability exploitation.Build and integrate automated security tooling (SAST, DAST, dependency scanning, IaC scanning) into CI/CD pipelinesDevelop security automation and internal tooling using Python, Bash, or Go.• Partner with Engineering, DevOps, and Infrastructure teams to ensure secure AWS architectures (VPC, IAM, KMS, GuardDuty, CloudTrail, WAF).Oversee incident response and root cause analysis for product and infrastructure-level security events.Define and enforce secure coding standards, and lead threat modeling sessions for critical features and servicesContinuously hunt for vulnerabilities, test assumptions, and “break things safely” to strengthen the platform Bachelor's degree in computer science or another equivalent degree8+ years of hands-on experience in Application, Cloud, or Product Security roles, with lead or staff-level responsibilitiesDeep expertise in AWS security architecture and service hardeningAdvanced programming and scripting ability in Python (Bash or Go a plus)Proven experience with offensive security: hacking, exploit analysis, or red team operationsStrong foundation in vulnerability management, threat modeling, and incident responseProficient with DevSecOps tools and modern CI/CD environmentsFamiliarity with container and orchestration security (Docker, Kubernetes, EKS)Certifications such as AWS Certified Security – Specialty, OSCP, or CISSP are a big plus 100% employer paid benefits for all eligible employees and immediate family members.401K.Unlimited paid time off (PTO).Flexible working arrangements.Company paid Life Insurance, LTD/STD. To apply: https://weworkremotely.com/remote-jobs/tetrascience-product-security-tech-lead",
-    "url": "https://weworkremotely.com/remote-jobs/tetrascience-product-security-tech-lead",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "aws",
-      "docker",
-      "kubernetes",
-      "bash"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-03-08T20:46:02.000Z",
-    "fetched_at": "2026-04-07T18:42:17.752Z",
-    "raw": {
-      "title": "Tetrascience: Product Security Tech Lead",
-      "region": "Anywhere in the World",
-      "country": "",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> United States\n</p>\n\nWho We AreTetraScience is the Scientific Data and AI company. We are catalyzing the Scientific AI revolution by designing and industrializing AI-native scientific data sets, which we bring to life in a growing suite of next-gen lab data management solutions, scientific use cases, and AI-enabled outcomes.&nbsp;TetraScience is the category leader in this vital new market, generating more revenue than all other companies in the aggregate. In the last year alone, the world’s dominant players in compute, cloud, data, and AI infrastructure have converged on TetraScience as the de facto standard, entering into co-innovation and go-to-market partnerships: Latest News and Announcements | TetraScience NewsroomIn connection with your candidacy, you will be asked to carefully review the Tetra Way letter, authored directly by Patrick Grady, our co-founder and CEO. This letter is designed to assist you in better understanding whether TetraScience’s values and ethos are the right fit for you.&nbsp;It is impossible to overstate the importance of this document and you are encouraged to take it literally and reflect on whether you are aligned with our unique approach to company and team building. If you join us, you will be expected to embody its contents daily.&nbsp;What You Will DoWe’re looking for a hands-on Product Security Technical Lead to drive the design, implementation, and evolution of our security engineering program. You’ll lead a team of Security Engineers focused on hardening our SaaS and data platforms by breaking things before attackers do — identifying vulnerabilities, building secure infrastructure, and integrating protection across our CI/CD pipelines. This role demands deep technical expertise across AWS, Python, and application &amp; cloud security, along with a hacker’s curiosity and a builder’s discipline. You’ll have complete ownership of product and cloud security from architecture to execution. You’ll lead by doing — hacking, breaking, and building resilient systems. Be part of a company where security isn’t an afterthought — it’s a product feature.Key ResponsibilitiesOwn and evolve the organization’s entire application security posture, with a focus on application and cloud security across all product linesPerform offensive and defensive security assessments — threat modeling, code review, penetration testing, and vulnerability exploitation.Build and integrate automated security tooling (SAST, DAST, dependency scanning, IaC scanning) into CI/CD pipelinesDevelop security automation and internal tooling using Python, Bash, or Go.• Partner with Engineering, DevOps, and Infrastructure teams to ensure secure AWS architectures (VPC, IAM, KMS, GuardDuty, CloudTrail, WAF).Oversee incident response and root cause analysis for product and infrastructure-level security events.Define and enforce secure coding standards, and lead threat modeling sessions for critical features and servicesContinuously hunt for vulnerabilities, test assumptions, and “break things safely” to strengthen the platform Bachelor's degree in computer science or another equivalent degree8+ years of hands-on experience in Application, Cloud, or Product Security roles, with lead or staff-level responsibilitiesDeep expertise in AWS security architecture and service hardeningAdvanced programming and scripting ability in Python (Bash or Go a plus)Proven experience with offensive security: hacking, exploit analysis, or red team operationsStrong foundation in vulnerability management, threat modeling, and incident responseProficient with DevSecOps tools and modern CI/CD environmentsFamiliarity with container and orchestration security (Docker, Kubernetes, EKS)Certifications such as AWS Certified Security – Specialty, OSCP, or CISSP are a big plus 100% employer paid benefits for all eligible employees and immediate family members.401K.Unlimited paid time off (PTO).Flexible working arrangements.Company paid Life Insurance, LTD/STD.\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/tetrascience-product-security-tech-lead\">https://weworkremotely.com/remote-jobs/tetrascience-product-security-tech-lead</a></p>",
-      "pubDate": "Sun, 08 Mar 2026 20:46:02 +0000",
-      "expires_at": "Tue, 07 Apr 2026 20:46:02 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/tetrascience-product-security-tech-lead",
-      "link": "https://weworkremotely.com/remote-jobs/tetrascience-product-security-tech-lead"
-    }
-  },
-  {
-    "id": "wwr:thaloz-he-sr-devops-go-developer-171",
-    "platform": "wwr",
-    "external_id": "thaloz-he-sr-devops-go-developer-171",
-    "title": "HE - Sr. DevOps Go Developer - 171",
-    "company": "Thaloz",
-    "description": "Headquarters: Brazil We are seeking a highly skilled and motivated Senior DevOps Go Developer to join our Platform Engineering team. This pivotal role focuses on architecting, developing, and refining Go-based Kubernetes controllers and operators to advance our internal GitOps-driven Kubernetes hosting platform. The ideal candidate will play a critical role in automating infrastructure and platform operations, integrating tightly with GitHub, and driving best practices in testing and observability. This position offers an exciting opportunity to influence platform engineering at scale, collaborate across teams, and solve complex technical challenges in a cloud-native environment.Responsibilities Architect, implement, and maintain Kubernetes controllers and operators written in Go to enhance and extend our internal GitOps-based Kubernetes hosting platform. Develop automation services integrated with GitHub APIs to streamline workflows, enforce policies, and improve developer experience. Build and maintain developer-facing CLI tools that simplify interaction with the platform and improve productivity. Enforce policy compliance through API-level validation mechanisms, ensuring security and governance standards are met. Champion Shift Left and Shift Right testing methodologies, embedding static analysis, contract testing, and observability early and throughout the development lifecycle. Collaborate closely with cross-functional teams including platform engineers, developers, and security experts to define and implement best practices. Lead technical discussions and provide mentorship to junior engineers, fostering a culture of continuous improvement and innovation. Monitor and enhance platform observability using tools such as Prometheus and OpenTelemetry to ensure reliability and performance. Drive continuous integration and continuous deployment (CI/CD) pipelines using Terraform, Azure DevOps, and Docker to automate infrastructure provisioning and application delivery. Stay current with emerging technologies and industry trends to continuously improve platform capabilities and developer experience. Go: Expert-level proficiency in Go programming language, with experience developing Kubernetes controllers and operators. Ability to write clean, efficient, and maintainable code that integrates deeply with Kubernetes APIs. Kubernetes: Strong understanding of Kubernetes architecture, resource management, and extensibility. Experience building custom controllers and operators to automate cluster operations. GitOps: Hands-on experience with GitOps principles and tools, enabling declarative infrastructure and application management through Git repositories. GitHub API: Proficient in leveraging GitHub APIs to build automation services, integrate workflows, and enforce policies programmatically. CI/CD: Deep knowledge of continuous integration and continuous deployment pipelines, particularly using Azure DevOps and Terraform for infrastructure as code and deployment automation. Terraform: Skilled in writing and managing Terraform configurations to provision and manage cloud infrastructure, especially within Azure environments. Azure: Experience working with Microsoft Azure cloud services, including container orchestration, networking, and security features. Docker: Proficient in containerization concepts and Docker tooling to build, manage, and deploy containerized applications. Kubernetes Controllers and Operators: Proven track record of designing and implementing Kubernetes controllers and operators to automate complex workflows and platform features. Policy Automation: Experience developing automated policy enforcement mechanisms, including API-level validation to ensure compliance and governance. API Validation: Expertise in designing and implementing API validation strategies to maintain platform integrity and security. Static Analysis: Familiarity with static code analysis tools and techniques to detect issues early in the development lifecycle. Prometheus: Experience setting up and managing Prometheus for monitoring Kubernetes clusters and applications. OpenTelemetry: Knowledge of OpenTelemetry standards and tools to instrument applications and infrastructure for observability. Nice-to-Have Skills Node.js: Experience with Node.js for building backend services or automation tools. TypeScript: Familiarity with TypeScript for developing scalable and maintainable JavaScript applications. ProBot: Knowledge of ProBot framework for building GitHub Apps to extend GitHub workflows and automation. Canary Deployments: Understanding of canary deployment strategies to safely roll out new features and updates. Shift Left Testing: Experience advocating and implementing Shift Left testing practices to catch defects early through static analysis, unit testing, and contract testing. Shift Right Testing: Familiarity with Shift Right testing approaches, including monitoring, observability, and real-time validation in production environments. API Schema Validation: Skills in defining and enforcing API schema validation to ensure contract adherence and reduce integration errors. Contract Testing: Experience with contract testing frameworks to verify interactions between services and maintain system reliability. To apply: https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171",
-    "url": "https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "go",
-      "nodejs",
-      "azure",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "prometheus",
-      "git"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-03-08T20:46:01.000Z",
-    "fetched_at": "2026-04-07T18:42:17.753Z",
-    "raw": {
-      "title": "Thaloz: HE - Sr. DevOps Go Developer - 171",
-      "region": "Anywhere in the World",
-      "country": "",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> Brazil\n</p>\n\nWe are seeking a highly skilled and motivated Senior DevOps Go Developer to join our Platform Engineering team. This pivotal role focuses on architecting, developing, and refining Go-based Kubernetes controllers and operators to advance our internal GitOps-driven Kubernetes hosting platform. The ideal candidate will play a critical role in automating infrastructure and platform operations, integrating tightly with GitHub, and driving best practices in testing and observability. This position offers an exciting opportunity to influence platform engineering at scale, collaborate across teams, and solve complex technical challenges in a cloud-native environment.Responsibilities Architect, implement, and maintain Kubernetes controllers and operators written in Go to enhance and extend our internal GitOps-based Kubernetes hosting platform. Develop automation services integrated with GitHub APIs to streamline workflows, enforce policies, and improve developer experience. Build and maintain developer-facing CLI tools that simplify interaction with the platform and improve productivity. Enforce policy compliance through API-level validation mechanisms, ensuring security and governance standards are met. Champion Shift Left and Shift Right testing methodologies, embedding static analysis, contract testing, and observability early and throughout the development lifecycle. Collaborate closely with cross-functional teams including platform engineers, developers, and security experts to define and implement best practices. Lead technical discussions and provide mentorship to junior engineers, fostering a culture of continuous improvement and innovation. Monitor and enhance platform observability using tools such as Prometheus and OpenTelemetry to ensure reliability and performance. Drive continuous integration and continuous deployment (CI/CD) pipelines using Terraform, Azure DevOps, and Docker to automate infrastructure provisioning and application delivery. Stay current with emerging technologies and industry trends to continuously improve platform capabilities and developer experience.    Go: Expert-level proficiency in Go programming language, with experience developing Kubernetes controllers and operators. Ability to write clean, efficient, and maintainable code that integrates deeply with Kubernetes APIs.  Kubernetes: Strong understanding of Kubernetes architecture, resource management, and extensibility. Experience building custom controllers and operators to automate cluster operations.  GitOps: Hands-on experience with GitOps principles and tools, enabling declarative infrastructure and application management through Git repositories.  GitHub API: Proficient in leveraging GitHub APIs to build automation services, integrate workflows, and enforce policies programmatically.  CI/CD: Deep knowledge of continuous integration and continuous deployment pipelines, particularly using Azure DevOps and Terraform for infrastructure as code and deployment automation.  Terraform: Skilled in writing and managing Terraform configurations to provision and manage cloud infrastructure, especially within Azure environments.  Azure: Experience working with Microsoft Azure cloud services, including container orchestration, networking, and security features.  Docker: Proficient in containerization concepts and Docker tooling to build, manage, and deploy containerized applications.  Kubernetes Controllers and Operators: Proven track record of designing and implementing Kubernetes controllers and operators to automate complex workflows and platform features.  Policy Automation: Experience developing automated policy enforcement mechanisms, including API-level validation to ensure compliance and governance.  API Validation: Expertise in designing and implementing API validation strategies to maintain platform integrity and security.  Static Analysis: Familiarity with static code analysis tools and techniques to detect issues early in the development lifecycle.  Prometheus: Experience setting up and managing Prometheus for monitoring Kubernetes clusters and applications.  OpenTelemetry: Knowledge of OpenTelemetry standards and tools to instrument applications and infrastructure for observability. Nice-to-Have Skills  Node.js: Experience with Node.js for building backend services or automation tools.  TypeScript: Familiarity with TypeScript for developing scalable and maintainable JavaScript applications.  ProBot: Knowledge of ProBot framework for building GitHub Apps to extend GitHub workflows and automation.  Canary Deployments: Understanding of canary deployment strategies to safely roll out new features and updates.  Shift Left Testing: Experience advocating and implementing Shift Left testing practices to catch defects early through static analysis, unit testing, and contract testing.  Shift Right Testing: Familiarity with Shift Right testing approaches, including monitoring, observability, and real-time validation in production environments.  API Schema Validation: Skills in defining and enforcing API schema validation to ensure contract adherence and reduce integration errors.  Contract Testing: Experience with contract testing frameworks to verify interactions between services and maintain system reliability.  \n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171\">https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171</a></p>",
-      "pubDate": "Sun, 08 Mar 2026 20:46:01 +0000",
-      "expires_at": "Tue, 07 Apr 2026 20:46:01 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171",
-      "link": "https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171"
-    }
-  },
-  {
-    "id": "wwr:coderio-sr-data-engineer-devops",
-    "platform": "wwr",
-    "external_id": "coderio-sr-data-engineer-devops",
-    "title": "SR Data Engineer/DevOps",
-    "company": "Coderio",
-    "description": "Headquarters: Santiago de Chile / Concepción / Talca / Valparaíso / Lima / Arequipa / Bogotá Sobre CoderioCoderio diseña y entrega soluciones digitales escalables para empresas globales. Con una base técnica sólida y una mentalidad orientada al producto, nuestros equipos lideran proyectos de software complejos desde la arquitectura hasta la ejecución. Valoramos la autonomía, la comunicación clara y la excelencia técnica. Colaboramos estrechamente con equipos y socios internacionales, construyendo tecnología que genera impacto. Más información: http://coderio.comBuscamos un Data Engineer con experiencia en DevOps para diseñar, construir y mantener pipelines de datos escalables en la nube. La persona ideal combina habilidades técnicas en ingeniería de datos y automatización de infraestructura, contribuyendo a la eficiencia y calidad de los procesos de datos.Lo que puedes esperar de este rol (Responsabilidades) Desarrollar y optimizar pipelines ETL/ELT.Implementar prácticas DevOps (CI/CD, IaC, monitoreo).Administrar infraestructura de datos en la nube (AWS).Asegurar la calidad, seguridad y disponibilidad de los datos.Colaborar con equipos de Data Science y Software Engineering.Requisitos+3 años de experiencia en entornos cloud AWS +3 años de experiencia como Data Engineer o rol similar.+3 años de experiencia utilizando SQL. +3 años de experiencia comprobable en Python Experiencia sólida con herramientas y frameworks de procesamiento de datos (Spark, Airflow, dbt, Kafka, etc.)Dominio de herramientas de versionado: GitHubExperiencia práctica en prácticas DevOps: CI/CD, Infrastructure as Code (Terraform, CloudFormation, etc.), contenedores (Docker, Kubernetes).Nivel de inglés intermedio o avanzado.DeseablesExperiencia en herramientas de monitoreo (Prometheus, Grafana, CloudWatch).Conocimiento de seguridad de datos y compliance.Experiencia con herramientas de machine learning en producción (SageMaker, Vertex AI, Databricks).Beneficios100% remotoCompromiso a largo plazo, con autonomía e impactoRol estratégico y de alta visibilidad en una cultura de ingeniería modernaEquipo internacional colaborativo y liderazgo técnico sólidoPlan de carrera y crecimiento dentro de Coderio¿Por qué unirte a Coderio?En Coderio valoramos el talento sin importar la ubicación. Somos una empresa remote-first,apasionada por la tecnología, el trabajo colaborativo y la compensación justa. Ofrecemos un entorno inclusivo, desafiante y con oportunidades reales de crecimiento. Si te motiva construir soluciones con impacto, te estamos esperando.&nbsp;Postula ahora.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. To apply: https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops",
-    "url": "https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "aws",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "prometheus",
-      "grafana",
-      "machine-learning",
-      "spark",
-      "airflow",
-      "dbt",
-      "databricks",
-      "kafka"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-03-08T20:46:00.000Z",
-    "fetched_at": "2026-04-07T18:42:17.754Z",
-    "raw": {
-      "title": "Coderio: SR Data Engineer/DevOps",
-      "region": "Anywhere in the World",
-      "country": "",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> Santiago de Chile / Concepción / Talca / Valparaíso / Lima / Arequipa / Bogotá\n</p>\n\nSobre CoderioCoderio diseña y entrega soluciones digitales escalables para empresas globales. Con una base técnica sólida y una mentalidad orientada al producto, nuestros equipos lideran proyectos de software complejos desde la arquitectura hasta la ejecución. Valoramos la autonomía, la comunicación clara y la excelencia técnica. Colaboramos estrechamente con equipos y socios internacionales, construyendo tecnología que genera impacto. Más información: http://coderio.comBuscamos un Data Engineer con experiencia en DevOps para diseñar, construir y mantener pipelines de datos escalables en la nube. La persona ideal combina habilidades técnicas en ingeniería de datos y automatización de infraestructura, contribuyendo a la eficiencia y calidad de los procesos de datos.Lo que puedes esperar de este rol (Responsabilidades) Desarrollar y optimizar pipelines ETL/ELT.Implementar prácticas DevOps (CI/CD, IaC, monitoreo).Administrar infraestructura de datos en la nube (AWS).Asegurar la calidad, seguridad y disponibilidad de los datos.Colaborar con equipos de Data Science y Software Engineering.Requisitos+3 años de experiencia en entornos cloud AWS +3 años de experiencia como Data Engineer o rol similar.+3 años de experiencia utilizando SQL. +3 años de experiencia comprobable en Python Experiencia sólida con herramientas y frameworks de procesamiento de datos (Spark, Airflow, dbt, Kafka, etc.)Dominio de herramientas de versionado: GitHubExperiencia práctica en prácticas DevOps: CI/CD, Infrastructure as Code (Terraform, CloudFormation, etc.), contenedores (Docker, Kubernetes).Nivel de inglés intermedio o avanzado.DeseablesExperiencia en herramientas de monitoreo (Prometheus, Grafana, CloudWatch).Conocimiento de seguridad de datos y compliance.Experiencia con herramientas de machine learning en producción (SageMaker, Vertex AI, Databricks).Beneficios100% remotoCompromiso a largo plazo, con autonomía e impactoRol estratégico y de alta visibilidad en una cultura de ingeniería modernaEquipo internacional colaborativo y liderazgo técnico sólidoPlan de carrera y crecimiento dentro de Coderio¿Por qué unirte a Coderio?En Coderio valoramos el talento sin importar la ubicación. Somos una empresa remote-first,apasionada por la tecnología, el trabajo colaborativo y la compensación justa. Ofrecemos un entorno inclusivo, desafiante y con oportunidades reales de crecimiento. Si te motiva construir soluciones con impacto, te estamos esperando.&nbsp;Postula ahora.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops\">https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops</a></p>",
-      "pubDate": "Sun, 08 Mar 2026 20:46:00 +0000",
-      "expires_at": "Tue, 07 Apr 2026 20:46:00 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops",
-      "link": "https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops"
-    }
-  },
-  {
-    "id": "wwr:tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift",
-    "platform": "wwr",
-    "external_id": "tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift",
-    "title": "Senior Azure DevOps Engineer - Remote, Midshift",
-    "company": "Tasq Staffing Solutions",
-    "description": "Headquarters: Makati Metro Manila Philippines Position: Lead Azure DevOps Engineer | RemoteSchedule: Midshift (5 p.m. to 2 a.m.) Job Highlights:Our primary focus is on Azure technology, offering numerous exciting opportunities to develop your skills within the Microsoft and Azure ecosystems. Working with us means being part of a team dedicated to technical excellence and delivering exceptional client experiences in a specialized, well-defined area. Just six months on our team can be equivalent to years of experience elsewhere. Microsoft Partnership:Our strong global relationship with Microsoft provides access to innovative Azure projects and direct engagement with the teams who developed the platforman advantage not commonly found elsewhere. Compensation &amp; Culture:We offer a competitive salary package, allowances, standard benefits, and quarterly/annual performance-based bonuses. Our company culture promotes a flexible work environment and supportive atmosphere. Role Overview:We are seeking a Lead Azure DevOps Engineer responsible for designing and implementing DevOps solutions within Azure. This role is technical, consultative, and client-facing, with accountability for developing, delivering, and supporting client solutions. The ideal candidate will have consulting experience and a proven track record of successful technical implementations and project execution. Key Responsibilities: Play a vital role in designing and delivering innovative cloud solutions for clientsParticipate in technical planning, design, and project deliveryCollaborate with solution architects to support project efforts from a technical standpointExecute the deployment of designed solutions into client environmentsAssist in designing and deploying client workloads on AzureProvide expertise and support in four key areas:Data Center TransformationAzure InfrastructureDevOps and CI/CD pipelinesCloud Automation Qualifications: Over 5 years of experience in system administration (Windows/Linux), DevOps, software development, or IT operationsAt least 3 years of experience migrating and deploying cloud-based solutionsHands-on experience with Terraform, Bicep, ARM Templates, Ansible (or similar tools)Practical experience implementing CI/CD pipelines using Azure DevOps (VSTS/TFS), Jenkins, Bamboo, or equivalentMore than 1 year of supporting Microsoft Azure infrastructure and architectures (or equivalent experience with AWS or GCP)Strong scripting skills (PowerShell, Bash, Python, Groovy, etc.) for automation, from any cloud environmentKnowledge of various cloud deployment methodologies and emerging cloud technologiesSkills in performance analysis, troubleshooting, and remediation techniquesExcellent analytical and problem-solving abilitiesStrong communication skills, both written and verbalSelf-motivated with the ability to work independently or as part of a remote project teamBachelor's degree in Computer Science or related field Preferred Skills/Certifications: Experience with Chef/Puppet, Docker, and Kubernetes is a plusMicrosoft certifications are a plus To apply: https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift",
-    "url": "https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "aws",
-      "gcp",
-      "azure",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "ansible",
-      "jenkins",
-      "linux",
-      "bash"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-03-08T20:45:58.000Z",
-    "fetched_at": "2026-04-07T18:42:17.755Z",
-    "raw": {
-      "title": "Tasq Staffing Solutions: Senior Azure DevOps Engineer - Remote, Midshift",
-      "region": "Anywhere in the World",
-      "country": "",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> Makati Metro Manila Philippines\n</p>\n\nPosition: Lead Azure DevOps Engineer | RemoteSchedule: Midshift (5 p.m. to 2 a.m.) Job Highlights:Our primary focus is on Azure technology, offering numerous exciting opportunities to develop your skills within the Microsoft and Azure ecosystems. Working with us means being part of a team dedicated to technical excellence and delivering exceptional client experiences in a specialized, well-defined area. Just six months on our team can be equivalent to years of experience elsewhere. Microsoft Partnership:Our strong global relationship with Microsoft provides access to innovative Azure projects and direct engagement with the teams who developed the platforman advantage not commonly found elsewhere. Compensation &amp; Culture:We offer a competitive salary package, allowances, standard benefits, and quarterly/annual performance-based bonuses. Our company culture promotes a flexible work environment and supportive atmosphere. Role Overview:We are seeking a Lead Azure DevOps Engineer responsible for designing and implementing DevOps solutions within Azure. This role is technical, consultative, and client-facing, with accountability for developing, delivering, and supporting client solutions. The ideal candidate will have consulting experience and a proven track record of successful technical implementations and project execution. Key Responsibilities: Play a vital role in designing and delivering innovative cloud solutions for clientsParticipate in technical planning, design, and project deliveryCollaborate with solution architects to support project efforts from a technical standpointExecute the deployment of designed solutions into client environmentsAssist in designing and deploying client workloads on AzureProvide expertise and support in four key areas:Data Center TransformationAzure InfrastructureDevOps and CI/CD pipelinesCloud Automation Qualifications: Over 5 years of experience in system administration (Windows/Linux), DevOps, software development, or IT operationsAt least 3 years of experience migrating and deploying cloud-based solutionsHands-on experience with Terraform, Bicep, ARM Templates, Ansible (or similar tools)Practical experience implementing CI/CD pipelines using Azure DevOps (VSTS/TFS), Jenkins, Bamboo, or equivalentMore than 1 year of supporting Microsoft Azure infrastructure and architectures (or equivalent experience with AWS or GCP)Strong scripting skills (PowerShell, Bash, Python, Groovy, etc.) for automation, from any cloud environmentKnowledge of various cloud deployment methodologies and emerging cloud technologiesSkills in performance analysis, troubleshooting, and remediation techniquesExcellent analytical and problem-solving abilitiesStrong communication skills, both written and verbalSelf-motivated with the ability to work independently or as part of a remote project teamBachelor's degree in Computer Science or related field Preferred Skills/Certifications: Experience with Chef/Puppet, Docker, and Kubernetes is a plusMicrosoft certifications are a plus\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift\">https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift</a></p>",
-      "pubDate": "Sun, 08 Mar 2026 20:45:58 +0000",
-      "expires_at": "Tue, 07 Apr 2026 20:45:58 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift",
-      "link": "https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift"
     }
   }
 ]
