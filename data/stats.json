@@ -1,7 +1,7 @@
 {
-  "totalJobs": 826,
+  "totalJobs": 825,
   "bySource": {
-    "arbeitnow": 77,
+    "arbeitnow": 76,
     "jobicy": 78,
     "remoteok": 93,
     "remotive": 20,
@@ -10,12 +10,16 @@
     "hn": 473
   },
   "byTechStack": {
+    "python": 165,
+    "java": 73,
+    "aws": 149,
+    "kubernetes": 100,
     "javascript": 147,
+    "spark": 18,
     "storybook": 2,
     "figma": 15,
     "php": 26,
     "mysql": 36,
-    "java": 73,
     "mongodb": 20,
     "oracle": 9,
     "jenkins": 13,
@@ -23,13 +27,11 @@
     "selenium": 6,
     "rest": 30,
     "sqlserver": 7,
-    "aws": 150,
-    "azure": 58,
+    "azure": 57,
     "c#": 12,
     "react": 171,
     "aspnet": 5,
     "postgresql": 98,
-    "kubernetes": 100,
     "helm": 9,
     "machine-learning": 101,
     "rabbitmq": 15,
@@ -43,7 +45,6 @@
     "nextjs": 14,
     "stripe": 13,
     "llm": 38,
-    "python": 165,
     "gitlab": 21,
     "pytest": 3,
     "grpc": 6,
@@ -56,13 +57,13 @@
     "grafana": 25,
     "airflow": 12,
     "dbt": 7,
-    "snowflake": 11,
+    "snowflake": 10,
     "android": 48,
     "jetpack": 2,
-    "gcp": 62,
+    "gcp": 61,
     "github-actions": 15,
     "mlops": 5,
-    "databricks": 12,
+    "databricks": 11,
     "ruby": 48,
     "rails": 44,
     "swift": 14,
@@ -119,7 +120,6 @@
     "julia": 4,
     "pulumi": 2,
     "gin": 1,
-    "spark": 17,
     "clickhouse": 4,
     "fastify": 3,
     "heroku": 8,
@@ -173,9 +173,9 @@
     "unix": 1
   },
   "byContractType": {
+    "full-time": 655,
     "part-time": 6,
     "freelance": 12,
-    "full-time": 655,
     "contract": 16
   },
   "byRemoteType": {
@@ -189,16 +189,16 @@
     "100k-150k": 19,
     "150k-200k": 6,
     "over200k": 1,
-    "unknown": 685
+    "unknown": 684
   },
-  "lastUpdated": "2026-04-11T01:03:11.169Z",
+  "lastUpdated": "2026-04-11T06:44:11.414Z",
   "jobsLast7Days": [
     1,
     19,
     19,
     23,
     23,
-    90,
-    0
+    86,
+    3
   ]
 }
