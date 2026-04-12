@@ -11,6 +11,12 @@
     "himalayas": 1
   },
   "byTechStack": {
+    "python": 162,
+    "fastapi": 7,
+    "llm": 38,
+    "machine-learning": 101,
+    "langchain": 6,
+    "rag": 8,
     "typescript": 93,
     "postgresql": 100,
     "mysql": 39,
@@ -31,8 +37,6 @@
     "git": 36,
     "linux": 45,
     "helm": 12,
-    "llm": 37,
-    "python": 161,
     "kotlin": 26,
     "spark": 18,
     "ios": 46,
@@ -43,7 +47,6 @@
     "javascript": 142,
     "pytorch": 8,
     "tensorflow": 8,
-    "machine-learning": 100,
     "storybook": 2,
     "figma": 15,
     "php": 25,
@@ -109,8 +112,6 @@
     "dart": 6,
     "pandas": 4,
     "numpy": 2,
-    "langchain": 5,
-    "rag": 7,
     "backbone": 5,
     "scala": 13,
     "sass": 6,
@@ -129,7 +130,6 @@
     "nats": 2,
     "ethereum": 5,
     "django": 26,
-    "fastapi": 6,
     "sqlite": 3,
     "flutter": 6,
     "express": 10,
@@ -173,13 +173,13 @@
     "unix": 1
   },
   "byContractType": {
-    "full-time": 651,
-    "freelance": 13,
+    "full-time": 652,
+    "freelance": 12,
     "part-time": 5,
     "contract": 15
   },
   "byRemoteType": {
-    "remote": 463,
+    "remote": 465,
     "onsite": 228,
     "hybrid": 1
   },
@@ -191,14 +191,14 @@
     "over200k": 2,
     "unknown": 684
   },
-  "lastUpdated": "2026-04-12T01:11:11.828Z",
+  "lastUpdated": "2026-04-12T07:00:06.595Z",
   "jobsLast7Days": [
     19,
     19,
     23,
     23,
-    88,
+    86,
     25,
-    0
+    2
   ]
 }
