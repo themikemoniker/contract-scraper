@@ -1,5 +1,49 @@
 [
   {
+    "id": "wwr:aktor-ai-senior-ai-solutions-engineer",
+    "platform": "wwr",
+    "external_id": "aktor-ai-senior-ai-solutions-engineer",
+    "title": "(Senior) AI Solutions Engineer",
+    "company": "Aktor AI",
+    "description": "Headquarters: Athens, Greece URL: https://aktor.ai We are hiring a (Senior) AI Solutions Engineer to join our AI engineering team remotely and help us build, harden, and scale AI agents. The Role This is a hands-on engineering role at the frontier of AI-augmented software development. You will design, build, and ship production AI agents, but the way you build them may look different from what you’re used to. Our engineers work heavily with AI coding assistants and autonomous agent tooling. The craft has shifted: writing every line yourself matters less than knowing&nbsp; what good looks like . Making sound architectural decisions, maintaining quality standards, and steering AI-generated output toward well-structured, maintainable systems. You will spend more time thinking, reviewing, and deciding than typing. That said, you still need strong engineering fundamentals. You can’t evaluate what you don’t understand. The best engineers in this new paradigm are the ones who know&nbsp; when the AI is wrong &nbsp;and can articulate&nbsp; why . What You’ll Do •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build and ship AI agents&nbsp; end-to-end: from scoping and prototyping through optimisation and production rollout. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Architect for reliability:&nbsp; design observability, logging, guardrails, evaluation pipelines, cost controls, and human-in-the-loop flows. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrate with enterprise systems:&nbsp; build connectors and retrieval pipelines to data stores, APIs, and line-of-business applications. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review and elevate:&nbsp; review AI-generated code and designs with a critical eye. Challenge what doesn’t meet the bar, accept what does. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Own quality:&nbsp; write and maintain evaluation datasets, define accuracy targets, and treat failure modes as first-class engineering concerns. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Document clearly:&nbsp; produce designs, runbooks, and technical documentation that others can follow. What We’re Looking For Engineering Judgment Over Stack Knowledge We care far less about which specific frameworks you’ve used and far more about whether you make good decisions. Technologies change fast; judgment compounds. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong software engineering fundamentals.&nbsp; You understand how systems are built, how they break, and how to keep them simple. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with LLM-based systems&nbsp; in production or near-production settings (agents, RAG, automation, orchestration). •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A product-minded approach.&nbsp; You think about what you’re building and why, not just how. You understand that the goal is a working solution that serves a business need. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Architectural taste.&nbsp; You can look at a system design, whether you wrote it or an AI generated it, and tell whether it’s sound, over-engineered, or cutting corners that will cost you later. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comfort with ambiguity.&nbsp; AI systems don’t behave like deterministic code. You’re comfortable with probabilistic outputs, evaluation-driven development, and iterative refinement. Levels Engineer &nbsp;(typically 2–5 years total; 1+ with AI systems) •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ships features and integrations independently. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implements evaluation datasets, prompt engineering, and observability. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contributes to design discussions and follows established guidelines. Senior Engineer &nbsp;(typically 6–10+ years; 2+ leading AI deliveries) •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leads end-to-end implementations and makes architecture choices. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designs data/retrieval schemas, instrumentation, and cost/latency budgets. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sets quality bars and mentors teammates. Nice to Have: Experience with agent orchestration frameworks, vector/graph databases, Postgres/Redis, tracing/observability platforms, Azure, or ERP integrations. Specific tools are flexible; equivalent experience is welcome. Professional Qualities •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High ownership and follow-through.&nbsp; You don’t wait to be told what to do next. You see what needs doing and you do it. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pragmatic and quality-conscious.&nbsp; You use the simplest approach that solves the problem well. You don’t gold-plate, but you also don’t take shortcuts that create future pain, especially when the cost of doing it right is marginal. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reliability-first mindset.&nbsp; You treat guardrails, evaluation, and failure handling as core engineering work, not afterthoughts. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear communicator.&nbsp; You write crisp messages, document decisions, and can explain technical trade-offs plainly. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dedicated and self-driven.&nbsp; You’re comfortable with autonomy and manage your own time effectively. You’re the kind of person who, when something is running, keeps an eye on it, not because someone asked, but because you care about the outcome. What We Offer •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitive compensation and benefits. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The opportunity to build production AI agents used by real businesses, measured by tangible KPIs. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A modern, AI-native engineering environment where you’ll work with cutting-edge tooling daily. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Autonomy to shape engineering standards and best practices. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Career growth with executive visibility in a large, impact-oriented group. Hiring Process 1.&nbsp;&nbsp;&nbsp;&nbsp; Initial interview : a structured conversation to understand your experience, thinking, and motivations. 2.&nbsp;&nbsp;&nbsp;&nbsp; Paid collaborative project : instead of a contrived take-home test, you’ll work on a real-scope assignment alongside other candidates over a ~2-week window, so you can fit it around your schedule. Top contributions will be awarded cash prizes. This is the core of our evaluation. We want to see how you work, not just how you talk about working. 3.&nbsp;&nbsp;&nbsp;&nbsp; Final interview : a conversation with the CEO of Aktor AI and the Head of Solution Delivery. Our hiring process uses AI-assisted tools for application screening and includes an AI-powered interview stage. All decisions are made by people. Details •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location:&nbsp; 100% Remote, in Europe or Asia. •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reports to:&nbsp; Head of Solution Delivery •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration:&nbsp; You’ll work closely with the Athens-based engineering and solution delivery teams asynchronously, with regular video check-ins. To apply: https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "postgresql",
+      "redis",
+      "azure",
+      "llm",
+      "rag"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-03-25T09:35:22.000Z",
+    "fetched_at": "2026-04-13T18:55:27.142Z",
+    "raw": {
+      "media:content": {
+        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4585/logo.gif",
+        "@_type": "image/png"
+      },
+      "title": "Aktor AI: (Senior) AI Solutions Engineer",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/4585/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Athens, Greece\n    <br /><strong>URL:</strong> <a href=\"https://aktor.ai\">https://aktor.ai</a>\n</p>\n\n<p>We are hiring a <strong>(Senior) AI Solutions Engineer</strong> to join our AI engineering team remotely and help us build, harden, and scale AI agents.</p>\n<h1>The Role</h1>\n<p>This is a hands-on engineering role at the frontier of AI-augmented software development. You will design, build, and ship production AI agents, but the way you build them may look different from what you’re used to.</p>\n<p>Our engineers work heavily with AI coding assistants and autonomous agent tooling. The craft has shifted: writing every line yourself matters less than knowing&nbsp;<strong>what good looks like</strong>. Making sound architectural decisions, maintaining quality standards, and steering AI-generated output toward well-structured, maintainable systems. You will spend more time thinking, reviewing, and deciding than typing.</p>\n<p>That said, you still need strong engineering fundamentals. You can’t evaluate what you don’t understand. The best engineers in this new paradigm are the ones who know&nbsp;<em>when the AI is wrong</em>&nbsp;and can articulate&nbsp;<em>why</em>.</p>\n<h1>What You’ll Do</h1>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Build and ship AI agents&nbsp;</strong>end-to-end: from scoping and prototyping through optimisation and production rollout.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Architect for reliability:&nbsp;</strong>design observability, logging, guardrails, evaluation pipelines, cost controls, and human-in-the-loop flows.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Integrate with enterprise systems:&nbsp;</strong>build connectors and retrieval pipelines to data stores, APIs, and line-of-business applications.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Review and elevate:&nbsp;</strong>review AI-generated code and designs with a critical eye. Challenge what doesn’t meet the bar, accept what does.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Own quality:&nbsp;</strong>write and maintain evaluation datasets, define accuracy targets, and treat failure modes as first-class engineering concerns.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Document clearly:&nbsp;</strong>produce designs, runbooks, and technical documentation that others can follow.</p>\n<h1>What We’re Looking For</h1>\n<h2>Engineering Judgment Over Stack Knowledge</h2>\n<p>We care far less about which specific frameworks you’ve used and far more about whether you make good decisions. Technologies change fast; judgment compounds.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Strong software engineering fundamentals.&nbsp;</strong>You understand how systems are built, how they break, and how to keep them simple.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Experience with LLM-based systems&nbsp;</strong>in production or near-production settings (agents, RAG, automation, orchestration).</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>A product-minded approach.&nbsp;</strong>You think about what you’re building and why, not just how. You understand that the goal is a working solution that serves a business need.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Architectural taste.&nbsp;</strong>You can look at a system design, whether you wrote it or an AI generated it, and tell whether it’s sound, over-engineered, or cutting corners that will cost you later.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Comfort with ambiguity.&nbsp;</strong>AI systems don’t behave like deterministic code. You’re comfortable with probabilistic outputs, evaluation-driven development, and iterative refinement.</p>\n<h2>Levels</h2>\n<p><strong>Engineer</strong>&nbsp;(typically 2–5 years total; 1+ with AI systems)</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ships features and integrations independently.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implements evaluation datasets, prompt engineering, and observability.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contributes to design discussions and follows established guidelines.</p>\n<p><strong>Senior Engineer</strong>&nbsp;(typically 6–10+ years; 2+ leading AI deliveries)</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leads end-to-end implementations and makes architecture choices.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designs data/retrieval schemas, instrumentation, and cost/latency budgets.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sets quality bars and mentors teammates.</p>\n<p>Nice to Have:</p>\n<p>Experience with agent orchestration frameworks, vector/graph databases, Postgres/Redis, tracing/observability platforms, Azure, or ERP integrations. Specific tools are flexible; equivalent experience is welcome.</p>\n<h2>Professional Qualities</h2>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>High ownership and follow-through.&nbsp;</strong>You don’t wait to be told what to do next. You see what needs doing and you do it.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Pragmatic and quality-conscious.&nbsp;</strong>You use the simplest approach that solves the problem well. You don’t gold-plate, but you also don’t take shortcuts that create future pain, especially when the cost of doing it right is marginal.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Reliability-first mindset.&nbsp;</strong>You treat guardrails, evaluation, and failure handling as core engineering work, not afterthoughts.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Clear communicator.&nbsp;</strong>You write crisp messages, document decisions, and can explain technical trade-offs plainly.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Dedicated and self-driven.&nbsp;</strong>You’re comfortable with autonomy and manage your own time effectively. You’re the kind of person who, when something is running, keeps an eye on it, not because someone asked, but because you care about the outcome.</p>\n<h1>What We Offer</h1>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitive compensation and benefits.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The opportunity to build production AI agents used by real businesses, measured by tangible KPIs.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A modern, AI-native engineering environment where you’ll work with cutting-edge tooling daily.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Autonomy to shape engineering standards and best practices.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Career growth with executive visibility in a large, impact-oriented group.</p>\n<h1>Hiring Process</h1>\n<p>1.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Initial interview</strong>: a structured conversation to understand your experience, thinking, and motivations.</p>\n<p>2.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Paid collaborative project</strong>: instead of a contrived take-home test, you’ll work on a real-scope assignment alongside other candidates over a ~2-week window, so you can fit it around your schedule. Top contributions will be awarded cash prizes. This is the core of our evaluation. We want to see how you work, not just how you talk about working.</p>\n<p>3.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Final interview</strong>: a conversation with the CEO of Aktor AI and the Head of Solution Delivery.</p>\n<p><em>Our hiring process uses AI-assisted tools for application screening and includes an AI-powered interview stage. All decisions are made by people.</em></p>\n<h1>Details</h1>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Location:&nbsp;</strong>100% Remote, in Europe or Asia.</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Reports to:&nbsp;</strong>Head of Solution Delivery</p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Collaboration:&nbsp;</strong>You’ll work closely with the Athens-based engineering and solution delivery teams asynchronously, with regular video check-ins.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer\">https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer</a></p>",
+      "pubDate": "Wed, 25 Mar 2026 09:35:22 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer"
+    }
+  },
+  {
     "id": "wwr:leadup-ai-full-stack-developer-junior",
     "platform": "wwr",
     "external_id": "leadup-ai-full-stack-developer-junior",
@@ -32,7 +76,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-25T02:14:15.000Z",
-    "fetched_at": "2026-04-13T12:52:43.099Z",
+    "fetched_at": "2026-04-13T18:55:27.143Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4579/logo.gif",
@@ -78,7 +122,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-24T19:28:57.000Z",
-    "fetched_at": "2026-04-13T12:52:43.100Z",
+    "fetched_at": "2026-04-13T18:55:27.144Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0000/0069/logo.gif",
@@ -121,7 +165,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-23T13:46:27.000Z",
-    "fetched_at": "2026-04-13T12:52:43.101Z",
+    "fetched_at": "2026-04-13T18:55:27.144Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/2344/logo.gif",
@@ -167,7 +211,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-01-22T13:45:49.000Z",
-    "fetched_at": "2026-04-13T12:52:43.102Z",
+    "fetched_at": "2026-04-13T18:55:27.145Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9370/logo.gif",
@@ -209,7 +253,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-22T20:32:14.000Z",
-    "fetched_at": "2026-04-13T12:52:43.103Z",
+    "fetched_at": "2026-04-13T18:55:27.145Z",
     "raw": {
       "title": "Smart Working Solutions: Senior Full Stack Developer (Kotlin, Vue.js) (Remote, Full-Time) [AS197]",
       "region": "Anywhere in the World",
@@ -260,7 +304,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-21T20:31:51.000Z",
-    "fetched_at": "2026-04-13T12:52:43.105Z",
+    "fetched_at": "2026-04-13T18:55:27.147Z",
     "raw": {
       "title": "Moxie: Staff product engineer (fullstack) (IC-4)",
       "region": "Anywhere in the World",
@@ -294,7 +338,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-21T20:31:40.000Z",
-    "fetched_at": "2026-04-13T12:52:43.105Z",
+    "fetched_at": "2026-04-13T18:55:27.147Z",
     "raw": {
       "title": "Protect Democracy: Product / Engineer / Data Roles (Talent Community)",
       "region": "Anywhere in the World",
@@ -332,7 +376,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-21T20:31:30.000Z",
-    "fetched_at": "2026-04-13T12:52:43.107Z",
+    "fetched_at": "2026-04-13T18:55:27.148Z",
     "raw": {
       "title": "Virtasant: Senior Backend / Product Engineer  (AI Platform)",
       "region": "Anywhere in the World",
@@ -368,7 +412,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-20T20:35:03.000Z",
-    "fetched_at": "2026-04-13T12:52:43.108Z",
+    "fetched_at": "2026-04-13T18:55:27.149Z",
     "raw": {
       "title": "Releaf: CRO Design Specialist",
       "region": "Anywhere in the World",
@@ -402,7 +446,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-20T20:34:42.000Z",
-    "fetched_at": "2026-04-13T12:52:43.110Z",
+    "fetched_at": "2026-04-13T18:55:27.150Z",
     "raw": {
       "title": "OrangeDot: Lead monday.com Consultant (CRM Product)",
       "region": "Anywhere in the World",
@@ -438,7 +482,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-20T20:34:36.000Z",
-    "fetched_at": "2026-04-13T12:52:43.110Z",
+    "fetched_at": "2026-04-13T18:55:27.151Z",
     "raw": {
       "title": "Kdci: PIM Specialist (Product Information Specialist)",
       "region": "Anywhere in the World",
@@ -477,7 +521,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-20T20:34:16.000Z",
-    "fetched_at": "2026-04-13T12:52:43.112Z",
+    "fetched_at": "2026-04-13T18:55:27.152Z",
     "raw": {
       "title": "Phantom: Product Design (Wallet Platform)",
       "region": "Anywhere in the World",
@@ -529,7 +573,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-20T20:32:19.000Z",
-    "fetched_at": "2026-04-13T12:52:43.113Z",
+    "fetched_at": "2026-04-13T18:55:27.153Z",
     "raw": {
       "title": "CRUX: Full Stack Developer/Senior Full Stack/Lead",
       "region": "Anywhere in the World",
@@ -574,7 +618,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-20T20:31:56.000Z",
-    "fetched_at": "2026-04-13T12:52:43.113Z",
+    "fetched_at": "2026-04-13T18:55:27.153Z",
     "raw": {
       "title": "Creatunity Llc: Senior Full-Stack Developer (AI-Assisted Development) - Remote",
       "region": "Anywhere in the World",
@@ -612,7 +656,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2025-10-21T19:36:26.000Z",
-    "fetched_at": "2026-04-13T12:52:43.114Z",
+    "fetched_at": "2026-04-13T18:55:27.154Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/2173/logo.gif",
@@ -668,7 +712,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2025-07-23T14:31:54.000Z",
-    "fetched_at": "2026-04-13T12:52:43.115Z",
+    "fetched_at": "2026-04-13T18:55:27.155Z",
     "raw": {
       "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
       "region": "Anywhere in the World",
@@ -702,7 +746,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-19T20:31:29.000Z",
-    "fetched_at": "2026-04-13T12:52:43.116Z",
+    "fetched_at": "2026-04-13T18:55:27.156Z",
     "raw": {
       "title": "Vee Technologiesorporated: Product Engineering Operations Director",
       "region": "Anywhere in the World",
@@ -744,7 +788,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-19T15:08:14.000Z",
-    "fetched_at": "2026-04-13T12:52:43.117Z",
+    "fetched_at": "2026-04-13T18:55:27.156Z",
     "raw": {
       "title": "CloudDevs:  Java Developer - AI (Backend)",
       "region": "Anywhere in the World",
@@ -789,7 +833,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-18T21:08:16.000Z",
-    "fetched_at": "2026-04-13T12:52:43.118Z",
+    "fetched_at": "2026-04-13T18:55:27.157Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4529/logo.gif",
@@ -830,7 +874,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-17T20:31:34.000Z",
-    "fetched_at": "2026-04-13T12:52:43.119Z",
+    "fetched_at": "2026-04-13T18:55:27.158Z",
     "raw": {
       "title": "Mesh: Director of Product Money Movement",
       "region": "Anywhere in the World",
@@ -870,7 +914,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-17T13:01:49.000Z",
-    "fetched_at": "2026-04-13T12:52:43.121Z",
+    "fetched_at": "2026-04-13T18:55:27.160Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9650/logo.gif",
@@ -908,7 +952,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-17T06:05:35.000Z",
-    "fetched_at": "2026-04-13T12:52:43.121Z",
+    "fetched_at": "2026-04-13T18:55:27.160Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4508/logo.gif",
@@ -921,54 +965,6 @@
       "pubDate": "Tue, 17 Mar 2026 06:05:35 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer",
       "link": "https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer"
-    }
-  },
-  {
-    "id": "wwr:rare-days-full-stack-engineering-lead",
-    "platform": "wwr",
-    "external_id": "rare-days-full-stack-engineering-lead",
-    "title": "Full-Stack Engineering Lead",
-    "company": "Rare Days",
-    "description": "Headquarters: Vancouver URL: http://raredays.com About Rare Days We're a multi-disciplinary digital product agency obsessed with helping creators build lasting legacies. Since 2020, we've built products at the sweet spot where content meets commerce, empowering established creators and content-led businesses to transform their passion into sustainable success. &nbsp; Our clients include world-renowned creators like Esther Perel, Dr. Becky, Colin &amp; Samir, and Ryan Trahan, as well as organizations like Airbnb, Notion, and Ziff Davis. We specialize in community-first platforms, membership tools, and creator infrastructure — and we build with care, context, and a clear point of view. &nbsp; We’re a fully remote team based in Canada and are open to candidates able to work within 4 hours of PST. &nbsp; About the Role We are hiring a Lead Engineer with deep backend expertise and strong fluency across modern web stacks. This role is ideal for someone who thrives on technical challenges, loves building scalable systems, and enjoys collaborating with product, design, and client teams. &nbsp; You’ll work both independently and with small teams, depending on the project, write production code, and play a key role in steering technical direction. &nbsp; Core Responsibilities Technical Leadership &amp; Development Oversee day-to-day engineering work, keeping the team unblocked and aligned on priorities Architect scalable backend systems using languages and frameworks such as Go and Python. Experience with Kotlin is a plus. Contribute to frontend work using React and TypeScript as needed Drive decision-making around performance, scalability, and system design Write clean, maintainable code and ensure engineering best practices are followed Lead technical documentation, sprint planning, and ongoing delivery &nbsp; Collaboration &amp; Client Engagement Partner with product managers and designers to define and scope solutions Lead client-facing conversations around technical strategy and progress Present work during demos, milestone check-ins, and roadmap reviews Balance business needs with technical feasibility in collaborative planning sessions &nbsp; Team Mentorship &amp; Culture Provide regular feedback and guidance to engineers Contribute to hiring, onboarding, and leveling processes Help foster a strong, inclusive engineering culture rooted in transparency and accountability Identify opportunities to improve our tools, processes, and technical standards &nbsp; What We’re Looking For 7+ years of professional engineering experience English proficiency Experience with Go and Python, including system architecture and performance optimization, is required. Kotlin experience is a plus. Strong knowledge of React, NextJS and Typescript Backend experience with APIs, databases (SQL/NoSQL), cloud services (AWS, GCP), and distributed systems You can communicate effectively with both technical and non-technical audiences and are comfortable leading presentations and deep-dive technical discussions You understand how to compromise on business trade-offs and technical decisions You can design and communicate robust, scalable technical solutions that our internal and client teams understand and want to work on, and you understand how to achieve compromise on business trade-offs and technical decisions. You're comfortable dealing with uncertainty and are capable of disambiguating complex scope and domains to your team You care about people and are motivated to help your team members achieve success on projects. &nbsp; Bonus Skills Experience building creator platforms, media tools, or community-driven products Familiarity with GraphQL, gRPC, or microservice infrastructure Interest in developer experience, automation, or DevOps tooling &nbsp; Compensation and Benefits Extended health benefits for Canadian employees Flexible working hours and a remote-friendly culture Flexible time-off allowance for vacation, sick days, and personal time as needed. We actively encourage team members to make use of this time-off policy The opportunity to work with well-known creators and brands, including Esther Perel, Colin &amp; Samir, Shan Boodram, and Sophia Amoruso &nbsp; As an organization headquartered in British Columbia, we’re required to post the salary range if the position is to be filled locally. This range may be higher or lower for candidates based outside of BC, and actual pay will take into account the candidate’s experience and competencies. &nbsp; We understand that women and other marginalized groups may hesitate to apply for roles unless they meet every qualification. If this role excites you, but you don’t meet every requirement, we encourage you to apply anyway! We’re proud to be an equal opportunity employer committed to inclusion, diversity, and hiring exceptional talent from around the world. To apply: https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead",
-    "url": "https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "python",
-      "kotlin",
-      "react",
-      "nextjs",
-      "aws",
-      "gcp",
-      "graphql",
-      "grpc"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-03-17T00:18:00.000Z",
-    "fetched_at": "2026-04-13T12:52:43.122Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/3286/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Rare Days: Full-Stack Engineering Lead",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/3286/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Vancouver\n    <br /><strong>URL:</strong> <a href=\"http://raredays.com\">http://raredays.com</a>\n</p>\n\n<h3><strong>About Rare Days</strong></h3>\n<div>We're a multi-disciplinary digital product agency obsessed with helping creators build lasting legacies. Since 2020, we've built products at the sweet spot where content meets commerce, empowering established creators and content-led businesses to transform their passion into sustainable success.</div>\n<div>&nbsp;</div>\n<div>Our clients include world-renowned creators like Esther Perel, Dr. Becky, Colin &amp; Samir, and Ryan Trahan, as well as organizations like Airbnb, Notion, and Ziff Davis. We specialize in community-first platforms, membership tools, and creator infrastructure — and we build with care, context, and a clear point of view.</div>\n<div>&nbsp;</div>\n<div>We’re a fully remote team based in Canada and are open to candidates able to work within 4 hours of PST.</div>\n<div>&nbsp;</div>\n<h3><strong>About the Role</strong></h3>\n<div>We are hiring a <strong>Lead Engineer</strong> with deep backend expertise and strong fluency across modern web stacks. This role is ideal for someone who thrives on technical challenges, loves building scalable systems, and enjoys collaborating with product, design, and client teams.</div>\n<div>&nbsp;</div>\n<div>You’ll work both independently and with small teams, depending on the project, write production code, and play a key role in steering technical direction.</div>\n<div>&nbsp;</div>\n<h3><strong>Core Responsibilities</strong></h3>\n<div><strong>Technical Leadership &amp; Development</strong></div>\n<ul>\n<li>Oversee day-to-day engineering work, keeping the team unblocked and aligned on priorities</li>\n<li>Architect scalable backend systems using languages and frameworks such as Go and Python. Experience with Kotlin is a plus.</li>\n<li>Contribute to frontend work using React and TypeScript as needed</li>\n<li>Drive decision-making around performance, scalability, and system design</li>\n<li>Write clean, maintainable code and ensure engineering best practices are followed</li>\n<li>Lead technical documentation, sprint planning, and ongoing delivery</li>\n</ul>\n<div>&nbsp;</div>\n<div><strong>Collaboration &amp; Client Engagement</strong></div>\n<ul>\n<li>Partner with product managers and designers to define and scope solutions</li>\n<li>Lead client-facing conversations around technical strategy and progress</li>\n<li>Present work during demos, milestone check-ins, and roadmap reviews</li>\n<li>Balance business needs with technical feasibility in collaborative planning sessions</li>\n</ul>\n<div>&nbsp;</div>\n<div><strong>Team Mentorship &amp; Culture</strong></div>\n<ul>\n<li>Provide regular feedback and guidance to engineers</li>\n<li>Contribute to hiring, onboarding, and leveling processes</li>\n<li>Help foster a strong, inclusive engineering culture rooted in transparency and accountability</li>\n<li>Identify opportunities to improve our tools, processes, and technical standards</li>\n</ul>\n<div>&nbsp;</div>\n<h3><strong>What We’re Looking For</strong></h3>\n<ul>\n<li>7+ years of professional engineering experience</li>\n<li>English proficiency</li>\n<li>Experience with Go and Python, including system architecture and performance optimization, is required. Kotlin experience is a plus.</li>\n<li>Strong knowledge of React, NextJS and Typescript</li>\n<li>Backend experience with APIs, databases (SQL/NoSQL), cloud services (AWS, GCP), and distributed systems</li>\n<li>You can communicate effectively with both technical and non-technical audiences and are comfortable leading presentations and deep-dive technical discussions</li>\n<li>You understand how to compromise on business trade-offs and technical decisions</li>\n<li>You can design and communicate robust, scalable technical solutions that our internal and client teams understand and want to work on, and you understand how to achieve compromise on business trade-offs and technical decisions.</li>\n<li>You're comfortable dealing with uncertainty and are capable of disambiguating complex scope and domains to your team</li>\n<li>You care about people and are motivated to help your team members achieve success on projects.</li>\n</ul>\n<div>&nbsp;</div>\n<h3><strong>Bonus Skills</strong></h3>\n<ul>\n<li>Experience building creator platforms, media tools, or community-driven products</li>\n<li>Familiarity with GraphQL, gRPC, or microservice infrastructure</li>\n<li>Interest in developer experience, automation, or DevOps tooling</li>\n</ul>\n<div>&nbsp;</div>\n<h3><strong>Compensation and Benefits</strong></h3>\n<ul>\n<li>Extended health benefits for Canadian employees</li>\n<li>Flexible working hours and a remote-friendly culture</li>\n<li>Flexible time-off allowance for vacation, sick days, and personal time as needed. We actively encourage team members to make use of this time-off policy</li>\n<li>The opportunity to work with well-known creators and brands, including Esther Perel, Colin &amp; Samir, Shan Boodram, and Sophia Amoruso</li>\n</ul>\n<div>&nbsp;</div>\n<div><em>As an organization headquartered in British Columbia, we’re required to post the salary range if the position is to be filled locally. This range may be higher or lower for candidates based outside of BC, and actual pay will take into account the candidate’s experience and competencies.</em></div>\n<div>&nbsp;</div>\n<div><em>We understand that women and other marginalized groups may hesitate to apply for roles unless they meet every qualification. If this role excites you, but you don’t meet every requirement, we encourage you to apply anyway! We’re proud to be an equal opportunity employer committed to inclusion, diversity, and hiring exceptional talent from around the world.</em></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead\">https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead</a></p>",
-      "pubDate": "Tue, 17 Mar 2026 00:18:00 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead",
-      "link": "https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead"
     }
   },
   {
@@ -996,7 +992,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-15T20:31:52.000Z",
-    "fetched_at": "2026-04-13T12:52:43.124Z",
+    "fetched_at": "2026-04-13T18:55:27.161Z",
     "raw": {
       "title": "Confluent: Senior Manager, Product-Led Growth Strategy and Operations",
       "region": "Anywhere in the World",
@@ -1051,7 +1047,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-14T20:32:00.000Z",
-    "fetched_at": "2026-04-13T12:52:43.125Z",
+    "fetched_at": "2026-04-13T18:55:27.162Z",
     "raw": {
       "title": "Master-works: Full-stack Developer (React & Node.js)",
       "region": "Anywhere in the World",
@@ -1093,7 +1089,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-09T20:32:14.000Z",
-    "fetched_at": "2026-04-13T12:52:43.348Z",
+    "fetched_at": "2026-04-13T18:55:27.347Z",
     "raw": {
       "title": "3pillar: Senior Technical Lead DevOps - AWS",
       "region": "Anywhere in the World",
@@ -1139,7 +1135,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-09T20:32:05.000Z",
-    "fetched_at": "2026-04-13T12:52:43.349Z",
+    "fetched_at": "2026-04-13T18:55:27.348Z",
     "raw": {
       "title": "Hard Rock Digital: Senior Data DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1188,7 +1184,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-08T20:32:32.000Z",
-    "fetched_at": "2026-04-13T12:52:43.350Z",
+    "fetched_at": "2026-04-13T18:55:27.348Z",
     "raw": {
       "title": "Lingaro: DevOps Engineer - Observability",
       "region": "Anywhere in the World",
@@ -1246,7 +1242,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-08T20:31:07.000Z",
-    "fetched_at": "2026-04-13T12:52:43.351Z",
+    "fetched_at": "2026-04-13T18:55:27.350Z",
     "raw": {
       "title": "Pathway: Senior ML Infrastructure / DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1299,7 +1295,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-08T07:39:58.000Z",
-    "fetched_at": "2026-04-13T12:52:43.352Z",
+    "fetched_at": "2026-04-13T18:55:27.350Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0064/2896/logo.gif",
@@ -1351,7 +1347,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:35:10.000Z",
-    "fetched_at": "2026-04-13T12:52:43.353Z",
+    "fetched_at": "2026-04-13T18:55:27.351Z",
     "raw": {
       "title": "Exnaton Ag: Fullstack Engineer (with DevOps focus) (f/m/d) at climate tech start-up",
       "region": "Anywhere in the World",
@@ -1402,7 +1398,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:34:02.000Z",
-    "fetched_at": "2026-04-13T12:52:43.354Z",
+    "fetched_at": "2026-04-13T18:55:27.352Z",
     "raw": {
       "title": "Evolutioniq: Senior DevOps Engineer (CloudInfra)",
       "region": "Anywhere in the World",
@@ -1448,7 +1444,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:33:50.000Z",
-    "fetched_at": "2026-04-13T12:52:43.355Z",
+    "fetched_at": "2026-04-13T18:55:27.354Z",
     "raw": {
       "title": "Blockchain & Climate Institute/ BCI America Inc.: UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
       "region": "Anywhere in the World",
@@ -1494,7 +1490,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:33:45.000Z",
-    "fetched_at": "2026-04-13T12:52:43.357Z",
+    "fetched_at": "2026-04-13T18:55:27.355Z",
     "raw": {
       "title": "Blockchain & Climate Institute/ Bci America Inc.: UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
       "region": "Anywhere in the World",
@@ -1543,7 +1539,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:31:29.000Z",
-    "fetched_at": "2026-04-13T12:52:43.359Z",
+    "fetched_at": "2026-04-13T18:55:27.356Z",
     "raw": {
       "title": "blau direkt: Senior DevOps Engineer (m/w/d)",
       "region": "Anywhere in the World",
@@ -1592,7 +1588,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:34.000Z",
-    "fetched_at": "2026-04-13T12:52:43.360Z",
+    "fetched_at": "2026-04-13T18:55:27.357Z",
     "raw": {
       "title": "Marbis: Frontend DevOps Engineer - Full or Part-time (m/f/x)",
       "region": "Anywhere in the World",
@@ -1642,7 +1638,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:22.000Z",
-    "fetched_at": "2026-04-13T12:52:43.360Z",
+    "fetched_at": "2026-04-13T18:55:27.358Z",
     "raw": {
       "title": "Greenbone: Senior DevOps Engineer - Delivery & Infrastructure Automation (m/f/d)",
       "region": "Anywhere in the World",
@@ -1696,7 +1692,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:22.000Z",
-    "fetched_at": "2026-04-13T12:52:43.362Z",
+    "fetched_at": "2026-04-13T18:55:27.359Z",
     "raw": {
       "title": "Dr.kaske: Full Stack WordPress Developer (m/f/d) with DevOps Skills",
       "region": "Anywhere in the World",
@@ -1750,7 +1746,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:12.000Z",
-    "fetched_at": "2026-04-13T12:52:43.363Z",
+    "fetched_at": "2026-04-13T18:55:27.360Z",
     "raw": {
       "title": "Smile.ai: Full Stack WordPress Developer (m/f/d) with DevOps Skills",
       "region": "Anywhere in the World",
@@ -1792,7 +1788,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:33:23.000Z",
-    "fetched_at": "2026-04-13T12:52:43.364Z",
+    "fetched_at": "2026-04-13T18:55:27.361Z",
     "raw": {
       "title": "Sophos: Senior DevOps Engineer 2 (Power Platform Engineer)",
       "region": "Anywhere in the World",
@@ -1836,7 +1832,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:33:14.000Z",
-    "fetched_at": "2026-04-13T12:52:43.365Z",
+    "fetched_at": "2026-04-13T18:55:27.362Z",
     "raw": {
       "title": "3pillar: DevOps Technical Lead",
       "region": "Anywhere in the World",
@@ -1884,7 +1880,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:53.000Z",
-    "fetched_at": "2026-04-13T12:52:43.366Z",
+    "fetched_at": "2026-04-13T18:55:27.363Z",
     "raw": {
       "title": "Nord Security: DevOps Engineer | Mid-Senior | Saily",
       "region": "Anywhere in the World",
@@ -1932,7 +1928,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:53.000Z",
-    "fetched_at": "2026-04-13T12:52:43.367Z",
+    "fetched_at": "2026-04-13T18:55:27.364Z",
     "raw": {
       "title": "Nord Security: DevOps Engineer | Mid-Senior | Saily",
       "region": "Anywhere in the World",
@@ -1979,7 +1975,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:03.000Z",
-    "fetched_at": "2026-04-13T12:52:43.368Z",
+    "fetched_at": "2026-04-13T18:55:27.365Z",
     "raw": {
       "title": "Botario: (Senior) DevOps Engineer (all genders)",
       "region": "Anywhere in the World",
@@ -2027,7 +2023,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:04:31.000Z",
-    "fetched_at": "2026-04-13T12:52:43.369Z",
+    "fetched_at": "2026-04-13T18:55:27.366Z",
     "raw": {
       "title": "Zollsoft Gmbh: DevOps Engineer (Homeoffice möglich)",
       "region": "Anywhere in the World",
@@ -2072,7 +2068,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:04:03.000Z",
-    "fetched_at": "2026-04-13T12:52:43.370Z",
+    "fetched_at": "2026-04-13T18:55:27.367Z",
     "raw": {
       "title": "Workidentity: DevOps Engineer (gn) / full-remote",
       "region": "Anywhere in the World",
@@ -2118,7 +2114,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:03:38.000Z",
-    "fetched_at": "2026-04-13T12:52:43.371Z",
+    "fetched_at": "2026-04-13T18:55:27.367Z",
     "raw": {
       "title": "Nscon Network, Security & Consulting Gmbh: (Senior) DevOps Engineer / Consultant (m/w/d)",
       "region": "Anywhere in the World",
@@ -2166,7 +2162,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:17.000Z",
-    "fetched_at": "2026-04-13T12:52:43.371Z",
+    "fetched_at": "2026-04-13T18:55:27.368Z",
     "raw": {
       "title": "Spectrum It Recruitment: Senior GCP DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2223,7 +2219,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:14.000Z",
-    "fetched_at": "2026-04-13T12:52:43.372Z",
+    "fetched_at": "2026-04-13T18:55:27.369Z",
     "raw": {
       "title": "Cardano Foundation: DevOps Engineer - Decentralized Identity Solutions",
       "region": "Anywhere in the World",
@@ -2262,7 +2258,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-13T12:52:43.373Z",
+    "fetched_at": "2026-04-13T18:55:27.369Z",
     "raw": {
       "title": "Adistec: Product Sales Manager -Cybersecurity - Jamaica",
       "region": "Anywhere in the World",
@@ -2305,7 +2301,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-13T12:52:43.373Z",
+    "fetched_at": "2026-04-13T18:55:27.370Z",
     "raw": {
       "title": "Espritek: Ingénieur Zscaler Confirmé - Design & Implémentation H/F",
       "region": "Anywhere in the World",
@@ -2346,7 +2342,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-13T12:52:43.374Z",
+    "fetched_at": "2026-04-13T18:55:27.371Z",
     "raw": {
       "title": "Amadeus: Senior Sre - DevOps H/F",
       "region": "Anywhere in the World",
@@ -2392,7 +2388,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-13T12:52:43.376Z",
+    "fetched_at": "2026-04-13T18:55:27.372Z",
     "raw": {
       "title": "Mirakl: Platform And Product Security Officer H/F",
       "region": "Anywhere in the World",
@@ -2431,7 +2427,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:00:38.000Z",
-    "fetched_at": "2026-04-13T12:52:43.376Z",
+    "fetched_at": "2026-04-13T18:55:27.373Z",
     "raw": {
       "title": "Adistec: Product Sales Manager -Cybersecurity - Dominican Republic",
       "region": "Anywhere in the World",
@@ -2473,7 +2469,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-13T12:52:43.377Z",
+    "fetched_at": "2026-04-13T18:55:27.373Z",
     "raw": {
       "title": "Extreme Digital Solutions: ed3b ANALISTA DEVOPS III",
       "region": "Anywhere in the World",
@@ -2512,7 +2508,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-13T12:52:43.378Z",
+    "fetched_at": "2026-04-13T18:55:27.374Z",
     "raw": {
       "title": "FIAP/Alura/PM3: Executivo de Contas II - Tech Touch",
       "region": "Anywhere in the World",
@@ -2567,7 +2563,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-13T12:52:43.379Z",
+    "fetched_at": "2026-04-13T18:55:27.375Z",
     "raw": {
       "title": "Matera: Devops - Pleno e Sênior (Banco de Talentos)",
       "region": "Anywhere in the World",
@@ -2615,7 +2611,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-13T12:52:43.380Z",
+    "fetched_at": "2026-04-13T18:55:27.376Z",
     "raw": {
       "title": "Luby: Profissional SRE/DevOps (AWS/Terraform) Sênior - Remoto",
       "region": "Anywhere in the World",
@@ -2664,7 +2660,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-13T12:52:43.381Z",
+    "fetched_at": "2026-04-13T18:55:27.377Z",
     "raw": {
       "title": "Grupo Taking: Analista de Sustentação N1 - Dados (Azure & DevOps) - Pleno - 26181",
       "region": "Anywhere in the World",
@@ -2707,7 +2703,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-21T20:32:01.000Z",
-    "fetched_at": "2026-04-13T12:52:43.382Z",
+    "fetched_at": "2026-04-13T18:55:27.378Z",
     "raw": {
       "title": "Aptos: Information Security Engineer, Product",
       "region": "Anywhere in the World",
@@ -2757,7 +2753,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:35:27.000Z",
-    "fetched_at": "2026-04-13T12:52:43.382Z",
+    "fetched_at": "2026-04-13T18:55:27.378Z",
     "raw": {
       "title": "Intetics: 1025 | Senior DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2798,7 +2794,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:35:23.000Z",
-    "fetched_at": "2026-04-13T12:52:43.384Z",
+    "fetched_at": "2026-04-13T18:55:27.380Z",
     "raw": {
       "title": "Digitalocean: Product Security Manager, Secure Design",
       "region": "Anywhere in the World",
@@ -2856,7 +2852,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:32:42.000Z",
-    "fetched_at": "2026-04-13T12:52:43.385Z",
+    "fetched_at": "2026-04-13T18:55:27.381Z",
     "raw": {
       "title": "Consensys: Senior Staff DevOps Engineer - MetaMask",
       "region": "Anywhere in the World",
@@ -2907,7 +2903,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:32:19.000Z",
-    "fetched_at": "2026-04-13T12:52:43.386Z",
+    "fetched_at": "2026-04-13T18:55:27.382Z",
     "raw": {
       "title": "H1: Sr. DevOps AWS Cloud Engineer",
       "region": "Anywhere in the World",
@@ -2946,7 +2942,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-19T20:31:48.000Z",
-    "fetched_at": "2026-04-13T12:52:43.387Z",
+    "fetched_at": "2026-04-13T18:55:27.382Z",
     "raw": {
       "title": "Alphorm: Formateur IT Indépendant  Cybersécurité,IA, DevOps, Réseaux ...",
       "region": "Anywhere in the World",
@@ -2994,7 +2990,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-19T20:31:34.000Z",
-    "fetched_at": "2026-04-13T12:52:43.388Z",
+    "fetched_at": "2026-04-13T18:55:27.383Z",
     "raw": {
       "title": "Stakefish: (f2pool) DevOps Engineer",
       "region": "Anywhere in the World",
