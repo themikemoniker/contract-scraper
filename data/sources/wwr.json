@@ -1,5 +1,45 @@
 [
   {
+    "id": "wwr:contentjet-inc-ai-agent-architect-builder",
+    "platform": "wwr",
+    "external_id": "contentjet-inc-ai-agent-architect-builder",
+    "title": "AI Agent Architect / Builder",
+    "company": "ContentJet Inc.",
+    "description": "Headquarters: Montreal, Canada URL: https://www.contentjet.com ABOUT CONTENTJET ContentJet is a Canadian UGC creative agency that connects brands with creators to produce high-performing user-generated content at scale. We serve global clients across e-commerce, healthcare, and marketing verticals. Our core belief: every manual, repetitive task inside an agency can and should be replaced by an AI agent or automation. We use Claude Code CLI, Claude Cowork with MCP connectors, OpenClaw, n8n, VAPI, and custom multi-agent systems to eliminate manual work across every layer of our operations — from creator sourcing and outreach to content production, team coordination, and client delivery. THE MISSION: REPLACE MANUAL WORK WITH AI AGENTS ContentJet is on a mission to become a fully AI-native agency. That means every workflow that currently requires a human clicking, copying, pasting, searching, emailing, or following up manually should be handled by an AI agent instead. We’re not looking for someone to build chatbots — we’re looking for someone who can systematically identify manual bottlenecks across our operations and replace them with autonomous agent systems that run 24/7 without human intervention. This includes: creator discovery and vetting, outreach campaign creation, brief reading and task assignment, content pipeline management, quality control, reporting, team notifications, client communication, and any repetitive operational task that currently eats human hours. THE ROLE You are the person who designs and builds complete AI agent systems from concept to production. You will own the architecture of multi-agent pipelines — defining agent roles, communication flows, tool integrations, and orchestration logic. You will work extensively with Claude Code CLI to build, test, and iterate on agent systems directly from the terminal — writing production-grade code, managing project structures, and leveraging Claude’s coding capabilities for rapid development. You will use Claude Cowork with MCP connectors to orchestrate complex workflows that read from Monday.com, discover creators on TikTok/Modash, create Instantly campaigns, produce personalized documents, and coordinate across Slack channels — all without manual intervention. You will deploy agents via OpenClaw, our open-source AI agent gateway, to make them accessible across multiple platforms (Slack, Telegram, web) with full DM and group chat support, tool management, and multi-model routing. WHAT YOU WILL DO Systematically audit ContentJet’s operations to identify every manual task that can be replaced by an AI agent or automation Design and build multi-agent systems that fully replace manual workflows: creator sourcing, outreach, qualification, brief processing, campaign management, reporting, and team coordination Use Claude Code CLI as your primary development environment to build, debug, and ship agent systems rapidly from the terminal Build complex automation workflows using Claude Cowork with MCP connectors — orchestrating Monday.com, TikTok, Modash, Instantly, Google Drive, Slack, and other platforms into seamless, zero-touch pipelines Deploy and configure agents via OpenClaw for multi-platform delivery (Slack, Telegram, web interfaces) with DM and group chat support Architect agent communication flows, decision trees, tool-use schemas, and escalation logic within the OpenClaw gateway Integrate agents with external tools via APIs and MCP connectors (Monday.com, Modash, TikTok, Instantly, Apollo, Apify, Firecrawl, ElevenLabs, Creatomate, etc.) Build AI-powered creator sourcing and outreach pipelines — from Monday.com brief reading through creator discovery to Instantly campaign creation, with personalized Word document guides produced automatically for team members Build AI voice agents using VAPI + Claude + Twilio/Telnyx for creator and lead qualification, replacing manual phone screening Write production-grade Python agent code with proper error handling, logging, Slack integration (multi-channel), and monitoring Design prompt systems at the systems level — agent instructions, OpenClaw tool configurations, Claude Cowork task definitions, output parsing, and quality control Create CLAUDE.md project files for agent codebases following enterprise-grade standards (security, design philosophy, code organization) Continuously look for new manual processes to automate — the goal is zero manual work for repetitive tasks MUST-HAVE SKILLS Python (production-level, not just scripting) — you write code that runs in production 24/7 Deep prompt engineering — system-level agent instructions, multi-step reasoning chains, tool-use orchestration, not simple chatbot prompts Claude Code CLI proficiency — comfortable building, testing, and shipping entire projects from the terminal using Claude as a coding partner Claude Cowork experience — ability to design and execute complex multi-step workflows using MCP connectors to orchestrate across platforms Experience with OpenClaw or similar AI agent gateways/orchestration frameworks for multi-platform agent deployment API integration experience (REST, webhooks, OAuth, API chaining) — you can wire any two systems together Experience building multi-agent or multi-step AI systems (CrewAI, AutoGen, LangGraph, or custom builds) Strong understanding of MCP (Model Context Protocol) — how to connect Claude to external tools, databases, and services Understanding of agent design patterns: ReAct, tool-use, delegation, human-in-the-loop, autonomous decision-making Experience deploying agents across multiple platforms (Slack bots, Telegram bots, web chat) Strong English communication (written) — you’ll write agent specs, workflow documentation, and team guides NICE-TO-HAVE &nbsp; Familiarity with n8n (self-hosted) for workflow automation alongside agent systems Background in UGC, creator economy, influencer marketing, or content operations Experience with Monday.com API, Modash, TikTok Creator Marketplace, or similar creator tools Experience configuring OpenClaw for multi-platform deployment with tool availability management and config troubleshooting French or Arabic language skills (for MENA market projects) WHAT SUCCESS LOOKS LIKE Within 30 days: You’ve audited our current manual workflows, deployed your first multi-agent system via OpenClaw integrated with Slack, and shipped a working creator sourcing automation using Claude Cowork with MCP connectors. Within 60 days: You’ve replaced at least 3 major manual workflows with autonomous agent systems. You’re independently designing agent architectures using Claude Code CLI and deploying them via OpenClaw with minimal direction. Within 90 days: You’re leading AI agent delivery across 5–9 concurrent automation projects, have eliminated the majority of repetitive manual tasks in our operations, and are training team members on agent-powered workflows. Manual work at ContentJet is the exception, not the norm. &nbsp; &nbsp; &nbsp; To apply: https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder",
+    "url": "https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "react",
+      "llm",
+      "oauth",
+      "twilio"
+    ],
+    "tags": [
+      "programming",
+      "Back-End Programming"
+    ],
+    "posted_at": "2026-03-30T12:49:53.000Z",
+    "fetched_at": "2026-04-18T18:28:18.094Z",
+    "raw": {
+      "title": "ContentJet Inc.: AI Agent Architect / Builder",
+      "region": "Anywhere in the World",
+      "category": "Back-End Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Montreal, Canada\n    <br /><strong>URL:</strong> <a href=\"https://www.contentjet.com\">https://www.contentjet.com</a>\n</p>\n\n<p><strong>ABOUT CONTENTJET</strong></p>\n<p>ContentJet is a Canadian UGC creative agency that connects brands with creators to produce high-performing user-generated content at scale. We serve global clients across e-commerce, healthcare, and marketing verticals. Our core belief: every manual, repetitive task inside an agency can and should be replaced by an AI agent or automation. We use Claude Code CLI, Claude Cowork with MCP connectors, OpenClaw, n8n, VAPI, and custom multi-agent systems to eliminate manual work across every layer of our operations — from creator sourcing and outreach to content production, team coordination, and client delivery.</p>\n<p><strong>THE MISSION: REPLACE MANUAL WORK WITH AI AGENTS</strong></p>\n<p>ContentJet is on a mission to become a fully AI-native agency. That means every workflow that currently requires a human clicking, copying, pasting, searching, emailing, or following up manually should be handled by an AI agent instead. We’re not looking for someone to build chatbots — we’re looking for someone who can systematically identify manual bottlenecks across our operations and replace them with autonomous agent systems that run 24/7 without human intervention.</p>\n<p>This includes: creator discovery and vetting, outreach campaign creation, brief reading and task assignment, content pipeline management, quality control, reporting, team notifications, client communication, and any repetitive operational task that currently eats human hours.</p>\n<p><strong>THE ROLE</strong></p>\n<p>You are the person who designs and builds complete AI agent systems from concept to production. You will own the architecture of multi-agent pipelines — defining agent roles, communication flows, tool integrations, and orchestration logic.</p>\n<p>You will work extensively with Claude Code CLI to build, test, and iterate on agent systems directly from the terminal — writing production-grade code, managing project structures, and leveraging Claude’s coding capabilities for rapid development. You will use Claude Cowork with MCP connectors to orchestrate complex workflows that read from Monday.com, discover creators on TikTok/Modash, create Instantly campaigns, produce personalized documents, and coordinate across Slack channels — all without manual intervention.</p>\n<p>You will deploy agents via OpenClaw, our open-source AI agent gateway, to make them accessible across multiple platforms (Slack, Telegram, web) with full DM and group chat support, tool management, and multi-model routing.</p>\n<p><strong>WHAT YOU WILL DO</strong></p>\n<ul>\n<li>\n<p>Systematically audit ContentJet’s operations to identify every manual task that can be replaced by an AI agent or automation</p>\n</li>\n<li>\n<p>Design and build multi-agent systems that fully replace manual workflows: creator sourcing, outreach, qualification, brief processing, campaign management, reporting, and team coordination</p>\n</li>\n<li>\n<p>Use Claude Code CLI as your primary development environment to build, debug, and ship agent systems rapidly from the terminal</p>\n</li>\n<li>\n<p>Build complex automation workflows using Claude Cowork with MCP connectors — orchestrating Monday.com, TikTok, Modash, Instantly, Google Drive, Slack, and other platforms into seamless, zero-touch pipelines</p>\n</li>\n<li>\n<p>Deploy and configure agents via OpenClaw for multi-platform delivery (Slack, Telegram, web interfaces) with DM and group chat support</p>\n</li>\n<li>\n<p>Architect agent communication flows, decision trees, tool-use schemas, and escalation logic within the OpenClaw gateway</p>\n</li>\n<li>\n<p>Integrate agents with external tools via APIs and MCP connectors (Monday.com, Modash, TikTok, Instantly, Apollo, Apify, Firecrawl, ElevenLabs, Creatomate, etc.)</p>\n</li>\n<li>\n<p>Build AI-powered creator sourcing and outreach pipelines — from Monday.com brief reading through creator discovery to Instantly campaign creation, with personalized Word document guides produced automatically for team members</p>\n</li>\n<li>\n<p>Build AI voice agents using VAPI + Claude + Twilio/Telnyx for creator and lead qualification, replacing manual phone screening</p>\n</li>\n<li>\n<p>Write production-grade Python agent code with proper error handling, logging, Slack integration (multi-channel), and monitoring</p>\n</li>\n<li>\n<p>Design prompt systems at the systems level — agent instructions, OpenClaw tool configurations, Claude Cowork task definitions, output parsing, and quality control</p>\n</li>\n<li>\n<p>Create CLAUDE.md project files for agent codebases following enterprise-grade standards (security, design philosophy, code organization)</p>\n</li>\n<li>\n<p>Continuously look for new manual processes to automate — the goal is zero manual work for repetitive tasks</p>\n</li>\n</ul>\n<p><strong>MUST-HAVE SKILLS</strong></p>\n<ul>\n<li>\n<p>Python (production-level, not just scripting) — you write code that runs in production 24/7</p>\n</li>\n<li>\n<p>Deep prompt engineering — system-level agent instructions, multi-step reasoning chains, tool-use orchestration, not simple chatbot prompts</p>\n</li>\n<li>\n<p>Claude Code CLI proficiency — comfortable building, testing, and shipping entire projects from the terminal using Claude as a coding partner</p>\n</li>\n<li>\n<p>Claude Cowork experience — ability to design and execute complex multi-step workflows using MCP connectors to orchestrate across platforms</p>\n</li>\n<li>\n<p>Experience with OpenClaw or similar AI agent gateways/orchestration frameworks for multi-platform agent deployment</p>\n</li>\n<li>\n<p>API integration experience (REST, webhooks, OAuth, API chaining) — you can wire any two systems together</p>\n</li>\n<li>\n<p>Experience building multi-agent or multi-step AI systems (CrewAI, AutoGen, LangGraph, or custom builds)</p>\n</li>\n<li>\n<p>Strong understanding of MCP (Model Context Protocol) — how to connect Claude to external tools, databases, and services</p>\n</li>\n<li>\n<p>Understanding of agent design patterns: ReAct, tool-use, delegation, human-in-the-loop, autonomous decision-making</p>\n</li>\n<li>\n<p>Experience deploying agents across multiple platforms (Slack bots, Telegram bots, web chat)</p>\n</li>\n<li>\n<p>Strong English communication (written) — you’ll write agent specs, workflow documentation, and team guides</p>\n</li>\n</ul>\n<p><strong>NICE-TO-HAVE</strong></p>\n<p><strong>&nbsp;</strong></p>\n<ul>\n<li>\n<p>Familiarity with n8n (self-hosted) for workflow automation alongside agent systems</p>\n</li>\n<li>\n<p>Background in UGC, creator economy, influencer marketing, or content operations</p>\n</li>\n<li>\n<p>Experience with Monday.com API, Modash, TikTok Creator Marketplace, or similar creator tools</p>\n</li>\n<li>\n<p>Experience configuring OpenClaw for multi-platform deployment with tool availability management and config troubleshooting</p>\n</li>\n<li>\n<p>French or Arabic language skills (for MENA market projects)</p>\n</li>\n</ul>\n<p><strong>WHAT SUCCESS LOOKS LIKE</strong></p>\n<p>Within 30 days: You’ve audited our current manual workflows, deployed your first multi-agent system via OpenClaw integrated with Slack, and shipped a working creator sourcing automation using Claude Cowork with MCP connectors.</p>\n<p>Within 60 days: You’ve replaced at least 3 major manual workflows with autonomous agent systems. You’re independently designing agent architectures using Claude Code CLI and deploying them via OpenClaw with minimal direction.</p>\n<p>Within 90 days: You’re leading AI agent delivery across 5–9 concurrent automation projects, have eliminated the majority of repetitive manual tasks in our operations, and are training team members on agent-powered workflows. Manual work at ContentJet is the exception, not the norm.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder\">https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder</a></p>",
+      "pubDate": "Mon, 30 Mar 2026 12:49:53 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder",
+      "link": "https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder"
+    }
+  },
+  {
     "id": "wwr:the-corvus-group-inc-react-frontend-developer",
     "platform": "wwr",
     "external_id": "the-corvus-group-inc-react-frontend-developer",
@@ -29,7 +69,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-29T00:27:27.000Z",
-    "fetched_at": "2026-04-18T12:30:38.557Z",
+    "fetched_at": "2026-04-18T18:28:18.094Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4626/logo.gif",
@@ -78,7 +118,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-27T17:07:25.000Z",
-    "fetched_at": "2026-04-18T12:30:38.559Z",
+    "fetched_at": "2026-04-18T18:28:18.096Z",
     "raw": {
       "title": "EventMobi: Senior Front End Engineer - Remote",
       "region": "Anywhere in the World",
@@ -132,7 +172,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-27T16:28:28.000Z",
-    "fetched_at": "2026-04-18T12:30:38.561Z",
+    "fetched_at": "2026-04-18T18:28:18.098Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/3386/logo.gif",
@@ -175,7 +215,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-27T14:03:38.000Z",
-    "fetched_at": "2026-04-18T12:30:38.563Z",
+    "fetched_at": "2026-04-18T18:28:18.099Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0123/5852/logo.gif",
@@ -220,7 +260,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-02-24T15:35:41.000Z",
-    "fetched_at": "2026-04-18T12:30:38.563Z",
+    "fetched_at": "2026-04-18T18:28:18.099Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0141/7281/logo.gif",
@@ -272,7 +312,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-25T21:35:33.000Z",
-    "fetched_at": "2026-04-18T12:30:38.564Z",
+    "fetched_at": "2026-04-18T18:28:18.100Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4556/logo.gif",
@@ -318,7 +358,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-25T20:21:42.000Z",
-    "fetched_at": "2026-04-18T12:30:38.565Z",
+    "fetched_at": "2026-04-18T18:28:18.100Z",
     "raw": {
       "title": "Cue: Senior Software Engineer",
       "region": "Anywhere in the World",
@@ -358,7 +398,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-25T09:35:22.000Z",
-    "fetched_at": "2026-04-18T12:30:38.567Z",
+    "fetched_at": "2026-04-18T18:28:18.102Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4585/logo.gif",
@@ -406,7 +446,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-25T02:14:15.000Z",
-    "fetched_at": "2026-04-18T12:30:38.567Z",
+    "fetched_at": "2026-04-18T18:28:18.102Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4579/logo.gif",
@@ -452,7 +492,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-24T19:28:57.000Z",
-    "fetched_at": "2026-04-18T12:30:38.569Z",
+    "fetched_at": "2026-04-18T18:28:18.103Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0000/0069/logo.gif",
@@ -495,7 +535,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-23T13:46:27.000Z",
-    "fetched_at": "2026-04-18T12:30:38.569Z",
+    "fetched_at": "2026-04-18T18:28:18.104Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/2344/logo.gif",
@@ -541,7 +581,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-01-22T13:45:49.000Z",
-    "fetched_at": "2026-04-18T12:30:38.570Z",
+    "fetched_at": "2026-04-18T18:28:18.104Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9370/logo.gif",
@@ -583,7 +623,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-22T20:32:14.000Z",
-    "fetched_at": "2026-04-18T12:30:38.571Z",
+    "fetched_at": "2026-04-18T18:28:18.105Z",
     "raw": {
       "title": "Smart Working Solutions: Senior Full Stack Developer (Kotlin, Vue.js) (Remote, Full-Time) [AS197]",
       "region": "Anywhere in the World",
@@ -634,7 +674,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-21T20:31:51.000Z",
-    "fetched_at": "2026-04-18T12:30:38.572Z",
+    "fetched_at": "2026-04-18T18:28:18.106Z",
     "raw": {
       "title": "Moxie: Staff product engineer (fullstack) (IC-4)",
       "region": "Anywhere in the World",
@@ -668,7 +708,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-21T20:31:40.000Z",
-    "fetched_at": "2026-04-18T12:30:38.573Z",
+    "fetched_at": "2026-04-18T18:28:18.107Z",
     "raw": {
       "title": "Protect Democracy: Product / Engineer / Data Roles (Talent Community)",
       "region": "Anywhere in the World",
@@ -706,7 +746,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-03-21T20:31:30.000Z",
-    "fetched_at": "2026-04-18T12:30:38.574Z",
+    "fetched_at": "2026-04-18T18:28:18.108Z",
     "raw": {
       "title": "Virtasant: Senior Backend / Product Engineer  (AI Platform)",
       "region": "Anywhere in the World",
@@ -742,7 +782,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-20T20:35:03.000Z",
-    "fetched_at": "2026-04-18T12:30:38.575Z",
+    "fetched_at": "2026-04-18T18:28:18.108Z",
     "raw": {
       "title": "Releaf: CRO Design Specialist",
       "region": "Anywhere in the World",
@@ -776,7 +816,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-20T20:34:42.000Z",
-    "fetched_at": "2026-04-18T12:30:38.576Z",
+    "fetched_at": "2026-04-18T18:28:18.110Z",
     "raw": {
       "title": "OrangeDot: Lead monday.com Consultant (CRM Product)",
       "region": "Anywhere in the World",
@@ -812,7 +852,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-03-20T20:34:36.000Z",
-    "fetched_at": "2026-04-18T12:30:38.577Z",
+    "fetched_at": "2026-04-18T18:28:18.111Z",
     "raw": {
       "title": "Kdci: PIM Specialist (Product Information Specialist)",
       "region": "Anywhere in the World",
@@ -851,7 +891,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-20T20:34:16.000Z",
-    "fetched_at": "2026-04-18T12:30:38.578Z",
+    "fetched_at": "2026-04-18T18:28:18.112Z",
     "raw": {
       "title": "Phantom: Product Design (Wallet Platform)",
       "region": "Anywhere in the World",
@@ -903,7 +943,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-20T20:32:19.000Z",
-    "fetched_at": "2026-04-18T12:30:38.579Z",
+    "fetched_at": "2026-04-18T18:28:18.113Z",
     "raw": {
       "title": "CRUX: Full Stack Developer/Senior Full Stack/Lead",
       "region": "Anywhere in the World",
@@ -948,7 +988,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-03-20T20:31:56.000Z",
-    "fetched_at": "2026-04-18T12:30:38.580Z",
+    "fetched_at": "2026-04-18T18:28:18.113Z",
     "raw": {
       "title": "Creatunity Llc: Senior Full-Stack Developer (AI-Assisted Development) - Remote",
       "region": "Anywhere in the World",
@@ -986,7 +1026,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2025-10-21T19:36:26.000Z",
-    "fetched_at": "2026-04-18T12:30:38.580Z",
+    "fetched_at": "2026-04-18T18:28:18.114Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/2173/logo.gif",
@@ -1042,7 +1082,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2025-07-23T14:31:54.000Z",
-    "fetched_at": "2026-04-18T12:30:38.582Z",
+    "fetched_at": "2026-04-18T18:28:18.115Z",
     "raw": {
       "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
       "region": "Anywhere in the World",
@@ -1051,48 +1091,6 @@
       "pubDate": "Wed, 23 Jul 2025 14:31:54 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
       "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1"
-    }
-  },
-  {
-    "id": "wwr:clouddevs-java-developer-ai-backend",
-    "platform": "wwr",
-    "external_id": "clouddevs-java-developer-ai-backend",
-    "title": "Java Developer - AI (Backend)",
-    "company": "CloudDevs",
-    "description": "Headquarters: San Francisco URL: https://clouddevs.com/ &nbsp; Location:&nbsp; Latams, or anywhere in Americas(canada, Central and South America) CloudDevs is helping fast-growing, venture-backed startups build high-performance engineering teams. As a Senior Java Backend Engineer, you’ll work on scalable, AI-driven products and play a key role in shaping core platform capabilities. You’ll be working in a high-ownership environment alongside product, design, and engineering teams to ship production-grade systems and solve complex backend challenges. Minimum qualifications: Bachelor’s degree in Computer Science or equivalent practical experience7+ years of experience as a backend or software engineer Strong communication skills in English Strong problem-solving ability and ownership mindset Experience working in distributed, remote teams Core requirements: 7+ years of commercial experience with Java in SaaS/PaaS environments Strong experience with Spring / Spring Boot, Maven, and ORM frameworks&nbsp; Experience designing and building secure, scalable REST APIs (API-first approach preferred) Hands-on experience with PostgreSQL, Redis, and AWS infrastructure Strong understanding of CI/CD pipelines and production observability Excellent debugging and production troubleshooting skills &nbsp; AI / modern dev workflow (important): Strong experience using AI-assisted coding tools like Cursor, Codex, or similar Comfortable working with AI copilots and agent-style workflows to increase development speed and quality&nbsp; Ability to use AI tools to navigate unfamiliar codebases, debug issues, and accelerate delivery&nbsp; Working knowledge of LLMs and how they are integrated into applications is a strong plus Preferred qualifications: Experience with Python for backend/API development Exposure to frontend frameworks like React Strong architectural thinking and system design skills Experience working in fast-paced environments with rapid release cycles Strong attention to detail across code, tests, and reviews What you’ll do: Design and build scalable backend systems with high reliability and performance Write clean, maintainable, well-tested code using modern development practices Leverage AI tools to improve development speed, debugging, and code quality Collaborate in agile workflows, including code reviews and sprint ceremonies Investigate and resolve production issues using logs, telemetry, and system insights Continuously improve systems, code quality, and development processes What’s in it for you: Remote work with high-growth startups Competitive compensation, often with bonuses and equity Work on cutting-edge AI-driven products Apply once and get matched with multiple pre-vetted companies &nbsp; &nbsp; To apply: https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend",
-    "url": "https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "java",
-      "react",
-      "spring",
-      "postgresql",
-      "redis",
-      "aws"
-    ],
-    "tags": [
-      "programming",
-      "Back-End Programming"
-    ],
-    "posted_at": "2026-03-19T15:08:14.000Z",
-    "fetched_at": "2026-04-18T12:30:38.582Z",
-    "raw": {
-      "title": "CloudDevs:  Java Developer - AI (Backend)",
-      "region": "Anywhere in the World",
-      "category": "Back-End Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> San Francisco\n    <br /><strong>URL:</strong> <a href=\"https://clouddevs.com/\">https://clouddevs.com/</a>\n</p>\n\n<p>&nbsp;</p>\n<p>Location:&nbsp; Latams, or anywhere in Americas(canada, Central and South America)</p>\n<p>CloudDevs is helping fast-growing, venture-backed startups build high-performance engineering teams. As a Senior Java Backend Engineer, you’ll work on scalable, AI-driven products and play a key role in shaping core platform capabilities.</p>\n<p>You’ll be working in a high-ownership environment alongside product, design, and engineering teams to ship production-grade systems and solve complex backend challenges.</p>\n<p><strong>Minimum qualifications:</strong></p>\n<ul>\n<li>Bachelor’s degree in Computer Science or equivalent practical experience7+ years of</li>\n<li>experience as a backend or software engineer</li>\n<li>Strong communication skills in English</li>\n<li>Strong problem-solving ability and ownership mindset</li>\n<li>Experience working in distributed, remote teams</li>\n</ul>\n<p><strong>Core requirements:</strong></p>\n<ul>\n<li>7+ years of commercial experience with Java in SaaS/PaaS environments</li>\n<li>Strong experience with Spring / Spring Boot, Maven, and ORM frameworks&nbsp;</li>\n<li>Experience designing and building secure, scalable REST APIs (API-first approach preferred)</li>\n<li>Hands-on experience with PostgreSQL, Redis, and AWS infrastructure</li>\n<li>Strong understanding of CI/CD pipelines and production observability</li>\n<li>Excellent debugging and production troubleshooting skills</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>AI / modern dev workflow (important):</strong></p>\n<ul>\n<li>Strong experience using AI-assisted coding tools like Cursor, Codex, or similar</li>\n<li>Comfortable working with AI copilots and agent-style workflows to increase development speed and quality&nbsp;</li>\n<li>Ability to use AI tools to navigate unfamiliar codebases, debug issues, and accelerate delivery&nbsp;</li>\n<li>Working knowledge of LLMs and how they are integrated into applications is a strong plus</li>\n</ul>\n<p><strong>Preferred qualifications:</strong></p>\n<ul>\n<li>Experience with Python for backend/API development</li>\n<li>Exposure to frontend frameworks like React</li>\n<li>Strong architectural thinking and system design skills</li>\n<li>Experience working in fast-paced environments with rapid release cycles</li>\n<li>Strong attention to detail across code, tests, and reviews</li>\n</ul>\n<p><strong>What you’ll do:</strong></p>\n<p>Design and build scalable backend systems with high reliability and performance<br>Write clean, maintainable, well-tested code using modern development practices<br>Leverage AI tools to improve development speed, debugging, and code quality<br>Collaborate in agile workflows, including code reviews and sprint ceremonies<br>Investigate and resolve production issues using logs, telemetry, and system insights<br>Continuously improve systems, code quality, and development processes</p>\n<p><strong>What’s in it for you:</strong></p>\n<p>Remote work with high-growth startups<br>Competitive compensation, often with bonuses and equity<br>Work on cutting-edge AI-driven products<br>Apply once and get matched with multiple pre-vetted companies</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend\">https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend</a></p>",
-      "pubDate": "Thu, 19 Mar 2026 15:08:14 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend",
-      "link": "https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend"
     }
   },
   {
@@ -1151,7 +1149,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-15T10:42:33.000Z",
-    "fetched_at": "2026-04-18T12:30:38.784Z",
+    "fetched_at": "2026-04-18T18:28:18.338Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0076/3337/logo.gif",
@@ -1202,7 +1200,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-09T20:32:14.000Z",
-    "fetched_at": "2026-04-18T12:30:38.786Z",
+    "fetched_at": "2026-04-18T18:28:18.339Z",
     "raw": {
       "title": "3pillar: Senior Technical Lead DevOps - AWS",
       "region": "Anywhere in the World",
@@ -1248,7 +1246,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-09T20:32:05.000Z",
-    "fetched_at": "2026-04-18T12:30:38.787Z",
+    "fetched_at": "2026-04-18T18:28:18.341Z",
     "raw": {
       "title": "Hard Rock Digital: Senior Data DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1297,7 +1295,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-08T20:32:32.000Z",
-    "fetched_at": "2026-04-18T12:30:38.788Z",
+    "fetched_at": "2026-04-18T18:28:18.341Z",
     "raw": {
       "title": "Lingaro: DevOps Engineer - Observability",
       "region": "Anywhere in the World",
@@ -1355,7 +1353,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-08T20:31:07.000Z",
-    "fetched_at": "2026-04-18T12:30:38.789Z",
+    "fetched_at": "2026-04-18T18:28:18.342Z",
     "raw": {
       "title": "Pathway: Senior ML Infrastructure / DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1408,7 +1406,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-08T07:39:58.000Z",
-    "fetched_at": "2026-04-18T12:30:38.790Z",
+    "fetched_at": "2026-04-18T18:28:18.343Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0064/2896/logo.gif",
@@ -1460,7 +1458,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:35:10.000Z",
-    "fetched_at": "2026-04-18T12:30:38.791Z",
+    "fetched_at": "2026-04-18T18:28:18.344Z",
     "raw": {
       "title": "Exnaton Ag: Fullstack Engineer (with DevOps focus) (f/m/d) at climate tech start-up",
       "region": "Anywhere in the World",
@@ -1511,7 +1509,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:34:02.000Z",
-    "fetched_at": "2026-04-18T12:30:38.792Z",
+    "fetched_at": "2026-04-18T18:28:18.345Z",
     "raw": {
       "title": "Evolutioniq: Senior DevOps Engineer (CloudInfra)",
       "region": "Anywhere in the World",
@@ -1557,7 +1555,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:33:50.000Z",
-    "fetched_at": "2026-04-18T12:30:38.793Z",
+    "fetched_at": "2026-04-18T18:28:18.346Z",
     "raw": {
       "title": "Blockchain & Climate Institute/ BCI America Inc.: UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
       "region": "Anywhere in the World",
@@ -1603,7 +1601,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:33:45.000Z",
-    "fetched_at": "2026-04-18T12:30:38.795Z",
+    "fetched_at": "2026-04-18T18:28:18.348Z",
     "raw": {
       "title": "Blockchain & Climate Institute/ Bci America Inc.: UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
       "region": "Anywhere in the World",
@@ -1652,7 +1650,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:31:29.000Z",
-    "fetched_at": "2026-04-18T12:30:38.796Z",
+    "fetched_at": "2026-04-18T18:28:18.349Z",
     "raw": {
       "title": "blau direkt: Senior DevOps Engineer (m/w/d)",
       "region": "Anywhere in the World",
@@ -1701,7 +1699,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:34.000Z",
-    "fetched_at": "2026-04-18T12:30:38.797Z",
+    "fetched_at": "2026-04-18T18:28:18.350Z",
     "raw": {
       "title": "Marbis: Frontend DevOps Engineer - Full or Part-time (m/f/x)",
       "region": "Anywhere in the World",
@@ -1751,7 +1749,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:22.000Z",
-    "fetched_at": "2026-04-18T12:30:38.798Z",
+    "fetched_at": "2026-04-18T18:28:18.351Z",
     "raw": {
       "title": "Greenbone: Senior DevOps Engineer - Delivery & Infrastructure Automation (m/f/d)",
       "region": "Anywhere in the World",
@@ -1805,7 +1803,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:22.000Z",
-    "fetched_at": "2026-04-18T12:30:38.800Z",
+    "fetched_at": "2026-04-18T18:28:18.352Z",
     "raw": {
       "title": "Dr.kaske: Full Stack WordPress Developer (m/f/d) with DevOps Skills",
       "region": "Anywhere in the World",
@@ -1859,7 +1857,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:12.000Z",
-    "fetched_at": "2026-04-18T12:30:38.801Z",
+    "fetched_at": "2026-04-18T18:28:18.353Z",
     "raw": {
       "title": "Smile.ai: Full Stack WordPress Developer (m/f/d) with DevOps Skills",
       "region": "Anywhere in the World",
@@ -1901,7 +1899,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:33:23.000Z",
-    "fetched_at": "2026-04-18T12:30:38.802Z",
+    "fetched_at": "2026-04-18T18:28:18.354Z",
     "raw": {
       "title": "Sophos: Senior DevOps Engineer 2 (Power Platform Engineer)",
       "region": "Anywhere in the World",
@@ -1945,7 +1943,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:33:14.000Z",
-    "fetched_at": "2026-04-18T12:30:38.803Z",
+    "fetched_at": "2026-04-18T18:28:18.355Z",
     "raw": {
       "title": "3pillar: DevOps Technical Lead",
       "region": "Anywhere in the World",
@@ -1993,7 +1991,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:53.000Z",
-    "fetched_at": "2026-04-18T12:30:38.804Z",
+    "fetched_at": "2026-04-18T18:28:18.356Z",
     "raw": {
       "title": "Nord Security: DevOps Engineer | Mid-Senior | Saily",
       "region": "Anywhere in the World",
@@ -2041,7 +2039,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:53.000Z",
-    "fetched_at": "2026-04-18T12:30:38.805Z",
+    "fetched_at": "2026-04-18T18:28:18.357Z",
     "raw": {
       "title": "Nord Security: DevOps Engineer | Mid-Senior | Saily",
       "region": "Anywhere in the World",
@@ -2089,7 +2087,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:04:31.000Z",
-    "fetched_at": "2026-04-18T12:30:38.806Z",
+    "fetched_at": "2026-04-18T18:28:18.358Z",
     "raw": {
       "title": "Zollsoft Gmbh: DevOps Engineer (Homeoffice möglich)",
       "region": "Anywhere in the World",
@@ -2134,7 +2132,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:04:03.000Z",
-    "fetched_at": "2026-04-18T12:30:38.807Z",
+    "fetched_at": "2026-04-18T18:28:18.358Z",
     "raw": {
       "title": "Workidentity: DevOps Engineer (gn) / full-remote",
       "region": "Anywhere in the World",
@@ -2180,7 +2178,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:03:38.000Z",
-    "fetched_at": "2026-04-18T12:30:38.808Z",
+    "fetched_at": "2026-04-18T18:28:18.359Z",
     "raw": {
       "title": "Nscon Network, Security & Consulting Gmbh: (Senior) DevOps Engineer / Consultant (m/w/d)",
       "region": "Anywhere in the World",
@@ -2228,7 +2226,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:17.000Z",
-    "fetched_at": "2026-04-18T12:30:38.808Z",
+    "fetched_at": "2026-04-18T18:28:18.360Z",
     "raw": {
       "title": "Spectrum It Recruitment: Senior GCP DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2285,7 +2283,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:14.000Z",
-    "fetched_at": "2026-04-18T12:30:38.809Z",
+    "fetched_at": "2026-04-18T18:28:18.361Z",
     "raw": {
       "title": "Cardano Foundation: DevOps Engineer - Decentralized Identity Solutions",
       "region": "Anywhere in the World",
@@ -2324,7 +2322,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-18T12:30:38.810Z",
+    "fetched_at": "2026-04-18T18:28:18.361Z",
     "raw": {
       "title": "Adistec: Product Sales Manager -Cybersecurity - Jamaica",
       "region": "Anywhere in the World",
@@ -2367,7 +2365,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-18T12:30:38.810Z",
+    "fetched_at": "2026-04-18T18:28:18.362Z",
     "raw": {
       "title": "Espritek: Ingénieur Zscaler Confirmé - Design & Implémentation H/F",
       "region": "Anywhere in the World",
@@ -2408,7 +2406,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-18T12:30:38.812Z",
+    "fetched_at": "2026-04-18T18:28:18.364Z",
     "raw": {
       "title": "Amadeus: Senior Sre - DevOps H/F",
       "region": "Anywhere in the World",
@@ -2454,7 +2452,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-04-18T12:30:38.813Z",
+    "fetched_at": "2026-04-18T18:28:18.365Z",
     "raw": {
       "title": "Mirakl: Platform And Product Security Officer H/F",
       "region": "Anywhere in the World",
@@ -2493,7 +2491,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:00:38.000Z",
-    "fetched_at": "2026-04-18T12:30:38.813Z",
+    "fetched_at": "2026-04-18T18:28:18.365Z",
     "raw": {
       "title": "Adistec: Product Sales Manager -Cybersecurity - Dominican Republic",
       "region": "Anywhere in the World",
@@ -2535,7 +2533,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-18T12:30:38.814Z",
+    "fetched_at": "2026-04-18T18:28:18.366Z",
     "raw": {
       "title": "Extreme Digital Solutions: ed3b ANALISTA DEVOPS III",
       "region": "Anywhere in the World",
@@ -2574,7 +2572,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-18T12:30:38.815Z",
+    "fetched_at": "2026-04-18T18:28:18.367Z",
     "raw": {
       "title": "FIAP/Alura/PM3: Executivo de Contas II - Tech Touch",
       "region": "Anywhere in the World",
@@ -2629,7 +2627,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-18T12:30:38.816Z",
+    "fetched_at": "2026-04-18T18:28:18.368Z",
     "raw": {
       "title": "Matera: Devops - Pleno e Sênior (Banco de Talentos)",
       "region": "Anywhere in the World",
@@ -2677,7 +2675,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-18T12:30:38.817Z",
+    "fetched_at": "2026-04-18T18:28:18.369Z",
     "raw": {
       "title": "Luby: Profissional SRE/DevOps (AWS/Terraform) Sênior - Remoto",
       "region": "Anywhere in the World",
@@ -2726,7 +2724,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-03T00:08:59.000Z",
-    "fetched_at": "2026-04-18T12:30:38.818Z",
+    "fetched_at": "2026-04-18T18:28:18.369Z",
     "raw": {
       "title": "Grupo Taking: Analista de Sustentação N1 - Dados (Azure & DevOps) - Pleno - 26181",
       "region": "Anywhere in the World",
@@ -2769,7 +2767,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-21T20:32:01.000Z",
-    "fetched_at": "2026-04-18T12:30:38.819Z",
+    "fetched_at": "2026-04-18T18:28:18.370Z",
     "raw": {
       "title": "Aptos: Information Security Engineer, Product",
       "region": "Anywhere in the World",
@@ -2819,7 +2817,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:35:27.000Z",
-    "fetched_at": "2026-04-18T12:30:38.819Z",
+    "fetched_at": "2026-04-18T18:28:18.371Z",
     "raw": {
       "title": "Intetics: 1025 | Senior DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2860,7 +2858,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:35:23.000Z",
-    "fetched_at": "2026-04-18T12:30:38.821Z",
+    "fetched_at": "2026-04-18T18:28:18.372Z",
     "raw": {
       "title": "Digitalocean: Product Security Manager, Secure Design",
       "region": "Anywhere in the World",
@@ -2918,7 +2916,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:32:42.000Z",
-    "fetched_at": "2026-04-18T12:30:38.822Z",
+    "fetched_at": "2026-04-18T18:28:18.373Z",
     "raw": {
       "title": "Consensys: Senior Staff DevOps Engineer - MetaMask",
       "region": "Anywhere in the World",
@@ -2969,7 +2967,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-20T20:32:19.000Z",
-    "fetched_at": "2026-04-18T12:30:38.823Z",
+    "fetched_at": "2026-04-18T18:28:18.374Z",
     "raw": {
       "title": "H1: Sr. DevOps AWS Cloud Engineer",
       "region": "Anywhere in the World",
@@ -3008,7 +3006,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-19T20:31:48.000Z",
-    "fetched_at": "2026-04-18T12:30:38.824Z",
+    "fetched_at": "2026-04-18T18:28:18.375Z",
     "raw": {
       "title": "Alphorm: Formateur IT Indépendant  Cybersécurité,IA, DevOps, Réseaux ...",
       "region": "Anywhere in the World",
@@ -3056,7 +3054,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-03-19T20:31:34.000Z",
-    "fetched_at": "2026-04-18T12:30:38.825Z",
+    "fetched_at": "2026-04-18T18:28:18.375Z",
     "raw": {
       "title": "Stakefish: (f2pool) DevOps Engineer",
       "region": "Anywhere in the World",
