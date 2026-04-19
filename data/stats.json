@@ -1,7 +1,7 @@
 {
-  "totalJobs": 823,
+  "totalJobs": 822,
   "bySource": {
-    "arbeitnow": 88,
+    "arbeitnow": 87,
     "remoteok": 96,
     "jobicy": 68,
     "remotive": 19,
@@ -10,6 +10,7 @@
     "hn": 473
   },
   "byTechStack": {
+    "llm": 44,
     "swift": 16,
     "github-actions": 18,
     "ios": 52,
@@ -33,7 +34,6 @@
     "kotlin": 20,
     "jetpack": 1,
     "scala": 15,
-    "llm": 43,
     "nextjs": 16,
     "postgresql": 92,
     "supabase": 4,
@@ -170,13 +170,13 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "freelance": 12,
     "full-time": 647,
-    "contract": 9,
+    "freelance": 13,
+    "contract": 10,
     "part-time": 2
   },
   "byRemoteType": {
-    "remote": 456,
+    "remote": 457,
     "onsite": 228,
     "hybrid": 1
   },
@@ -186,16 +186,16 @@
     "100k-150k": 16,
     "150k-200k": 8,
     "over200k": 2,
-    "unknown": 681
+    "unknown": 680
   },
-  "lastUpdated": "2026-04-19T07:02:59.328Z",
+  "lastUpdated": "2026-04-19T12:29:48.403Z",
   "jobsLast7Days": [
     6,
     19,
     27,
     26,
-    91,
-    29,
-    8
+    86,
+    30,
+    13
   ]
 }
