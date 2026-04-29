@@ -1,5 +1,274 @@
 [
   {
+    "id": "jobicy:142770",
+    "platform": "jobicy",
+    "external_id": "142770",
+    "title": "Senior Software Engineer – AI Applications",
+    "company": "Veeva Systems",
+    "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in transforming the life sciences industry , committed to making a positive impact on its customers, employees, and communities. The Role This role is responsible for architecting, building, and validating the next generation of Nitro AI Agents . We are looking for a seasoned engineer who lives at the intersection of robust software engineering and cutting-edge AI. You will go beyond simple prompting to design complex agentic workflows, get insights from large-scale repositories, and ensure the reliability of these systems within a mission-critical life sciences environment. You will enhance and add to existing Java-based back-end systems. What You'll Do Agentic Architecture: Proven experience building scalable AI orchestration layers that drive operational workflows , ranging from high-precision Text-to-SQL agents to complex multi-agent systems capable of tool-calling, event orchestration, and autonomous self-correction Model Strategy: Choose and configure the optimal LLMs based on cost, reasoning depth, and latency Hybrid Data Systems: Build scalable bridges between Relational Databases (Postgres/Java) and Vector Stores, using metadata strategies like PageIndex to ensure data stays synchronized and searchable Text-to-SQL Agents: Develop high-precision agents that translate natural language into complex SQL, featuring self-correction loops to handle large enterprise schemas accurately. Choose appropriate RAG approach for semantic embedding and retrieval Automated Validation: Develop, implement, and maintain scalable automated evaluations to ensure agent behavior remains consistent across model updates and feature releases Requirements Agentic Workflow Mastery: 2+ years of proven experience building scalable AI orchestration layers that drive workflows, ranging from precision Text-to-SQL agents to complex multi-agent systems capable of tool-calling, event orchestration, and autonomous self-correction Scalable backend systems for AI orchestration: 7+ years of experience building and deploying distributed systems that handle high concurrency, rate-limiting, and asynchronous task queues using Java, Spring, and Python . Optimize AI orchestration for performance, scalability, and efficiency RAG &amp; Vector Expertise: Expert at building high-precision RAG systems across structured relational data and unstructured documents, utilizing vector databases to enable accurate retrieval across large-scale enterprise datasets Automated Evaluation: Experience building pipelines to measure complex AI agent performance using key metrics like task success rate, accuracy, and output quality AI Trends: Stay updated on the latest AI and machine learning advancements, research papers, and tools, incorporating them into AI development projects Life Sciences Experience (nice to have): Familiarity with the unique data privacy and regulatory requirements of the life sciences industry Mentorship: Demonstrated ability to mentor team members and contribute to a positive and high-performing team environment Education: Bachelor’s degree in Computer Science, Data Science, Machine Learning, or a related technical field Culture: High work ethic, high integrity, and a \"do the right thing\" mindset Applicants must have the unrestricted right to work in the United States. Veeva will not provide sponsorship at this time Perks &amp; Benefits Medical, dental, vision, and basic life insurance Flexible PTO and company paid holidays Retirement programs 1% charitable giving program Compensation Base pay: $110,000 - $270,000 The salary range listed here has been provided to comply with local regulations and represents a potential base salary range for this role. Please note that actual salaries may vary within the range above or below, depending on experience and location. We look at compensation for each individual and base our offer on your unique qualifications, experience, and expected contributions. This position may also be eligible for other types of compensation in addition to base salary, such as variable bonus and/or stock bonus. #LI-Remote#LI-MidSenior Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world. Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us at talent_accommodations@veeva.com .",
+    "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "java",
+      "spring",
+      "postgresql",
+      "machine-learning",
+      "rag"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-04-29T09:34:02+00:00",
+    "fetched_at": "2026-04-29T13:12:58.974Z",
+    "raw": {
+      "id": 142770,
+      "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
+      "jobSlug": "142770-senior-software-engineer-ai-applications",
+      "jobTitle": "Senior Software Engineer – AI Applications",
+      "companyName": "Veeva Systems",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/08/c3bd5aba21a63e4eff764a44f44a9245.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we...",
+      "jobDescription": "<p>Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a <a href=\"https://medium.com/@peter.gassner/public-benefit-corporation-pbc-486e1e9508a6\" rel=\"nofollow ugc noopener\" target=\"_blank\">public benefit corporation</a> (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a <a href=\"https://careers.veeva.com/work-anywhere/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Work Anywhere</a> company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in <a href=\"https://www.youtube.com/watch?v=TaPSP8cCSKY&amp;ab_channel=Forbes\" rel=\"nofollow ugc noopener\" target=\"_blank\">transforming the life sciences industry</a>, committed to making a positive impact on its customers, employees, and communities.</p>\n<h2><strong>The Role</strong></h2>\n<p> This role is responsible for architecting, building, and validating the next generation of <strong>Nitro AI Agents</strong>. We are looking for a seasoned engineer who lives at the intersection of robust software engineering and cutting-edge AI. You will go beyond simple prompting to design complex agentic workflows, <strong>get </strong>insights from large-scale repositories, and ensure the reliability of these systems within a mission-critical life sciences environment. You will enhance and add to existing <strong>Java-based</strong> back-end systems. </p>\n<h2>What You'll Do</h2>\n<ul>\n<li><strong>Agentic Architecture: </strong>Proven experience building scalable AI orchestration layers that drive <strong>operational workflows</strong>, ranging from high-precision Text-to-SQL agents to complex multi-agent systems capable of tool-calling, event orchestration, and autonomous self-correction</li>\n<li><strong>Model Strategy:</strong> Choose and configure the optimal LLMs based on cost, reasoning depth, and latency</li>\n<li><strong>Hybrid Data Systems:</strong> Build scalable bridges between Relational Databases (Postgres/Java) and Vector Stores, using metadata strategies like PageIndex to ensure data stays synchronized and searchable</li>\n<li><strong>Text-to-SQL Agents:</strong> Develop high-precision agents that translate natural language into complex SQL, featuring self-correction loops to handle large enterprise schemas accurately. Choose appropriate RAG approach for semantic embedding and retrieval</li>\n<li><strong>Automated Validation:</strong> Develop, implement, and maintain scalable automated evaluations to ensure agent behavior remains consistent across model updates and feature releases</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li><strong>Agentic Workflow Mastery: </strong>2+ years of proven experience building scalable AI orchestration layers that drive workflows, ranging from precision Text-to-SQL agents to complex multi-agent systems capable of tool-calling, event orchestration, and autonomous self-correction</li>\n<li><strong>Scalable backend systems for AI orchestration:</strong> 7+ years of experience building and deploying distributed systems that handle high concurrency, rate-limiting, and asynchronous task queues using <strong>Java, Spring, and Python</strong>. Optimize AI orchestration for performance, scalability, and efficiency</li>\n<li><strong>RAG &amp; Vector Expertise:</strong> Expert at building high-precision RAG systems across structured relational data and unstructured documents, utilizing vector databases to enable accurate retrieval across large-scale enterprise datasets</li>\n<li><strong>Automated Evaluation:</strong> Experience building pipelines to measure complex AI agent performance using key metrics like task success rate, accuracy, and output quality</li>\n<li><strong>AI Trends:</strong> Stay updated on the latest AI and machine learning advancements, research papers, and tools, incorporating them into AI development projects</li>\n<li><strong>Life Sciences Experience (nice to have):</strong> Familiarity with the unique data privacy and regulatory requirements of the life sciences industry</li>\n<li><strong>Mentorship:</strong> Demonstrated ability to mentor team members and contribute to a positive and high-performing team environment</li>\n<li><strong>Education:</strong> Bachelor’s degree in Computer Science, Data Science, Machine Learning, or a related technical field</li>\n<li><strong>Culture: </strong>High work ethic, high integrity, and a \"do the right thing\" mindset</li>\n<li>Applicants must have the unrestricted right to work in the United States. Veeva will not provide sponsorship at this time</li>\n</ul>\n<h2>Perks &amp; Benefits</h2>\n<ul>\n<li>Medical, dental, vision, and basic life insurance</li>\n<li>Flexible PTO and company paid holidays</li>\n<li>Retirement programs</li>\n<li>1% charitable giving program</li>\n</ul>\n<h2>Compensation</h2>\n<ul>\n<li>Base pay: $110,000 - $270,000</li>\n<li>The salary range listed here has been provided to comply with local regulations and represents a potential base salary range for this role. Please note that actual salaries may vary within the range above or below, depending on experience and location. We look at compensation for each individual and base our offer on your unique qualifications, experience, and expected contributions. This position may also be eligible for other types of compensation in addition to base salary, such as variable bonus and/or stock bonus.</li>\n</ul>\n<p>#LI-Remote#LI-MidSenior</p>\n<p>Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world. Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us at <a href=\"mailto:talent_accommodations@veeva.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">talent_accommodations@veeva.com</a>.</p>",
+      "pubDate": "2026-04-29T09:34:02+00:00",
+      "salaryMin": 110000,
+      "salaryMax": 270000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:142768",
+    "platform": "jobicy",
+    "external_id": "142768",
+    "title": "Senior QA Automation Engineer",
+    "company": "Juniper Square",
+    "description": "About Juniper Square Our mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make up half of our financial ecosystem yet remain inaccessible to most people. We are digitizing these markets, and as a result, bringing efficiency, transparency, and access to one of the most productive corners of our financial ecosystem. If you care about making the world a better place by making markets work better through technology – all while contributing as a member of a values-driven organization – we want to hear from you. Juniper Square offers employees a variety of ways to work, ranging from a fully remote experience to working full-time in one of our physical offices. We invest heavily in digital-first operations, allowing our teams to collaborate effectively across 27 U.S. states, 2 Canadian Provinces, India, Luxembourg, and England. We also have physical offices in San Francisco, New York City, Mumbai and Bangalore for employees who prefer to work in an office some or all of the time. About your role As a QA Engineer at Juniper Square, you will collaborate with the product and engineering teams to help define and drive our manual and automation testing efforts. You must be detail oriented, passionate about product quality, and a strong advocate for the end user experience. What you’ll do Review functional specifications and technical design documents, providing meaningful feedback and using AI-assisted analysis to identify edge cases or logic gaps early in the SDLC. Work closely with development teams to identify test cases for automation and leverage AI-powered IDEs (like Cursor or Augment) to rapidly prototype and scaffold new test suites. Design, develop, and execute test cases against product features and backend systems. Maintain and extend automation frameworks (Playwright/Locust) by utilizing LLMs for code refactoring, optimizing test scripts, and reducing flaky test patterns. Contribute to your development team on best practices, processes, and problem-solving, including the ethical and effective use of AI tools in the QA workflow. Develop automated test result reports and highlight any potential quality risks Identify, troubleshoot, and track bugs to resolution, using AI tools to assist in root cause analysis and log interpretation. Be an advocate for automation: Partner with the engineering team to provide recommendations on how to decrease manual efforts through automated solutions and AI-driven test generation. Experience designing evaluation frameworks for LLM-powered features, including prompt regression testing and behavioral drift detection Proactively leverage AI tools (e.g., Cursor, Claude, etc…) to accelerate test authoring, debugging, and maintenance of automation frameworks Use AI to diagnose failures, generate test scenarios, and improve coverage and efficiency Contribute to testing strategies for AI-powered features, including validation of LLM outputs, edge cases, and reliability Drive best practices for the ethical and effective use of AI tools within QA workflows and across the broader engineering team Qualifications Education: Bachelor's degree in Computer Science, or equivalent professional experience. Experience: 5+ years in Software Quality Assurance, with strong expertise in testing web applications. Test Automation: Skilled in designing, building, and maintaining test automation frameworks for web applications (preferably using Playwright). Programming Skills: Proficiency in at least one programming language, such as JavaScript, TypeScript, or Python. AI-Augmented Development: Experience in using AI-powered tools (e.g., Augment, Cursor, Claude) to accelerate test authoring, assist in debugging automation scripts, and optimize documentation workflows. API Testing: Hands-on experience in both manual, and/or automated testing of REST and/or GraphQL APIs using tools like Postman, RestAssured, or Locust. CI/CD and SDLC: Solid understanding of CI/CD pipelines and software development lifecycle concepts, including code review practices, code coverage analysis, continuous testing, and delivery. Tools and Systems: Familiarity with version control systems (e.g., Git), test management tools (e.g., TestRail), and issue-tracking platforms (e.g., Jira). Databases: Working knowledge of relational databases and SQL is a plus. Cloud and Deployment: Knowledge of cloud environments (e.g., AWS) and experience with application deployments. Test Process: Experience in creating comprehensive test plans, authoring test cases, executing tests, and adhering to QA best practices. Soft Skills: Excellent analytical and problem-solving abilities, attention to detail, and the ability to work independently within Agile development teams. Communication: Strong written and verbal communication skills in English. Compensation Compensation for this position includes a base salary, equity and a variety of benefits. The U.S. base salary range for this role is 110,000 - 130,000 USD and the Canadian base salary range for this role is 130,000 - 150,000 CAD. Actual base salaries will be based on candidate-specific factors, including experience, skillset, and location, and local minimum pay requirements as applicable. Benefits include: Health, dental, and vision care for you and your family Life insurance Mental wellness coverage Fertility and growing family support Flex Time Off in addition to company-paid holidays Paid family leave, medical leave, and bereavement leave policies Retirement saving plans Allowance to customize your work and technology setup at home Annual professional development stipend Your recruiter can provide additional details about compensation and benefits. #Juniper-US #Juniper-Canada #LI-Remote #LI-BA1",
+    "url": "https://jobicy.com/jobs/142768-senior-qa-automation-engineer-2",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "LATAM,  Canada,  USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "aws",
+      "llm",
+      "playwright",
+      "graphql",
+      "git"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-04-29T09:33:59+00:00",
+    "fetched_at": "2026-04-29T13:12:58.975Z",
+    "raw": {
+      "id": 142768,
+      "url": "https://jobicy.com/jobs/142768-senior-qa-automation-engineer-2",
+      "jobSlug": "142768-senior-qa-automation-engineer-2",
+      "jobTitle": "Senior QA Automation Engineer",
+      "companyName": "Juniper Square",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/01/90c359a8bed816e81ea39fa33a8314f3.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "LATAM,  Canada,  USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Juniper SquareOur mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make up half of our...",
+      "jobDescription": "<h2><strong>About Juniper Square</strong></h2>\n<p>Our mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make up half of our financial ecosystem yet remain inaccessible to most people. We are digitizing these markets, and as a result, bringing efficiency, transparency, and access to one of the most productive corners of our financial ecosystem. If you care about making the world a better place by making markets work better through technology – all while contributing as a member of a values-driven organization – we want to hear from you. </p>\n<p>Juniper Square offers employees a variety of ways to work, ranging from a fully remote experience to working full-time in one of our physical offices. We invest heavily in <a href=\"https://blog.junipersquare.com/juniper-square-ponders-future-of-office-with-digital-first-hybrid-workplace-strategy/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>digital-first</u></a> operations, allowing our teams to collaborate effectively across 27 U.S. states, 2 Canadian Provinces, India, Luxembourg, and England. We also have physical offices in San Francisco, New York City, Mumbai and Bangalore for employees who prefer to work in an office some or all of the time.</p>\n<h2><strong>About your role</strong></h2>\n<p>As a QA Engineer at Juniper Square, you will collaborate with the product and engineering teams to help define and drive our manual and automation testing efforts. You must be detail oriented, passionate about product quality, and a strong advocate for the end user experience.</p>\n<h2><strong>What you’ll do</strong></h2>\n<ul>\n<li>\n<p>Review functional specifications and technical design documents, providing meaningful feedback and using AI-assisted analysis to identify edge cases or logic gaps early in the SDLC.</p>\n</li>\n<li>\n<p>Work closely with development teams to identify test cases for automation and leverage AI-powered IDEs (like Cursor or Augment) to rapidly prototype and scaffold new test suites.</p>\n</li>\n<li>\n<p>Design, develop, and execute test cases against product features and backend systems.</p>\n</li>\n<li>\n<p>Maintain and extend automation frameworks (Playwright/Locust) by utilizing LLMs for code refactoring, optimizing test scripts, and reducing flaky test patterns.</p>\n</li>\n<li>\n<p>Contribute to your development team on best practices, processes, and problem-solving, including the ethical and effective use of AI tools in the QA workflow.</p>\n</li>\n<li>\n<p>Develop automated test result reports and highlight any potential quality risks</p>\n</li>\n<li>\n<p>Identify, troubleshoot, and track bugs to resolution, using AI tools to assist in root cause analysis and log interpretation.</p>\n</li>\n<li>\n<p>Be an advocate for automation: Partner with the engineering team to provide recommendations on how to decrease manual efforts through automated solutions and AI-driven test generation.</p>\n</li>\n<li>\n<p>Experience designing evaluation frameworks for LLM-powered features, including prompt regression testing and behavioral drift detection</p>\n</li>\n<li>\n<p>Proactively leverage AI tools (e.g., Cursor, Claude, etc…) to accelerate test authoring, debugging, and maintenance of automation frameworks</p>\n</li>\n<li>\n<p>Use AI to diagnose failures, generate test scenarios, and improve coverage and efficiency</p>\n</li>\n<li>\n<p>Contribute to testing strategies for AI-powered features, including validation of LLM outputs, edge cases, and reliability</p>\n</li>\n<li>\n<p>Drive best practices for the ethical and effective use of AI tools within QA workflows and across the broader engineering team</p>\n</li>\n</ul>\n<h2><strong>Qualifications</strong></h2>\n<ul>\n<li>\n<p><strong>Education:</strong> Bachelor's degree in Computer Science, or equivalent professional experience.</p>\n</li>\n<li>\n<p><strong>Experience:</strong> 5+ years in Software Quality Assurance, with strong expertise in testing web applications.</p>\n</li>\n<li>\n<p><strong>Test Automation:</strong> Skilled in designing, building, and maintaining test automation frameworks for web applications (preferably using Playwright).</p>\n</li>\n<li>\n<p><strong>Programming Skills: </strong>Proficiency in at least one programming language, such as JavaScript, TypeScript, or Python.</p>\n</li>\n<li>\n<p><strong>AI-Augmented Development:</strong> Experience in using AI-powered tools (e.g., Augment, Cursor, Claude) to accelerate test authoring, assist in debugging automation scripts, and optimize documentation workflows.</p>\n</li>\n<li>\n<p><strong>API Testing:</strong> Hands-on experience in both manual, and/or automated testing of REST and/or GraphQL APIs using tools like Postman, RestAssured, or Locust.</p>\n</li>\n<li>\n<p><strong>CI/CD and SDLC:</strong> Solid understanding of CI/CD pipelines and software development lifecycle concepts, including code review practices, code coverage analysis, continuous testing, and delivery.</p>\n</li>\n<li>\n<p><strong>Tools and Systems:</strong> Familiarity with version control systems (e.g., Git), test management tools (e.g., TestRail), and issue-tracking platforms (e.g., Jira).</p>\n</li>\n<li>\n<p><strong>Databases:</strong> Working knowledge of relational databases and SQL is a plus.</p>\n</li>\n<li>\n<p><strong>Cloud and Deployment: </strong>Knowledge of cloud environments (e.g., AWS) and experience with application deployments.</p>\n</li>\n<li>\n<p><strong>Test Process:</strong> Experience in creating comprehensive test plans, authoring test cases, executing tests, and adhering to QA best practices.</p>\n</li>\n<li>\n<p><strong>Soft Skills: </strong>Excellent analytical and problem-solving abilities, attention to detail, and the ability to work independently within Agile development teams.</p>\n</li>\n<li>\n<p><strong>Communication:</strong> Strong written and verbal communication skills in English.</p>\n</li>\n</ul>\n<h2><strong>Compensation</strong></h2>\n<p>Compensation for this position includes a base salary, equity and a variety of benefits. The U.S. base salary range for this role is 110,000 - 130,000 USD and the Canadian base salary range for this role is 130,000 - 150,000 CAD. Actual base salaries will be based on candidate-specific factors, including experience, skillset, and location, and local minimum pay requirements as applicable.</p>\n<p>Benefits include:</p>\n<ul>\n<li>\n<p>Health, dental, and vision care for you and your family</p>\n</li>\n<li>\n<p>Life insurance</p>\n</li>\n<li>\n<p>Mental wellness coverage</p>\n</li>\n<li>\n<p>Fertility and growing family support</p>\n</li>\n<li>\n<p>Flex Time Off in addition to company-paid holidays</p>\n</li>\n<li>\n<p>Paid family leave, medical leave, and bereavement leave policies</p>\n</li>\n<li>\n<p>Retirement saving plans</p>\n</li>\n<li>\n<p>Allowance to customize your work and technology setup at home</p>\n</li>\n<li>\n<p>Annual professional development stipend</p>\n</li>\n</ul>\n<p>Your recruiter can provide additional details about compensation and benefits.</p>\n<p>#Juniper-US </p>\n<p>#Juniper-Canada</p>\n<p>#LI-Remote</p>\n<p>#LI-BA1</p>",
+      "pubDate": "2026-04-29T09:33:59+00:00",
+      "salaryMin": 110000,
+      "salaryMax": 130000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:142760",
+    "platform": "jobicy",
+    "external_id": "142760",
+    "title": "Software Engineer – Video",
+    "company": "Twilio",
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! . See yourself at Twilio Join the team as Twilio’s next Software Engineer (L2) - for Voice Trust: helping ensure Twilio’s Voice customers have reliable voice communication with their customers that ensure their customers will answer their calls. Who we are &amp; why we’re hiring Twilio powers real-time business communications and data solutions that help companies and developers worldwide build better applications and customer experiences. Although we're headquartered in San Francisco, we have presence throughout South America, Europe, Asia and Australia. We're on a journey to becoming a global company that actively opposes racism and all forms of oppression and bias.. About the job This position is needed to add to our Voice Connectivity Trust team in the US to enable Twilio to better support our customers using Voice in their solutions. As a Software Engineer on this team you will participate in all phases of the software development life cycle which includes requirements gathering with Product Managers, technical design, estimations, sprint planning, coding, testing, deployments and on-call support. This engineer will own, operate and maintain their teams’ services in a distributed production environment, employing Agile methodologies to continuously deliver value to customers. Responsibilities In this role, you’ll: Be an owner: Design and implement real-time services with high throughput and low latency requirements, verify, deploy and operationalize them Wear the customer's shoes: Work closely with stakeholders to understand customer needs and, devise and deliver, simple, robust and scalable solutions Write it down: Be comfortable expressing thoughts and ideas as detailed prose and use it as an effective means to collaborate with leads, architects and cross functional teams Be bold: Embrace the challenge of scaling a complex distributed platform with points of presence globally, each one concerned with high availability, high reliability, high throughput, low latency, and media fidelity Draw the owl: Figure out novel ways of solving customer problems for the Voice channel Qualifications Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having “desired” qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table! Required: Minimum 2-3+ years of hands-on experience in a large scale, distributed applications environment on JVM based technologies Experience building RESTful services, API design and event-driven architectures (Kafka, SQS) Understanding of CI/CD pipelines Hands on experience with cloud infrastructures such as AWS, GCP, OpenStack or Azure Experience with on-call rotations, incident response, monitoring/alerting tools (Prometheus, Datadog, Grafana) Excellent written communication skills - essential for effective AI prompting and for creating clear technical documentation (with or without AI assistance) Proven ability to critically evaluate AI-generated code for correctness, security, performance, and maintainability Strong Java fundamentals with the ability to architect, review, and debug code whether written by you, teammates, or AI agents Demonstrated proficiency working with AI coding assistants (Claude, GitHub Copilot, Cursor, or similar) - you should be able to describe your workflows and show examples Bachelor's degree in Computer Science or a related engineering field Strong Computer Science fundamentals not limited to data structures, algorithms, operating systems, and distributed systems Able to work well in a team setting and both highly motivated and motivating Desired: Can demonstrate with metrics how you have used AI to increase productivity Experience scaling data tiers employing a variety of SQL/NoSQL database and caching technologies Hands on experience scaling production backend systems, with the proven ability to design and develop horizontally-scalable, resilient and performing-under-load systems Knowledge and experience working with SIP protocol Knowledge and experience working with Stir/Shaken protocol Location This role will be Remote in the USA but is not eligible to be hired in CA, NY, WA, PA, CT. We prioritize connections and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings. Travel We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings. What We Offer There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location. Compensation *Please note this role is open to candidates outside of California, Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Vermont, Washington D.C., and Washington State. The information below is provided for candidates hired in those locations only. The estimated pay ranges for this role are as follows: Based in Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, Vermont or Washington D.C. : $114,600 - $143,300 Based in New York, New Jersey, Washington State, or California (outside of the San Francisco Bay area): $121,400 - $151,700 Based in the San Francisco Bay area, California: $134,800 - $168,500. This role may be eligible to participate in Twilio’s equity plan and corporate bonus plan. All roles are generally eligible for the following benefits: health care insurance, 401(k) retirement account, paid sick time, paid personal time off, paid parental leave. The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. Twilio thinks big. Do you? We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call Twilio Magic . Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts. So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, please consider other open positions. Twilio is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.",
+    "url": "https://jobicy.com/jobs/142760-software-engineer-video",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "java",
+      "aws",
+      "gcp",
+      "azure",
+      "prometheus",
+      "grafana",
+      "datadog",
+      "llm",
+      "kafka",
+      "sqs",
+      "rest",
+      "twilio"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-04-29T09:33:47+00:00",
+    "fetched_at": "2026-04-29T13:12:58.977Z",
+    "raw": {
+      "id": 142760,
+      "url": "https://jobicy.com/jobs/142760-software-engineer-video",
+      "jobSlug": "142760-software-engineer-video",
+      "jobTitle": "Software Engineer – Video",
+      "companyName": "Twilio",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/WRILS-201023175858-722503.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Midweight",
+      "jobExcerpt": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers...",
+      "jobDescription": "<p><strong>Who we are </strong></p>\n<p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a href=\"https://customers.twilio.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\"> hundreds of thousands of businesses </a>and empower millions of developers worldwide to craft personalized customer experiences.</p>\n<p>Our dedication to <a href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" rel=\"nofollow ugc noopener\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br />We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!</p>\n<p>.</p>\n<p><strong>See yourself at Twilio</strong></p>\n<p>Join the team as Twilio’s next Software Engineer (L2) - for Voice Trust: helping ensure Twilio’s Voice customers have reliable voice communication with their customers that ensure their customers will answer their calls.</p>\n<p><strong>Who we are &amp; why we’re hiring</strong></p>\n<p>Twilio powers real-time business communications and data solutions that help <a href=\"https://customers.twilio.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">companies and developers worldwide</a> build better applications and customer experiences.</p>\n<p>Although we're headquartered in San Francisco, we have presence throughout South America, Europe, Asia and Australia. We're on a journey to becoming a global company that actively opposes racism and all forms of oppression and bias..</p>\n<p><strong>About the job</strong></p>\n<p>This position is needed to add to our Voice Connectivity Trust team in the US to enable Twilio to better support our customers using Voice in their solutions. As a Software Engineer on this team you will participate in all phases of the software development life cycle which includes requirements gathering with Product Managers, technical design, estimations, sprint planning, coding, testing, deployments and on-call support. This engineer will own, operate and maintain their teams’ services in a distributed production environment, employing Agile methodologies to continuously deliver value to customers.</p>\n<p><strong>Responsibilities</strong></p>\n<p>In this role, you’ll:</p>\n<ul>\n<li><strong>Be an owner:</strong> Design and implement real-time services with high throughput and low latency requirements, verify, deploy and operationalize them</li>\n<li><strong>Wear the customer's shoes:</strong> Work closely with stakeholders to understand customer needs and, devise and deliver, simple, robust and scalable solutions</li>\n<li><strong>Write it down:</strong> Be comfortable expressing thoughts and ideas as detailed prose and use it as an effective means to collaborate with leads, architects and cross functional teams</li>\n<li><strong>Be bold:</strong> Embrace the challenge of scaling a complex distributed platform with points of presence globally, each one concerned with high availability, high reliability, high throughput, low latency, and media fidelity</li>\n<li><strong>Draw the owl:</strong> Figure out novel ways of solving customer problems for the Voice channel</li>\n</ul>\n<p><strong>Qualifications </strong></p>\n<p>Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having “desired” qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p>\n<p><strong>Required:</strong></p>\n<ul>\n<li>Minimum 2-3+ years of hands-on experience in a large scale, distributed applications environment on JVM based technologies </li>\n<li>Experience building RESTful services, API design and event-driven architectures (Kafka, SQS)</li>\n<li>Understanding of CI/CD pipelines</li>\n<li>Hands on experience with cloud infrastructures such as AWS, GCP, OpenStack or Azure</li>\n<li>Experience with on-call rotations, incident response, monitoring/alerting tools (Prometheus, Datadog, Grafana)</li>\n<li>Excellent written communication skills - essential for effective AI prompting and for creating clear technical documentation (with or without AI assistance)</li>\n<li>Proven ability to critically evaluate AI-generated code for correctness, security, performance, and maintainability</li>\n<li>Strong Java fundamentals with the ability to architect, review, and debug code whether written by you, teammates, or AI agents</li>\n<li>Demonstrated proficiency working with AI coding assistants (Claude, GitHub Copilot, Cursor, or similar) - you should be able to describe your workflows and show examples </li>\n<li>Bachelor's degree in Computer Science or a related engineering field</li>\n<li>Strong Computer Science fundamentals not limited to data structures, algorithms, operating systems, and distributed systems</li>\n<li>Able to work well in a team setting and both highly motivated and motivating</li>\n</ul>\n<p><strong>Desired:</strong></p>\n<ul>\n<li>Can demonstrate with metrics how you have used AI to increase productivity</li>\n<li>Experience scaling data tiers employing a variety of SQL/NoSQL database and caching technologies</li>\n<li>Hands on experience scaling production backend systems, with the proven ability to design and develop horizontally-scalable, resilient and performing-under-load systems</li>\n<li>Knowledge and experience working with SIP protocol</li>\n<li>Knowledge and experience working with Stir/Shaken protocol</li>\n</ul>\n<p><strong>Location </strong></p>\n<p>This role will be Remote in the USA but is <strong>not eligible to be hired in CA, NY, WA, PA, CT.</strong> We prioritize connections and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p>\n<p><strong>Travel </strong></p>\n<p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p>\n<p><strong>What We Offer</strong></p>\n<p>There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p>\n<p><strong>Compensation</strong></p>\n<p><em>*Please note this role is open to candidates outside of California, Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Vermont, Washington D.C., and Washington State. The information below is provided for candidates hired in those locations only.</em></p>\n<p>The estimated pay ranges for this role are as follows:</p>\n<ul>\n<li>Based in Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, Vermont or Washington D.C. : $114,600 - $143,300</li>\n<li>Based in New York, New Jersey, Washington State, or California (outside of the San Francisco Bay area): $121,400 - $151,700</li>\n<li>Based in the San Francisco Bay area, California: $134,800 - $168,500.</li>\n<li>This role may be eligible to participate in Twilio’s equity plan and corporate bonus plan. All roles are generally eligible for the following benefits: health care insurance, 401(k) retirement account, paid sick time, paid personal time off, paid parental leave.</li>\n</ul>\n<p>The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location.</p>\n<p><strong>Twilio thinks big. Do you?</strong></p>\n<p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\" rel=\"nofollow ugc noopener\" target=\"_blank\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\" rel=\"nofollow ugc noopener\" target=\"_blank\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p>\n<p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\" rel=\"nofollow ugc noopener\" target=\"_blank\">please consider other open positions.</a></p>\n<p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p>",
+      "pubDate": "2026-04-29T09:33:47+00:00",
+      "salaryMin": 114600,
+      "salaryMax": 168500,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:142756",
+    "platform": "jobicy",
+    "external_id": "142756",
+    "title": "Distributed Systems Engineer",
+    "company": "MLabs",
+    "description": "Location: Remote - Flexible work location (Preference is North America) Remote | Full-time Compensation: $180K - $300K We are hiring on behalf of our client who is an innovative organization building the next generation of market infrastructure to redefine how value is discovered, priced, and distributed in real time. The mission centers on bringing structure, transparency, and efficiency to systems where value is currently fragmented and opaque. Operating at the intersection of distributed systems, market structure, and applied cryptography, the firm is defining a new category for MEV distribution that merges economic efficiency with emerging regulatory frameworks. Based in New York and San Francisco, the organization consists of a high-leverage team focused on building systems that impact real-world economic flows. The successful candidate will design and build core systems from first principles. This is an opportunity to turn ambiguous problems into production-grade infrastructure, defining architecture and making critical tradeoffs in a fast-moving environment. The role involves working across the full stack of real-time distributed systems, including data ingestion, low-latency execution, and auction mechanisms. Key Responsibilities System Architecture: Design and implement the core system architecture for a real-time, high-stakes distributed platform. End-to-End Ownership: Own systems from initial concept and design through implementation and production deployment. Technical Problem Solving: Translate ambiguous, high-level objectives into concrete, scalable technical solutions. Performance Optimization: Identify and resolve performance bottlenecks, latency constraints, and complex system failures. Technical Leadership: Drive technical direction across various components and services while establishing engineering best practices and code quality standards. Collaboration: Work closely with product and business functions to ensure technical decisions align with intended economic outcomes. Cultural Impact: Define engineering standards, influence future hiring, and set the cultural bar for the engineering organization. Requirements Systems Programming: Advanced proficiency in Rust and strong systems programming experience. Distributed Systems: Extensive experience building or operating distributed systems with real-world constraints regarding latency, scale, and fault tolerance. Architecture &amp; Design: A proven ability to design complex systems from scratch, demonstrating a strong intuition for tradeoffs between performance, complexity, and reliability. Autonomy: A track record of taking end-to-end ownership of products or systems in ambiguous environments with minimal structure. Modern Workflows: Experience leveraging AI tools and agent-based workflows to accelerate the development lifecycle. Preferred Qualifications Background in systems where both correctness and low latency are mission-critical. Experience with blockchain consensus internals, validator client architecture, or low-level protocol development. Familiarity with virtual machines or low-level execution environments. Benefits Competitive Compensation: Competitive base salary commensurate with experience. Equity: Significant equity stake as an early member of the engineering team. High Impact: Opportunity to shape the foundational engineering culture and build systems that mediate real economic flows. Interview Process The following stages outline the evaluation process for this role: Initial Interview: A discussion with the Founder/CEO to align on vision and role expectations. Technical Assignment: A take-home assignment designed to evaluate practical problem-solving and architectural skills. Technical Review: A deep-dive interview focused on the review of the take-home assignment and broader technical expertise. Due to the high volume of applications we anticipate, we regret that we are unable to provide individual feedback to all candidates. If you do not hear back from us within 4 weeks of your application, please assume that you have not been successful on this occasion. We genuinely appreciate your interest and wish you the best in your job search. Commitment to Equality and Accessibility: At MLabs, we are committed to offer equal opportunities to all candidates. We ensure no discrimination, accessible job adverts, and providing information in accessible formats. Our goal is to foster a diverse, inclusive workplace with equal opportunities for all. If you need any reasonable adjustments during any part of the hiring process or you would like to see the job-advert in an accessible format please let us know at the earliest opportunity by emailing human-resources@mlabs.city. MLabs Ltd collects and processes the personal information you provide such as your contact details, work history, resume, and other relevant data for recruitment purposes only. This information is managed securely in accordance with MLabs Ltd’s Privacy Policy and Information Security Policy, and in compliance with applicable data protection laws. Your data may be shared only with clients and trusted partners where necessary for recruitment purposes. You may request the deletion of your data or withdraw your consent at any time by contacting legal@mlabs.city.",
+    "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "rust",
+      "blockchain"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-04-29T09:33:41+00:00",
+    "fetched_at": "2026-04-29T13:12:58.978Z",
+    "raw": {
+      "id": 142756,
+      "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
+      "jobSlug": "142756-distributed-systems-engineer",
+      "jobTitle": "Distributed Systems Engineer",
+      "companyName": "MLabs",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/635fcb8b-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Location: Remote &#8211; Flexible work location (Preference is North America)Remote | Full-timeCompensation: $180K &#8211; $300KWe are hiring on behalf of our client who is an innovative organization building the next generation of market...",
+      "jobDescription": "<p><strong>Location: </strong>Remote - Flexible work location (Preference is North America)</p>\n<p><strong>Remote | Full-time</strong></p>\n<p><strong>Compensation: </strong>$180K - $300K</p>\n<p>We are hiring on behalf of our client who is an innovative organization building the next generation of market infrastructure to redefine how value is discovered, priced, and distributed in real time. The mission centers on bringing structure, transparency, and efficiency to systems where value is currently fragmented and opaque.</p>\n<p>Operating at the intersection of distributed systems, market structure, and applied cryptography, the firm is defining a new category for MEV distribution that merges economic efficiency with emerging regulatory frameworks. Based in New York and San Francisco, the organization consists of a high-leverage team focused on building systems that impact real-world economic flows.</p>\n<p>The successful candidate will design and build core systems from first principles. This is an opportunity to turn ambiguous problems into production-grade infrastructure, defining architecture and making critical tradeoffs in a fast-moving environment. The role involves working across the full stack of real-time distributed systems, including data ingestion, low-latency execution, and auction mechanisms.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li><strong>System Architecture:</strong> Design and implement the core system architecture for a real-time, high-stakes distributed platform.</li>\n<li><strong>End-to-End Ownership:</strong> Own systems from initial concept and design through implementation and production deployment.</li>\n<li><strong>Technical Problem Solving:</strong> Translate ambiguous, high-level objectives into concrete, scalable technical solutions.</li>\n<li><strong>Performance Optimization:</strong> Identify and resolve performance bottlenecks, latency constraints, and complex system failures.</li>\n<li><strong>Technical Leadership:</strong> Drive technical direction across various components and services while establishing engineering best practices and code quality standards.</li>\n<li><strong>Collaboration:</strong> Work closely with product and business functions to ensure technical decisions align with intended economic outcomes.</li>\n<li><strong>Cultural Impact:</strong> Define engineering standards, influence future hiring, and set the cultural bar for the engineering organization.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li><strong>Systems Programming:</strong> Advanced proficiency in Rust and strong systems programming experience.</li>\n<li><strong>Distributed Systems:</strong> Extensive experience building or operating distributed systems with real-world constraints regarding latency, scale, and fault tolerance.</li>\n<li><strong>Architecture &amp; Design:</strong> A proven ability to design complex systems from scratch, demonstrating a strong intuition for tradeoffs between performance, complexity, and reliability.</li>\n<li><strong>Autonomy:</strong> A track record of taking end-to-end ownership of products or systems in ambiguous environments with minimal structure.</li>\n<li><strong>Modern Workflows:</strong> Experience leveraging AI tools and agent-based workflows to accelerate the development lifecycle.</li>\n</ul>\n<p><strong>Preferred Qualifications</strong></p>\n<ul>\n<li>Background in systems where both correctness and low latency are mission-critical.</li>\n<li>Experience with blockchain consensus internals, validator client architecture, or low-level protocol development.</li>\n<li>Familiarity with virtual machines or low-level execution environments.</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li><strong>Competitive Compensation:</strong> Competitive base salary commensurate with experience.</li>\n<li><strong>Equity:</strong> Significant equity stake as an early member of the engineering team.</li>\n<li><strong>High Impact:</strong> Opportunity to shape the foundational engineering culture and build systems that mediate real economic flows.</li>\n</ul>\n<p><strong>Interview Process</strong></p>\n<p>The following stages outline the evaluation process for this role:</p>\n<ol>\n<li><strong>Initial Interview:</strong> A discussion with the Founder/CEO to align on vision and role expectations.</li>\n<li><strong>Technical Assignment:</strong> A take-home assignment designed to evaluate practical problem-solving and architectural skills.</li>\n<li><strong>Technical Review:</strong> A deep-dive interview focused on the review of the take-home assignment and broader technical expertise.</li>\n</ol>\n<p><strong>Due to the high volume of applications we anticipate, we regret that we are unable to provide individual feedback to all candidates. If you do not hear back from us within 4 weeks of your application, please assume that you have not been successful on this occasion. We genuinely appreciate your interest and wish you the best in your job search.</strong></p>\n<p><strong>Commitment to Equality and Accessibility:</strong></p>\n<p>At MLabs, we are committed to offer equal opportunities to all candidates. We ensure no discrimination, accessible job adverts, and providing information in accessible formats. Our goal is to foster a diverse, inclusive workplace with equal opportunities for all. If you need any reasonable adjustments during any part of the hiring process or you would like to see the job-advert in an accessible format please let us know at the earliest opportunity by emailing human-resources@mlabs.city.</p>\n<p>MLabs Ltd collects and processes the personal information you provide such as your contact details, work history, resume, and other relevant data for recruitment purposes only. This information is managed securely in accordance with MLabs Ltd’s Privacy Policy and Information Security Policy, and in compliance with applicable data protection laws. Your data may be shared only with clients and trusted partners where necessary for recruitment purposes. You may request the deletion of your data or withdraw your consent at any time by contacting legal@mlabs.city.</p>",
+      "pubDate": "2026-04-29T09:33:41+00:00",
+      "salaryMin": 180000,
+      "salaryMax": 300000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:142752",
+    "platform": "jobicy",
+    "external_id": "142752",
+    "title": "Senior Network Inventory GIS Engineer",
+    "company": "Lumen Technologies",
+    "description": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world. By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock what’s next. At Lumen, people power progress. Our culture is built on teamwork, trust, and transparency, giving you the flexibility, support, and opportunity to make a lasting impact. We’re looking for top-tier talent ready to take on the challenge. Join us in building the future. The Role The Role The Sr Network Inventory GIS Engineer acts as a subject matter expert for the organization’s GIS network inventory. This role is responsible for managing medium to large network GIS inventory projects (data conversion, data migration, data cleanse), network inventory feature development, network inventory defect identification, new technology modeling, training, and general support of peer organizations use of GIS network inventory. Also responsible for creating, modifying, researching, and maintaining various types of geospatial data (polygons, KMZ, SHP) and portal map development. Location This is a work from home position within the U.S. The Main Responsibilities • Support the construction, maintenance and evolution of Lumen's GIS planning platform • Translate network, demand, and implementation data structures into front-end map-based visualization • Create new data pipelines for GIS data structures to be ingested into apps based on business use cases • Leads key AI/ML Initiative in driving Responsible for delivering Locate Cost Avoidance/Recovery efforts • Handles all system management and is the lead for data for locating, including scripting • Designs and integrates databases from geographical specifications • Modifies existing GIS systems and adapts new hardware and technology to support program performance • Applies mathematics and scientific approaches to create schemas and models for GIS program designs What We Look For in a Candidate Requirements: • Bachelor's degree in Geography, Computer Science, or a related field. • 4+ years of experience in GIS engineering, analysis, or network inventory. • Must have basic Alteryx experience. • Strong understanding of GIS concepts, technologies, and tools, including ESRI ArcGIS, QGIS, Mapinfo, and open-source GIS tools. • Experience with GIS analysis, including spatial analysis, network analysis, and data visualization. • Experience with OSP network inventory systems (3GIS, GE Smallworld, OSPI). • Experience with CAD software. • Advanced MS Office skills, including Word, Excel, PowerPoint, Outlook, and Teams. • Excellent communication and collaboration skills, with the ability to work both independently and as part of a team. Compensation This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors. Location Based Pay Ranges $84,629 - $112,838 in these states: AL AR AZ FL GA IA ID IN KS KY LA ME MO MS MT ND NE NM OH OK PA SC SD TN UT VT WI WV WY $88,860 - $118,480 in these states: CO HI MI MN NC NH NV OR RI $93,092 - $124,122 in these states: AK CA CT DC DE IL MA MD NJ NY TX VA WA Lumen offers a comprehensive package featuring a broad range of Health, Life, Voluntary Lifestyle benefits and other perks that enhance your physical, mental, emotional and financial wellbeing. We're able to answer any additional questions you may have about our bonus structure (short-term incentives, long-term incentives and/or sales compensation) as you move through the selection process. Learn more about Lumen's: Benefits Bonus Structure #LI-Remote Requisition #: 341982 Background Screening If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our FAQ page . Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Equal Employment Opportunities We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training. Privacy Notice Lumen is committed to protecting the privacy and security of personal information collected during the recruitment and hiring process. Our Privacy Notice explains how we collect, use, disclose, and protect applicant information, as well as how individuals may request access to or deletion of their personal data. To review Lumen’s Privacy Notice, please visit: https://jobs.lumen.com/global/en/privacy-notice Disclaimer The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions. In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information. Please be advised that Lumen does not require any form of payment from job applicants during the recruitment process. All legitimate job openings will be posted on our official website or communicated through official company email addresses. If you encounter any job offers that request payment in exchange for employment at Lumen, they are not for employment with us, but may relate to another company with a similar name.",
+    "url": "https://jobicy.com/jobs/142752-senior-network-inventory-gis-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-04-29T09:33:35+00:00",
+    "fetched_at": "2026-04-29T13:12:58.979Z",
+    "raw": {
+      "id": 142752,
+      "url": "https://jobicy.com/jobs/142752-senior-network-inventory-gis-engineer",
+      "jobSlug": "142752-senior-network-inventory-gis-engineer",
+      "jobTitle": "Senior Network Inventory GIS Engineer",
+      "companyName": "Lumen Technologies",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/09/bab8bfe71b006d34181034e47e6b2c52.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.By connecting people, data, and applications quickly, securely, and effortlessly, we help...",
+      "jobDescription": "<p>Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.</p>\n<p>By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock what’s next.</p>\n<p>At Lumen, people power progress. Our culture is built on teamwork, trust, and transparency, giving you the flexibility, support, and opportunity to make a lasting impact. We’re looking for top-tier talent ready to take on the challenge. Join us in building the future.</p>\n<h2><b>The Role</b></h2>\n<p><b>The Role</b></p>\n<p>The Sr Network Inventory GIS Engineer acts as a subject matter expert for the organization’s GIS network inventory. This role is responsible for managing medium to large network GIS inventory projects (data conversion, data migration, data cleanse), network inventory feature development, network inventory defect identification, new technology modeling, training, and general support of peer organizations use of GIS network inventory. Also responsible for creating, modifying, researching, and maintaining various types of geospatial data (polygons, KMZ, SHP) and portal map development.</p>\n<h2><b>Location</b></h2>\n<p>This is a work from home position within the U.S.</p>\n<h2><b>The Main Responsibilities</b></h2>\n<p>\n• Support the construction, maintenance and evolution of Lumen's GIS planning platform<br />• Translate network, demand, and implementation data structures into front-end map-based visualization<br />• Create new data pipelines for GIS data structures to be ingested into apps based on business use cases<br />• Leads key AI/ML Initiative in driving Responsible for delivering Locate Cost Avoidance/Recovery efforts<br />• Handles all system management and is the lead for data for locating, including scripting<br />• Designs and integrates databases from geographical specifications<br />• Modifies existing GIS systems and adapts new hardware and technology to support program performance<br />• Applies mathematics and scientific approaches to create schemas and models for GIS program designs</p>\n<h2><b>What We Look For in a Candidate</b></h2>\n<p>Requirements:<br />\n• Bachelor's degree in Geography, Computer Science, or a related field.<br />\n• 4+ years of experience in GIS engineering, analysis, or network inventory.<br />\n• Must have basic Alteryx experience.<br />\n• Strong understanding of GIS concepts, technologies, and tools, including ESRI ArcGIS, QGIS, Mapinfo, and open-source GIS tools. <br />\n• Experience with GIS analysis, including spatial analysis, network analysis, and data visualization.<br />\n• Experience with OSP network inventory systems (3GIS, GE Smallworld, OSPI).<br />\n• Experience with CAD software.<br />\n• Advanced MS Office skills, including Word, Excel, PowerPoint, Outlook, and Teams. <br />\n• Excellent communication and collaboration skills, with the ability to work both independently and as part of a team.</p>\n<h2><b>Compensation</b></h2>\n<p> This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.<br />Location Based Pay Ranges<br />$84,629 - $112,838 in these states: AL AR AZ FL GA IA ID IN KS KY LA ME MO MS MT ND NE NM OH OK PA SC SD TN UT VT WI WV WY <br />$88,860 - $118,480 in these states: CO HI MI MN NC NH NV OR RI <br />$93,092 - $124,122 in these states: AK CA CT DC DE IL MA MD NJ NY TX VA WA <br />Lumen offers a comprehensive package featuring a broad range of Health, Life, Voluntary Lifestyle benefits and other perks that enhance your physical, mental, emotional and financial wellbeing. We're able to answer any additional questions you may have about our bonus structure (short-term incentives, long-term incentives and/or sales compensation) as you move through the selection process. </p>\n<p> Learn more about Lumen's: <a href=\"https://jobs.lumen.com/global/en/benefits-statement\" rel=\"nofollow ugc noopener\" target=\"_blank\">Benefits</a> <a href=\"https://jobs.lumen.com/global/en/compensation-information\" rel=\"nofollow ugc noopener\" target=\"_blank\">Bonus Structure</a> </p>\n<p>#LI-Remote</p>\n<p>Requisition #: 341982</p>\n<p><strong>Background Screening</strong></p>\n<p>If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our <a href=\"https://jobs.lumen.com/global/en/faq\" rel=\"nofollow ugc noopener\" target=\"_blank\">FAQ page</a>. Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis.</p>\n<p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p>\n<p><strong>Equal Employment Opportunities</strong></p>\n<p>We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.</p>\n<p><strong>Privacy Notice</strong></p>\n<p>Lumen is committed to protecting the privacy and security of personal information collected during the recruitment and hiring process. Our Privacy Notice explains how we collect, use, disclose, and protect applicant information, as well as how individuals may request access to or deletion of their personal data.</p>\n<p>To review Lumen’s Privacy Notice, please visit:<br /><a href=\"https://jobs.lumen.com/global/en/privacy-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://jobs.lumen.com/global/en/privacy-notice</a></p>\n<p><strong>Disclaimer</strong></p>\n<p>The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions.</p>\n<p>In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.</p>\n<p>Please be advised that Lumen does not require any form of payment from job applicants during the recruitment process. All legitimate job openings will be posted on our official website or communicated through official company email addresses. If you encounter any job offers that request payment in exchange for employment at Lumen, they are not for employment with us, but may relate to another company with a similar name.</p>",
+      "pubDate": "2026-04-29T09:33:35+00:00",
+      "salaryMin": 84629,
+      "salaryMax": 124122,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:142694",
     "platform": "jobicy",
     "external_id": "142694",
@@ -28,7 +297,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:15+00:00",
-    "fetched_at": "2026-04-29T07:53:10.769Z",
+    "fetched_at": "2026-04-29T13:12:58.981Z",
     "raw": {
       "id": 142694,
       "url": "https://jobicy.com/jobs/142694-lead-marketing-web-engineer-developer",
@@ -85,7 +354,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:14+00:00",
-    "fetched_at": "2026-04-29T07:53:10.770Z",
+    "fetched_at": "2026-04-29T13:12:58.983Z",
     "raw": {
       "id": 142693,
       "url": "https://jobicy.com/jobs/142693-staff-data-engineer-platform-engineering",
@@ -138,7 +407,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:03+00:00",
-    "fetched_at": "2026-04-29T07:53:10.772Z",
+    "fetched_at": "2026-04-29T13:12:58.985Z",
     "raw": {
       "id": 142686,
       "url": "https://jobicy.com/jobs/142686-senior-firmware-automation-engineer",
@@ -185,7 +454,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T04:14:58+00:00",
-    "fetched_at": "2026-04-29T07:53:10.774Z",
+    "fetched_at": "2026-04-29T13:12:58.986Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -233,7 +502,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T04:14:51+00:00",
-    "fetched_at": "2026-04-29T07:53:10.775Z",
+    "fetched_at": "2026-04-29T13:12:58.987Z",
     "raw": {
       "id": 142667,
       "url": "https://jobicy.com/jobs/142667-senior-staff-backend-engineer",
@@ -280,7 +549,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-28T04:14:43+00:00",
-    "fetched_at": "2026-04-29T07:53:10.775Z",
+    "fetched_at": "2026-04-29T13:12:58.988Z",
     "raw": {
       "id": 142662,
       "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
@@ -330,7 +599,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-27T14:14:41+00:00",
-    "fetched_at": "2026-04-29T07:53:10.776Z",
+    "fetched_at": "2026-04-29T13:12:58.988Z",
     "raw": {
       "id": 142629,
       "url": "https://jobicy.com/jobs/142629-application-security-engineer",
@@ -382,7 +651,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-25T16:44:26+00:00",
-    "fetched_at": "2026-04-29T07:53:10.778Z",
+    "fetched_at": "2026-04-29T13:12:58.990Z",
     "raw": {
       "id": 142566,
       "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
@@ -433,7 +702,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-25T16:44:25+00:00",
-    "fetched_at": "2026-04-29T07:53:10.778Z",
+    "fetched_at": "2026-04-29T13:12:58.991Z",
     "raw": {
       "id": 142565,
       "url": "https://jobicy.com/jobs/142565-technical-principal",
@@ -481,7 +750,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:50+00:00",
-    "fetched_at": "2026-04-29T07:53:10.780Z",
+    "fetched_at": "2026-04-29T13:12:58.992Z",
     "raw": {
       "id": 142527,
       "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
@@ -530,7 +799,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:47+00:00",
-    "fetched_at": "2026-04-29T07:53:10.780Z",
+    "fetched_at": "2026-04-29T13:12:58.992Z",
     "raw": {
       "id": 142525,
       "url": "https://jobicy.com/jobs/142525-embedded-software-engineer-autosar-remote-in-mexico",
@@ -575,7 +844,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:33+00:00",
-    "fetched_at": "2026-04-29T07:53:10.782Z",
+    "fetched_at": "2026-04-29T13:12:58.994Z",
     "raw": {
       "id": 142516,
       "url": "https://jobicy.com/jobs/142516-connectivity-engineer-leased-data-center-construction",
@@ -618,7 +887,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-24T15:07:31+00:00",
-    "fetched_at": "2026-04-29T07:53:10.783Z",
+    "fetched_at": "2026-04-29T13:12:58.995Z",
     "raw": {
       "id": 142515,
       "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
@@ -670,7 +939,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T08:57:46+00:00",
-    "fetched_at": "2026-04-29T07:53:10.784Z",
+    "fetched_at": "2026-04-29T13:12:58.996Z",
     "raw": {
       "id": 142503,
       "url": "https://jobicy.com/jobs/142503-senior-mulesoft-integrations-developer-full-time-or-part-time",
@@ -724,7 +993,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T08:57:40+00:00",
-    "fetched_at": "2026-04-29T07:53:10.785Z",
+    "fetched_at": "2026-04-29T13:12:58.997Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -771,7 +1040,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-24T08:57:30+00:00",
-    "fetched_at": "2026-04-29T07:53:10.786Z",
+    "fetched_at": "2026-04-29T13:12:58.998Z",
     "raw": {
       "id": 142494,
       "url": "https://jobicy.com/jobs/142494-freelance-data-scraping-engineer-python",
@@ -825,7 +1094,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:18:11+00:00",
-    "fetched_at": "2026-04-29T07:53:10.788Z",
+    "fetched_at": "2026-04-29T13:12:58.999Z",
     "raw": {
       "id": 142478,
       "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
@@ -874,7 +1143,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:18:04+00:00",
-    "fetched_at": "2026-04-29T07:53:10.789Z",
+    "fetched_at": "2026-04-29T13:12:59.001Z",
     "raw": {
       "id": 142473,
       "url": "https://jobicy.com/jobs/142473-fullstack-engineer-all-genders-in-field-assistance",
@@ -926,7 +1195,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:18:01+00:00",
-    "fetched_at": "2026-04-29T07:53:10.793Z",
+    "fetched_at": "2026-04-29T13:12:59.002Z",
     "raw": {
       "id": 142471,
       "url": "https://jobicy.com/jobs/142471-senior-software-engineer-java-python",
@@ -975,7 +1244,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:59+00:00",
-    "fetched_at": "2026-04-29T07:53:10.794Z",
+    "fetched_at": "2026-04-29T13:12:59.003Z",
     "raw": {
       "id": 142470,
       "url": "https://jobicy.com/jobs/142470-software-engineer-i-back-end-repayment-scheduling",
@@ -1034,7 +1303,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:56+00:00",
-    "fetched_at": "2026-04-29T07:53:10.798Z",
+    "fetched_at": "2026-04-29T13:12:59.007Z",
     "raw": {
       "id": 142468,
       "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
@@ -1093,7 +1362,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:55+00:00",
-    "fetched_at": "2026-04-29T07:53:10.801Z",
+    "fetched_at": "2026-04-29T13:12:59.010Z",
     "raw": {
       "id": 142467,
       "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
@@ -1151,7 +1420,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:50+00:00",
-    "fetched_at": "2026-04-29T07:53:10.803Z",
+    "fetched_at": "2026-04-29T13:12:59.012Z",
     "raw": {
       "id": 142464,
       "url": "https://jobicy.com/jobs/142464-senior-backend-engineer-observability-ingest-kubernetes-operator-helm-chart-spain-remote",
@@ -1209,7 +1478,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:48+00:00",
-    "fetched_at": "2026-04-29T07:53:10.805Z",
+    "fetched_at": "2026-04-29T13:12:59.014Z",
     "raw": {
       "id": 142463,
       "url": "https://jobicy.com/jobs/142463-senior-backend-engineer-observability-ingest-kubernetes-operator-helm-chart-uk-remote",
@@ -1267,7 +1536,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:47+00:00",
-    "fetched_at": "2026-04-29T07:53:10.807Z",
+    "fetched_at": "2026-04-29T13:12:59.016Z",
     "raw": {
       "id": 142462,
       "url": "https://jobicy.com/jobs/142462-senior-backend-engineer-observability-ingest-kubernetes-operator-helm-chart-germany-remote",
@@ -1325,7 +1594,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:45+00:00",
-    "fetched_at": "2026-04-29T07:53:10.809Z",
+    "fetched_at": "2026-04-29T13:12:59.017Z",
     "raw": {
       "id": 142461,
       "url": "https://jobicy.com/jobs/142461-senior-backend-engineer-observability-ingest-kubernetes-operator-helm-chart-sweden-remote",
@@ -1379,7 +1648,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:36+00:00",
-    "fetched_at": "2026-04-29T07:53:10.810Z",
+    "fetched_at": "2026-04-29T13:12:59.018Z",
     "raw": {
       "id": 142455,
       "url": "https://jobicy.com/jobs/142455-senior-backend-engineer-breakout-prop-2",
@@ -1430,7 +1699,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-23T02:34:13+00:00",
-    "fetched_at": "2026-04-29T07:53:10.811Z",
+    "fetched_at": "2026-04-29T13:12:59.020Z",
     "raw": {
       "id": 142388,
       "url": "https://jobicy.com/jobs/142388-qa-engineer-3",
@@ -1473,7 +1742,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:56:05+00:00",
-    "fetched_at": "2026-04-29T07:53:10.812Z",
+    "fetched_at": "2026-04-29T13:12:59.021Z",
     "raw": {
       "id": 142313,
       "url": "https://jobicy.com/jobs/142313-senior-sap-integration-developer",
@@ -1520,7 +1789,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:56:04+00:00",
-    "fetched_at": "2026-04-29T07:53:10.813Z",
+    "fetched_at": "2026-04-29T13:12:59.021Z",
     "raw": {
       "id": 142312,
       "url": "https://jobicy.com/jobs/142312-sap-abap-developer",
@@ -1567,7 +1836,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:56:02+00:00",
-    "fetched_at": "2026-04-29T07:53:10.814Z",
+    "fetched_at": "2026-04-29T13:12:59.022Z",
     "raw": {
       "id": 142311,
       "url": "https://jobicy.com/jobs/142311-junior-sap-abap-developer",
@@ -1614,7 +1883,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:56:01+00:00",
-    "fetched_at": "2026-04-29T07:53:10.815Z",
+    "fetched_at": "2026-04-29T13:12:59.023Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -1661,7 +1930,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:55:59+00:00",
-    "fetched_at": "2026-04-29T07:53:10.816Z",
+    "fetched_at": "2026-04-29T13:12:59.024Z",
     "raw": {
       "id": 142309,
       "url": "https://jobicy.com/jobs/142309-sap-data-migration-developer",
@@ -1708,7 +1977,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:55:57+00:00",
-    "fetched_at": "2026-04-29T07:53:10.817Z",
+    "fetched_at": "2026-04-29T13:12:59.025Z",
     "raw": {
       "id": 142308,
       "url": "https://jobicy.com/jobs/142308-junior-sap-abap-data-migration-developer",
@@ -1755,7 +2024,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-22T01:55:48+00:00",
-    "fetched_at": "2026-04-29T07:53:10.819Z",
+    "fetched_at": "2026-04-29T13:12:59.027Z",
     "raw": {
       "id": 142302,
       "url": "https://jobicy.com/jobs/142302-consulting-systems-engineer-global-service-provider",
@@ -1805,7 +2074,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-20T06:50:49+00:00",
-    "fetched_at": "2026-04-29T07:53:10.819Z",
+    "fetched_at": "2026-04-29T13:12:59.027Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -1850,7 +2119,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-20T06:50:04+00:00",
-    "fetched_at": "2026-04-29T07:53:10.821Z",
+    "fetched_at": "2026-04-29T13:12:59.031Z",
     "raw": {
       "id": 142188,
       "url": "https://jobicy.com/jobs/142188-manager-application-security-apac",
@@ -1899,7 +2168,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-20T06:49:59+00:00",
-    "fetched_at": "2026-04-29T07:53:10.823Z",
+    "fetched_at": "2026-04-29T13:12:59.032Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -1942,7 +2211,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-20T06:48:57+00:00",
-    "fetched_at": "2026-04-29T07:53:10.823Z",
+    "fetched_at": "2026-04-29T13:12:59.033Z",
     "raw": {
       "id": 142178,
       "url": "https://jobicy.com/jobs/142178-middle-salesforce-developer-2",
@@ -1991,7 +2260,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-20T06:47:09+00:00",
-    "fetched_at": "2026-04-29T07:53:10.825Z",
+    "fetched_at": "2026-04-29T13:12:59.034Z",
     "raw": {
       "id": 142140,
       "url": "https://jobicy.com/jobs/142140-senior-manager-platform-engineering-secure-supply-chain",
@@ -2043,7 +2312,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-20T06:47:08+00:00",
-    "fetched_at": "2026-04-29T07:53:10.826Z",
+    "fetched_at": "2026-04-29T13:12:59.035Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -2098,7 +2367,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:55:39+00:00",
-    "fetched_at": "2026-04-29T07:53:10.827Z",
+    "fetched_at": "2026-04-29T13:12:59.036Z",
     "raw": {
       "id": 142111,
       "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
@@ -2147,7 +2416,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:55:36+00:00",
-    "fetched_at": "2026-04-29T07:53:10.827Z",
+    "fetched_at": "2026-04-29T13:12:59.036Z",
     "raw": {
       "id": 142109,
       "url": "https://jobicy.com/jobs/142109-senior-hpc-performance-engineer",
@@ -2192,7 +2461,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:52:33+00:00",
-    "fetched_at": "2026-04-29T07:53:10.829Z",
+    "fetched_at": "2026-04-29T13:12:59.038Z",
     "raw": {
       "id": 142086,
       "url": "https://jobicy.com/jobs/142086-principal-software-engineer-customer-journey",
@@ -2238,7 +2507,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:51:09+00:00",
-    "fetched_at": "2026-04-29T07:53:10.830Z",
+    "fetched_at": "2026-04-29T13:12:59.039Z",
     "raw": {
       "id": 142073,
       "url": "https://jobicy.com/jobs/142073-strategic-solutions-engineer",
@@ -2291,7 +2560,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-17T16:51:03+00:00",
-    "fetched_at": "2026-04-29T07:53:10.832Z",
+    "fetched_at": "2026-04-29T13:12:59.040Z",
     "raw": {
       "id": 142069,
       "url": "https://jobicy.com/jobs/142069-senior-software-engineer-full-stack-3",
@@ -2334,7 +2603,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:50:57+00:00",
-    "fetched_at": "2026-04-29T07:53:10.833Z",
+    "fetched_at": "2026-04-29T13:12:59.041Z",
     "raw": {
       "id": 142065,
       "url": "https://jobicy.com/jobs/142065-senior-model-based-system-engineer",
@@ -2381,7 +2650,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:50:38+00:00",
-    "fetched_at": "2026-04-29T07:53:10.833Z",
+    "fetched_at": "2026-04-29T13:12:59.042Z",
     "raw": {
       "id": 142052,
       "url": "https://jobicy.com/jobs/142052-qa-engineer-2",
@@ -2437,7 +2706,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-17T16:50:36+00:00",
-    "fetched_at": "2026-04-29T07:53:10.834Z",
+    "fetched_at": "2026-04-29T13:12:59.042Z",
     "raw": {
       "id": 142051,
       "url": "https://jobicy.com/jobs/142051-web-software-developer",
@@ -2498,7 +2767,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-15T11:44:27+00:00",
-    "fetched_at": "2026-04-29T07:53:10.836Z",
+    "fetched_at": "2026-04-29T13:12:59.044Z",
     "raw": {
       "id": 141981,
       "url": "https://jobicy.com/jobs/141981-senior-solution-architect-enterprise",
@@ -2545,7 +2814,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-15T11:44:26+00:00",
-    "fetched_at": "2026-04-29T07:53:10.837Z",
+    "fetched_at": "2026-04-29T13:12:59.045Z",
     "raw": {
       "id": 141980,
       "url": "https://jobicy.com/jobs/141980-software-engineer-mypay",
@@ -2610,7 +2879,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-15T11:44:23+00:00",
-    "fetched_at": "2026-04-29T07:53:10.839Z",
+    "fetched_at": "2026-04-29T13:12:59.047Z",
     "raw": {
       "id": 141978,
       "url": "https://jobicy.com/jobs/141978-solution-architect-enterprise",
@@ -2680,7 +2949,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-15T11:44:20+00:00",
-    "fetched_at": "2026-04-29T07:53:10.843Z",
+    "fetched_at": "2026-04-29T13:12:59.049Z",
     "raw": {
       "id": 141976,
       "url": "https://jobicy.com/jobs/141976-full-stack-web-developer-2",
@@ -2736,7 +3005,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:45:59+00:00",
-    "fetched_at": "2026-04-29T07:53:10.844Z",
+    "fetched_at": "2026-04-29T13:12:59.050Z",
     "raw": {
       "id": 141924,
       "url": "https://jobicy.com/jobs/141924-intermediate-software-engineer-php-javascript-wordpress-op02107",
@@ -2779,7 +3048,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:45:54+00:00",
-    "fetched_at": "2026-04-29T07:53:10.844Z",
+    "fetched_at": "2026-04-29T13:12:59.050Z",
     "raw": {
       "id": 141921,
       "url": "https://jobicy.com/jobs/141921-design-engineer",
@@ -2825,7 +3094,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:45:48+00:00",
-    "fetched_at": "2026-04-29T07:53:10.845Z",
+    "fetched_at": "2026-04-29T13:12:59.051Z",
     "raw": {
       "id": 141917,
       "url": "https://jobicy.com/jobs/141917-software-engineer-leadership-machine-learning-3",
@@ -2874,7 +3143,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:45:47+00:00",
-    "fetched_at": "2026-04-29T07:53:10.846Z",
+    "fetched_at": "2026-04-29T13:12:59.052Z",
     "raw": {
       "id": 141916,
       "url": "https://jobicy.com/jobs/141916-senior-net-software-engineer",
@@ -2933,7 +3202,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:44:32+00:00",
-    "fetched_at": "2026-04-29T07:53:10.847Z",
+    "fetched_at": "2026-04-29T13:12:59.053Z",
     "raw": {
       "id": 141903,
       "url": "https://jobicy.com/jobs/141903-senior-site-reliability-engineer-2",
@@ -2999,7 +3268,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:44:11+00:00",
-    "fetched_at": "2026-04-29T07:53:10.849Z",
+    "fetched_at": "2026-04-29T13:12:59.054Z",
     "raw": {
       "id": 141890,
       "url": "https://jobicy.com/jobs/141890-staff-platform-engineer",
@@ -3057,7 +3326,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-13T04:36:27+00:00",
-    "fetched_at": "2026-04-29T07:53:10.850Z",
+    "fetched_at": "2026-04-29T13:12:59.055Z",
     "raw": {
       "id": 141850,
       "url": "https://jobicy.com/jobs/141850-quality-automation-engineer",
@@ -3102,7 +3371,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-12T12:09:43+00:00",
-    "fetched_at": "2026-04-29T07:53:10.851Z",
+    "fetched_at": "2026-04-29T13:12:59.056Z",
     "raw": {
       "id": 141801,
       "url": "https://jobicy.com/jobs/141801-telecom-engineer",
@@ -3152,7 +3421,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-12T12:09:38+00:00",
-    "fetched_at": "2026-04-29T07:53:10.852Z",
+    "fetched_at": "2026-04-29T13:12:59.057Z",
     "raw": {
       "id": 141798,
       "url": "https://jobicy.com/jobs/141798-senior-software-developer-2",
@@ -3203,7 +3472,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-12T12:09:35+00:00",
-    "fetched_at": "2026-04-29T07:53:10.853Z",
+    "fetched_at": "2026-04-29T13:12:59.058Z",
     "raw": {
       "id": 141797,
       "url": "https://jobicy.com/jobs/141797-onestream-developer",
@@ -3252,7 +3521,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-12T12:09:34+00:00",
-    "fetched_at": "2026-04-29T07:53:10.855Z",
+    "fetched_at": "2026-04-29T13:12:59.059Z",
     "raw": {
       "id": 141796,
       "url": "https://jobicy.com/jobs/141796-associate-onestream-developer",
@@ -3300,7 +3569,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-12T12:09:27+00:00",
-    "fetched_at": "2026-04-29T07:53:10.856Z",
+    "fetched_at": "2026-04-29T13:12:59.060Z",
     "raw": {
       "id": 141792,
       "url": "https://jobicy.com/jobs/141792-senior-ai-engineer-2",
@@ -3347,7 +3616,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-12T12:09:26+00:00",
-    "fetched_at": "2026-04-29T07:53:10.858Z",
+    "fetched_at": "2026-04-29T13:12:59.061Z",
     "raw": {
       "id": 141791,
       "url": "https://jobicy.com/jobs/141791-team-lead-ai-engineering",
@@ -3395,7 +3664,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-12T12:09:18+00:00",
-    "fetched_at": "2026-04-29T07:53:10.860Z",
+    "fetched_at": "2026-04-29T13:12:59.062Z",
     "raw": {
       "id": 141787,
       "url": "https://jobicy.com/jobs/141787-technical-solutions-architect-iii-application-modernization-and-software-strategy-aws-focused",
@@ -3450,7 +3719,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-10T17:42:27+00:00",
-    "fetched_at": "2026-04-29T07:53:10.862Z",
+    "fetched_at": "2026-04-29T13:12:59.064Z",
     "raw": {
       "id": 141764,
       "url": "https://jobicy.com/jobs/141764-sr-qa-automation-engineer",
@@ -3499,7 +3768,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-10T17:42:26+00:00",
-    "fetched_at": "2026-04-29T07:53:10.863Z",
+    "fetched_at": "2026-04-29T13:12:59.065Z",
     "raw": {
       "id": 141763,
       "url": "https://jobicy.com/jobs/141763-sr-qa-manual-tester",
@@ -3555,7 +3824,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-10T17:42:24+00:00",
-    "fetched_at": "2026-04-29T07:53:10.864Z",
+    "fetched_at": "2026-04-29T13:12:59.066Z",
     "raw": {
       "id": 141762,
       "url": "https://jobicy.com/jobs/141762-principal-software-engineer-react-net",
@@ -3613,7 +3882,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-10T17:42:21+00:00",
-    "fetched_at": "2026-04-29T07:53:10.866Z",
+    "fetched_at": "2026-04-29T13:12:59.068Z",
     "raw": {
       "id": 141760,
       "url": "https://jobicy.com/jobs/141760-full-stack-software-engineer-ai-enhanced-development",
@@ -3663,7 +3932,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-09T17:06:39+00:00",
-    "fetched_at": "2026-04-29T07:53:10.868Z",
+    "fetched_at": "2026-04-29T13:12:59.069Z",
     "raw": {
       "id": 141734,
       "url": "https://jobicy.com/jobs/141734-software-engineer-credit-line",
@@ -3714,7 +3983,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-08T03:06:56+00:00",
-    "fetched_at": "2026-04-29T07:53:10.868Z",
+    "fetched_at": "2026-04-29T13:12:59.070Z",
     "raw": {
       "id": 141695,
       "url": "https://jobicy.com/jobs/141695-civil-engineer-python-expert-freelance-ai-trainer",
@@ -3765,7 +4034,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-08T03:06:46+00:00",
-    "fetched_at": "2026-04-29T07:53:10.870Z",
+    "fetched_at": "2026-04-29T13:12:59.071Z",
     "raw": {
       "id": 141688,
       "url": "https://jobicy.com/jobs/141688-qa-engineer",
@@ -3811,7 +4080,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-08T03:06:43+00:00",
-    "fetched_at": "2026-04-29T07:53:10.870Z",
+    "fetched_at": "2026-04-29T13:12:59.071Z",
     "raw": {
       "id": 141687,
       "url": "https://jobicy.com/jobs/141687-net-developer-part-time-40-60-hours-month",
@@ -3858,7 +4127,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-07T14:01:27+00:00",
-    "fetched_at": "2026-04-29T07:53:10.872Z",
+    "fetched_at": "2026-04-29T13:12:59.073Z",
     "raw": {
       "id": 141662,
       "url": "https://jobicy.com/jobs/141662-senior-developer-endpoint-agent",
@@ -3913,7 +4182,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-02T09:59:52+00:00",
-    "fetched_at": "2026-04-29T07:53:10.873Z",
+    "fetched_at": "2026-04-29T13:12:59.074Z",
     "raw": {
       "id": 141544,
       "url": "https://jobicy.com/jobs/141544-senior-staff-customer-engineer-automotive-ai-engineer",
@@ -3966,7 +4235,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-02T09:59:40+00:00",
-    "fetched_at": "2026-04-29T07:53:10.875Z",
+    "fetched_at": "2026-04-29T13:12:59.075Z",
     "raw": {
       "id": 141536,
       "url": "https://jobicy.com/jobs/141536-senior-staff-software-engineer-distributed-systems",
@@ -4024,7 +4293,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-02T09:59:31+00:00",
-    "fetched_at": "2026-04-29T07:53:10.877Z",
+    "fetched_at": "2026-04-29T13:12:59.077Z",
     "raw": {
       "id": 141530,
       "url": "https://jobicy.com/jobs/141530-senior-fullstack-software-engineer-javascript-typescript-2",
@@ -4083,7 +4352,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-01T04:31:58+00:00",
-    "fetched_at": "2026-04-29T07:53:10.877Z",
+    "fetched_at": "2026-04-29T13:12:59.078Z",
     "raw": {
       "id": 141467,
       "url": "https://jobicy.com/jobs/141467-software-rd-engineer",
@@ -4130,7 +4399,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-01T04:31:56+00:00",
-    "fetched_at": "2026-04-29T07:53:10.879Z",
+    "fetched_at": "2026-04-29T13:12:59.079Z",
     "raw": {
       "id": 141466,
       "url": "https://jobicy.com/jobs/141466-qa-engineer-full-remote-or-hybrid-m-f-d",
@@ -4179,7 +4448,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-01T04:31:53+00:00",
-    "fetched_at": "2026-04-29T07:53:10.880Z",
+    "fetched_at": "2026-04-29T13:12:59.080Z",
     "raw": {
       "id": 141464,
       "url": "https://jobicy.com/jobs/141464-intermediate-fullstack-engineer-remote-romania",
@@ -4233,7 +4502,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-31T13:24:13+00:00",
-    "fetched_at": "2026-04-29T07:53:10.881Z",
+    "fetched_at": "2026-04-29T13:12:59.081Z",
     "raw": {
       "id": 141437,
       "url": "https://jobicy.com/jobs/141437-sr-solutions-architect",
@@ -4280,7 +4549,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-31T13:24:09+00:00",
-    "fetched_at": "2026-04-29T07:53:10.883Z",
+    "fetched_at": "2026-04-29T13:12:59.083Z",
     "raw": {
       "id": 141434,
       "url": "https://jobicy.com/jobs/141434-protection-and-controls-engineer-p-e-substations-remote-u-s",
@@ -4337,7 +4606,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-31T13:24:07+00:00",
-    "fetched_at": "2026-04-29T07:53:10.885Z",
+    "fetched_at": "2026-04-29T13:12:59.084Z",
     "raw": {
       "id": 141433,
       "url": "https://jobicy.com/jobs/141433-senior-mts-software-development",
@@ -4382,7 +4651,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-31T13:24:00+00:00",
-    "fetched_at": "2026-04-29T07:53:10.886Z",
+    "fetched_at": "2026-04-29T13:12:59.086Z",
     "raw": {
       "id": 141428,
       "url": "https://jobicy.com/jobs/141428-principal-technologist-office-of-the-cto",
@@ -4442,7 +4711,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-29T08:03:26+00:00",
-    "fetched_at": "2026-04-29T07:53:10.888Z",
+    "fetched_at": "2026-04-29T13:12:59.087Z",
     "raw": {
       "id": 141381,
       "url": "https://jobicy.com/jobs/141381-software-engineer-5",
@@ -4498,7 +4767,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-29T08:03:25+00:00",
-    "fetched_at": "2026-04-29T07:53:10.889Z",
+    "fetched_at": "2026-04-29T13:12:59.088Z",
     "raw": {
       "id": 141380,
       "url": "https://jobicy.com/jobs/141380-senior-software-engineer-11",
@@ -4546,7 +4815,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-29T08:03:02+00:00",
-    "fetched_at": "2026-04-29T07:53:10.890Z",
+    "fetched_at": "2026-04-29T13:12:59.089Z",
     "raw": {
       "id": 141365,
       "url": "https://jobicy.com/jobs/141365-junior-qa-engineer-2",
@@ -4599,7 +4868,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-29T08:03:00+00:00",
-    "fetched_at": "2026-04-29T07:53:10.891Z",
+    "fetched_at": "2026-04-29T13:12:59.090Z",
     "raw": {
       "id": 141364,
       "url": "https://jobicy.com/jobs/141364-middle-qa-engineer-working-schedule-15-00-24-00",
@@ -4653,7 +4922,7 @@
       "Programming"
     ],
     "posted_at": "2026-03-29T08:02:59+00:00",
-    "fetched_at": "2026-04-29T07:53:10.892Z",
+    "fetched_at": "2026-04-29T13:12:59.090Z",
     "raw": {
       "id": 141363,
       "url": "https://jobicy.com/jobs/141363-java-developer",
@@ -4705,7 +4974,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-29T08:02:56+00:00",
-    "fetched_at": "2026-04-29T07:53:10.894Z",
+    "fetched_at": "2026-04-29T13:12:59.092Z",
     "raw": {
       "id": 141361,
       "url": "https://jobicy.com/jobs/141361-senior-software-engineer-ii-developer-experience-operational-excellence",
@@ -4756,7 +5025,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-03-29T08:02:44+00:00",
-    "fetched_at": "2026-04-29T07:53:10.895Z",
+    "fetched_at": "2026-04-29T13:12:59.093Z",
     "raw": {
       "id": 141353,
       "url": "https://jobicy.com/jobs/141353-senior-conversational-ai-architect",
