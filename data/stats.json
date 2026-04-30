@@ -1,7 +1,7 @@
 {
-  "totalJobs": 843,
+  "totalJobs": 842,
   "bySource": {
-    "arbeitnow": 97,
+    "arbeitnow": 96,
     "wwr": 63,
     "jobicy": 77,
     "remoteok": 96,
@@ -11,26 +11,27 @@
     "himalayas": 1
   },
   "byTechStack": {
+    "machine-learning": 108,
     "rust": 22,
     "backbone": 6,
-    "docker": 77,
+    "docker": 76,
     "kubernetes": 99,
     "web3": 9,
     "blockchain": 23,
     "substrate": 1,
     "polkadot": 1,
     "linux": 45,
-    "llm": 45,
-    "figma": 13,
+    "llm": 42,
+    "figma": 12,
     "react": 173,
     "react-native": 29,
     "ios": 47,
     "android": 44,
     "python": 164,
-    "aws": 144,
+    "aws": 142,
     "dbt": 6,
     "snowflake": 10,
-    "git": 39,
+    "git": 38,
     "php": 27,
     "gcp": 59,
     "azure": 56,
@@ -43,15 +44,14 @@
     "gitlab": 20,
     "pubsub": 1,
     "graphql": 34,
-    "javascript": 140,
+    "javascript": 139,
     "vue": 31,
     "django": 24,
     "segment": 6,
     "go": 22,
     "c++": 1,
     "lua": 3,
-    "terraform": 53,
-    "machine-learning": 107,
+    "terraform": 52,
     "typescript": 89,
     "angular": 21,
     "mongodb": 18,
@@ -170,13 +170,13 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 668,
-    "freelance": 18,
+    "full-time": 669,
+    "freelance": 17,
     "contract": 11,
     "part-time": 2
   },
   "byRemoteType": {
-    "remote": 474,
+    "remote": 475,
     "onsite": 228,
     "hybrid": 1
   },
@@ -186,16 +186,16 @@
     "100k-150k": 18,
     "150k-200k": 18,
     "over200k": 4,
-    "unknown": 686
+    "unknown": 685
   },
-  "lastUpdated": "2026-04-30T01:26:23.781Z",
+  "lastUpdated": "2026-04-30T07:56:02.006Z",
   "jobsLast7Days": [
     32,
     14,
     3,
     25,
     23,
-    121,
-    0
+    108,
+    12
   ]
 }
