@@ -1,17 +1,22 @@
 {
-  "totalJobs": 816,
+  "totalJobs": 818,
   "bySource": {
-    "arbeitnow": 81,
+    "arbeitnow": 84,
     "remoteok": 95,
     "jobicy": 67,
     "wwr": 65,
     "workingnomads": 17,
     "remotive": 17,
-    "hn": 473,
-    "himalayas": 1
+    "hn": 473
   },
   "byTechStack": {
-    "llm": 31,
+    "python": 158,
+    "aws": 137,
+    "gcp": 55,
+    "azure": 50,
+    "docker": 75,
+    "llm": 32,
+    "graphql": 34,
     "javascript": 129,
     "typescript": 86,
     "react": 171,
@@ -22,15 +27,10 @@
     "kotlin": 29,
     "nodejs": 68,
     "jetpack": 4,
-    "python": 157,
-    "gcp": 54,
-    "docker": 74,
     "terraform": 52,
     "linux": 43,
     "bash": 17,
     "java": 70,
-    "aws": 136,
-    "azure": 49,
     "kubernetes": 95,
     "postgresql": 85,
     "kafka": 17,
@@ -76,7 +76,6 @@
     "netlify": 1,
     "cloudflare": 1,
     "jest": 6,
-    "graphql": 33,
     "figma": 9,
     "jwt": 5,
     "newrelic": 2,
@@ -168,10 +167,10 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "freelance": 7,
+    "freelance": 8,
     "full-time": 653,
     "contract": 10,
-    "part-time": 3
+    "part-time": 2
   },
   "byRemoteType": {
     "remote": 451,
@@ -183,17 +182,17 @@
     "50k-100k": 14,
     "100k-150k": 22,
     "150k-200k": 14,
-    "over200k": 4,
-    "unknown": 664
+    "over200k": 3,
+    "unknown": 667
   },
-  "lastUpdated": "2026-05-03T07:41:26.613Z",
+  "lastUpdated": "2026-05-03T12:37:11.461Z",
   "jobsLast7Days": [
     24,
     23,
     29,
     24,
-    68,
+    60,
     37,
-    5
+    16
   ]
 }
