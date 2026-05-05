@@ -1,5 +1,59 @@
 [
   {
+    "id": "wwr:brightwheel-staff-ai-product-builder",
+    "platform": "wwr",
+    "external_id": "brightwheel-staff-ai-product-builder",
+    "title": "Staff AI Product Builder",
+    "company": "Brightwheel",
+    "description": "Headquarters: United States Our Mission and Opportunity Early education is one of the greatest determinants of childhood outcomes, is a must for working families, and has lasting social and economic impact. Brightwheel’s vision is high quality early education for every child. We pursue this by directly supporting teachers in the classroom, engaging parents in the development of their kids, and enabling the small businesses that make up the backbone of the $175 billion early education industry. Brightwheel is the most loved technology brand in early education, trusted by tens of thousands of providers and millions of educators and families. Our Team Our team is passionate, talented, and customer-focused. We embody our Leadership Principles in our work and culture. We are a distributed team with remote employees across every US time zone, as well as select offices in the US and internationally. Our exceptional investor group includes Addition, Bessemer, Emerson Collective, Lowercase Capital, Mark Cuban, Notable Capital, and others. Who You Are You are a Staff level full-stack builder who is both AI-native and product-minded. You love taking an ambiguous customer problem, turning it into a clear plan, and shipping a real end-to-end experience that moves a meaningful outcome. You care about craft and trust in what you ship, and you leave behind reusable building blocks so the next team can move even faster. You will succeed in this role if you are: Driven by outcomes. You care about helping preschools and childcare centers stay full, save time, and serve families better – not just about shipping “an AI feature.” AI-native. You treat AI as part of your toolchain: you rely on modern AI coding assistants and IDEs and lightweight automation or orchestration tools to move dramatically faster, and you know when AI adds real leverage versus when a simple service or query is enough. A product-driving technical leader. You don’t wait for perfect requirements — you validate hypotheses with prototypes, talk to customers and internal teams, define success metrics, and use working software to align others and drive decisions. Full stack with a platform mindset. You are comfortable designing data models and APIs, implementing backend logic, and building the front-end experiences that sit on top – and you enjoy creating shared services and patterns that other teams can reuse. Thoughtful about AI’s limits. You understand hallucinations, safety, and evaluation, and you design data flows, UX, and guardrails around those constraints rather than ignoring them. Security-minded. You handle sensitive school, educator, and family data with care and instinctively look for secure designs and least-privilege access patterns. What You’ll Do In this role, you’ll own AI-powered improvements in core brightwheel workflows end-to-end, from opportunity sizing to launch to iteration. You’ll ship experiences that make administrators and teachers faster and more effective, while creating shared patterns that help the rest of engineering build safely and consistently. You will: Design and build cross-cutting AI services (such as retrieval, context, evaluation, and guardrails) that power multiple product areas like classroom workflows, billing, and family communication. As a hybrid PM+Eng+Data builder: own the end-to-end product loop for the problems you take on: talk to customers and internal teams, define the success metric, design the workflow and user experience, shape the data and evaluation plan, and ship iterative releases from prototype to reliable, scalable production. Create shared abstractions and tooling for AI – for example, common prompt and tool patterns, logging and monitoring, and reusable components – so other engineers can build on a consistent foundation. Shape our data and system architecture so AI can safely stitch together longitudinal signals across product, billing, support, and operations and recommend what should happen next, not just report what happened. Lead by example in AI-augmented engineering, using AI to multiply your own speed, mentoring L2/L3 engineers, and raising the bar for how we design, ship, and operate AI-powered features. What You’ve Done We are open to a variety of backgrounds, but you likely bring: 5+ years of professional software engineering experience, with clear ownership of medium-to-large production systems from problem statement and design doc through launch and iteration. A proven track record of shipping AI-powered products to production, with concrete examples where LLMs meaningfully improved a metric like engagement, time saved, satisfaction, or retention across one or more product areas. Hands-on experience with large language models (LLMs) in real applications, including prompt and tool design, retrieval-style patterns (such as RAG), and evaluation and monitoring in production. Strong computer science fundamentals (e.g., data structures, algorithms, and systems design) and a generalist mindset, comfortable moving between backend, data, and UX to get the job done. Backend engineering skills in at least one modern web stack (such as Ruby on Rails, Python, Go, or Node), plus confidence with relational databases and larger datasets, from data modeling to performant queries and analytics. Experience building modern web front-ends, ideally with React or a similar component-based framework. Nice-to-haves: Formal training in computer science (4-year CS degree or equivalent depth in core CS topics). A portfolio of personal AI projects, open-source work, or writing that shows how you think about applied AI in real-world settings. Background in vertical SaaS, ecommerce, or other operations-heavy domains. Experience designing shared platforms or frameworks (for example, internal SDKs, evaluation services, or experimentation tooling) adopted by multiple teams. A track record of raising the bar for quality and operations: writing secure, testable, maintainable code; automating and simplifying dev/test/ops workflows; writing and reviewing design docs; mentoring other engineers; and contributing to hiring through interviews and feedback. Technology We work with: Backend: Ruby on Rails, Sidekiq Data: PostgreSQL on Amazon RDS, Redis, and event and analytics pipelines Frontend: React with TypeScript and Emotion Mobile: Native iOS (Swift) and Android (Kotlin with Jetpack Compose) Cloud &amp; Infrastructure: Docker, Kubernetes on Amazon EKS, GitHub Actions and FluxCD for CI/CD, and AWS services such as S3, CloudFront, CloudWatch, and SNS AI &amp; Automation: AWS Bedrock and other hosted large language models, vector search, orchestration and agent frameworks, and modern AI coding tools like Cursor Brightwheel is committed to creating a diverse and inclusive work environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity, gender expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Protecting Our Applicants: Please be aware of recruiting scams impersonating Brightwheel. All legitimate communications come from @ mybrightwheel.com addresses, and we never ask for payment or sensitive personal data as part of our hiring process. If you suspect fraudulent contact, reach out to security@mybrightwheel.com . Thank you for helping us keep our applicant community safe. To apply: https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder",
+    "url": "https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript",
+      "python",
+      "ruby",
+      "swift",
+      "kotlin",
+      "react",
+      "backbone",
+      "nodejs",
+      "rails",
+      "postgresql",
+      "redis",
+      "aws",
+      "docker",
+      "kubernetes",
+      "github-actions",
+      "rag",
+      "ios",
+      "android",
+      "jetpack"
+    ],
+    "tags": [
+      "programming",
+      "Front-End Programming"
+    ],
+    "posted_at": "2026-04-08T20:32:11.000Z",
+    "fetched_at": "2026-05-05T18:59:25.790Z",
+    "raw": {
+      "title": "Brightwheel: Staff AI Product Builder",
+      "region": "Anywhere in the World",
+      "category": "Front-End Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> United States\n</p>\n\n<p><strong>Our Mission and Opportunity</strong></p><p>Early education is one of the greatest determinants of childhood outcomes, is a must for working families, and has lasting social and economic impact. <a href=\"https://mybrightwheel.com/careers/\">Brightwheel’s vision</a> is high quality early education for every child. We pursue this by directly supporting teachers in the classroom, engaging parents in the development of their kids, and enabling the small businesses that make up the backbone of the $175 billion early education industry. Brightwheel is the most loved technology brand in early education, trusted by tens of thousands of providers and millions of educators and families.</p><p></p><p><strong>Our Team</strong></p><p>Our team is passionate, talented, and customer-focused. We embody our Leadership Principles in our work and culture. We are a distributed team with remote employees across every US time zone, as well as select offices in the US and internationally. Our exceptional investor group includes Addition, Bessemer, Emerson Collective, Lowercase Capital, Mark Cuban, Notable Capital, and others.</p><p></p><p><strong>Who You Are</strong></p><p>You are a Staff level full-stack builder who is both AI-native and product-minded. You love taking an ambiguous customer problem, turning it into a clear plan, and shipping a real end-to-end experience that moves a meaningful outcome. You care about craft and trust in what you ship, and you leave behind reusable building blocks so the next team can move even faster.</p><p></p><p>You will succeed in this role if you are:</p><ul><li><p>Driven by outcomes. You care about helping preschools and childcare centers stay full, save time, and serve families better – not just about shipping “an AI feature.”</p></li><li><p>AI-native. You treat AI as part of your toolchain: you rely on modern AI coding assistants and IDEs and lightweight automation or orchestration tools to move dramatically faster, and you know when AI adds real leverage versus when a simple service or query is enough.</p></li><li><p>A product-driving technical leader. You don’t wait for perfect requirements — you validate hypotheses with prototypes, talk to customers and internal teams, define success metrics, and use working software to align others and drive decisions.</p></li><li><p>Full stack with a platform mindset. You are comfortable designing data models and APIs, implementing backend logic, and building the front-end experiences that sit on top – and you enjoy creating shared services and patterns that other teams can reuse.</p></li><li><p>Thoughtful about AI’s limits. You understand hallucinations, safety, and evaluation, and you design data flows, UX, and guardrails around those constraints rather than ignoring them.</p></li><li><p>Security-minded. You handle sensitive school, educator, and family data with care and instinctively look for secure designs and least-privilege access patterns.</p></li></ul><p></p><p><strong>What You’ll Do</strong></p><p>In this role, you’ll own AI-powered improvements in core brightwheel workflows end-to-end, from opportunity sizing to launch to iteration. You’ll ship experiences that make administrators and teachers faster and more effective, while creating shared patterns that help the rest of engineering build safely and consistently. You will:</p><ul><li><p>Design and build cross-cutting AI services (such as retrieval, context, evaluation, and guardrails) that power multiple product areas like classroom workflows, billing, and family communication.</p></li><li><p>As a hybrid PM+Eng+Data builder: own the end-to-end product loop for the problems you take on: talk to customers and internal teams, define the success metric, design the workflow and user experience, shape the data and evaluation plan, and ship iterative releases from prototype to reliable, scalable production.</p></li><li><p>Create shared abstractions and tooling for AI – for example, common prompt and tool patterns, logging and monitoring, and reusable components – so other engineers can build on a consistent foundation.</p></li><li><p>Shape our data and system architecture so AI can safely stitch together longitudinal signals across product, billing, support, and operations and recommend what should happen next, not just report what happened.</p></li><li><p>Lead by example in AI-augmented engineering, using AI to multiply your own speed, mentoring L2/L3 engineers, and raising the bar for how we design, ship, and operate AI-powered features.</p></li></ul><p></p><p><strong>What You’ve Done</strong></p><p>We are open to a variety of backgrounds, but you likely bring:</p><ul><li><p>5+ years of professional software engineering experience, with clear ownership of medium-to-large production systems from problem statement and design doc through launch and iteration.</p></li><li><p>A proven track record of shipping AI-powered products to production, with concrete examples where LLMs meaningfully improved a metric like engagement, time saved, satisfaction, or retention across one or more product areas.</p></li><li><p>Hands-on experience with large language models (LLMs) in real applications, including prompt and tool design, retrieval-style patterns (such as RAG), and evaluation and monitoring in production.</p></li><li><p>Strong computer science fundamentals (e.g., data structures, algorithms, and systems design) and a generalist mindset, comfortable moving between backend, data, and UX to get the job done.</p></li><li><p>Backend engineering skills in at least one modern web stack (such as Ruby on Rails, Python, Go, or Node), plus confidence with relational databases and larger datasets, from data modeling to performant queries and analytics.</p></li><li><p>Experience building modern web front-ends, ideally with React or a similar component-based framework.</p><p></p></li></ul><p><strong>Nice-to-haves:</strong></p><ul><li><p>Formal training in computer science (4-year CS degree or equivalent depth in core CS topics).</p></li><li><p>A portfolio of personal AI projects, open-source work, or writing that shows how you think about applied AI in real-world settings.</p></li><li><p>Background in vertical SaaS, ecommerce, or other operations-heavy domains.</p></li><li><p>Experience designing shared platforms or frameworks (for example, internal SDKs, evaluation services, or experimentation tooling) adopted by multiple teams.</p></li><li><p>A track record of raising the bar for quality and operations: writing secure, testable, maintainable code; automating and simplifying dev/test/ops workflows; writing and reviewing design docs; mentoring other engineers; and contributing to hiring through interviews and feedback.</p></li></ul><p></p><p><strong>Technology</strong><br>We work with:</p><ul><li><p>Backend: Ruby on Rails, Sidekiq</p></li><li><p>Data: PostgreSQL on Amazon RDS, Redis, and event and analytics pipelines</p></li><li><p>Frontend: React with TypeScript and Emotion</p></li><li><p>Mobile: Native iOS (Swift) and Android (Kotlin with Jetpack Compose)</p></li><li><p>Cloud &amp; Infrastructure: Docker, Kubernetes on Amazon EKS, GitHub Actions and FluxCD for CI/CD, and AWS services such as S3, CloudFront, CloudWatch, and SNS</p></li><li><p>AI &amp; Automation: AWS Bedrock and other hosted large language models, vector search, orchestration and agent frameworks, and modern AI coding tools like Cursor</p></li></ul><p><em>Brightwheel is committed to creating a diverse and inclusive work environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity, gender expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p><p></p><p><em>Protecting Our Applicants: Please be aware of recruiting scams impersonating Brightwheel. All legitimate communications come from <strong>@</strong></em><a href=\"http://mybrightwheel.com\"><em><strong>mybrightwheel.com</strong></em></a><em> addresses, and we never ask for payment or sensitive personal data as part of our hiring process. If you suspect fraudulent contact, reach out to </em><a href=\"mailto:security@mybrightwheel.com\"><em><strong>security@mybrightwheel.com</strong></em></a><em>. Thank you for helping us keep our applicant community safe.</em></p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder\">https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder</a></p>",
+      "pubDate": "Wed, 08 Apr 2026 20:32:11 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder",
+      "link": "https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder"
+    }
+  },
+  {
     "id": "wwr:titan-ai-full-stack-developer-ai-applications",
     "platform": "wwr",
     "external_id": "titan-ai-full-stack-developer-ai-applications",
@@ -39,7 +93,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-08T20:32:08.000Z",
-    "fetched_at": "2026-05-05T13:01:11.792Z",
+    "fetched_at": "2026-05-05T18:59:25.791Z",
     "raw": {
       "title": "Titan Ai: Full-Stack Developer, AI Applications",
       "region": "Anywhere in the World",
@@ -75,7 +129,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-08T20:32:00.000Z",
-    "fetched_at": "2026-05-05T13:01:11.794Z",
+    "fetched_at": "2026-05-05T18:59:25.792Z",
     "raw": {
       "title": "Samsara: Senior Sales Strategy Manager, New Product",
       "region": "Anywhere in the World",
@@ -121,7 +175,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-04-08T20:31:03.000Z",
-    "fetched_at": "2026-05-05T13:01:11.796Z",
+    "fetched_at": "2026-05-05T18:59:25.794Z",
     "raw": {
       "title": "Philo: Lead Backend Software Engineer (Product API)",
       "region": "Anywhere in the World",
@@ -155,7 +209,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-08T08:11:30.000Z",
-    "fetched_at": "2026-05-05T13:01:11.798Z",
+    "fetched_at": "2026-05-05T18:59:25.795Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4739/logo.gif",
@@ -208,7 +262,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-04-07T20:34:46.000Z",
-    "fetched_at": "2026-05-05T13:01:11.799Z",
+    "fetched_at": "2026-05-05T18:59:25.796Z",
     "raw": {
       "title": "31 Green Ltd: Full Stack Developer - Backend Focus",
       "region": "Anywhere in the World",
@@ -249,7 +303,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-07T20:33:41.000Z",
-    "fetched_at": "2026-05-05T13:01:11.800Z",
+    "fetched_at": "2026-05-05T18:59:25.797Z",
     "raw": {
       "title": "act digital: Full-stack Developer (SP)",
       "region": "Anywhere in the World",
@@ -288,7 +342,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-04-07T20:32:52.000Z",
-    "fetched_at": "2026-05-05T13:01:11.802Z",
+    "fetched_at": "2026-05-05T18:59:25.797Z",
     "raw": {
       "title": "Manifest Cyber Public: Senior Backend Application Engineer - Product & Platform",
       "region": "Anywhere in the World",
@@ -332,7 +386,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-07T20:31:03.000Z",
-    "fetched_at": "2026-05-05T13:01:11.802Z",
+    "fetched_at": "2026-05-05T18:59:25.798Z",
     "raw": {
       "title": "Miragon: Full Stack Developer (m/w/d)",
       "region": "Anywhere in the World",
@@ -366,7 +420,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-05-05T13:01:11.803Z",
+    "fetched_at": "2026-05-05T18:59:25.799Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
@@ -410,7 +464,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-07T17:04:23.000Z",
-    "fetched_at": "2026-05-05T13:01:11.804Z",
+    "fetched_at": "2026-05-05T18:59:25.799Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0081/8410/logo.gif",
@@ -450,7 +504,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T20:32:03.000Z",
-    "fetched_at": "2026-05-05T13:01:11.805Z",
+    "fetched_at": "2026-05-05T18:59:25.800Z",
     "raw": {
       "title": "Treehouse Job Board: Electrical Design Lead",
       "region": "Anywhere in the World",
@@ -492,7 +546,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T20:31:29.000Z",
-    "fetched_at": "2026-05-05T13:01:11.807Z",
+    "fetched_at": "2026-05-05T18:59:25.802Z",
     "raw": {
       "title": "Trace3: Sr. Cloud Solutions Architect | DevOps (Remote)",
       "region": "Anywhere in the World",
@@ -526,7 +580,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T20:31:15.000Z",
-    "fetched_at": "2026-05-05T13:01:11.808Z",
+    "fetched_at": "2026-05-05T18:59:25.803Z",
     "raw": {
       "title": "Veeva Systems: Data Product Manager - Link Activity Data",
       "region": "Anywhere in the World",
@@ -560,7 +614,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T20:31:11.000Z",
-    "fetched_at": "2026-05-05T13:01:11.809Z",
+    "fetched_at": "2026-05-05T18:59:25.804Z",
     "raw": {
       "title": "Veeva Systems: Data Product Manager - Link Activity Data",
       "region": "Anywhere in the World",
@@ -596,7 +650,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-04-06T18:04:22.000Z",
-    "fetched_at": "2026-05-05T13:01:11.810Z",
+    "fetched_at": "2026-05-05T18:59:25.805Z",
     "raw": {
       "title": "1nce: Product Owner Frontend (all)",
       "region": "Anywhere in the World",
@@ -632,7 +686,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T18:03:24.000Z",
-    "fetched_at": "2026-05-05T13:01:11.811Z",
+    "fetched_at": "2026-05-05T18:59:25.806Z",
     "raw": {
       "title": "Carbmee: (Senior) Product Manager (all genders) | ClimateTech",
       "region": "Anywhere in the World",
@@ -682,7 +736,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T18:03:08.000Z",
-    "fetched_at": "2026-05-05T13:01:11.813Z",
+    "fetched_at": "2026-05-05T18:59:25.807Z",
     "raw": {
       "title": "Ataccama: Senior Back-End Engineer (Java) - Product Foundation",
       "region": "Anywhere in the World",
@@ -719,7 +773,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T18:03:08.000Z",
-    "fetched_at": "2026-05-05T13:01:11.814Z",
+    "fetched_at": "2026-05-05T18:59:25.808Z",
     "raw": {
       "title": "Celonis: Application Product Manager - Accounts Payable",
       "region": "Anywhere in the World",
@@ -753,7 +807,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T18:02:58.000Z",
-    "fetched_at": "2026-05-05T13:01:11.815Z",
+    "fetched_at": "2026-05-05T18:59:25.809Z",
     "raw": {
       "title": "Instructure: Principal Product Specialist",
       "region": "Anywhere in the World",
@@ -787,7 +841,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T18:02:58.000Z",
-    "fetched_at": "2026-05-05T13:01:11.816Z",
+    "fetched_at": "2026-05-05T18:59:25.810Z",
     "raw": {
       "title": "Workwize: Product Manager b2b SaaS",
       "region": "Anywhere in the World",
@@ -829,7 +883,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-04-06T18:02:14.000Z",
-    "fetched_at": "2026-05-05T13:01:11.817Z",
+    "fetched_at": "2026-05-05T18:59:25.811Z",
     "raw": {
       "title": "Speechify: Software Engineer, Web Core Product & Chrome Extension",
       "region": "Anywhere in the World",
@@ -868,7 +922,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-06T10:20:00.000Z",
-    "fetched_at": "2026-05-05T13:01:11.818Z",
+    "fetched_at": "2026-05-05T18:59:25.811Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4710/logo.gif",
@@ -908,7 +962,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-05T20:31:38.000Z",
-    "fetched_at": "2026-05-05T13:01:11.820Z",
+    "fetched_at": "2026-05-05T18:59:25.813Z",
     "raw": {
       "title": "8am: Product Designer | Growth",
       "region": "Anywhere in the World",
@@ -944,7 +998,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-04-05T20:31:33.000Z",
-    "fetched_at": "2026-05-05T13:01:11.821Z",
+    "fetched_at": "2026-05-05T18:59:25.814Z",
     "raw": {
       "title": "Stripe: Staff Product Manager, Link Consumer Product",
       "region": "Anywhere in the World",
@@ -953,45 +1007,6 @@
       "pubDate": "Sun, 05 Apr 2026 20:31:33 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/stripe-staff-product-manager-link-consumer-product",
       "link": "https://weworkremotely.com/remote-jobs/stripe-staff-product-manager-link-consumer-product"
-    }
-  },
-  {
-    "id": "wwr:speechify-inc-software-engineer-ios-core-product",
-    "platform": "wwr",
-    "external_id": "speechify-inc-software-engineer-ios-core-product",
-    "title": "Software Engineer, iOS Core Product",
-    "company": "Speechify Inc",
-    "description": "Headquarters: Florida URL: http://www.speechify.com Overview With the growth of our iOS app, being the #18 productivity app in the App Store category and also our recent recognition as Apple's 2025 Design Award for inclusivity, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &nbsp;&nbsp; This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users. We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp; Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp; What Yo u’ ll Do Opportunity to lead key engineering and product decisions Actively shipping production code for the Speechify iOS app Work within a dedicated product team Participate in product discussions to shape the product roadmap Maintain and enhance the existing complex app architecture An Ideal Candidate Should Have Experience. You've worked on products that scaled to a large user base Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down Technical skills. Swift, SwiftUI Technical Requirements: Swift Programming Language SwiftUI experience Experience in Multithreading Programming Working with CI/CD infrastructure Experience with Fastlane SOLID principles, the ability to write every single class according to SOLID Experience with Git and understanding of different Git strategies What We offer: A fast-growing environment where you can help shape the company and product An entrepreneurial crew that supports risk, intuition, and hustle The opportunity to make a big impact in a transformative industry A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio Think you’re a good fit for this job?&nbsp; Tell us more about yourself and why you're interested in the role when you apply. And don’t forget to include links to your portfolio and LinkedIn. Not looking but know someone who would make a great fit?&nbsp; Refer them!&nbsp; Speechify is committed to a diverse and inclusive workplace.&nbsp; Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-    "url": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "swift",
-      "ios",
-      "swiftui",
-      "git"
-    ],
-    "tags": [
-      "programming",
-      "Front-End Programming"
-    ],
-    "posted_at": "2025-07-09T15:35:11.000Z",
-    "fetched_at": "2026-05-05T13:01:11.822Z",
-    "raw": {
-      "title": "Speechify Inc: Software Engineer, iOS Core Product",
-      "region": "Anywhere in the World",
-      "category": "Front-End Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> Florida\n    <br /><strong>URL:</strong> <a href=\"http://www.speechify.com\">http://www.speechify.com</a>\n</p>\n\n<p><strong>Overview</strong></p>\n<p>With the growth of our iOS app, being the #18 productivity app in the App Store category and also our recent recognition as Apple's 2025 Design Award for inclusivity, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &nbsp;&nbsp;</p>\n<p>This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.</p>\n<p>We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p>\n<p>Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p>\n<p><strong>What Yo</strong><strong>u’</strong><strong>ll Do</strong></p>\n<ul>\n<li>Opportunity to lead key engineering and product decisions</li>\n<li>Actively shipping production code for the Speechify iOS app</li>\n<li>Work within a dedicated product team</li>\n<li>Participate in product discussions to shape the product roadmap</li>\n<li>Maintain and enhance the existing complex app architecture</li>\n</ul>\n<p><strong>An Ideal Candidate Should Have</strong></p>\n<ul>\n<li>Experience. You've worked on products that scaled to a large user base</li>\n<li>Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product</li>\n<li>Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience</li>\n<li>Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction</li>\n<li>Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time</li>\n<li>Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down</li>\n<li>Technical skills. Swift, SwiftUI</li>\n</ul>\n<p><strong>Technical Requirements:</strong></p>\n<ul>\n<li>Swift Programming Language</li>\n<li>SwiftUI experience</li>\n<li>Experience in Multithreading Programming</li>\n<li>Working with CI/CD infrastructure</li>\n<li>Experience with Fastlane</li>\n<li>SOLID principles, the ability to write every single class according to SOLID</li>\n<li>Experience with Git and understanding of different Git strategies</li>\n</ul>\n<p><strong>What We offer:</strong></p>\n<ul>\n<li>A fast-growing environment where you can help shape the company and product</li>\n<li>An entrepreneurial crew that supports risk, intuition, and hustle</li>\n<li>The opportunity to make a big impact in a transformative industry</li>\n<li>A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture</li>\n<li>Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives</li>\n<li>Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world</li>\n<li>Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio</li>\n</ul>\n<p><strong>Think you’re a good fit for this job?&nbsp;</strong></p>\n<p>Tell us more about yourself and why you're interested in the role when you apply.<br>And don’t forget to include links to your portfolio and LinkedIn.</p>\n<p><strong>Not looking but know someone who would make a great fit?&nbsp;</strong></p>\n<p>Refer them!&nbsp;</p>\n<p><strong>Speechify is committed to a diverse and inclusive workplace.&nbsp;</strong></p>\n<p>Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product\">https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</a></p>",
-      "pubDate": "Wed, 09 Jul 2025 15:35:11 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-      "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product"
     }
   },
   {
@@ -1025,7 +1040,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T20:33:32.000Z",
-    "fetched_at": "2026-05-05T13:01:12.106Z",
+    "fetched_at": "2026-05-05T18:59:26.090Z",
     "raw": {
       "title": "Avahi: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1075,7 +1090,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T20:32:37.000Z",
-    "fetched_at": "2026-05-05T13:01:12.107Z",
+    "fetched_at": "2026-05-05T18:59:26.091Z",
     "raw": {
       "title": "Mutt Data: Devops",
       "region": "Anywhere in the World",
@@ -1131,7 +1146,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T20:32:03.000Z",
-    "fetched_at": "2026-05-05T13:01:12.108Z",
+    "fetched_at": "2026-05-05T18:59:26.092Z",
     "raw": {
       "title": "Qventus: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1179,7 +1194,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T20:31:23.000Z",
-    "fetched_at": "2026-05-05T13:01:12.109Z",
+    "fetched_at": "2026-05-05T18:59:26.093Z",
     "raw": {
       "title": "Bugcrowd: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1224,7 +1239,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T17:38:03.000Z",
-    "fetched_at": "2026-05-05T13:01:12.110Z",
+    "fetched_at": "2026-05-05T18:59:26.093Z",
     "raw": {
       "title": "Rhino Partners: DevOps Engineer (Remote)",
       "region": "Anywhere in the World",
@@ -1273,7 +1288,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T17:37:55.000Z",
-    "fetched_at": "2026-05-05T13:01:12.111Z",
+    "fetched_at": "2026-05-05T18:59:26.094Z",
     "raw": {
       "title": "Zayzoon: Senior DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1325,7 +1340,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T17:37:31.000Z",
-    "fetched_at": "2026-05-05T13:01:12.112Z",
+    "fetched_at": "2026-05-05T18:59:26.095Z",
     "raw": {
       "title": "Woliba: Senior Devops Engineer",
       "region": "Anywhere in the World",
@@ -1369,7 +1384,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T17:37:17.000Z",
-    "fetched_at": "2026-05-05T13:01:12.112Z",
+    "fetched_at": "2026-05-05T18:59:26.096Z",
     "raw": {
       "title": "Jahnel Group: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1418,7 +1433,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-30T17:36:42.000Z",
-    "fetched_at": "2026-05-05T13:01:12.114Z",
+    "fetched_at": "2026-05-05T18:59:26.097Z",
     "raw": {
       "title": "Atria Physician Practice New York Pc: Staff Software Engineer, Product",
       "region": "Anywhere in the World",
@@ -1465,7 +1480,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T20:31:17.000Z",
-    "fetched_at": "2026-05-05T13:01:12.115Z",
+    "fetched_at": "2026-05-05T18:59:26.098Z",
     "raw": {
       "title": "Kasha: Senior DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1511,7 +1526,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T20:31:11.000Z",
-    "fetched_at": "2026-05-05T13:01:12.116Z",
+    "fetched_at": "2026-05-05T18:59:26.099Z",
     "raw": {
       "title": "Vexxhost: OpenStack Cloud Engineer (DevOps)",
       "region": "Anywhere in the World",
@@ -1563,7 +1578,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T08:34:13.000Z",
-    "fetched_at": "2026-05-05T13:01:12.116Z",
+    "fetched_at": "2026-05-05T18:59:26.099Z",
     "raw": {
       "title": "Interop Labs: DevOps Lead",
       "region": "Anywhere in the World",
@@ -1622,7 +1637,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T08:33:22.000Z",
-    "fetched_at": "2026-05-05T13:01:12.117Z",
+    "fetched_at": "2026-05-05T18:59:26.100Z",
     "raw": {
       "title": "Careers - Think Digitally: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1673,7 +1688,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T08:33:12.000Z",
-    "fetched_at": "2026-05-05T13:01:12.117Z",
+    "fetched_at": "2026-05-05T18:59:26.100Z",
     "raw": {
       "title": "Cloud Counselage Pvt Ltd: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1727,7 +1742,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T08:33:06.000Z",
-    "fetched_at": "2026-05-05T13:01:12.118Z",
+    "fetched_at": "2026-05-05T18:59:26.101Z",
     "raw": {
       "title": "Tikal: Senior DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1780,7 +1795,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T08:32:50.000Z",
-    "fetched_at": "2026-05-05T13:01:12.119Z",
+    "fetched_at": "2026-05-05T18:59:26.101Z",
     "raw": {
       "title": "Blink Ops: DevOps Team Lead",
       "region": "Anywhere in the World",
@@ -1825,7 +1840,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T08:32:22.000Z",
-    "fetched_at": "2026-05-05T13:01:12.119Z",
+    "fetched_at": "2026-05-05T18:59:26.102Z",
     "raw": {
       "title": "Artificial Solutions: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1866,7 +1881,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-29T08:32:10.000Z",
-    "fetched_at": "2026-05-05T13:01:12.120Z",
+    "fetched_at": "2026-05-05T18:59:26.103Z",
     "raw": {
       "title": "Miaplaza: Senior DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1912,7 +1927,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-25T19:55:58.000Z",
-    "fetched_at": "2026-05-05T13:01:12.121Z",
+    "fetched_at": "2026-05-05T18:59:26.103Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/4958/logo.gif",
@@ -1962,7 +1977,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-22T02:29:49.000Z",
-    "fetched_at": "2026-05-05T13:01:12.121Z",
+    "fetched_at": "2026-05-05T18:59:26.103Z",
     "raw": {
       "title": "Vercel: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2034,7 +2049,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-15T10:42:33.000Z",
-    "fetched_at": "2026-05-05T13:01:12.122Z",
+    "fetched_at": "2026-05-05T18:59:26.104Z",
     "raw": {
       "title": "Lemon.io: Senior DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2081,7 +2096,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-09T20:32:14.000Z",
-    "fetched_at": "2026-05-05T13:01:12.123Z",
+    "fetched_at": "2026-05-05T18:59:26.105Z",
     "raw": {
       "title": "3pillar: Senior Technical Lead DevOps - AWS",
       "region": "Anywhere in the World",
@@ -2139,7 +2154,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-08T20:31:07.000Z",
-    "fetched_at": "2026-05-05T13:01:12.125Z",
+    "fetched_at": "2026-05-05T18:59:26.106Z",
     "raw": {
       "title": "Pathway: Senior ML Infrastructure / DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2192,7 +2207,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-08T07:39:58.000Z",
-    "fetched_at": "2026-05-05T13:01:12.125Z",
+    "fetched_at": "2026-05-05T18:59:26.107Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0064/2896/logo.gif",
@@ -2244,7 +2259,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:35:10.000Z",
-    "fetched_at": "2026-05-05T13:01:12.126Z",
+    "fetched_at": "2026-05-05T18:59:26.108Z",
     "raw": {
       "title": "Exnaton Ag: Fullstack Engineer (with DevOps focus) (f/m/d) at climate tech start-up",
       "region": "Anywhere in the World",
@@ -2295,7 +2310,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:34:02.000Z",
-    "fetched_at": "2026-05-05T13:01:12.127Z",
+    "fetched_at": "2026-05-05T18:59:26.109Z",
     "raw": {
       "title": "Evolutioniq: Senior DevOps Engineer (CloudInfra)",
       "region": "Anywhere in the World",
@@ -2341,7 +2356,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:33:50.000Z",
-    "fetched_at": "2026-05-05T13:01:12.129Z",
+    "fetched_at": "2026-05-05T18:59:26.110Z",
     "raw": {
       "title": "Blockchain & Climate Institute/ BCI America Inc.: UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
       "region": "Anywhere in the World",
@@ -2387,7 +2402,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:33:45.000Z",
-    "fetched_at": "2026-05-05T13:01:12.130Z",
+    "fetched_at": "2026-05-05T18:59:26.112Z",
     "raw": {
       "title": "Blockchain & Climate Institute/ Bci America Inc.: UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
       "region": "Anywhere in the World",
@@ -2436,7 +2451,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-07T20:31:29.000Z",
-    "fetched_at": "2026-05-05T13:01:12.132Z",
+    "fetched_at": "2026-05-05T18:59:26.113Z",
     "raw": {
       "title": "blau direkt: Senior DevOps Engineer (m/w/d)",
       "region": "Anywhere in the World",
@@ -2485,7 +2500,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:34.000Z",
-    "fetched_at": "2026-05-05T13:01:12.133Z",
+    "fetched_at": "2026-05-05T18:59:26.114Z",
     "raw": {
       "title": "Marbis: Frontend DevOps Engineer - Full or Part-time (m/f/x)",
       "region": "Anywhere in the World",
@@ -2535,7 +2550,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:34:22.000Z",
-    "fetched_at": "2026-05-05T13:01:12.134Z",
+    "fetched_at": "2026-05-05T18:59:26.115Z",
     "raw": {
       "title": "Greenbone: Senior DevOps Engineer - Delivery & Infrastructure Automation (m/f/d)",
       "region": "Anywhere in the World",
@@ -2577,7 +2592,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:33:23.000Z",
-    "fetched_at": "2026-05-05T13:01:12.135Z",
+    "fetched_at": "2026-05-05T18:59:26.115Z",
     "raw": {
       "title": "Sophos: Senior DevOps Engineer 2 (Power Platform Engineer)",
       "region": "Anywhere in the World",
@@ -2621,7 +2636,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:33:14.000Z",
-    "fetched_at": "2026-05-05T13:01:12.136Z",
+    "fetched_at": "2026-05-05T18:59:26.116Z",
     "raw": {
       "title": "3pillar: DevOps Technical Lead",
       "region": "Anywhere in the World",
@@ -2669,7 +2684,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:53.000Z",
-    "fetched_at": "2026-05-05T13:01:12.137Z",
+    "fetched_at": "2026-05-05T18:59:26.117Z",
     "raw": {
       "title": "Nord Security: DevOps Engineer | Mid-Senior | Saily",
       "region": "Anywhere in the World",
@@ -2717,7 +2732,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T20:32:53.000Z",
-    "fetched_at": "2026-05-05T13:01:12.138Z",
+    "fetched_at": "2026-05-05T18:59:26.118Z",
     "raw": {
       "title": "Nord Security: DevOps Engineer | Mid-Senior | Saily",
       "region": "Anywhere in the World",
@@ -2765,7 +2780,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:04:31.000Z",
-    "fetched_at": "2026-05-05T13:01:12.139Z",
+    "fetched_at": "2026-05-05T18:59:26.119Z",
     "raw": {
       "title": "Zollsoft Gmbh: DevOps Engineer (Homeoffice möglich)",
       "region": "Anywhere in the World",
@@ -2810,7 +2825,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:04:03.000Z",
-    "fetched_at": "2026-05-05T13:01:12.140Z",
+    "fetched_at": "2026-05-05T18:59:26.120Z",
     "raw": {
       "title": "Workidentity: DevOps Engineer (gn) / full-remote",
       "region": "Anywhere in the World",
@@ -2856,7 +2871,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:03:38.000Z",
-    "fetched_at": "2026-05-05T13:01:12.141Z",
+    "fetched_at": "2026-05-05T18:59:26.121Z",
     "raw": {
       "title": "Nscon Network, Security & Consulting Gmbh: (Senior) DevOps Engineer / Consultant (m/w/d)",
       "region": "Anywhere in the World",
@@ -2904,7 +2919,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:17.000Z",
-    "fetched_at": "2026-05-05T13:01:12.141Z",
+    "fetched_at": "2026-05-05T18:59:26.121Z",
     "raw": {
       "title": "Spectrum It Recruitment: Senior GCP DevOps Engineer",
       "region": "Anywhere in the World",
@@ -2961,7 +2976,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:14.000Z",
-    "fetched_at": "2026-05-05T13:01:12.142Z",
+    "fetched_at": "2026-05-05T18:59:26.122Z",
     "raw": {
       "title": "Cardano Foundation: DevOps Engineer - Decentralized Identity Solutions",
       "region": "Anywhere in the World",
@@ -3000,7 +3015,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-05-05T13:01:12.143Z",
+    "fetched_at": "2026-05-05T18:59:26.123Z",
     "raw": {
       "title": "Adistec: Product Sales Manager -Cybersecurity - Jamaica",
       "region": "Anywhere in the World",
@@ -3043,7 +3058,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-05-05T13:01:12.143Z",
+    "fetched_at": "2026-05-05T18:59:26.123Z",
     "raw": {
       "title": "Espritek: Ingénieur Zscaler Confirmé - Design & Implémentation H/F",
       "region": "Anywhere in the World",
@@ -3084,7 +3099,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-05-05T13:01:12.144Z",
+    "fetched_at": "2026-05-05T18:59:26.124Z",
     "raw": {
       "title": "Amadeus: Senior Sre - DevOps H/F",
       "region": "Anywhere in the World",
@@ -3130,7 +3145,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:02:13.000Z",
-    "fetched_at": "2026-05-05T13:01:12.146Z",
+    "fetched_at": "2026-05-05T18:59:26.125Z",
     "raw": {
       "title": "Mirakl: Platform And Product Security Officer H/F",
       "region": "Anywhere in the World",
@@ -3169,7 +3184,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-04-06T18:00:38.000Z",
-    "fetched_at": "2026-05-05T13:01:12.146Z",
+    "fetched_at": "2026-05-05T18:59:26.126Z",
     "raw": {
       "title": "Adistec: Product Sales Manager -Cybersecurity - Dominican Republic",
       "region": "Anywhere in the World",
