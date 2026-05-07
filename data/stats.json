@@ -3,17 +3,18 @@
   "bySource": {
     "arbeitnow": 92,
     "workingnomads": 19,
-    "jobicy": 82,
+    "jobicy": 81,
     "remoteok": 95,
     "remotive": 19,
     "wwr": 52,
-    "hn": 473
+    "hn": 473,
+    "himalayas": 1
   },
   "byTechStack": {
     "supabase": 2,
-    "aws": 136,
+    "aws": 135,
     "gcp": 48,
-    "kubernetes": 94,
+    "kubernetes": 93,
     "javascript": 130,
     "typescript": 90,
     "python": 159,
@@ -23,26 +24,26 @@
     "git": 25,
     "terraform": 50,
     "dbt": 2,
-    "java": 69,
+    "java": 68,
     "kotlin": 25,
     "vue": 32,
     "nestjs": 3,
-    "spring": 23,
+    "spring": 22,
     "selenium": 5,
     "machine-learning": 113,
     "julia": 4,
     "figma": 10,
     "pandas": 5,
-    "docker": 71,
+    "docker": 70,
     "jenkins": 16,
     "gitlab": 18,
-    "linux": 42,
-    "azure": 42,
+    "linux": 41,
+    "azure": 41,
     "segment": 8,
     "backbone": 8,
     "dynamodb": 4,
     "spark": 20,
-    "oracle": 11,
+    "oracle": 10,
     "swift": 18,
     "ray": 4,
     "ios": 46,
@@ -74,7 +75,6 @@
     "bash": 14,
     "airflow": 7,
     "opencv": 1,
-    "rest": 18,
     "sqlite": 3,
     "graphql": 33,
     "perl": 2,
@@ -86,6 +86,7 @@
     "grafana": 16,
     "oauth": 3,
     "numpy": 3,
+    "rest": 17,
     "rocket": 1,
     "circleci": 5,
     "helm": 10,
@@ -172,9 +173,9 @@
     "sendgrid": 1
   },
   "byContractType": {
+    "full-time": 662,
     "contract": 11,
     "freelance": 15,
-    "full-time": 661,
     "part-time": 3
   },
   "byRemoteType": {
@@ -186,18 +187,18 @@
     "under50k": 103,
     "50k-100k": 10,
     "100k-150k": 24,
-    "150k-200k": 18,
+    "150k-200k": 19,
     "over200k": 5,
-    "unknown": 672
+    "unknown": 671
   },
-  "lastUpdated": "2026-05-07T01:25:37.911Z",
+  "lastUpdated": "2026-05-07T08:07:37.960Z",
   "jobsLast7Days": [
     19,
     10,
-    5,
+    4,
     14,
     33,
-    99,
-    4
+    96,
+    7
   ]
 }
