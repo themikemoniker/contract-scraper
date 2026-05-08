@@ -1,5 +1,5 @@
 {
-  "totalJobs": 832,
+  "totalJobs": 833,
   "bySource": {
     "arbeitnow": 92,
     "jobicy": 83,
@@ -7,9 +7,12 @@
     "remoteok": 96,
     "remotive": 20,
     "wwr": 48,
-    "hn": 473
+    "hn": 473,
+    "himalayas": 1
   },
   "byTechStack": {
+    "postgresql": 85,
+    "mysql": 27,
     "go": 24,
     "java": 64,
     "kotlin": 23,
@@ -35,7 +38,6 @@
     "nextjs": 16,
     "backbone": 8,
     "nodejs": 70,
-    "postgresql": 84,
     "vercel": 4,
     "langchain": 7,
     "airflow": 8,
@@ -98,7 +100,6 @@
     "sqlite": 3,
     "graphql": 35,
     "perl": 2,
-    "mysql": 26,
     "c++": 1,
     "oauth": 3,
     "numpy": 3,
@@ -172,13 +173,13 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 651,
+    "full-time": 652,
     "contract": 14,
     "freelance": 10,
     "part-time": 4
   },
   "byRemoteType": {
-    "remote": 457,
+    "remote": 458,
     "onsite": 228,
     "hybrid": 1
   },
@@ -188,16 +189,16 @@
     "100k-150k": 23,
     "150k-200k": 17,
     "over200k": 6,
-    "unknown": 671
+    "unknown": 672
   },
-  "lastUpdated": "2026-05-08T01:28:57.097Z",
+  "lastUpdated": "2026-05-08T07:11:17.408Z",
   "jobsLast7Days": [
     10,
     4,
     14,
     33,
     21,
-    106,
-    0
+    105,
+    1
   ]
 }
