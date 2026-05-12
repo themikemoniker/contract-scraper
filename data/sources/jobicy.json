@@ -1,5 +1,117 @@
 [
   {
+    "id": "jobicy:143685",
+    "platform": "jobicy",
+    "external_id": "143685",
+    "title": "Senior Software Engineer",
+    "company": "Defense Unicorns",
+    "description": "Role Description: Defense Unicorns is seeking a Senior Full-Stack Engineer to join our Fleet team, focused on building and evolving Fleet Management and Edge Management capabilities within the UDS platform. This role is centered on developing complex, data-driven interfaces that allow users to understand, manage, and operate distributed systems across edge and remote environments. These are not simple CRUD interfaces—they are operational control surfaces for real-world systems. You will own and drive the frontend experience, while working across the stack to ensure tight alignment between UI behavior, APIs, and underlying system capabilities. You’ll collaborate closely with backend engineers, platform engineers, and designers to build responsive, reliable, and intuitive experiences on top of complex APIs and distributed system state. While frontend-focused, this role requires strong full-stack awareness—understanding how data flows through systems, how APIs are designed, and how frontend decisions impact system behavior, especially in asynchronous and distributed environments. What You’ll Work On: Building interfaces for managing individual assets and large fleets of systems Designing and implementing data-rich UIs that reflect real-time and distributed system state Developing workflows for deploying, updating, and monitoring systems across environments Handling complex state management and asynchronous data flows Integrating frontend applications with backend APIs and platform services Improving usability and clarity for technically complex operations Partnering with UX to translate complex system behavior into intuitive user experiences Responsibilities: Design and build scalable, maintainable frontend applications Collaborate with product, UX, and backend engineers to define and implement features Translate complex backend capabilities into clear and usable interfaces Write clean, testable, and well-structured code Develop and maintain automated tests (unit, integration, and end-to-end) Contribute to frontend architecture and technical decisions Identify and improve performance, reliability, and usability issues Work effectively in a remote, asynchronous environment Travel Expectations/Requirements: 0-5% The listed responsibilities are not exhaustive and additional responsibilities may be assigned based on the evolving needs of the organization. We are seeking a dynamic individual who is able to adapt and take on new responsibilities as they arise. Preferred Experience and Qualifications: 5+ years of experience in frontend or fullstack development Strong proficiency with modern frontend frameworks (Svelte or React preferred; Angular or similar frameworks acceptable) Strong familiarity with modern frontend tooling and build system best practices Experience with testing strategies across frontend applications Experience building data-intensive or state-heavy applications Strong understanding of API design and integration (REST, GraphQL, etc.) Experience working closely with backend systems and distributed architectures Strong problem-solving skills and ability to navigate complex systems Excellent communication and collaboration skills Nice to Have: Experience building interfaces for infrastructure, DevOps, or platform systems Familiarity with Kubernetes, containers, or distributed systems concepts Experience designing for constrained or unreliable network environments Contributions to open source or developer tooling projects Experience with CI/CD and deployment pipelines Full compensation packages are based on candidate experience. Compensation ranges are established using national benchmarking data and apply across all geographic locations within the United States. Remote - USA$148,750—$201,250 USD Who We Are Defense Unicorns delivers mission value by streamlining software delivery so our customers can focus on the most important challenges. We share a vision of freedom and security for the advancement of progress and innovation. Our commitment to this vision, and to our mission-driven customers, means a commitment to speed, user experience and optionality, without compromising security. Our team is composed of innovators, software engineers, and veterans with decades of experience delivering technology programs across the federal market. What We Do We create and deliver secure solutions for continuous software integration and delivery. Defense Unicorns consolidates the best practices for security pipelines, testing, and deployment automation in order to meet the high security requirements valued by mission owners. Our solutions are agnostic by design and we believe that growing a robust ecosystem of secure, cloud-native software solutions can help enterprise customers inside and outside the federal market buy and integrate software more easily. Who We Serve Defense Unicorns’ customers are mission-focused leaders across public and private enterprises. We proudly support defense and civil agencies across the U.S. government and we work closely with the creators of leading-edge software solutions to deliver value to the mission-owner by improving the security and consumability of commercial software products. What We Work On Kubernetes Cloud Environments (AWS/GCP and Azure) Infrastructure-as-code (like Terraform/Pulumi) Continuous Delivery and automation tooling GitOps Containers CNCF projects and open source products and packages Helm/Kustomize-Value Stream Mapping Building and improving security delivery Building Kubernetes and cloud native applications Benefits Our Unicorns Enjoy Health: Medical/Dental/Vision Premiums are 100% Company Paid Health Savings Account Life Insurance Disability Insurance Financial: 401k Retirement Plan Company Stock Options Home Office Budget Leave: We offer all full-time Unicorns Flexible Time Off (FTO) plus all Federal Holidays, one week for Thanksgiving, and two weeks for Christmas and New Year’s Paid Parental Leave Learning: Reimbursement for approved trainings/subscriptions Conferences (travel, lodging, and fees) Don’t have all the preferred experience or qualifications? Studies show that underrepresented groups like women and people of color are less likely to apply to jobs if they don't meet every requirement listed. At Defense Unicorns, we're committed to diversity. If you're enthusiastic about the role but don't match every criteria, we encourage you to apply. You could be the perfect fit for this or another role! Defense Unicorns is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law. CCPA DISCLOSURE",
+    "url": "https://jobicy.com/jobs/143685-senior-software-engineer-12",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "react",
+      "angular",
+      "svelte",
+      "aws",
+      "gcp",
+      "azure",
+      "kubernetes",
+      "terraform",
+      "pulumi",
+      "helm",
+      "graphql"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-05-12T15:14:05+00:00",
+    "fetched_at": "2026-05-12T19:23:56.164Z",
+    "raw": {
+      "id": 143685,
+      "url": "https://jobicy.com/jobs/143685-senior-software-engineer-12",
+      "jobSlug": "143685-senior-software-engineer-12",
+      "jobTitle": "Senior Software Engineer",
+      "companyName": "Defense Unicorns",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/44a44784-221-1.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Role Description: Defense Unicorns is seeking a Senior Full-Stack Engineer to join our Fleet team, focused on building and evolving Fleet Management and Edge Management capabilities within the UDS platform.This role...",
+      "jobDescription": "<h2><strong>Role Description: </strong></h2>\n<p>Defense Unicorns is seeking a Senior Full-Stack Engineer to join our Fleet team, focused on building and evolving Fleet Management and Edge Management capabilities within the UDS platform.</p>\n<p>This role is centered on developing complex, data-driven interfaces that allow users to understand, manage, and operate distributed systems across edge and remote environments. These are not simple CRUD interfaces—they are operational control surfaces for real-world systems.</p>\n<p>You will own and drive the frontend experience, while working across the stack to ensure tight alignment between UI behavior, APIs, and underlying system capabilities.</p>\n<p>You’ll collaborate closely with backend engineers, platform engineers, and designers to build responsive, reliable, and intuitive experiences on top of complex APIs and distributed system state.</p>\n<p>While frontend-focused, this role requires strong full-stack awareness—understanding how data flows through systems, how APIs are designed, and how frontend decisions impact system behavior, especially in asynchronous and distributed environments.</p>\n<h2><strong>What You’ll Work On:</strong></h2>\n<ul>\n<li>Building interfaces for managing individual assets and large fleets of systems</li>\n<li>Designing and implementing data-rich UIs that reflect real-time and distributed system state</li>\n<li>Developing workflows for deploying, updating, and monitoring systems across environments</li>\n<li>Handling complex state management and asynchronous data flows</li>\n<li>Integrating frontend applications with backend APIs and platform services</li>\n<li>Improving usability and clarity for technically complex operations</li>\n<li>Partnering with UX to translate complex system behavior into intuitive user experiences</li>\n</ul>\n<h2><strong>Responsibilities: </strong></h2>\n<ul>\n<li>Design and build scalable, maintainable frontend applications</li>\n<li>Collaborate with product, UX, and backend engineers to define and implement features</li>\n<li>Translate complex backend capabilities into clear and usable interfaces</li>\n<li>Write clean, testable, and well-structured code</li>\n<li>Develop and maintain automated tests (unit, integration, and end-to-end)</li>\n<li>Contribute to frontend architecture and technical decisions</li>\n<li>Identify and improve performance, reliability, and usability issues</li>\n<li>Work effectively in a remote, asynchronous environment</li>\n</ul>\n<p><strong>Travel Expectations/Requirements:</strong> 0-5%</p>\n<p><strong>The listed responsibilities are not exhaustive and additional responsibilities may be assigned based on the evolving needs of the organization. We are seeking a dynamic individual who is able to adapt and take on new responsibilities as they arise. </strong></p>\n<h2><strong>Preferred Experience and Qualifications:</strong></h2>\n<ul>\n<li>5+ years of experience in <strong>frontend</strong> or fullstack development</li>\n<li>Strong proficiency with modern frontend frameworks (Svelte or React preferred; Angular or similar frameworks acceptable)</li>\n<li>Strong familiarity with modern frontend tooling and build system best practices</li>\n<li>Experience with testing strategies across frontend applications</li>\n<li>Experience building data-intensive or state-heavy applications</li>\n<li>Strong understanding of API design and integration (REST, GraphQL, etc.)</li>\n<li>Experience working closely with backend systems and distributed architectures</li>\n<li>Strong problem-solving skills and ability to navigate complex systems</li>\n<li>Excellent communication and collaboration skills</li>\n</ul>\n<h2><strong>Nice to Have:</strong></h2>\n<ul>\n<li>Experience building interfaces for infrastructure, DevOps, or platform systems</li>\n<li>Familiarity with Kubernetes, containers, or distributed systems concepts</li>\n<li>Experience designing for constrained or unreliable network environments</li>\n<li>Contributions to open source or developer tooling projects</li>\n<li>Experience with CI/CD and deployment pipelines</li>\n</ul>\n<p>Full compensation packages are based on candidate experience. Compensation ranges are established using national benchmarking data and apply across all geographic locations within the United States. </p>\n<p>Remote - USA$148,750—$201,250 USD</p>\n<h2>Who We Are</h2>\n<p>Defense Unicorns delivers mission value by streamlining software delivery so our customers can focus on the most important challenges. We share a vision of freedom and security for the advancement of progress and innovation. Our commitment to this vision, and to our mission-driven customers, means a commitment to speed, user experience and optionality, without compromising security. Our team is composed of innovators, software engineers, and veterans with decades of experience delivering technology programs across the federal market.</p>\n<h2>What We Do</h2>\n<p>We create and deliver secure solutions for continuous software integration and delivery. Defense Unicorns consolidates the best practices for security pipelines, testing, and deployment automation in order to meet the high security requirements valued by mission owners. Our solutions are agnostic by design and we believe that growing a robust ecosystem of secure, cloud-native software solutions can help enterprise customers inside and outside the federal market buy and integrate software more easily.</p>\n<h2>Who We Serve</h2>\n<p>Defense Unicorns’ customers are mission-focused leaders across public and private enterprises. We proudly support defense and civil agencies across the U.S. government and we work closely with the creators of leading-edge software solutions to deliver value to the mission-owner by improving the security and consumability of commercial software products.</p>\n<h2><strong>What We Work On</strong></h2>\n<ul>\n<li>Kubernetes</li>\n<li>Cloud Environments (AWS/GCP and Azure)</li>\n<li>Infrastructure-as-code (like Terraform/Pulumi)</li>\n<li>Continuous Delivery and automation tooling</li>\n<li>GitOps</li>\n<li>Containers</li>\n<li>CNCF projects and open source products and packages</li>\n<li>Helm/Kustomize-Value Stream Mapping</li>\n<li>Building and improving security delivery</li>\n<li>Building Kubernetes and cloud native applications</li>\n</ul>\n<h2><strong>Benefits Our Unicorns Enjoy</strong></h2>\n<h3>Health:</h3>\n<ul>\n<li>Medical/Dental/Vision</li>\n<li>Premiums are 100% Company Paid</li>\n<li>Health Savings Account</li>\n<li>Life Insurance</li>\n<li>Disability Insurance</li>\n</ul>\n<h3>Financial:</h3>\n<ul>\n<li>401k Retirement Plan</li>\n<li>Company Stock Options</li>\n<li>Home Office Budget</li>\n</ul>\n<h3>Leave:</h3>\n<ul>\n<li>We offer all full-time Unicorns Flexible Time Off (FTO) plus all Federal Holidays, one week for Thanksgiving, and two weeks for Christmas and New Year’s</li>\n<li>Paid Parental Leave</li>\n</ul>\n<h3>Learning:</h3>\n<ul>\n<li>Reimbursement for approved trainings/subscriptions</li>\n<li>Conferences (travel, lodging, and fees)</li>\n</ul>\n<p><em>Don’t have all the preferred experience or qualifications? Studies show that underrepresented groups like women and people of color are less likely to apply to jobs if they don't meet every requirement listed. </em></p>\n<p><em>At Defense Unicorns, we're committed to diversity. If you're enthusiastic about the role but don't match every criteria, we encourage you to apply. You could be the perfect fit for this or another role! Defense Unicorns is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.</em></p>\n<p><a href=\"https://drive.google.com/file/d/1DzT00w2uadYw9TfdorHuEsvPccZvn_g4/view?usp=drive_link\" target=\"_blank\" rel=\"nofollow ugc noopener\"><strong>CCPA DISCLOSURE</strong></a></p>",
+      "pubDate": "2026-05-12T15:14:05+00:00",
+      "salaryMin": 148750,
+      "salaryMax": 201250,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:143676",
+    "platform": "jobicy",
+    "external_id": "143676",
+    "title": "Software Developer III",
+    "company": "Dayforce",
+    "description": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific Japan (APJ) region.Our award-winning Cloud HCM platform offers a unified solution database and continuous calculation engine, driving efficiency, productivity and compliance for the global workforce.Our brand promise - Makes Work Life Better™ - Reflects our commitment to employees, customers, partners and communities globally.Citizenship Requirement for US Candidates: • Must be a US citizen • Ability to obtain US security clearanceAbout the opportunityThe Dayforce Product Development team is looking for an intelligent Software Developer III to create the industry’s next generation Human Capital Management (HCM) solutions. We are offering an opportunity to reinvent HCM and develop award winning and innovative solutions that challenge the industry perception of what an HCM solution can do. As a Developer on our Global Payroll team, you will be working on our ground-breaking solution that helps companies increase their efficiencies through paying employees accurately and on time.Your impact will be evident through your effective participation in the entire lifecycle of our software including design, analysis, prototyping, development, testing and support of our products. You will work closely and collaborate with clients, prospects, implementation partners, and Dayforce personnel to envision and deliver the required functionality.If you are a technology enthusiast, have passion for creating great software, want to see your creation utilized by thousands of people all over the world, and possess one or more of the following qualifications, we want to talk to you.What you’ll get to doAs a Software Developer III on our Payroll team, you will be working on our ground-breaking solution that helps companies increase their efficiencies through business logic and services. You’ll also be part of a team who is moving code from the monolith and moving to different services!Duties include but are not limited to: • Creating microservices • Hands on development with C#, SQL, Kafka, and Azure • Participate in research, design, development for new initiatives • Daily scrum activities • Team and individual development projectsSkills and experience we value • In-depth working experience with C# and .NET Framework • Proficiency with T-SQL and an understanding of database systems • Experience with Kubernetes and Containers • Experience with public cloud infrastructure such as Azure • Deep knowledge of object-oriented design and development • Experienced working in an Agile scrum team as a key contributor and a team player • Excels in taking ownership of design, build and quality for assigned tasks and issues until completion • University level Computer science or computer engineering degree or equivalentWhat would make you really stand out • Experience building highly performant and scalable applications • Experience with Kakfa and Pub/Sub related tools • Demonstrable knowledge of: MongoDB, POD scaling, RESTful API, JSONWhat’s in it for youDayforce is fueled by the diversity of our talented employees. We are an equal opportunity employer and consider and embrace ALL individuals and what makes them unique. We believe our employees should be happy and healthy, with peace of mind and a sense of fulfillment.We encourage individuals to apply based on their passions.Dayforce encourages personal and professional growth. We offer excellent time away from work programs, comprehensive wellness initiatives and recognition through competitive pay and benefits.With a commitment to community impact, including volunteer days and our charity, Dayforce Cares we provide opportunities for you to thrive both in your career and personal life. Our focus is not just on your job but on supporting you to be the best version of yourself.About the Salary RangesPlease note that the salary range mentioned in this job description should serve simply as a guide. The final compensation offered may vary based on a variety of factors, including bonuses and/or incentives, or a candidate’s experience, skills, budget and location. Our company is committed to providing a fair, equitable, and competitive package that reflects the value an individual brings to the organization.Fraudulent RecruitingBeware of fraudulent recruiting. Legitimate Dayforce contacts will use an @dayforce.com email address. We do not request money, checks, equipment orders, or sensitive personal data during the recruitment process. If you have been asked for any of the above, or believe you have been contacted by someone posing as a Dayforce employee, please refer to our fraudulent recruiting statement found here: https://www.dayforce.com/be-aware-of-recruiting-fraudDayforce actively monitors all job applications to ensure authenticity. Submissions determined to be fraudulent or misleading will be declined from the recruitment process#LI-Remote",
+    "url": "https://jobicy.com/jobs/143676-software-developer-iii",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "mongodb",
+      "azure",
+      "kubernetes",
+      "kafka",
+      "rest"
+    ],
+    "tags": [
+      "Programming"
+    ],
+    "posted_at": "2026-05-12T15:13:52+00:00",
+    "fetched_at": "2026-05-12T19:23:56.165Z",
+    "raw": {
+      "id": 143676,
+      "url": "https://jobicy.com/jobs/143676-software-developer-iii",
+      "jobSlug": "143676-software-developer-iii",
+      "jobTitle": "Software Developer III",
+      "companyName": "Dayforce",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/f6a2c6bc-221.png",
+      "jobIndustry": [
+        "Programming"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific...",
+      "jobDescription": "<p>Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific Japan (APJ) region.Our award-winning Cloud HCM platform offers a unified solution database and continuous calculation engine, driving efficiency, productivity and compliance for the global workforce.Our brand promise - Makes Work Life Better™ - Reflects our commitment to employees, customers, partners and communities globally.Citizenship Requirement for US Candidates:   • Must be a US citizen   • Ability to obtain US security clearanceAbout the opportunityThe Dayforce Product Development team is looking for an intelligent Software Developer III to create the industry’s next generation Human Capital Management (HCM) solutions. We are offering an opportunity to reinvent HCM and develop award winning and innovative solutions that challenge the industry perception of what an HCM solution can do. As a Developer on our Global Payroll team, you will be working on our ground-breaking solution that helps companies increase their efficiencies through paying employees accurately and on time.Your impact will be evident through your effective participation in the entire lifecycle of our software including design, analysis, prototyping, development, testing and support of our products. You will work closely and collaborate with clients, prospects, implementation partners, and Dayforce personnel to envision and deliver the required functionality.If you are a technology enthusiast, have passion for creating great software, want to see your creation utilized by thousands of people all over the world, and possess one or more of the following qualifications, we want to talk to you.What you’ll get to doAs a Software Developer III on our Payroll team, you will be working on our ground-breaking solution that helps companies increase their efficiencies through business logic and services. You’ll also be part of a team who is moving code from the monolith and moving to different services!Duties include but are not limited to:   • Creating microservices   • Hands on development with C#, SQL, Kafka, and Azure   • Participate in research, design, development for new initiatives   • Daily scrum activities   • Team and individual development projectsSkills and experience we value   • In-depth working experience with C# and .NET Framework   • Proficiency with T-SQL and an understanding of database systems   • Experience with Kubernetes and Containers   • Experience with public cloud infrastructure such as Azure   • Deep knowledge of object-oriented design and development   • Experienced working in an Agile scrum team as a key contributor and a team player   • Excels in taking ownership of design, build and quality for assigned tasks and issues until completion   • University level Computer science or computer engineering degree or equivalentWhat would make you really stand out   • Experience building highly performant and scalable applications   • Experience with Kakfa and Pub/Sub related tools   • Demonstrable knowledge of: MongoDB, POD scaling, RESTful API, JSONWhat’s in it for youDayforce is fueled by the diversity of our talented employees. We are an equal opportunity employer and consider and embrace ALL individuals and what makes them unique. We believe our employees should be happy and healthy, with peace of mind and a sense of fulfillment.We encourage individuals to apply based on their passions.Dayforce encourages personal and professional growth. We offer excellent time away from work programs, comprehensive wellness initiatives and recognition through competitive pay and benefits.With a commitment to community impact, including volunteer days and our charity, Dayforce Cares we provide opportunities for you to thrive both in your career and personal life. Our focus is not just on your job but on supporting you to be the best version of yourself.About the Salary RangesPlease note that the salary range mentioned in this job description should serve simply as a guide. The final compensation offered may vary based on a variety of factors, including bonuses and/or incentives, or a candidate’s experience, skills, budget and location. Our company is committed to providing a fair, equitable, and competitive package that reflects the value an individual brings to the organization.Fraudulent RecruitingBeware of fraudulent recruiting. Legitimate Dayforce contacts will use an @dayforce.com email address. We do not request money, checks, equipment orders, or sensitive personal data during the recruitment process. If you have been asked for any of the above, or believe you have been contacted by someone posing as a Dayforce employee, please refer to our fraudulent recruiting statement found here: https://www.dayforce.com/be-aware-of-recruiting-fraudDayforce actively monitors all job applications to ensure authenticity. Submissions determined to be fraudulent or misleading will be declined from the recruitment process#LI-Remote</p>",
+      "pubDate": "2026-05-12T15:13:52+00:00",
+      "salaryMin": 77100,
+      "salaryMax": 137600,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:143616",
     "platform": "jobicy",
     "external_id": "143616",
@@ -21,7 +133,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T17:16:01+00:00",
-    "fetched_at": "2026-05-12T13:28:41.664Z",
+    "fetched_at": "2026-05-12T19:23:56.166Z",
     "raw": {
       "id": 143616,
       "url": "https://jobicy.com/jobs/143616-staff-design-quality-assurance-engineer",
@@ -69,7 +181,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:06:02+00:00",
-    "fetched_at": "2026-05-12T13:28:41.666Z",
+    "fetched_at": "2026-05-12T19:23:56.167Z",
     "raw": {
       "id": 143576,
       "url": "https://jobicy.com/jobs/143576-solutions-architect-ai-infrastructure",
@@ -119,7 +231,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:06:01+00:00",
-    "fetched_at": "2026-05-12T13:28:41.667Z",
+    "fetched_at": "2026-05-12T19:23:56.167Z",
     "raw": {
       "id": 143575,
       "url": "https://jobicy.com/jobs/143575-solutions-architect-networking",
@@ -166,7 +278,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:05:59+00:00",
-    "fetched_at": "2026-05-12T13:28:41.668Z",
+    "fetched_at": "2026-05-12T19:23:56.169Z",
     "raw": {
       "id": 143574,
       "url": "https://jobicy.com/jobs/143574-senior-solution-architect-ai-infrastructure",
@@ -213,7 +325,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:05:58+00:00",
-    "fetched_at": "2026-05-12T13:28:41.669Z",
+    "fetched_at": "2026-05-12T19:23:56.170Z",
     "raw": {
       "id": 143573,
       "url": "https://jobicy.com/jobs/143573-senior-solutions-architect-networking-public-sector",
@@ -275,7 +387,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T10:47:20+00:00",
-    "fetched_at": "2026-05-12T13:28:41.671Z",
+    "fetched_at": "2026-05-12T19:23:56.171Z",
     "raw": {
       "id": 143542,
       "url": "https://jobicy.com/jobs/143542-senior-software-engineer-backend-growth-platform",
@@ -333,7 +445,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T10:47:18+00:00",
-    "fetched_at": "2026-05-12T13:28:41.672Z",
+    "fetched_at": "2026-05-12T19:23:56.173Z",
     "raw": {
       "id": 143541,
       "url": "https://jobicy.com/jobs/143541-senior-software-engineer-full-stack-growth-product",
@@ -385,7 +497,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T10:47:14+00:00",
-    "fetched_at": "2026-05-12T13:28:41.673Z",
+    "fetched_at": "2026-05-12T19:23:56.174Z",
     "raw": {
       "id": 143538,
       "url": "https://jobicy.com/jobs/143538-software-verification-engineer",
@@ -441,7 +553,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T10:47:11+00:00",
-    "fetched_at": "2026-05-12T13:28:41.674Z",
+    "fetched_at": "2026-05-12T19:23:56.174Z",
     "raw": {
       "id": 143536,
       "url": "https://jobicy.com/jobs/143536-freelance-agent-evaluation-engineer",
@@ -497,7 +609,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:31+00:00",
-    "fetched_at": "2026-05-12T13:28:41.675Z",
+    "fetched_at": "2026-05-12T19:23:56.176Z",
     "raw": {
       "id": 143481,
       "url": "https://jobicy.com/jobs/143481-principal-engineer",
@@ -549,7 +661,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:30+00:00",
-    "fetched_at": "2026-05-12T13:28:41.676Z",
+    "fetched_at": "2026-05-12T19:23:56.177Z",
     "raw": {
       "id": 143480,
       "url": "https://jobicy.com/jobs/143480-systems-research-engineer-software-engineer-data-and-ml-infrastructure",
@@ -599,7 +711,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:22+00:00",
-    "fetched_at": "2026-05-12T13:28:41.679Z",
+    "fetched_at": "2026-05-12T19:23:56.180Z",
     "raw": {
       "id": 143475,
       "url": "https://jobicy.com/jobs/143475-backend-engineer-node-js-typescript-emea",
@@ -647,7 +759,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:20+00:00",
-    "fetched_at": "2026-05-12T13:28:41.681Z",
+    "fetched_at": "2026-05-12T19:23:56.181Z",
     "raw": {
       "id": 143474,
       "url": "https://jobicy.com/jobs/143474-tech-lead-engineering",
@@ -696,7 +808,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:18+00:00",
-    "fetched_at": "2026-05-12T13:28:41.682Z",
+    "fetched_at": "2026-05-12T19:23:56.182Z",
     "raw": {
       "id": 143473,
       "url": "https://jobicy.com/jobs/143473-senior-full-stack-software-engineer-remote-in-europe",
@@ -774,7 +886,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T03:47:45+00:00",
-    "fetched_at": "2026-05-12T13:28:41.683Z",
+    "fetched_at": "2026-05-12T19:23:56.184Z",
     "raw": {
       "id": 143458,
       "url": "https://jobicy.com/jobs/143458-senior-cloud-software-engineer-aws-ai",
@@ -821,7 +933,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T17:06:41+00:00",
-    "fetched_at": "2026-05-12T13:28:41.685Z",
+    "fetched_at": "2026-05-12T19:23:56.185Z",
     "raw": {
       "id": 143441,
       "url": "https://jobicy.com/jobs/143441-quality-engineer",
@@ -866,7 +978,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T17:06:39+00:00",
-    "fetched_at": "2026-05-12T13:28:41.685Z",
+    "fetched_at": "2026-05-12T19:23:56.186Z",
     "raw": {
       "id": 143438,
       "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
@@ -916,7 +1028,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T16:57:53+00:00",
-    "fetched_at": "2026-05-12T13:28:41.689Z",
+    "fetched_at": "2026-05-12T19:23:56.186Z",
     "raw": {
       "id": 143430,
       "url": "https://jobicy.com/jobs/143430-lead-c-engineer",
@@ -961,7 +1073,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T06:48:41+00:00",
-    "fetched_at": "2026-05-12T13:28:41.692Z",
+    "fetched_at": "2026-05-12T19:23:56.189Z",
     "raw": {
       "id": 143399,
       "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
@@ -1008,7 +1120,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:41+00:00",
-    "fetched_at": "2026-05-12T13:28:41.692Z",
+    "fetched_at": "2026-05-12T19:23:56.189Z",
     "raw": {
       "id": 143391,
       "url": "https://jobicy.com/jobs/143391-senior-developer-for-banking-insurance-software-solutions-m-f-d",
@@ -1062,7 +1174,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:12+00:00",
-    "fetched_at": "2026-05-12T13:28:41.694Z",
+    "fetched_at": "2026-05-12T19:23:56.191Z",
     "raw": {
       "id": 143373,
       "url": "https://jobicy.com/jobs/143373-senior-backend-developer-2",
@@ -1113,7 +1225,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:10+00:00",
-    "fetched_at": "2026-05-12T13:28:41.695Z",
+    "fetched_at": "2026-05-12T19:23:56.192Z",
     "raw": {
       "id": 143372,
       "url": "https://jobicy.com/jobs/143372-senior-ui-developer",
@@ -1169,7 +1281,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:40+00:00",
-    "fetched_at": "2026-05-12T13:28:41.697Z",
+    "fetched_at": "2026-05-12T19:23:56.194Z",
     "raw": {
       "id": 143291,
       "url": "https://jobicy.com/jobs/143291-staff-software-engineer-kubernetes-operations",
@@ -1216,7 +1328,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:39+00:00",
-    "fetched_at": "2026-05-12T13:28:41.697Z",
+    "fetched_at": "2026-05-12T19:23:56.194Z",
     "raw": {
       "id": 143290,
       "url": "https://jobicy.com/jobs/143290-embedded-software-engineer-2",
@@ -1264,7 +1376,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:28+00:00",
-    "fetched_at": "2026-05-12T13:28:41.699Z",
+    "fetched_at": "2026-05-12T19:23:56.196Z",
     "raw": {
       "id": 143283,
       "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
@@ -1313,7 +1425,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-06T11:58:59+00:00",
-    "fetched_at": "2026-05-12T13:28:41.702Z",
+    "fetched_at": "2026-05-12T19:23:56.197Z",
     "raw": {
       "id": 143221,
       "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
@@ -1366,7 +1478,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-06T11:58:57+00:00",
-    "fetched_at": "2026-05-12T13:28:41.704Z",
+    "fetched_at": "2026-05-12T19:23:56.199Z",
     "raw": {
       "id": 143220,
       "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
@@ -1413,7 +1525,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:39+00:00",
-    "fetched_at": "2026-05-12T13:28:41.705Z",
+    "fetched_at": "2026-05-12T19:23:56.201Z",
     "raw": {
       "id": 143148,
       "url": "https://jobicy.com/jobs/143148-sotif-expert-all-genders",
@@ -1456,7 +1568,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:37+00:00",
-    "fetched_at": "2026-05-12T13:28:41.706Z",
+    "fetched_at": "2026-05-12T19:23:56.202Z",
     "raw": {
       "id": 143147,
       "url": "https://jobicy.com/jobs/143147-security-architect-ii",
@@ -1499,7 +1611,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:34+00:00",
-    "fetched_at": "2026-05-12T13:28:41.707Z",
+    "fetched_at": "2026-05-12T19:23:56.203Z",
     "raw": {
       "id": 143145,
       "url": "https://jobicy.com/jobs/143145-engineering-manager-3",
@@ -1556,7 +1668,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-05T06:40:31+00:00",
-    "fetched_at": "2026-05-12T13:28:41.708Z",
+    "fetched_at": "2026-05-12T19:23:56.204Z",
     "raw": {
       "id": 143143,
       "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
@@ -1599,7 +1711,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:27+00:00",
-    "fetched_at": "2026-05-12T13:28:41.709Z",
+    "fetched_at": "2026-05-12T19:23:56.205Z",
     "raw": {
       "id": 143140,
       "url": "https://jobicy.com/jobs/143140-salesforce-engineering-manager",
@@ -1649,7 +1761,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:22+00:00",
-    "fetched_at": "2026-05-12T13:28:41.710Z",
+    "fetched_at": "2026-05-12T19:23:56.206Z",
     "raw": {
       "id": 143137,
       "url": "https://jobicy.com/jobs/143137-senior-software-engineer-sustaining-automation",
@@ -1703,7 +1815,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:19+00:00",
-    "fetched_at": "2026-05-12T13:28:41.712Z",
+    "fetched_at": "2026-05-12T19:23:56.208Z",
     "raw": {
       "id": 143135,
       "url": "https://jobicy.com/jobs/143135-back-end-engineer-ai",
@@ -1754,7 +1866,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:43+00:00",
-    "fetched_at": "2026-05-12T13:28:41.714Z",
+    "fetched_at": "2026-05-12T19:23:56.210Z",
     "raw": {
       "id": 143133,
       "url": "https://jobicy.com/jobs/143133-senior-ai-platform-engineer",
@@ -1808,7 +1920,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:42+00:00",
-    "fetched_at": "2026-05-12T13:28:41.715Z",
+    "fetched_at": "2026-05-12T19:23:56.211Z",
     "raw": {
       "id": 143132,
       "url": "https://jobicy.com/jobs/143132-cloud-security-engineer",
@@ -1866,7 +1978,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:40+00:00",
-    "fetched_at": "2026-05-12T13:28:41.717Z",
+    "fetched_at": "2026-05-12T19:23:56.213Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -1917,7 +2029,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:39+00:00",
-    "fetched_at": "2026-05-12T13:28:41.718Z",
+    "fetched_at": "2026-05-12T19:23:56.214Z",
     "raw": {
       "id": 143130,
       "url": "https://jobicy.com/jobs/143130-senior-machine-learning-engineer-ranking",
@@ -1975,7 +2087,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:34+00:00",
-    "fetched_at": "2026-05-12T13:28:41.718Z",
+    "fetched_at": "2026-05-12T19:23:56.215Z",
     "raw": {
       "id": 143127,
       "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
@@ -2026,7 +2138,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:33+00:00",
-    "fetched_at": "2026-05-12T13:28:41.720Z",
+    "fetched_at": "2026-05-12T19:23:56.216Z",
     "raw": {
       "id": 143126,
       "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
@@ -2079,7 +2191,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:31+00:00",
-    "fetched_at": "2026-05-12T13:28:41.721Z",
+    "fetched_at": "2026-05-12T19:23:56.218Z",
     "raw": {
       "id": 143125,
       "url": "https://jobicy.com/jobs/143125-senior-machine-learning-engineer-genai-security",
@@ -2126,7 +2238,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:30+00:00",
-    "fetched_at": "2026-05-12T13:28:41.722Z",
+    "fetched_at": "2026-05-12T19:23:56.219Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -2175,7 +2287,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-03T12:02:26+00:00",
-    "fetched_at": "2026-05-12T13:28:41.723Z",
+    "fetched_at": "2026-05-12T19:23:56.220Z",
     "raw": {
       "id": 143044,
       "url": "https://jobicy.com/jobs/143044-senior-tools-programmer",
@@ -2225,7 +2337,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-03T12:02:25+00:00",
-    "fetched_at": "2026-05-12T13:28:41.724Z",
+    "fetched_at": "2026-05-12T19:23:56.221Z",
     "raw": {
       "id": 143043,
       "url": "https://jobicy.com/jobs/143043-lead-tools-programmer",
@@ -2274,7 +2386,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-01T17:53:46+00:00",
-    "fetched_at": "2026-05-12T13:28:41.726Z",
+    "fetched_at": "2026-05-12T19:23:56.223Z",
     "raw": {
       "id": 142986,
       "url": "https://jobicy.com/jobs/142986-senior-solutions-architect-2",
@@ -2325,7 +2437,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-01T17:53:42+00:00",
-    "fetched_at": "2026-05-12T13:28:41.727Z",
+    "fetched_at": "2026-05-12T19:23:56.224Z",
     "raw": {
       "id": 142984,
       "url": "https://jobicy.com/jobs/142984-senior-software-engineer-core-enterprise",
@@ -2379,7 +2491,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:34:02+00:00",
-    "fetched_at": "2026-05-12T13:28:41.728Z",
+    "fetched_at": "2026-05-12T19:23:56.225Z",
     "raw": {
       "id": 142770,
       "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
@@ -2435,7 +2547,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:33:59+00:00",
-    "fetched_at": "2026-05-12T13:28:41.729Z",
+    "fetched_at": "2026-05-12T19:23:56.229Z",
     "raw": {
       "id": 142768,
       "url": "https://jobicy.com/jobs/142768-senior-qa-automation-engineer-2",
@@ -2495,7 +2607,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:33:47+00:00",
-    "fetched_at": "2026-05-12T13:28:41.731Z",
+    "fetched_at": "2026-05-12T19:23:56.231Z",
     "raw": {
       "id": 142760,
       "url": "https://jobicy.com/jobs/142760-software-engineer-video",
@@ -2545,7 +2657,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:33:41+00:00",
-    "fetched_at": "2026-05-12T13:28:41.733Z",
+    "fetched_at": "2026-05-12T19:23:56.232Z",
     "raw": {
       "id": 142756,
       "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
@@ -2594,7 +2706,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:33:35+00:00",
-    "fetched_at": "2026-05-12T13:28:41.734Z",
+    "fetched_at": "2026-05-12T19:23:56.234Z",
     "raw": {
       "id": 142752,
       "url": "https://jobicy.com/jobs/142752-senior-network-inventory-gis-engineer",
@@ -2648,7 +2760,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:15+00:00",
-    "fetched_at": "2026-05-12T13:28:41.735Z",
+    "fetched_at": "2026-05-12T19:23:56.235Z",
     "raw": {
       "id": 142694,
       "url": "https://jobicy.com/jobs/142694-lead-marketing-web-engineer-developer",
@@ -2705,7 +2817,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:14+00:00",
-    "fetched_at": "2026-05-12T13:28:41.737Z",
+    "fetched_at": "2026-05-12T19:23:56.237Z",
     "raw": {
       "id": 142693,
       "url": "https://jobicy.com/jobs/142693-staff-data-engineer-platform-engineering",
@@ -2758,7 +2870,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:03+00:00",
-    "fetched_at": "2026-05-12T13:28:41.739Z",
+    "fetched_at": "2026-05-12T19:23:56.239Z",
     "raw": {
       "id": 142686,
       "url": "https://jobicy.com/jobs/142686-senior-firmware-automation-engineer",
@@ -2805,7 +2917,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T04:14:58+00:00",
-    "fetched_at": "2026-05-12T13:28:41.740Z",
+    "fetched_at": "2026-05-12T19:23:56.240Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -2853,7 +2965,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T04:14:51+00:00",
-    "fetched_at": "2026-05-12T13:28:41.741Z",
+    "fetched_at": "2026-05-12T19:23:56.241Z",
     "raw": {
       "id": 142667,
       "url": "https://jobicy.com/jobs/142667-senior-staff-backend-engineer",
@@ -2900,7 +3012,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-28T04:14:43+00:00",
-    "fetched_at": "2026-05-12T13:28:41.742Z",
+    "fetched_at": "2026-05-12T19:23:56.242Z",
     "raw": {
       "id": 142662,
       "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
@@ -2952,7 +3064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-25T16:44:26+00:00",
-    "fetched_at": "2026-05-12T13:28:41.743Z",
+    "fetched_at": "2026-05-12T19:23:56.244Z",
     "raw": {
       "id": 142566,
       "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
@@ -3003,7 +3115,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-25T16:44:25+00:00",
-    "fetched_at": "2026-05-12T13:28:41.744Z",
+    "fetched_at": "2026-05-12T19:23:56.244Z",
     "raw": {
       "id": 142565,
       "url": "https://jobicy.com/jobs/142565-technical-principal",
@@ -3051,7 +3163,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:50+00:00",
-    "fetched_at": "2026-05-12T13:28:41.745Z",
+    "fetched_at": "2026-05-12T19:23:56.246Z",
     "raw": {
       "id": 142527,
       "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
@@ -3100,7 +3212,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:47+00:00",
-    "fetched_at": "2026-05-12T13:28:41.745Z",
+    "fetched_at": "2026-05-12T19:23:56.246Z",
     "raw": {
       "id": 142525,
       "url": "https://jobicy.com/jobs/142525-embedded-software-engineer-autosar-remote-in-mexico",
@@ -3145,7 +3257,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:33+00:00",
-    "fetched_at": "2026-05-12T13:28:41.747Z",
+    "fetched_at": "2026-05-12T19:23:56.248Z",
     "raw": {
       "id": 142516,
       "url": "https://jobicy.com/jobs/142516-connectivity-engineer-leased-data-center-construction",
@@ -3188,7 +3300,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-24T15:07:31+00:00",
-    "fetched_at": "2026-05-12T13:28:41.748Z",
+    "fetched_at": "2026-05-12T19:23:56.249Z",
     "raw": {
       "id": 142515,
       "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
@@ -3240,7 +3352,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T08:57:46+00:00",
-    "fetched_at": "2026-05-12T13:28:41.748Z",
+    "fetched_at": "2026-05-12T19:23:56.250Z",
     "raw": {
       "id": 142503,
       "url": "https://jobicy.com/jobs/142503-senior-mulesoft-integrations-developer-full-time-or-part-time",
@@ -3294,7 +3406,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T08:57:40+00:00",
-    "fetched_at": "2026-05-12T13:28:41.750Z",
+    "fetched_at": "2026-05-12T19:23:56.251Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -3345,7 +3457,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:18:11+00:00",
-    "fetched_at": "2026-05-12T13:28:41.751Z",
+    "fetched_at": "2026-05-12T19:23:56.253Z",
     "raw": {
       "id": 142478,
       "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
@@ -3394,7 +3506,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:18:04+00:00",
-    "fetched_at": "2026-05-12T13:28:41.752Z",
+    "fetched_at": "2026-05-12T19:23:56.254Z",
     "raw": {
       "id": 142473,
       "url": "https://jobicy.com/jobs/142473-fullstack-engineer-all-genders-in-field-assistance",
@@ -3446,7 +3558,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:18:01+00:00",
-    "fetched_at": "2026-05-12T13:28:41.754Z",
+    "fetched_at": "2026-05-12T19:23:56.256Z",
     "raw": {
       "id": 142471,
       "url": "https://jobicy.com/jobs/142471-senior-software-engineer-java-python",
@@ -3495,7 +3607,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:59+00:00",
-    "fetched_at": "2026-05-12T13:28:41.755Z",
+    "fetched_at": "2026-05-12T19:23:56.257Z",
     "raw": {
       "id": 142470,
       "url": "https://jobicy.com/jobs/142470-software-engineer-i-back-end-repayment-scheduling",
@@ -3554,7 +3666,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:56+00:00",
-    "fetched_at": "2026-05-12T13:28:41.758Z",
+    "fetched_at": "2026-05-12T19:23:56.260Z",
     "raw": {
       "id": 142468,
       "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
@@ -3613,7 +3725,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:55+00:00",
-    "fetched_at": "2026-05-12T13:28:41.762Z",
+    "fetched_at": "2026-05-12T19:23:56.264Z",
     "raw": {
       "id": 142467,
       "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
@@ -3667,7 +3779,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T07:17:36+00:00",
-    "fetched_at": "2026-05-12T13:28:41.763Z",
+    "fetched_at": "2026-05-12T19:23:56.265Z",
     "raw": {
       "id": 142455,
       "url": "https://jobicy.com/jobs/142455-senior-backend-engineer-breakout-prop-2",
@@ -3710,7 +3822,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:56:04+00:00",
-    "fetched_at": "2026-05-12T13:28:41.764Z",
+    "fetched_at": "2026-05-12T19:23:56.266Z",
     "raw": {
       "id": 142312,
       "url": "https://jobicy.com/jobs/142312-sap-abap-developer",
@@ -3757,7 +3869,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:56:02+00:00",
-    "fetched_at": "2026-05-12T13:28:41.765Z",
+    "fetched_at": "2026-05-12T19:23:56.267Z",
     "raw": {
       "id": 142311,
       "url": "https://jobicy.com/jobs/142311-junior-sap-abap-developer",
@@ -3804,7 +3916,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-22T01:56:01+00:00",
-    "fetched_at": "2026-05-12T13:28:41.766Z",
+    "fetched_at": "2026-05-12T19:23:56.268Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -3851,7 +3963,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-22T01:55:48+00:00",
-    "fetched_at": "2026-05-12T13:28:41.767Z",
+    "fetched_at": "2026-05-12T19:23:56.270Z",
     "raw": {
       "id": 142302,
       "url": "https://jobicy.com/jobs/142302-consulting-systems-engineer-global-service-provider",
@@ -3901,7 +4013,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-20T06:50:49+00:00",
-    "fetched_at": "2026-05-12T13:28:41.768Z",
+    "fetched_at": "2026-05-12T19:23:56.270Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -3946,7 +4058,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-20T06:50:04+00:00",
-    "fetched_at": "2026-05-12T13:28:41.770Z",
+    "fetched_at": "2026-05-12T19:23:56.272Z",
     "raw": {
       "id": 142188,
       "url": "https://jobicy.com/jobs/142188-manager-application-security-apac",
@@ -3995,7 +4107,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-20T06:49:59+00:00",
-    "fetched_at": "2026-05-12T13:28:41.771Z",
+    "fetched_at": "2026-05-12T19:23:56.274Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -4038,7 +4150,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-20T06:48:57+00:00",
-    "fetched_at": "2026-05-12T13:28:41.772Z",
+    "fetched_at": "2026-05-12T19:23:56.274Z",
     "raw": {
       "id": 142178,
       "url": "https://jobicy.com/jobs/142178-middle-salesforce-developer-2",
@@ -4087,7 +4199,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-20T06:47:09+00:00",
-    "fetched_at": "2026-05-12T13:28:41.773Z",
+    "fetched_at": "2026-05-12T19:23:56.276Z",
     "raw": {
       "id": 142140,
       "url": "https://jobicy.com/jobs/142140-senior-manager-platform-engineering-secure-supply-chain",
@@ -4139,7 +4251,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-20T06:47:08+00:00",
-    "fetched_at": "2026-05-12T13:28:41.774Z",
+    "fetched_at": "2026-05-12T19:23:56.277Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -4194,7 +4306,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:55:39+00:00",
-    "fetched_at": "2026-05-12T13:28:41.775Z",
+    "fetched_at": "2026-05-12T19:23:56.278Z",
     "raw": {
       "id": 142111,
       "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
@@ -4243,7 +4355,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:55:36+00:00",
-    "fetched_at": "2026-05-12T13:28:41.776Z",
+    "fetched_at": "2026-05-12T19:23:56.278Z",
     "raw": {
       "id": 142109,
       "url": "https://jobicy.com/jobs/142109-senior-hpc-performance-engineer",
@@ -4288,7 +4400,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:52:33+00:00",
-    "fetched_at": "2026-05-12T13:28:41.777Z",
+    "fetched_at": "2026-05-12T19:23:56.280Z",
     "raw": {
       "id": 142086,
       "url": "https://jobicy.com/jobs/142086-principal-software-engineer-customer-journey",
@@ -4334,7 +4446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:51:09+00:00",
-    "fetched_at": "2026-05-12T13:28:41.778Z",
+    "fetched_at": "2026-05-12T19:23:56.281Z",
     "raw": {
       "id": 142073,
       "url": "https://jobicy.com/jobs/142073-strategic-solutions-engineer",
@@ -4387,7 +4499,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-17T16:51:03+00:00",
-    "fetched_at": "2026-05-12T13:28:41.780Z",
+    "fetched_at": "2026-05-12T19:23:56.283Z",
     "raw": {
       "id": 142069,
       "url": "https://jobicy.com/jobs/142069-senior-software-engineer-full-stack-3",
@@ -4430,7 +4542,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:50:57+00:00",
-    "fetched_at": "2026-05-12T13:28:41.781Z",
+    "fetched_at": "2026-05-12T19:23:56.284Z",
     "raw": {
       "id": 142065,
       "url": "https://jobicy.com/jobs/142065-senior-model-based-system-engineer",
@@ -4477,7 +4589,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-17T16:50:38+00:00",
-    "fetched_at": "2026-05-12T13:28:41.781Z",
+    "fetched_at": "2026-05-12T19:23:56.284Z",
     "raw": {
       "id": 142052,
       "url": "https://jobicy.com/jobs/142052-qa-engineer-2",
@@ -4533,7 +4645,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-17T16:50:36+00:00",
-    "fetched_at": "2026-05-12T13:28:41.782Z",
+    "fetched_at": "2026-05-12T19:23:56.285Z",
     "raw": {
       "id": 142051,
       "url": "https://jobicy.com/jobs/142051-web-software-developer",
@@ -4594,7 +4706,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-15T11:44:27+00:00",
-    "fetched_at": "2026-05-12T13:28:41.784Z",
+    "fetched_at": "2026-05-12T19:23:56.287Z",
     "raw": {
       "id": 141981,
       "url": "https://jobicy.com/jobs/141981-senior-solution-architect-enterprise",
@@ -4641,7 +4753,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-15T11:44:26+00:00",
-    "fetched_at": "2026-05-12T13:28:41.785Z",
+    "fetched_at": "2026-05-12T19:23:56.288Z",
     "raw": {
       "id": 141980,
       "url": "https://jobicy.com/jobs/141980-software-engineer-mypay",
@@ -4706,7 +4818,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-15T11:44:23+00:00",
-    "fetched_at": "2026-05-12T13:28:41.787Z",
+    "fetched_at": "2026-05-12T19:23:56.290Z",
     "raw": {
       "id": 141978,
       "url": "https://jobicy.com/jobs/141978-solution-architect-enterprise",
@@ -4776,7 +4888,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-15T11:44:20+00:00",
-    "fetched_at": "2026-05-12T13:28:41.790Z",
+    "fetched_at": "2026-05-12T19:23:56.293Z",
     "raw": {
       "id": 141976,
       "url": "https://jobicy.com/jobs/141976-full-stack-web-developer-2",
@@ -4823,7 +4935,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:45:54+00:00",
-    "fetched_at": "2026-05-12T13:28:41.790Z",
+    "fetched_at": "2026-05-12T19:23:56.293Z",
     "raw": {
       "id": 141921,
       "url": "https://jobicy.com/jobs/141921-design-engineer",
@@ -4869,7 +4981,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:45:48+00:00",
-    "fetched_at": "2026-05-12T13:28:41.791Z",
+    "fetched_at": "2026-05-12T19:23:56.294Z",
     "raw": {
       "id": 141917,
       "url": "https://jobicy.com/jobs/141917-software-engineer-leadership-machine-learning-3",
@@ -4918,7 +5030,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:45:47+00:00",
-    "fetched_at": "2026-05-12T13:28:41.791Z",
+    "fetched_at": "2026-05-12T19:23:56.295Z",
     "raw": {
       "id": 141916,
       "url": "https://jobicy.com/jobs/141916-senior-net-software-engineer",
@@ -4977,7 +5089,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-14T04:44:32+00:00",
-    "fetched_at": "2026-05-12T13:28:41.793Z",
+    "fetched_at": "2026-05-12T19:23:56.296Z",
     "raw": {
       "id": 141903,
       "url": "https://jobicy.com/jobs/141903-senior-site-reliability-engineer-2",
@@ -4998,109 +5110,6 @@
       "pubDate": "2026-04-14T04:44:32+00:00",
       "salaryMin": 145000,
       "salaryMax": 165000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:141850",
-    "platform": "jobicy",
-    "external_id": "141850",
-    "title": "Quality Automation Engineer",
-    "company": "CommandLink",
-    "description": "About Command|Link Command|Link is a global SaaS Platform providing network, voice services, and IT security solutions, helping corporations consolidate their core infrastructure into a single vendor and layering on a proprietary single pane of glass platform. Command|Link has revolutionized the IT industry by tackling the problems our competitors create. In recognition for our unprecedented innovation and dedication, Command|Link was recognized as the SD-WAN Product of the Year, ITSM Visionary Spotlight, UCaaS Product of the Year, NaaS Product of the Year, Supplier of the Year, and the AT&amp;T Strategic Growth Partner. Command|Link has built the only IT platform for scale that solves ISP vendor sprawl and IT headaches. We make it easy for our customers to get more done, maximize uptime and improve the bottom line. Learn more about us here ! This is a 100% remote position About your new role: As a Quality Automation Engineer, you will play a key role in elevating the quality, reliability, and efficiency of our software through the design and implementation of automated testing solutions. You will collaborate with cross-functional teams to enhance test coverage, automate validation processes, and ensure the highest standards of quality across our PHP (Laravel) and React platforms. We are seeking someone passionate about building robust, scalable test automation frameworks and contributing to a culture of quality throughout the development lifecycle. Key Responsibilities: Design, develop, and maintain automated test frameworks for unit, integration, end-to-end, and performance testing across PHP (Laravel) and React platforms. Collaborate with development and QA teams to integrate test automation into CI/CD workflows, ensuring fast and reliable software releases. Contribute to quality engineering initiatives, including test coverage reporting, benchmarking, and continuous improvement efforts. Support the adoption of TDD, BDD, and other automation best practices while maintaining technical documentation for processes and frameworks. Takes on additional responsibilities and projects as needed to support the success of the team and organization. What you'll need for success: Bachelor’s degree in Computer Science, Engineering, or relevant experience. Interest in automation, quality engineering, and scalable test solutions. Familiarity with TypeScript, PHP, JavaScript (React), and testing tools (e.g., Playwright and Cypress). Understanding of CI/CD pipelines, cross-browser testing, and test coverage metrics. Strong collaboration, communication, and problem-solving skills with a commitment to continuous learning. Bonus Points For: Experience with Git, GitHub Actions, Jenkins, or similar CI/CD tools. Exposure to security testing, performance testing, or quality monitoring tools. Familiarity with TDD, BDD, and software quality metrics. Why you'll love life at Command|Link Join us at CommandLink, where you'll have the opportunity to shape the future of business communication. We value the innovative spirit and seek individuals ready to bring their unique vision and expertise to a team that values bold ideas and strategic thinking. Are you ready to make an impact? Room to grow at a high-growth company An environment that celebrates ideas and innovation Your work will have a tangible impact Flexible time off Fun events at cool locations Employee referral bonuses to encourage the addition of great new people to the team At CommandLink, we’re committed to creating a fair, consistent, and efficient hiring experience. As part of our process, we use AI-assisted tools to help review and analyze applications. These tools support our recruiting team by identifying qualifications and experience that align with the requirements of each role. AI tools are used only to assist in the evaluation process — they do not make final hiring decisions. Every application is reviewed by a member of our recruiting or hiring team before any decisions are made.",
-    "url": "https://jobicy.com/jobs/141850-quality-automation-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Argentina,  Brazil,  Costa Rica,  Mexico,  Philippines",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "php",
-      "react",
-      "laravel",
-      "jenkins",
-      "github-actions",
-      "cypress",
-      "playwright",
-      "git"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-04-13T04:36:27+00:00",
-    "fetched_at": "2026-05-12T13:28:41.794Z",
-    "raw": {
-      "id": 141850,
-      "url": "https://jobicy.com/jobs/141850-quality-automation-engineer",
-      "jobSlug": "141850-quality-automation-engineer",
-      "jobTitle": "Quality Automation Engineer",
-      "companyName": "CommandLink",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/76da37ab-221.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Argentina,  Brazil,  Costa Rica,  Mexico,  Philippines",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About Command|LinkCommand|Link is a global SaaS Platform providing network, voice services, and IT security solutions, helping corporations consolidate their core infrastructure into a single vendor and layering on a proprietary...",
-      "jobDescription": "<p><u><b><strong>About Command|Link</strong></b></u></p>\n</p>\n<p>Command|Link is a global SaaS Platform providing network, voice services, and IT security solutions, helping corporations consolidate their core infrastructure into a single vendor and layering on a proprietary single pane of glass platform. Command|Link has revolutionized the IT industry by tackling the problems our competitors create. In recognition for our unprecedented innovation and dedication, Command|Link was recognized as the SD-WAN Product of the Year, ITSM Visionary Spotlight, UCaaS Product of the Year, NaaS Product of the Year, Supplier of the Year, and the AT&amp;T Strategic Growth Partner. Command|Link has built the only IT platform for scale that solves ISP vendor sprawl and IT headaches. We make it easy for our customers to get more done, maximize uptime and improve the bottom line.</p>\n</p>\n<p>Learn more about us <a href=\"https://www.commandlink.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">here</a>!</p>\n</p>\n<p><b><strong>This is a 100% remote position</strong></b></p>\n</p>\n<p><b><strong>About your new role:</strong></b></p>\n<p>As a Quality Automation Engineer, you will play a key role in elevating the quality, reliability, and efficiency of our software through the design and implementation of automated testing solutions. You will collaborate with cross-functional teams to enhance test coverage, automate validation processes, and ensure the highest standards of quality across our PHP (Laravel) and React platforms.</p>\n</p>\n<p>We are seeking someone passionate about building robust, scalable test automation frameworks and contributing to a culture of quality throughout the development lifecycle.</p>\n</p>\n<p><b><strong>Key Responsibilities:</strong></b></p>\n<ul>\n<li>Design, develop, and maintain automated test frameworks for unit, integration, end-to-end, and performance testing across PHP (Laravel) and React platforms.</li>\n<li>Collaborate with development and QA teams to integrate test automation into CI/CD workflows, ensuring fast and reliable software releases.</li>\n<li>Contribute to quality engineering initiatives, including test coverage reporting, benchmarking, and continuous improvement efforts.</li>\n<li>Support the adoption of TDD, BDD, and other automation best practices while maintaining technical documentation for processes and frameworks.</li>\n<li>Takes on additional responsibilities and projects as needed to support the success of the team and organization.</li>\n</ul>\n<p><b><strong>What you'll need for success:</strong></b></p>\n<ul>\n<li>Bachelor’s degree in Computer Science, Engineering, or relevant experience.</li>\n<li>Interest in automation, quality engineering, and scalable test solutions.</li>\n<li>Familiarity with TypeScript, PHP, JavaScript (React), and testing tools (e.g., Playwright and Cypress).</li>\n<li>Understanding of CI/CD pipelines, cross-browser testing, and test coverage metrics.</li>\n<li>Strong collaboration, communication, and problem-solving skills with a commitment to continuous learning.</li>\n</ul>\n<p><b><strong>Bonus Points For:</strong></b></p>\n<ul>\n<li>Experience with Git, GitHub Actions, Jenkins, or similar CI/CD tools.</li>\n<li>Exposure to security testing, performance testing, or quality monitoring tools.</li>\n<li>Familiarity with TDD, BDD, and software quality metrics.</li>\n</ul>\n<p><b><strong>Why you'll love life at Command|Link</strong></b></p>\n<p>Join us at CommandLink, where you'll have the opportunity to shape the future of business communication. We value the innovative spirit and seek individuals ready to bring their unique vision and expertise to a team that values bold ideas and strategic thinking. Are you ready to make an impact?</p>\n</p>\n<ul>\n<li>Room to grow at a high-growth company</li>\n<li>An environment that celebrates ideas and innovation</li>\n<li>Your work will have a tangible impact</li>\n<li>Flexible time off </li>\n<li>Fun events at cool locations</li>\n<li>Employee referral bonuses to encourage the addition of great new people to the team</li>\n</ul>\n<p>At CommandLink, we’re committed to creating a fair, consistent, and efficient hiring experience. As part of our process, we use AI-assisted tools to help review and analyze applications. These tools support our recruiting team by identifying qualifications and experience that align with the requirements of each role.</p>\n</p>\n<p>AI tools are used only to assist in the evaluation process — they do not make final hiring decisions. Every application is reviewed by a member of our recruiting or hiring team before any decisions are made.</p></p>",
-      "pubDate": "2026-04-13T04:36:27+00:00"
-    }
-  },
-  {
-    "id": "jobicy:141801",
-    "platform": "jobicy",
-    "external_id": "141801",
-    "title": "Telecom Engineer",
-    "company": "NTT DATA",
-    "description": "Req ID: 359177 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Telecom Engineer to join our team in Arlington (REMOTE), Virginia (US-VA), United States (US). Job Summary: The Senior Telecom Engineer supports Telecommunications Services under the Infrastructure Services Line of Business, deploying IP telephony, managing circuit inventory, and diagnosing outages to enhance reliability and minimize downtime while transitioning from legacy systems to VoIP. Utilizing IP telephony deployment and circuit inventory management, this role monitors VoIP quality and handles analog/data circuit disconnections. Telecom outage diagnostics ensure swift resolution with providers. By preparing procurement packages, the Senior Telecom Engineer aligns with performance requirements to implement comprehensive circuit management, removing old circuits and reducing costs. Job Duties: - IP telephony deployment- Circuit inventory management- Telecom outage diagnostics- VoIP quality monitoring- Analog/data circuit disconnection procedures Basic Qualifications: - Bachelor's degree, One-and-one- half (1.5) years of additional experience can substitute for one (1) year of a typical degree program - Minimum 10 years' experience with the role/responsibilities listed above - Ability to obtain a Public Trust Where required by law, NTT DATA provides a reasonable range of compensation for specific roles. The starting pay range for this remote role is $72,225 - $167,188. This range reflects the minimum and maximum target compensation for the position across all US locations. Actual compensation will depend on a number of factors, including the candidate’s actual work location, relevant experience, technical skills, and other qualifications. This position may also be eligible for incentive compensation based on individual and/or company performance. This position is eligible for company benefits including medical, dental, and vision insurance with an employer contribution, flexible spending or health savings account, life and AD&amp;D insurance, short and long term disability coverage, paid time off, employee assistance, participation in a 401k program with company match, and additional voluntary or legally-required benefits. About NTT DATA NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&amp;D. Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us . NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us . This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here . If you'd like more information on your EEO rights under the law, please click here . For Pay Transparency information, please click here .",
-    "url": "https://jobicy.com/jobs/141801-telecom-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "swift"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-04-12T12:09:43+00:00",
-    "fetched_at": "2026-05-12T13:28:41.795Z",
-    "raw": {
-      "id": 141801,
-      "url": "https://jobicy.com/jobs/141801-telecom-engineer",
-      "jobSlug": "141801-telecom-engineer",
-      "jobTitle": "Telecom Engineer",
-      "companyName": "NTT DATA",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/09/e2252da5-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Midweight",
-      "jobExcerpt": "Req ID: 359177 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization,...",
-      "jobDescription": "<p><strong>Req ID:</strong> 359177 </p>\n<p>NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.</p>\n<p>We are currently seeking a Telecom Engineer to join our team in Arlington (REMOTE), Virginia (US-VA), United States (US).</p>\n<p><strong>Job Summary: </strong></p>\n<p>The Senior Telecom Engineer supports Telecommunications Services under the Infrastructure Services Line of Business, deploying IP telephony, managing circuit inventory, and diagnosing outages to enhance reliability and minimize downtime while transitioning from legacy systems to VoIP. Utilizing IP telephony deployment and circuit inventory management, this role monitors VoIP quality and handles analog/data circuit disconnections. Telecom outage diagnostics ensure swift resolution with providers. By preparing procurement packages, the Senior Telecom Engineer aligns with performance requirements to implement comprehensive circuit management, removing old circuits and reducing costs. </p>\n<p><strong>Job Duties:</strong></p>\n<p>- IP telephony deployment- Circuit inventory management- Telecom outage diagnostics- VoIP quality monitoring- Analog/data circuit disconnection procedures</p>\n<p> <strong>Basic Qualifications: </strong><br />\n- Bachelor's degree, One-and-one- half (1.5) years of additional experience can substitute for one (1) year of a typical degree program<br />\n- Minimum 10 years' experience with the role/responsibilities listed above<br />\n- Ability to obtain a Public Trust Where required by law, NTT DATA provides a reasonable range of compensation for specific roles. The starting pay range for this remote role is $72,225 - $167,188. This range reflects the minimum and maximum target compensation for the position across all US locations. Actual compensation will depend on a number of factors, including the candidate’s actual work location, relevant experience, technical skills, and other qualifications. This position may also be eligible for incentive compensation based on individual and/or company performance. This position is eligible for company benefits including medical, dental, and vision insurance with an employer contribution, flexible spending or health savings account, life and AD&amp;D insurance, short and long term disability coverage, paid time off, employee assistance, participation in a 401k program with company match, and additional voluntary or legally-required benefits.</p>\n<p><strong><u>About NTT DATA</u></strong></p>\n<p>NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&amp;D.</p>\n<p>Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, <a href=\"https://us.nttdata.com/en/contact-us\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://us.nttdata.com/en/contact-us</a>.</p>\n<p><strong><em>NTT DATA endeavors to make <a href=\"https://us.nttdata.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://us.nttdata.com</a> accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at <a href=\"https://us.nttdata.com/en/contact-us\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://us.nttdata.com/en/contact-us</a>. </em></strong><strong><em>This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click <a href=\"http://us.nttdata.com/en/compliance#eeos\" rel=\"nofollow ugc noopener\" target=\"_blank\">here</a>. If you'd like more information on your EEO rights under the law, please click <a href=\"http://us.nttdata.com/en/compliance#know-your-rights\" rel=\"nofollow ugc noopener\" target=\"_blank\">here</a>. For Pay Transparency information, please click<a href=\"http://us.nttdata.com/en/compliance#ppnp\" rel=\"nofollow ugc noopener\" target=\"_blank\"> here</a>.</em></strong></p>",
-      "pubDate": "2026-04-12T12:09:43+00:00",
-      "salaryMin": 72225,
-      "salaryMax": 167188,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
