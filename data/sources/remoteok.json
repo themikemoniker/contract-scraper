@@ -1,5 +1,87 @@
 [
   {
+    "id": "remoteok:1131613",
+    "platform": "remoteok",
+    "external_id": "1131613",
+    "title": "Senior Database Reliability Engineer",
+    "company": "Cloudlinux",
+    "description": "CloudLinux / TuxCare is a remote-first infrastructure and security company. More than 300 engineers build and operate products used by hosting providers, enterprises, and internal service teams worldwide. Our Infrastructure Department runs the platforms behind CloudLinux OS, Imunify, KernelCare, TuxCare ELS, and our engineering systems. We are hiring a Senior Database Reliability Engineer to join the Infrastructure DBA cell. This is a hands-on production ownership role, not a narrow ticket-processing DBA position. You will keep critical database services reliable, automate repeated work, support engineering teams, and reduce single-person dependency in our PostgreSQL, ClickHouse, MongoDB, and Redis operations. PostgreSQL is the main requirement. ClickHouse experience is a strong plus, but it is not a day-one blocker. We need a senior engineer with enough database, Linux, automation, and incident-response depth to learn our ClickHouse environment quickly and operate it safely. Your Responsibilities: Own production PostgreSQL reliability: HA design, Patroni, PgBouncer, replication, failover, upgrades, vacuum/bloat control, query tuning, locks, indexes, capacity, backups, PITR, and restore validation. Improve disaster recovery and operational evidence: tested restores, documented recovery paths, measurable RTO/RPO targets, runbooks, and safe maintenance plans. Support the wider database estate: ClickHouse, MongoDB, and Redis. You will troubleshoot incidents, review access and data-safety changes, improve monitoring, and learn the production ClickHouse patterns already in use. Automate DBA workflows with Ansible, Terraform/OpenTofu, GitLab CI/CD, scripts, and reproducible runbooks for provisioning, grants, backups, restores, health checks, and ownership metadata. Help build DBaaS-style self-service capabilities so engineering teams can request databases, access, credentials, and operational checks with less manual DBA intervention. Improve observability and incident response through Grafana, metrics, logs, SLOs, alert rules, Opsgenie routing, and clear communication during production issues. What Success Looks Like: PostgreSQL clusters have tested backup and restore paths, useful dashboards, clear ownership, and documented failover procedures. Repeated DBA tickets become automation or self-service workflows. ClickHouse operational knowledge is no longer a single-person dependency. Database incidents have owners, runbooks, evidence, and measurable recovery paths. Product and engineering teams get database help faster without sacrificing safety, auditability, or reliability. Why CloudLinux? You will work on real production infrastructure used across CloudLinux and TuxCare products. You will have a direct impact on reliability, incident response, developer experience, and operational resilience. You will also work in an AI-assisted engineering culture where automation, documentation, Claude, Codex, and careful human verification are part of the daily operating model. What We Expect From You: Deep hands-on PostgreSQL experience in business-critical production environments, typically 5+ years or equivalent depth. Strong understanding of PostgreSQL internals and operations: MVCC, WAL, transactions, locks, indexes, query planning, replication, autovacuum, bloat, major upgrades, backups, PITR, and restore testing. Proven experience with highly available databases and the ability to reason about quorum, split-brain risk, failover, rollback, and recovery. Strong Linux and infrastructure fundamentals: systemd, networking, storage, filesystems, CPU/memory/disk bottlenecks, TLS, DNS, firewalls, and root-cause troubleshooting. Automation skills with Ansible and scripting. Terraform/OpenTofu, GitLab CI/CD, and merge-request based delivery are strong advantages. Ability to support more than one database engine. You do not need to be a ClickHouse expert on day one, but you must be ready to learn it quickly and take responsibility for it. Practical use of AI engineering assistants such as Claude and Codex. We expect you to use them to improve speed and quality, while personally verifying generated SQL, commands, scripts, and operational conclusions. Clear written English for asynchronous work in Jira, Slack, GitLab, Slite, and runbooks. Nice to Have: ClickHouse operations: replication, Keeper/ZooKeeper, MergeTree engines, distributed DDL, grants, row policies, backups, query troubleshooting, and cluster recovery. MongoDB replica sets and Percona Backup for MongoDB. Redis/Sentinel and broker/cache failure modes. Database observability, SLOs, golden signals, alert tuning, and executable incident runbooks. Building internal platforms, self-service portals, or DBaaS workflows for engineering teams. What's in it for you? A focus on professional development. Interesting and challenging projects. Fully remote work with flexible working hours, which allows you to schedule your day and work from any location worldwide. Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves. Compensation for private medical insurance. Co-working and gym/sports reimbursement. Budget for education. The opportunity to receive a reward for the most innovative idea that the company can patent. By applying for this position, you agree withÂ CloudLinux Privacy PolicyÂ and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information. Please mention the word **UNDERSTANDABLE** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613",
+    "salary_min": 0,
+    "salary_max": 0,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": null,
+    "experience_level": "senior",
+    "location": "",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "postgresql",
+      "mongodb",
+      "redis",
+      "clickhouse",
+      "terraform",
+      "ansible",
+      "gitlab",
+      "grafana",
+      "llm",
+      "linux"
+    ],
+    "tags": [
+      "redis",
+      "ansible",
+      "security",
+      "support",
+      "developer",
+      "postgresql",
+      "dba",
+      "senior",
+      "operational",
+      "reliability",
+      "health",
+      "engineer",
+      "engineering",
+      "linux",
+      "digital nomad"
+    ],
+    "posted_at": "2026-05-16T16:00:03+00:00",
+    "fetched_at": "2026-05-17T18:46:01.956Z",
+    "raw": {
+      "slug": "remote-senior-database-reliability-engineer-cloudlinux-1131613",
+      "id": "1131613",
+      "epoch": 1778947203,
+      "date": "2026-05-16T16:00:03+00:00",
+      "company": "Cloudlinux",
+      "company_logo": "",
+      "position": "Senior Database Reliability Engineer",
+      "tags": [
+        "redis",
+        "ansible",
+        "security",
+        "support",
+        "developer",
+        "postgresql",
+        "dba",
+        "senior",
+        "operational",
+        "reliability",
+        "health",
+        "engineer",
+        "engineering",
+        "linux",
+        "digital nomad"
+      ],
+      "description": "<p>CloudLinux / TuxCare is a remote-first infrastructure and security company. More than 300 engineers build and operate products used by hosting providers, enterprises, and internal service teams worldwide. Our Infrastructure Department runs the platforms behind CloudLinux OS, Imunify, KernelCare, TuxCare ELS, and our engineering systems.</p><p>We are hiring a Senior Database Reliability Engineer to join the Infrastructure DBA cell. This is a hands-on production ownership role, not a narrow ticket-processing DBA position. You will keep critical database services reliable, automate repeated work, support engineering teams, and reduce single-person dependency in our PostgreSQL, ClickHouse, MongoDB, and Redis operations.</p><p>PostgreSQL is the main requirement. ClickHouse experience is a strong plus, but it is not a day-one blocker. We need a senior engineer with enough database, Linux, automation, and incident-response depth to learn our ClickHouse environment quickly and operate it safely.</p><p></p><p>Your Responsibilities:</p><ul><li>Own production PostgreSQL reliability: HA design, Patroni, PgBouncer, replication, failover, upgrades, vacuum/bloat control, query tuning, locks, indexes, capacity, backups, PITR, and restore validation.</li><li>Improve disaster recovery and operational evidence: tested restores, documented recovery paths, measurable RTO/RPO targets, runbooks, and safe maintenance plans.</li><li>Support the wider database estate: ClickHouse, MongoDB, and Redis. You will troubleshoot incidents, review access and data-safety changes, improve monitoring, and learn the production ClickHouse patterns already in use.</li><li>Automate DBA workflows with Ansible, Terraform/OpenTofu, GitLab CI/CD, scripts, and reproducible runbooks for provisioning, grants, backups, restores, health checks, and ownership metadata.</li><li>Help build DBaaS-style self-service capabilities so engineering teams can request databases, access, credentials, and operational checks with less manual DBA intervention.</li><li>Improve observability and incident response through Grafana, metrics, logs, SLOs, alert rules, Opsgenie routing, and clear communication during production issues.</li></ul><p></p><p>What Success Looks Like:</p><ul><li>PostgreSQL clusters have tested backup and restore paths, useful dashboards, clear ownership, and documented failover procedures.</li><li>Repeated DBA tickets become automation or self-service workflows.</li><li>ClickHouse operational knowledge is no longer a single-person dependency.</li><li>Database incidents have owners, runbooks, evidence, and measurable recovery paths.</li><li>Product and engineering teams get database help faster without sacrificing safety, auditability, or reliability.</li></ul><p></p><p></p><p>Why CloudLinux?</p><ul><li>You will work on real production infrastructure used across CloudLinux and TuxCare products. </li><li>You will have a direct impact on reliability, incident response, developer experience, and operational resilience. </li><li>You will also work in an AI-assisted engineering culture where automation, documentation, Claude, Codex, and careful human verification are part of the daily operating model.</li></ul>\n<p>What We Expect From You:</p><ul><li>Deep hands-on PostgreSQL experience in business-critical production environments, typically 5+ years or equivalent depth.</li><li>Strong understanding of PostgreSQL internals and operations: MVCC, WAL, transactions, locks, indexes, query planning, replication, autovacuum, bloat, major upgrades, backups, PITR, and restore testing.</li><li>Proven experience with highly available databases and the ability to reason about quorum, split-brain risk, failover, rollback, and recovery.</li><li>Strong Linux and infrastructure fundamentals: systemd, networking, storage, filesystems, CPU/memory/disk bottlenecks, TLS, DNS, firewalls, and root-cause troubleshooting.</li><li>Automation skills with Ansible and scripting. Terraform/OpenTofu, GitLab CI/CD, and merge-request based delivery are strong advantages.</li><li>Ability to support more than one database engine. You do not need to be a ClickHouse expert on day one, but you must be ready to learn it quickly and take responsibility for it.</li><li>Practical use of AI engineering assistants such as Claude and Codex. We expect you to use them to improve speed and quality, while personally verifying generated SQL, commands, scripts, and operational conclusions.</li><li>Clear written English for asynchronous work in Jira, Slack, GitLab, Slite, and runbooks.</li></ul><p></p><p>Nice to Have:</p><ul><li>ClickHouse operations: replication, Keeper/ZooKeeper, MergeTree engines, distributed DDL, grants, row policies, backups, query troubleshooting, and cluster recovery.</li><li>MongoDB replica sets and Percona Backup for MongoDB.</li><li>Redis/Sentinel and broker/cache failure modes.</li><li>Database observability, SLOs, golden signals, alert tuning, and executable incident runbooks.</li><li>Building internal platforms, self-service portals, or DBaaS workflows for engineering teams.</li></ul>\n<p>What's in it for you?</p><ul><li>A focus on professional development.</li><li>Interesting and challenging projects.</li><li>Fully remote work with flexible working hours, which allows you to schedule your day and work from any location worldwide.</li><li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li><li>Compensation for private medical insurance.</li><li>Co-working and gym/sports reimbursement.</li><li>Budget for education.</li><li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li></ul><p></p><p>By applying for this position, you agree withÂ CloudLinux Privacy PolicyÂ and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</p><br/><br/>Please mention the word **UNDERSTANDABLE** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "location": "",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613",
+      "salary_min": 0,
+      "salary_max": 0,
+      "logo": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613"
+    }
+  },
+  {
     "id": "remoteok:1131612",
     "platform": "remoteok",
     "external_id": "1131612",
@@ -33,7 +115,7 @@
       "healthcare"
     ],
     "posted_at": "2026-05-16T08:00:12+00:00",
-    "fetched_at": "2026-05-17T12:45:28.854Z",
+    "fetched_at": "2026-05-17T18:46:01.957Z",
     "raw": {
       "slug": "remote-it-support-technician-avalere-health-1131612",
       "id": "1131612",
@@ -100,7 +182,7 @@
       "recruitment"
     ],
     "posted_at": "2026-05-16T08:00:05+00:00",
-    "fetched_at": "2026-05-17T12:45:28.855Z",
+    "fetched_at": "2026-05-17T18:46:01.958Z",
     "raw": {
       "slug": "remote-forward-deployed-engineer-agentic-platform-cohere-1131611",
       "id": "1131611",
@@ -167,7 +249,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-16T00:00:15+00:00",
-    "fetched_at": "2026-05-17T12:45:28.857Z",
+    "fetched_at": "2026-05-17T18:46:01.960Z",
     "raw": {
       "slug": "remote-sr-solution-architect-consultant-sales-engineer-cyara-1131610",
       "id": "1131610",
@@ -250,7 +332,7 @@
       "full-time"
     ],
     "posted_at": "2026-05-16T00:00:08+00:00",
-    "fetched_at": "2026-05-17T12:45:28.859Z",
+    "fetched_at": "2026-05-17T18:46:01.962Z",
     "raw": {
       "slug": "remote-operations-manager-a379-pearl-1131609",
       "id": "1131609",
@@ -333,7 +415,7 @@
       "shopify"
     ],
     "posted_at": "2026-05-16T00:00:02+00:00",
-    "fetched_at": "2026-05-17T12:45:28.860Z",
+    "fetched_at": "2026-05-17T18:46:01.964Z",
     "raw": {
       "slug": "remote-senior-cro-manager-growth-optimization-lead-for-us-dtc-company-paired-1131608",
       "id": "1131608",
@@ -393,7 +475,7 @@
       "reliability"
     ],
     "posted_at": "2026-05-15T08:00:02+00:00",
-    "fetched_at": "2026-05-17T12:45:28.861Z",
+    "fetched_at": "2026-05-17T18:46:01.964Z",
     "raw": {
       "slug": "remote-us-tax-law-ai-specialist-weekday-1131606",
       "id": "1131606",
@@ -444,7 +526,7 @@
       "sales"
     ],
     "posted_at": "2026-05-15T00:02:41+00:00",
-    "fetched_at": "2026-05-17T12:45:28.862Z",
+    "fetched_at": "2026-05-17T18:46:01.967Z",
     "raw": {
       "slug": "remote-sales-development-representative-inbound-yuno-1131605",
       "id": "1131605",
@@ -503,7 +585,7 @@
       "legal"
     ],
     "posted_at": "2026-05-15T00:02:35+00:00",
-    "fetched_at": "2026-05-17T12:45:28.863Z",
+    "fetched_at": "2026-05-17T18:46:01.968Z",
     "raw": {
       "slug": "remote-paralegal-contract-management-amp-legal-operations-kyverna-therapeutics-1131604",
       "id": "1131604",
@@ -558,7 +640,7 @@
       "support"
     ],
     "posted_at": "2026-05-15T00:02:28+00:00",
-    "fetched_at": "2026-05-17T12:45:28.863Z",
+    "fetched_at": "2026-05-17T18:46:01.968Z",
     "raw": {
       "slug": "remote-technical-support-specialist-riva-international-inc-1131603",
       "id": "1131603",
@@ -605,7 +687,7 @@
       "video"
     ],
     "posted_at": "2026-05-15T00:02:07+00:00",
-    "fetched_at": "2026-05-17T12:45:28.864Z",
+    "fetched_at": "2026-05-17T18:46:01.969Z",
     "raw": {
       "slug": "remote-work-from-home-break-free-of-the-9-5-global-elite-empire-consultants-1131602",
       "id": "1131602",
@@ -666,7 +748,7 @@
       "sales"
     ],
     "posted_at": "2026-05-15T00:02:00+00:00",
-    "fetched_at": "2026-05-17T12:45:28.865Z",
+    "fetched_at": "2026-05-17T18:46:01.970Z",
     "raw": {
       "slug": "remote-senior-accountant-volt-1131601",
       "id": "1131601",
@@ -722,7 +804,7 @@
       "trainer"
     ],
     "posted_at": "2026-05-15T00:01:54+00:00",
-    "fetched_at": "2026-05-17T12:45:28.865Z",
+    "fetched_at": "2026-05-17T18:46:01.970Z",
     "raw": {
       "slug": "remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600",
       "id": "1131600",
@@ -767,7 +849,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-15T00:01:18+00:00",
-    "fetched_at": "2026-05-17T12:45:28.866Z",
+    "fetched_at": "2026-05-17T18:46:01.970Z",
     "raw": {
       "slug": "remote-1090-video-editor-gofasti-1131599",
       "id": "1131599",
@@ -817,7 +899,7 @@
       "health"
     ],
     "posted_at": "2026-05-15T00:00:54+00:00",
-    "fetched_at": "2026-05-17T12:45:28.866Z",
+    "fetched_at": "2026-05-17T18:46:01.971Z",
     "raw": {
       "slug": "remote-pre-licensed-child-adolescent-therapist-instride-health-1131598",
       "id": "1131598",
@@ -871,7 +953,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-15T00:00:23+00:00",
-    "fetched_at": "2026-05-17T12:45:28.867Z",
+    "fetched_at": "2026-05-17T18:46:01.971Z",
     "raw": {
       "slug": "remote-senior-manager-biostatistician-consultant-us-clinchoice-1131597",
       "id": "1131597",
@@ -928,7 +1010,7 @@
       "engineer"
     ],
     "posted_at": "2026-05-14T16:01:53+00:00",
-    "fetched_at": "2026-05-17T12:45:28.868Z",
+    "fetched_at": "2026-05-17T18:46:01.972Z",
     "raw": {
       "slug": "remote-application-support-engineer-cresta-1131596",
       "id": "1131596",
@@ -990,7 +1072,7 @@
       "backend"
     ],
     "posted_at": "2026-05-14T16:01:22+00:00",
-    "fetched_at": "2026-05-17T12:45:28.869Z",
+    "fetched_at": "2026-05-17T18:46:01.972Z",
     "raw": {
       "slug": "remote-software-engineer-obsidian-security-1131595",
       "id": "1131595",
@@ -1047,7 +1129,7 @@
       "devops"
     ],
     "posted_at": "2026-05-14T15:12:08+00:00",
-    "fetched_at": "2026-05-17T12:45:28.870Z",
+    "fetched_at": "2026-05-17T18:46:01.973Z",
     "raw": {
       "slug": "remote-devrel-content-creator-superplane-1131594",
       "id": "1131594",
@@ -1100,7 +1182,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-14T14:00:02+00:00",
-    "fetched_at": "2026-05-17T12:45:28.870Z",
+    "fetched_at": "2026-05-17T18:46:01.973Z",
     "raw": {
       "slug": "remote-senior-golang-developer-tre-altamira-srl-1131593",
       "id": "1131593",
@@ -1163,7 +1245,7 @@
       "postgres"
     ],
     "posted_at": "2026-05-14T09:44:31+00:00",
-    "fetched_at": "2026-05-17T12:45:28.870Z",
+    "fetched_at": "2026-05-17T18:46:01.974Z",
     "raw": {
       "slug": "remote-software-engineer-sticker-mule-1131592",
       "id": "1131592",
@@ -1229,7 +1311,7 @@
       "healthcare"
     ],
     "posted_at": "2026-05-14T08:00:18+00:00",
-    "fetched_at": "2026-05-17T12:45:28.872Z",
+    "fetched_at": "2026-05-17T18:46:01.976Z",
     "raw": {
       "slug": "remote-it-support-technician-avalere-health-1131591",
       "id": "1131591",
@@ -1295,7 +1377,7 @@
       "healthcare"
     ],
     "posted_at": "2026-05-14T08:00:12+00:00",
-    "fetched_at": "2026-05-17T12:45:28.873Z",
+    "fetched_at": "2026-05-17T18:46:01.977Z",
     "raw": {
       "slug": "remote-account-supervisor-avalere-health-1131590",
       "id": "1131590",
@@ -1356,7 +1438,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-14T08:00:05+00:00",
-    "fetched_at": "2026-05-17T12:45:28.874Z",
+    "fetched_at": "2026-05-17T18:46:01.978Z",
     "raw": {
       "slug": "remote-product-manager-cosuno-1131589",
       "id": "1131589",
@@ -1432,7 +1514,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-14T00:02:15+00:00",
-    "fetched_at": "2026-05-17T12:45:28.875Z",
+    "fetched_at": "2026-05-17T18:46:01.979Z",
     "raw": {
       "slug": "remote-staff-engineer-platform-engineering-highlevel-1131588",
       "id": "1131588",
@@ -1502,7 +1584,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-14T00:02:09+00:00",
-    "fetched_at": "2026-05-17T12:45:28.876Z",
+    "fetched_at": "2026-05-17T18:46:01.980Z",
     "raw": {
       "slug": "remote-business-analyst-judi-health-1131587",
       "id": "1131587",
@@ -1555,7 +1637,7 @@
       "backend"
     ],
     "posted_at": "2026-05-14T00:01:41+00:00",
-    "fetched_at": "2026-05-17T12:45:28.876Z",
+    "fetched_at": "2026-05-17T18:46:01.980Z",
     "raw": {
       "slug": "remote-staff-backend-engineer-core-product-kalepa-1131586",
       "id": "1131586",
@@ -1620,7 +1702,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-14T00:01:18+00:00",
-    "fetched_at": "2026-05-17T12:45:28.878Z",
+    "fetched_at": "2026-05-17T18:46:01.982Z",
     "raw": {
       "slug": "remote-capture-analyst-altarum-1131585",
       "id": "1131585",
@@ -1680,7 +1762,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-14T00:01:01+00:00",
-    "fetched_at": "2026-05-17T12:45:28.879Z",
+    "fetched_at": "2026-05-17T18:46:01.983Z",
     "raw": {
       "slug": "remote-customer-experience-manager-bennie-1131584",
       "id": "1131584",
@@ -1728,7 +1810,7 @@
       "operations"
     ],
     "posted_at": "2026-05-14T00:00:34+00:00",
-    "fetched_at": "2026-05-17T12:45:28.879Z",
+    "fetched_at": "2026-05-17T18:46:01.983Z",
     "raw": {
       "slug": "remote-senior-manager-business-operations-givedirectly-1131583",
       "id": "1131583",
@@ -1778,7 +1860,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-14T00:00:09+00:00",
-    "fetched_at": "2026-05-17T12:45:28.880Z",
+    "fetched_at": "2026-05-17T18:46:01.984Z",
     "raw": {
       "slug": "remote-business-immigration-paralegal-latam-hirehawk-1131582",
       "id": "1131582",
@@ -1832,7 +1914,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-14T00:00:02+00:00",
-    "fetched_at": "2026-05-17T12:45:28.880Z",
+    "fetched_at": "2026-05-17T18:46:01.984Z",
     "raw": {
       "slug": "remote-appointment-setter-mexico-hirehawk-1131581",
       "id": "1131581",
@@ -1888,7 +1970,7 @@
       "full-time"
     ],
     "posted_at": "2026-05-13T16:02:43+00:00",
-    "fetched_at": "2026-05-17T12:45:28.882Z",
+    "fetched_at": "2026-05-17T18:46:01.986Z",
     "raw": {
       "slug": "remote-revenue-cycle-specialist-osmind-1131580",
       "id": "1131580",
@@ -1943,7 +2025,7 @@
       "executive"
     ],
     "posted_at": "2026-05-13T16:02:36+00:00",
-    "fetched_at": "2026-05-17T12:45:28.883Z",
+    "fetched_at": "2026-05-17T18:46:01.987Z",
     "raw": {
       "slug": "remote-chief-revenue-officer-continuumglobal-inc-1131579",
       "id": "1131579",
@@ -1997,7 +2079,7 @@
       "engineer"
     ],
     "posted_at": "2026-05-13T16:01:55+00:00",
-    "fetched_at": "2026-05-17T12:45:28.883Z",
+    "fetched_at": "2026-05-17T18:46:01.987Z",
     "raw": {
       "slug": "remote-senior-software-engineer-centralreach-1131578",
       "id": "1131578",
@@ -2056,7 +2138,7 @@
       "recruitment"
     ],
     "posted_at": "2026-05-13T16:00:03+00:00",
-    "fetched_at": "2026-05-17T12:45:28.884Z",
+    "fetched_at": "2026-05-17T18:46:01.989Z",
     "raw": {
       "slug": "remote-business-development-representative-sprinto-1131577",
       "id": "1131577",
@@ -2129,7 +2211,7 @@
       "executive"
     ],
     "posted_at": "2026-05-13T08:00:24+00:00",
-    "fetched_at": "2026-05-17T12:45:28.886Z",
+    "fetched_at": "2026-05-17T18:46:01.990Z",
     "raw": {
       "slug": "remote-senior-sales-engineer-glia-1131576",
       "id": "1131576",
@@ -2194,7 +2276,7 @@
       "engineer"
     ],
     "posted_at": "2026-05-13T00:02:49+00:00",
-    "fetched_at": "2026-05-17T12:45:28.886Z",
+    "fetched_at": "2026-05-17T18:46:01.991Z",
     "raw": {
       "slug": "remote-engenharia-software-engineer-iii-golang-stone-1131575",
       "id": "1131575",
@@ -2248,7 +2330,7 @@
       "sales"
     ],
     "posted_at": "2026-05-13T00:02:24+00:00",
-    "fetched_at": "2026-05-17T12:45:28.887Z",
+    "fetched_at": "2026-05-17T18:46:01.992Z",
     "raw": {
       "slug": "remote-director-enterprise-sales-firework-1131574",
       "id": "1131574",
@@ -2308,7 +2390,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-13T00:02:18+00:00",
-    "fetched_at": "2026-05-17T12:45:28.888Z",
+    "fetched_at": "2026-05-17T18:46:01.992Z",
     "raw": {
       "slug": "remote-recruiter-gtm-sales-doordash-usa-1131573",
       "id": "1131573",
@@ -2388,7 +2470,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-13T00:01:58+00:00",
-    "fetched_at": "2026-05-17T12:45:28.889Z",
+    "fetched_at": "2026-05-17T18:46:01.994Z",
     "raw": {
       "slug": "remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572",
       "id": "1131572",
@@ -2449,7 +2531,7 @@
       "medical"
     ],
     "posted_at": "2026-05-13T00:01:45+00:00",
-    "fetched_at": "2026-05-17T12:45:28.889Z",
+    "fetched_at": "2026-05-17T18:46:01.994Z",
     "raw": {
       "slug": "remote-senior-medical-editor-omnicom-health-1131571",
       "id": "1131571",
@@ -2499,7 +2581,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-13T00:01:26+00:00",
-    "fetched_at": "2026-05-17T12:45:28.890Z",
+    "fetched_at": "2026-05-17T18:46:01.995Z",
     "raw": {
       "slug": "remote-pricing-manager-affirmedrx-pbc-1131570",
       "id": "1131570",
@@ -2549,7 +2631,7 @@
       "operations"
     ],
     "posted_at": "2026-05-13T00:01:00+00:00",
-    "fetched_at": "2026-05-17T12:45:28.890Z",
+    "fetched_at": "2026-05-17T18:46:01.995Z",
     "raw": {
       "slug": "remote-director-of-market-development-beale-infrastructure-1131569",
       "id": "1131569",
@@ -2601,7 +2683,7 @@
       "health"
     ],
     "posted_at": "2026-05-13T00:00:37+00:00",
-    "fetched_at": "2026-05-17T12:45:28.891Z",
+    "fetched_at": "2026-05-17T18:46:01.996Z",
     "raw": {
       "slug": "remote-digital-marketing-manager-care-access-1131568",
       "id": "1131568",
@@ -2653,7 +2735,7 @@
       "engineer"
     ],
     "posted_at": "2026-05-13T00:00:19+00:00",
-    "fetched_at": "2026-05-17T12:45:28.891Z",
+    "fetched_at": "2026-05-17T18:46:01.996Z",
     "raw": {
       "slug": "remote-senior-software-engineer-phaidra-1131567",
       "id": "1131567",
@@ -2711,7 +2793,7 @@
       "content"
     ],
     "posted_at": "2026-05-12T16:01:54+00:00",
-    "fetched_at": "2026-05-17T12:45:28.892Z",
+    "fetched_at": "2026-05-17T18:46:01.997Z",
     "raw": {
       "slug": "remote-language-quality-manager-welo-global-1131565",
       "id": "1131565",
@@ -2769,7 +2851,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-12T16:01:47+00:00",
-    "fetched_at": "2026-05-17T12:45:28.892Z",
+    "fetched_at": "2026-05-17T18:46:01.998Z",
     "raw": {
       "slug": "remote-contract-mandarin-document-review-attorney-contact-government-services-llc-1131564",
       "id": "1131564",
@@ -2823,7 +2905,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-12T16:01:26+00:00",
-    "fetched_at": "2026-05-17T12:45:28.893Z",
+    "fetched_at": "2026-05-17T18:46:01.998Z",
     "raw": {
       "slug": "remote-net-developer-advocate-jetbrains-1131563",
       "id": "1131563",
@@ -2874,7 +2956,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-12T16:00:19+00:00",
-    "fetched_at": "2026-05-17T12:45:28.893Z",
+    "fetched_at": "2026-05-17T18:46:01.999Z",
     "raw": {
       "slug": "remote-clinical-marketing-director-genomenon-1131562",
       "id": "1131562",
@@ -2931,7 +3013,7 @@
       "engineer"
     ],
     "posted_at": "2026-05-12T08:01:56+00:00",
-    "fetched_at": "2026-05-17T12:45:28.894Z",
+    "fetched_at": "2026-05-17T18:46:02.000Z",
     "raw": {
       "slug": "remote-tier-ii-iii-uc-support-engineer-ttec-digital-1131561",
       "id": "1131561",
@@ -2985,7 +3067,7 @@
       "engineering"
     ],
     "posted_at": "2026-05-12T08:01:50+00:00",
-    "fetched_at": "2026-05-17T12:45:28.894Z",
+    "fetched_at": "2026-05-17T18:46:02.000Z",
     "raw": {
       "slug": "remote-nuclear-engineer-iii-nuclear-safety-analysis-deep-fission-inc-1131560",
       "id": "1131560",
@@ -3034,7 +3116,7 @@
       "senior"
     ],
     "posted_at": "2026-05-12T08:01:15+00:00",
-    "fetched_at": "2026-05-17T12:45:28.895Z",
+    "fetched_at": "2026-05-17T18:46:02.001Z",
     "raw": {
       "slug": "remote-senior-director-nuclear-programs-deep-fission-inc-1131559",
       "id": "1131559",
@@ -3100,7 +3182,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-12T08:00:29+00:00",
-    "fetched_at": "2026-05-17T12:45:28.897Z",
+    "fetched_at": "2026-05-17T18:46:02.003Z",
     "raw": {
       "slug": "remote-vp-of-product-and-partnerships-uconnect-1131558",
       "id": "1131558",
@@ -3169,7 +3251,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-12T08:00:23+00:00",
-    "fetched_at": "2026-05-17T12:45:28.897Z",
+    "fetched_at": "2026-05-17T18:46:02.003Z",
     "raw": {
       "slug": "remote-technical-solutions-analyst-varicent-1131557",
       "id": "1131557",
@@ -3228,7 +3310,7 @@
       "executive"
     ],
     "posted_at": "2026-05-12T00:01:48+00:00",
-    "fetched_at": "2026-05-17T12:45:28.897Z",
+    "fetched_at": "2026-05-17T18:46:02.004Z",
     "raw": {
       "slug": "remote-vp-population-health-covera-health-1131556",
       "id": "1131556",
@@ -3293,7 +3375,7 @@
       "sales"
     ],
     "posted_at": "2026-05-12T00:01:21+00:00",
-    "fetched_at": "2026-05-17T12:45:28.898Z",
+    "fetched_at": "2026-05-17T18:46:02.005Z",
     "raw": {
       "slug": "remote-freelance-seo-aeo-strategist-smartbug-media-point-sucess-globalia-1131555",
       "id": "1131555",
@@ -3354,7 +3436,7 @@
       "health"
     ],
     "posted_at": "2026-05-12T00:01:15+00:00",
-    "fetched_at": "2026-05-17T12:45:28.899Z",
+    "fetched_at": "2026-05-17T18:46:02.006Z",
     "raw": {
       "slug": "remote-operations-and-support-associate-emora-health-1131554",
       "id": "1131554",
@@ -3419,7 +3501,7 @@
       "e-commerce"
     ],
     "posted_at": "2026-05-12T00:01:08+00:00",
-    "fetched_at": "2026-05-17T12:45:28.901Z",
+    "fetched_at": "2026-05-17T18:46:02.008Z",
     "raw": {
       "slug": "remote-performance-marketing-manager-giddyup-1131553",
       "id": "1131553",
@@ -3487,7 +3569,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-12T00:01:02+00:00",
-    "fetched_at": "2026-05-17T12:45:28.902Z",
+    "fetched_at": "2026-05-17T18:46:02.009Z",
     "raw": {
       "slug": "remote-manager-platform-engineering-natera-1131552",
       "id": "1131552",
@@ -3549,7 +3631,7 @@
       "healthcare"
     ],
     "posted_at": "2026-05-12T00:00:34+00:00",
-    "fetched_at": "2026-05-17T12:45:28.903Z",
+    "fetched_at": "2026-05-17T18:46:02.011Z",
     "raw": {
       "slug": "remote-vice-president-drg-enablecomp-1131551",
       "id": "1131551",
@@ -3611,7 +3693,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-12T00:00:27+00:00",
-    "fetched_at": "2026-05-17T12:45:28.905Z",
+    "fetched_at": "2026-05-17T18:46:02.012Z",
     "raw": {
       "slug": "remote-customer-success-manager-wishpond-technologies-1131550",
       "id": "1131550",
@@ -3669,7 +3751,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-12T00:00:20+00:00",
-    "fetched_at": "2026-05-17T12:45:28.905Z",
+    "fetched_at": "2026-05-17T18:46:02.013Z",
     "raw": {
       "slug": "remote-academic-engagement-manager-usa-calyxo-1131549",
       "id": "1131549",
@@ -3720,7 +3802,7 @@
       "manager"
     ],
     "posted_at": "2026-05-11T16:02:38+00:00",
-    "fetched_at": "2026-05-17T12:45:28.905Z",
+    "fetched_at": "2026-05-17T18:46:02.013Z",
     "raw": {
       "slug": "remote-project-manager-french-english-fluent-brandtech-1131548",
       "id": "1131548",
@@ -3766,7 +3848,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-11T16:00:32+00:00",
-    "fetched_at": "2026-05-17T12:45:28.906Z",
+    "fetched_at": "2026-05-17T18:46:02.013Z",
     "raw": {
       "slug": "remote-destination-coordinator-careers-in-travel-destination-planners-1131547",
       "id": "1131547",
@@ -3815,7 +3897,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-11T16:00:25+00:00",
-    "fetched_at": "2026-05-17T12:45:28.907Z",
+    "fetched_at": "2026-05-17T18:46:02.014Z",
     "raw": {
       "slug": "remote-travel-support-advisor-careers-in-travel-destination-planners-1131546",
       "id": "1131546",
@@ -3867,7 +3949,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-11T16:00:19+00:00",
-    "fetched_at": "2026-05-17T12:45:28.908Z",
+    "fetched_at": "2026-05-17T18:46:02.015Z",
     "raw": {
       "slug": "remote-travel-operations-coordinator-careers-in-travel-destination-planners-1131545",
       "id": "1131545",
@@ -3919,7 +4001,7 @@
       "growth"
     ],
     "posted_at": "2026-05-11T16:00:10+00:00",
-    "fetched_at": "2026-05-17T12:45:28.908Z",
+    "fetched_at": "2026-05-17T18:46:02.016Z",
     "raw": {
       "slug": "remote-travel-appointment-coordinator-careers-in-travel-destination-planners-1131544",
       "id": "1131544",
@@ -3968,7 +4050,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-11T16:00:03+00:00",
-    "fetched_at": "2026-05-17T12:45:28.909Z",
+    "fetched_at": "2026-05-17T18:46:02.016Z",
     "raw": {
       "slug": "remote-itinerary-support-coordinator-no-experience-needed-careers-in-travel-destination-planners-1131543",
       "id": "1131543",
@@ -4018,7 +4100,7 @@
       "crypto"
     ],
     "posted_at": "2026-05-11T13:00:52+00:00",
-    "fetched_at": "2026-05-17T12:45:28.909Z",
+    "fetched_at": "2026-05-17T18:46:02.017Z",
     "raw": {
       "slug": "remote-crypto-trader-maidel-group-1131541",
       "id": "1131541",
@@ -4070,7 +4152,7 @@
       "engineer"
     ],
     "posted_at": "2026-05-11T09:00:01+00:00",
-    "fetched_at": "2026-05-17T12:45:28.909Z",
+    "fetched_at": "2026-05-17T18:46:02.017Z",
     "raw": {
       "slug": "remote-tooling-engineer-unikraft-1131540",
       "id": "1131540",
@@ -4119,7 +4201,7 @@
       "ai"
     ],
     "posted_at": "2026-05-11T02:41:10+00:00",
-    "fetched_at": "2026-05-17T12:45:28.910Z",
+    "fetched_at": "2026-05-17T18:46:02.018Z",
     "raw": {
       "slug": "remote-meta-ads-manager-creative-producer-ai-native-singularads-com-1131538",
       "id": "1131538",
@@ -4178,7 +4260,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-10T16:00:26+00:00",
-    "fetched_at": "2026-05-17T12:45:28.911Z",
+    "fetched_at": "2026-05-17T18:46:02.018Z",
     "raw": {
       "slug": "remote-senior-marketing-manager-cro-experience-required-precision-medicine-group-1131536",
       "id": "1131536",
@@ -4235,7 +4317,7 @@
       "support"
     ],
     "posted_at": "2026-05-10T08:00:09+00:00",
-    "fetched_at": "2026-05-17T12:45:28.911Z",
+    "fetched_at": "2026-05-17T18:46:02.019Z",
     "raw": {
       "slug": "remote-online-hospitality-services-coordinator-entry-level-aisles-amp-abroad-1131534",
       "id": "1131534",
@@ -4291,7 +4373,7 @@
       "executive"
     ],
     "posted_at": "2026-05-10T08:00:03+00:00",
-    "fetched_at": "2026-05-17T12:45:28.913Z",
+    "fetched_at": "2026-05-17T18:46:02.021Z",
     "raw": {
       "slug": "remote-account-executive-southeast-apollo-information-systems-1131533",
       "id": "1131533",
@@ -4350,7 +4432,7 @@
       "engineering"
     ],
     "posted_at": "2026-05-09T16:00:33+00:00",
-    "fetched_at": "2026-05-17T12:45:28.914Z",
+    "fetched_at": "2026-05-17T18:46:02.022Z",
     "raw": {
       "slug": "remote-cnc-machinist-milling-cx2-1131532",
       "id": "1131532",
@@ -4410,7 +4492,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-09T16:00:24+00:00",
-    "fetched_at": "2026-05-17T12:45:28.915Z",
+    "fetched_at": "2026-05-17T18:46:02.024Z",
     "raw": {
       "slug": "remote-staff-product-manager-enterprise-livekit-1131531",
       "id": "1131531",
@@ -4466,7 +4548,7 @@
       "operations"
     ],
     "posted_at": "2026-05-09T16:00:18+00:00",
-    "fetched_at": "2026-05-17T12:45:28.915Z",
+    "fetched_at": "2026-05-17T18:46:02.024Z",
     "raw": {
       "slug": "remote-customer-support-representative-boom-entertainment-1131530",
       "id": "1131530",
@@ -4539,7 +4621,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-09T08:00:10+00:00",
-    "fetched_at": "2026-05-17T12:45:28.917Z",
+    "fetched_at": "2026-05-17T18:46:02.026Z",
     "raw": {
       "slug": "remote-lead-software-engineer-csc-generation-1131529",
       "id": "1131529",
@@ -4618,7 +4700,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-09T08:00:03+00:00",
-    "fetched_at": "2026-05-17T12:45:28.918Z",
+    "fetched_at": "2026-05-17T18:46:02.027Z",
     "raw": {
       "slug": "remote-marketing-copywriter-bis-safety-software-1131528",
       "id": "1131528",
@@ -4687,7 +4769,7 @@
       "engineer"
     ],
     "posted_at": "2026-05-09T00:02:42+00:00",
-    "fetched_at": "2026-05-17T12:45:28.918Z",
+    "fetched_at": "2026-05-17T18:46:02.028Z",
     "raw": {
       "slug": "remote-senior-software-engineer-i-clariti-cloud-inc-1131527",
       "id": "1131527",
@@ -4748,7 +4830,7 @@
       "go"
     ],
     "posted_at": "2026-05-09T00:02:16+00:00",
-    "fetched_at": "2026-05-17T12:45:28.920Z",
+    "fetched_at": "2026-05-17T18:46:02.030Z",
     "raw": {
       "slug": "remote-manager-collections-amp-recoveries-forbright-bank-1131526",
       "id": "1131526",
@@ -4817,7 +4899,7 @@
       "executive"
     ],
     "posted_at": "2026-05-09T00:02:10+00:00",
-    "fetched_at": "2026-05-17T12:45:28.921Z",
+    "fetched_at": "2026-05-17T18:46:02.031Z",
     "raw": {
       "slug": "remote-customer-success-manager-cipherhealth-1131525",
       "id": "1131525",
@@ -4874,7 +4956,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-09T00:01:52+00:00",
-    "fetched_at": "2026-05-17T12:45:28.921Z",
+    "fetched_at": "2026-05-17T18:46:02.031Z",
     "raw": {
       "slug": "remote-1086-digital-marketing-specialist-gofasti-1131524",
       "id": "1131524",
@@ -4922,7 +5004,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-09T00:01:21+00:00",
-    "fetched_at": "2026-05-17T12:45:28.921Z",
+    "fetched_at": "2026-05-17T18:46:02.031Z",
     "raw": {
       "slug": "remote-asset-administration-operations-specialist-forge-global-1131523",
       "id": "1131523",
@@ -4974,7 +5056,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-09T00:00:48+00:00",
-    "fetched_at": "2026-05-17T12:45:28.922Z",
+    "fetched_at": "2026-05-17T18:46:02.032Z",
     "raw": {
       "slug": "remote-patient-operations-coordinator-rivia-mind-mental-healthcare-1131522",
       "id": "1131522",
@@ -5026,7 +5108,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-09T00:00:07+00:00",
-    "fetched_at": "2026-05-17T12:45:28.922Z",
+    "fetched_at": "2026-05-17T18:46:02.032Z",
     "raw": {
       "slug": "remote-fully-cruise-amp-resort-booking-specialist-careers-in-travel-destination-planners-1131521",
       "id": "1131521",
@@ -5092,7 +5174,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-08T16:01:13+00:00",
-    "fetched_at": "2026-05-17T12:45:28.923Z",
+    "fetched_at": "2026-05-17T18:46:02.033Z",
     "raw": {
       "slug": "remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520",
       "id": "1131520",
@@ -5150,7 +5232,7 @@
       "operations"
     ],
     "posted_at": "2026-05-08T08:00:48+00:00",
-    "fetched_at": "2026-05-17T12:45:28.923Z",
+    "fetched_at": "2026-05-17T18:46:02.034Z",
     "raw": {
       "slug": "remote-senior-manager-government-industry-affairs-operations-vgw-1131518",
       "id": "1131518",
@@ -5202,7 +5284,7 @@
       "operational"
     ],
     "posted_at": "2026-05-08T08:00:34+00:00",
-    "fetched_at": "2026-05-17T12:45:28.923Z",
+    "fetched_at": "2026-05-17T18:46:02.034Z",
     "raw": {
       "slug": "remote-people-operations-lead-defense-unicorns-1131517",
       "id": "1131517",
@@ -5259,7 +5341,7 @@
       "dev"
     ],
     "posted_at": "2026-05-08T01:00:28+00:00",
-    "fetched_at": "2026-05-17T12:45:28.924Z",
+    "fetched_at": "2026-05-17T18:46:02.035Z",
     "raw": {
       "slug": "remote-web-development-specialist-marketers-in-demand-1131516",
       "id": "1131516",
@@ -5312,7 +5394,7 @@
       "go"
     ],
     "posted_at": "2026-05-08T00:06:04+00:00",
-    "fetched_at": "2026-05-17T12:45:28.925Z",
+    "fetched_at": "2026-05-17T18:46:02.035Z",
     "raw": {
       "slug": "remote-principal-marketing-analytics-manager-greenhouse-1131515",
       "id": "1131515",
@@ -5365,7 +5447,7 @@
       "sales"
     ],
     "posted_at": "2026-05-08T00:05:13+00:00",
-    "fetched_at": "2026-05-17T12:45:28.925Z",
+    "fetched_at": "2026-05-17T18:46:02.036Z",
     "raw": {
       "slug": "remote-sales-development-representative-kiavi-1131514",
       "id": "1131514",
@@ -5415,7 +5497,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-08T00:03:22+00:00",
-    "fetched_at": "2026-05-17T12:45:28.925Z",
+    "fetched_at": "2026-05-17T18:46:02.036Z",
     "raw": {
       "slug": "remote-talent-acquisition-pipeline-manager-nava-pbc-1131513",
       "id": "1131513",
@@ -5476,7 +5558,7 @@
       "full-time"
     ],
     "posted_at": "2026-05-08T00:01:48+00:00",
-    "fetched_at": "2026-05-17T12:45:28.926Z",
+    "fetched_at": "2026-05-17T18:46:02.039Z",
     "raw": {
       "slug": "remote-analytics-engineer-civitech-1131512",
       "id": "1131512",
@@ -5530,7 +5612,7 @@
       "non tech"
     ],
     "posted_at": "2026-05-08T00:01:14+00:00",
-    "fetched_at": "2026-05-17T12:45:28.927Z",
+    "fetched_at": "2026-05-17T18:46:02.039Z",
     "raw": {
       "slug": "remote-mental-health-counselor-therapist-social-worker-new-york-rivia-mind-mental-healthcare-1131511",
       "id": "1131511",
@@ -5580,7 +5662,7 @@
       "health"
     ],
     "posted_at": "2026-05-08T00:00:41+00:00",
-    "fetched_at": "2026-05-17T12:45:28.927Z",
+    "fetched_at": "2026-05-17T18:46:02.040Z",
     "raw": {
       "slug": "remote-drug-alcohol-counselor-pelago-1131510",
       "id": "1131510",
@@ -5670,7 +5752,7 @@
       "digital nomad"
     ],
     "posted_at": "2026-05-08T00:00:03+00:00",
-    "fetched_at": "2026-05-17T12:45:28.929Z",
+    "fetched_at": "2026-05-17T18:46:02.042Z",
     "raw": {
       "slug": "remote-tech-lead-zensurance-1131509",
       "id": "1131509",
@@ -5744,7 +5826,7 @@
       "engineer"
     ],
     "posted_at": "2026-05-07T12:00:02+00:00",
-    "fetched_at": "2026-05-17T12:45:28.929Z",
+    "fetched_at": "2026-05-17T18:46:02.042Z",
     "raw": {
       "slug": "remote-senior-software-engineer-cast-ai-1131507",
       "id": "1131507",
@@ -5766,57 +5848,6 @@
       "salary_max": 0,
       "logo": "",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-cast-ai-1131507"
-    }
-  },
-  {
-    "id": "remoteok:1131505",
-    "platform": "remoteok",
-    "external_id": "1131505",
-    "title": "Clinical Provider",
-    "company": "Intellect",
-    "description": "You will be a practitioner on our telehealth platform 'Intellect', where your role is to support our clients' mental health and personal growth based on the individual needs and goals. This is delivered primarily through scheduled 60-minute video sessions on our platform. This is a freelance remote role with the flexibility to decide your business hours. Local candidates are preferred but others can still be considered. This role is a great opportunity to supplement your current job or private practice. We're seeking to partner with Clinical Psychologists and Counsellors to be part of a community working collaboratively to bring greater mental health access to the public to provide mental health coaching What You'll Do Provide 1-on-1 telehealth/or onsite mental health support for Intellectâs clients Focus on clinical cases such as depression, anxiety, trauma, schizophrenia, eating disorders, addiction etc. Collaboratively work with the internal clinical team by suggesting improvements to the program and the platform Has a Masters in Counselling or Clinical Psychology Candidates must be skilled in Cognitive Behavioural Therapy or other evidence-based approaches (e.g. Motivational Interviewing, DBT, SFBT, etc.) Candidate must have at least 300 clinical hours post masters degree Candidate can communicate in English and their local language Candidates with prior experience in EAP, counselling working adults or coaching managerial roles is a plus Candidates who are open to working onsite if necessary is a plus Remote role with the flexibility to decide your business hours Great opportunity to supplement your current job or private practice Please mention the word **NOBLE** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-clinical-provider-intellect-1131505",
-    "salary_min": 0,
-    "salary_max": 0,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "freelance",
-    "experience_level": null,
-    "location": "KrakÃ³w",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "dbt"
-    ],
-    "tags": [
-      "support",
-      "growth",
-      "video",
-      "health"
-    ],
-    "posted_at": "2026-05-07T08:00:09+00:00",
-    "fetched_at": "2026-05-17T12:45:28.930Z",
-    "raw": {
-      "slug": "remote-clinical-provider-intellect-1131505",
-      "id": "1131505",
-      "epoch": 1778140809,
-      "date": "2026-05-07T08:00:09+00:00",
-      "company": "Intellect",
-      "company_logo": "",
-      "position": "Clinical Provider",
-      "tags": [
-        "support",
-        "growth",
-        "video",
-        "health"
-      ],
-      "description": "<p>You will be a practitioner on our telehealth platform 'Intellect', where your role is to support our clients' mental health and personal growth based on the individual needs and goals. This is delivered primarily through scheduled 60-minute video sessions on our platform.</p><p></p><p>This is a freelance remote role with the flexibility to decide your business hours. Local candidates are preferred but others can still be considered. This role is a great opportunity to supplement your current job or private practice.</p><p></p><p>We're seeking to partner with Clinical Psychologists and Counsellors to be part of a community working collaboratively to bring greater mental health access to the public to provide mental health coaching</p><p>What You'll Do</p><ul> <li>Provide 1-on-1 telehealth/or onsite mental health support for Intellectâs clients</li> <li>Focus on clinical cases such as depression, anxiety, trauma, schizophrenia, eating disorders, addiction etc.</li> <li>Collaboratively work with the internal clinical team by suggesting improvements to the program and the platform</li> </ul>\n<ul> <li>Has a Masters in Counselling or Clinical Psychology</li> <li>Candidates must be skilled in Cognitive Behavioural Therapy or other evidence-based approaches (e.g. Motivational Interviewing, DBT, SFBT, etc.)</li> <li>Candidate must have at least 300 clinical hours post masters degree</li> <li>Candidate can communicate in English and their local language</li> <li>Candidates with prior experience in EAP, counselling working adults or coaching managerial roles is a plus</li> <li>Candidates who are open to working onsite if necessary is a plus</li> </ul>\n<ul> <li>Remote role with the flexibility to decide your business hours</li> <li>Great opportunity to supplement your current job or private practice</li> </ul><br/><br/>Please mention the word **NOBLE** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "location": "KrakÃ³w",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-clinical-provider-intellect-1131505",
-      "salary_min": 0,
-      "salary_max": 0,
-      "logo": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-provider-intellect-1131505"
     }
   }
 ]
