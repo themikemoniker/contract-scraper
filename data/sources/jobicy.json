@@ -1,5 +1,97 @@
 [
   {
+    "id": "jobicy:144256",
+    "platform": "jobicy",
+    "external_id": "144256",
+    "title": "VP of Engineering",
+    "company": "Crystal Intelligence",
+    "description": "About Crystal Crystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability risk and transaction intelligence that powers operational decisions. Crystal is entering the most consequential platform shift in its history: a full migration from our current data architecture to a new, AI-native data pipeline that will define the company's next decade of scale, speed, and product capability. This is the role that owns it. Role summary Crystal's engineering organization has grown organically. The current architecture serves a large and loyal customer base, but it is reaching the limits of what feature-driven growth can sustain. In parallel, we have built a new data pipeline architecture led by a dedicated platform team. The strategic priority for 2026 is to migrate Crystal end-to-end from the legacy stack to the new pipeline - without disrupting customer SLAs, while continuing to ship the product roadmap, and while rebuilding engineering management discipline. The VP of Engineering will own this migration. The mission is concrete: deliver the new pipeline into production behind every Crystal product, restore platform-grade latency and reliability, and convert the existing organization into one that ships predictably and uses AI as a productivity multiplier. What You’ll Do Own the platform migration end-to-end Lead the integration of the new data pipeline into all Crystal products: Crystal Expert, Crystal Foresight, Monitor, Risk Check API, Data Intelligence, and Crystal Light Sequence the migration to preserve revenue and customer trust: no SLA regressions, no rollback drama, no surprise downtime Drive the architectural decisions and trade-offs that the legacy-to-new transition requires, including data model alignment, service-by-service cutover, and parallel-run validation Hold engineering, product, and customer success aligned on a single migration roadmap with clear customer-impact gates Restore platform foundations Bring API and core platform latency back to target: 1,000 RPS at sub-two-second latency, scaling toward 10k RPS Reduce database load, fix stability regressions exposed by recent releases, raise release velocity to multiple deployments per week Lead the multi-chain platform with discipline across 100+ chains: predictable integration timelines, accountable squad ownership, clear SLAs to commercial partners Rebuild the engineering management layer Partner with the existing engineering leadership to establish clear accountability across squad leads, engineering managers, and platform teams Set the standard for what good engineering management looks like at Crystal: predictable delivery, transparent planning, technical depth, people development Make the hiring, performance, and structural decisions required to bring the organization to the level the platform demands Drive AI into engineering as a productivity lever Build shared infrastructure for AI-assisted engineering: code generation, automated testing, agent-based migration tooling, internal knowledge systems Move Crystal from individual AI tool usage to organization-wide AI productivity, with measurable impact on delivery throughput Reduce OpEx-to-revenue through architectural improvements, automation, and reduction of manual operational load Partner with the business Work directly with product, GTM, customer success, and finance to translate engineering investments into customer outcomes and revenue Communicate trade-offs, risks, and progress clearly to the executive team and board Own the engineering budget, hiring plan, and vendor decisions What Success Looks Like (12 Months) New data pipeline architecture is in production powering Crystal's core products Customer SLAs are met or exceeded throughout the migration; no customer churn attributable to platform instability Latency restored and improved; release cadence shifted from monthly to weekly or faster Engineering management layer operating with clear accountability and predictable delivery AI-assisted engineering infrastructure deployed and measurable productivity gains realized OpEx-to-revenue ratio meaningfully reduced toward target Requirements 10+ years engineering experience, with 5+ years leading platform, data, or infrastructure organizations as VP Engineering, Head of Engineering, or equivalent Led at least one major platform migration or large-scale rebuild, with continuous customer service maintained throughout Operated low-latency, high-availability distributed systems with multi-tenant SaaS workloads at production scale Production experience integrating AI into engineering workflows, including agent-assisted development and AI-driven automation Strong product partnership instincts - you have shaped what gets built and how it ships Track record of building accountable, high-ownership engineering organizations Direct experience in one or more relevant domains: blockchain or crypto, fintech, payments, fraud or risk platforms, regulatory technology, or large-scale data platforms",
+    "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "blockchain"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-05-19T16:55:01+00:00",
+    "fetched_at": "2026-05-20T01:52:21.237Z",
+    "raw": {
+      "id": 144256,
+      "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
+      "jobSlug": "144256-vp-of-engineering",
+      "jobTitle": "VP of Engineering",
+      "companyName": "Crystal Intelligence",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/d21a424f-221.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Director",
+      "jobExcerpt": "About CrystalCrystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability...",
+      "jobDescription": "<p><strong>About Crystal</strong></p>\n<p>Crystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability risk and transaction intelligence that powers operational decisions.</p>\n<p>Crystal is entering the most consequential platform shift in its history: a full migration from our current data architecture to a new, AI-native data pipeline that will define the company's next decade of scale, speed, and product capability. This is the role that owns it.</p>\n<p><strong>Role summary</strong></p>\n<p>Crystal's engineering organization has grown organically. The current architecture serves a large and loyal customer base, but it is reaching the limits of what feature-driven growth can sustain. In parallel, we have built a new data pipeline architecture led by a dedicated platform team.</p>\n<p>The strategic priority for 2026 is to migrate Crystal end-to-end from the legacy stack to the new pipeline - without disrupting customer SLAs, while continuing to ship the product roadmap, and while rebuilding engineering management discipline. The VP of Engineering will own this migration.</p>\n<p>The mission is concrete: deliver the new pipeline into production behind every Crystal product, restore platform-grade latency and reliability, and convert the existing organization into one that ships predictably and uses AI as a productivity multiplier.</p>\n<p><strong>What You’ll Do</strong></p>\n<p><strong>Own the platform migration end-to-end</strong></p>\n<ul>\n<li>\n<p>Lead the integration of the new data pipeline into all Crystal products: Crystal Expert, Crystal Foresight, Monitor, Risk Check API, Data Intelligence, and Crystal Light</p>\n</li>\n<li>\n<p>Sequence the migration to preserve revenue and customer trust: no SLA regressions, no rollback drama, no surprise downtime</p>\n</li>\n<li>\n<p>Drive the architectural decisions and trade-offs that the legacy-to-new transition requires, including data model alignment, service-by-service cutover, and parallel-run validation</p>\n</li>\n<li>\n<p>Hold engineering, product, and customer success aligned on a single migration roadmap with clear customer-impact gates</p>\n</li>\n</ul>\n<p><strong>Restore platform foundations</strong></p>\n<ul>\n<li>\n<p>Bring API and core platform latency back to target: 1,000 RPS at sub-two-second latency, scaling toward 10k RPS</p>\n</li>\n<li>\n<p>Reduce database load, fix stability regressions exposed by recent releases, raise release velocity to multiple deployments per week</p>\n</li>\n<li>\n<p>Lead the multi-chain platform with discipline across 100+ chains: predictable integration timelines, accountable squad ownership, clear SLAs to commercial partners</p>\n</li>\n</ul>\n<p><strong>Rebuild the engineering management layer</strong></p>\n<ul>\n<li>\n<p>Partner with the existing engineering leadership to establish clear accountability across squad leads, engineering managers, and platform teams</p>\n</li>\n<li>\n<p>Set the standard for what good engineering management looks like at Crystal: predictable delivery, transparent planning, technical depth, people development</p>\n</li>\n<li>\n<p>Make the hiring, performance, and structural decisions required to bring the organization to the level the platform demands</p>\n</li>\n</ul>\n<p><strong>Drive AI into engineering as a productivity lever</strong></p>\n<ul>\n<li>\n<p>Build shared infrastructure for AI-assisted engineering: code generation, automated testing, agent-based migration tooling, internal knowledge systems</p>\n</li>\n<li>\n<p>Move Crystal from individual AI tool usage to organization-wide AI productivity, with measurable impact on delivery throughput</p>\n</li>\n<li>\n<p>Reduce OpEx-to-revenue through architectural improvements, automation, and reduction of manual operational load</p>\n</li>\n</ul>\n<p><strong>Partner with the business</strong></p>\n<ul>\n<li>\n<p>Work directly with product, GTM, customer success, and finance to translate engineering investments into customer outcomes and revenue</p>\n</li>\n<li>\n<p>Communicate trade-offs, risks, and progress clearly to the executive team and board</p>\n</li>\n<li>\n<p>Own the engineering budget, hiring plan, and vendor decisions</p>\n</li>\n</ul>\n<p><strong>What Success Looks Like (12 Months)</strong></p>\n<ul>\n<li>\n<p>New data pipeline architecture is in production powering Crystal's core products</p>\n</li>\n<li>\n<p>Customer SLAs are met or exceeded throughout the migration; no customer churn attributable to platform instability</p>\n</li>\n<li>\n<p>Latency restored and improved; release cadence shifted from monthly to weekly or faster</p>\n</li>\n<li>\n<p>Engineering management layer operating with clear accountability and predictable delivery</p>\n</li>\n<li>\n<p>AI-assisted engineering infrastructure deployed and measurable productivity gains realized</p>\n</li>\n<li>\n<p>OpEx-to-revenue ratio meaningfully reduced toward target</p>\n</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li>\n<p>10+ years engineering experience, with 5+ years leading platform, data, or infrastructure organizations as VP Engineering, Head of Engineering, or equivalent</p>\n</li>\n<li>\n<p>Led at least one major platform migration or large-scale rebuild, with continuous customer service maintained throughout</p>\n</li>\n<li>\n<p>Operated low-latency, high-availability distributed systems with multi-tenant SaaS workloads at production scale</p>\n</li>\n<li>\n<p>Production experience integrating AI into engineering workflows, including agent-assisted development and AI-driven automation</p>\n</li>\n<li>\n<p>Strong product partnership instincts - you have shaped what gets built and how it ships</p>\n</li>\n<li>\n<p>Track record of building accountable, high-ownership engineering organizations</p>\n</li>\n<li>\n<p>Direct experience in one or more relevant domains: blockchain or crypto, fintech, payments, fraud or risk platforms, regulatory technology, or large-scale data platforms</p>\n</li>\n</ul>",
+      "pubDate": "2026-05-19T16:55:01+00:00"
+    }
+  },
+  {
+    "id": "jobicy:144246",
+    "platform": "jobicy",
+    "external_id": "144246",
+    "title": "AI Engineer (Latam, Remote)",
+    "company": "Kubikware",
+    "description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a AI Engineer , located in Latin America. As we are currently working with multiple companies on many different products, we have quite a few projects where someone like you could make a difference. We are looking for: 4+ years of experience in Software Engineering, AI Integrations, Automation, or Backend Development Strong hands-on experience with: Open AI Whisper API for transcription and speech processing Claude AI and LLM integrations n8n for workflow automation and orchestration Replit for rapid app/web development and prototyping Supabase for database management, authentication, and backend services Experience building AI-driven workflows and integrating third-party APIs Strong understanding of prompt engineering and AI tool orchestration Experience developing lightweight web applications and internal tools Ability to work independently and move quickly in a fast-paced environment Strong communication skills and experience collaborating with distributed teams We offer: Fully remote position (LATAM) Part-time engagement with flexibility Opportunity to work on cutting-edge AI initiatives and real-world implementations Collaboration with U.S.-based teams High level of ownership and autonomy Compensation in U.S. Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch!Please, no agencies or C2C.",
+    "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "part-time",
+    "experience_level": "senior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "supabase",
+      "llm",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-05-19T16:54:44+00:00",
+    "fetched_at": "2026-05-20T01:52:21.238Z",
+    "raw": {
+      "id": 144246,
+      "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
+      "jobSlug": "144246-ai-engineer-latam-remote",
+      "jobTitle": "AI Engineer (Latam, Remote)",
+      "companyName": "Kubikware",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/e55f1c3e-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Part-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered...",
+      "jobDescription": "<p><strong>We are Kubikware™</strong></p>\n<p>, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time <em>Inc. 5000 Fastest Growing Companies in America</em> honoree.<br />We are looking to expand our amazing roster with a <strong>AI Engineer</strong>, located in Latin America. </p>\n<p>As we are currently working with multiple companies on many different products, we have quite a few projects where someone like you could make a difference.</p>\n<p><strong>We are looking for:</strong></p>\n<ul>\n<li>4+ years of experience in Software Engineering, AI Integrations, Automation, or Backend Development</li>\n<li>Strong hands-on experience with:\n<ul>\n<li>Open AI Whisper API for transcription and speech processing</li>\n<li>Claude AI and LLM integrations</li>\n<li>n8n for workflow automation and orchestration</li>\n<li>Replit for rapid app/web development and prototyping</li>\n<li>Supabase for database management, authentication, and backend services</li>\n</ul>\n</li>\n<li>Experience building AI-driven workflows and integrating third-party APIs</li>\n<li>Strong understanding of prompt engineering and AI tool orchestration</li>\n<li>Experience developing lightweight web applications and internal tools</li>\n<li>Ability to work independently and move quickly in a fast-paced environment</li>\n<li>Strong communication skills and experience collaborating with distributed teams</li>\n</ul>\n<p><strong>We offer:</strong></p>\n<ul>\n<li>Fully remote position (LATAM)</li>\n<li>Part-time engagement with flexibility</li>\n<li>Opportunity to work on cutting-edge AI initiatives and real-world implementations</li>\n<li>Collaboration with U.S.-based teams</li>\n<li>High level of ownership and autonomy</li>\n<li>Compensation in U.S. Dollars</li>\n</ul>\n<p>If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch!Please, no agencies or C2C.</p>",
+      "pubDate": "2026-05-19T16:54:44+00:00"
+    }
+  },
+  {
     "id": "jobicy:144179",
     "platform": "jobicy",
     "external_id": "144179",
@@ -31,7 +123,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:45:10+00:00",
-    "fetched_at": "2026-05-19T19:29:40.127Z",
+    "fetched_at": "2026-05-20T01:52:21.238Z",
     "raw": {
       "id": 144179,
       "url": "https://jobicy.com/jobs/144179-golang-engineer",
@@ -80,7 +172,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:44:51+00:00",
-    "fetched_at": "2026-05-19T19:29:40.128Z",
+    "fetched_at": "2026-05-20T01:52:21.239Z",
     "raw": {
       "id": 144167,
       "url": "https://jobicy.com/jobs/144167-sr-software-engineer-2",
@@ -132,7 +224,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:44:31+00:00",
-    "fetched_at": "2026-05-19T19:29:40.129Z",
+    "fetched_at": "2026-05-20T01:52:21.240Z",
     "raw": {
       "id": 144154,
       "url": "https://jobicy.com/jobs/144154-senior-android-sdk-engineer",
@@ -186,7 +278,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:44:29+00:00",
-    "fetched_at": "2026-05-19T19:29:40.129Z",
+    "fetched_at": "2026-05-20T01:52:21.241Z",
     "raw": {
       "id": 144153,
       "url": "https://jobicy.com/jobs/144153-senior-ios-sdk-engineer",
@@ -245,7 +337,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-18T10:38:14+00:00",
-    "fetched_at": "2026-05-19T19:29:40.130Z",
+    "fetched_at": "2026-05-20T01:52:21.242Z",
     "raw": {
       "id": 144146,
       "url": "https://jobicy.com/jobs/144146-full-stack-developer-ruby-react-quorso",
@@ -306,7 +398,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:38:02+00:00",
-    "fetched_at": "2026-05-19T19:29:40.132Z",
+    "fetched_at": "2026-05-20T01:52:21.243Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -360,7 +452,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:48+00:00",
-    "fetched_at": "2026-05-19T19:29:40.133Z",
+    "fetched_at": "2026-05-20T01:52:21.244Z",
     "raw": {
       "id": 144111,
       "url": "https://jobicy.com/jobs/144111-senior-full-stack-developer-2",
@@ -417,7 +509,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:35+00:00",
-    "fetched_at": "2026-05-19T19:29:40.134Z",
+    "fetched_at": "2026-05-20T01:52:21.245Z",
     "raw": {
       "id": 144103,
       "url": "https://jobicy.com/jobs/144103-ai-engineer-fde-forward-deployed-engineer",
@@ -468,7 +560,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:31+00:00",
-    "fetched_at": "2026-05-19T19:29:40.135Z",
+    "fetched_at": "2026-05-20T01:52:21.246Z",
     "raw": {
       "id": 144101,
       "url": "https://jobicy.com/jobs/144101-software-engineer-6",
@@ -511,7 +603,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:27+00:00",
-    "fetched_at": "2026-05-19T19:29:40.136Z",
+    "fetched_at": "2026-05-20T01:52:21.247Z",
     "raw": {
       "id": 144098,
       "url": "https://jobicy.com/jobs/144098-senior-software-engineer-full-remote-france-or-hybrid-2",
@@ -560,7 +652,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:25+00:00",
-    "fetched_at": "2026-05-19T19:29:40.138Z",
+    "fetched_at": "2026-05-20T01:52:21.249Z",
     "raw": {
       "id": 144097,
       "url": "https://jobicy.com/jobs/144097-ai-engineering-team-lead",
@@ -609,7 +701,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:23+00:00",
-    "fetched_at": "2026-05-19T19:29:40.139Z",
+    "fetched_at": "2026-05-20T01:52:21.250Z",
     "raw": {
       "id": 144096,
       "url": "https://jobicy.com/jobs/144096-principal-software-engineer-experiences",
@@ -665,7 +757,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:20+00:00",
-    "fetched_at": "2026-05-19T19:29:40.140Z",
+    "fetched_at": "2026-05-20T01:52:21.251Z",
     "raw": {
       "id": 144094,
       "url": "https://jobicy.com/jobs/144094-mobile-software-engineer-android-digital-trust",
@@ -714,7 +806,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-17T16:49:09+00:00",
-    "fetched_at": "2026-05-19T19:29:40.141Z",
+    "fetched_at": "2026-05-20T01:52:21.252Z",
     "raw": {
       "id": 144087,
       "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
@@ -773,7 +865,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:02+00:00",
-    "fetched_at": "2026-05-19T19:29:40.142Z",
+    "fetched_at": "2026-05-20T01:52:21.254Z",
     "raw": {
       "id": 144083,
       "url": "https://jobicy.com/jobs/144083-full-stack-engineer-emea",
@@ -820,7 +912,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-16T16:18:39+00:00",
-    "fetched_at": "2026-05-19T19:29:40.143Z",
+    "fetched_at": "2026-05-20T01:52:21.254Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -874,7 +966,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-16T16:18:37+00:00",
-    "fetched_at": "2026-05-19T19:29:40.144Z",
+    "fetched_at": "2026-05-20T01:52:21.255Z",
     "raw": {
       "id": 144039,
       "url": "https://jobicy.com/jobs/144039-software-engineer-machine-learning",
@@ -927,7 +1019,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-16T16:18:31+00:00",
-    "fetched_at": "2026-05-19T19:29:40.145Z",
+    "fetched_at": "2026-05-20T01:52:21.256Z",
     "raw": {
       "id": 144035,
       "url": "https://jobicy.com/jobs/144035-senior-principal-cyber-security-engineer",
@@ -974,7 +1066,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-16T16:18:27+00:00",
-    "fetched_at": "2026-05-19T19:29:40.146Z",
+    "fetched_at": "2026-05-20T01:52:21.257Z",
     "raw": {
       "id": 144033,
       "url": "https://jobicy.com/jobs/144033-senior-aviation-systems-engineer",
@@ -1027,7 +1119,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-15T12:25:13+00:00",
-    "fetched_at": "2026-05-19T19:29:40.147Z",
+    "fetched_at": "2026-05-20T01:52:21.259Z",
     "raw": {
       "id": 143969,
       "url": "https://jobicy.com/jobs/143969-ai-automation-engineer",
@@ -1081,7 +1173,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-15T12:25:06+00:00",
-    "fetched_at": "2026-05-19T19:29:40.148Z",
+    "fetched_at": "2026-05-20T01:52:21.259Z",
     "raw": {
       "id": 143965,
       "url": "https://jobicy.com/jobs/143965-machine-learning-developer-freelance-2",
@@ -1138,7 +1230,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-15T12:25:01+00:00",
-    "fetched_at": "2026-05-19T19:29:40.148Z",
+    "fetched_at": "2026-05-20T01:52:21.260Z",
     "raw": {
       "id": 143962,
       "url": "https://jobicy.com/jobs/143962-freelance-machine-learning-engineer",
@@ -1200,7 +1292,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T17:18:44+00:00",
-    "fetched_at": "2026-05-19T19:29:40.150Z",
+    "fetched_at": "2026-05-20T01:52:21.261Z",
     "raw": {
       "id": 143911,
       "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
@@ -1247,7 +1339,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T17:18:39+00:00",
-    "fetched_at": "2026-05-19T19:29:40.151Z",
+    "fetched_at": "2026-05-20T01:52:21.263Z",
     "raw": {
       "id": 143908,
       "url": "https://jobicy.com/jobs/143908-senior-sales-engineer-5",
@@ -1293,7 +1385,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T17:18:35+00:00",
-    "fetched_at": "2026-05-19T19:29:40.153Z",
+    "fetched_at": "2026-05-20T01:52:21.264Z",
     "raw": {
       "id": 143906,
       "url": "https://jobicy.com/jobs/143906-senior-software-engineer-13",
@@ -1346,7 +1438,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-14T16:39:01+00:00",
-    "fetched_at": "2026-05-19T19:29:40.154Z",
+    "fetched_at": "2026-05-20T01:52:21.266Z",
     "raw": {
       "id": 143900,
       "url": "https://jobicy.com/jobs/143900-analyst-ii-full-stack-2",
@@ -1400,7 +1492,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T16:38:49+00:00",
-    "fetched_at": "2026-05-19T19:29:40.155Z",
+    "fetched_at": "2026-05-20T01:52:21.267Z",
     "raw": {
       "id": 143893,
       "url": "https://jobicy.com/jobs/143893-web-application-software-engineer",
@@ -1452,7 +1544,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T16:38:46+00:00",
-    "fetched_at": "2026-05-19T19:29:40.156Z",
+    "fetched_at": "2026-05-20T01:52:21.268Z",
     "raw": {
       "id": 143891,
       "url": "https://jobicy.com/jobs/143891-acquisition-software-engineer",
@@ -1512,7 +1604,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-13T17:33:12+00:00",
-    "fetched_at": "2026-05-19T19:29:40.157Z",
+    "fetched_at": "2026-05-20T01:52:21.269Z",
     "raw": {
       "id": 143801,
       "url": "https://jobicy.com/jobs/143801-full-stack-software-developer-2",
@@ -1561,7 +1653,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T17:33:09+00:00",
-    "fetched_at": "2026-05-19T19:29:40.158Z",
+    "fetched_at": "2026-05-20T01:52:21.270Z",
     "raw": {
       "id": 143798,
       "url": "https://jobicy.com/jobs/143798-solution-architect-microsoft-power-platform-and-copilot-studio",
@@ -1610,7 +1702,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-13T17:33:08+00:00",
-    "fetched_at": "2026-05-19T19:29:40.160Z",
+    "fetched_at": "2026-05-20T01:52:21.272Z",
     "raw": {
       "id": 143797,
       "url": "https://jobicy.com/jobs/143797-servicenow-developer-2",
@@ -1664,7 +1756,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T01:34:28+00:00",
-    "fetched_at": "2026-05-19T19:29:40.161Z",
+    "fetched_at": "2026-05-20T01:52:21.273Z",
     "raw": {
       "id": 143734,
       "url": "https://jobicy.com/jobs/143734-senior-software-engineer-trading-technology-query-stack",
@@ -1707,7 +1799,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T01:34:27+00:00",
-    "fetched_at": "2026-05-19T19:29:40.161Z",
+    "fetched_at": "2026-05-20T01:52:21.273Z",
     "raw": {
       "id": 143733,
       "url": "https://jobicy.com/jobs/143733-senior-staff-engineer",
@@ -1750,7 +1842,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T01:34:25+00:00",
-    "fetched_at": "2026-05-19T19:29:40.162Z",
+    "fetched_at": "2026-05-20T01:52:21.274Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -1810,7 +1902,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-13T01:34:24+00:00",
-    "fetched_at": "2026-05-19T19:29:40.163Z",
+    "fetched_at": "2026-05-20T01:52:21.275Z",
     "raw": {
       "id": 143731,
       "url": "https://jobicy.com/jobs/143731-full-stack-software-developer-node-js-react-bulgaria-based",
@@ -1857,7 +1949,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T01:34:22+00:00",
-    "fetched_at": "2026-05-19T19:29:40.163Z",
+    "fetched_at": "2026-05-20T01:52:21.276Z",
     "raw": {
       "id": 143730,
       "url": "https://jobicy.com/jobs/143730-internship-embedded-ai-engineering-remote-possible",
@@ -1915,7 +2007,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-13T01:34:19+00:00",
-    "fetched_at": "2026-05-19T19:29:40.164Z",
+    "fetched_at": "2026-05-20T01:52:21.276Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -1970,7 +2062,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-12T15:14:05+00:00",
-    "fetched_at": "2026-05-19T19:29:40.166Z",
+    "fetched_at": "2026-05-20T01:52:21.278Z",
     "raw": {
       "id": 143685,
       "url": "https://jobicy.com/jobs/143685-senior-software-engineer-12",
@@ -2023,7 +2115,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-12T15:13:52+00:00",
-    "fetched_at": "2026-05-19T19:29:40.167Z",
+    "fetched_at": "2026-05-20T01:52:21.279Z",
     "raw": {
       "id": 143676,
       "url": "https://jobicy.com/jobs/143676-software-developer-iii",
@@ -2070,7 +2162,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T17:16:01+00:00",
-    "fetched_at": "2026-05-19T19:29:40.167Z",
+    "fetched_at": "2026-05-20T01:52:21.280Z",
     "raw": {
       "id": 143616,
       "url": "https://jobicy.com/jobs/143616-staff-design-quality-assurance-engineer",
@@ -2116,7 +2208,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:06:01+00:00",
-    "fetched_at": "2026-05-19T19:29:40.168Z",
+    "fetched_at": "2026-05-20T01:52:21.280Z",
     "raw": {
       "id": 143575,
       "url": "https://jobicy.com/jobs/143575-solutions-architect-networking",
@@ -2163,7 +2255,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:05:59+00:00",
-    "fetched_at": "2026-05-19T19:29:40.169Z",
+    "fetched_at": "2026-05-20T01:52:21.281Z",
     "raw": {
       "id": 143574,
       "url": "https://jobicy.com/jobs/143574-senior-solution-architect-ai-infrastructure",
@@ -2210,7 +2302,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:05:58+00:00",
-    "fetched_at": "2026-05-19T19:29:40.170Z",
+    "fetched_at": "2026-05-20T01:52:21.282Z",
     "raw": {
       "id": 143573,
       "url": "https://jobicy.com/jobs/143573-senior-solutions-architect-networking-public-sector",
@@ -2266,7 +2358,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T10:47:14+00:00",
-    "fetched_at": "2026-05-19T19:29:40.171Z",
+    "fetched_at": "2026-05-20T01:52:21.283Z",
     "raw": {
       "id": 143538,
       "url": "https://jobicy.com/jobs/143538-software-verification-engineer",
@@ -2322,7 +2414,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T10:47:11+00:00",
-    "fetched_at": "2026-05-19T19:29:40.172Z",
+    "fetched_at": "2026-05-20T01:52:21.284Z",
     "raw": {
       "id": 143536,
       "url": "https://jobicy.com/jobs/143536-freelance-agent-evaluation-engineer",
@@ -2378,7 +2470,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:31+00:00",
-    "fetched_at": "2026-05-19T19:29:40.173Z",
+    "fetched_at": "2026-05-20T01:52:21.286Z",
     "raw": {
       "id": 143481,
       "url": "https://jobicy.com/jobs/143481-principal-engineer",
@@ -2430,7 +2522,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:30+00:00",
-    "fetched_at": "2026-05-19T19:29:40.174Z",
+    "fetched_at": "2026-05-20T01:52:21.287Z",
     "raw": {
       "id": 143480,
       "url": "https://jobicy.com/jobs/143480-systems-research-engineer-software-engineer-data-and-ml-infrastructure",
@@ -2478,7 +2570,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:20+00:00",
-    "fetched_at": "2026-05-19T19:29:40.175Z",
+    "fetched_at": "2026-05-20T01:52:21.288Z",
     "raw": {
       "id": 143474,
       "url": "https://jobicy.com/jobs/143474-tech-lead-engineering",
@@ -2527,7 +2619,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:18+00:00",
-    "fetched_at": "2026-05-19T19:29:40.176Z",
+    "fetched_at": "2026-05-20T01:52:21.289Z",
     "raw": {
       "id": 143473,
       "url": "https://jobicy.com/jobs/143473-senior-full-stack-software-engineer-remote-in-europe",
@@ -2605,7 +2697,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T03:47:45+00:00",
-    "fetched_at": "2026-05-19T19:29:40.177Z",
+    "fetched_at": "2026-05-20T01:52:21.290Z",
     "raw": {
       "id": 143458,
       "url": "https://jobicy.com/jobs/143458-senior-cloud-software-engineer-aws-ai",
@@ -2652,7 +2744,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T17:06:41+00:00",
-    "fetched_at": "2026-05-19T19:29:40.179Z",
+    "fetched_at": "2026-05-20T01:52:21.292Z",
     "raw": {
       "id": 143441,
       "url": "https://jobicy.com/jobs/143441-quality-engineer",
@@ -2697,7 +2789,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T17:06:39+00:00",
-    "fetched_at": "2026-05-19T19:29:40.180Z",
+    "fetched_at": "2026-05-20T01:52:21.292Z",
     "raw": {
       "id": 143438,
       "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
@@ -2747,7 +2839,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T16:57:53+00:00",
-    "fetched_at": "2026-05-19T19:29:40.180Z",
+    "fetched_at": "2026-05-20T01:52:21.293Z",
     "raw": {
       "id": 143430,
       "url": "https://jobicy.com/jobs/143430-lead-c-engineer",
@@ -2792,7 +2884,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T06:48:41+00:00",
-    "fetched_at": "2026-05-19T19:29:40.182Z",
+    "fetched_at": "2026-05-20T01:52:21.295Z",
     "raw": {
       "id": 143399,
       "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
@@ -2839,7 +2931,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:41+00:00",
-    "fetched_at": "2026-05-19T19:29:40.183Z",
+    "fetched_at": "2026-05-20T01:52:21.296Z",
     "raw": {
       "id": 143391,
       "url": "https://jobicy.com/jobs/143391-senior-developer-for-banking-insurance-software-solutions-m-f-d",
@@ -2893,7 +2985,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:12+00:00",
-    "fetched_at": "2026-05-19T19:29:40.184Z",
+    "fetched_at": "2026-05-20T01:52:21.297Z",
     "raw": {
       "id": 143373,
       "url": "https://jobicy.com/jobs/143373-senior-backend-developer-2",
@@ -2944,7 +3036,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:10+00:00",
-    "fetched_at": "2026-05-19T19:29:40.185Z",
+    "fetched_at": "2026-05-20T01:52:21.298Z",
     "raw": {
       "id": 143372,
       "url": "https://jobicy.com/jobs/143372-senior-ui-developer",
@@ -3000,7 +3092,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:40+00:00",
-    "fetched_at": "2026-05-19T19:29:40.187Z",
+    "fetched_at": "2026-05-20T01:52:21.300Z",
     "raw": {
       "id": 143291,
       "url": "https://jobicy.com/jobs/143291-staff-software-engineer-kubernetes-operations",
@@ -3047,7 +3139,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:39+00:00",
-    "fetched_at": "2026-05-19T19:29:40.187Z",
+    "fetched_at": "2026-05-20T01:52:21.301Z",
     "raw": {
       "id": 143290,
       "url": "https://jobicy.com/jobs/143290-embedded-software-engineer-2",
@@ -3095,7 +3187,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:28+00:00",
-    "fetched_at": "2026-05-19T19:29:40.188Z",
+    "fetched_at": "2026-05-20T01:52:21.302Z",
     "raw": {
       "id": 143283,
       "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
@@ -3144,7 +3236,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-06T11:58:59+00:00",
-    "fetched_at": "2026-05-19T19:29:40.190Z",
+    "fetched_at": "2026-05-20T01:52:21.303Z",
     "raw": {
       "id": 143221,
       "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
@@ -3197,7 +3289,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-06T11:58:57+00:00",
-    "fetched_at": "2026-05-19T19:29:40.192Z",
+    "fetched_at": "2026-05-20T01:52:21.305Z",
     "raw": {
       "id": 143220,
       "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
@@ -3244,7 +3336,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:39+00:00",
-    "fetched_at": "2026-05-19T19:29:40.193Z",
+    "fetched_at": "2026-05-20T01:52:21.307Z",
     "raw": {
       "id": 143148,
       "url": "https://jobicy.com/jobs/143148-sotif-expert-all-genders",
@@ -3287,7 +3379,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:37+00:00",
-    "fetched_at": "2026-05-19T19:29:40.194Z",
+    "fetched_at": "2026-05-20T01:52:21.307Z",
     "raw": {
       "id": 143147,
       "url": "https://jobicy.com/jobs/143147-security-architect-ii",
@@ -3330,7 +3422,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:34+00:00",
-    "fetched_at": "2026-05-19T19:29:40.195Z",
+    "fetched_at": "2026-05-20T01:52:21.309Z",
     "raw": {
       "id": 143145,
       "url": "https://jobicy.com/jobs/143145-engineering-manager-3",
@@ -3387,7 +3479,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-05T06:40:31+00:00",
-    "fetched_at": "2026-05-19T19:29:40.196Z",
+    "fetched_at": "2026-05-20T01:52:21.310Z",
     "raw": {
       "id": 143143,
       "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
@@ -3430,7 +3522,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:27+00:00",
-    "fetched_at": "2026-05-19T19:29:40.197Z",
+    "fetched_at": "2026-05-20T01:52:21.311Z",
     "raw": {
       "id": 143140,
       "url": "https://jobicy.com/jobs/143140-salesforce-engineering-manager",
@@ -3480,7 +3572,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:40:22+00:00",
-    "fetched_at": "2026-05-19T19:29:40.198Z",
+    "fetched_at": "2026-05-20T01:52:21.312Z",
     "raw": {
       "id": 143137,
       "url": "https://jobicy.com/jobs/143137-senior-software-engineer-sustaining-automation",
@@ -3535,7 +3627,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:43+00:00",
-    "fetched_at": "2026-05-19T19:29:40.202Z",
+    "fetched_at": "2026-05-20T01:52:21.314Z",
     "raw": {
       "id": 143133,
       "url": "https://jobicy.com/jobs/143133-senior-ai-platform-engineer",
@@ -3589,7 +3681,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:42+00:00",
-    "fetched_at": "2026-05-19T19:29:40.203Z",
+    "fetched_at": "2026-05-20T01:52:21.315Z",
     "raw": {
       "id": 143132,
       "url": "https://jobicy.com/jobs/143132-cloud-security-engineer",
@@ -3647,7 +3739,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:40+00:00",
-    "fetched_at": "2026-05-19T19:29:40.204Z",
+    "fetched_at": "2026-05-20T01:52:21.317Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -3698,7 +3790,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:39+00:00",
-    "fetched_at": "2026-05-19T19:29:40.205Z",
+    "fetched_at": "2026-05-20T01:52:21.318Z",
     "raw": {
       "id": 143130,
       "url": "https://jobicy.com/jobs/143130-senior-machine-learning-engineer-ranking",
@@ -3756,7 +3848,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:34+00:00",
-    "fetched_at": "2026-05-19T19:29:40.206Z",
+    "fetched_at": "2026-05-20T01:52:21.318Z",
     "raw": {
       "id": 143127,
       "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
@@ -3807,7 +3899,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:33+00:00",
-    "fetched_at": "2026-05-19T19:29:40.207Z",
+    "fetched_at": "2026-05-20T01:52:21.320Z",
     "raw": {
       "id": 143126,
       "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
@@ -3860,7 +3952,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:31+00:00",
-    "fetched_at": "2026-05-19T19:29:40.208Z",
+    "fetched_at": "2026-05-20T01:52:21.321Z",
     "raw": {
       "id": 143125,
       "url": "https://jobicy.com/jobs/143125-senior-machine-learning-engineer-genai-security",
@@ -3907,7 +3999,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-05T06:35:30+00:00",
-    "fetched_at": "2026-05-19T19:29:40.210Z",
+    "fetched_at": "2026-05-20T01:52:21.324Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -3956,7 +4048,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-03T12:02:26+00:00",
-    "fetched_at": "2026-05-19T19:29:40.211Z",
+    "fetched_at": "2026-05-20T01:52:21.325Z",
     "raw": {
       "id": 143044,
       "url": "https://jobicy.com/jobs/143044-senior-tools-programmer",
@@ -4006,7 +4098,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-03T12:02:25+00:00",
-    "fetched_at": "2026-05-19T19:29:40.212Z",
+    "fetched_at": "2026-05-20T01:52:21.326Z",
     "raw": {
       "id": 143043,
       "url": "https://jobicy.com/jobs/143043-lead-tools-programmer",
@@ -4055,7 +4147,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-01T17:53:46+00:00",
-    "fetched_at": "2026-05-19T19:29:40.213Z",
+    "fetched_at": "2026-05-20T01:52:21.327Z",
     "raw": {
       "id": 142986,
       "url": "https://jobicy.com/jobs/142986-senior-solutions-architect-2",
@@ -4106,7 +4198,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-01T17:53:42+00:00",
-    "fetched_at": "2026-05-19T19:29:40.214Z",
+    "fetched_at": "2026-05-20T01:52:21.328Z",
     "raw": {
       "id": 142984,
       "url": "https://jobicy.com/jobs/142984-senior-software-engineer-core-enterprise",
@@ -4160,7 +4252,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:34:02+00:00",
-    "fetched_at": "2026-05-19T19:29:40.215Z",
+    "fetched_at": "2026-05-20T01:52:21.329Z",
     "raw": {
       "id": 142770,
       "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
@@ -4216,7 +4308,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:33:59+00:00",
-    "fetched_at": "2026-05-19T19:29:40.216Z",
+    "fetched_at": "2026-05-20T01:52:21.330Z",
     "raw": {
       "id": 142768,
       "url": "https://jobicy.com/jobs/142768-senior-qa-automation-engineer-2",
@@ -4276,7 +4368,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:33:47+00:00",
-    "fetched_at": "2026-05-19T19:29:40.218Z",
+    "fetched_at": "2026-05-20T01:52:21.332Z",
     "raw": {
       "id": 142760,
       "url": "https://jobicy.com/jobs/142760-software-engineer-video",
@@ -4326,7 +4418,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:33:41+00:00",
-    "fetched_at": "2026-05-19T19:29:40.219Z",
+    "fetched_at": "2026-05-20T01:52:21.333Z",
     "raw": {
       "id": 142756,
       "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
@@ -4375,7 +4467,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-29T09:33:35+00:00",
-    "fetched_at": "2026-05-19T19:29:40.220Z",
+    "fetched_at": "2026-05-20T01:52:21.334Z",
     "raw": {
       "id": 142752,
       "url": "https://jobicy.com/jobs/142752-senior-network-inventory-gis-engineer",
@@ -4429,7 +4521,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:15+00:00",
-    "fetched_at": "2026-05-19T19:29:40.221Z",
+    "fetched_at": "2026-05-20T01:52:21.336Z",
     "raw": {
       "id": 142694,
       "url": "https://jobicy.com/jobs/142694-lead-marketing-web-engineer-developer",
@@ -4486,7 +4578,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:14+00:00",
-    "fetched_at": "2026-05-19T19:29:40.223Z",
+    "fetched_at": "2026-05-20T01:52:21.337Z",
     "raw": {
       "id": 142693,
       "url": "https://jobicy.com/jobs/142693-staff-data-engineer-platform-engineering",
@@ -4539,7 +4631,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T12:38:03+00:00",
-    "fetched_at": "2026-05-19T19:29:40.225Z",
+    "fetched_at": "2026-05-20T01:52:21.339Z",
     "raw": {
       "id": 142686,
       "url": "https://jobicy.com/jobs/142686-senior-firmware-automation-engineer",
@@ -4586,7 +4678,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T04:14:58+00:00",
-    "fetched_at": "2026-05-19T19:29:40.226Z",
+    "fetched_at": "2026-05-20T01:52:21.341Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -4634,7 +4726,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-28T04:14:51+00:00",
-    "fetched_at": "2026-05-19T19:29:40.227Z",
+    "fetched_at": "2026-05-20T01:52:21.342Z",
     "raw": {
       "id": 142667,
       "url": "https://jobicy.com/jobs/142667-senior-staff-backend-engineer",
@@ -4681,7 +4773,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-28T04:14:43+00:00",
-    "fetched_at": "2026-05-19T19:29:40.228Z",
+    "fetched_at": "2026-05-20T01:52:21.343Z",
     "raw": {
       "id": 142662,
       "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
@@ -4733,7 +4825,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-25T16:44:26+00:00",
-    "fetched_at": "2026-05-19T19:29:40.229Z",
+    "fetched_at": "2026-05-20T01:52:21.344Z",
     "raw": {
       "id": 142566,
       "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
@@ -4784,7 +4876,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-25T16:44:25+00:00",
-    "fetched_at": "2026-05-19T19:29:40.230Z",
+    "fetched_at": "2026-05-20T01:52:21.345Z",
     "raw": {
       "id": 142565,
       "url": "https://jobicy.com/jobs/142565-technical-principal",
@@ -4832,7 +4924,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:50+00:00",
-    "fetched_at": "2026-05-19T19:29:40.231Z",
+    "fetched_at": "2026-05-20T01:52:21.346Z",
     "raw": {
       "id": 142527,
       "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
@@ -4881,7 +4973,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:47+00:00",
-    "fetched_at": "2026-05-19T19:29:40.231Z",
+    "fetched_at": "2026-05-20T01:52:21.346Z",
     "raw": {
       "id": 142525,
       "url": "https://jobicy.com/jobs/142525-embedded-software-engineer-autosar-remote-in-mexico",
@@ -4926,7 +5018,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T15:07:33+00:00",
-    "fetched_at": "2026-05-19T19:29:40.233Z",
+    "fetched_at": "2026-05-20T01:52:21.348Z",
     "raw": {
       "id": 142516,
       "url": "https://jobicy.com/jobs/142516-connectivity-engineer-leased-data-center-construction",
@@ -4969,7 +5061,7 @@
       "Programming"
     ],
     "posted_at": "2026-04-24T15:07:31+00:00",
-    "fetched_at": "2026-05-19T19:29:40.233Z",
+    "fetched_at": "2026-05-20T01:52:21.349Z",
     "raw": {
       "id": 142515,
       "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
@@ -5021,7 +5113,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-04-24T08:57:46+00:00",
-    "fetched_at": "2026-05-19T19:29:40.234Z",
+    "fetched_at": "2026-05-20T01:52:21.350Z",
     "raw": {
       "id": 142503,
       "url": "https://jobicy.com/jobs/142503-senior-mulesoft-integrations-developer-full-time-or-part-time",
@@ -5040,111 +5132,6 @@
       "jobExcerpt": "About the Role We&#8217;re looking for a Senior MuleSoft Integration Developer to build and own the full integration layer for a government 311 Citizen Relationship Management platform, a Salesforce implementation and...",
       "jobDescription": "<p>About the Role </p>\n<p>We're looking for a Senior MuleSoft Integration Developer to build and own the full integration layer for a government 311 Citizen Relationship Management platform, a Salesforce implementation and deliver the complete MuleSoft workstream from the ground up. </p>\n<p>This is a technically demanding, independent build role. You'll work closely with our Salesforce developer and engage directly with the client's enterprise system owners to obtain API documentation, schemas, and endpoint access as the engagement progresses. </p>\n<p>What You'll Be Building </p>\n<ul>\n<li>\n<p>Three-Tier API Architecture: Design and build a full suite of Experience, Process, and System APIs following MuleSoft API-led connectivity. Experience APIs serve as the system-agnostic entry point; Process APIs own all orchestration, routing, and transformation logic; System APIs are thin adapters, one per external system. </p>\n</li>\n<li>\n<p>Async Event-Driven Integrations: Build bi-directional asynchronous integrations using Anypoint MQ. Outbound flows consume from queues, apply complex per-record-type DataWeave transformations, and deliver to downstream systems. Inbound flows receive events from external systems, transform to Salesforce-compatible format, and write back to Case records via the Salesforce System API. </p>\n</li>\n<li>\n<p>Legacy System Integration via JDBC: Integrate with on-premise systems that expose no REST or SOAP API. Database-level integration only. Build flows that INSERT into and poll from staging tables via JDBC, handle transaction cleanup, and manage polling intervals through external configuration. </p>\n</li>\n<li>\n<p>Real-Time Data Aggregation: Build synchronous aggregation APIs that receive a request from Salesforce, fan out parallel queries to multiple external data sources, aggregate all responses into a single composed payload, and return results in the same HTTP call. Source configuration is data-driven, so adding or removing sources requires no code changes. </p>\n</li>\n<li>\n<p>Scheduled Batch Processing: Build a nightly batch job that queries Salesforce via the Bulk API, transforms output to a target schema (including PII stripping), and loads data into downstream staging tables via JDBC for ETL pickup. </p>\n</li>\n<li>\n<p>Integration Control and Logging Database: Set up and maintain an external Azure SQL database as the centralized store for field mappings, routing rules, feature flags, polling intervals, and retry configuration. Implement in-memory caching with configurable refresh intervals and an on-demand reload endpoint so configuration changes take effect without redeployment. </p>\n</li>\n<li>\n<p>Error Handling and Monitoring: Implement exponential backoff retry per integration, Dead Letter Queues for terminal failures, and automated alerting for queue health and message backlog. Build Anypoint Monitoring dashboards covering integration health, message volume, failure trends, and retry rates across all flows. All integrations must support idempotent replay. </p>\n</li>\n</ul>\n<p>What We Need From You </p>\n<p>Required </p>\n<ul>\n<li>\n<p>DataWeave 2.0: You'll spend the majority of your time here. Must be fluent and comfortable building complex, branching transformations at scale. </p>\n</li>\n<li>\n<p>MuleSoft / Anypoint Platform: 4+ years of hands-on CloudHub production experience. Strong grasp of API-led connectivity, Anypoint MQ, DLQ configuration, and Anypoint Secrets Manager. </p>\n</li>\n<li>\n<p>JDBC Integration: Experience with direct database-level integration using SQL Server or equivalent: connection pooling, polling patterns, and transactional cleanup. </p>\n</li>\n<li>\n<p>Salesforce Integration: Hands-on experience with the MuleSoft Salesforce Connector, Bulk API, and REST/SOAP callouts. </p>\n</li>\n<li>\n<p>REST APIs and OAuth 2.0 / JWT: Comfortable consuming and producing authenticated REST APIs with OAuth 2.0 or JWT. </p>\n</li>\n<li>\n<p>On-Premise Connectivity: Understanding of how MuleSoft CloudHub connects to on-premises resources via Anypoint VPC and IPsec VPN tunnels. </p>\n</li>\n<li>\n<p>SQL: Strong SQL skills for working with Azure SQL / SQL Server, covering both control database management and integration staging tables. </p>\n</li>\n<li>\n<p>Independent delivery: Able to manage your own delivery across multiple parallel integration streams with limited hand-holding. </p>\n</li>\n</ul>\n<p>Nice to Have </p>\n<ul>\n<li>\n<p>MuleSoft Certified Developer (Level 1 or 2) or MuleSoft Certified Integration Architect </p>\n</li>\n<li>\n<p>Experience with Salesforce Public Sector Solutions or Service Cloud </p>\n</li>\n<li>\n<p>Familiarity with ArcGIS Online REST APIs and spatial / feature layer queries </p>\n</li>\n<li>\n<p>Azure SQL provisioning and administration </p>\n</li>\n<li>\n<p>Government or municipal technology implementation experience</p>\n</li>\n</ul>\n<p>Work Hours: Willingness and ability to work between 10:00 PM – 2:00 AM Philippine time to align with the US team</p>",
       "pubDate": "2026-04-24T08:57:46+00:00"
-    }
-  },
-  {
-    "id": "jobicy:142499",
-    "platform": "jobicy",
-    "external_id": "142499",
-    "title": "Senior Consulting Engineer – Singapore",
-    "company": "Clickhouse",
-    "description": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our journey! We are currently expanding our Support Services team at ClickHouse, which delivers exceptional service to our customers worldwide. We are seeking a Senior Consulting Engineer to join our global team, where you'll provide Consultative Support to our ClickHouse enterprise customers. The role uniquely blends hands-on engineering, development assistance, and high-tier support, performing functions across Consultative Support, Engineering, and Support. You will work directly with a set of strategic customers, providing guidance, case answers, and technical oversight. Consulting Engineers will also be assisting with support cases for customers in our Support L1 to L3 tiers, particularly when not assigned to larger projects. Responsibilities: Project Engineering &amp; Consulting (50%): Serve as a team member on customer projects, focusing on design, architecture, integration, implementation, and documentation. This includes research, benchmarking, performance and functional testing, reference architectures, sizing, migration, integration, development, and tooling. Consultative Support (50%): Provide case-initiated consultative support to strategic users, customers, and prospects, assisting with implementation, onboarding, production launches, and Proof of Concepts (POCs). Provide architectural, technical, and migration assistance, including hands-on tasks. Work as a member of the Support Team, handling L1 to L3 cases and communications when not actively assigned to customer projects. Partner closely with ClickHouse Product Management, Engineering, and Sales to contribute to the product roadmap and account plans. Develop and assist with a wide range of content, including Public and Internal Documentation, Knowledge Base articles, ClickHouse Learning, Reference Architecture, blogs, and benchmark results. Assist with hiring and mentoring new team members as we grow and scale. Be available for scheduling and on-call needs to deliver high-quality 24x7 support in a global, distributed environment, including up to 35% estimated onsite regional travel. Requirements: 5+ years of experience in Professional Services, Support, Technical Accounts Management, Engineering/SRE, and/or Project Management roles. 5+ years of relevant industry experience in implementing, operating, and/or supporting scalable, fault-tolerant, distributed database management systems (\"DBMS\"). Technical breadth and depth in relevant subjects such as DBMS, OLAP, Cloud/SaaS platforms, distributed systems software engineering, Linux/Unix, Kubernetes, System or Network Administration, and big data. Experience leading and shipping large scope technical projects in collaboration with multiple experienced engineers. Expertise with a public cloud provider (AWS, GCP, Azure) and their infrastructure as a service offering (e.g. EC2) Bonus points: Experience with ClickHouse Experience with OSS and open-source technologies, as a user, community member, or contributor Experience with Azure, GCP or AWS Experience with data pipelines such as Kafka, Kinesis, Spark, RabbitMQ, or others You'll love this role if: You have excellent communication skills and thrive in a customer-facing role, collaborating closely with Support Services, Engineering, and Sales teams. You are self-driven, curious, and eager to continuously learn and grow. You possess a mindset of teamwork, global engagement, empathy, and a drive for solving challenging problems. You have a sense of adventure and urgency in building the most scalable, highest performing, largest, and fastest databases in the world. Compensation For roles based in the United States , the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed. These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments. An individual’s placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization. If you have any questions or comments about compensation as a candidate, please get in touch with us at paytransparency@clickhouse.com . Perks Flexible work environment - ClickHouse is a globally distributed company and remote-friendly. We currently operate in over 20 countries. Healthcare - Employer contributions towards your healthcare. Equity in the company - Every new team member who joins our company receives stock options. Time off - Flexible time off in the US, generous entitlement in other countries. A $500 Home office setup if you’re a remote employee. Global Gatherings – We believe in the power of in-person connection and offer opportunities to engage with colleagues at company-wide offsites. Culture - We All Shape It As part of a rapidly scaling start up, you will be instrumental in shaping our culture. Are you interested in finding out more about our culture? Learn more about our values here . Check out our blog posts or follow us on LinkedIn to find out more about what’s happening at ClickHouse. Equal Opportunity &amp; Privacy ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Please see here for our Privacy Statement.",
-    "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Singapore",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "clickhouse",
-      "aws",
-      "gcp",
-      "azure",
-      "kubernetes",
-      "spark",
-      "kafka",
-      "rabbitmq",
-      "linux",
-      "unix"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-04-24T08:57:40+00:00",
-    "fetched_at": "2026-05-19T19:29:40.236Z",
-    "raw": {
-      "id": 142499,
-      "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
-      "jobSlug": "142499-senior-consulting-engineer-singapore",
-      "jobTitle": "Senior Consulting Engineer – Singapore",
-      "companyName": "Clickhouse",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/6394b9a0-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Singapore",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About ClickHouseRecognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has...",
-      "jobDescription": "<h2>About ClickHouse</h2>\n<p>Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads.</p>\n<p>The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.</p>\n<p>We’re on a mission to transform how companies use data. Come be a part of our journey!</p>\n<p>We are currently expanding our Support Services team at ClickHouse, which delivers exceptional service to our customers worldwide. We are seeking a Senior Consulting Engineer<strong> </strong>to join our global team, where you'll provide Consultative Support to our ClickHouse enterprise customers. The role uniquely blends hands-on engineering, development assistance, and high-tier support, performing functions across Consultative Support, Engineering, and Support. You will work directly with a set of strategic customers, providing guidance, case answers, and technical oversight. Consulting Engineers will also be assisting with support cases for customers in our Support L1 to L3 tiers, particularly when not assigned to larger projects.</p>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n<li><strong>Project Engineering &amp; Consulting (50%):</strong> Serve as a team member on customer projects, focusing on design, architecture, integration, implementation, and documentation. This includes research, benchmarking, performance and functional testing, reference architectures, sizing, migration, integration, development, and tooling.</li>\n<li><strong>Consultative Support (50%):</strong> Provide case-initiated consultative support to strategic users, customers, and prospects, assisting with implementation, onboarding, production launches, and Proof of Concepts (POCs).</li>\n<li>Provide architectural, technical, and migration assistance, including hands-on tasks.</li>\n<li>Work as a member of the Support Team, handling L1 to L3 cases and communications when not actively assigned to customer projects.</li>\n<li>Partner closely with ClickHouse Product Management, Engineering, and Sales to contribute to the product roadmap and account plans.</li>\n<li>Develop and assist with a wide range of content, including Public and Internal Documentation, Knowledge Base articles, ClickHouse Learning, Reference Architecture, blogs, and benchmark results.</li>\n<li>Assist with hiring and mentoring new team members as we grow and scale.</li>\n<li>Be available for scheduling and on-call needs to deliver high-quality 24x7 support in a global, distributed environment, including up to 35% estimated onsite regional travel.</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>5+ years of experience in Professional Services, Support, Technical Accounts Management, Engineering/SRE, and/or Project Management roles.</li>\n<li>5+ years of relevant industry experience in implementing, operating, and/or supporting scalable, fault-tolerant, distributed database management systems (\"DBMS\").</li>\n<li>Technical breadth and depth in relevant subjects such as DBMS, OLAP, Cloud/SaaS platforms, distributed systems software engineering, Linux/Unix, Kubernetes, System or Network Administration, and big data.</li>\n<li>Experience leading and shipping large scope technical projects in collaboration with multiple experienced engineers.</li>\n<li>Expertise with a public cloud provider (AWS, GCP, Azure) and their infrastructure as a service offering (e.g. EC2)</li>\n</ul>\n<p><strong>Bonus points:</strong></p>\n<ul>\n<li>Experience with ClickHouse</li>\n<li>Experience with OSS and open-source technologies, as a user, community member, or contributor</li>\n<li>Experience with Azure, GCP or AWS</li>\n<li>Experience with data pipelines such as Kafka, Kinesis, Spark, RabbitMQ, or others</li>\n</ul>\n<p><strong>You'll love this role if:</strong></p>\n<ul>\n<li>You have excellent communication skills and thrive in a customer-facing role, collaborating closely with Support Services, Engineering, and Sales teams.</li>\n<li>You are self-driven, curious, and eager to continuously learn and grow.</li>\n<li>You possess a mindset of teamwork, global engagement, empathy, and a drive for solving challenging problems.</li>\n<li>You have a sense of adventure and urgency in building the most scalable, highest performing, largest, and fastest databases in the world.</li>\n</ul>\n<h2><strong>Compensation</strong></h2>\n<p>For roles based in the <strong>United States</strong>, the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.</p>\n<p>These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.</p>\n<p>An individual’s placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.</p>\n<p>If you have any questions or comments about compensation as a candidate, please get in touch with us at <a href=\"mailto:paytransparency@clickhouse.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">paytransparency@clickhouse.com</a>.</p>\n<h2><strong>Perks</strong></h2>\n<ul>\n<li><strong>Flexible work environment</strong> - ClickHouse is a globally distributed company and remote-friendly. We currently operate in over 20 countries.</li>\n<li><strong>Healthcare</strong> - Employer contributions towards your healthcare.</li>\n<li><strong>Equity in the company</strong> - Every new team member who joins our company receives stock options.</li>\n<li><strong>Time off</strong> - Flexible time off in the US, generous entitlement in other countries.</li>\n<li><strong>A $500 Home office setup </strong>if you’re a remote employee.</li>\n<li><strong>Global Gatherings </strong>– We believe in the power of in-person connection and offer opportunities to engage with colleagues at company-wide offsites.</li>\n</ul>\n<p><strong>Culture - We All Shape It</strong></p>\n<p>As part of a rapidly scaling start up, you will be instrumental in shaping our culture. </p>\n<p>Are you interested in finding out more about our culture? Learn more about our values <a href=\"https://clickhouse.com/company/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">here</a>. Check out our<a href=\"https://clickhouse.com/blog\" rel=\"nofollow ugc noopener\" target=\"_blank\"> blog posts</a> or follow us on <a href=\"https://www.linkedin.com/company/clickhouseinc/life/0c1ee7f4-2129-488d-b413-e7f6270659fd/?viewAsMember=true\" rel=\"nofollow ugc noopener\" target=\"_blank\">LinkedIn</a> to find out more about what’s happening at ClickHouse.</p>\n<p><strong>Equal Opportunity &amp; Privacy </strong></p>\n<p>ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. </p>\n<p>Please see <a href=\"https://clickhouse.com/legal/applicant-privacy-notice\" target=\"_blank\" rel=\"nofollow ugc noopener\">here</a> for our Privacy Statement.</p>",
-      "pubDate": "2026-04-24T08:57:40+00:00"
-    }
-  },
-  {
-    "id": "jobicy:142478",
-    "platform": "jobicy",
-    "external_id": "142478",
-    "title": "Senior Cloud Software Engineer",
-    "company": "Twilio",
-    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! . See yourself at Twilio Join the team as Twilio’s next Senior Cloud Software Engineer. About the job This position is needed to help out the Edge Services team. The team that is responsible for the ingestion of Twilio’s Web Console and API traffic, and its supporting services. As part of the Edge Platform organization, we provide building blocks for all Twilio customers and engineers alike, with high-availability and low-latency requirements, in order to effectively enable over billions of inbound requests every day. We take great pride in wearing customer’s shoes and making decisions inclusively. It is extremely important for us to build services with exceptionally high uptime, availability, and success rates. Responsibilities In this role, you’ll: Lead the execution end-to-end: Design and lead the implementation of scalable, high-availability cloud infrastructure, moving beyond feature work to drive long-term platform strategy while championing Twilio’s \"progress over perfection\" mindset to deliver continuous, high-impact shipments. Operational Excellence: Own the reliability of services handling billions of weekly requests, setting the standard for operational best practices and incident response. Infrastructure Strategy: Drive the evolution of our Infrastructure as Code (IaC) patterns using Terraform, ensuring modularity, security, and reusability across the organization. Always aim for a self -service approach such that it keeps the team’s TOIL at minimum. Continuous optimization: Continuously looks for optimizations in our pipelines/releases/deliveries that balance rapid deployment with rigorous safety checks. Technical Mentorship and Reviews: Actively mentor L1 and L2 engineers as well as help with code reviews, design docs, and pair programming to foster a culture of technical excellence. Cross-Functional Influence: Collaborate with Cross teams, Product and Engineering leadership to align technical roadmap, debt reduction and new feature deliveries. Continuous Innovation: Be an owner and continuously research and prototype to optimise Twilio’s API infrastructure to provide best in class service to the customers Qualifications Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table! *Required: 5+ years of professional experience in Cloud, DevOps, or Site Reliability Engineering (SRE), with deep proficiency in Python, Java, Go or another other language of choice. Architectural Depth: Proven track record of designing and deploying complex AWS cloud-native solutions (e.g., CloudFront, Multitenancies, DNS, Caching strategies, WAF, Lambda, S3, developing hosting solutions, etc) at scale. IaC Expert: Advanced experience with Terraform, including writing custom providers or managing state at scale across multiple environments. System Reliability: Deep understanding of SLIs, SLOs, Golden signals, Error Budgets and establishing monitoring strategies; in depth experience using Datadog, Grafana, or Athena to drive data-informed engineering decisions. Strong background in microservices architecture, specifically regarding traffic routing, rate limiting, and service discovery. Demonstrated ability to lead technical projects from conception to completion, navigating trade-offs and communicating complex technical concepts to non-technical stakeholders. Desired : Experience implementing security-at-scale, including WAF management, DDoS mitigation, and Zero Trust architectures. Platform Engineering previous experience, passion for building \"Internal Developer Platforms\" that abstract infrastructure complexity for product teams. A proven track record of contributing to the cloud-native or networking ecosystem, also has contributions to public Terraform providers or similar open-source initiatives Location This role will be remote, and based in Spain. Travel We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings. What We Offer Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location. Twilio thinks big. Do you? We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call Twilio Magic . Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts. So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, please consider other open positions. Twilio is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.",
-    "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Spain",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "java",
-      "aws",
-      "terraform",
-      "grafana",
-      "datadog",
-      "twilio"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-04-24T07:18:11+00:00",
-    "fetched_at": "2026-05-19T19:29:40.237Z",
-    "raw": {
-      "id": 142478,
-      "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
-      "jobSlug": "142478-senior-cloud-software-engineer",
-      "jobTitle": "Senior Cloud Software Engineer",
-      "companyName": "Twilio",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/WRILS-201023175858-722503.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Spain",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers...",
-      "jobDescription": "<p><strong>Who we are </strong></p>\n<p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a href=\"https://customers.twilio.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\"> hundreds of thousands of businesses </a>and empower millions of developers worldwide to craft personalized customer experiences.</p>\n<p>Our dedication to <a href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" rel=\"nofollow ugc noopener\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br />We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!</p>\n<p>.</p>\n<p><strong>See yourself at Twilio</strong></p>\n<p>Join the team as Twilio’s next Senior Cloud Software Engineer.</p>\n<p><strong>About the job</strong></p>\n<p>This position is needed to help out the Edge Services team. The team that is responsible for the ingestion of Twilio’s Web Console and API traffic, and its supporting services. As part of the Edge Platform organization, we provide building blocks for all Twilio customers and engineers alike, with high-availability and low-latency requirements, in order to effectively enable over billions of inbound requests every day. We take great pride in wearing customer’s shoes and making decisions inclusively. It is extremely important for us to build services with exceptionally high uptime, availability, and success rates.</p>\n<p><strong>Responsibilities</strong></p>\n<p>In this role, you’ll:</p>\n<ul>\n<li><strong>Lead the execution end-to-end:</strong> Design and lead the implementation of scalable, high-availability cloud infrastructure, moving beyond feature work to drive long-term platform strategy while championing Twilio’s \"progress over perfection\" mindset to deliver continuous, high-impact shipments.</li>\n<li><strong>Operational Excellence:</strong> Own the reliability of services handling billions of weekly requests, setting the standard for operational best practices and incident response.</li>\n<li><strong>Infrastructure Strategy:</strong> Drive the evolution of our Infrastructure as Code (IaC) patterns using Terraform, ensuring modularity, security, and reusability across the organization. Always aim for a self -service approach such that it keeps the team’s TOIL at minimum.</li>\n<li><strong>Continuous optimization:</strong> Continuously looks for optimizations in our pipelines/releases/deliveries that balance rapid deployment with rigorous safety checks.</li>\n<li><strong>Technical Mentorship and Reviews:</strong> Actively mentor L1 and L2 engineers as well as help with code reviews, design docs, and pair programming to foster a culture of technical excellence.</li>\n<li><strong>Cross-Functional Influence:</strong> Collaborate with Cross teams, Product and Engineering leadership to align technical roadmap, debt reduction and new feature deliveries.</li>\n<li><strong>Continuous Innovation:</strong> Be an owner and continuously research and prototype to optimise Twilio’s API infrastructure to provide best in class service to the customers</li>\n</ul>\n<p><strong>Qualifications </strong></p>\n<p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p>\n<p><strong>*Required:</strong></p>\n<ul>\n<li>5+ years of professional experience in Cloud, DevOps, or Site Reliability Engineering (SRE), with deep proficiency in Python, Java, Go or another other language of choice.</li>\n<li>Architectural Depth: Proven track record of designing and deploying complex AWS cloud-native solutions (e.g., CloudFront, Multitenancies, DNS, Caching strategies, WAF, Lambda, S3, developing hosting solutions, etc) at scale.</li>\n<li>IaC Expert: Advanced experience with Terraform, including writing custom providers or managing state at scale across multiple environments.</li>\n<li>System Reliability: Deep understanding of SLIs, SLOs, Golden signals, Error Budgets and establishing monitoring strategies; in depth experience using Datadog, Grafana, or Athena to drive data-informed engineering decisions.</li>\n<li>Strong background in microservices architecture, specifically regarding traffic routing, rate limiting, and service discovery.</li>\n<li>Demonstrated ability to lead technical projects from conception to completion, navigating trade-offs and communicating complex technical concepts to non-technical stakeholders.</li>\n</ul>\n<p><strong>Desired</strong>:</p>\n<ul>\n<li>Experience implementing security-at-scale, including WAF management, DDoS mitigation, and Zero Trust architectures.</li>\n<li>Platform Engineering previous experience, passion for building \"Internal Developer Platforms\" that abstract infrastructure complexity for product teams.</li>\n<li>A proven track record of contributing to the cloud-native or networking ecosystem, also has contributions to public Terraform providers or similar open-source initiatives</li>\n</ul>\n<p><strong>Location</strong></p>\n<p>This role will be remote, and based in Spain.</p>\n<p><strong>Travel </strong></p>\n<p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p>\n<p><strong>What We Offer</strong></p>\n<p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p>\n<p><strong>Twilio thinks big. Do you?</strong></p>\n<p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\" rel=\"nofollow ugc noopener\" target=\"_blank\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\" rel=\"nofollow ugc noopener\" target=\"_blank\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p>\n<p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\" rel=\"nofollow ugc noopener\" target=\"_blank\">please consider other open positions.</a></p>\n<p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p>",
-      "pubDate": "2026-04-24T07:18:11+00:00"
     }
   }
 ]
