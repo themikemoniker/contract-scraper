@@ -1,16 +1,18 @@
 {
-  "totalJobs": 757,
+  "totalJobs": 755,
   "bySource": {
     "arbeitnow": 58,
+    "remoteok": 49,
     "jobicy": 95,
-    "remoteok": 50,
     "wwr": 41,
     "workingnomads": 23,
     "remotive": 17,
-    "hn": 472,
-    "himalayas": 1
+    "hn": 472
   },
   "byTechStack": {
+    "azure": 55,
+    "rust": 23,
+    "ray": 4,
     "javascript": 131,
     "typescript": 89,
     "nodejs": 75,
@@ -19,7 +21,6 @@
     "dynamodb": 5,
     "aws": 135,
     "gcp": 51,
-    "azure": 54,
     "docker": 68,
     "gitlab": 17,
     "sqs": 4,
@@ -60,14 +61,12 @@
     "github-actions": 10,
     "pytorch": 9,
     "mlops": 10,
-    "ray": 3,
     "langchain": 7,
     "vector-db": 3,
     "airflow": 8,
     "rag": 10,
     "foundry": 1,
-    "segment": 6,
-    "rust": 22,
+    "segment": 5,
     "go": 22,
     "php": 20,
     "vue": 28,
@@ -166,32 +165,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "contract": 11,
-    "freelance": 8,
-    "full-time": 644,
-    "part-time": 4
+    "part-time": 5,
+    "full-time": 643,
+    "contract": 10,
+    "freelance": 7
   },
   "byRemoteType": {
-    "remote": 407,
+    "remote": 405,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 66,
-    "50k-100k": 5,
+    "under50k": 65,
+    "50k-100k": 4,
     "100k-150k": 16,
     "150k-200k": 10,
     "over200k": 2,
     "unknown": 658
   },
-  "lastUpdated": "2026-05-25T09:41:12.012Z",
+  "lastUpdated": "2026-05-25T14:24:56.165Z",
   "jobsLast7Days": [
     3,
     4,
     9,
-    46,
-    54,
-    31,
-    4
+    36,
+    53,
+    32,
+    13
   ]
 }
