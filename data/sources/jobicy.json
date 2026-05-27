@@ -1,5 +1,59 @@
 [
   {
+    "id": "jobicy:144932",
+    "platform": "jobicy",
+    "external_id": "144932",
+    "title": "Senior Security Engineer, GRC Automation",
+    "company": "1Password",
+    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work. If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future. Trust is earned — and we’re building the systems to earn it at scale. 1Password is looking for a Senior Security Engineer – GRC Automation to design and implement automation, dashboards, and integrations that power our Governance, Risk, and Compliance (GRC) operations. You’ll partner directly with the Senior Manager of GRC to build automation that scales our security and privacy commitments — from audit readiness and policy enforcement to customer trust workflows. A key focus for this role will be operationalizing and expanding our GRC platform (Drata), building AI-assisted workflows that automate evidence collection, control monitoring, and vendor risk — and owning the delivery of those projects from scoping through go-live. This is a hands-on technical role for someone who’s passionate about making GRC repeatable, visible, and built into how the company works. It sits at the intersection of security engineering, compliance, and platform operations — ideal for someone with a solutions engineering, DevSecOps, or GRC practitioner background who thrives in high-context, high-impact environments. You won't just build things — you'll also be in the room with auditors, owning the technical narrative for what you've built and why. This is a remote opportunity within the US or Canada. What we're looking for: 5+ years of experience in security engineering, DevSecOps, solutions engineering, or GRC automation roles. Proven experience working with GRC, compliance, or audit teams to build automation that supports evidence collection, control testing, or security monitoring. Direct experience implementing and integrating GRC platforms (e.g., Drata, Vanta, Tines, JupiterOne) into production environments. Strong scripting and integration skills using Python, JavaScript, APIs, webhooks , or workflow automation tools. Ability to work cross-functionally with security, compliance, legal, and infrastructure teams to translate policies into scalable technical systems. Familiarity with compliance frameworks such as SOC 2, ISO 27001, or NIST 800-53, and how they map to real-world infrastructure and operations. Project management and delivery ownership — experience managing multi-workstream compliance or security projects end-to-end: scoping, milestones, stakeholder communication, and on-time delivery. You can run a project without a PM holding your hand. Experience building AI-assisted workflows — you've worked with LLMs, agentic tools, or automation pipelines (beyond click-through tools) to solve a GRC or compliance problem and can walk through what you built, why, and how you validated the output. Confident in auditor-facing settings — you have a commanding presence in technical walkthroughs and can represent your automation work clearly to external auditors, senior stakeholders, and executive audiences. You know the difference between what you built and what it proves. Bonus points if you have: Hands-on experience with event-driven automation platforms like Tines and their use in control validation and alerting. Expertise in building evidence pipelines , tagging telemetry, or creating GRC dashboards in tools like Looker or Metabase. Strong understanding of cloud-native security architecture and its relationship to compliance controls (e.g., AWS IAM, encryption, logging). Experience working in customer trust, privacy engineering , or supporting sales/GTM teams with compliance assurance content. Familiarity with EU AI Act, NIST AI RMF, or emerging AI governance frameworks — increasingly relevant as 1Password governs access for AI agents alongside human users. CISA, CISSP, or equivalent certification, or actively working toward one. What you can expect: Lead the implementation and integration of our GRC platform , ensuring it is fully operationalized across key systems and workflows. Build out automated workflows for control testing, evidence collection, and audit readiness. Design and deploy AI-assisted compliance workflows — including agentic evidence collection, LLM-powered vendor questionnaire review, and automated control narrative drafting — with clear validation logic built in. Develop and maintain integrations between the GRC platform and systems of record (e.g., ticketing systems, IAM, asset inventories, configuration management). Manage project delivery across multiple GRC automation initiatives simultaneously — maintaining clear scope, milestones, and stakeholder visibility without sacrificing quality. Design dashboards and reporting to track control health, trust signals, and audit performance . Collaborate with teams across Security, GRC, and Engineering to embed compliance into operational processes like employee onboarding, change management, and incident response . Own the roadmap for automated, resilient internal assurance infrastructure — setting priorities, managing delivery across concurrent workstreams, communicating progress to GRC leadership, and making build vs. buy decisions that scale with the business. At 1Password, we build with AI: At 1Password, using AI to do more with less isn't a bonus — it's how we operate, and it's especially central to this role. We expect you to come in and actively build compliance infrastructure with AI, not just use off-the-shelf tools. A proven builder: You've built something — an agentic evidence collection workflow, an AI-assisted vendor questionnaire reviewer, an LLM-powered control narrative pipeline — and you can walk through what you built, the choices you made, what you iterated on, and what the measurable impact was. Compliance-as-infrastructure mindset: You think in terms of automation coverage. \"What percentage of our control evidence is generated automatically vs. collected manually?\" is a question you ask and try to move. AI tradeoff reasoning: You understand where non-deterministic AI is acceptable in compliance workflows (first-pass gap analysis, vendor triage) vs. where deterministic guarantees matter (audit-ready evidence, control conclusions). You build validation steps in — you don't treat AI output as ground truth. Systems thinking: When you describe an automation you built, you can explain how it changed downstream workflows, not just what it saved on the immediate task. USA-based roles only: The annual base salary for this role is between $153,000 USD and $214,000 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs. Canada-based roles only: The annual base salary for this role is between $144,000 CAD and $202,000 CAD , plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs. At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set. This posting is for an existing vacancy. Our culture At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is not for everyone . Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. How we work with AI We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password. This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. Our approach to remote work We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events. What we offer We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: Health and wellbeing Maternity and parental leave top-up programs Competitive health benefits Generous PTO policy Growth and future RSU program for most employees Retirement matching program Free 1Password account Community Paid volunteer days Peer-to-peer recognition through Bonusly Remote-first work environment *Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting. You belong here. 1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love. Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs. Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you. Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law. 1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See here for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing this form . For additional information see our Candidate Privacy Notice .",
+    "url": "https://jobicy.com/jobs/144932-senior-security-engineer-grc-automation",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Canada,  USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "oracle",
+      "aws",
+      "llm",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-05-27T11:47:43+00:00",
+    "fetched_at": "2026-05-27T19:53:14.676Z",
+    "raw": {
+      "id": 144932,
+      "url": "https://jobicy.com/jobs/144932-senior-security-engineer-grc-automation",
+      "jobSlug": "144932-senior-security-engineer-grc-automation",
+      "jobTitle": "Senior Security Engineer, GRC Automation",
+      "companyName": "1Password",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/09/WRILS-200909195848-296323.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Canada,  USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up...",
+      "jobDescription": "<p><em><strong>1Password is growing.</strong> We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.</em></p>\n<p><strong>About 1Password</strong></p>\n<p><em>At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work.</em></p>\n<p><em>If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future.</em></p>\n<p>Trust is earned — and we’re building the systems to earn it at scale. 1Password is looking for a <strong>Senior Security Engineer – GRC Automation</strong> to design and implement automation, dashboards, and integrations that power our Governance, Risk, and Compliance (GRC) operations.</p>\n<p>You’ll partner directly with the <strong>Senior Manager of GRC</strong> to build automation that scales our security and privacy commitments — from audit readiness and policy enforcement to customer trust workflows. A key focus for this role will be operationalizing and expanding our GRC platform (Drata), building AI-assisted workflows that automate evidence collection, control monitoring, and vendor risk — and owning the delivery of those projects from scoping through go-live.</p>\n<p>This is a hands-on technical role for someone who’s passionate about making GRC repeatable, visible, and built into how the company works. It sits at the intersection of security engineering, compliance, and platform operations — ideal for someone with a solutions engineering, DevSecOps, or GRC practitioner background who thrives in high-context, high-impact environments. You won't just build things — you'll also be in the room with auditors, owning the technical narrative for what you've built and why.</p>\n<p>This is a remote opportunity within the US or Canada.</p>\n<p><strong>What we're looking for:</strong></p>\n<ul>\n<li>\n<p><strong>5+ years of experience</strong> in security engineering, DevSecOps, solutions engineering, or GRC automation roles.</p>\n</li>\n<li>\n<p>Proven experience working with <strong>GRC, compliance, or audit teams</strong> to build automation that supports evidence collection, control testing, or security monitoring.</p>\n</li>\n<li>\n<p>Direct experience <strong>implementing and integrating GRC platforms</strong> (e.g., Drata, Vanta, Tines, JupiterOne) into production environments.</p>\n</li>\n<li>\n<p>Strong scripting and integration skills using <strong>Python, JavaScript, APIs, webhooks</strong>, or workflow automation tools.</p>\n</li>\n<li>\n<p>Ability to work cross-functionally with <strong>security, compliance, legal, and infrastructure teams</strong> to translate policies into scalable technical systems.</p>\n</li>\n<li>\n<p>Familiarity with <strong>compliance frameworks</strong> such as SOC 2, ISO 27001, or NIST 800-53, and how they map to real-world infrastructure and operations.</p>\n</li>\n<li>\n<p>Project management and delivery ownership — experience managing multi-workstream compliance or security projects end-to-end: scoping, milestones, stakeholder communication, and on-time delivery. You can run a project without a PM holding your hand.</p>\n</li>\n<li>\n<p>Experience building AI-assisted workflows — you've worked with LLMs, agentic tools, or automation pipelines (beyond click-through tools) to solve a GRC or compliance problem and can walk through what you built, why, and how you validated the output.</p>\n</li>\n<li>\n<p>Confident in auditor-facing settings — you have a commanding presence in technical walkthroughs and can represent your automation work clearly to external auditors, senior stakeholders, and executive audiences. You know the difference between what you built and what it proves.</p>\n</li>\n</ul>\n<p><strong>Bonus points if you have:</strong></p>\n<ul>\n<li>\n<p>Hands-on experience with <strong>event-driven automation platforms</strong> like Tines and their use in control validation and alerting.</p>\n</li>\n<li>\n<p>Expertise in building <strong>evidence pipelines</strong>, tagging telemetry, or creating GRC dashboards in tools like Looker or Metabase.</p>\n</li>\n<li>\n<p>Strong understanding of <strong>cloud-native security architecture</strong> and its relationship to compliance controls (e.g., AWS IAM, encryption, logging).</p>\n</li>\n<li>\n<p>Experience working in <strong>customer trust, privacy engineering</strong>, or supporting sales/GTM teams with compliance assurance content.</p>\n</li>\n<li>\n<p>Familiarity with EU AI Act, NIST AI RMF, or emerging AI governance frameworks — increasingly relevant as 1Password governs access for AI agents alongside human users.</p>\n</li>\n<li>\n<p>CISA, CISSP, or equivalent certification, or actively working toward one.</p>\n</li>\n</ul>\n<p><strong>What you can expect:</strong></p>\n<ul>\n<li>\n<p><strong>Lead the implementation and integration of our GRC platform</strong>, ensuring it is fully operationalized across key systems and workflows.</p>\n</li>\n<li>\n<p>Build out <strong>automated workflows</strong> for control testing, evidence collection, and audit readiness.</p>\n</li>\n<li>\n<p>Design and deploy AI-assisted compliance workflows — including agentic evidence collection, LLM-powered vendor questionnaire review, and automated control narrative drafting — with clear validation logic built in. </p>\n</li>\n<li>\n<p>Develop and maintain <strong>integrations</strong> between the GRC platform and systems of record (e.g., ticketing systems, IAM, asset inventories, configuration management).</p>\n</li>\n<li>\n<p>Manage project delivery across multiple GRC automation initiatives simultaneously — maintaining clear scope, milestones, and stakeholder visibility without sacrificing quality.</p>\n</li>\n<li>\n<p>Design dashboards and reporting to track <strong>control health, trust signals, and audit performance</strong>.</p>\n</li>\n<li>\n<p>Collaborate with teams across Security, GRC, and Engineering to embed compliance into operational processes like <strong>employee onboarding, change management, and incident response</strong>.</p>\n</li>\n<li>\n<p>Own the roadmap for automated, resilient internal assurance infrastructure — setting priorities, managing delivery across concurrent workstreams, communicating progress to GRC leadership, and making build vs. buy decisions that scale with the business.</p>\n</li>\n</ul>\n<p><strong>At 1Password, we build with AI:</strong><br />At 1Password, using AI to do more with less isn't a bonus — it's how we operate, and it's especially central to this role. We expect you to come in and actively build compliance infrastructure with AI, not just use off-the-shelf tools.</p>\n<ul>\n<li>\n<p>A proven builder: You've built something — an agentic evidence collection workflow, an AI-assisted vendor questionnaire reviewer, an LLM-powered control narrative pipeline — and you can walk through what you built, the choices you made, what you iterated on, and what the measurable impact was.</p>\n</li>\n<li>\n<p>Compliance-as-infrastructure mindset: You think in terms of automation coverage. \"What percentage of our control evidence is generated automatically vs. collected manually?\" is a question you ask and try to move.</p>\n</li>\n<li>\n<p>AI tradeoff reasoning: You understand where non-deterministic AI is acceptable in compliance workflows (first-pass gap analysis, vendor triage) vs. where deterministic guarantees matter (audit-ready evidence, control conclusions). You build validation steps in — you don't treat AI output as ground truth.</p>\n</li>\n<li>\n<p>Systems thinking: When you describe an automation you built, you can explain how it changed downstream workflows, not just what it saved on the immediate task.</p>\n</li>\n</ul>\n<p>USA-based roles only: The annual base salary for this role is between $153,000 USD and $214,000 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p>\n<div> </div>\n<p>Canada-based roles only: The annual base salary for this role is between $144,000 CAD and $202,000 CAD<strong>,</strong> plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p>\n<p>At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.</p>\n<p><em>This posting is for an existing vacancy.</em></p>\n<p><strong>Our culture</strong></p>\n<p>At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first.</p>\n<p>You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, <a href=\"https://blog.1password.com/inside-the-culture-powering-1passwords-next-chapter/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>1Password is not for everyone</em> </a>. Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results.</p>\n<p><strong>How we work with AI</strong></p>\n<p>We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password.</p>\n<p>This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process.</p>\n<p><strong>Our approach to remote work</strong></p>\n<p>We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events.</p>\n<p><strong>What we offer</strong></p>\n<p>We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer:</p>\n<p><em>Health and wellbeing</em></p>\n<p> Maternity and parental leave top-up programs</p>\n<p> Competitive health benefits</p>\n<p> Generous PTO policy</p>\n<p><em>Growth and future</em></p>\n<p> RSU program for most employees</p>\n<p> Retirement matching program</p>\n<p> Free 1Password account</p>\n<p><em>Community</em></p>\n<p> Paid volunteer days</p>\n<p> Peer-to-peer recognition through Bonusly</p>\n<p> Remote-first work environment</p>\n<p><em>*Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting.</em></p>\n<p><strong>You belong here.</strong></p>\n<p><em>1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love.</em></p>\n<p><em>Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs.</em></p>\n<p><em>Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you.</em></p>\n<p><em>Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law.</em></p>\n<p><em>1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See </em><a href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><u>here</u></em></a><em> for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing </em><a href=\"https://jobs.ashbyhq.com/1password/automation-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><u>this form</u></em></a><em>. For additional information see our </em><a href=\"https://1password.com/files/candidate-privacy-notice.pdf\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><u>Candidate Privacy Notice</u></em></a><em>.</em></p>",
+      "pubDate": "2026-05-27T11:47:43+00:00",
+      "salaryMin": 144000,
+      "salaryMax": 214000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:144913",
     "platform": "jobicy",
     "external_id": "144913",
@@ -23,7 +77,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-27T11:43:11+00:00",
-    "fetched_at": "2026-05-27T14:45:58.411Z",
+    "fetched_at": "2026-05-27T19:53:14.677Z",
     "raw": {
       "id": 144913,
       "url": "https://jobicy.com/jobs/144913-quality-assurance-engineer",
@@ -72,7 +126,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-27T11:43:05+00:00",
-    "fetched_at": "2026-05-27T14:45:58.413Z",
+    "fetched_at": "2026-05-27T19:53:14.679Z",
     "raw": {
       "id": 144909,
       "url": "https://jobicy.com/jobs/144909-senior-android-engineer-2",
@@ -127,7 +181,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-26T14:56:34+00:00",
-    "fetched_at": "2026-05-27T14:45:58.414Z",
+    "fetched_at": "2026-05-27T19:53:14.680Z",
     "raw": {
       "id": 144876,
       "url": "https://jobicy.com/jobs/144876-senior-full-stack-engineer-insights",
@@ -179,7 +233,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-26T14:56:31+00:00",
-    "fetched_at": "2026-05-27T14:45:58.416Z",
+    "fetched_at": "2026-05-27T19:53:14.682Z",
     "raw": {
       "id": 144874,
       "url": "https://jobicy.com/jobs/144874-senior-ai-engineer-4",
@@ -229,7 +283,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-26T14:43:36+00:00",
-    "fetched_at": "2026-05-27T14:45:58.417Z",
+    "fetched_at": "2026-05-27T19:53:14.683Z",
     "raw": {
       "id": 144851,
       "url": "https://jobicy.com/jobs/144851-lead-backend-engineer",
@@ -280,7 +334,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-26T14:43:16+00:00",
-    "fetched_at": "2026-05-27T14:45:58.417Z",
+    "fetched_at": "2026-05-27T19:53:14.684Z",
     "raw": {
       "id": 144839,
       "url": "https://jobicy.com/jobs/144839-front-end-engineer-2",
@@ -330,7 +384,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-26T00:11:32+00:00",
-    "fetched_at": "2026-05-27T14:45:58.418Z",
+    "fetched_at": "2026-05-27T19:53:14.685Z",
     "raw": {
       "id": 144806,
       "url": "https://jobicy.com/jobs/144806-sailpoint-iam-engineer",
@@ -388,7 +442,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-25T11:58:07+00:00",
-    "fetched_at": "2026-05-27T14:45:58.419Z",
+    "fetched_at": "2026-05-27T19:53:14.686Z",
     "raw": {
       "id": 144781,
       "url": "https://jobicy.com/jobs/144781-machine-learning-developer-freelance-3",
@@ -445,7 +499,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-25T11:58:05+00:00",
-    "fetched_at": "2026-05-27T14:45:58.419Z",
+    "fetched_at": "2026-05-27T19:53:14.686Z",
     "raw": {
       "id": 144780,
       "url": "https://jobicy.com/jobs/144780-freelance-machine-learning-engineer-2",
@@ -493,7 +547,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-24T12:42:39+00:00",
-    "fetched_at": "2026-05-27T14:45:58.420Z",
+    "fetched_at": "2026-05-27T19:53:14.687Z",
     "raw": {
       "id": 144716,
       "url": "https://jobicy.com/jobs/144716-enterprise-solutions-engineer-germany",
@@ -539,7 +593,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-24T06:32:32+00:00",
-    "fetched_at": "2026-05-27T14:45:58.422Z",
+    "fetched_at": "2026-05-27T19:53:14.691Z",
     "raw": {
       "id": 144696,
       "url": "https://jobicy.com/jobs/144696-developer-billing-and-payments",
@@ -604,7 +658,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-24T06:32:21+00:00",
-    "fetched_at": "2026-05-27T14:45:58.424Z",
+    "fetched_at": "2026-05-27T19:53:14.693Z",
     "raw": {
       "id": 144689,
       "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
@@ -654,7 +708,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-23T16:22:37+00:00",
-    "fetched_at": "2026-05-27T14:45:58.425Z",
+    "fetched_at": "2026-05-27T19:53:14.694Z",
     "raw": {
       "id": 144629,
       "url": "https://jobicy.com/jobs/144629-power-platform-software-engineer",
@@ -704,7 +758,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-23T16:22:35+00:00",
-    "fetched_at": "2026-05-27T14:45:58.426Z",
+    "fetched_at": "2026-05-27T19:53:14.694Z",
     "raw": {
       "id": 144628,
       "url": "https://jobicy.com/jobs/144628-senior-power-platform-software-engineer",
@@ -760,7 +814,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-23T16:22:34+00:00",
-    "fetched_at": "2026-05-27T14:45:58.426Z",
+    "fetched_at": "2026-05-27T19:53:14.695Z",
     "raw": {
       "id": 144627,
       "url": "https://jobicy.com/jobs/144627-full-stack-developer-3",
@@ -815,7 +869,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-23T16:22:25+00:00",
-    "fetched_at": "2026-05-27T14:45:58.427Z",
+    "fetched_at": "2026-05-27T19:53:14.696Z",
     "raw": {
       "id": 144622,
       "url": "https://jobicy.com/jobs/144622-senior-full-stack-engineer-us-canada",
@@ -866,7 +920,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T11:02:36+00:00",
-    "fetched_at": "2026-05-27T14:45:58.428Z",
+    "fetched_at": "2026-05-27T19:53:14.698Z",
     "raw": {
       "id": 144528,
       "url": "https://jobicy.com/jobs/144528-senior-python-software-engineer-backend-workflows-team-open-to-remote-across-anz",
@@ -913,7 +967,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T11:02:26+00:00",
-    "fetched_at": "2026-05-27T14:45:58.429Z",
+    "fetched_at": "2026-05-27T19:53:14.698Z",
     "raw": {
       "id": 144522,
       "url": "https://jobicy.com/jobs/144522-associate-staff-engineerai",
@@ -960,7 +1014,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T10:57:19+00:00",
-    "fetched_at": "2026-05-27T14:45:58.430Z",
+    "fetched_at": "2026-05-27T19:53:14.699Z",
     "raw": {
       "id": 144518,
       "url": "https://jobicy.com/jobs/144518-principal-software-engineer-postgres",
@@ -1007,7 +1061,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T10:57:11+00:00",
-    "fetched_at": "2026-05-27T14:45:58.431Z",
+    "fetched_at": "2026-05-27T19:53:14.700Z",
     "raw": {
       "id": 144513,
       "url": "https://jobicy.com/jobs/144513-qa-automation-engineer-pro",
@@ -1060,7 +1114,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T10:57:09+00:00",
-    "fetched_at": "2026-05-27T14:45:58.432Z",
+    "fetched_at": "2026-05-27T19:53:14.702Z",
     "raw": {
       "id": 144512,
       "url": "https://jobicy.com/jobs/144512-ai-engineer-3",
@@ -1109,7 +1163,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T10:57:07+00:00",
-    "fetched_at": "2026-05-27T14:45:58.433Z",
+    "fetched_at": "2026-05-27T19:53:14.702Z",
     "raw": {
       "id": 144511,
       "url": "https://jobicy.com/jobs/144511-software-engineer-agentic-data-plane",
@@ -1158,7 +1212,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T10:57:06+00:00",
-    "fetched_at": "2026-05-27T14:45:58.433Z",
+    "fetched_at": "2026-05-27T19:53:14.703Z",
     "raw": {
       "id": 144510,
       "url": "https://jobicy.com/jobs/144510-staff-software-engineer-agentic-data-plane-poland",
@@ -1207,7 +1261,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T10:57:02+00:00",
-    "fetched_at": "2026-05-27T14:45:58.434Z",
+    "fetched_at": "2026-05-27T19:53:14.704Z",
     "raw": {
       "id": 144508,
       "url": "https://jobicy.com/jobs/144508-software-engineer-cloud",
@@ -1253,7 +1307,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T10:56:59+00:00",
-    "fetched_at": "2026-05-27T14:45:58.435Z",
+    "fetched_at": "2026-05-27T19:53:14.705Z",
     "raw": {
       "id": 144506,
       "url": "https://jobicy.com/jobs/144506-materials-engineer-python-expert-freelance-ai-trainer",
@@ -1300,7 +1354,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T02:00:24+00:00",
-    "fetched_at": "2026-05-27T14:45:58.436Z",
+    "fetched_at": "2026-05-27T19:53:14.706Z",
     "raw": {
       "id": 144492,
       "url": "https://jobicy.com/jobs/144492-commissioning-manager-all-genders-for-hvdc-systems",
@@ -1349,7 +1403,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:41+00:00",
-    "fetched_at": "2026-05-27T14:45:58.438Z",
+    "fetched_at": "2026-05-27T19:53:14.708Z",
     "raw": {
       "id": 144486,
       "url": "https://jobicy.com/jobs/144486-senior-software-engineer-opentelemetry-canada-remote",
@@ -1402,7 +1456,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:40+00:00",
-    "fetched_at": "2026-05-27T14:45:58.439Z",
+    "fetched_at": "2026-05-27T19:53:14.710Z",
     "raw": {
       "id": 144485,
       "url": "https://jobicy.com/jobs/144485-senior-software-engineer-opentelemetry-us-remote",
@@ -1450,7 +1504,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:33+00:00",
-    "fetched_at": "2026-05-27T14:45:58.440Z",
+    "fetched_at": "2026-05-27T19:53:14.710Z",
     "raw": {
       "id": 144481,
       "url": "https://jobicy.com/jobs/144481-solutions-architect-scaled-operations-ai-accelerator-team",
@@ -1495,7 +1549,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:30+00:00",
-    "fetched_at": "2026-05-27T14:45:58.441Z",
+    "fetched_at": "2026-05-27T19:53:14.711Z",
     "raw": {
       "id": 144479,
       "url": "https://jobicy.com/jobs/144479-ai-systems-engineering-subject-matter-expert",
@@ -1542,7 +1596,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:29+00:00",
-    "fetched_at": "2026-05-27T14:45:58.442Z",
+    "fetched_at": "2026-05-27T19:53:14.712Z",
     "raw": {
       "id": 144478,
       "url": "https://jobicy.com/jobs/144478-windows-cloud-engineer",
@@ -1602,7 +1656,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:22+00:00",
-    "fetched_at": "2026-05-27T14:45:58.443Z",
+    "fetched_at": "2026-05-27T19:53:14.713Z",
     "raw": {
       "id": 144474,
       "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
@@ -1653,7 +1707,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:20+00:00",
-    "fetched_at": "2026-05-27T14:45:58.444Z",
+    "fetched_at": "2026-05-27T19:53:14.714Z",
     "raw": {
       "id": 144473,
       "url": "https://jobicy.com/jobs/144473-senior-kibana-observability-engineer",
@@ -1704,7 +1758,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:18+00:00",
-    "fetched_at": "2026-05-27T14:45:58.444Z",
+    "fetched_at": "2026-05-27T19:53:14.714Z",
     "raw": {
       "id": 144472,
       "url": "https://jobicy.com/jobs/144472-senior-elastic-engineer",
@@ -1756,7 +1810,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:15+00:00",
-    "fetched_at": "2026-05-27T14:45:58.445Z",
+    "fetched_at": "2026-05-27T19:53:14.715Z",
     "raw": {
       "id": 144470,
       "url": "https://jobicy.com/jobs/144470-senior-software-tester-qa-analyst",
@@ -1809,7 +1863,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:10+00:00",
-    "fetched_at": "2026-05-27T14:45:58.446Z",
+    "fetched_at": "2026-05-27T19:53:14.716Z",
     "raw": {
       "id": 144467,
       "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
@@ -1857,7 +1911,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-22T01:53:00+00:00",
-    "fetched_at": "2026-05-27T14:45:58.447Z",
+    "fetched_at": "2026-05-27T19:53:14.717Z",
     "raw": {
       "id": 144461,
       "url": "https://jobicy.com/jobs/144461-software-engineer-7",
@@ -1907,7 +1961,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-21T10:42:50+00:00",
-    "fetched_at": "2026-05-27T14:45:58.449Z",
+    "fetched_at": "2026-05-27T19:53:14.719Z",
     "raw": {
       "id": 144417,
       "url": "https://jobicy.com/jobs/144417-staff-backend-engineer-ast-composition-analysis",
@@ -1960,7 +2014,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-21T10:42:45+00:00",
-    "fetched_at": "2026-05-27T14:45:58.449Z",
+    "fetched_at": "2026-05-27T19:53:14.720Z",
     "raw": {
       "id": 144414,
       "url": "https://jobicy.com/jobs/144414-senior-software-engineer-frontend-cluj",
@@ -2015,7 +2069,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-21T00:43:24+00:00",
-    "fetched_at": "2026-05-27T14:45:58.450Z",
+    "fetched_at": "2026-05-27T19:53:14.721Z",
     "raw": {
       "id": 144376,
       "url": "https://jobicy.com/jobs/144376-machine-learning-engineer-3",
@@ -2075,7 +2129,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-21T00:43:17+00:00",
-    "fetched_at": "2026-05-27T14:45:58.451Z",
+    "fetched_at": "2026-05-27T19:53:14.722Z",
     "raw": {
       "id": 144372,
       "url": "https://jobicy.com/jobs/144372-sr-elastic-engineer",
@@ -2126,7 +2180,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-20T10:55:07+00:00",
-    "fetched_at": "2026-05-27T14:45:58.452Z",
+    "fetched_at": "2026-05-27T19:53:14.723Z",
     "raw": {
       "id": 144336,
       "url": "https://jobicy.com/jobs/144336-staff-security-architect",
@@ -2175,7 +2229,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-20T10:54:50+00:00",
-    "fetched_at": "2026-05-27T14:45:58.453Z",
+    "fetched_at": "2026-05-27T19:53:14.724Z",
     "raw": {
       "id": 144326,
       "url": "https://jobicy.com/jobs/144326-security-engineer-2",
@@ -2220,7 +2274,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-19T16:55:01+00:00",
-    "fetched_at": "2026-05-27T14:45:58.454Z",
+    "fetched_at": "2026-05-27T19:53:14.725Z",
     "raw": {
       "id": 144256,
       "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
@@ -2267,7 +2321,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-19T16:54:44+00:00",
-    "fetched_at": "2026-05-27T14:45:58.455Z",
+    "fetched_at": "2026-05-27T19:53:14.726Z",
     "raw": {
       "id": 144246,
       "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
@@ -2320,7 +2374,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:45:10+00:00",
-    "fetched_at": "2026-05-27T14:45:58.456Z",
+    "fetched_at": "2026-05-27T19:53:14.726Z",
     "raw": {
       "id": 144179,
       "url": "https://jobicy.com/jobs/144179-golang-engineer",
@@ -2369,7 +2423,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:44:51+00:00",
-    "fetched_at": "2026-05-27T14:45:58.456Z",
+    "fetched_at": "2026-05-27T19:53:14.727Z",
     "raw": {
       "id": 144167,
       "url": "https://jobicy.com/jobs/144167-sr-software-engineer-2",
@@ -2421,7 +2475,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:44:31+00:00",
-    "fetched_at": "2026-05-27T14:45:58.457Z",
+    "fetched_at": "2026-05-27T19:53:14.728Z",
     "raw": {
       "id": 144154,
       "url": "https://jobicy.com/jobs/144154-senior-android-sdk-engineer",
@@ -2475,7 +2529,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:44:29+00:00",
-    "fetched_at": "2026-05-27T14:45:58.458Z",
+    "fetched_at": "2026-05-27T19:53:14.729Z",
     "raw": {
       "id": 144153,
       "url": "https://jobicy.com/jobs/144153-senior-ios-sdk-engineer",
@@ -2534,7 +2588,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-18T10:38:14+00:00",
-    "fetched_at": "2026-05-27T14:45:58.459Z",
+    "fetched_at": "2026-05-27T19:53:14.730Z",
     "raw": {
       "id": 144146,
       "url": "https://jobicy.com/jobs/144146-full-stack-developer-ruby-react-quorso",
@@ -2595,7 +2649,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-18T10:38:02+00:00",
-    "fetched_at": "2026-05-27T14:45:58.461Z",
+    "fetched_at": "2026-05-27T19:53:14.732Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -2649,7 +2703,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:48+00:00",
-    "fetched_at": "2026-05-27T14:45:58.462Z",
+    "fetched_at": "2026-05-27T19:53:14.733Z",
     "raw": {
       "id": 144111,
       "url": "https://jobicy.com/jobs/144111-senior-full-stack-developer-2",
@@ -2706,7 +2760,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:35+00:00",
-    "fetched_at": "2026-05-27T14:45:58.463Z",
+    "fetched_at": "2026-05-27T19:53:14.734Z",
     "raw": {
       "id": 144103,
       "url": "https://jobicy.com/jobs/144103-ai-engineer-fde-forward-deployed-engineer",
@@ -2757,7 +2811,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:31+00:00",
-    "fetched_at": "2026-05-27T14:45:58.464Z",
+    "fetched_at": "2026-05-27T19:53:14.735Z",
     "raw": {
       "id": 144101,
       "url": "https://jobicy.com/jobs/144101-software-engineer-6",
@@ -2800,7 +2854,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:27+00:00",
-    "fetched_at": "2026-05-27T14:45:58.465Z",
+    "fetched_at": "2026-05-27T19:53:14.740Z",
     "raw": {
       "id": 144098,
       "url": "https://jobicy.com/jobs/144098-senior-software-engineer-full-remote-france-or-hybrid-2",
@@ -2849,7 +2903,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:25+00:00",
-    "fetched_at": "2026-05-27T14:45:58.467Z",
+    "fetched_at": "2026-05-27T19:53:14.742Z",
     "raw": {
       "id": 144097,
       "url": "https://jobicy.com/jobs/144097-ai-engineering-team-lead",
@@ -2898,7 +2952,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:23+00:00",
-    "fetched_at": "2026-05-27T14:45:58.468Z",
+    "fetched_at": "2026-05-27T19:53:14.743Z",
     "raw": {
       "id": 144096,
       "url": "https://jobicy.com/jobs/144096-principal-software-engineer-experiences",
@@ -2954,7 +3008,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-17T16:49:20+00:00",
-    "fetched_at": "2026-05-27T14:45:58.469Z",
+    "fetched_at": "2026-05-27T19:53:14.744Z",
     "raw": {
       "id": 144094,
       "url": "https://jobicy.com/jobs/144094-mobile-software-engineer-android-digital-trust",
@@ -3003,7 +3057,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-17T16:49:09+00:00",
-    "fetched_at": "2026-05-27T14:45:58.470Z",
+    "fetched_at": "2026-05-27T19:53:14.745Z",
     "raw": {
       "id": 144087,
       "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
@@ -3050,7 +3104,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-16T16:18:39+00:00",
-    "fetched_at": "2026-05-27T14:45:58.471Z",
+    "fetched_at": "2026-05-27T19:53:14.746Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -3104,7 +3158,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-16T16:18:37+00:00",
-    "fetched_at": "2026-05-27T14:45:58.471Z",
+    "fetched_at": "2026-05-27T19:53:14.747Z",
     "raw": {
       "id": 144039,
       "url": "https://jobicy.com/jobs/144039-software-engineer-machine-learning",
@@ -3153,7 +3207,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-15T12:25:13+00:00",
-    "fetched_at": "2026-05-27T14:45:58.473Z",
+    "fetched_at": "2026-05-27T19:53:14.748Z",
     "raw": {
       "id": 143969,
       "url": "https://jobicy.com/jobs/143969-ai-automation-engineer",
@@ -3212,7 +3266,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T17:18:44+00:00",
-    "fetched_at": "2026-05-27T14:45:58.474Z",
+    "fetched_at": "2026-05-27T19:53:14.750Z",
     "raw": {
       "id": 143911,
       "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
@@ -3259,7 +3313,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T17:18:39+00:00",
-    "fetched_at": "2026-05-27T14:45:58.476Z",
+    "fetched_at": "2026-05-27T19:53:14.752Z",
     "raw": {
       "id": 143908,
       "url": "https://jobicy.com/jobs/143908-senior-sales-engineer-5",
@@ -3305,7 +3359,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T17:18:35+00:00",
-    "fetched_at": "2026-05-27T14:45:58.477Z",
+    "fetched_at": "2026-05-27T19:53:14.753Z",
     "raw": {
       "id": 143906,
       "url": "https://jobicy.com/jobs/143906-senior-software-engineer-13",
@@ -3358,7 +3412,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-14T16:39:01+00:00",
-    "fetched_at": "2026-05-27T14:45:58.479Z",
+    "fetched_at": "2026-05-27T19:53:14.754Z",
     "raw": {
       "id": 143900,
       "url": "https://jobicy.com/jobs/143900-analyst-ii-full-stack-2",
@@ -3412,7 +3466,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T16:38:49+00:00",
-    "fetched_at": "2026-05-27T14:45:58.480Z",
+    "fetched_at": "2026-05-27T19:53:14.756Z",
     "raw": {
       "id": 143893,
       "url": "https://jobicy.com/jobs/143893-web-application-software-engineer",
@@ -3464,7 +3518,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-14T16:38:46+00:00",
-    "fetched_at": "2026-05-27T14:45:58.481Z",
+    "fetched_at": "2026-05-27T19:53:14.757Z",
     "raw": {
       "id": 143891,
       "url": "https://jobicy.com/jobs/143891-acquisition-software-engineer",
@@ -3524,7 +3578,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-13T17:33:12+00:00",
-    "fetched_at": "2026-05-27T14:45:58.482Z",
+    "fetched_at": "2026-05-27T19:53:14.758Z",
     "raw": {
       "id": 143801,
       "url": "https://jobicy.com/jobs/143801-full-stack-software-developer-2",
@@ -3573,7 +3627,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T17:33:09+00:00",
-    "fetched_at": "2026-05-27T14:45:58.483Z",
+    "fetched_at": "2026-05-27T19:53:14.759Z",
     "raw": {
       "id": 143798,
       "url": "https://jobicy.com/jobs/143798-solution-architect-microsoft-power-platform-and-copilot-studio",
@@ -3622,7 +3676,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-13T17:33:08+00:00",
-    "fetched_at": "2026-05-27T14:45:58.485Z",
+    "fetched_at": "2026-05-27T19:53:14.761Z",
     "raw": {
       "id": 143797,
       "url": "https://jobicy.com/jobs/143797-servicenow-developer-2",
@@ -3676,7 +3730,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T01:34:28+00:00",
-    "fetched_at": "2026-05-27T14:45:58.486Z",
+    "fetched_at": "2026-05-27T19:53:14.762Z",
     "raw": {
       "id": 143734,
       "url": "https://jobicy.com/jobs/143734-senior-software-engineer-trading-technology-query-stack",
@@ -3719,7 +3773,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T01:34:27+00:00",
-    "fetched_at": "2026-05-27T14:45:58.486Z",
+    "fetched_at": "2026-05-27T19:53:14.763Z",
     "raw": {
       "id": 143733,
       "url": "https://jobicy.com/jobs/143733-senior-staff-engineer",
@@ -3762,7 +3816,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T01:34:25+00:00",
-    "fetched_at": "2026-05-27T14:45:58.487Z",
+    "fetched_at": "2026-05-27T19:53:14.763Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -3822,7 +3876,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-13T01:34:24+00:00",
-    "fetched_at": "2026-05-27T14:45:58.488Z",
+    "fetched_at": "2026-05-27T19:53:14.764Z",
     "raw": {
       "id": 143731,
       "url": "https://jobicy.com/jobs/143731-full-stack-software-developer-node-js-react-bulgaria-based",
@@ -3869,7 +3923,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-13T01:34:22+00:00",
-    "fetched_at": "2026-05-27T14:45:58.488Z",
+    "fetched_at": "2026-05-27T19:53:14.765Z",
     "raw": {
       "id": 143730,
       "url": "https://jobicy.com/jobs/143730-internship-embedded-ai-engineering-remote-possible",
@@ -3927,7 +3981,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-13T01:34:19+00:00",
-    "fetched_at": "2026-05-27T14:45:58.489Z",
+    "fetched_at": "2026-05-27T19:53:14.766Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -3982,7 +4036,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-12T15:14:05+00:00",
-    "fetched_at": "2026-05-27T14:45:58.491Z",
+    "fetched_at": "2026-05-27T19:53:14.767Z",
     "raw": {
       "id": 143685,
       "url": "https://jobicy.com/jobs/143685-senior-software-engineer-12",
@@ -4035,7 +4089,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-12T15:13:52+00:00",
-    "fetched_at": "2026-05-27T14:45:58.492Z",
+    "fetched_at": "2026-05-27T19:53:14.768Z",
     "raw": {
       "id": 143676,
       "url": "https://jobicy.com/jobs/143676-software-developer-iii",
@@ -4082,7 +4136,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T17:16:01+00:00",
-    "fetched_at": "2026-05-27T14:45:58.492Z",
+    "fetched_at": "2026-05-27T19:53:14.769Z",
     "raw": {
       "id": 143616,
       "url": "https://jobicy.com/jobs/143616-staff-design-quality-assurance-engineer",
@@ -4128,7 +4182,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:06:01+00:00",
-    "fetched_at": "2026-05-27T14:45:58.493Z",
+    "fetched_at": "2026-05-27T19:53:14.770Z",
     "raw": {
       "id": 143575,
       "url": "https://jobicy.com/jobs/143575-solutions-architect-networking",
@@ -4175,7 +4229,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:05:59+00:00",
-    "fetched_at": "2026-05-27T14:45:58.494Z",
+    "fetched_at": "2026-05-27T19:53:14.771Z",
     "raw": {
       "id": 143574,
       "url": "https://jobicy.com/jobs/143574-senior-solution-architect-ai-infrastructure",
@@ -4222,7 +4276,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T14:05:58+00:00",
-    "fetched_at": "2026-05-27T14:45:58.496Z",
+    "fetched_at": "2026-05-27T19:53:14.772Z",
     "raw": {
       "id": 143573,
       "url": "https://jobicy.com/jobs/143573-senior-solutions-architect-networking-public-sector",
@@ -4278,7 +4332,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-11T10:47:14+00:00",
-    "fetched_at": "2026-05-27T14:45:58.497Z",
+    "fetched_at": "2026-05-27T19:53:14.773Z",
     "raw": {
       "id": 143538,
       "url": "https://jobicy.com/jobs/143538-software-verification-engineer",
@@ -4331,7 +4385,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:31+00:00",
-    "fetched_at": "2026-05-27T14:45:58.498Z",
+    "fetched_at": "2026-05-27T19:53:14.774Z",
     "raw": {
       "id": 143481,
       "url": "https://jobicy.com/jobs/143481-principal-engineer",
@@ -4383,7 +4437,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:30+00:00",
-    "fetched_at": "2026-05-27T14:45:58.499Z",
+    "fetched_at": "2026-05-27T19:53:14.775Z",
     "raw": {
       "id": 143480,
       "url": "https://jobicy.com/jobs/143480-systems-research-engineer-software-engineer-data-and-ml-infrastructure",
@@ -4432,7 +4486,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T11:01:18+00:00",
-    "fetched_at": "2026-05-27T14:45:58.500Z",
+    "fetched_at": "2026-05-27T19:53:14.776Z",
     "raw": {
       "id": 143473,
       "url": "https://jobicy.com/jobs/143473-senior-full-stack-software-engineer-remote-in-europe",
@@ -4510,7 +4564,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-09T03:47:45+00:00",
-    "fetched_at": "2026-05-27T14:45:58.501Z",
+    "fetched_at": "2026-05-27T19:53:14.777Z",
     "raw": {
       "id": 143458,
       "url": "https://jobicy.com/jobs/143458-senior-cloud-software-engineer-aws-ai",
@@ -4557,7 +4611,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T17:06:41+00:00",
-    "fetched_at": "2026-05-27T14:45:58.503Z",
+    "fetched_at": "2026-05-27T19:53:14.779Z",
     "raw": {
       "id": 143441,
       "url": "https://jobicy.com/jobs/143441-quality-engineer",
@@ -4602,7 +4656,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T17:06:39+00:00",
-    "fetched_at": "2026-05-27T14:45:58.504Z",
+    "fetched_at": "2026-05-27T19:53:14.780Z",
     "raw": {
       "id": 143438,
       "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
@@ -4652,7 +4706,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T16:57:53+00:00",
-    "fetched_at": "2026-05-27T14:45:58.504Z",
+    "fetched_at": "2026-05-27T19:53:14.780Z",
     "raw": {
       "id": 143430,
       "url": "https://jobicy.com/jobs/143430-lead-c-engineer",
@@ -4697,7 +4751,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-08T06:48:41+00:00",
-    "fetched_at": "2026-05-27T14:45:58.506Z",
+    "fetched_at": "2026-05-27T19:53:14.783Z",
     "raw": {
       "id": 143399,
       "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
@@ -4744,7 +4798,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:41+00:00",
-    "fetched_at": "2026-05-27T14:45:58.507Z",
+    "fetched_at": "2026-05-27T19:53:14.783Z",
     "raw": {
       "id": 143391,
       "url": "https://jobicy.com/jobs/143391-senior-developer-for-banking-insurance-software-solutions-m-f-d",
@@ -4798,7 +4852,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:12+00:00",
-    "fetched_at": "2026-05-27T14:45:58.508Z",
+    "fetched_at": "2026-05-27T19:53:14.785Z",
     "raw": {
       "id": 143373,
       "url": "https://jobicy.com/jobs/143373-senior-backend-developer-2",
@@ -4849,7 +4903,7 @@
       "Programming"
     ],
     "posted_at": "2026-05-08T04:47:10+00:00",
-    "fetched_at": "2026-05-27T14:45:58.509Z",
+    "fetched_at": "2026-05-27T19:53:14.786Z",
     "raw": {
       "id": 143372,
       "url": "https://jobicy.com/jobs/143372-senior-ui-developer",
@@ -4905,7 +4959,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:40+00:00",
-    "fetched_at": "2026-05-27T14:45:58.510Z",
+    "fetched_at": "2026-05-27T19:53:14.787Z",
     "raw": {
       "id": 143291,
       "url": "https://jobicy.com/jobs/143291-staff-software-engineer-kubernetes-operations",
@@ -4952,7 +5006,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:39+00:00",
-    "fetched_at": "2026-05-27T14:45:58.511Z",
+    "fetched_at": "2026-05-27T19:53:14.788Z",
     "raw": {
       "id": 143290,
       "url": "https://jobicy.com/jobs/143290-embedded-software-engineer-2",
@@ -5000,7 +5054,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-07T14:51:28+00:00",
-    "fetched_at": "2026-05-27T14:45:58.512Z",
+    "fetched_at": "2026-05-27T19:53:14.790Z",
     "raw": {
       "id": 143283,
       "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
@@ -5049,7 +5103,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-06T11:58:59+00:00",
-    "fetched_at": "2026-05-27T14:45:58.514Z",
+    "fetched_at": "2026-05-27T19:53:14.791Z",
     "raw": {
       "id": 143221,
       "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
@@ -5070,59 +5124,6 @@
       "pubDate": "2026-05-06T11:58:59+00:00",
       "salaryMin": 197000,
       "salaryMax": 290000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:143220",
-    "platform": "jobicy",
-    "external_id": "143220",
-    "title": "Staff AI Builder (AI Native Mobile Engineer), Family AI Lab",
-    "company": "Life360",
-    "description": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app,Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver reports, and crash detection with emergency dispatch. Life360 serves approximately 95.8 million monthly active users (MAU), as of December 31, 2025, across more than 180 countries. Life360 delivers peace of mind and enhances everyday family life with seamless coordination for all the moments that matter, big and small. By continuing to innovate and deliver for our customers, we have become a household name and the must-have mobile-based membership for families (and those friends who are basically family). Life360 has more than 500 (and growing!) remote-first employees. For more information, please visit life360.com . Life360 is a Remote First company, which means a remote work environment will be the primary experience for all employees. All positions, unless otherwise specified, can be performed remotely (within the US and Canada) regardless of any specified location above. We are AI Native We are building an AI native company where AI is an integral part of how we build and operate. AI tool usage during interviews varies by role. You may be asked to demonstrate proficiency with AI tools, discuss how you leverage AI, or complete interview exercises without AI assistance. Your Recruiter will provide clear guidance as you move through the interview process. Undisclosed use of AI not previously discussed with or approved by your Recruiter may impact your candidacy. About The Team The AI Lab is a small, founder-led team operating like a zero-to-one startup inside Life360, building the company’s next chapter. Our mission is to transform Life360 from the app you open to find your family into an intelligent operating system families rely on daily. We design and build an AI-powered layer on top of our family graph, leveraging our core location technologies and global 100 million-user base to proactively surface what matters across location, schedules, and everyday life. About the Job This role is hard to title because the lines between engineering, design, and product blur fast when you are building the way we are building. The closest description is design-oriented builder. You have a strong aesthetic sense and real opinions about how a product should feel. You can take a loose idea and make it tangible before anyone has finished writing the spec. You understand the value of a polished user experience in the context of agentic software and how to deliver one. You work directly with design, product, and the founder. You are part of the creative process, not downstream of it. The work is not \"here is a Figma, build it.\" The work is \"here is a rough idea, what does the first working version look like by the end of day, and what do we learn when we put it in front of someone.\" You thrive without traditional specs and get real energy out of shipping something new every day. Energy and momentum matter as much as skill. For candidates based in the US, the salary range for this position is $190,000 to $280,000 USD. For candidates based out of Canada, the salary range for this position is $220,000 to $260,000 CAD. Note: Please be aware that the job title for positions in Canada will be \"Developer\" in lieu of \"Engineer.\" We take into consideration an individual's background and experience in determining final salary - therefore, base pay offered may vary considerably depending on geographic location, job-related knowledge, skills, and experience. The compensation package includes a wide range of medical, dental, vision, financial, and other benefits, as well as equity. What You’ll Do Take rough ideas (sketches, voice memos, half-finished docs) and turn them into something real and clickable, fast. The first version is usually the same day. Build prototypes for the surfaces that make the product tangible: the map, widgets, Live Activities, voice, in-app moments where information surfaces automatically. Some will ship. Most will get thrown away. Both outcomes are useful. Make tasteful UI calls without waiting for design to spec every pixel. Design refines. You get it 80% there. Sit in the room when product direction gets debated. Push back when something doesn't feel right. We need engineers who are part of the conversation, not waiting for the output. Use AI tooling aggressively. Orchestrate agents to generate code, write tests, and review your work. The whole point of this team is that a small group with the right tools outperforms a much larger one. Ship to test groups, watch how people actually use what you built, iterate. The feedback loop is short and you are inside it. What We’re Looking For If there's one trait we need above all others, it's self-starter energy. As we've gotten bigger, we've been more open to roles with clearly defined schedules and processes. That doesn't work in a startup. We need people on founder hours, not office hours — with a huge desire to win. You'll be a cofounder of this initiative. You operate without a spec. You'd rather have a conversation, a sketch, and 24 hours than a 30-page PRD and a week. You ship every day (or close to it). Not \"make progress.\" Ship. Even rough. Even ugly. Momentum matters more than polish at this stage. You're comfortable showing it before it's ready and letting it get torn apart in service of getting to the right thing. You push for more. You won't wait to be told what to do. You demand excellence of yourself and the people around you. You hold strong opinions and change them when the evidence moves. You push back. You concede fast when wrong. You're a customer of what we build. Try it if you haven't. The bar Deep experience building consumer mobile or web products that real people use. You know what good feels like on a phone, and you know how it fails. Zero-to-one stage experience and the desire to do it again. Taste. You can articulate why one design works and another doesn't. You have references. You notice details other people miss. You can move from a blank screen to a working prototype without anyone holding your hand. Specs make you slower, not faster. Deep in at least one of React, Swift, or Kotlin — and comfortable shipping in another. You don't treat the platform as someone else's problem. AI-native in your daily workflow. Hands-on with Claude Code, Cursor, or equivalent. Deep experience with agentic workflows, prompt engineering, context window management, MCP / function calling. Bonus Map-based or location-driven product work. You understand the design problems unique to spatial UI. Our Benefits Competitive pay and benefits. Medical, dental, vision, life and disability insurance plans (100% paid for US employees). We offer supplemental plans for medical and dental for Canadian employees. 401(k) plan with company matching program in the US and RRSP with DPSP plan for Canadian employees. Employee Assistance Program (EAP) for mental wellness. Flexible PTO and 12 company wide days off throughout the year. Learning &amp; Development programs. Equipment, tools, and reimbursement support for a productive remote environment. Free Life360 Platinum Membership for your preferred circle. Life360 Values Our company’s mission driven culture is guided by our shared values to create a trusted work environment where you can bring your authentic self to work and make a positive difference Be a Good Person - We have a team of high integrity people you can trust. Be Direct With Respect - We communicate directly, even when it’s hard. Members Before Metrics - We focus on building an exceptional experience for families. High Intensity High Impact - We do whatever it takes to get the job done. Our Commitment to Diversity We are an equal opportunity employer and value diversity at Life360. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or any legally protected status. We encourage people of all backgrounds to apply. We believe that a diversity of perspectives and experiences create a foundation for the best ideas. Come join us in building something meaningful. Even if you don’t meet 100% of the below qualifications, you should still seriously consider applying! #LI-Remote ____________________________________________________________________________",
-    "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "swift",
-      "kotlin",
-      "react",
-      "llm",
-      "figma"
-    ],
-    "tags": [
-      "Programming"
-    ],
-    "posted_at": "2026-05-06T11:58:57+00:00",
-    "fetched_at": "2026-05-27T14:45:58.515Z",
-    "raw": {
-      "id": 143220,
-      "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
-      "jobSlug": "143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
-      "jobTitle": "Staff AI Builder (AI Native Mobile Engineer), Family AI Lab",
-      "companyName": "Life360",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/f269bad3-221.jpeg",
-      "jobIndustry": [
-        "Programming"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About Life360Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app,Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets,...",
-      "jobDescription": "<h2>About Life360</h2>\n<p>Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app,Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver reports, and crash detection with emergency dispatch. Life360 serves approximately 95.8 million monthly active users (MAU), as of December 31, 2025, across more than 180 countries.</p>\n<p>Life360 delivers peace of mind and enhances everyday family life with seamless coordination for all the moments that matter, big and small. By continuing to innovate and deliver for our customers, we have become a household name and the must-have mobile-based membership for families (and those friends who are basically family).</p>\n<p>Life360 has more than 500 (and growing!) remote-first employees. For more information, please visit <a href=\"http://life360.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">life360.com</a>.</p>\n<p><strong><em>Life360 is a Remote First company, which means a remote work environment will be the primary experience for all employees. All positions, unless otherwise specified, can be performed remotely (within the US and Canada) regardless of any specified location above. </em></strong></p>\n<h3>We are AI Native</h3>\n<p>We are building an AI native company where AI is an integral part of how we build and operate. AI tool usage during interviews varies by role. You may be asked to demonstrate proficiency with AI tools, discuss how you leverage AI, or complete interview exercises without AI assistance. Your Recruiter will provide clear guidance as you move through the interview process.</p>\n<p>Undisclosed use of AI not previously discussed with or approved by your Recruiter may impact your candidacy.</p>\n<h2>About The Team</h2>\n<p>The AI Lab is a small, founder-led team operating like a zero-to-one startup inside Life360, building the company’s next chapter. Our mission is to transform Life360 from the app you open to find your family into an intelligent operating system families rely on daily. We design and build an AI-powered layer on top of our family graph, leveraging our core location technologies and global 100 million-user base to proactively surface what matters across location, schedules, and everyday life.</p>\n<h2>About the Job</h2>\n<p>This role is hard to title because the lines between engineering, design, and product blur fast when you are building the way we are building. The closest description is design-oriented builder. You have a strong aesthetic sense and real opinions about how a product should feel. You can take a loose idea and make it tangible before anyone has finished writing the spec. You understand the value of a polished user experience in the context of agentic software and how to deliver one.</p>\n<p>You work directly with design, product, and the founder. You are part of the creative process, not downstream of it. The work is not \"here is a Figma, build it.\" The work is \"here is a rough idea, what does the first working version look like by the end of day, and what do we learn when we put it in front of someone.\"</p>\n<p>You thrive without traditional specs and get real energy out of shipping something new every day. Energy and momentum matter as much as skill.</p>\n<p><em><strong>For candidates based in the US, the salary range for this position is $190,000 to $280,000 USD. For candidates based out of Canada, the salary range for this position is $220,000 to $260,000 CAD. Note: Please be aware that the job title for positions in Canada will be \"Developer\" in lieu of \"Engineer.\" We take into consideration an individual's background and experience in determining final salary - therefore, base pay offered may vary considerably depending on geographic location, job-related knowledge, skills, and experience. The compensation package includes a wide range of medical, dental, vision, financial, and other benefits, as well as equity.</strong></em></p>\n<h2>What You’ll Do</h2>\n<ul>\n<li>Take rough ideas (sketches, voice memos, half-finished docs) and turn them into something real and clickable, fast. The first version is usually the same day.</li>\n<li>Build prototypes for the surfaces that make the product tangible: the map, widgets, Live Activities, voice, in-app moments where information surfaces automatically. Some will ship. Most will get thrown away. Both outcomes are useful.</li>\n<li>Make tasteful UI calls without waiting for design to spec every pixel. Design refines. You get it 80% there.</li>\n<li>Sit in the room when product direction gets debated. Push back when something doesn't feel right. We need engineers who are part of the conversation, not waiting for the output.</li>\n<li>Use AI tooling aggressively. Orchestrate agents to generate code, write tests, and review your work. The whole point of this team is that a small group with the right tools outperforms a much larger one.</li>\n<li>Ship to test groups, watch how people actually use what you built, iterate. The feedback loop is short and you are inside it.</li>\n</ul>\n<h2>What We’re Looking For</h2>\n<p>If there's one trait we need above all others, it's self-starter energy. As we've gotten bigger, we've been more open to roles with clearly defined schedules and processes. That doesn't work in a startup. We need people on founder hours, not office hours — with a huge desire to win. You'll be a cofounder of this initiative.</p>\n<ul>\n<li>You operate without a spec. You'd rather have a conversation, a sketch, and 24 hours than a 30-page PRD and a week.</li>\n<li>You ship every day (or close to it). Not \"make progress.\" Ship. Even rough. Even ugly. Momentum matters more than polish at this stage. You're comfortable showing it before it's ready and letting it get torn apart in service of getting to the right thing.</li>\n<li>You push for more. You won't wait to be told what to do. You demand excellence of yourself and the people around you.</li>\n<li>You hold strong opinions and change them when the evidence moves. You push back. You concede fast when wrong.</li>\n<li>You're a customer of what we build. Try it if you haven't.</li>\n</ul>\n<p><strong>The bar</strong></p>\n<ul>\n<li>Deep experience building consumer mobile or web products that real people use. You know what good feels like on a phone, and you know how it fails.</li>\n<li>Zero-to-one stage experience and the desire to do it again.</li>\n<li>Taste. You can articulate why one design works and another doesn't. You have references. You notice details other people miss.</li>\n<li>You can move from a blank screen to a working prototype without anyone holding your hand. Specs make you slower, not faster.</li>\n<li>Deep in at least one of React, Swift, or Kotlin — and comfortable shipping in another. You don't treat the platform as someone else's problem.</li>\n<li>AI-native in your daily workflow. Hands-on with Claude Code, Cursor, or equivalent. Deep experience with agentic workflows, prompt engineering, context window management, MCP / function calling.</li>\n</ul>\n<p><strong>Bonus</strong></p>\n<ul>\n<li>Map-based or location-driven product work. You understand the design problems unique to spatial UI.</li>\n</ul>\n<h2>Our Benefits</h2>\n<ul>\n<li>Competitive pay and benefits.</li>\n<li>Medical, dental, vision, life and disability insurance plans (100% paid for US employees). We offer supplemental plans for medical and dental for Canadian employees.</li>\n<li>401(k) plan with company matching program in the US and RRSP with DPSP plan for Canadian employees.</li>\n<li>Employee Assistance Program (EAP) for mental wellness.</li>\n<li>Flexible PTO and 12 company wide days off throughout the year.</li>\n<li>Learning &amp; Development programs.</li>\n<li>Equipment, tools, and reimbursement support for a productive remote environment.</li>\n<li>Free Life360 Platinum Membership for your preferred circle.</li>\n</ul>\n<h2>Life360 Values</h2>\n<p>Our company’s mission driven culture is guided by our shared values to create a trusted work environment where you can bring your authentic self to work and make a positive difference </p>\n<ul>\n<li>Be a Good Person - We have a team of high integrity people you can trust. </li>\n<li>Be Direct With Respect - We communicate directly, even when it’s hard.</li>\n<li>Members Before Metrics - We focus on building an exceptional experience for families. </li>\n<li>High Intensity High Impact - We do whatever it takes to get the job done. </li>\n</ul>\n<h2>Our Commitment to Diversity</h2>\n<p><em>We are an equal opportunity employer and value diversity at Life360. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or any legally protected status. </em></p>\n<p><em>We encourage people of all backgrounds to apply. We believe that a diversity of perspectives and experiences create a foundation for the best ideas. Come join us in building something meaningful.</em><em>Even if you don’t meet 100% of the below qualifications, you should still seriously consider applying!</em></p>\n<p><strong>#LI-Remote</strong></p>\n<p><em>____________________________________________________________________________</em></p>",
-      "pubDate": "2026-05-06T11:58:57+00:00",
-      "salaryMin": 190000,
-      "salaryMax": 280000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
