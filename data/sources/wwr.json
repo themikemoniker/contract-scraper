@@ -1,5 +1,139 @@
 [
   {
+    "id": "wwr:close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "platform": "wwr",
+    "external_id": "close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "title": "Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+    "company": "Close",
+    "description": "Headquarters: USA URL: http://www.close.com About Us Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again. &nbsp; We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&nbsp; &nbsp; Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools. &nbsp; Our product development process is inspired by Shape Up . We love open sourcing our code and ideas on our GitHub and on The Making of Close , our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like SocketShark , TaskTiger , LimitLion and ciso8601 . &nbsp; &nbsp; About the Role You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp; Onboarding, Conversations, Messaging &amp; Scheduling, Automations &amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp; frontend engineers, product managers, designers, and other teams here at Close. &nbsp; &nbsp; About You We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features. &nbsp; You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team. Come help us with projects like... Conceiving, designing, building, and launching new user-facing features Implementing new AI features to turbocharge our customers’ daily tasks Improving the performance and scalability of our GraphQL and REST API Improving how we sync millions of sales emails and calendar events each month Working with Twilio's API, WebSockets, and WebRTC to improve our calling features Building user-facing analytics features that provide actionable insights based on sales activity data Improving our Elasticsearch-backed powerful search features Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&nbsp; Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers Enhancing our web app with real-time updates powered by GraphQL Subscriptions Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI Help manage our ever growing data processing needs… Billions of Mongo documents Millions and millions of rows of PostgreSQL data 55 Terabytes of logs / month 500 billion OTEL spans over the last 30 days 10+ million events / day Tens of thousands of docker containers 7 million minutes of call recordings / month Petabytes / month of network traffic Requirements... Senior 1 &amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity. Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python. You have built web APIs that were Internet facing or supported other high volume loads. You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&nbsp; You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&nbsp; You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&nbsp; You care about the craftsmanship of the code and systems you produce. Located in the USA (lower 48 timezones). Bonus point if you have Contributed open source code related to our tech stack. Led small project teams building and launching features. Built B2B SaaS products. Implemented features that leveraged AI to deliver unimaginable new product capabilities. Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks. 🌏 Why Close? Watch our most recent culture video featuring our annual team retreat in Italy 100% remote company 5 weeks PTO + Winter &amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company 1 month paid sabbatical every 5 years Paid parental leave Medical, Dental, Vision with HSA option (US residents) 401k matching at 6% (US residents) Dependent care FSA (US residents) Our story and team 🚀 Our Values Build a house you want to live in -- Examine long-term thinking and action No BS -- Practice transparency and honesty, especially when it’s hard Invest in each other -- Build successful relationships with your coworkers and customers&nbsp; Discipline equals freedom -- Keep your word to yourself and others Strive for greatness -- Constantly challenge yourself and others&nbsp; How We Work Together Productivity, Quality &amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&nbsp; Asynchronous communication &amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&nbsp; Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.&nbsp; Autonomy &amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&nbsp; &nbsp; We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp; II is $140,000 to $210,000. To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "url": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "flask",
+      "postgresql",
+      "mongodb",
+      "redis",
+      "elasticsearch",
+      "aws",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "ansible",
+      "llm",
+      "kafka",
+      "graphql",
+      "rest",
+      "twilio"
+    ],
+    "tags": [
+      "programming",
+      "Back-End Programming"
+    ],
+    "posted_at": "2025-07-23T14:31:54.000Z",
+    "fetched_at": "2026-06-06T18:58:49.431Z",
+    "raw": {
+      "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+      "region": "Anywhere in the World",
+      "category": "Back-End Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> USA\n    <br /><strong>URL:</strong> <a href=\"http://www.close.com\">http://www.close.com</a>\n</p>\n\n<div><strong>About Us</strong></div>\n<div><a href=\"https://close.com/\">Close</a> is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again.</div>\n<div>&nbsp;</div>\n<div>We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Our backend <a href=\"https://stackshare.io/close-crm/close\">tech stack</a> consists primarily of Python Flask web apps with our <a href=\"https://github.com/closeio/tasktiger\">TaskTiger</a> scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented <a href=\"https://developer.close.com/\">public API</a> that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.</div>\n<div>&nbsp;</div>\n<div>Our product development process is inspired by <a href=\"https://basecamp.com/shapeup\">Shape Up</a>. We love open sourcing our code and ideas on <a href=\"https://github.com/closeio\">our GitHub</a> and on <a href=\"https://making.close.com/\">The Making of Close</a>, our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like <a href=\"https://github.com/closeio/socketshark\">SocketShark</a>, <a href=\"https://github.com/closeio/tasktiger\">TaskTiger</a>, <a href=\"https://github.com/closeio/limitlion\">LimitLion</a> and <a href=\"https://github.com/closeio/ciso8601\">ciso8601</a>.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><strong>About the Role</strong></div>\n<div>You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp; Onboarding, Conversations, Messaging &amp; Scheduling, Automations &amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp; frontend engineers, product managers, designers, and other teams here at Close.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><strong>About You</strong></div>\n<div>We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.</div>\n<div>&nbsp;</div>\n<div>You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.<br><br></div>\n<div><strong><br>Come help us with projects like...</strong></div>\n<ul>\n<li>Conceiving, designing, building, and launching new user-facing features</li>\n<li>Implementing new AI features to turbocharge our customers’ daily tasks</li>\n<li>Improving the performance and scalability of our GraphQL and <a href=\"https://developer.close.com/\">REST</a> API</li>\n<li>Improving how we <a href=\"https://close.com/emailing/\">sync</a> millions of sales emails and calendar events each month</li>\n<li>Working with Twilio's API, WebSockets, and WebRTC to improve our <a href=\"https://close.com/calling/\">calling features</a></li>\n<li>Building user-facing analytics features that provide actionable insights based on sales activity data</li>\n<li>Improving our Elasticsearch-backed powerful search features</li>\n<li>Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&nbsp;</li>\n<li>Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers</li>\n<li>Enhancing our web app with real-time updates powered by GraphQL Subscriptions</li>\n<li>Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI</li>\n</ul>\n<div><strong><br>Help manage our ever growing data processing needs…</strong></div>\n<ul>\n<li>Billions of Mongo documents</li>\n<li>Millions and millions of rows of PostgreSQL data</li>\n<li>55 Terabytes of logs / month</li>\n<li>500 billion OTEL spans over the last 30 days</li>\n<li>10+ million events / day</li>\n<li>Tens of thousands of docker containers</li>\n<li>7 million minutes of call recordings / month</li>\n<li>Petabytes / month of network traffic</li>\n</ul>\n<div><strong><br>Requirements...</strong></div>\n<ul>\n<li>Senior 1 &amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.</li>\n<li>Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.</li>\n<li>You have built web APIs that were Internet facing or supported other high volume loads.</li>\n<li>You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&nbsp;</li>\n<li>You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&nbsp;</li>\n<li>You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&nbsp;</li>\n<li>You care about the craftsmanship of the code and systems you produce.</li>\n<li>Located in the USA (lower 48 timezones).</li>\n</ul>\n<div><strong><br>Bonus point if you have</strong></div>\n<ul>\n<li>Contributed open source code related to our tech stack.</li>\n<li>Led small project teams building and launching features.</li>\n<li>Built B2B SaaS products.</li>\n<li>Implemented features that leveraged AI to deliver unimaginable new product capabilities.</li>\n<li>Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.</li>\n</ul>\n<div><strong><br>🌏 Why Close?</strong></div>\n<ul>\n<li>Watch our most recent <a href=\"https://www.youtube.com/watch?v=maXKi1GN2MI\">culture video</a> featuring our annual team retreat in Italy</li>\n<li>100% remote company</li>\n<li>5 weeks PTO + Winter &amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company</li>\n<li>1 month paid sabbatical every 5 years</li>\n<li>Paid parental leave</li>\n<li>Medical, Dental, Vision with HSA option (US residents)</li>\n<li>401k matching at 6% (US residents)</li>\n<li>Dependent care FSA (US residents)</li>\n<li><a href=\"https://close.io/about/\">Our story and team</a> 🚀</li>\n</ul>\n<div><strong><br>Our Values</strong></div>\n<ul>\n<li><strong>Build a house you want to live in</strong> -- Examine long-term thinking and action</li>\n<li><strong>No BS</strong> -- Practice transparency and honesty, especially when it’s hard</li>\n<li><strong>Invest in each other</strong> -- Build successful relationships with your coworkers and customers&nbsp;</li>\n<li><strong>Discipline equals freedom</strong> -- Keep your word to yourself and others</li>\n<li><strong>Strive for greatness </strong>-- Constantly challenge yourself and others&nbsp;</li>\n</ul>\n<div><strong><br>How We Work Together</strong></div>\n<ul>\n<li><strong>Productivity, Quality &amp; Impact: </strong>We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&nbsp;</li>\n<li><strong>Asynchronous communication &amp; collaboration:</strong> We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&nbsp;</li>\n<li><strong>Appreciation for Deep Work:</strong> *During your normal work day, not after a day of meetings*.&nbsp;</li>\n<li><strong>Autonomy &amp; Freedom:</strong> Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&nbsp;</li>\n</ul>\n<div>&nbsp;</div>\n<div><strong>We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp; II is $140,000 to $210,000.</strong></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1\">https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</a></p>",
+      "pubDate": "Wed, 23 Jul 2025 14:31:54 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+      "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1"
+    }
+  },
+  {
+    "id": "wwr:onthegosystems-senior-ruby-on-rails-developer-2",
+    "platform": "wwr",
+    "external_id": "onthegosystems-senior-ruby-on-rails-developer-2",
+    "title": "Senior Ruby on Rails Developer",
+    "company": "OnTheGoSystems",
+    "description": "Headquarters: Remote URL: http://onthegosystems.com We’re looking for a Senior Ruby on Rails developer with a curious, hands-on mindset who enjoys building reliable systems, owning meaningful features, solving complex problems, and using AI tools to improve development workflows, product quality, and user experience. What you’ll be working on: Building and maintaining Ruby on Rails systems used at scaleOwning features from implementation to production Writing and maintaining automated tests (unit, integration, E2E) Investigating production issues, debugging complex problems, and helping design practical solutions Improving performance, reliability, and maintainability What we’re looking for: To succeed in this role, you’ll have: 4+ years of professional experience with Ruby on Rails Experience building and running production systems Strong backend skills, including databases, performance, and API design Solid experience writing and maintaining automated tests (including E2E) Curiousity about AI technologies and use AI-powered tools to improve productivity, debugging, testing, research, or development workflows. Nice to have:&nbsp; Experience with React&nbsp; CI/CD, background jobs, or AWS experience Why Join OTGS ? Stable &amp; self-funded: Founded in 2007, profitable, and independent. Industry leaders: Creators of WPML , the #1 multilingual plugin for WordPress, used on 1.5M+ sites Fully remote, async-friendly: Work from anywhere within EMEA hours Engineering-driven culture: Ownership, autonomy, testing, and thoughtful problem-solving Fair compensation and great benefits: Designed to support your well-being both inside and outside of work. You’ll enjoy this role if you: Take pride in ownership and accountability Care about testing and long-term code quality Are motivated by solving problems in complex systems Enjoy collaborative environments where kind and experienced people learn, investigate issues, and solve problems. Want to make a lasting impact on a product used by thousands of real customers? We would love to hear from you. To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2",
+    "url": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "ruby",
+      "react",
+      "rails",
+      "aws"
+    ],
+    "tags": [
+      "programming",
+      "Back-End Programming"
+    ],
+    "posted_at": "2026-05-19T06:26:21.000Z",
+    "fetched_at": "2026-06-06T18:58:49.432Z",
+    "raw": {
+      "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
+      "region": "Anywhere in the World",
+      "category": "Back-End Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote\n    <br /><strong>URL:</strong> <a href=\"http://onthegosystems.com\">http://onthegosystems.com</a>\n</p>\n\n<p>We’re looking for a <strong>Senior Ruby on Rails developer</strong> with a curious, hands-on mindset who enjoys building reliable systems, owning meaningful features, solving complex problems, and <strong>using AI tools</strong> to improve development workflows, product quality, and user experience.</p>\n<h3>What you’ll be working on:</h3>\n<ul>\n<li>\n<p>Building and maintaining Ruby on Rails systems used at scaleOwning features from implementation to production</p>\n</li>\n<li>\n<p>Writing and maintaining automated tests (unit, integration, E2E)</p>\n</li>\n<li>\n<p>Investigating production issues, debugging complex problems, and helping design practical solutions</p>\n</li>\n<li>\n<p>Improving performance, reliability, and maintainability</p>\n</li>\n</ul>\n<h3>What we’re looking for:</h3>\n<p>To succeed in this role, you’ll have:</p>\n<ul>\n<li>\n<p>4+ years of professional experience with Ruby on Rails</p>\n</li>\n<li>\n<p>Experience building and running production systems</p>\n</li>\n<li>\n<p>Strong backend skills, including databases, performance, and API design</p>\n</li>\n<li>\n<p>Solid experience writing and maintaining automated tests (including E2E)</p>\n</li>\n<li>\n<p>Curiousity about AI technologies and use AI-powered tools to improve productivity, debugging, testing, research, or development workflows.</p>\n</li>\n</ul>\n<p>Nice to have:&nbsp;</p>\n<ul>\n<li>\n<p>Experience with React&nbsp;</p>\n</li>\n<li>\n<p>CI/CD, background jobs, or AWS experience</p>\n</li>\n</ul>\n<h3>Why Join <a href=\"https://onthegosystems.com/\">OTGS</a>?</h3>\n<ul>\n<li>\n<p>Stable &amp; self-funded: Founded in 2007, profitable, and independent.</p>\n</li>\n<li>\n<p>Industry leaders: Creators of <a href=\"https://wpml.org/\">WPML</a>, the #1 multilingual plugin for WordPress, used on 1.5M+ sites</p>\n</li>\n<li>\n<p>Fully remote, async-friendly: Work from anywhere within EMEA hours</p>\n</li>\n<li>\n<p>Engineering-driven culture: Ownership, autonomy, testing, and thoughtful problem-solving</p>\n</li>\n<li>\n<p>Fair compensation and great benefits: Designed to support your well-being both inside and outside of work.</p>\n</li>\n</ul>\n<h3>You’ll enjoy this role if you:</h3>\n<ul>\n<li>\n<p>Take pride in ownership and accountability</p>\n</li>\n<li>\n<p>Care about testing and long-term code quality</p>\n</li>\n<li>\n<p>Are motivated by solving problems in complex systems</p>\n</li>\n<li>\n<p>Enjoy collaborative environments where kind and experienced people learn, investigate issues, and solve problems.</p>\n</li>\n</ul>\n<p><strong>Want to make a lasting impact on a product used by thousands of real customers? We would love to hear from you.</strong></p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2\">https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2</a></p>",
+      "pubDate": "Tue, 19 May 2026 06:26:21 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2",
+      "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2"
+    }
+  },
+  {
+    "id": "wwr:createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer",
+    "platform": "wwr",
+    "external_id": "createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer",
+    "title": "DevOps Engineer",
+    "company": "createIT s.c. Borkowski Bartosz, Fredrych Aleksander",
+    "description": "Headquarters: Warsaw, 14, Poland Job description DevOps Engineer for one of our long-term clients Job requirements AWS Stack (SQS/SQS/Api Gateway/RDS/Mongo/DynamoDb etc.) Kubernetes Node.js/React deployments CI/CD English min. B2 All done! Your application has been successfully submitted! Other jobs To apply: https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": null,
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "react",
+      "nodejs",
+      "mongodb",
+      "dynamodb",
+      "aws",
+      "kubernetes",
+      "sqs"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-05-18T20:31:17.000Z",
+    "fetched_at": "2026-06-06T18:58:49.432Z",
+    "raw": {
+      "title": "createIT s.c. Borkowski Bartosz, Fredrych Aleksander: DevOps Engineer",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Warsaw, 14, Poland\n</p>\n\n<div class=\"sc-1gch2qa-0 fhKCjg\"><div><div class=\"sc-gfrfnr-2 deOrHQ\"></div><div class=\"sc-18h7are-0 ebVyJP\"><div class=\"sc-1tu9fip-2 ezRMeN\"><div class=\"sc-1tu9fip-1 kdUgoN\"><div class=\"sc-1tu9fip-3 iFQjUO\"><div class=\"sc-ji5wy4-0 jIYAZB\"><div><div><div><div><div class=\"sc-1uwf3m5-2 ipgOZn\"><div class=\"sc-1v95195-0 jscoSJ\"><div><div><h2 class=\"sc-1npqnwg-4 sc-1npqnwg-5 sc-1uwf3m5-0 bTeJGh custom-css-style-job-description\">Job description</h2><div class=\"sc-1fwbcuw-0 hKfmGz\"><div><p>DevOps Engineer for one of our long-term clients</p></div></div><h2 class=\"sc-1npqnwg-4 sc-1npqnwg-5 sc-1uwf3m5-0 sc-1uwf3m5-1 hfBgvY custom-css-style-job-requirements\">Job requirements</h2><div class=\"sc-1fwbcuw-0 hKfmGz\"><div><ul><li><p>AWS Stack (SQS/SQS/Api Gateway/RDS/Mongo/DynamoDb etc.)</p></li><li><p>Kubernetes</p></li><li><p><a href=\"http://Node.js/React\">Node.js/React</a> deployments</p></li><li><p>CI/CD</p></li><li><p>English min. B2</p></li></ul></div></div></div></div><div class=\"sc-1uwf3m5-4 fKDjfR\"><div class=\"sc-e5uvhz-0 kHqIkC\"><div class=\"sc-e5uvhz-8 ekemGm\"></div></div></div></div></div></div></div><div></div><div><div><div class=\"sc-1f8x0pm-0 ibrjJt\"><div><h3 class=\"sc-1npqnwg-4 sc-1npqnwg-5 sc-1f8x0pm-1 hmVXnl\">All done!</h3><p class=\"sc-1npqnwg-9 sc-1npqnwg-10 dDZsCG\">Your application has been successfully submitted!</p></div><div class=\"sc-1f8x0pm-2 dvyFlr\"><a class=\"sc-s03za1-0 gHxIfV custom-css-style-application-success-button\" href=\"/\">Other jobs</a></div></div></div></div></div></div></div></div></div></div></div></div></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer\">https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer</a></p>",
+      "pubDate": "Mon, 18 May 2026 20:31:17 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer"
+    }
+  },
+  {
     "id": "wwr:bazaarvoice-product-marketing-manager",
     "platform": "wwr",
     "external_id": "bazaarvoice-product-marketing-manager",
@@ -22,7 +156,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-18T20:31:11.000Z",
-    "fetched_at": "2026-06-06T12:59:24.308Z",
+    "fetched_at": "2026-06-06T18:58:49.434Z",
     "raw": {
       "title": "Bazaarvoice: Product Marketing Manager",
       "region": "Anywhere in the World",
@@ -58,7 +192,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-18T20:31:00.000Z",
-    "fetched_at": "2026-06-06T12:59:24.310Z",
+    "fetched_at": "2026-06-06T18:58:49.436Z",
     "raw": {
       "title": "Mitek Systems: Product Owner - Machine Learning",
       "region": "Anywhere in the World",
@@ -95,7 +229,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-05-18T12:15:53.000Z",
-    "fetched_at": "2026-06-06T12:59:24.310Z",
+    "fetched_at": "2026-06-06T18:58:49.436Z",
     "raw": {
       "title": "FairGambling: Blockchain Engineer & Researcher",
       "region": "Anywhere in the World",
@@ -139,7 +273,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-18T10:01:10.000Z",
-    "fetched_at": "2026-06-06T12:59:24.311Z",
+    "fetched_at": "2026-06-06T18:58:49.437Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5194/logo.gif",
@@ -180,7 +314,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-17T20:30:53.000Z",
-    "fetched_at": "2026-06-06T12:59:24.312Z",
+    "fetched_at": "2026-06-06T18:58:49.438Z",
     "raw": {
       "title": "Oowlish Technology: Product Manager  Growth Focused",
       "region": "Anywhere in the World",
@@ -229,7 +363,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:32:48.000Z",
-    "fetched_at": "2026-06-06T12:59:24.312Z",
+    "fetched_at": "2026-06-06T18:58:49.438Z",
     "raw": {
       "title": "Softswiss: System Engineer/DevOps - Senior",
       "region": "Anywhere in the World",
@@ -268,7 +402,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:32:48.000Z",
-    "fetched_at": "2026-06-06T12:59:24.314Z",
+    "fetched_at": "2026-06-06T18:58:49.440Z",
     "raw": {
       "title": "Valon Tech: Staff Product Security Engineer - Customer Platform",
       "region": "Anywhere in the World",
@@ -305,7 +439,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:32:34.000Z",
-    "fetched_at": "2026-06-06T12:59:24.316Z",
+    "fetched_at": "2026-06-06T18:58:49.442Z",
     "raw": {
       "title": "Flosum: Senior Product Manager, Salesforce Platform",
       "region": "Anywhere in the World",
@@ -349,7 +483,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:32:11.000Z",
-    "fetched_at": "2026-06-06T12:59:24.317Z",
+    "fetched_at": "2026-06-06T18:58:49.444Z",
     "raw": {
       "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
       "region": "Anywhere in the World",
@@ -394,7 +528,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:31:53.000Z",
-    "fetched_at": "2026-06-06T12:59:24.318Z",
+    "fetched_at": "2026-06-06T18:58:49.445Z",
     "raw": {
       "title": "S-PRO: Senior/Lead DevOps Engineer",
       "region": "Anywhere in the World",
@@ -428,7 +562,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:31:49.000Z",
-    "fetched_at": "2026-06-06T12:59:24.319Z",
+    "fetched_at": "2026-06-06T18:58:49.446Z",
     "raw": {
       "title": "Vanta: Senior Product Designer, AI Platform",
       "region": "Anywhere in the World",
@@ -465,7 +599,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:31:41.000Z",
-    "fetched_at": "2026-06-06T12:59:24.320Z",
+    "fetched_at": "2026-06-06T18:58:49.447Z",
     "raw": {
       "title": "Activate Talent: Mobile App Product Manager",
       "region": "Anywhere in the World",
@@ -499,7 +633,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:31:31.000Z",
-    "fetched_at": "2026-06-06T12:59:24.321Z",
+    "fetched_at": "2026-06-06T18:58:49.447Z",
     "raw": {
       "title": "Mind Friend Pro: Website Admin / Design INTERNSHIP",
       "region": "Anywhere in the World",
@@ -535,7 +669,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:31:31.000Z",
-    "fetched_at": "2026-06-06T12:59:24.321Z",
+    "fetched_at": "2026-06-06T18:58:49.448Z",
     "raw": {
       "title": "Hospitable: Staff UI/UX Product Designer (USA/EMEA - Remote)",
       "region": "Anywhere in the World",
@@ -577,7 +711,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:31:16.000Z",
-    "fetched_at": "2026-06-06T12:59:24.322Z",
+    "fetched_at": "2026-06-06T18:58:49.449Z",
     "raw": {
       "title": "Systabuild Software Group: Junior DevOps Engineer (m/w/d)",
       "region": "Anywhere in the World",
@@ -616,7 +750,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:31:10.000Z",
-    "fetched_at": "2026-06-06T12:59:24.323Z",
+    "fetched_at": "2026-06-06T18:58:49.450Z",
     "raw": {
       "title": "Cresta: Platform Product Manager",
       "region": "Anywhere in the World",
@@ -654,7 +788,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-16T20:31:01.000Z",
-    "fetched_at": "2026-06-06T12:59:24.324Z",
+    "fetched_at": "2026-06-06T18:58:49.451Z",
     "raw": {
       "title": "United Tech: Product Manager",
       "region": "Anywhere in the World",
@@ -691,7 +825,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-15T20:31:01.000Z",
-    "fetched_at": "2026-06-06T12:59:24.325Z",
+    "fetched_at": "2026-06-06T18:58:49.452Z",
     "raw": {
       "title": "Composio: Member of Technical Staff - Product Eng",
       "region": "Anywhere in the World",
@@ -752,7 +886,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-15T07:36:54.000Z",
-    "fetched_at": "2026-06-06T12:59:24.325Z",
+    "fetched_at": "2026-06-06T18:58:49.453Z",
     "raw": {
       "title": "Lemon.io: Senior Full-stack Angular & PHP Developer",
       "region": "Anywhere in the World",
@@ -793,7 +927,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-14T09:14:28.000Z",
-    "fetched_at": "2026-06-06T12:59:24.326Z",
+    "fetched_at": "2026-06-06T18:58:49.453Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9370/logo.gif",
@@ -840,7 +974,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-05-12T12:34:46.000Z",
-    "fetched_at": "2026-06-06T12:59:24.327Z",
+    "fetched_at": "2026-06-06T18:58:49.455Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5141/logo.gif",
@@ -886,7 +1020,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2025-05-16T20:03:34.000Z",
-    "fetched_at": "2026-06-06T12:59:24.328Z",
+    "fetched_at": "2026-06-06T18:58:49.455Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0170/9402/logo.gif",
@@ -899,147 +1033,6 @@
       "pubDate": "Fri, 16 May 2025 20:03:34 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
       "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer"
-    }
-  },
-  {
-    "id": "wwr:lemon-io-senior-full-stack-symfony-developer",
-    "platform": "wwr",
-    "external_id": "lemon-io-senior-full-stack-symfony-developer",
-    "title": "Senior Full-stack Symfony Developer",
-    "company": "Lemon.io",
-    "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 71 countries. Requirements: 4+ years of software development experience 3+ years of experience with Symfony and 2+ years with Vue.js OR 3+ years of experience with Symfony and 2+ years with Angular OR 3+ years of experience with Symfony, 2+ years with Next.js, and 3+ years with JavaScript and TypeScript Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We have different projects for Senior Full-Stack Developers, so if you have 4+ years of commercial experience in software development and you are fluent with AI Agent Architecture, React &amp; Ruby, PHP &amp; Angular, PHP &amp; Vue, Vue &amp; Node.js, React &amp; .NET, Android &amp; iOS, Angular &amp; .NET, Angular &amp; Node.js, Vue &amp; .NET, Python &amp; Vue, DevOps with Azure DevOps, MLOps, React &amp; Java, Data Science, Blockchain (Web3/Solidity/Solana), Symfony &amp; React, Data Analysis, React &amp; PHP, Data Engineering, AI Engineering, Data Annotation, React &amp; Node, React &amp; Golang, React &amp; Python, Svelte &amp; Python, Svelte &amp; Node, Svelte &amp; TypeScript, Rust, Shopify &amp; JavaScript, Vue &amp; Nuxt, PHP &amp; Laravel, .NET &amp; C#, Unreal Engine &amp; C++, Python &amp; LLM, Unity, Machine Learning Engineering, we would be happy to communicate and provide you with a project that matches your experience. Just apply, and we will share more details with you. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. P.S. We work with developers from 71+ countries in different regions: Europe, LATAM, the U.S (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions. At the moment, we don’t have a legal basis to accept applicants from the following countries: European: Hungary, Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia. Latin America: Cuba and Nicaragua Most Asian countries and Africa. We expand and shorten the list of exemptions regularly. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer",
-    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "python",
-      "rust",
-      "go",
-      "java",
-      "ruby",
-      "php",
-      "react",
-      "vue",
-      "angular",
-      "svelte",
-      "nextjs",
-      "nuxt",
-      "nodejs",
-      "laravel",
-      "azure",
-      "llm",
-      "machine-learning",
-      "mlops",
-      "ios",
-      "android",
-      "solidity",
-      "web3",
-      "blockchain",
-      "solana"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-05-07T18:24:43.000Z",
-    "fetched_at": "2026-06-06T12:59:24.329Z",
-    "raw": {
-      "title": "Lemon.io: Senior Full-stack Symfony Developer",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> New York, NY\n    <br /><strong>URL:</strong> <a href=\"https://lemon.io\">https://lemon.io</a>\n</p>\n\n<p>Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_symfony_may_2026_job_ad\">Lemon.io</a> — the marketplace that connects you with hand-picked startups in the US and Europe.</p>\n<p><strong>What we offer:</strong></p>\n<ul>\n<li>The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.</li>\n<li>No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.</li>\n<li>We'll manually find the best project for you according to your skills and preferences.</li>\n<li>Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.</li>\n<li>We respect your seniority so you can expect no micromanagement or screen trackers.</li>\n<li>Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?</li>\n<li>We will support you from the time you submit the application throughout all cooperation stages.</li>\n<li>Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.</li>\n<li>Through our community, we will connect you with the best developers from more than 71 countries.</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>4+ years of software development experience</li>\n<li>3+ years of experience with Symfony and 2+ years with Vue.js</li>\n</ul>\n<p>OR</p>\n<ul>\n<li>3+ years of experience with Symfony and 2+ years with Angular</li>\n</ul>\n<p>OR</p>\n<ul>\n<li>\n<p>3+ years of experience with Symfony, 2+ years with Next.js, and 3+ years with JavaScript and TypeScript</p>\n</li>\n<li>\n<p>Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.</p>\n</li>\n<li>\n<p>Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.</p>\n</li>\n<li>\n<p>Strong self-organizational skills — ability to work full-time remotely with no supervision.</p>\n</li>\n<li>\n<p>Reliability — we want to trust you and expect that you won’t let us and the client down.</p>\n</li>\n<li>\n<p>Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.</p>\n</li>\n</ul>\n<p>Sounds good for you? Apply now and join the <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_symfony_may_2026_job_ad\">Lemon.io</a> community!</p>\n<p><strong>NOT YOUR TECH STACK?</strong></p>\n<p>We have different projects for Senior Full-Stack Developers, so if you have 4+ years of commercial experience in software development and you are fluent with AI Agent Architecture, React &amp; Ruby, PHP &amp; Angular, PHP &amp; Vue, Vue &amp; Node.js, React &amp; .NET, Android &amp; iOS, Angular &amp; .NET, Angular &amp; Node.js, Vue &amp; .NET, Python &amp; Vue, DevOps with Azure DevOps, MLOps, React &amp; Java, Data Science, Blockchain (Web3/Solidity/Solana), Symfony &amp; React, Data Analysis, React &amp; PHP, Data Engineering, AI Engineering, Data Annotation, React &amp; Node, React &amp; Golang, React &amp; Python, Svelte &amp; Python, Svelte &amp; Node, Svelte &amp; TypeScript, Rust, Shopify &amp; JavaScript, Vue &amp; Nuxt, PHP &amp; Laravel, .NET &amp; C#, Unreal Engine &amp; C++, Python &amp; LLM, Unity, Machine Learning Engineering, we would be happy to communicate and provide you with a project that matches your experience. Just apply, and we will share more details with you.</p>\n<p>We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.</p>\n<p>P.S. <strong>We work with developers from 71+ countries in different regions:</strong> Europe, LATAM, the U.S (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions.</p>\n<p><strong>At the moment, we don’t have a legal basis to accept applicants from the following countries:</strong></p>\n<ul>\n<li>European: Hungary, Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia.</li>\n<li>Latin America: Cuba and Nicaragua</li>\n<li>Most Asian countries and Africa.</li>\n</ul>\n<p>We expand and shorten the list of exemptions regularly.</p>\n<p>We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer\">https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer</a></p>",
-      "pubDate": "Thu, 07 May 2026 18:24:43 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer",
-      "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer"
-    }
-  },
-  {
-    "id": "wwr:a-team-senior-independent-ai-engineer-architect",
-    "platform": "wwr",
-    "external_id": "a-team-senior-independent-ai-engineer-architect",
-    "title": "Senior Independent AI Engineer / Architect",
-    "company": "A.Team",
-    "description": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams tackling problems that matter. Not demos. Not prototypes that never ship. Not another chatbot wrapper. Real systems. Real users. Real outcomes. Recent work has included: - LLM-powered products and workflows - Agent architectures and orchestration systems - Retrieval, evaluation, and reliability infrastructure - Enterprise AI deployments - AI-native products built from zero to one - Machine learning platforms operating at scale You'll work directly with founders, CTOs, and product leaders, helping shape both the technical approach and the outcome. Why Builders Join Most independent engineers eventually run into the same problem: The best opportunities rarely make it to the open market. A.Team exists to solve that. No bidding. No prospecting. No competing with thousands of other freelancers. Just access to ambitious companies, difficult problems, and experienced peers. Who Thrives Here People who have already shipped. Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn research into business value. You might be an: - AI Architect - AI Engineer - MLOps - Deep Learning Engineer - Data Scientist - Applied AI Engineer - ML Engineer - AI Researcher - Staff+ Engineer focused on AI - Technical founder with deep AI experience What matters is a track record of building and shipping. The Details Typical rates: $120-$170/hr Remote (almost all roles) You keep 100% of your rate Not a Fit Early-career engineers People without production AI experience Small gig seekers Developers focused primarily on simple AI wrappers or templated implementations Apply Tell us what you've built. We'll take it from there. build.a.team/AI-Builders To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "llm",
-      "machine-learning",
-      "mlops"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2024-06-16T18:08:52.000Z",
-    "fetched_at": "2026-06-06T12:59:24.329Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "A.Team: Senior Independent AI Engineer / Architect",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> NYC and TLV\n    <br /><strong>URL:</strong> <a href=\"http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai\">http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai</a>\n</p>\n\n<p><strong>Senior Independent AI Engineer / Architect</strong></p>\n<p><em>Remote | Americas, Europe, or Israel</em></p>\n<p>Most AI engineers can find work.</p>\n<p>Finding work worth doing is harder.</p>\n<p>A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies.</p>\n<p>Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.</p>\n<p><strong>The Work</strong></p>\n<p>You'll join small teams tackling problems that matter.</p>\n<p>Not demos.</p>\n<p>Not prototypes that never ship.</p>\n<p>Not another chatbot wrapper.</p>\n<p>Real systems. Real users. Real outcomes.</p>\n<p><strong>Recent work has included:</strong></p>\n<p>- LLM-powered products and workflows<br>- Agent architectures and orchestration systems<br>- Retrieval, evaluation, and reliability infrastructure<br>- Enterprise AI deployments<br>- AI-native products built from zero to one<br>- Machine learning platforms operating at scale</p>\n<p>You'll work directly with founders, CTOs, and product leaders, helping shape both the technical approach and the outcome.</p>\n<p><strong>Why Builders Join</strong></p>\n<p>Most independent engineers eventually run into the same problem:</p>\n<p>The best opportunities rarely make it to the open market.</p>\n<p>A.Team exists to solve that.</p>\n<p>No bidding.</p>\n<p>No prospecting.</p>\n<p>No competing with thousands of other freelancers.</p>\n<p>Just access to ambitious companies, difficult problems, and experienced peers.</p>\n<p><strong>Who Thrives Here</strong></p>\n<p>People who have already shipped.</p>\n<p>Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn research into business value.</p>\n<p><em>You might be an:</em></p>\n<p>- AI Architect<br>- AI Engineer<br>- MLOps<br>- Deep Learning Engineer<br>- Data Scientist<br>- Applied AI Engineer<br>- ML Engineer<br>- AI Researcher<br>- Staff+ Engineer focused on AI<br>- Technical founder with deep AI experience</p>\n<p>What matters is a track record of building and shipping.</p>\n<p><strong>The Details</strong></p>\n<ul>\n<li>Typical rates: $120-$170/hr</li>\n<li>Remote (almost all roles)</li>\n<li>You keep 100% of your rate</li>\n</ul>\n<p><strong>Not a Fit</strong></p>\n<ul>\n<li>Early-career engineers</li>\n<li>People without production AI experience</li>\n<li>Small gig seekers</li>\n<li>Developers focused primarily on simple AI wrappers or templated implementations</li>\n</ul>\n<p><strong>Apply</strong></p>\n<p>Tell us what you've built.</p>\n<p>We'll take it from there.</p>\n<p><a href=\"http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai\">build.a.team/AI-Builders</a></p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect\">https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</a></p>",
-      "pubDate": "Sun, 16 Jun 2024 18:08:52 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-      "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect"
-    }
-  },
-  {
-    "id": "wwr:a-team-senior-independent-software-developer-90-170-hr",
-    "platform": "wwr",
-    "external_id": "a-team-senior-independent-software-developer-90-170-hr",
-    "title": "Senior Independent Software Developer ($90-$170/hr)",
-    "company": "A.Team",
-    "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more. Why A·Team? High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA. Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration. Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed. Exclusive gatherings: Participate in off-the-record events and connect with top builders. Transparent earnings: Keep 100% of your rate. How to Join: Visit A·Team Application and mention WWR under \"how you heard about A·Team.\" No cover letter needed – we value your portfolio. What to Expect: As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction. Who We're Looking For: Senior developers who left large companies to pursue their craft with autonomy. Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders. Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing. Not for: People seeking small gigs. Builders focused on simple WordPress/Wix/Squarespace sites. Early-career professionals and recent grads. Our Vision: A·Team is for the \"unhirables\" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams. A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX. Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team. To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-06-06T12:59:24.330Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> NYC and TLV\n    <br /><strong>URL:</strong> <a href=\"https://build.a.team/wwrfastrackreferral\">https://build.a.team/wwrfastrackreferral</a>\n</p>\n\n<div>Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.<br><br></div><div><br>At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.<br><br></div><div><strong><br>Why A·Team?<br></strong><br></div><ul><li><strong>High-paying, meaningful missions:</strong> Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.</li><li><strong>Collaborate with trusted peers:</strong> Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.</li><li><strong>Full autonomy:</strong> Choose projects that excite you. Join when you're ready, and take breaks as needed.</li><li><strong>Exclusive gatherings:</strong> Participate in off-the-record events and connect with top builders.</li><li><strong>Transparent earnings:</strong> Keep 100% of your rate.</li></ul><div><strong><br>How to Join:<br></strong><br></div><div><a href=\"https://build.a.team/wwrfastrackreferral\">Visit A·Team Application</a> and mention WWR under \"how you heard about A·Team.\" No cover letter needed – we value your portfolio.<br><br></div><div><strong><br>What to Expect:<br></strong><br></div><div>As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.<br><br></div><div><strong><br>Who We're Looking For:</strong></div><ul><li><strong>Senior developers</strong> who left large companies to pursue their craft with autonomy.</li><li>Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.</li><li>Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.</li></ul><div><strong><br>Not for:</strong></div><ul><li>People seeking small gigs.</li><li>Builders focused on simple WordPress/Wix/Squarespace sites.</li><li>Early-career professionals and recent grads.</li></ul><div><strong><br>Our Vision:<br></strong><br></div><div>A·Team is for the \"unhirables\" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.<br><br></div><div>A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.</div><div><br>Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.</div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr\">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</a></p>",
-      "pubDate": "Sun, 16 Jun 2024 17:30:51 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-      "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
     }
   },
   {
@@ -1072,7 +1065,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-04T16:08:56.000Z",
-    "fetched_at": "2026-06-06T12:59:24.431Z",
+    "fetched_at": "2026-06-06T18:58:49.614Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5414/logo.gif",
@@ -1120,7 +1113,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-04T16:08:56.000Z",
-    "fetched_at": "2026-06-06T12:59:24.431Z",
+    "fetched_at": "2026-06-06T18:58:49.615Z",
     "raw": {
       "title": "Cubos Tecnologia: [Banco de Talentos] Pessoa Desenvolvedora Backend Pleno",
       "region": "Anywhere in the World",
@@ -1168,7 +1161,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-04T16:08:56.000Z",
-    "fetched_at": "2026-06-06T12:59:24.432Z",
+    "fetched_at": "2026-06-06T18:58:49.616Z",
     "raw": {
       "title": "Premiersoft: Engenheiro DevOps (GitHub e CI/CD) | Remoto",
       "region": "Anywhere in the World",
@@ -1219,7 +1212,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-04T16:08:56.000Z",
-    "fetched_at": "2026-06-06T12:59:24.433Z",
+    "fetched_at": "2026-06-06T18:58:49.616Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5415/logo.gif",
@@ -1272,7 +1265,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-01T19:37:33.000Z",
-    "fetched_at": "2026-06-06T12:59:24.435Z",
+    "fetched_at": "2026-06-06T18:58:49.618Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0169/0644/logo.gif",
@@ -1315,7 +1308,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-28T21:37:28.000Z",
-    "fetched_at": "2026-06-06T12:59:24.436Z",
+    "fetched_at": "2026-06-06T18:58:49.619Z",
     "raw": {
       "title": "FIAP: BDR - outbound - Pré-vendas",
       "region": "Anywhere in the World",
@@ -1362,7 +1355,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-28T21:37:28.000Z",
-    "fetched_at": "2026-06-06T12:59:24.437Z",
+    "fetched_at": "2026-06-06T18:58:49.619Z",
     "raw": {
       "title": "Cubos Tecnologia: [Banco de Talentos] Pessoa Desenvolvedora Frontend Junior",
       "region": "Anywhere in the World",
@@ -1408,7 +1401,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-28T21:37:28.000Z",
-    "fetched_at": "2026-06-06T12:59:24.437Z",
+    "fetched_at": "2026-06-06T18:58:49.620Z",
     "raw": {
       "title": "Cubos Tecnologia: [Banco de Talentos] Pessoa Desenvolvedora Flutter Pleno",
       "region": "Anywhere in the World",
@@ -1455,7 +1448,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-28T21:37:28.000Z",
-    "fetched_at": "2026-06-06T12:59:24.438Z",
+    "fetched_at": "2026-06-06T18:58:49.621Z",
     "raw": {
       "title": "Cubos Tecnologia: [Banco de Talentos] Pessoa Desenvolvedora Frontend Pleno",
       "region": "Anywhere in the World",
@@ -1497,7 +1490,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-28T07:25:37.000Z",
-    "fetched_at": "2026-06-06T12:59:24.440Z",
+    "fetched_at": "2026-06-06T18:58:49.623Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5346/logo.gif",
@@ -1545,7 +1538,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-22T20:31:32.000Z",
-    "fetched_at": "2026-06-06T12:59:24.441Z",
+    "fetched_at": "2026-06-06T18:58:49.624Z",
     "raw": {
       "title": "Centralreach: Director, AI Product Development",
       "region": "Anywhere in the World",
@@ -1600,7 +1593,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-21T20:02:40.000Z",
-    "fetched_at": "2026-06-06T12:59:24.441Z",
+    "fetched_at": "2026-06-06T18:58:49.625Z",
     "raw": {
       "title": "Cubos Tecnologia: [Cubos DevOps] Pessoa Engenheira de DevOps Pleno",
       "region": "Anywhere in the World",
@@ -1643,7 +1636,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-21T20:02:40.000Z",
-    "fetched_at": "2026-06-06T12:59:24.442Z",
+    "fetched_at": "2026-06-06T18:58:49.626Z",
     "raw": {
       "title": "Radix: Profissional IaC| DevOps",
       "region": "Anywhere in the World",
@@ -1682,7 +1675,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-21T20:02:40.000Z",
-    "fetched_at": "2026-06-06T12:59:24.443Z",
+    "fetched_at": "2026-06-06T18:58:49.626Z",
     "raw": {
       "title": "Cubos Tecnologia: [Banco de Talentos] Product Manager Pleno",
       "region": "Anywhere in the World",
@@ -1721,7 +1714,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-21T20:02:40.000Z",
-    "fetched_at": "2026-06-06T12:59:24.443Z",
+    "fetched_at": "2026-06-06T18:58:49.627Z",
     "raw": {
       "title": "Cubos Tecnologia: [BANCO DE TALENTOS] Product Manager Jr.",
       "region": "Anywhere in the World",
@@ -1772,7 +1765,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-21T20:02:40.000Z",
-    "fetched_at": "2026-06-06T12:59:24.445Z",
+    "fetched_at": "2026-06-06T18:58:49.628Z",
     "raw": {
       "title": "Alice: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1819,7 +1812,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-13T13:17:13.000Z",
-    "fetched_at": "2026-06-06T12:59:24.445Z",
+    "fetched_at": "2026-06-06T18:58:49.629Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5247/logo.gif",
