@@ -1,5 +1,56 @@
 [
   {
+    "id": "jobicy:146232",
+    "platform": "jobicy",
+    "external_id": "146232",
+    "title": "Lead Data Platform Engineer",
+    "company": "saas.group",
+    "description": "This role is part of our INFOnline team, one of our exciting brands at saas.group. INFOnline powers digital audience measurement for the German and Austrian media industry. Our systems process billions of events and deliver the trusted reach and engagement metrics used by publishers, advertisers, agencies, IVW and OEWA. As part of saas.group, we have been modernizing our business-critical infrastructure and moving towards a fully cloud-native architecture on GCP. The major migration work is complete. Now we are looking for a strong technical owner to run, harden, scale and evolve the new platform. Profile Overview We’re looking for a technically deep, hands-on Lead Data Platform Engineer to take full ownership of INFOnline’s central data platform from raw event ingress through processing, aggregation, data modeling and reporting delivery. You will take ownership of a newly built GCP-native data platform as it moves from completed migration into long-term production operation, optimization and continuous evolution. This is not a role where you simply follow someone else’s roadmap. You will help define how the platform should mature: where we need stronger observability, better data quality controls, clearer ownership boundaries, improved documentation, cost efficiency and more scalable operating models. This is a hands-on technical leadership role. You will set technical direction, make architecture decisions, establish engineering standards, mentor others and still work close to the code and systems. On top of that, you will help drive AI-native engineering practices using coding agents, AI-assisted testing, documentation, refactoring and incident analysis to increase engineering speed and quality. Your immediate impact in the first 3-6 months will be: Audit and map the existing cloud and data platform architecture identify critical risks, dependencies, and improvement opportunities Take ownership of core platform components from data ingress to reporting, supported by structured knowledge transfer where needed Establish full internal ownership of the new cloud-native data platform Improve data quality controls, validation processes and operational safeguards Build a pragmatic post-migration roadmap focused on stability, scalability, data quality, cost efficiency and business continuity Strengthen monitoring, alerting, and observability for business-critical data workflows and IVW/OEWA delivery pipelines Establish engineering standards around documentation, code reviews, testing and AI-native development practices Your responsibilities Own the end-to-end data platform roadmap and drive its execution from architecture decisions to day-to-day platform operations Take accountability for data ingress, streaming processing, batch aggregation, data modeling, quality, delivery and reporting logic Ensure reliability, scalability and performance through strong monitoring, observability and incident management practices Continuously improve the new GCP-native platform with a focus on stability, cost efficiency, maintainability and business continuity Collaborate closely with Product, Customer Success and Leadership to translate business requirements into scalable technical solutions Drive AI-native engineering adoption, including AI-assisted coding, refactoring, testing, documentation and code reviews and establish standards for safe, effective use Work with external specialists where useful and establish sustainable internal ownership of all critical platform components What You bring to the table 5+ years of experience in Data Engineering, Data Platform Engineering, or Platform Engineering in production environments Solid Go (Golang) proficiency is required. Our core backend systems, including ingress collectors, Pub/Sub processors, Dataflow jobs, batch loaders, controllers and CLI tools are written in Go. Strong hands-on experience with GCP Cloud Run, Pub/Sub, BigQuery, Dataflow, Cloud Storage, Cloud SQL Strong SQL and analytical data modeling skills; familiarity with SQLMesh (or similar dbt-style orchestration tools) is a significant plus Practical experience with Terraform / IaC, CI/CD pipelines, and containerized workloads (Docker; Cloud Run-style serverless, not cluster Kubernetes) Experience with Protobuf or comparable schema definition and serialization frameworks Familiarity with IVW, OEWA or comparable digital audience measurement standards or a genuine interest in the web analytics domain and the ability to ramp quickly Experience with AI coding assistants and coding agents (Claude Code, Codex, or similar) and sound judgment in reviewing AI-generated code for quality, security, and operational risk Excellent communication skills with both technical and non-technical stakeholders Fluent German (C1) required; good English for technical documentation and saas.group collaboration What’s in it for You Ultimate flexibility: We’re 100% remote. You can work from wherever you like, whenever you like. Freedom and autonomy: We’re a high-trust team, and you’ll be given lots of flexibility to solve problems in your own way, with plenty of help from the team when you need it. Minimum bureaucracy: We don’t like to get bogged down with meetings and red tape. We like to be efficient and keep momentum steady &amp; sustainable. Small &amp; friendly team: We help each other out, have fun, and joke around. Our network: We are a community of entrepreneurial SaaS professionals that regularly exchange ideas, knowledge, learning and expertise with each other internally. INFOnline is part of saas.group and we have a shared goal of succeeding together. — saas.group is committed to creating a diverse and inclusive workplace. We are proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We celebrate diversity and are committed to creating an inclusive environment for all employees. If you're passionate about working with a team that values innovation, excellence, and fairness, we encourage you to apply. We believe in fair and transparent pay. Salary ranges at saas.group are location-adjusted, targeting local market medians for a remote-first environment, and will be shared with our potential future employees in writing before your first interview - so you have everything you need to evaluate the opportunity.",
+    "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Europe",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "go",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "llm",
+      "dbt"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-12T07:19:06+00:00",
+    "fetched_at": "2026-06-12T14:25:21.571Z",
+    "raw": {
+      "id": 146232,
+      "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
+      "jobSlug": "146232-lead-data-platform-engineer",
+      "jobTitle": "Lead Data Platform Engineer",
+      "companyName": "saas.group",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/f6d362c3-221-1.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe",
+      "jobLevel": "Senior",
+      "jobExcerpt": "This role is part of our INFOnline team, one of our exciting brands at saas.group.INFOnline powers digital audience measurement for the German and Austrian media industry. Our systems process billions...",
+      "jobDescription": "<p>This role is part of our <a href=\"https://www.infonline.de/\" rel=\"nofollow ugc noopener\" target=\"_blank\">INFOnline</a> team, one of our exciting brands at saas.group.</p>\n<p>INFOnline powers digital audience measurement for the German and Austrian media industry. Our systems process billions of events and deliver the trusted reach and engagement metrics used by publishers, advertisers, agencies, IVW and OEWA.</p>\n<p>As part of saas.group, we have been modernizing our business-critical infrastructure and moving towards a fully cloud-native architecture on GCP. The major migration work is complete. Now we are looking for a strong technical owner to run, harden, scale and evolve the new platform.</p>\n<h2>Profile Overview</h2>\n<p>We’re looking for a technically deep, hands-on Lead Data Platform Engineer to take full ownership of INFOnline’s central data platform from raw event ingress through processing, aggregation, data modeling and reporting delivery.</p>\n<p>You will take ownership of a newly built GCP-native data platform as it moves from completed migration into long-term production operation, optimization and continuous evolution.</p>\n<p>This is not a role where you simply follow someone else’s roadmap. You will help define how the platform should mature: where we need stronger observability, better data quality controls, clearer ownership boundaries, improved documentation, cost efficiency and more scalable operating models.</p>\n<p>This is a hands-on technical leadership role. You will set technical direction, make architecture decisions, establish engineering standards, mentor others and still work close to the code and systems.</p>\n<p>On top of that, you will help drive AI-native engineering practices using coding agents, AI-assisted testing, documentation, refactoring and incident analysis to increase engineering speed and quality.</p>\n<h2>Your immediate impact in the first 3-6 months will be:</h2>\n<ul>\n<li>Audit and map the existing cloud and data platform architecture identify critical risks, dependencies, and improvement opportunities</li>\n<li>Take ownership of core platform components from data ingress to reporting, supported by structured knowledge transfer where needed </li>\n<li>Establish full internal ownership of the new cloud-native data platform </li>\n<li>Improve data quality controls, validation processes and operational safeguards </li>\n<li>Build a pragmatic post-migration roadmap focused on stability, scalability, data quality, cost efficiency and business continuity </li>\n<li>Strengthen monitoring, alerting, and observability for business-critical data workflows and IVW/OEWA delivery pipelines</li>\n<li>Establish engineering standards around documentation, code reviews, testing and AI-native development practices </li>\n</ul>\n<h2>Your responsibilities</h2>\n<ul>\n<li>Own the end-to-end data platform roadmap and drive its execution from architecture decisions to day-to-day platform operations</li>\n<li>Take accountability for data ingress, streaming processing, batch aggregation, data modeling, quality, delivery and reporting logic</li>\n<li>Ensure reliability, scalability and performance through strong monitoring, observability and incident management practices</li>\n<li>Continuously improve the new GCP-native platform with a focus on stability, cost efficiency, maintainability and business continuity</li>\n<li>Collaborate closely with Product, Customer Success and Leadership to translate business requirements into scalable technical solutions</li>\n<li>Drive AI-native engineering adoption, including AI-assisted coding, refactoring, testing, documentation and code reviews and establish standards for safe, effective use</li>\n<li>Work with external specialists where useful and establish sustainable internal ownership of all critical platform components</li>\n</ul>\n<h2>What You bring to the table</h2>\n<ul>\n<li>5+ years of experience in Data Engineering, Data Platform Engineering, or Platform Engineering in production environments</li>\n<li>Solid Go (Golang) proficiency is required. Our core backend systems, including ingress collectors, Pub/Sub processors, Dataflow jobs, batch loaders, controllers and CLI tools are written in Go. </li>\n<li>Strong hands-on experience with GCP Cloud Run, Pub/Sub, BigQuery, Dataflow, Cloud Storage, Cloud SQL</li>\n<li>Strong SQL and analytical data modeling skills; familiarity with SQLMesh (or similar dbt-style orchestration tools) is a significant plus</li>\n<li>Practical experience with Terraform / IaC, CI/CD pipelines, and containerized workloads (Docker; Cloud Run-style serverless, not cluster Kubernetes)</li>\n<li>Experience with Protobuf or comparable schema definition and serialization frameworks</li>\n<li>Familiarity with IVW, OEWA or comparable digital audience measurement standards or a genuine interest in the web analytics domain and the ability to ramp quickly </li>\n<li>Experience with AI coding assistants and coding agents (Claude Code, Codex, or similar) and sound judgment in reviewing AI-generated code for quality, security, and operational risk</li>\n<li>Excellent communication skills with both technical and non-technical stakeholders</li>\n<li>Fluent German (C1) required; good English for technical documentation and saas.group collaboration</li>\n</ul>\n<h2>What’s in it for You</h2>\n<ul>\n<li>Ultimate flexibility: We’re 100% remote. You can work from wherever you like, whenever you like.</li>\n<li>Freedom and autonomy: We’re a high-trust team, and you’ll be given lots of flexibility to solve problems in your own way, with plenty of help from the team when you need it.</li>\n<li>Minimum bureaucracy: We don’t like to get bogged down with meetings and red tape. We like to be efficient and keep momentum steady &amp; sustainable.</li>\n<li>Small &amp; friendly team: We help each other out, have fun, and joke around.</li>\n<li>Our network: We are a community of entrepreneurial SaaS professionals that regularly exchange ideas, knowledge, learning and expertise with each other internally. </li>\n</ul>\n<p>INFOnline is part of saas.group and we have a shared goal of succeeding together.</p>\n<div>\n<p>—</p>\n<p><em>saas.group is committed to creating a diverse and inclusive workplace. We are proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We celebrate diversity and are committed to creating an inclusive environment for all employees. If you're passionate about working with a team that values innovation, excellence, and fairness, we encourage you to apply.</em></p>\n<p><em>We believe in fair and transparent pay. Salary ranges at saas.group are location-adjusted, targeting local market medians for a remote-first environment, and will be shared with our potential future employees in writing before your first interview - so you have everything you need to evaluate the opportunity.</em></p>\n</div>",
+      "pubDate": "2026-06-12T07:19:06+00:00"
+    }
+  },
+  {
     "id": "jobicy:146203",
     "platform": "jobicy",
     "external_id": "146203",
@@ -25,7 +76,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:42+00:00",
-    "fetched_at": "2026-06-12T09:48:32.943Z",
+    "fetched_at": "2026-06-12T14:25:21.572Z",
     "raw": {
       "id": 146203,
       "url": "https://jobicy.com/jobs/146203-advisory-engineer-hardware-hpsc",
@@ -77,7 +128,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:41+00:00",
-    "fetched_at": "2026-06-12T09:48:32.944Z",
+    "fetched_at": "2026-06-12T14:25:21.574Z",
     "raw": {
       "id": 146202,
       "url": "https://jobicy.com/jobs/146202-senior-software-engineer-event-sourcing-stream-processing",
@@ -131,7 +182,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:39+00:00",
-    "fetched_at": "2026-06-12T09:48:32.945Z",
+    "fetched_at": "2026-06-12T14:25:21.575Z",
     "raw": {
       "id": 146201,
       "url": "https://jobicy.com/jobs/146201-solutions-architect-sports",
@@ -185,7 +236,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:38+00:00",
-    "fetched_at": "2026-06-12T09:48:32.947Z",
+    "fetched_at": "2026-06-12T14:25:21.576Z",
     "raw": {
       "id": 146200,
       "url": "https://jobicy.com/jobs/146200-sr-solutions-architect-agencies",
@@ -232,7 +283,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:27+00:00",
-    "fetched_at": "2026-06-12T09:48:32.948Z",
+    "fetched_at": "2026-06-12T14:25:21.577Z",
     "raw": {
       "id": 146194,
       "url": "https://jobicy.com/jobs/146194-electrical-engineer",
@@ -279,7 +330,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:24+00:00",
-    "fetched_at": "2026-06-12T09:48:32.949Z",
+    "fetched_at": "2026-06-12T14:25:21.578Z",
     "raw": {
       "id": 146192,
       "url": "https://jobicy.com/jobs/146192-mechanical-engineer",
@@ -329,7 +380,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:22+00:00",
-    "fetched_at": "2026-06-12T09:48:32.950Z",
+    "fetched_at": "2026-06-12T14:25:21.579Z",
     "raw": {
       "id": 146191,
       "url": "https://jobicy.com/jobs/146191-network-engineer",
@@ -388,7 +439,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-11T14:05:20+00:00",
-    "fetched_at": "2026-06-12T09:48:32.951Z",
+    "fetched_at": "2026-06-12T14:25:21.579Z",
     "raw": {
       "id": 146187,
       "url": "https://jobicy.com/jobs/146187-senior-qa-engineer-%e5%8c%ba%e5%9d%97%e9%93%be%e6%b5%8b%e8%af%95%e5%b7%a5%e7%a8%8b%e5%b8%88",
@@ -431,7 +482,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:05:02+00:00",
-    "fetched_at": "2026-06-12T09:48:32.952Z",
+    "fetched_at": "2026-06-12T14:25:21.580Z",
     "raw": {
       "id": 146176,
       "url": "https://jobicy.com/jobs/146176-service-engineer-multimodality-2",
@@ -481,7 +532,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-11T14:02:58+00:00",
-    "fetched_at": "2026-06-12T09:48:32.952Z",
+    "fetched_at": "2026-06-12T14:25:21.581Z",
     "raw": {
       "id": 146173,
       "url": "https://jobicy.com/jobs/146173-frontend-developer-vue-js-special-project-music-ybhq-2",
@@ -526,7 +577,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:55+00:00",
-    "fetched_at": "2026-06-12T09:48:32.954Z",
+    "fetched_at": "2026-06-12T14:25:21.582Z",
     "raw": {
       "id": 146128,
       "url": "https://jobicy.com/jobs/146128-electronics-engineer-2",
@@ -573,7 +624,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:53+00:00",
-    "fetched_at": "2026-06-12T09:48:32.955Z",
+    "fetched_at": "2026-06-12T14:25:21.583Z",
     "raw": {
       "id": 146127,
       "url": "https://jobicy.com/jobs/146127-naval-architect",
@@ -620,7 +671,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:51+00:00",
-    "fetched_at": "2026-06-12T09:48:32.956Z",
+    "fetched_at": "2026-06-12T14:25:21.584Z",
     "raw": {
       "id": 146126,
       "url": "https://jobicy.com/jobs/146126-structural-engineer",
@@ -667,7 +718,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:50+00:00",
-    "fetched_at": "2026-06-12T09:48:32.957Z",
+    "fetched_at": "2026-06-12T14:25:21.585Z",
     "raw": {
       "id": 146125,
       "url": "https://jobicy.com/jobs/146125-naval-ship-design-engineer",
@@ -720,7 +771,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:20:45+00:00",
-    "fetched_at": "2026-06-12T09:48:32.957Z",
+    "fetched_at": "2026-06-12T14:25:21.585Z",
     "raw": {
       "id": 146122,
       "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
@@ -765,7 +816,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:40+00:00",
-    "fetched_at": "2026-06-12T09:48:32.958Z",
+    "fetched_at": "2026-06-12T14:25:21.586Z",
     "raw": {
       "id": 146119,
       "url": "https://jobicy.com/jobs/146119-associate-it-engineer",
@@ -822,7 +873,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:20:38+00:00",
-    "fetched_at": "2026-06-12T09:48:32.959Z",
+    "fetched_at": "2026-06-12T14:25:21.586Z",
     "raw": {
       "id": 146118,
       "url": "https://jobicy.com/jobs/146118-application-programmer",
@@ -871,7 +922,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:35+00:00",
-    "fetched_at": "2026-06-12T09:48:32.960Z",
+    "fetched_at": "2026-06-12T14:25:21.587Z",
     "raw": {
       "id": 146116,
       "url": "https://jobicy.com/jobs/146116-cloud-application-technical-lead",
@@ -914,7 +965,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:34+00:00",
-    "fetched_at": "2026-06-12T09:48:32.960Z",
+    "fetched_at": "2026-06-12T14:25:21.588Z",
     "raw": {
       "id": 146115,
       "url": "https://jobicy.com/jobs/146115-software-systems-engineer",
@@ -957,7 +1008,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-10T18:20:32+00:00",
-    "fetched_at": "2026-06-12T09:48:32.961Z",
+    "fetched_at": "2026-06-12T14:25:21.588Z",
     "raw": {
       "id": 146114,
       "url": "https://jobicy.com/jobs/146114-quality-assurance-specialist",
@@ -1009,7 +1060,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:07:02+00:00",
-    "fetched_at": "2026-06-12T09:48:32.962Z",
+    "fetched_at": "2026-06-12T14:25:21.589Z",
     "raw": {
       "id": 146097,
       "url": "https://jobicy.com/jobs/146097-senior-android-engineer-transactions",
@@ -1060,7 +1111,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:07:00+00:00",
-    "fetched_at": "2026-06-12T09:48:32.963Z",
+    "fetched_at": "2026-06-12T14:25:21.591Z",
     "raw": {
       "id": 146096,
       "url": "https://jobicy.com/jobs/146096-senior-android-engineer-shopper-activation-and-engagement",
@@ -1119,7 +1170,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:59+00:00",
-    "fetched_at": "2026-06-12T09:48:32.965Z",
+    "fetched_at": "2026-06-12T14:25:21.592Z",
     "raw": {
       "id": 146095,
       "url": "https://jobicy.com/jobs/146095-staff-software-engineer-metamask-money-movement",
@@ -1173,7 +1224,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:49+00:00",
-    "fetched_at": "2026-06-12T09:48:32.967Z",
+    "fetched_at": "2026-06-12T14:25:21.596Z",
     "raw": {
       "id": 146089,
       "url": "https://jobicy.com/jobs/146089-staff-software-engineer-platform-syseng-canada-remote",
@@ -1226,7 +1277,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:43+00:00",
-    "fetched_at": "2026-06-12T09:48:32.968Z",
+    "fetched_at": "2026-06-12T14:25:21.597Z",
     "raw": {
       "id": 146085,
       "url": "https://jobicy.com/jobs/146085-staff-software-developer-2",
@@ -1282,7 +1333,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:35+00:00",
-    "fetched_at": "2026-06-12T09:48:32.970Z",
+    "fetched_at": "2026-06-12T14:25:21.598Z",
     "raw": {
       "id": 146081,
       "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
@@ -1329,7 +1380,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:06:26+00:00",
-    "fetched_at": "2026-06-12T09:48:32.972Z",
+    "fetched_at": "2026-06-12T14:25:21.600Z",
     "raw": {
       "id": 146075,
       "url": "https://jobicy.com/jobs/146075-developer-intern-trust-platforms-fall-2026",
@@ -1380,7 +1431,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:06:24+00:00",
-    "fetched_at": "2026-06-12T09:48:32.974Z",
+    "fetched_at": "2026-06-12T14:25:21.602Z",
     "raw": {
       "id": 146074,
       "url": "https://jobicy.com/jobs/146074-developer-intern-front-end-platform-fall-2026",
@@ -1435,7 +1486,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:59+00:00",
-    "fetched_at": "2026-06-12T09:48:32.975Z",
+    "fetched_at": "2026-06-12T14:25:21.603Z",
     "raw": {
       "id": 146068,
       "url": "https://jobicy.com/jobs/146068-sr-software-engineer-react-native-pro",
@@ -1491,7 +1542,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:57+00:00",
-    "fetched_at": "2026-06-12T09:48:32.976Z",
+    "fetched_at": "2026-06-12T14:25:21.604Z",
     "raw": {
       "id": 146067,
       "url": "https://jobicy.com/jobs/146067-ai-engineering-lead-manager-nda",
@@ -1547,7 +1598,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:54+00:00",
-    "fetched_at": "2026-06-12T09:48:32.977Z",
+    "fetched_at": "2026-06-12T14:25:21.604Z",
     "raw": {
       "id": 146065,
       "url": "https://jobicy.com/jobs/146065-backend-engineer-node-js-prograd-uk",
@@ -1601,7 +1652,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:43+00:00",
-    "fetched_at": "2026-06-12T09:48:32.978Z",
+    "fetched_at": "2026-06-12T14:25:21.605Z",
     "raw": {
       "id": 146058,
       "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
@@ -1658,7 +1709,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:35+00:00",
-    "fetched_at": "2026-06-12T09:48:32.980Z",
+    "fetched_at": "2026-06-12T14:25:21.607Z",
     "raw": {
       "id": 146053,
       "url": "https://jobicy.com/jobs/146053-senior-ai-engineer-5",
@@ -1715,7 +1766,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:33+00:00",
-    "fetched_at": "2026-06-12T09:48:32.981Z",
+    "fetched_at": "2026-06-12T14:25:21.608Z",
     "raw": {
       "id": 146052,
       "url": "https://jobicy.com/jobs/146052-senior-ai-software-engineer",
@@ -1772,7 +1823,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:31+00:00",
-    "fetched_at": "2026-06-12T09:48:32.983Z",
+    "fetched_at": "2026-06-12T14:25:21.610Z",
     "raw": {
       "id": 146051,
       "url": "https://jobicy.com/jobs/146051-ai-engineer-4",
@@ -1827,7 +1878,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:28:49+00:00",
-    "fetched_at": "2026-06-12T09:48:32.984Z",
+    "fetched_at": "2026-06-12T14:25:21.611Z",
     "raw": {
       "id": 146031,
       "url": "https://jobicy.com/jobs/146031-senior-sde",
@@ -1872,7 +1923,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-10T17:28:29+00:00",
-    "fetched_at": "2026-06-12T09:48:32.985Z",
+    "fetched_at": "2026-06-12T14:25:21.611Z",
     "raw": {
       "id": 146019,
       "url": "https://jobicy.com/jobs/146019-freelance-software-tester-magenta-tv-poland",
@@ -1929,7 +1980,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:14:46+00:00",
-    "fetched_at": "2026-06-12T09:48:32.987Z",
+    "fetched_at": "2026-06-12T14:25:21.613Z",
     "raw": {
       "id": 145996,
       "url": "https://jobicy.com/jobs/145996-customer-solutions-architect-2",
@@ -1980,7 +2031,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-10T17:14:44+00:00",
-    "fetched_at": "2026-06-12T09:48:32.988Z",
+    "fetched_at": "2026-06-12T14:25:21.614Z",
     "raw": {
       "id": 145995,
       "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
@@ -2036,7 +2087,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:07:15+00:00",
-    "fetched_at": "2026-06-12T09:48:32.990Z",
+    "fetched_at": "2026-06-12T14:25:21.616Z",
     "raw": {
       "id": 145982,
       "url": "https://jobicy.com/jobs/145982-senior-backend-engineer-elixir",
@@ -2093,7 +2144,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T05:32:50+00:00",
-    "fetched_at": "2026-06-12T09:48:32.992Z",
+    "fetched_at": "2026-06-12T14:25:21.617Z",
     "raw": {
       "id": 145940,
       "url": "https://jobicy.com/jobs/145940-genai-engineer",
@@ -2140,7 +2191,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T05:32:48+00:00",
-    "fetched_at": "2026-06-12T09:48:32.994Z",
+    "fetched_at": "2026-06-12T14:25:21.619Z",
     "raw": {
       "id": 145939,
       "url": "https://jobicy.com/jobs/145939-senior-staff-software-engineer-stce",
@@ -2201,7 +2252,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T05:32:45+00:00",
-    "fetched_at": "2026-06-12T09:48:32.996Z",
+    "fetched_at": "2026-06-12T14:25:21.621Z",
     "raw": {
       "id": 145935,
       "url": "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2",
@@ -2252,7 +2303,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T05:32:41+00:00",
-    "fetched_at": "2026-06-12T09:48:32.999Z",
+    "fetched_at": "2026-06-12T14:25:21.623Z",
     "raw": {
       "id": 145933,
       "url": "https://jobicy.com/jobs/145933-sales-engineer-mid-market-mexico",
@@ -2300,7 +2351,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T05:32:40+00:00",
-    "fetched_at": "2026-06-12T09:48:33.001Z",
+    "fetched_at": "2026-06-12T14:25:21.625Z",
     "raw": {
       "id": 145932,
       "url": "https://jobicy.com/jobs/145932-enterprise-core-sales-engineer",
@@ -2352,7 +2403,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T05:32:20+00:00",
-    "fetched_at": "2026-06-12T09:48:33.002Z",
+    "fetched_at": "2026-06-12T14:25:21.626Z",
     "raw": {
       "id": 145920,
       "url": "https://jobicy.com/jobs/145920-solution-engineer",
@@ -2395,7 +2446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T05:32:17+00:00",
-    "fetched_at": "2026-06-12T09:48:33.004Z",
+    "fetched_at": "2026-06-12T14:25:21.627Z",
     "raw": {
       "id": 145918,
       "url": "https://jobicy.com/jobs/145918-partner-solution-architect-gsi",
@@ -2447,7 +2498,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-09T10:52:47+00:00",
-    "fetched_at": "2026-06-12T09:48:33.005Z",
+    "fetched_at": "2026-06-12T14:25:21.628Z",
     "raw": {
       "id": 145880,
       "url": "https://jobicy.com/jobs/145880-senior-software-engineer-contract",
@@ -2498,7 +2549,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-09T10:29:53+00:00",
-    "fetched_at": "2026-06-12T09:48:33.006Z",
+    "fetched_at": "2026-06-12T14:25:21.629Z",
     "raw": {
       "id": 145861,
       "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
@@ -2545,7 +2596,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-09T10:29:33+00:00",
-    "fetched_at": "2026-06-12T09:48:33.008Z",
+    "fetched_at": "2026-06-12T14:25:21.631Z",
     "raw": {
       "id": 145849,
       "url": "https://jobicy.com/jobs/145849-sr-rf-hardware-systems-engineer",
@@ -2594,7 +2645,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-08T15:22:19+00:00",
-    "fetched_at": "2026-06-12T09:48:33.009Z",
+    "fetched_at": "2026-06-12T14:25:21.631Z",
     "raw": {
       "id": 145800,
       "url": "https://jobicy.com/jobs/145800-software-developer-intern",
@@ -2648,7 +2699,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-08T15:22:07+00:00",
-    "fetched_at": "2026-06-12T09:48:33.010Z",
+    "fetched_at": "2026-06-12T14:25:21.632Z",
     "raw": {
       "id": 145793,
       "url": "https://jobicy.com/jobs/145793-freelance-mobile-app-developer-ios-android",
@@ -2669,62 +2720,6 @@
       "pubDate": "2026-06-08T15:22:07+00:00",
       "salaryMin": 120000,
       "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:145792",
-    "platform": "jobicy",
-    "external_id": "145792",
-    "title": "Senior Software Engineer – Infrastructure & Network Automation",
-    "company": "NVIDIA",
-    "description": "NVIDIA is looking for a Senior Software Engineer to join NSV tools (Network Solutions Validation) group. As a senior team member, you will be part of a development effort of high-performing software automation systems for NVIDIA's Data Center environments. You will interact with NIC, OS, Switch, HCA, CPU and GPU compute as well as architects, network engineers, and developers. We drive the data growth of the world’s biggest companies. With talented engineers around the globe, the work environment is dynamic, meaningful, and fast-paced. Are you ready for the challenge? What you’ll be doing: Design and develop an automation platform used to provision, configure, and monitor HPC data centers. Implement scalable, reliable, and maintainable services that enhance cluster visibility and improve operational efficiency. Collaborate closely with internal and external stakeholders to understand requirements and deliver robust full-cycle solutions. Improve stability and performance across the provisioning pipeline through architectural enhancements and code optimizations. Troubleshoot issues in distributed environments and contribute to system observability and reliability improvements. Work cross-functionally with architects, DevOps engineers, product managers and stakeholders to ensure high-quality releases. Participate in code reviews, technical design discussions, and continuous improvement activities within the team. What we need to see: B.Sc. in Computer Science, Engineering, or a related field (or equivalent practical experience). 5+ years of strong hands-on experience on Linux-based platforms. Proficient scripting and automation skills (Bash, Python, Ansible). Background in DevOps and Network Engineering practices. Hands-on experience with large-scale network architectures, switches/routers, OVS, SR-IOV, and network operating/management systems. Networking expertise: Ethernet, VLANs, TCP/UDP/IP, QoS, L2/L3 protocols, BGP, EVPN/VXLAN, and common network topologies. Practical experience with containers and cloud-native technologies (Docker, Kubernetes) and networking performance. Experience with version control systems (Git) and CI/CD pipelines. Independent, fast learner with strong ownership mindset, excellent debugging and problem-solving skills, and effective communication abilities. Ways to stand out from the crowd: Experience as Team Lead/ Scrum master or similar leadership role. Experience in planning, tracking, and delivering projects. Familiarity with DevOps methodologies and tools (e.g., Jenkins, Ansible). Hands-on experience with Docker and containerized environments. Experience with agentic AI development. NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing and Data centers products. The GPU, HCA, our invention, are an integral part of data centers hardware and software components. Our work opens up new universes to explore, enables amazing creativity and discovery, and powers what were once science fiction inventions from artificial intelligence to autonomous cars. NVIDIA is looking for phenomenal people like you to help us accelerate the next wave of data centers quality. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. For Poland: The base salary range is 221,250 PLN - 383,500 PLN for Level 3, and 292,500 PLN - 507,000 PLN for Level 4.",
-    "url": "https://jobicy.com/jobs/145792-senior-software-engineer-infrastructure-network-automation",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "PLN",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Germany",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "docker",
-      "kubernetes",
-      "ansible",
-      "jenkins",
-      "git",
-      "linux",
-      "bash"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-08T15:22:05+00:00",
-    "fetched_at": "2026-06-12T09:48:33.011Z",
-    "raw": {
-      "id": 145792,
-      "url": "https://jobicy.com/jobs/145792-senior-software-engineer-infrastructure-network-automation",
-      "jobSlug": "145792-senior-software-engineer-infrastructure-network-automation",
-      "jobTitle": "Senior Software Engineer – Infrastructure & Network Automation",
-      "companyName": "NVIDIA",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/52745899-221.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Germany",
-      "jobLevel": "Senior",
-      "jobExcerpt": "NVIDIA is looking for a Senior Software Engineer to join NSV tools (Network Solutions Validation) group. As a senior team member, you will be part of a development effort of...",
-      "jobDescription": "<p>NVIDIA is looking for a Senior Software Engineer to join NSV tools (Network Solutions Validation) group. As a senior team member, you will be part of a development effort of high-performing software automation systems for NVIDIA's Data Center environments. You will interact with NIC, OS, Switch, HCA, CPU and GPU compute as well as architects, network engineers, and developers. We drive the data growth of the world’s biggest companies. With talented engineers around the globe, the work environment is dynamic, meaningful, and fast-paced. Are you ready for the challenge?</p>\n<p><b>What you’ll be doing:</b></p>\n<ul>\n<li>\n<p>Design and develop an automation platform used to provision, configure, and monitor HPC data centers.</p>\n</li>\n<li>\n<p>Implement scalable, reliable, and maintainable services that enhance cluster visibility and improve operational efficiency.</p>\n</li>\n<li>\n<p>Collaborate closely with internal and external stakeholders to understand requirements and deliver robust full-cycle solutions.</p>\n</li>\n<li>\n<p>Improve stability and performance across the provisioning pipeline through architectural enhancements and code optimizations.</p>\n</li>\n<li>\n<p>Troubleshoot issues in distributed environments and contribute to system observability and reliability improvements.</p>\n</li>\n<li>\n<p>Work cross-functionally with architects, DevOps engineers, product managers and stakeholders to ensure high-quality releases.</p>\n</li>\n<li>\n<p>Participate in code reviews, technical design discussions, and continuous improvement activities within the team.</p>\n</li>\n</ul>\n<p><b>What we need to see:</b></p>\n<ul>\n<li>\n<p>B.Sc. in Computer Science, Engineering, or a related field (or equivalent practical experience).</p>\n</li>\n<li>\n<p>5+ years of strong hands-on experience on Linux-based platforms.</p>\n</li>\n<li>\n<p>Proficient scripting and automation skills (Bash, Python, Ansible).</p>\n</li>\n<li>\n<p>Background in DevOps and Network Engineering practices.</p>\n</li>\n<li>\n<p>Hands-on experience with large-scale network architectures, switches/routers, OVS, SR-IOV, and network operating/management systems.</p>\n</li>\n<li>\n<p>Networking expertise: Ethernet, VLANs, TCP/UDP/IP, QoS, L2/L3 protocols, BGP, EVPN/VXLAN, and common network topologies.</p>\n</li>\n<li>\n<p>Practical experience with containers and cloud-native technologies (Docker, Kubernetes) and networking performance.</p>\n</li>\n<li>\n<p>Experience with version control systems (Git) and CI/CD pipelines.</p>\n</li>\n<li>\n<p>Independent, fast learner with strong ownership mindset, excellent debugging and problem-solving skills, and effective communication abilities.</p>\n</li>\n</ul>\n<p><b>Ways to stand out from the crowd:</b></p>\n<ul>\n<li>\n<p>Experience as Team Lead/ Scrum master or similar leadership role.</p>\n</li>\n<li>\n<p>Experience in planning, tracking, and delivering projects.</p>\n</li>\n<li>\n<p>Familiarity with DevOps methodologies and tools (e.g., Jenkins, Ansible).</p>\n</li>\n<li>\n<p>Hands-on experience with Docker and containerized environments.</p>\n</li>\n<li>\n<p>Experience with agentic AI development.</p>\n</li>\n</ul>\n<p>NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing and Data centers products. The GPU, HCA, our invention, are an integral part of data centers hardware and software components. Our work opens up new universes to explore, enables amazing creativity and discovery, and powers what were once science fiction inventions from artificial intelligence to autonomous cars. NVIDIA is looking for phenomenal people like you to help us accelerate the next wave of data centers quality. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n<p>Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. For Poland: The base salary range is 221,250 PLN - 383,500 PLN for Level 3, and 292,500 PLN - 507,000 PLN for Level 4. </p>",
-      "pubDate": "2026-06-08T15:22:05+00:00",
-      "salaryMin": 221250,
-      "salaryMax": 383500,
-      "salaryCurrency": "PLN",
       "salaryPeriod": "yearly"
     }
   },
@@ -2757,7 +2752,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-08T15:21:58+00:00",
-    "fetched_at": "2026-06-12T09:48:33.012Z",
+    "fetched_at": "2026-06-12T14:25:21.634Z",
     "raw": {
       "id": 145788,
       "url": "https://jobicy.com/jobs/145788-staff-software-engineer-full-remote-or-hybrid-m-f-d",
@@ -2804,7 +2799,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-08T15:21:57+00:00",
-    "fetched_at": "2026-06-12T09:48:33.013Z",
+    "fetched_at": "2026-06-12T14:25:21.634Z",
     "raw": {
       "id": 145787,
       "url": "https://jobicy.com/jobs/145787-full-stack-developer-ai-solutions-2",
@@ -2866,7 +2861,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-07T15:25:28+00:00",
-    "fetched_at": "2026-06-12T09:48:33.013Z",
+    "fetched_at": "2026-06-12T14:25:21.635Z",
     "raw": {
       "id": 145744,
       "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
@@ -2918,7 +2913,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-07T15:25:22+00:00",
-    "fetched_at": "2026-06-12T09:48:33.014Z",
+    "fetched_at": "2026-06-12T14:25:21.635Z",
     "raw": {
       "id": 145740,
       "url": "https://jobicy.com/jobs/145740-elastic-engineer",
@@ -2977,7 +2972,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-07T15:25:20+00:00",
-    "fetched_at": "2026-06-12T09:48:33.015Z",
+    "fetched_at": "2026-06-12T14:25:21.636Z",
     "raw": {
       "id": 145739,
       "url": "https://jobicy.com/jobs/145739-director-software-engineering",
@@ -3037,7 +3032,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T18:48:37+00:00",
-    "fetched_at": "2026-06-12T09:48:33.016Z",
+    "fetched_at": "2026-06-12T14:25:21.637Z",
     "raw": {
       "id": 145655,
       "url": "https://jobicy.com/jobs/145655-staff-data-platform-engineer",
@@ -3091,7 +3086,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T18:19:47+00:00",
-    "fetched_at": "2026-06-12T09:48:33.018Z",
+    "fetched_at": "2026-06-12T14:25:21.639Z",
     "raw": {
       "id": 145647,
       "url": "https://jobicy.com/jobs/145647-principal-machine-learning-engineer-3",
@@ -3156,7 +3151,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T08:39:37+00:00",
-    "fetched_at": "2026-06-12T09:48:33.020Z",
+    "fetched_at": "2026-06-12T14:25:21.640Z",
     "raw": {
       "id": 145611,
       "url": "https://jobicy.com/jobs/145611-senior-backend-engineer-5",
@@ -3207,7 +3202,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T08:39:13+00:00",
-    "fetched_at": "2026-06-12T09:48:33.021Z",
+    "fetched_at": "2026-06-12T14:25:21.641Z",
     "raw": {
       "id": 145596,
       "url": "https://jobicy.com/jobs/145596-lead-ai-engineer",
@@ -3261,7 +3256,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T05:36:01+00:00",
-    "fetched_at": "2026-06-12T09:48:33.023Z",
+    "fetched_at": "2026-06-12T14:25:21.643Z",
     "raw": {
       "id": 145586,
       "url": "https://jobicy.com/jobs/145586-backend-software-engineer",
@@ -3314,7 +3309,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T05:35:58+00:00",
-    "fetched_at": "2026-06-12T09:48:33.023Z",
+    "fetched_at": "2026-06-12T14:25:21.643Z",
     "raw": {
       "id": 145584,
       "url": "https://jobicy.com/jobs/145584-software-development-engineer-in-test",
@@ -3361,7 +3356,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-05T05:35:50+00:00",
-    "fetched_at": "2026-06-12T09:48:33.024Z",
+    "fetched_at": "2026-06-12T14:25:21.644Z",
     "raw": {
       "id": 145579,
       "url": "https://jobicy.com/jobs/145579-senior-python-developer",
@@ -3404,7 +3399,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T05:35:48+00:00",
-    "fetched_at": "2026-06-12T09:48:33.025Z",
+    "fetched_at": "2026-06-12T14:25:21.645Z",
     "raw": {
       "id": 145577,
       "url": "https://jobicy.com/jobs/145577-senior-qa-engineer",
@@ -3451,7 +3446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T05:25:32+00:00",
-    "fetched_at": "2026-06-12T09:48:33.027Z",
+    "fetched_at": "2026-06-12T14:25:21.647Z",
     "raw": {
       "id": 145575,
       "url": "https://jobicy.com/jobs/145575-solutions-engineer-3",
@@ -3498,7 +3493,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T05:25:30+00:00",
-    "fetched_at": "2026-06-12T09:48:33.028Z",
+    "fetched_at": "2026-06-12T14:25:21.648Z",
     "raw": {
       "id": 145574,
       "url": "https://jobicy.com/jobs/145574-associate-pd-engineer",
@@ -3548,7 +3543,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T05:25:27+00:00",
-    "fetched_at": "2026-06-12T09:48:33.031Z",
+    "fetched_at": "2026-06-12T14:25:21.649Z",
     "raw": {
       "id": 145572,
       "url": "https://jobicy.com/jobs/145572-senior-engineering-manager-search",
@@ -3599,7 +3594,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T05:25:14+00:00",
-    "fetched_at": "2026-06-12T09:48:33.032Z",
+    "fetched_at": "2026-06-12T14:25:21.650Z",
     "raw": {
       "id": 145564,
       "url": "https://jobicy.com/jobs/145564-vulnerability-management-engineer-application-security-mid-level",
@@ -3645,7 +3640,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-05T05:25:10+00:00",
-    "fetched_at": "2026-06-12T09:48:33.033Z",
+    "fetched_at": "2026-06-12T14:25:21.651Z",
     "raw": {
       "id": 145562,
       "url": "https://jobicy.com/jobs/145562-senior-software-engineer-java-database-development",
@@ -3690,7 +3685,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-03T13:34:35+00:00",
-    "fetched_at": "2026-06-12T09:48:33.033Z",
+    "fetched_at": "2026-06-12T14:25:21.651Z",
     "raw": {
       "id": 145503,
       "url": "https://jobicy.com/jobs/145503-senior-quantum-systems-engineer-quantum-computing",
@@ -3733,7 +3728,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-03T13:34:22+00:00",
-    "fetched_at": "2026-06-12T09:48:33.034Z",
+    "fetched_at": "2026-06-12T14:25:21.652Z",
     "raw": {
       "id": 145495,
       "url": "https://jobicy.com/jobs/145495-systems-engineer-2",
@@ -3778,7 +3773,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-03T13:34:19+00:00",
-    "fetched_at": "2026-06-12T09:48:33.035Z",
+    "fetched_at": "2026-06-12T14:25:21.653Z",
     "raw": {
       "id": 145493,
       "url": "https://jobicy.com/jobs/145493-senior-linux-embedded-developer-yocto",
@@ -3821,7 +3816,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-02T11:11:56+00:00",
-    "fetched_at": "2026-06-12T09:48:33.037Z",
+    "fetched_at": "2026-06-12T14:25:21.654Z",
     "raw": {
       "id": 145335,
       "url": "https://jobicy.com/jobs/145335-engineering-manager-advanced-signals-swe",
@@ -3873,7 +3868,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-02T11:11:49+00:00",
-    "fetched_at": "2026-06-12T09:48:33.038Z",
+    "fetched_at": "2026-06-12T14:25:21.656Z",
     "raw": {
       "id": 145331,
       "url": "https://jobicy.com/jobs/145331-staff-machine-learning-engineer-2",
@@ -3928,7 +3923,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-02T11:11:45+00:00",
-    "fetched_at": "2026-06-12T09:48:33.040Z",
+    "fetched_at": "2026-06-12T14:25:21.657Z",
     "raw": {
       "id": 145328,
       "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
@@ -3980,7 +3975,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-02T11:11:19+00:00",
-    "fetched_at": "2026-06-12T09:48:33.041Z",
+    "fetched_at": "2026-06-12T14:25:21.659Z",
     "raw": {
       "id": 145311,
       "url": "https://jobicy.com/jobs/145311-staff-software-engineer-growth-performance-marketing",
@@ -4034,7 +4029,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-02T11:11:15+00:00",
-    "fetched_at": "2026-06-12T09:48:33.042Z",
+    "fetched_at": "2026-06-12T14:25:21.660Z",
     "raw": {
       "id": 145309,
       "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
@@ -4085,7 +4080,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-02T11:03:57+00:00",
-    "fetched_at": "2026-06-12T09:48:33.044Z",
+    "fetched_at": "2026-06-12T14:25:21.661Z",
     "raw": {
       "id": 145290,
       "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
@@ -4138,7 +4133,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-02T11:03:55+00:00",
-    "fetched_at": "2026-06-12T09:48:33.045Z",
+    "fetched_at": "2026-06-12T14:25:21.662Z",
     "raw": {
       "id": 145289,
       "url": "https://jobicy.com/jobs/145289-ai-ml-engineer-synthetic-data",
@@ -4196,7 +4191,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-01T12:53:00+00:00",
-    "fetched_at": "2026-06-12T09:48:33.046Z",
+    "fetched_at": "2026-06-12T14:25:21.664Z",
     "raw": {
       "id": 145227,
       "url": "https://jobicy.com/jobs/145227-senior-full-stack-ai-native-developer",
@@ -4254,7 +4249,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:57:45+00:00",
-    "fetched_at": "2026-06-12T09:48:33.048Z",
+    "fetched_at": "2026-06-12T14:25:21.665Z",
     "raw": {
       "id": 145145,
       "url": "https://jobicy.com/jobs/145145-mts-cloud-test",
@@ -4302,7 +4297,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:57:38+00:00",
-    "fetched_at": "2026-06-12T09:48:33.048Z",
+    "fetched_at": "2026-06-12T14:25:21.666Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -4354,7 +4349,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:57:37+00:00",
-    "fetched_at": "2026-06-12T09:48:33.049Z",
+    "fetched_at": "2026-06-12T14:25:21.667Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -4404,7 +4399,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:48:54+00:00",
-    "fetched_at": "2026-06-12T09:48:33.050Z",
+    "fetched_at": "2026-06-12T14:25:21.667Z",
     "raw": {
       "id": 145122,
       "url": "https://jobicy.com/jobs/145122-middle-strong-general-qa-with-ai",
@@ -4452,7 +4447,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:48:52+00:00",
-    "fetched_at": "2026-06-12T09:48:33.052Z",
+    "fetched_at": "2026-06-12T14:25:21.669Z",
     "raw": {
       "id": 145121,
       "url": "https://jobicy.com/jobs/145121-principal-software-engineer-data-infrastructure",
@@ -4502,7 +4497,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:48:42+00:00",
-    "fetched_at": "2026-06-12T09:48:33.053Z",
+    "fetched_at": "2026-06-12T14:25:21.670Z",
     "raw": {
       "id": 145115,
       "url": "https://jobicy.com/jobs/145115-senior-backend-engineer-alerting-germany-remote",
@@ -4556,7 +4551,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:48:41+00:00",
-    "fetched_at": "2026-06-12T09:48:33.055Z",
+    "fetched_at": "2026-06-12T14:25:21.672Z",
     "raw": {
       "id": 145114,
       "url": "https://jobicy.com/jobs/145114-senior-backend-engineer-alerting-ireland-remote",
@@ -4610,7 +4605,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:48:40+00:00",
-    "fetched_at": "2026-06-12T09:48:33.056Z",
+    "fetched_at": "2026-06-12T14:25:21.673Z",
     "raw": {
       "id": 145113,
       "url": "https://jobicy.com/jobs/145113-senior-backend-engineer-alerting-spain-remote",
@@ -4664,7 +4659,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:48:38+00:00",
-    "fetched_at": "2026-06-12T09:48:33.058Z",
+    "fetched_at": "2026-06-12T14:25:21.675Z",
     "raw": {
       "id": 145112,
       "url": "https://jobicy.com/jobs/145112-senior-backend-engineer-alerting-uk-remote",
@@ -4718,7 +4713,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-30T15:48:36+00:00",
-    "fetched_at": "2026-06-12T09:48:33.059Z",
+    "fetched_at": "2026-06-12T14:25:21.676Z",
     "raw": {
       "id": 145111,
       "url": "https://jobicy.com/jobs/145111-senior-backend-engineer-alerting-sweden-remote",
@@ -4765,7 +4760,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-29T15:08:50+00:00",
-    "fetched_at": "2026-06-12T09:48:33.061Z",
+    "fetched_at": "2026-06-12T14:25:21.677Z",
     "raw": {
       "id": 145072,
       "url": "https://jobicy.com/jobs/145072-senior-sales-engineer-majors",
@@ -4819,7 +4814,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-29T15:01:13+00:00",
-    "fetched_at": "2026-06-12T09:48:33.062Z",
+    "fetched_at": "2026-06-12T14:25:21.679Z",
     "raw": {
       "id": 145054,
       "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
@@ -4868,7 +4863,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-28T12:05:58+00:00",
-    "fetched_at": "2026-06-12T09:48:33.063Z",
+    "fetched_at": "2026-06-12T14:25:21.680Z",
     "raw": {
       "id": 145008,
       "url": "https://jobicy.com/jobs/145008-senior-director-of-global-solutions-architecture",
@@ -4918,7 +4913,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-28T12:05:54+00:00",
-    "fetched_at": "2026-06-12T09:48:33.065Z",
+    "fetched_at": "2026-06-12T14:25:21.681Z",
     "raw": {
       "id": 145006,
       "url": "https://jobicy.com/jobs/145006-software-engineer-ii-network-operations-2",
@@ -4968,7 +4963,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-28T12:05:53+00:00",
-    "fetched_at": "2026-06-12T09:48:33.066Z",
+    "fetched_at": "2026-06-12T14:25:21.683Z",
     "raw": {
       "id": 145005,
       "url": "https://jobicy.com/jobs/145005-software-engineer-ii-network-operations",
@@ -5015,7 +5010,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-28T12:05:48+00:00",
-    "fetched_at": "2026-06-12T09:48:33.068Z",
+    "fetched_at": "2026-06-12T14:25:21.684Z",
     "raw": {
       "id": 145002,
       "url": "https://jobicy.com/jobs/145002-lead-solutions-engineer-salesforce-competitive-expert",
@@ -5078,7 +5073,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-28T11:46:16+00:00",
-    "fetched_at": "2026-06-12T09:48:33.069Z",
+    "fetched_at": "2026-06-12T14:25:21.685Z",
     "raw": {
       "id": 144976,
       "url": "https://jobicy.com/jobs/144976-fluent-ukrainian-full-stack-web-engineer-php-node-vue",
@@ -5137,7 +5132,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-05-28T11:46:15+00:00",
-    "fetched_at": "2026-06-12T09:48:33.070Z",
+    "fetched_at": "2026-06-12T14:25:21.686Z",
     "raw": {
       "id": 144975,
       "url": "https://jobicy.com/jobs/144975-fluent-ukrainian-full-stack-web-engineer-php-node-vue-global",
