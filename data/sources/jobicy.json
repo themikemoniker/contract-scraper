@@ -1,5 +1,262 @@
 [
   {
+    "id": "jobicy:143911",
+    "platform": "jobicy",
+    "external_id": "143911",
+    "title": "Staff MLOps Engineer (AI/ML Platform)",
+    "company": "Cint",
+    "description": "Company Description Cint is a pioneer in research technology (ResTech). Our customers use the Cint platform to post questions and get answers from real people to build business strategies, confidently publish research, accurately measure the impact of digital advertising, and more. The Cint platform is built on a programmatic marketplace, which is the world's largest, with nearly 300 million respondents in over 150 countries who consent to sharing their opinions, motivations, and behaviours. Job Description The Role We're hiring a Staff MLOps Engineer to own the AI/ML platform at Cint. The immediate focus is supporting the Synthetic Data Platform — models for survey augmentation and respondent profiling — but the role's longer-term remit is broader: Trust Score (our respondent quality and fraud detection model) and other AI/ML initiatives need the same platform capabilities. You'll start by reviewing the current setup and deciding whether to extend it or rebuild parts of it, then build out the shared AI/ML platform from there. The Team You'll report into our Infrastructure and Data Engineering organisation, working in close partnership with the AI/ML team in Prague. This is deliberately a platform-with-feature-focus role: your day-to-day delivery serves the Synthetic Data team's needs, but your architectural remit covers all of Cint's AI/ML workloads. Qualifications What You'll Do Assess and decide on the current pipeline: Audit the existing AI/ML training and serving setup. Decide what's worth building on and what needs to be rebuilt. Make the call and own the rationale. Build the shared AI/ML platform: Training infrastructure, experiment tracking, model registry, serving, monitoring. Built once, used by Synthetic, Trust Score, and whatever comes next. Oversee the full ML lifecycle: From data ingestion and feature processing to annotation workflows, ensuring the platform facilitates frictionless, rapid model iteration for Data Scientists. Own training infrastructure on Databricks and Unity Catalog: Make training fast, reproducible, and traceable. Lineage matters; reproducibility matters more. Model serving: Build the serving layer — low-latency APIs, batch scoring jobs, appropriate caching. Integrate with our Java/Spring services. Monitoring and drift: Build the observability our models need — data drift, model drift, accuracy regression, business metrics. Grafana dashboards, Prometheus metrics, clear alerts. Cost and performance: ML compute costs add up. Set the patterns for cost-effective training and serving, representing ML infrastructure spend and ROI credibly to finance stakeholders. Mentor and multiply: Act as a force multiplier by coaching AI/ML and Infrastructure engineers on engineering best practices. You don’t just \"do\" the work; you set the bar for what \"good\" looks like. Drive AI tooling adoption: Model how AI-native development works for platform teams. Claude Code, agentic workflows, AI-assisted incident response. Databricks / Spark Native: Comfortable in Databricks. Unity Catalog experience is a strong plus. Kubernetes &amp; Cloud: You've deployed ML workloads on Kubernetes. AWS (EKS) is our environment; familiarity is a plus. Be a Polyglot: Python, Scala or Java (for Spark), Kubernetes manifests, Terraform. AWS or GCP. You move between layers without friction. Who You Are Deep ML Platform Expertise: You've led ML platform work at a serious scale. You have strong opinions on feature stores, model registries, serving patterns, and what \"ML observability\" actually means. Mature Engineering: You’re someone with both a wide and deep background of engineering excellence in a number of disciplines. This is a very senior position in our engineering organisation; setting examples in approach and behaviour is a key trait. Systems Architect: You think about the platform as a product with real users (your ML team). You design APIs, write docs, and measure adoption. Technical leader: You lead through standards, RFCs, and credibility — not meetings. You've mentored MLOps engineers into senior ICs. Pragmatic about buy-vs-build: You know when to adopt a managed service and when to build. You can defend either call to leadership. Commercially literate: You can justify platform investment to VP / C-suite and translate business priorities into a roadmap. Additional Information Working at Cint Prague-First, Europe-Friendly: Our preferred base is Prague, alongside our existing AI/ML team. Remote work from Germany, Spain or the UK is also possible — these are the markets where we have entities. AI-Native Engineering: We're rolling out Claude Code and modern agentic tooling across engineering. You'll use it daily — not as a novelty, but as a force multiplier for the complex problems that matter. High Autonomy: We trust our engineers to make sound decisions and own their work end-to-end. Global Impact: Your work powers a marketplace used by millions of people worldwide. Our Values Collaboration is our superpower We uncover rich perspectives across the world Success happens together We deliver across borders. Innovation is in our blood We’re pioneers in our industry Our curiosity is insatiable We bring the best ideas to life. We do what we say We’re accountable for our work and actions Excellence comes as standard We’re open, honest and kind, always. We are caring We learn from each other’s experiences Stop and listen; every opinion matters We embrace diversity, equity and inclusion. More About Cint We’re proud to be recognised in Newsweek’s 2025 Global Top 100 Most Loved Workplaces®, reflecting our commitment to a culture of trust, respect, and employee growth. In June 2021, Cint acquired Berlin-based GapFish – the world’s largest ISO certified online panel community in the DACH region – and in January 2022, completed the acquisition of US-based Lucid – a programmatic research technology platform that provides access to first-party survey data in over 110 countries. Cint Group AB (publ), listed on Nasdaq Stockholm, this growth has made Cint a strong global platform with teams across its many global offices, including Stockholm, London, New York, New Orleans, Singapore, Tokyo and Sydney. (www.cint.com) Additionally, in a world of AI, we want our candidates to understand our approach to the use of AI during the interview and hiring process, so we'd appreciate you reading our AI usage guide .",
+    "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "java",
+      "scala",
+      "spring",
+      "aws",
+      "gcp",
+      "kubernetes",
+      "terraform",
+      "prometheus",
+      "grafana",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "spark",
+      "databricks"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-18T22:11:45+00:00",
+    "fetched_at": "2026-06-19T02:35:00.431Z",
+    "raw": {
+      "id": 143911,
+      "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
+      "jobSlug": "143911-staff-mlops-engineer-ai-ml-platform",
+      "jobTitle": "Staff MLOps Engineer (AI/ML Platform)",
+      "companyName": "Cint",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e45ed8fc-221-1.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "UK",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Company DescriptionCint is a pioneer in research technology (ResTech). Our customers use the Cint platform to post questions and get answers from real people to build business strategies, confidently publish...",
+      "jobDescription": "<h2>Company Description</h2>\n<p>Cint is a pioneer in research technology (ResTech). Our customers use the Cint platform to post questions and get answers from real people to build business strategies, confidently publish research, accurately measure the impact of digital advertising, and more. The Cint platform is built on a programmatic marketplace, which is the world's largest, with nearly 300 million respondents in over 150 countries who consent to sharing their opinions, motivations, and behaviours.</p>\n<h2>Job Description</h2>\n<p><strong>The Role</strong></p>\n<p>We're hiring a Staff MLOps Engineer to own the AI/ML platform at Cint. The immediate focus is supporting the Synthetic Data Platform — models for survey augmentation and respondent profiling — but the role's longer-term remit is broader: Trust Score (our respondent quality and fraud detection model) and other AI/ML initiatives need the same platform capabilities. You'll start by reviewing the current setup and deciding whether to extend it or rebuild parts of it, then build out the shared AI/ML platform from there.</p>\n<p><strong>The Team</strong></p>\n<p>You'll report into our Infrastructure and Data Engineering organisation, working in close partnership with the AI/ML team in Prague. This is deliberately a platform-with-feature-focus role: your day-to-day delivery serves the Synthetic Data team's needs, but your architectural remit covers all of Cint's AI/ML workloads.</p>\n<h2>Qualifications</h2>\n<p><strong>What You'll Do</strong></p>\n<ul>\n<li>\n<p><strong>Assess and decide on the current pipeline:</strong> Audit the existing AI/ML training and serving setup. Decide what's worth building on and what needs to be rebuilt. Make the call and own the rationale.</p>\n</li>\n<li>\n<p><strong>Build the shared AI/ML platform:</strong> Training infrastructure, experiment tracking, model registry, serving, monitoring. Built once, used by Synthetic, Trust Score, and whatever comes next.</p>\n</li>\n<li>\n<p><strong>Oversee the full ML lifecycle:</strong> From data ingestion and feature processing to annotation workflows, ensuring the platform facilitates frictionless, rapid model iteration for Data Scientists.</p>\n</li>\n<li>\n<p><strong>Own training infrastructure on Databricks and Unity Catalog:</strong> Make training fast, reproducible, and traceable. Lineage matters; reproducibility matters more.</p>\n</li>\n<li>\n<p><strong>Model serving:</strong> Build the serving layer — low-latency APIs, batch scoring jobs, appropriate caching. Integrate with our Java/Spring services.</p>\n</li>\n<li>\n<p><strong>Monitoring and drift:</strong> Build the observability our models need — data drift, model drift, accuracy regression, business metrics. Grafana dashboards, Prometheus metrics, clear alerts.</p>\n</li>\n<li>\n<p><strong>Cost and performance:</strong> ML compute costs add up. Set the patterns for cost-effective training and serving, representing ML infrastructure spend and ROI credibly to finance stakeholders.</p>\n</li>\n<li>\n<p><strong>Mentor and multiply: </strong>Act as a force multiplier by coaching AI/ML and Infrastructure engineers on engineering best practices. You don’t just \"do\" the work; you set the bar for what \"good\" looks like.</p>\n</li>\n<li>\n<p><strong>Drive AI tooling adoption:</strong> Model how AI-native development works for platform teams. Claude Code, agentic workflows, AI-assisted incident response.</p>\n</li>\n<li>\n<p><strong>Databricks / Spark Native: </strong>Comfortable in Databricks. Unity Catalog experience is a strong plus.</p>\n</li>\n<li>\n<p><strong>Kubernetes &amp; Cloud:</strong> You've deployed ML workloads on Kubernetes. AWS (EKS) is our environment; familiarity is a plus.</p>\n</li>\n<li><strong>Be a Polyglot:</strong> Python, Scala or Java (for Spark), Kubernetes manifests, Terraform. AWS or GCP. You move between layers without friction.</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>\n<p><strong>Deep ML Platform Expertise: You've led ML platform work at a serious scale. You have strong opinions on feature stores, model registries, serving patterns, and what \"ML observability\" actually means.</strong></p>\n</li>\n<li>\n<p><strong>Mature Engineering: You’re someone with both a wide and deep background of engineering excellence in a number of disciplines. This is a very senior position in our engineering organisation; setting examples in approach and behaviour is a key trait.</strong></p>\n</li>\n<li>\n<p><strong>Systems Architect: </strong>You think about the platform as a product with real users (your ML team). You design APIs, write docs, and measure adoption.</p>\n</li>\n<li>\n<p><strong>Technical leader: </strong>You lead through standards, RFCs, and credibility — not meetings. You've mentored MLOps engineers into senior ICs.</p>\n</li>\n<li>\n<p><strong>Pragmatic about buy-vs-build: <strong>You know when to adopt a managed service and when to build. You can defend either call to leadership.</strong></strong></p>\n</li>\n<li>\n<p><strong>Commercially literate: </strong>You can justify platform investment to VP / C-suite and translate business priorities into a roadmap.</p>\n</li>\n</ul>\n<h2>Additional Information</h2>\n<p><strong>Working at Cint</strong></p>\n<ul>\n<li>\n<p><strong>Prague-First, Europe-Friendly: </strong>Our preferred base is Prague, alongside our existing AI/ML team. Remote work from Germany, Spain or the UK is also possible — these are the markets where we have entities.</p>\n</li>\n<li>\n<p><strong>AI-Native Engineering: </strong>We're rolling out Claude Code and modern agentic tooling across engineering. You'll use it daily — not as a novelty, but as a force multiplier for the complex problems that matter.</p>\n</li>\n<li>\n<p><strong>High Autonomy: </strong>We trust our engineers to make sound decisions and own their work end-to-end.</p>\n</li>\n<li><strong>Global Impact: </strong>Your work powers a marketplace used by millions of people worldwide.</li>\n</ul>\n<p><strong>Our Values</strong></p>\n<p><strong>Collaboration is our superpower</strong></p>\n<ul>\n<li>We uncover rich perspectives across the world</li>\n<li>Success happens together</li>\n<li>We deliver across borders.</li>\n</ul>\n<p><strong>Innovation is in our blood</strong></p>\n<ul>\n<li>We’re pioneers in our industry</li>\n<li>Our curiosity is insatiable</li>\n<li>We bring the best ideas to life.</li>\n</ul>\n<p><strong>We do what we say</strong></p>\n<ul>\n<li>We’re accountable for our work and actions</li>\n<li>Excellence comes as standard</li>\n<li>We’re open, honest and kind, always.</li>\n</ul>\n<p><strong>We are caring</strong></p>\n<ul>\n<li>We learn from each other’s experiences</li>\n<li>Stop and listen; every opinion matters</li>\n<li>We embrace diversity, equity and inclusion.</li>\n</ul>\n<p><strong>More About Cint</strong></p>\n<p>We’re proud to be recognised in Newsweek’s 2025 Global Top 100 Most Loved Workplaces®, reflecting our commitment to a culture of trust, respect, and employee growth.</p>\n<p>In June 2021, Cint acquired Berlin-based GapFish – the world’s largest ISO certified online panel community in the DACH region – and in January 2022, completed the acquisition of US-based Lucid – a programmatic research technology platform that provides access to first-party survey data in over 110 countries.</p>\n<p>Cint Group AB (publ), listed on Nasdaq Stockholm, this growth has made Cint a strong global platform with teams across its many global offices, including Stockholm, London, New York, New Orleans, Singapore, Tokyo and Sydney. (www.cint.com)</p>\n<p>Additionally, in a world of AI, we want our candidates to understand our approach to the use of AI during the interview and hiring process, so we'd appreciate you reading our <a href=\"http://c.smartrecruiters.com/sr-company-attachments-prod-aws-dc5/655c6b17c74f682dfe4dd060/acaefd72-69c2-4bf5-8e9d-d848d701336b?r=s3-eu-central-1\" rel=\"nofollow ugc noopener\" target=\"_blank\">AI usage guide</a>.</p>",
+      "pubDate": "2026-06-18T22:11:45+00:00"
+    }
+  },
+  {
+    "id": "jobicy:147190",
+    "platform": "jobicy",
+    "external_id": "147190",
+    "title": "AI SoC Hardware Architect",
+    "company": "Ericsson",
+    "description": "Grow with us AI SoC Hardware Architect The Architect Who Closes the Gap. The Engineer Who Makes Silicon Inevitable. Location: Austin, TX Team: Cross-functional leadership across Model Engineering, AI Infrastructure, and Silicon Architecture The Problem Nobody Else Is Solving Most chip programs are full of brilliant people who never quite speak the same language. Researchers build ambitious AI models. Silicon teams build powerful hardware. Infrastructure teams wire it all together. And somewhere in the space between those three worlds — in the handoffs, the assumption gaps, the untranslated requirements — massive performance dies quietly on the floor. We're not hiring someone to manage that problem. We're hiring the person who architects it out of existence. The Role As Principal AI Hardware Architect, you will own the most consequential technical contract in the company: the binding agreement between what AI workloads demand, what software systems can express, and what custom silicon can physically deliver. This is not a support role. This is not a liaison role. This is the highest-leverage engineering seat in the building — the person who looks at a next-generation LLM, a multimodal inference pipeline, or a signal processing workload and answers the question that determines whether a chip program succeeds or settles: \"Here's exactly what this workload needs from silicon — and here's the proof it will work before we ever tape out.\" Your decisions won't live in documents. They'll be etched into hardware. Your performance models will guide compute investments. Your architectural direction will shape memory hierarchies. Your cross-team alignment will determine whether the company builds capable hardware — or hardware nobody else can touch. What You'll Own Workload - to- Architecture Translation. Analyze workload specific testcases taailored to real worlld applications using LLM's, multi modal systems, signal processing pipelines, inference engines - and translate them into concrete hardware requirements that can be implemented. You are the bridge that doesn't bend. You connect model engineering, AI infrastructure, and silicon architecture teams so that every major hardware investment is both architecturally sound and software-accessible. When workload ambition outpaces hardware capability, you find the path forward. When silicon innovation creates a performance unlock, you make sure the software stack can actually reach it. Performance Modeling Ownership Before a single gate is placed, your analytical, simulation, and cycle-approximate performance models are already shaping the architecture. You build and create the performance modeling environment that determine compute investments, memory hierarchy decisions, and feature prioritization — turning uncertainty into defensible, data-driven direction. Real Workload Validation You profile real workloads on real and future platforms. You find the bottlenecks — in memory, compute, scheduling, and architecture — and you feed those findings directly into the next hardware and software cycle. No guesswork. No assumptions. Just ground truth. Strategic Technical Translation You align people who think in different languages. Hardware architects, AI researchers, and infrastructure teams all operate with different mental models and different vocabularies. You translate across all of them — grounding every product decision in real workloads, measurable constraints, and practical execution paths. Join our Team What You Bring AI/ML Systems Depth You understand modern AI architectures from the inside — inference systems, quantization strategies, deployment constraints, and how workload behavior actually manifests in silicon utilization. You don't just know what a Transformer does. You know what it costs. Silicon Architecture Fluency You've worked with processor, accelerator, or custom silicon architectures. Compute pipelines, memory hierarchies, on-chip interconnects, performance tradeoff analysis — this is native territory for you, not background reading. Required Qualifications 12+ years of industry experience across AI, systems, or silicon Proven experience at the intersection of hardware and intelligent compute systems Hardware/software co-design leadership across full product cycles Demonstrated performance modeling expertise — analytical, simulation, or cycle-approximate Track record of influencing architectural and product decisions across multiple technical organizations Exceptional written communication and technical specification ability Strong Python and C++ skills Strongly Preferred Experience with custom silicon, accelerators, or advanced hardware platforms Prior involvement in ISA definition, memory hierarchy design, or accelerator roadmap decisions Why This Seat Matters Capable hardware gets built every year. Truly differentiated hardware — silicon that was purpose-built for the workloads that define an industry — is extraordinarily rare. The difference between those two outcomes is usually one person: the architect who understood the workload deeply enough, the silicon clearly enough, and the software stack completely enough to hold the whole picture together. That's the person we're building this role for. What happens once you apply? Click Here to find all you need to know about what our typical hiring process looks like. Ericsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity employer, learn more. If you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com. DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned. Primary country and city: USA || Austin, Texas Job details: Developer Primary Recruiter: Jim Everett Compensation and Benefits at Ericsson At Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals. Your Pay The salary range for this position is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related knowledge, qualifications, skills, education, training, and experience. • LOCATION: Austin, Texas Your Health Ericsson offers excellent health benefits including the choice of three medical plan options and a dental plan option that allow an employee to select the level of coverage that suits their needs. Employees will receive company credits in an amount equal to the cost that Ericsson pays toward the cost of their medical and dental premiums for themselves and eligible covered dependents. Your Financial Security We invest in both your short and long-term financial wellbeing. The Ericsson US 401(k) Plan offers an automatic 3% company contribution and Ericsson match $1 for every $1 you put into the 401(k) Plan on the first 3% of your eligible pay, plus 50 cents on every $1 on the next 2% of eligible pay. When you contribute at least 5% of eligible pay, you are receiving Ericsson’s full matching contributions of 4%. Matching and company automatic contributions stop when your total eligible pay for the year reaches the IRS limits. Employees will also receive company credits in an amount equal to the cost of basic life insurance and basic accidental death and dismemberment coverage, as well as short-term and long-term disability coverage. Employees also have the option to participate in Ericsson’s Stock Purchase Plan. Your Time Your work-life balance is important to us. New employees are provided a minimum of 15 days of accrued vacation, up to 3 personal days per year, 11 annual holidays, 8 hours of volunteer time, and 80 hours of sick time annually. Please note paid time off is pro-rated based on the employee’s start date. Furthermore, Ericsson provides up to 16 weeks of paid maternity leave and 6 weeks of parental or adoption leave at 100% of pay. Additional Benefits Ericsson offers many other company-paid benefits such as financial wellness programs, educational assistance, matching gifts, and recognition programs.",
+    "url": "https://jobicy.com/jobs/147190-ai-soc-hardware-architect",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "express",
+      "llm",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-18T19:03:58+00:00",
+    "fetched_at": "2026-06-19T02:35:00.433Z",
+    "raw": {
+      "id": 147190,
+      "url": "https://jobicy.com/jobs/147190-ai-soc-hardware-architect",
+      "jobSlug": "147190-ai-soc-hardware-architect",
+      "jobTitle": "AI SoC Hardware Architect",
+      "companyName": "Ericsson",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/447fc3d9-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Grow with us AI SoC Hardware ArchitectThe Architect Who Closes the Gap. The Engineer Who Makes Silicon Inevitable.Location: Austin, TX Team: Cross-functional leadership across Model Engineering, AI Infrastructure, and Silicon ArchitectureThe...",
+      "jobDescription": "<div>\n<div>\n<div>\n<h2>Grow with us</h2>\n</p></div>\n<div>\n<p><strong>AI SoC Hardware Architect</strong></p>\n<p>The Architect Who Closes the Gap. The Engineer Who Makes Silicon Inevitable.</p>\n<p><strong>Location: Austin, TX Team: Cross-functional leadership across Model Engineering, AI Infrastructure, and Silicon Architecture</strong></p>\n<p><strong>The Problem Nobody Else Is Solving</strong><br />Most chip programs are full of brilliant people who never quite speak the same language.</p>\n<p>Researchers build ambitious AI models. Silicon teams build powerful hardware. Infrastructure teams wire it all together. And somewhere in the space between those three worlds — in the handoffs, the assumption gaps, the untranslated requirements — massive performance dies quietly on the floor.</p>\n<p>We're not hiring someone to manage that problem. We're hiring the person who architects it out of existence.</p>\n<p><strong>The Role</strong><br />As Principal AI Hardware Architect, you will own the most consequential technical contract in the company: the binding agreement between what AI workloads demand, what software systems can express, and what custom silicon can physically deliver.</p>\n<p>This is not a support role. This is not a liaison role. This is the highest-leverage engineering seat in the building — the person who looks at a next-generation LLM, a multimodal inference pipeline, or a signal processing workload and answers the question that determines whether a chip program succeeds or settles:</p>\n<p>\"Here's exactly what this workload needs from silicon — and here's the proof it will work before we ever tape out.\"</p>\n<p>Your decisions won't live in documents. They'll be etched into hardware. Your performance models will guide compute investments. Your architectural direction will shape memory hierarchies. Your cross-team alignment will determine whether the company builds capable hardware — or hardware nobody else can touch.</p>\n<p><strong>What You'll Own</strong><br />Workload - to- Architecture Translation.</p>\n<p>Analyze workload specific testcases taailored to real worlld applications using LLM's, multi modal systems, signal processing pipelines, inference engines - and translate them into concrete hardware requirements that can be implemented.</p>\n<p>You are the bridge that doesn't bend. You connect model engineering, AI infrastructure, and silicon architecture teams so that every major hardware investment is both architecturally sound and software-accessible. When workload ambition outpaces hardware capability, you find the path forward. When silicon innovation creates a performance unlock, you make sure the software stack can actually reach it.</p>\n<p>Performance Modeling Ownership<br />Before a single gate is placed, your analytical, simulation, and cycle-approximate performance models are already shaping the architecture. You build and create the performance modeling environment that determine compute investments, memory hierarchy decisions, and feature prioritization — turning uncertainty into defensible, data-driven direction.</p>\n<p>Real Workload Validation<br />You profile real workloads on real and future platforms. You find the bottlenecks — in memory, compute, scheduling, and architecture — and you feed those findings directly into the next hardware and software cycle. No guesswork. No assumptions. Just ground truth.</p>\n<p>Strategic Technical Translation<br />You align people who think in different languages. Hardware architects, AI researchers, and infrastructure teams all operate with different mental models and different vocabularies. You translate across all of them — grounding every product decision in real workloads, measurable constraints, and practical execution paths.</p>\n</div>\n</div>\n<div>\n<div>\n<h2>Join our Team</h2>\n</p></div>\n<div>\n<p><strong>What You Bring</strong><br />AI/ML Systems Depth You understand modern AI architectures from the inside — inference systems, quantization strategies, deployment constraints, and how workload behavior actually manifests in silicon utilization. You don't just know what a Transformer does. You know what it costs.</p>\n<p>Silicon Architecture Fluency You've worked with processor, accelerator, or custom silicon architectures. Compute pipelines, memory hierarchies, on-chip interconnects, performance tradeoff analysis — this is native territory for you, not background reading.</p>\n<p><strong>Required Qualifications</strong><br />12+ years of industry experience across AI, systems, or silicon<br />Proven experience at the intersection of hardware and intelligent compute systems<br />Hardware/software co-design leadership across full product cycles<br />Demonstrated performance modeling expertise — analytical, simulation, or cycle-approximate<br />Track record of influencing architectural and product decisions across multiple technical organizations<br />Exceptional written communication and technical specification ability<br />Strong Python and C++ skills<br />Strongly Preferred<br />Experience with custom silicon, accelerators, or advanced hardware platforms<br />Prior involvement in ISA definition, memory hierarchy design, or accelerator roadmap decisions<br />Why This Seat Matters<br />Capable hardware gets built every year. Truly differentiated hardware — silicon that was purpose-built for the workloads that define an industry — is extraordinarily rare.</p>\n<p>The difference between those two outcomes is usually one person: the architect who understood the workload deeply enough, the silicon clearly enough, and the software stack completely enough to hold the whole picture together.</p>\n<p>That's the person we're building this role for.</p>\n</div>\n</div>\n</div>\n<p><strong>What happens once you apply?</strong><br /><a href=\"http://www.ericsson.com/en/careers/hiring-process\" rel=\"nofollow ugc noopener\" target=\"_blank\">Click Here</a> to find all you need to know about what our typical hiring process looks like.</p>\n<p>Ericsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity employer, <a href=\"http://www.ericsson.com/en/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">learn more.</a></p>\n<p>If you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com. </p>\n<p><strong>DISCLAIMER:</strong> The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned.</p>\n<p><strong>Primary country and city:</strong> USA || Austin, Texas </p>\n<p><strong>Job details:</strong> Developer</p>\n<p><strong>Primary Recruiter: Jim Everett</strong> <strong> </strong></p>\n<p><strong>Compensation and Benefits at Ericsson</strong><br />At Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals.</p>\n<p><strong>Your Pay</strong><br />The salary range for this position is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related knowledge, qualifications, skills, education, training, and experience.</p>\n<p><strong>• LOCATION: Austin, Texas</strong></p>\n<p><strong>Your Health</strong><br />Ericsson offers excellent health benefits including the choice of three medical plan options and a dental plan option that allow an employee to select the level of coverage that suits their needs. Employees will receive company credits in an amount equal to the cost that Ericsson pays toward the cost of their medical and dental premiums for themselves and eligible covered dependents.</p>\n<p><strong>Your Financial Security</strong></p>\n<p>We invest in both your short and long-term financial wellbeing. The Ericsson US 401(k) Plan offers an automatic 3% company contribution and Ericsson match $1 for every $1 you put into the 401(k) Plan on the first 3% of your eligible pay, plus 50 cents on every $1 on the next 2% of eligible pay. When you contribute at least 5% of eligible pay, you are receiving Ericsson’s full matching contributions of 4%. Matching and company automatic contributions stop when your total eligible pay for the year reaches the IRS limits. Employees will also receive company credits in an amount equal to the cost of basic life insurance and basic accidental death and dismemberment coverage, as well as short-term and long-term disability coverage. Employees also have the option to participate in Ericsson’s Stock Purchase Plan.</p>\n<p><strong>Your Time</strong><br />Your work-life balance is important to us. New employees are provided a minimum of 15 days of accrued vacation, up to 3 personal days per year, 11 annual holidays, 8 hours of volunteer time, and 80 hours of sick time annually. Please note paid time off is pro-rated based on the employee’s start date. Furthermore, Ericsson provides up to 16 weeks of paid maternity leave and 6 weeks of parental or adoption leave at 100% of pay.</p>\n<p><strong>Additional Benefits</strong><br />Ericsson offers many other company-paid benefits such as financial wellness programs, educational assistance, matching gifts, and recognition programs.</p>",
+      "pubDate": "2026-06-18T19:03:58+00:00"
+    }
+  },
+  {
+    "id": "jobicy:147189",
+    "platform": "jobicy",
+    "external_id": "147189",
+    "title": "AI Compiler Engineer",
+    "company": "Ericsson",
+    "description": "Grow with us AI Compiler Engineer — Research Team Austin, Texas This is not a remote work opportunity. MLIR Architecture | Compiler Infrastructure | 5G/6G Silicon | Bare-Metal AI The Mission Most AI compiler engineers optimize models for GPUs that already exist. You're going to optimize them for silicon that doesn't yet. As our Senior AI Compiler Engineer, you're not porting a framework, tweaking a runtime, or wrapping CUDA libraries. You're doing something far rarer and far harder — building a complete MLIR-based compiler stack from the ground up, purpose-built to run massive AI models like Llama 3 on bare-metal 5G/6G telecommunications silicon, where there's no OS to bail you out and every byte of memory is accounted for. The gap between a research model and hardware-optimized silicon execution is one of the most technically brutal problems in the industry right now. You'll be the engineer who closes it. What You'll Actually Be Doing MLIR Architecture — Own the Stack You'll design and implement custom MLIR dialects from scratch — TableGen definitions, transformation passes, and the dialect conversion infrastructure that bridges the world of high-level AI graphs and the cold, hard reality of custom silicon. This is greenfield compiler work at its most consequential. Lowering &amp; Legalization — Zero Tolerance for Approximation Take high-level computational graphs exported from JAX and StableHLO and lower them, step by step, into hardware-specific IR without losing a single bit of mathematical fidelity. Every op must legalize. Every semantic must survive the descent. Concurrency &amp; Memory Modeling — Orchestrate the Machine There's no virtual memory here. No garbage collector. No safety net. You'll build static scheduling and tiling passes that choreograph data movement between HBM and on-chip local memory with surgical precision — because on this hardware, getting it wrong isn't a performance regression, it's a failure. Production C++ — Code That Ships to Silicon You'll maintain a high-performance, modular, LLVM-based compiler codebase where correctness and determinism aren't aspirational — they're required. This is production compiler engineering in the truest sense. Join our Team What You Bring MLIR Mastery — You've built custom passes and dialect conversions, written TableGen definitions, and navigated the full complexity of the MLIR framework in a real production context Compiler Fundamentals — Deep, hands-on C++ and LLVM expertise: IR structure, pass pipelines, and code generation pipelines that actually ship Framework Integration — You've exported and lowered real models from JAX, PyTorch, or TensorFlow — you understand the gap between a research checkpoint and a deployable IR Dialect Expertise — You know StableHLO or XLA at the op-semantics level, not just the API surface What Makes You Exceptional: Experience targeting Embedded DSP or VLIW architectures — instruction scheduling, register pressure, the works Advanced optimization depth: loop tiling, vectorization, quantization lowering, fixed-point arithmetic Hardware-level awareness of DMA engines, multi-level memory hierarchies, and complex number handling in MLIR — the stuff most compiler engineers never touch Why This Role Is Different This isn't a \"make the existing thing faster\" role. There is no existing thing. You'll be writing the compiler that a brand-new class of 5G/6G AI silicon runs on — and the decisions you make at the IR level will directly shape what that hardware can and can't do for the next generation of telecommunications infrastructure. If you've ever wanted to work on a problem where the compiler, the hardware, and the research are all moving simultaneously — and where your code will eventually run at the edge of the global wireless network — this is that problem. What happens once you apply? Click Here to find all you need to know about what our typical hiring process looks like. Ericsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity employer, learn more. If you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com. DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned. Primary country and city: USA || Austin, Texas Job details: Developer Primary Recruiter: Jim Everett Compensation and Benefits at Ericsson At Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals. Your Pay The salary range for this position is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related knowledge, qualifications, skills, education, training, and experience Your Health Ericsson offers excellent health benefits including the choice of three medical plan options and a dental plan option that allow an employee to select the level of coverage that suits their needs. Employees will receive company credits in an amount equal to the cost that Ericsson pays toward the cost of their medical and dental premiums for themselves and eligible covered dependents. Your Financial Security We invest in both your short and long-term financial wellbeing. The Ericsson US 401(k) Plan offers an automatic 3% company contribution and Ericsson match $1 for every $1 you put into the 401(k) Plan on the first 3% of your eligible pay, plus 50 cents on every $1 on the next 2% of eligible pay. When you contribute at least 5% of eligible pay, you are receiving Ericsson’s full matching contributions of 4%. Matching and company automatic contributions stop when your total eligible pay for the year reaches the IRS limits. Employees will also receive company credits in an amount equal to the cost of basic life insurance and basic accidental death and dismemberment coverage, as well as short-term and long-term disability coverage. Employees also have the option to participate in Ericsson’s Stock Purchase Plan. Your Time Your work-life balance is important to us. New employees are provided a minimum of 15 days of accrued vacation, up to 3 personal days per year, 11 annual holidays, 8 hours of volunteer time, and 80 hours of sick time annually. Please note paid time off is pro-rated based on the employee’s start date. Furthermore, Ericsson provides up to 16 weeks of paid maternity leave and 6 weeks of parental or adoption leave at 100% of pay. Additional Benefits Ericsson offers many other company-paid benefits such as financial wellness programs, educational assistance, matching gifts, and recognition programs.",
+    "url": "https://jobicy.com/jobs/147189-ai-compiler-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "pytorch",
+      "tensorflow"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-18T19:03:56+00:00",
+    "fetched_at": "2026-06-19T02:35:00.434Z",
+    "raw": {
+      "id": 147189,
+      "url": "https://jobicy.com/jobs/147189-ai-compiler-engineer",
+      "jobSlug": "147189-ai-compiler-engineer",
+      "jobTitle": "AI Compiler Engineer",
+      "companyName": "Ericsson",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/447fc3d9-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Any",
+      "jobExcerpt": "Grow with us AI Compiler Engineer — Research TeamAustin, TexasThis is not a remote work opportunity.MLIR Architecture | Compiler Infrastructure | 5G/6G Silicon | Bare-Metal AIThe MissionMost AI compiler engineers...",
+      "jobDescription": "<div>\n<div>\n<div>\n<h2>Grow with us</h2>\n</p></div>\n<div>\n<p><strong>AI Compiler Engineer — Research Team</strong></p>\n<p>Austin, Texas</p>\n<p>This is not a remote work opportunity.</p>\n<p><strong>MLIR Architecture | Compiler Infrastructure | 5G/6G Silicon | Bare-Metal AI</strong><br /><strong>The Mission</strong><br />Most AI compiler engineers optimize models for GPUs that already exist. You're going to optimize them for silicon that doesn't yet.</p>\n<p>As our Senior AI Compiler Engineer, you're not porting a framework, tweaking a runtime, or wrapping CUDA libraries. You're doing something far rarer and far harder — building a complete MLIR-based compiler stack from the ground up, purpose-built to run massive AI models like Llama 3 on bare-metal 5G/6G telecommunications silicon, where there's no OS to bail you out and every byte of memory is accounted for.</p>\n<p>The gap between a research model and hardware-optimized silicon execution is one of the most technically brutal problems in the industry right now. You'll be the engineer who closes it.</p>\n<p><strong>What You'll Actually Be Doing</strong><br />MLIR Architecture — Own the Stack<br />You'll design and implement custom MLIR dialects from scratch — TableGen definitions, transformation passes, and the dialect conversion infrastructure that bridges the world of high-level AI graphs and the cold, hard reality of custom silicon. This is greenfield compiler work at its most consequential.</p>\n<p>Lowering &amp; Legalization — Zero Tolerance for Approximation<br />Take high-level computational graphs exported from JAX and StableHLO and lower them, step by step, into hardware-specific IR without losing a single bit of mathematical fidelity. Every op must legalize. Every semantic must survive the descent.</p>\n<p>Concurrency &amp; Memory Modeling — Orchestrate the Machine<br />There's no virtual memory here. No garbage collector. No safety net. You'll build static scheduling and tiling passes that choreograph data movement between HBM and on-chip local memory with surgical precision — because on this hardware, getting it wrong isn't a performance regression, it's a failure.</p>\n<p>Production C++ — Code That Ships to Silicon<br />You'll maintain a high-performance, modular, LLVM-based compiler codebase where correctness and determinism aren't aspirational — they're required. This is production compiler engineering in the truest sense.</p>\n</div>\n</div>\n<div>\n<div>\n<h2>Join our Team</h2>\n</p></div>\n<div>\n<p><strong>What You Bring</strong></p>\n<p>MLIR Mastery — You've built custom passes and dialect conversions, written TableGen definitions, and navigated the full complexity of the MLIR framework in a real production context<br />Compiler Fundamentals — Deep, hands-on C++ and LLVM expertise: IR structure, pass pipelines, and code generation pipelines that actually ship<br />Framework Integration — You've exported and lowered real models from JAX, PyTorch, or TensorFlow — you understand the gap between a research checkpoint and a deployable IR<br />Dialect Expertise — You know StableHLO or XLA at the op-semantics level, not just the API surface<br />What Makes You Exceptional:</p>\n<p>Experience targeting Embedded DSP or VLIW architectures — instruction scheduling, register pressure, the works<br />Advanced optimization depth: loop tiling, vectorization, quantization lowering, fixed-point arithmetic<br />Hardware-level awareness of DMA engines, multi-level memory hierarchies, and complex number handling in MLIR — the stuff most compiler engineers never touch<br />Why This Role Is Different<br />This isn't a \"make the existing thing faster\" role. There is no existing thing. You'll be writing the compiler that a brand-new class of 5G/6G AI silicon runs on — and the decisions you make at the IR level will directly shape what that hardware can and can't do for the next generation of telecommunications infrastructure.</p>\n<p>If you've ever wanted to work on a problem where the compiler, the hardware, and the research are all moving simultaneously — and where your code will eventually run at the edge of the global wireless network — this is that problem.</p>\n</div>\n</div>\n</div>\n<p><strong>What happens once you apply?</strong><br /><a href=\"http://www.ericsson.com/en/careers/hiring-process\" rel=\"nofollow ugc noopener\" target=\"_blank\">Click Here</a> to find all you need to know about what our typical hiring process looks like.</p>\n<p>Ericsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity employer, <a href=\"http://www.ericsson.com/en/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">learn more.</a></p>\n<p>If you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com. </p>\n<p><strong>DISCLAIMER:</strong> The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned.</p>\n<p><strong>Primary country and city:</strong> USA || Austin, Texas </p>\n<p><strong>Job details:</strong> Developer</p>\n<p><strong>Primary Recruiter: Jim Everett</strong> </p>\n<p><strong>Compensation and Benefits at Ericsson</strong><br />At Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals.</p>\n<p><strong>Your Pay</strong><br />The salary range for this position is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related knowledge, qualifications, skills, education, training, and experience</p>\n<p><strong>Your Health</strong><br />Ericsson offers excellent health benefits including the choice of three medical plan options and a dental plan option that allow an employee to select the level of coverage that suits their needs. Employees will receive company credits in an amount equal to the cost that Ericsson pays toward the cost of their medical and dental premiums for themselves and eligible covered dependents.</p>\n<p><strong>Your Financial Security</strong></p>\n<p>We invest in both your short and long-term financial wellbeing. The Ericsson US 401(k) Plan offers an automatic 3% company contribution and Ericsson match $1 for every $1 you put into the 401(k) Plan on the first 3% of your eligible pay, plus 50 cents on every $1 on the next 2% of eligible pay. When you contribute at least 5% of eligible pay, you are receiving Ericsson’s full matching contributions of 4%. Matching and company automatic contributions stop when your total eligible pay for the year reaches the IRS limits. Employees will also receive company credits in an amount equal to the cost of basic life insurance and basic accidental death and dismemberment coverage, as well as short-term and long-term disability coverage. Employees also have the option to participate in Ericsson’s Stock Purchase Plan.</p>\n<p><strong>Your Time</strong><br />Your work-life balance is important to us. New employees are provided a minimum of 15 days of accrued vacation, up to 3 personal days per year, 11 annual holidays, 8 hours of volunteer time, and 80 hours of sick time annually. Please note paid time off is pro-rated based on the employee’s start date. Furthermore, Ericsson provides up to 16 weeks of paid maternity leave and 6 weeks of parental or adoption leave at 100% of pay.</p>\n<p><strong>Additional Benefits</strong><br />Ericsson offers many other company-paid benefits such as financial wellness programs, educational assistance, matching gifts, and recognition programs.</p>",
+      "pubDate": "2026-06-18T19:03:56+00:00"
+    }
+  },
+  {
+    "id": "jobicy:147188",
+    "platform": "jobicy",
+    "external_id": "147188",
+    "title": "Full Stack Engineer (Americas)",
+    "company": "infisical",
+    "description": "Skills: Node.js, TypeScript Infisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era. We're building a generational company with a world-class engineering team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll be challenged like nowhere else. What We’re Looking For We’re looking for an exceptional Full Stack Engineer to help us build, optimize, and expand the foundation of the platform. We’ve kept our hiring standards exceptionally high since we expect engineers to tackle a broad range of challenges on a day-to-day basis. Examples of past engineering initiatives include developing strategies for secret rotation and dynamic secrets, a gateway to provide secure access to private resources, protocols like EST and KMIP , integrations for syncing secrets across cloud providers, and entire new product lines such as Infisical PKI and Infisical SSH. You’ll be working closely with our CTO and the rest of the engineering team to: Develop and maintain features whilst communicating directly with enterprise customers. Expand our newer Infisical PKI , Infisical SSH , and Infisical KMS product lines. Experiment with novel approaches for applying AI to secrets management and more broadly security infrastructure. Requirements Deep technical mastery of the JavaScript ecosystem, particularly React.js, Node.js, and TypeScript. Exceptional attention to detail and eager to learn. A bias toward action—able to make decisions with incomplete information, iterate quickly, and take calculated risks. Based in the Americas (US, Canada, or LATAM) — See the SF listing if based in or willing to relocate to San Francisco to work on site. Bonus Expertise in Go. Has some understanding of devops/developer tools. Previous founder or startup experience. Previous experience building in open source or developer tools in either a professional or personal setting. Excellent written and oral communication skills to interact with customers directly. How You’ll Grow In this role, you’ll play a pivotal part in shaping Infisical’s future—making key technical decisions, establishing foundational processes, and tackling complex scalability challenges. As you gain experience and the team expands, you'll have the opportunity to take full ownership of specific areas of our platform, driving them end-to-end with autonomy and impact. Overall, you’ll be one of the defining pieces of our team as we scale to thousands of customers over the next 18 months. Team, Values &amp; Benefits Our team brings experience from companies like Figma, AWS, and Red Hat. We operate primarily as a remote team but maintain a strong presence in San Francisco, where we have an office. We also get together in person throughout the year for off-sites, conferences, and team gatherings. At Infisical, we offer competitive compensation, including both salary and equity options. Additional benefits, such as a lunch stipend and a work setup budget, are available with more details to be found on our careers page . About Us Infisical is the open source security infrastructure platform that engineers use for secrets management, internal PKI, key management, and SSH workflow orchestration. We help developers and organizations securely manage over 1.5 billion secrets each month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face, Lucid, and LG. Join us on a mission to make security easier for all developers — starting with secrets management.",
+    "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "junior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "react",
+      "nodejs",
+      "aws",
+      "huggingface",
+      "figma"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-18T19:03:54+00:00",
+    "fetched_at": "2026-06-19T02:35:00.435Z",
+    "raw": {
+      "id": 147188,
+      "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
+      "jobSlug": "147188-full-stack-engineer-americas",
+      "jobTitle": "Full Stack Engineer (Americas)",
+      "companyName": "infisical",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/44e19225-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Entry-Level, Junior",
+      "jobExcerpt": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We&#8217;re building a generational company with...",
+      "jobDescription": "<p><b>Skills:</b></p>\n<p> Node.js, TypeScript</p>\n<p><a href=\"https://infisical.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Infisical</a> is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.</p>\n<p><em>We're building a generational company with a world-class engineering team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll be challenged like nowhere else.</em></p>\n<p><strong>What We’re Looking For</strong></p>\n<p>We’re looking for an exceptional <strong>Full Stack Engineer</strong> to help us build, optimize, and expand the foundation of the platform.</p>\n<p>We’ve kept our hiring standards exceptionally high since we expect engineers to tackle a broad range of challenges on a day-to-day basis. Examples of past engineering initiatives include developing strategies for secret rotation and dynamic secrets, a gateway to provide secure access to private resources, protocols like <a href=\"https://infisical.com/docs/documentation/platform/pki/est\" rel=\"nofollow ugc noopener\" target=\"_blank\">EST</a> and <a href=\"https://infisical.com/docs/documentation/platform/kms/kmip#kmip-integration\" rel=\"nofollow ugc noopener\" target=\"_blank\">KMIP</a>, integrations for syncing secrets across cloud providers, and entire new product lines such as Infisical PKI and Infisical SSH.</p>\n<p>You’ll be working closely with our CTO and the rest of the engineering team to:</p>\n<ul>\n<li>\n<p>Develop and maintain features whilst communicating directly with enterprise customers.</p>\n</li>\n<li>\n<p>Expand our newer <a href=\"https://infisical.com/docs/documentation/platform/pki/overview\" rel=\"nofollow ugc noopener\" target=\"_blank\">Infisical PKI</a>, <a href=\"https://infisical.com/docs/documentation/platform/ssh\" rel=\"nofollow ugc noopener\" target=\"_blank\">Infisical SSH</a>, and <a href=\"https://infisical.com/docs/documentation/platform/kms/overview\" rel=\"nofollow ugc noopener\" target=\"_blank\">Infisical KMS</a> product lines.</p>\n</li>\n<li>\n<p>Experiment with novel approaches for applying AI to secrets management and more broadly security infrastructure.</p>\n</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li>\n<p>Deep technical mastery of the JavaScript ecosystem, particularly React.js, Node.js, and TypeScript.</p>\n</li>\n<li>\n<p>Exceptional attention to detail and eager to learn.</p>\n</li>\n<li>\n<p>A bias toward action—able to make decisions with incomplete information, iterate quickly, and take calculated risks.</p>\n</li>\n<li>\n<p>Based in the Americas (US, Canada, or LATAM) — See the <a href=\"https://jobs.ashbyhq.com/infisical/71237975-dd45-4ee1-8e3f-3372c2b17b3f\" rel=\"nofollow ugc noopener\" target=\"_blank\">SF listing</a> if based in or willing to relocate to San Francisco to work on site.</p>\n</li>\n</ul>\n<p><strong>Bonus</strong></p>\n<ul>\n<li>\n<p>Expertise in Go.</p>\n</li>\n<li>\n<p>Has some understanding of devops/developer tools.</p>\n</li>\n<li>\n<p>Previous founder or startup experience.</p>\n</li>\n<li>\n<p>Previous experience building in open source or developer tools in either a professional or personal setting.</p>\n</li>\n<li>\n<p>Excellent written and oral communication skills to interact with customers directly.</p>\n</li>\n</ul>\n<p><strong>How You’ll Grow</strong></p>\n<p>In this role, you’ll play a pivotal part in shaping Infisical’s future—making key technical decisions, establishing foundational processes, and tackling complex scalability challenges. As you gain experience and the team expands, you'll have the opportunity to take full ownership of specific areas of our platform, driving them end-to-end with autonomy and impact.</p>\n<p>Overall, you’ll be one of the defining pieces of our team as we scale to thousands of customers over the next 18 months.</p>\n<p><strong>Team, Values &amp; Benefits</strong></p>\n<p>Our team brings experience from companies like Figma, AWS, and Red Hat. We operate primarily as a remote team but maintain a strong presence in San Francisco, where we have an office. We also get together in person throughout the year for off-sites, conferences, and team gatherings.</p>\n<p>At Infisical, we offer competitive compensation, including both salary and equity options. Additional benefits, such as a lunch stipend and a work setup budget, are available with more details to be found on our<a href=\"https://infisical.com/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers page</a>.</p>\n<p><strong>About Us</strong></p>\n<p>Infisical is the open source security infrastructure platform that engineers use for secrets management, internal PKI, key management, and SSH workflow orchestration. We help developers and organizations securely manage over 1.5 billion secrets each month including application configuration, database credentials, certificates, and more.</p>\n<p>We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face, Lucid, and LG.</p>\n<p>Join us on a mission to make security easier for all developers — starting with secrets management.</p>",
+      "pubDate": "2026-06-18T19:03:54+00:00",
+      "salaryMin": 100000,
+      "salaryMax": 180000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:147186",
+    "platform": "jobicy",
+    "external_id": "147186",
+    "title": "System Developer",
+    "company": "Ericsson",
+    "description": "Grow with us System Developer Location: Ottawa, ON. At this time, Ericsson Canada Inc. does not provide immigration assistance/sponsorship now or in the future for this position Please upload your unofficial transcript when applying. (Use the \"Cover letter\" uploading tab.) About this opportunity: Join our RAN Baseband System Management team in Ottawa, Canada, working on Radio Access Network technology. Ericsson leads in bringing 5G to market globally and is actively engaged in developing 6G technology. We are expanding our investments to support 5G and 6G deployments worldwide and seek an experienced Radio Network System Developer. Our team works on signal processing, radio resource management, physical layer algorithms, multi-antenna systems, cloud deployments, and 5G/6G software simulation development. We collaborate with customers, partners, and other Ericsson units to understand technology potential, business needs, and market opportunities, participating in standardization efforts through 3GPP and similar forums. What you will do: Conduct systems studies in Radio Resource Management areas including Scheduling, Link Adaptation, time-critical communication, and control channel radio resource management Specify system features, functions, test cases, algorithms, use cases, and parameter settings Develop network-level software simulations for performance analysis of 5G features and algorithms Drive continuous improvements of products, simulation tools, and processes Lead solution package studies and participate in system trouble report teams Contribute to 5G standards advancement and 6G readiness Support innovation and intellectual property development through invention disclosures and patents Support 5G system verification and analyze test results Assist with deployment of new 5G products and features into customer networks Work with customer troubleshooting and analysis Collaborate on new features, simulations, and improvements with cross-functional teams worldwide The skills you bring: Bachelor's, Master's, or PhD in Computer Science, Electrical Engineering, Engineering Physics, or equivalent knowledge Background in communications theory and digital signal processing Experience in relevant areas such as 5G NR and potentially 6G Knowledge of 5G NR mobile communication systems, particularly Physical Layer and Radio Resource Management Product development knowledge, preferably with understanding of Lean and Agile methods Software development skills in Java, C, and C++ Experience with simulation environments and tools like MATLAB is beneficial Analytical thinking with interest in creativity and innovation Commitment to continuous learning and skill development Strong collaboration abilities Excellent verbal and written English communication skills Why join Ericsson? At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next. What happens once you apply? Click Here to find all you need to know about what our typical hiring process looks like. Ericsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity employer, learn more. If you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com. DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned. Primary country and city: Canada (CA) || Ottawa (Country/ City) Job details: Developer Compensation and Benefits at Ericsson At Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals. Your Pay The salary offered is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related knowledge, qualifications, skills, education, training, and experience. The salary range for this position is • LOCATION: Ottawa, CA Bachelors: $81,700 CAD Masters: $90,300 CAD PhD: $100,700 CAD - $105,735 CAD Hiring Bonus: Bachelors: $8,500 CAD Masters: $11,500 CAD PhD: $17,500 CAD Short-Term Variable Compensation Plan (select if STV) : Your pay also includes the opportunity for an annual bonus. Actual bonus payouts are based on performance of the business against the unit’s objectives, individual performance, and the individual bonus target. Certain eligibility and pro-ration rules apply. Your Health Ericsson offers excellent health benefits including the choice of 3 medical and dental plan options that allow an employee to select the level of coverage that suits their needs. Core level coverage is paid for fully by Ericsson. Your Financial Security We invest in both your short and long-term financial wellbeing. Ericsson’s Group Retirement &amp; Savings Program offers an automatic 2% company contribution into the Pension Plan. Ericsson also offers a 50% match of employee’s contribution into the Registered Retirement Savings Plan, up to 8% of the employee’s contribution (maximum of 4% match). This leads to a total company contribution potential of 6%. Employees will also basic life insurance and basic accidental death and dismemberment coverage at two-times annual base pay at no cost, as well as short-term disability coverage. Employees also have the option to participate in Ericsson’s Stock Purchase Plan. Your Time Your work-life balance is important to us. New employees are provided a minimum of 18 days of accrued vacation, at least 3personal days, minimum 10 holidays, 1 volunteer day, and sick days. Please note paid time off is pro-rated based on the employee’s start date. Furthermore, Ericsson provides up to 10 weeks of paid maternity leave and 6 weeks of parental or adoption leave at 100% of pay. Additional Benefits Ericsson offers many other company-paid benefits such as financial wellness programs, educational assistance, matching gifts, wellness account, and recognition programs.",
+    "url": "https://jobicy.com/jobs/147186-system-developer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CAD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Canada",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "java"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-18T19:03:51+00:00",
+    "fetched_at": "2026-06-19T02:35:00.436Z",
+    "raw": {
+      "id": 147186,
+      "url": "https://jobicy.com/jobs/147186-system-developer",
+      "jobSlug": "147186-system-developer",
+      "jobTitle": "System Developer",
+      "companyName": "Ericsson",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/447fc3d9-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Canada",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Grow with us System DeveloperLocation: Ottawa, ON. At this time, Ericsson Canada Inc. does not provide immigration assistance/sponsorship now or in the future for this positionPlease upload your unofficial transcript when...",
+      "jobDescription": "<div>\n<div>\n<div>\n<h2>Grow with us</h2>\n</p></div>\n<div>\n<p><strong>System Developer</strong></p>\n<p>Location: Ottawa, ON. </p>\n<p>At this time, Ericsson Canada Inc. does not provide immigration assistance/sponsorship now or in the future for this position</p>\n<p>Please upload your unofficial transcript when applying. (Use the \"Cover letter\" uploading tab.)</p>\n<p><strong>About this opportunity:</strong></p>\n<p>Join our RAN Baseband System Management team in Ottawa, Canada, working on Radio Access Network technology. Ericsson leads in bringing 5G to market globally and is actively engaged in developing 6G technology. We are expanding our investments to support 5G and 6G deployments worldwide and seek an experienced Radio Network System Developer. Our team works on signal processing, radio resource management, physical layer algorithms, multi-antenna systems, cloud deployments, and 5G/6G software simulation development. We collaborate with customers, partners, and other Ericsson units to understand technology potential, business needs, and market opportunities, participating in standardization efforts through 3GPP and similar forums.</p>\n<p><strong>What you will do:</strong></p>\n<ul>\n<li>Conduct systems studies in Radio Resource Management areas including Scheduling, Link Adaptation, time-critical communication, and control channel radio resource management</li>\n<li>Specify system features, functions, test cases, algorithms, use cases, and parameter settings</li>\n<li>Develop network-level software simulations for performance analysis of 5G features and algorithms</li>\n<li>Drive continuous improvements of products, simulation tools, and processes</li>\n<li>Lead solution package studies and participate in system trouble report teams</li>\n<li>Contribute to 5G standards advancement and 6G readiness</li>\n<li>Support innovation and intellectual property development through invention disclosures and patents</li>\n<li>Support 5G system verification and analyze test results</li>\n<li>Assist with deployment of new 5G products and features into customer networks</li>\n<li>Work with customer troubleshooting and analysis</li>\n<li>Collaborate on new features, simulations, and improvements with cross-functional teams worldwide</li>\n</ul>\n<p><strong>The skills you bring:</strong></p>\n<ul>\n<li>Bachelor's, Master's, or PhD in Computer Science, Electrical Engineering, Engineering Physics, or equivalent knowledge</li>\n<li>Background in communications theory and digital signal processing</li>\n<li>Experience in relevant areas such as 5G NR and potentially 6G</li>\n<li>Knowledge of 5G NR mobile communication systems, particularly Physical Layer and Radio Resource Management</li>\n<li>Product development knowledge, preferably with understanding of Lean and Agile methods</li>\n<li>Software development skills in Java, C, and C++</li>\n<li>Experience with simulation environments and tools like MATLAB is beneficial</li>\n<li>Analytical thinking with interest in creativity and innovation</li>\n<li>Commitment to continuous learning and skill development</li>\n<li>Strong collaboration abilities</li>\n<li>Excellent verbal and written English communication skills</li>\n</ul>\n</div>\n</div>\n</div>\n<p><strong>Why join Ericsson?</strong></p>\n<p>At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.</p>\n<p><strong>What happens once you apply?</strong><br /><a href=\"http://www.ericsson.com/en/careers/hiring-process\" rel=\"nofollow ugc noopener\" target=\"_blank\">Click Here</a> to find all you need to know about what our typical hiring process looks like.</p>\n<p>Ericsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity employer, <a href=\"http://www.ericsson.com/en/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">learn more.</a></p>\n<p>If you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com. </p>\n<p><strong>DISCLAIMER:</strong> The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned.</p>\n<p><strong>Primary country and city: </strong>Canada (CA) || Ottawa (Country/ City)</p>\n<p><strong>Job details: </strong>Developer</p>\n<p><strong>Compensation and Benefits at Ericsson</strong><br />At Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals.</p>\n<p><strong>Your Pay</strong><br />The salary offered is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related knowledge, qualifications, skills, education, training, and experience.</p>\n<p>The salary range for this position is</p>\n<p><strong>• LOCATION: </strong></p>\n<p><strong>Ottawa, CA</strong></p>\n<p>Bachelors: $81,700 CAD<br />Masters: $90,300 CAD<br />PhD: $100,700 CAD - $105,735 CAD</p>\n<p><strong>Hiring Bonus:</strong></p>\n<p>Bachelors: $8,500 CAD<br />Masters: $11,500 CAD<br />PhD: $17,500 CAD</p>\n<p><strong>Short-Term Variable Compensation Plan (select if STV)</strong><strong>:</strong> Your pay also includes the opportunity for an annual bonus. Actual bonus payouts are based on performance of the business against the unit’s objectives, individual performance, and the individual bonus target. Certain eligibility and pro-ration rules apply. </p>\n<p><strong>Your Health</strong><br />Ericsson offers excellent health benefits including the choice of 3 medical and dental plan options that allow an employee to select the level of coverage that suits their needs. Core level coverage is paid for fully by Ericsson.</p>\n<p><strong>Your Financial Security</strong><br />We invest in both your short and long-term financial wellbeing. Ericsson’s Group Retirement &amp; Savings Program offers an automatic 2% company contribution into the Pension Plan. Ericsson also offers a 50% match of employee’s contribution into the Registered Retirement Savings Plan, up to 8% of the employee’s contribution (maximum of 4% match). This leads to a total company contribution potential of 6%. Employees will also basic life insurance and basic accidental death and dismemberment coverage at two-times annual base pay at no cost, as well as short-term disability coverage. Employees also have the option to participate in Ericsson’s Stock Purchase Plan.</p>\n<p><strong>Your Time</strong><br />Your work-life balance is important to us. New employees are provided a minimum of 18 days of accrued vacation, at least 3personal days, minimum 10 holidays, 1 volunteer day, and sick days. Please note paid time off is pro-rated based on the employee’s start date. Furthermore, Ericsson provides up to 10 weeks of paid maternity leave and 6 weeks of parental or adoption leave at 100% of pay.</p>\n<p><strong>Additional Benefits</strong><br />Ericsson offers many other company-paid benefits such as financial wellness programs, educational assistance, matching gifts, wellness account, and recognition programs.</p>",
+      "pubDate": "2026-06-18T19:03:51+00:00",
+      "salaryMin": 81700,
+      "salaryMax": 105735,
+      "salaryCurrency": "CAD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:144972",
     "platform": "jobicy",
     "external_id": "144972",
@@ -23,7 +280,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T17:01:42+00:00",
-    "fetched_at": "2026-06-18T20:01:58.123Z",
+    "fetched_at": "2026-06-19T02:35:00.437Z",
     "raw": {
       "id": 144972,
       "url": "https://jobicy.com/jobs/144972-emerging-talent-aspire-engineering-and-technology-italy-2026-opportunities",
@@ -73,7 +330,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:11:42+00:00",
-    "fetched_at": "2026-06-18T20:01:58.124Z",
+    "fetched_at": "2026-06-19T02:35:00.438Z",
     "raw": {
       "id": 143893,
       "url": "https://jobicy.com/jobs/143893-web-application-software-engineer",
@@ -124,7 +381,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:01:49+00:00",
-    "fetched_at": "2026-06-18T20:01:58.127Z",
+    "fetched_at": "2026-06-19T02:35:00.440Z",
     "raw": {
       "id": 143908,
       "url": "https://jobicy.com/jobs/143908-senior-sales-engineer-5",
@@ -170,7 +427,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:01:48+00:00",
-    "fetched_at": "2026-06-18T20:01:58.128Z",
+    "fetched_at": "2026-06-19T02:35:00.441Z",
     "raw": {
       "id": 143906,
       "url": "https://jobicy.com/jobs/143906-senior-software-engineer-13",
@@ -223,7 +480,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-18T07:01:46+00:00",
-    "fetched_at": "2026-06-18T20:01:58.129Z",
+    "fetched_at": "2026-06-19T02:35:00.442Z",
     "raw": {
       "id": 143900,
       "url": "https://jobicy.com/jobs/143900-analyst-ii-full-stack-2",
@@ -276,7 +533,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:56:43+00:00",
-    "fetched_at": "2026-06-18T20:01:58.131Z",
+    "fetched_at": "2026-06-19T02:35:00.444Z",
     "raw": {
       "id": 143969,
       "url": "https://jobicy.com/jobs/143969-ai-automation-engineer",
@@ -323,7 +580,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:46:55+00:00",
-    "fetched_at": "2026-06-18T20:01:58.132Z",
+    "fetched_at": "2026-06-19T02:35:00.445Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -370,7 +627,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:41:54+00:00",
-    "fetched_at": "2026-06-18T20:01:58.133Z",
+    "fetched_at": "2026-06-19T02:35:00.446Z",
     "raw": {
       "id": 144098,
       "url": "https://jobicy.com/jobs/144098-senior-software-engineer-full-remote-france-or-hybrid-2",
@@ -426,7 +683,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:41:45+00:00",
-    "fetched_at": "2026-06-18T20:01:58.134Z",
+    "fetched_at": "2026-06-19T02:35:00.447Z",
     "raw": {
       "id": 144094,
       "url": "https://jobicy.com/jobs/144094-mobile-software-engineer-android-digital-trust",
@@ -483,7 +740,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:36:44+00:00",
-    "fetched_at": "2026-06-18T20:01:58.135Z",
+    "fetched_at": "2026-06-19T02:35:00.448Z",
     "raw": {
       "id": 144103,
       "url": "https://jobicy.com/jobs/144103-ai-engineer-fde-forward-deployed-engineer",
@@ -534,7 +791,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:06:46+00:00",
-    "fetched_at": "2026-06-18T20:01:58.136Z",
+    "fetched_at": "2026-06-19T02:35:00.449Z",
     "raw": {
       "id": 144839,
       "url": "https://jobicy.com/jobs/144839-front-end-engineer-2",
@@ -580,7 +837,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T04:00:52+00:00",
-    "fetched_at": "2026-06-18T20:01:58.137Z",
+    "fetched_at": "2026-06-19T02:35:00.450Z",
     "raw": {
       "id": 147114,
       "url": "https://jobicy.com/jobs/147114-solution-engineer-2",
@@ -623,7 +880,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T04:00:48+00:00",
-    "fetched_at": "2026-06-18T20:01:58.138Z",
+    "fetched_at": "2026-06-19T02:35:00.451Z",
     "raw": {
       "id": 147112,
       "url": "https://jobicy.com/jobs/147112-principal-geotechnical-engineer",
@@ -670,7 +927,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-17T18:51:08+00:00",
-    "fetched_at": "2026-06-18T20:01:58.139Z",
+    "fetched_at": "2026-06-19T02:35:00.451Z",
     "raw": {
       "id": 147080,
       "url": "https://jobicy.com/jobs/147080-senior-net-wpf-developer",
@@ -722,7 +979,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-17T18:51:06+00:00",
-    "fetched_at": "2026-06-18T20:01:58.140Z",
+    "fetched_at": "2026-06-19T02:35:00.452Z",
     "raw": {
       "id": 147079,
       "url": "https://jobicy.com/jobs/147079-qa-engineer-5",
@@ -768,7 +1025,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T18:50:44+00:00",
-    "fetched_at": "2026-06-18T20:01:58.142Z",
+    "fetched_at": "2026-06-19T02:35:00.454Z",
     "raw": {
       "id": 147066,
       "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
@@ -815,7 +1072,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T18:50:42+00:00",
-    "fetched_at": "2026-06-18T20:01:58.143Z",
+    "fetched_at": "2026-06-19T02:35:00.455Z",
     "raw": {
       "id": 147065,
       "url": "https://jobicy.com/jobs/147065-staff-design-engineer",
@@ -863,7 +1120,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:57+00:00",
-    "fetched_at": "2026-06-18T20:01:58.144Z",
+    "fetched_at": "2026-06-19T02:35:00.456Z",
     "raw": {
       "id": 147050,
       "url": "https://jobicy.com/jobs/147050-ai-systems-engineering-expert",
@@ -915,7 +1172,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:52+00:00",
-    "fetched_at": "2026-06-18T20:01:58.146Z",
+    "fetched_at": "2026-06-19T02:35:00.458Z",
     "raw": {
       "id": 147047,
       "url": "https://jobicy.com/jobs/147047-lead-cloud-solution-architect-application-modernization-aws",
@@ -975,7 +1232,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:48+00:00",
-    "fetched_at": "2026-06-18T20:01:58.149Z",
+    "fetched_at": "2026-06-19T02:35:00.460Z",
     "raw": {
       "id": 147045,
       "url": "https://jobicy.com/jobs/147045-lead-cloud-solution-architect-ai-data-aws",
@@ -1031,7 +1288,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-17T11:05:09+00:00",
-    "fetched_at": "2026-06-18T20:01:58.149Z",
+    "fetched_at": "2026-06-19T02:35:00.461Z",
     "raw": {
       "id": 147013,
       "url": "https://jobicy.com/jobs/147013-ios-developer-remote-anywhere-in-mexico",
@@ -1076,7 +1333,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T11:04:40+00:00",
-    "fetched_at": "2026-06-18T20:01:58.151Z",
+    "fetched_at": "2026-06-19T02:35:00.462Z",
     "raw": {
       "id": 147000,
       "url": "https://jobicy.com/jobs/147000-experienced-information-systems-architect",
@@ -1125,7 +1382,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T11:04:38+00:00",
-    "fetched_at": "2026-06-18T20:01:58.153Z",
+    "fetched_at": "2026-06-19T02:35:00.464Z",
     "raw": {
       "id": 146999,
       "url": "https://jobicy.com/jobs/146999-director-solutions-engineering-usa-remote",
@@ -1172,7 +1429,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T05:09:32+00:00",
-    "fetched_at": "2026-06-18T20:01:58.155Z",
+    "fetched_at": "2026-06-19T02:35:00.466Z",
     "raw": {
       "id": 146984,
       "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
@@ -1224,7 +1481,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T05:09:18+00:00",
-    "fetched_at": "2026-06-18T20:01:58.156Z",
+    "fetched_at": "2026-06-19T02:35:00.467Z",
     "raw": {
       "id": 146976,
       "url": "https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes",
@@ -1273,7 +1530,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T16:05:22+00:00",
-    "fetched_at": "2026-06-18T20:01:58.158Z",
+    "fetched_at": "2026-06-19T02:35:00.469Z",
     "raw": {
       "id": 146917,
       "url": "https://jobicy.com/jobs/146917-implementation-engineer",
@@ -1326,7 +1583,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T07:03:36+00:00",
-    "fetched_at": "2026-06-18T20:01:58.159Z",
+    "fetched_at": "2026-06-19T02:35:00.470Z",
     "raw": {
       "id": 146875,
       "url": "https://jobicy.com/jobs/146875-semi-senior-back-end-python-engineer-e-learning",
@@ -1369,7 +1626,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:19:45+00:00",
-    "fetched_at": "2026-06-18T20:01:58.160Z",
+    "fetched_at": "2026-06-19T02:35:00.470Z",
     "raw": {
       "id": 146848,
       "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
@@ -1425,7 +1682,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:34+00:00",
-    "fetched_at": "2026-06-18T20:01:58.161Z",
+    "fetched_at": "2026-06-19T02:35:00.472Z",
     "raw": {
       "id": 146800,
       "url": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl",
@@ -1475,7 +1732,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-16T04:07:29+00:00",
-    "fetched_at": "2026-06-18T20:01:58.162Z",
+    "fetched_at": "2026-06-19T02:35:00.472Z",
     "raw": {
       "id": 146795,
       "url": "https://jobicy.com/jobs/146795-front-end-developer-2",
@@ -1521,7 +1778,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:07:28+00:00",
-    "fetched_at": "2026-06-18T20:01:58.163Z",
+    "fetched_at": "2026-06-19T02:35:00.473Z",
     "raw": {
       "id": 146792,
       "url": "https://jobicy.com/jobs/146792-c-developer-tech-lead-image-processing",
@@ -1577,7 +1834,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:07:27+00:00",
-    "fetched_at": "2026-06-18T20:01:58.164Z",
+    "fetched_at": "2026-06-19T02:35:00.474Z",
     "raw": {
       "id": 146791,
       "url": "https://jobicy.com/jobs/146791-senior-fullstack-engineer-java-vue",
@@ -1624,7 +1881,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:25+00:00",
-    "fetched_at": "2026-06-18T20:01:58.165Z",
+    "fetched_at": "2026-06-19T02:35:00.475Z",
     "raw": {
       "id": 146790,
       "url": "https://jobicy.com/jobs/146790-senior-qa-automation-engineer-3",
@@ -1671,7 +1928,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:04+00:00",
-    "fetched_at": "2026-06-18T20:01:58.166Z",
+    "fetched_at": "2026-06-19T02:35:00.476Z",
     "raw": {
       "id": 146761,
       "url": "https://jobicy.com/jobs/146761-danish-tech-linguistic-tester",
@@ -1718,7 +1975,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:02+00:00",
-    "fetched_at": "2026-06-18T20:01:58.167Z",
+    "fetched_at": "2026-06-19T02:35:00.477Z",
     "raw": {
       "id": 146760,
       "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
@@ -1765,7 +2022,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:01+00:00",
-    "fetched_at": "2026-06-18T20:01:58.168Z",
+    "fetched_at": "2026-06-19T02:35:00.478Z",
     "raw": {
       "id": 146757,
       "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
@@ -1818,7 +2075,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:06:56+00:00",
-    "fetched_at": "2026-06-18T20:01:58.169Z",
+    "fetched_at": "2026-06-19T02:35:00.479Z",
     "raw": {
       "id": 146750,
       "url": "https://jobicy.com/jobs/146750-staff-product-engineer-europe",
@@ -1871,7 +2128,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:06:53+00:00",
-    "fetched_at": "2026-06-18T20:01:58.171Z",
+    "fetched_at": "2026-06-19T02:35:00.480Z",
     "raw": {
       "id": 146746,
       "url": "https://jobicy.com/jobs/146746-senior-product-engineer-europe",
@@ -1920,7 +2177,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:56:22+00:00",
-    "fetched_at": "2026-06-18T20:01:58.174Z",
+    "fetched_at": "2026-06-19T02:35:00.484Z",
     "raw": {
       "id": 146727,
       "url": "https://jobicy.com/jobs/146727-assistant-director-data-engineering-2",
@@ -1973,7 +2230,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:55:46+00:00",
-    "fetched_at": "2026-06-18T20:01:58.175Z",
+    "fetched_at": "2026-06-19T02:35:00.485Z",
     "raw": {
       "id": 146685,
       "url": "https://jobicy.com/jobs/146685-automation-engineer-shreveport-la",
@@ -2018,7 +2275,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-16T03:42:18+00:00",
-    "fetched_at": "2026-06-18T20:01:58.176Z",
+    "fetched_at": "2026-06-19T02:35:00.486Z",
     "raw": {
       "id": 146663,
       "url": "https://jobicy.com/jobs/146663-sr-synon-developer",
@@ -2061,7 +2318,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:31:37+00:00",
-    "fetched_at": "2026-06-18T20:01:58.177Z",
+    "fetched_at": "2026-06-19T02:35:00.487Z",
     "raw": {
       "id": 146657,
       "url": "https://jobicy.com/jobs/146657-associate-application-engineer",
@@ -2116,7 +2373,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:24:07+00:00",
-    "fetched_at": "2026-06-18T20:01:58.179Z",
+    "fetched_at": "2026-06-19T02:35:00.488Z",
     "raw": {
       "id": 146649,
       "url": "https://jobicy.com/jobs/146649-staff-software-engineer-ai-infrastructure-python",
@@ -2169,7 +2426,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:45:44+00:00",
-    "fetched_at": "2026-06-18T20:01:58.180Z",
+    "fetched_at": "2026-06-19T02:35:00.489Z",
     "raw": {
       "id": 146614,
       "url": "https://jobicy.com/jobs/146614-database-engineer",
@@ -2219,7 +2476,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:45:43+00:00",
-    "fetched_at": "2026-06-18T20:01:58.182Z",
+    "fetched_at": "2026-06-19T02:35:00.491Z",
     "raw": {
       "id": 146613,
       "url": "https://jobicy.com/jobs/146613-senior-software-engineer-sustaining-automation-2",
@@ -2268,7 +2525,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:40:02+00:00",
-    "fetched_at": "2026-06-18T20:01:58.183Z",
+    "fetched_at": "2026-06-19T02:35:00.492Z",
     "raw": {
       "id": 146611,
       "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
@@ -2324,7 +2581,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T08:06:42+00:00",
-    "fetched_at": "2026-06-18T20:01:58.184Z",
+    "fetched_at": "2026-06-19T02:35:00.493Z",
     "raw": {
       "id": 146549,
       "url": "https://jobicy.com/jobs/146549-senior-backend-engineer-typescript-nodejs-aws",
@@ -2378,7 +2635,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:44:51+00:00",
-    "fetched_at": "2026-06-18T20:01:58.187Z",
+    "fetched_at": "2026-06-19T02:35:00.496Z",
     "raw": {
       "id": 146310,
       "url": "https://jobicy.com/jobs/146310-staff-software-engineer-2",
@@ -2425,7 +2682,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:30:15+00:00",
-    "fetched_at": "2026-06-18T20:01:58.188Z",
+    "fetched_at": "2026-06-19T02:35:00.498Z",
     "raw": {
       "id": 146306,
       "url": "https://jobicy.com/jobs/146306-senior-qa-engineer-software",
@@ -2478,7 +2735,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:30:07+00:00",
-    "fetched_at": "2026-06-18T20:01:58.189Z",
+    "fetched_at": "2026-06-19T02:35:00.499Z",
     "raw": {
       "id": 146301,
       "url": "https://jobicy.com/jobs/146301-full-stack-engineer-4",
@@ -2536,7 +2793,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:57+00:00",
-    "fetched_at": "2026-06-18T20:01:58.191Z",
+    "fetched_at": "2026-06-19T02:35:00.500Z",
     "raw": {
       "id": 146294,
       "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
@@ -2590,7 +2847,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:55+00:00",
-    "fetched_at": "2026-06-18T20:01:58.192Z",
+    "fetched_at": "2026-06-19T02:35:00.501Z",
     "raw": {
       "id": 146293,
       "url": "https://jobicy.com/jobs/146293-senior-full-stack-engineer-net-angular-asp-net-focus-govtech-hr-software-latam",
@@ -2641,7 +2898,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:51+00:00",
-    "fetched_at": "2026-06-18T20:01:58.193Z",
+    "fetched_at": "2026-06-19T02:35:00.502Z",
     "raw": {
       "id": 146290,
       "url": "https://jobicy.com/jobs/146290-hands-on-tech-lead-proptech-real-estate-media",
@@ -2694,7 +2951,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:42+00:00",
-    "fetched_at": "2026-06-18T20:01:58.194Z",
+    "fetched_at": "2026-06-19T02:35:00.503Z",
     "raw": {
       "id": 146285,
       "url": "https://jobicy.com/jobs/146285-senior-full-stack-engineer-net-asp-net-technology",
@@ -2750,7 +3007,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:39+00:00",
-    "fetched_at": "2026-06-18T20:01:58.195Z",
+    "fetched_at": "2026-06-19T02:35:00.504Z",
     "raw": {
       "id": 146283,
       "url": "https://jobicy.com/jobs/146283-senior-full-stack-engineer-react-or-vue-python-investment-latam",
@@ -2798,7 +3055,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:27+00:00",
-    "fetched_at": "2026-06-18T20:01:58.196Z",
+    "fetched_at": "2026-06-19T02:35:00.505Z",
     "raw": {
       "id": 146276,
       "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
@@ -2851,7 +3108,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:24+00:00",
-    "fetched_at": "2026-06-18T20:01:58.198Z",
+    "fetched_at": "2026-06-19T02:35:00.506Z",
     "raw": {
       "id": 146274,
       "url": "https://jobicy.com/jobs/146274-lead-product-engineer-javascript-technology-company",
@@ -2899,7 +3156,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:19+00:00",
-    "fetched_at": "2026-06-18T20:01:58.199Z",
+    "fetched_at": "2026-06-19T02:35:00.507Z",
     "raw": {
       "id": 146271,
       "url": "https://jobicy.com/jobs/146271-forward-deployed-engineer-technology",
@@ -2946,7 +3203,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:17+00:00",
-    "fetched_at": "2026-06-18T20:01:58.200Z",
+    "fetched_at": "2026-06-19T02:35:00.508Z",
     "raw": {
       "id": 146270,
       "url": "https://jobicy.com/jobs/146270-principal-full-stack-engineer-net-angular-govtech",
@@ -2993,7 +3250,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:29:16+00:00",
-    "fetched_at": "2026-06-18T20:01:58.201Z",
+    "fetched_at": "2026-06-19T02:35:00.509Z",
     "raw": {
       "id": 146269,
       "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
@@ -3040,7 +3297,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:29:14+00:00",
-    "fetched_at": "2026-06-18T20:01:58.202Z",
+    "fetched_at": "2026-06-19T02:35:00.510Z",
     "raw": {
       "id": 146268,
       "url": "https://jobicy.com/jobs/146268-senior-sdet-govtech-industry",
@@ -3086,7 +3343,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:11+00:00",
-    "fetched_at": "2026-06-18T20:01:58.203Z",
+    "fetched_at": "2026-06-19T02:35:00.511Z",
     "raw": {
       "id": 146266,
       "url": "https://jobicy.com/jobs/146266-salesforce-technical-lead",
@@ -3136,7 +3393,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:09+00:00",
-    "fetched_at": "2026-06-18T20:01:58.204Z",
+    "fetched_at": "2026-06-19T02:35:00.512Z",
     "raw": {
       "id": 146265,
       "url": "https://jobicy.com/jobs/146265-lead-front-end-engineer-digital-agency-latam",
@@ -3189,7 +3446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:08+00:00",
-    "fetched_at": "2026-06-18T20:01:58.205Z",
+    "fetched_at": "2026-06-19T02:35:00.513Z",
     "raw": {
       "id": 146264,
       "url": "https://jobicy.com/jobs/146264-senior-fullstack-engineer-c-react-ecommerce-latam",
@@ -3251,7 +3508,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:55+00:00",
-    "fetched_at": "2026-06-18T20:01:58.207Z",
+    "fetched_at": "2026-06-19T02:35:00.515Z",
     "raw": {
       "id": 146260,
       "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
@@ -3307,7 +3564,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:54+00:00",
-    "fetched_at": "2026-06-18T20:01:58.208Z",
+    "fetched_at": "2026-06-19T02:35:00.516Z",
     "raw": {
       "id": 146259,
       "url": "https://jobicy.com/jobs/146259-net-developer",
@@ -3350,7 +3607,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:41+00:00",
-    "fetched_at": "2026-06-18T20:01:58.208Z",
+    "fetched_at": "2026-06-19T02:35:00.516Z",
     "raw": {
       "id": 146251,
       "url": "https://jobicy.com/jobs/146251-full-stack-developer-4",
@@ -3400,7 +3657,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:39+00:00",
-    "fetched_at": "2026-06-18T20:01:58.209Z",
+    "fetched_at": "2026-06-19T02:35:00.517Z",
     "raw": {
       "id": 146250,
       "url": "https://jobicy.com/jobs/146250-solution-architect",
@@ -3455,7 +3712,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T07:19:06+00:00",
-    "fetched_at": "2026-06-18T20:01:58.211Z",
+    "fetched_at": "2026-06-19T02:35:00.518Z",
     "raw": {
       "id": 146232,
       "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
@@ -3502,7 +3759,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:42+00:00",
-    "fetched_at": "2026-06-18T20:01:58.212Z",
+    "fetched_at": "2026-06-19T02:35:00.520Z",
     "raw": {
       "id": 146203,
       "url": "https://jobicy.com/jobs/146203-advisory-engineer-hardware-hpsc",
@@ -3554,7 +3811,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:41+00:00",
-    "fetched_at": "2026-06-18T20:01:58.214Z",
+    "fetched_at": "2026-06-19T02:35:00.521Z",
     "raw": {
       "id": 146202,
       "url": "https://jobicy.com/jobs/146202-senior-software-engineer-event-sourcing-stream-processing",
@@ -3608,7 +3865,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:38+00:00",
-    "fetched_at": "2026-06-18T20:01:58.215Z",
+    "fetched_at": "2026-06-19T02:35:00.523Z",
     "raw": {
       "id": 146200,
       "url": "https://jobicy.com/jobs/146200-sr-solutions-architect-agencies",
@@ -3655,7 +3912,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:27+00:00",
-    "fetched_at": "2026-06-18T20:01:58.216Z",
+    "fetched_at": "2026-06-19T02:35:00.525Z",
     "raw": {
       "id": 146194,
       "url": "https://jobicy.com/jobs/146194-electrical-engineer",
@@ -3702,7 +3959,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:24+00:00",
-    "fetched_at": "2026-06-18T20:01:58.218Z",
+    "fetched_at": "2026-06-19T02:35:00.526Z",
     "raw": {
       "id": 146192,
       "url": "https://jobicy.com/jobs/146192-mechanical-engineer",
@@ -3752,7 +4009,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:22+00:00",
-    "fetched_at": "2026-06-18T20:01:58.219Z",
+    "fetched_at": "2026-06-19T02:35:00.527Z",
     "raw": {
       "id": 146191,
       "url": "https://jobicy.com/jobs/146191-network-engineer",
@@ -3811,7 +4068,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-11T14:05:20+00:00",
-    "fetched_at": "2026-06-18T20:01:58.219Z",
+    "fetched_at": "2026-06-19T02:35:00.527Z",
     "raw": {
       "id": 146187,
       "url": "https://jobicy.com/jobs/146187-senior-qa-engineer-%e5%8c%ba%e5%9d%97%e9%93%be%e6%b5%8b%e8%af%95%e5%b7%a5%e7%a8%8b%e5%b8%88",
@@ -3856,7 +4113,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:55+00:00",
-    "fetched_at": "2026-06-18T20:01:58.220Z",
+    "fetched_at": "2026-06-19T02:35:00.528Z",
     "raw": {
       "id": 146128,
       "url": "https://jobicy.com/jobs/146128-electronics-engineer-2",
@@ -3903,7 +4160,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:53+00:00",
-    "fetched_at": "2026-06-18T20:01:58.222Z",
+    "fetched_at": "2026-06-19T02:35:00.529Z",
     "raw": {
       "id": 146127,
       "url": "https://jobicy.com/jobs/146127-naval-architect",
@@ -3950,7 +4207,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:51+00:00",
-    "fetched_at": "2026-06-18T20:01:58.223Z",
+    "fetched_at": "2026-06-19T02:35:00.530Z",
     "raw": {
       "id": 146126,
       "url": "https://jobicy.com/jobs/146126-structural-engineer",
@@ -4003,7 +4260,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:20:45+00:00",
-    "fetched_at": "2026-06-18T20:01:58.223Z",
+    "fetched_at": "2026-06-19T02:35:00.531Z",
     "raw": {
       "id": 146122,
       "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
@@ -4048,7 +4305,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:40+00:00",
-    "fetched_at": "2026-06-18T20:01:58.226Z",
+    "fetched_at": "2026-06-19T02:35:00.531Z",
     "raw": {
       "id": 146119,
       "url": "https://jobicy.com/jobs/146119-associate-it-engineer",
@@ -4105,7 +4362,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:20:38+00:00",
-    "fetched_at": "2026-06-18T20:01:58.226Z",
+    "fetched_at": "2026-06-19T02:35:00.532Z",
     "raw": {
       "id": 146118,
       "url": "https://jobicy.com/jobs/146118-application-programmer",
@@ -4154,7 +4411,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:35+00:00",
-    "fetched_at": "2026-06-18T20:01:58.227Z",
+    "fetched_at": "2026-06-19T02:35:00.533Z",
     "raw": {
       "id": 146116,
       "url": "https://jobicy.com/jobs/146116-cloud-application-technical-lead",
@@ -4197,7 +4454,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:34+00:00",
-    "fetched_at": "2026-06-18T20:01:58.228Z",
+    "fetched_at": "2026-06-19T02:35:00.533Z",
     "raw": {
       "id": 146115,
       "url": "https://jobicy.com/jobs/146115-software-systems-engineer",
@@ -4240,7 +4497,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-10T18:20:32+00:00",
-    "fetched_at": "2026-06-18T20:01:58.228Z",
+    "fetched_at": "2026-06-19T02:35:00.534Z",
     "raw": {
       "id": 146114,
       "url": "https://jobicy.com/jobs/146114-quality-assurance-specialist",
@@ -4292,7 +4549,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:07:02+00:00",
-    "fetched_at": "2026-06-18T20:01:58.230Z",
+    "fetched_at": "2026-06-19T02:35:00.535Z",
     "raw": {
       "id": 146097,
       "url": "https://jobicy.com/jobs/146097-senior-android-engineer-transactions",
@@ -4343,7 +4600,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:07:00+00:00",
-    "fetched_at": "2026-06-18T20:01:58.231Z",
+    "fetched_at": "2026-06-19T02:35:00.537Z",
     "raw": {
       "id": 146096,
       "url": "https://jobicy.com/jobs/146096-senior-android-engineer-shopper-activation-and-engagement",
@@ -4402,7 +4659,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:59+00:00",
-    "fetched_at": "2026-06-18T20:01:58.232Z",
+    "fetched_at": "2026-06-19T02:35:00.538Z",
     "raw": {
       "id": 146095,
       "url": "https://jobicy.com/jobs/146095-staff-software-engineer-metamask-money-movement",
@@ -4456,7 +4713,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:49+00:00",
-    "fetched_at": "2026-06-18T20:01:58.234Z",
+    "fetched_at": "2026-06-19T02:35:00.540Z",
     "raw": {
       "id": 146089,
       "url": "https://jobicy.com/jobs/146089-staff-software-engineer-platform-syseng-canada-remote",
@@ -4509,7 +4766,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:43+00:00",
-    "fetched_at": "2026-06-18T20:01:58.236Z",
+    "fetched_at": "2026-06-19T02:35:00.541Z",
     "raw": {
       "id": 146085,
       "url": "https://jobicy.com/jobs/146085-staff-software-developer-2",
@@ -4565,7 +4822,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:35+00:00",
-    "fetched_at": "2026-06-18T20:01:58.237Z",
+    "fetched_at": "2026-06-19T02:35:00.542Z",
     "raw": {
       "id": 146081,
       "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
@@ -4612,7 +4869,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:06:26+00:00",
-    "fetched_at": "2026-06-18T20:01:58.239Z",
+    "fetched_at": "2026-06-19T02:35:00.544Z",
     "raw": {
       "id": 146075,
       "url": "https://jobicy.com/jobs/146075-developer-intern-trust-platforms-fall-2026",
@@ -4663,7 +4920,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:06:24+00:00",
-    "fetched_at": "2026-06-18T20:01:58.240Z",
+    "fetched_at": "2026-06-19T02:35:00.545Z",
     "raw": {
       "id": 146074,
       "url": "https://jobicy.com/jobs/146074-developer-intern-front-end-platform-fall-2026",
@@ -4718,7 +4975,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:59+00:00",
-    "fetched_at": "2026-06-18T20:01:58.242Z",
+    "fetched_at": "2026-06-19T02:35:00.546Z",
     "raw": {
       "id": 146068,
       "url": "https://jobicy.com/jobs/146068-sr-software-engineer-react-native-pro",
@@ -4774,7 +5031,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T17:57:54+00:00",
-    "fetched_at": "2026-06-18T20:01:58.242Z",
+    "fetched_at": "2026-06-19T02:35:00.547Z",
     "raw": {
       "id": 146065,
       "url": "https://jobicy.com/jobs/146065-backend-engineer-node-js-prograd-uk",
@@ -4793,268 +5050,6 @@
       "jobExcerpt": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in...",
       "jobDescription": "<p><strong>GT was founded in 2019 by a former Apple, Nest, and Google executive.</strong> GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands.</p>\n<p>On behalf of <strong>Prograd</strong>, GT is looking for a <strong>Backend Engineer (Node.js) </strong>interested in building scalable systems and contributing to a fast-growing fintech platform.</p>\n<h2><strong>About the Client</strong></h2>\n<p><strong>Prograd</strong> is a <strong>fintech company</strong> that helps young people improve their financial literacy and make smarter financial decisions. The platform provides personalized job recommendations, side hustles, discounts, financial products, and educational content to support users on their financial journey.</p>\n<p><strong>Headquarters:</strong> UK</p>\n<p><strong>Industry:</strong> Fintech, EdTech</p>\n<p><strong>Focus:</strong> Personalized financial guidance for young people</p>\n<h2><strong>About the Role</strong></h2>\n<p>Become a part of an extraordinary journey in redefining young people’s perception of money. We are seeking a passionate and skilled <strong>Backend Engineer (Node.js)</strong> to join a dynamic Prograd's team and make an impact from day one. </p>\n<p>Their rapidly expanding startup, supported by Deloitte, is breaking new ground in a field often overlooked in traditional education, and we invite you to play a pivotal role in our journey of success.</p>\n<p>You will join forces with a Tech Lead to support and amplify our brand's backend systems. This is an exceptional chance for an ambitious and self-driven individual to join a rapidly growing and exciting company where your contributions will be genuinely valued.</p>\n<h2><strong>Essential knowledge, skills &amp; experience:</strong></h2>\n<ul>\n<li>\n<p><strong>At least 3 years of experience </strong>with<strong> Node.js</strong>, <strong>TypeScript</strong>, and <strong>JavaScript</strong></p>\n</li>\n<li>\n<p>APIs: Experience in designing and implementing GraphQL and REST APIs</p>\n</li>\n<li>\n<p>Database Management: Skills in SQL, PostgreSQL, and Prisma (or similar ORM)</p>\n</li>\n<li>\n<p>Cloud Infrastructure: Hands-on experience with <strong>AWS</strong> services and cloud deployment processes - <strong>must have</strong></p>\n</li>\n<li>\n<p>Event-Driven Architecture: Experience with event-driven systems (e.g., Inngest)</p>\n</li>\n<li>\n<p>Integrated Services: Experience with third-party integrations; understanding of OAuth and</p>\n<p>SSO protocols</p>\n</li>\n<li>\n<p>Patterns and Tooling: Experience with microservices, monorepos, and tools like Turborepo</p>\n</li>\n<li>\n<p><strong>Testing and CI/CD: Experience with automated testing frameworks and CI/CD pipelines</strong></p>\n</li>\n<li>\n<p><strong>Fluency in English</strong></p>\n</li>\n</ul>\n<h2><strong>Nice-to-have </strong></h2>\n<ul>\n<li>\n<p>Familiarity with React and Next.js.</p>\n</li>\n</ul>\n<h2><strong>Soft Skills</strong></h2>\n<ul>\n<li>\n<p>Collaboration and Communication: Excellent communication skills; ability to explain technical concepts to non-technical stakeholders</p>\n</li>\n<li>\n<p>Adaptability: Quick learner, comfortable in a fast-paced environment</p>\n</li>\n<li>\n<p>Independence and Initiative: Ability to independently ship features and proactively identify solutions</p>\n</li>\n<li>\n<p>Business Mindset: Understanding of business processes and aligning technical solutions with business goals</p>\n</li>\n<li>\n<p>Team Player: Strong team orientation, attention to detail, and commitment to quality</p>\n</li>\n<li>\n<p>Problem-Solving: Strong analytical and problem-solving abilities</p>\n</li>\n</ul>\n<h2><strong>Responsibilities</strong></h2>\n<ul>\n<li>\n<p>Build and maintain robust backend systems</p>\n</li>\n<li>\n<p>Design and implement GraphQL and REST APIs</p>\n</li>\n<li>\n<p>Manage database design and optimisation using SQL, PostgreSQL, and Prisma</p>\n</li>\n<li>\n<p>Develop and deploy cloud infrastructure with AWS</p>\n</li>\n<li>\n<p>Implement event-driven architectures. </p>\n</li>\n<li>\n<p>Integrate third-party services (Resend, Onfido, Clerk, Hubspot)</p>\n</li>\n<li>\n<p>Develop software following microservices and monorepo patterns</p>\n</li>\n<li>\n<p>Ensure high-quality software through automated testing and CI/CD pipelines</p>\n</li>\n<li>\n<p>Collaborate effectively with engineers and non-technical team members</p>\n</li>\n<li>\n<p>Troubleshoot and resolve complex technical issues</p>\n</li>\n</ul>\n<h2><strong>Interview Steps</strong></h2>\n<ol>\n<li>\n<p>GT interview with Recruiter</p>\n</li>\n<li>\n<p>Technical interview</p>\n</li>\n<li>\n<p>Culture fit interview (meeting with the Founder)</p>\n</li>\n<li>\n<p>Reference Check</p>\n</li>\n<li>\n<p>Offer</p>\n</li>\n</ol>",
       "pubDate": "2026-06-10T17:57:54+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146058",
-    "platform": "jobicy",
-    "external_id": "146058",
-    "title": "Senior Software Engineer (Game Engine)",
-    "company": "Playson",
-    "description": "About the Role We’re looking for a Senior Software Engineer to join a newly forming team that will own one of the most specialised and business-critical domains in our technology landscape - Game Engine. This role sits at the intersection of engineering, game mathematics, platform, and compliance. You’ll work on the tools, frameworks, and services that enable our mathematicians and game teams to build, validate, run, and monitor game logic in production. This position is about deep ownership of a very specific technical domain: game engines, mathematical packages, simulation data, RTP monitoring, round details, and integrations with games developed both internally and by external studios. You’ll be part of a small, experienced team with a high level of responsibility. The impact of this work is direct: incorrect game logic, missing round details, or inaccurate RTP monitoring can affect game delivery timelines, business performance, and regulatory readiness. If you enjoy working close to complex domain logic, reviewing technical implementations, understanding how games work under the hood, and owning systems where precision matters - this role will feel like home. Key Responsibilities Own, maintain, and evolve Playson’s Game Engine domain Work on internal frameworks and libraries used by mathematicians to implement game logic and mathematical packages. Review and validate code written by mathematicians, ensuring quality, correctness, maintainability, and proper usage of internal frameworks. Contribute to the development and support of game engines used to run mathematical logic within our platform. Support integrations with external game studios by helping build wrappers and bridges between third-party game implementations and Playson’s platform. Work with data structures and protocols that connect game logic with frontend and backend systems. Contribute to RTP monitoring processes, including validation of production transaction data against simulation data and expected mathematical behaviour. Support and evolve tools used for mathematical review, simulations, data files, monitoring, and alerting. Implement and maintain round details logic required for regulated markets, ensuring that detailed game round information can be correctly provided to partners and regulators. Collaborate closely with mathematicians, backend engineers, platform teams, compliance stakeholders, and product representatives. Participate in code reviews and technical discussions to ensure a high engineering standard across the Game Engine domain. Investigate issues related to game logic, mathematical validation, monitoring, and engine behaviour. Participate in minimal on-call responsibilities related to the systems owned by the team, mainly around monitoring, alerts, and domain-specific incidents. Take ownership of a highly specialised area where quality, accuracy, and attention to detail are essential. Requirements Strong software engineering experience, ideally in backend, game engine, gaming, gambling, betting, or simulation-heavy environments. Solid experience with Node.js/TypeScript, or strong expertise in another OOP language such as C++, Java, C#, Go, or Python. Good understanding of software architecture, code quality, testing, debugging, and maintainability. Experience reviewing complex code and providing clear technical feedback. Ability to understand domain-specific logic and work with technical systems where business rules, mathematics, and engineering are closely connected. Strong problem-solving skills and ability to work with complex, non-standard technical challenges. Experience working with production systems where reliability, accuracy, and correctness are critical. Understanding of backend systems, APIs, data flows, and service-to-service communication. Ability to collaborate closely with non-engineering technical experts, especially mathematicians or domain specialists. Strong ownership mindset and willingness to become a key expert in a narrow but highly important technical domain. Product-oriented thinking, with an understanding that games are the core product and engineering decisions directly affect delivery, quality, and compliance. English communication skills sufficient for working in an international environment. Nice to Have Experience in iGaming, gambling, betting, game development, or casino games. Experience working with game engines, mathematical engines, simulation tools, or game logic frameworks. Background in C++ or experience working with legacy C++ systems. Experience with mathematical models, probability-based systems, simulations, random generators, or RTP-related logic. Understanding of regulated markets and compliance requirements in iGaming. Experience with ClickHouse or other analytical/columnar databases. Experience with monitoring, alerting, and production diagnostics. Experience with AI-assisted code review or automated validation tools. Knowledge of microservices architecture and distributed systems. Familiarity with Kafka, gRPC, Kubernetes, or AWS. Experience integrating third-party games, external studio products, or wrapper-based solutions. Ukrainian language skills would be a plus. What We Offer Competitive Salary: We offer a competitive salary in EUR, subject to annual performance reviews Quarterly Bonuses: Benefit from a transparent and systematic quarterly bonus system Flexible Schedule: We offer a flexible work schedule to accommodate your needs Remote Work Option: Choose to work remotely, providing greater flexibility and comfort Medical Insurance: Receive comprehensive medical insurance for both you and a significant other Financial Support for Life Events: We provide financial support during special life events Unlimited Paid Vacation: Enjoy unlimited paid vacation leave Unlimited Paid Sick Leave: Take unlimited paid sick leave whenever necessary Professional Development: Get reimbursement for professional development courses and training Recruitment Process HR interview Technical interview (with Live coding) Final interview Join us today!",
-    "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Europe",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "python",
-      "java",
-      "nodejs",
-      "clickhouse",
-      "aws",
-      "kubernetes",
-      "kafka",
-      "grpc"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-10T17:57:43+00:00",
-    "fetched_at": "2026-06-18T20:01:58.244Z",
-    "raw": {
-      "id": 146058,
-      "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
-      "jobSlug": "146058-senior-software-engineer-game-engine",
-      "jobTitle": "Senior Software Engineer (Game Engine)",
-      "companyName": "Playson",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6f266d9c-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Europe",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About the RoleWe’re looking for a Senior Software Engineer to join a newly forming team that will own one of the most specialised and business-critical domains in our technology landscape...",
-      "jobDescription": "<p><strong>About the Role</strong></p>\n<p>We’re looking for a Senior Software Engineer to join a newly forming team that will own one of the most specialised and business-critical domains in our technology landscape - Game Engine.</p>\n<p>This role sits at the intersection of engineering, game mathematics, platform, and compliance. You’ll work on the tools, frameworks, and services that enable our mathematicians and game teams to build, validate, run, and monitor game logic in production.</p>\n<p>This position is about deep ownership of a very specific technical domain: game engines, mathematical packages, simulation data, RTP monitoring, round details, and integrations with games developed both internally and by external studios.</p>\n<p>You’ll be part of a small, experienced team with a high level of responsibility. The impact of this work is direct: incorrect game logic, missing round details, or inaccurate RTP monitoring can affect game delivery timelines, business performance, and regulatory readiness.</p>\n<p>If you enjoy working close to complex domain logic, reviewing technical implementations, understanding how games work under the hood, and owning systems where precision matters - this role will feel like home.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>\n<p>Own, maintain, and evolve Playson’s Game Engine domain</p>\n</li>\n<li>\n<p>Work on internal frameworks and libraries used by mathematicians to implement game logic and mathematical packages.</p>\n</li>\n<li>\n<p>Review and validate code written by mathematicians, ensuring quality, correctness, maintainability, and proper usage of internal frameworks.</p>\n</li>\n<li>\n<p>Contribute to the development and support of game engines used to run mathematical logic within our platform.</p>\n</li>\n<li>\n<p>Support integrations with external game studios by helping build wrappers and bridges between third-party game implementations and Playson’s platform.</p>\n</li>\n<li>\n<p>Work with data structures and protocols that connect game logic with frontend and backend systems.</p>\n</li>\n<li>\n<p>Contribute to RTP monitoring processes, including validation of production transaction data against simulation data and expected mathematical behaviour.</p>\n</li>\n<li>\n<p>Support and evolve tools used for mathematical review, simulations, data files, monitoring, and alerting.</p>\n</li>\n<li>\n<p>Implement and maintain round details logic required for regulated markets, ensuring that detailed game round information can be correctly provided to partners and regulators.</p>\n</li>\n<li>\n<p>Collaborate closely with mathematicians, backend engineers, platform teams, compliance stakeholders, and product representatives.</p>\n</li>\n<li>\n<p>Participate in code reviews and technical discussions to ensure a high engineering standard across the Game Engine domain.</p>\n</li>\n<li>\n<p>Investigate issues related to game logic, mathematical validation, monitoring, and engine behaviour.</p>\n</li>\n<li>\n<p>Participate in minimal on-call responsibilities related to the systems owned by the team, mainly around monitoring, alerts, and domain-specific incidents.</p>\n</li>\n<li>\n<p>Take ownership of a highly specialised area where quality, accuracy, and attention to detail are essential.</p>\n</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li>\n<p>Strong software engineering experience, ideally in backend, game engine, gaming, gambling, betting, or simulation-heavy environments.</p>\n</li>\n<li>\n<p>Solid experience with Node.js/TypeScript, or strong expertise in another OOP language such as C++, Java, C#, Go, or Python.</p>\n</li>\n<li>\n<p>Good understanding of software architecture, code quality, testing, debugging, and maintainability.</p>\n</li>\n<li>\n<p>Experience reviewing complex code and providing clear technical feedback.</p>\n</li>\n<li>\n<p>Ability to understand domain-specific logic and work with technical systems where business rules, mathematics, and engineering are closely connected.</p>\n</li>\n<li>\n<p>Strong problem-solving skills and ability to work with complex, non-standard technical challenges.</p>\n</li>\n<li>\n<p>Experience working with production systems where reliability, accuracy, and correctness are critical.</p>\n</li>\n<li>\n<p>Understanding of backend systems, APIs, data flows, and service-to-service communication.</p>\n</li>\n<li>\n<p>Ability to collaborate closely with non-engineering technical experts, especially mathematicians or domain specialists.</p>\n</li>\n<li>\n<p>Strong ownership mindset and willingness to become a key expert in a narrow but highly important technical domain.</p>\n</li>\n<li>\n<p>Product-oriented thinking, with an understanding that games are the core product and engineering decisions directly affect delivery, quality, and compliance.</p>\n</li>\n<li>\n<p>English communication skills sufficient for working in an international environment.</p>\n</li>\n</ul>\n<p><strong>Nice to Have</strong></p>\n<ul>\n<li>\n<p>Experience in iGaming, gambling, betting, game development, or casino games.</p>\n</li>\n<li>\n<p>Experience working with game engines, mathematical engines, simulation tools, or game logic frameworks.</p>\n</li>\n<li>\n<p>Background in C++ or experience working with legacy C++ systems.</p>\n</li>\n<li>\n<p>Experience with mathematical models, probability-based systems, simulations, random generators, or RTP-related logic.</p>\n</li>\n<li>\n<p>Understanding of regulated markets and compliance requirements in iGaming.</p>\n</li>\n<li>\n<p>Experience with ClickHouse or other analytical/columnar databases.</p>\n</li>\n<li>\n<p>Experience with monitoring, alerting, and production diagnostics.</p>\n</li>\n<li>\n<p>Experience with AI-assisted code review or automated validation tools.</p>\n</li>\n<li>\n<p>Knowledge of microservices architecture and distributed systems.</p>\n</li>\n<li>\n<p>Familiarity with Kafka, gRPC, Kubernetes, or AWS.</p>\n</li>\n<li>\n<p>Experience integrating third-party games, external studio products, or wrapper-based solutions.</p>\n</li>\n<li>\n<p>Ukrainian language skills would be a plus.</p>\n</li>\n</ul>\n<p><strong>What We Offer</strong></p>\n<ul>\n<li>\n<p><strong>Competitive Salary:</strong> We offer a competitive salary in EUR, subject to annual performance reviews</p>\n</li>\n<li>\n<p><strong>Quarterly Bonuses:</strong> Benefit from a transparent and systematic quarterly bonus system</p>\n</li>\n<li>\n<p><strong>Flexible Schedule:</strong> We offer a flexible work schedule to accommodate your needs</p>\n</li>\n<li>\n<p><strong>Remote Work Option:</strong> Choose to work remotely, providing greater flexibility and comfort</p>\n</li>\n<li>\n<p><strong>Medical Insurance:</strong> Receive comprehensive medical insurance for both you and a significant other</p>\n</li>\n<li>\n<p><strong>Financial Support for Life Events:</strong> We provide financial support during special life events</p>\n</li>\n<li>\n<p><strong>Unlimited Paid Vacation:</strong> Enjoy unlimited paid vacation leave</p>\n</li>\n<li>\n<p><strong>Unlimited Paid Sick Leave:</strong> Take unlimited paid sick leave whenever necessary</p>\n</li>\n<li>\n<p><strong>Professional Development:</strong> Get reimbursement for professional development courses and training</p>\n</li>\n</ul>\n<p><strong>Recruitment Process</strong></p>\n<ul>\n<li>\n<p>HR interview</p>\n</li>\n<li>\n<p>Technical interview (with Live coding)</p>\n</li>\n<li>\n<p>Final interview </p>\n</li>\n</ul>\n<p><strong>Join us today!</strong></p>",
-      "pubDate": "2026-06-10T17:57:43+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146031",
-    "platform": "jobicy",
-    "external_id": "146031",
-    "title": "Senior SDE",
-    "company": "EDB",
-    "description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally and as the leading contributor to the vibrant and fast-growing PostgreSQL community, EDB supports major government organizations, financial services, media and information technology companies. EDB’s data-driven solutions enable customers to modernize legacy systems and break data silos while leveraging enterprise-grade open source technologies. EDB delivers the confidence of up to 99.999% high availability with mission critical capabilities built in such as security, compliance controls, and observability. For more information, visit www.enterprisedb.com N ote: Candidates who are based in Europe/UK right now We are in search of a talented frontend developer with a strong background in systems and data integration. Our team leverages databases, event streaming, Cloud Service Provider (CSP) services, and EDB software to create fault-tolerant and high-performance data solutions. We're looking for candidates who are passionate about exploring cutting-edge literature and technologies in machine learning, analytics, and data engineering to enhance our transactional systems excellence. In this role, you'll work with EDB's data integration and migration team to deliver next-generation data movement and integrated data platform solutions to our customers. Together, we'll build systems that not only attract customers to Postgres but also amplify the value of their data. What your impact will be: Develop frontend systems that power exceptional user experiences by working closely with backend engineers, designers, and product management Collaborate with our globally distributed engineering team using tools like GitHub, Jira, and Slack Participate in all stages of the product development life cycle spanning ideation, design, implementation, testing, deployment, and operation Contribute to continuous improvement of our platform through knowledge sharing and mentoring within the team and across EDB organizations Approach problem-solving with an inquisitive, innovative, and detail-oriented mindset while maintaining a focus on delivering value to our customers What you will bring: 3+ years' experience in a front-end development role using React and TypeScript Proficiency in building web applications that interact with services using HTTP REST APIs Experience with Playwright or other browser-based testing automation tools Sense of ownership over the products you build Being comfortable working iteratively in our lightweight Scrum process and open to feedback from others Calm and methodical approach with good communication skills What will give you an edge: Experience with building UIs based on Figma designs Experience with configuring frontend build tooling (ESLint, prettier, tsc, vite) Experience with GitHub Actions or other CI systems Attention to detail and user experience Experience with Docker and related container-based tools Experience with deploying and operating software on Kubernetes Understanding of the Postgres ecosystem and experience developing against Postgres Experience working with Oracle database systems, especially change-data-capture and REDO log interactions Involvement in OSS communities (not just Postgres, though that’s a double plus!) EDB is committed to supporting our employees' overall well being by offering a range of benefits and resources to promote a healthy work-life balance and wellness. We provide access to CuraLinc to aid employees in health and wellness tips and practices, as well as Wellness Fridays extending to December 2026! Check out our career site for more information on perks and benefits and reach out to our Talent Acquisition team for region specific benefits. We know it takes a unique mix of people and skills to help us in our mission to supercharge Postgres, and we understand that not everyone will check every box. We’d love to hear from you and we want you to apply! EDB is proud to be an equal opportunity workplace. We celebrate diversity and are committed to creating an inclusive environment for all employees. EDB was built on a commitment to trust and respect each other and to embrace an array of people and ideas. These values remain at the center of our culture and are key to our company’s integrity. EDB does not seek or accept unsolicited resumes or CVs from recruitment agencies. EDB and its affiliates are not responsible for, and will not pay, any fees, commissions, or any other similar payment related to unsolicited resumes or CVs except as required in a written signed agreement between EDB and the recruitment agency or party requesting payment of a fee. #LI-Remote",
-    "url": "https://jobicy.com/jobs/146031-senior-sde",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "EMEA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "react",
-      "postgresql",
-      "oracle",
-      "docker",
-      "kubernetes",
-      "github-actions",
-      "machine-learning",
-      "playwright",
-      "vite",
-      "figma"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-10T17:28:49+00:00",
-    "fetched_at": "2026-06-18T20:01:58.245Z",
-    "raw": {
-      "id": 146031,
-      "url": "https://jobicy.com/jobs/146031-senior-sde",
-      "jobSlug": "146031-senior-sde",
-      "jobTitle": "Senior SDE",
-      "companyName": "EDB",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6c7d3949-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "EMEA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud,...",
-      "jobDescription": "<div>\n<p><strong>A Little About Us</strong></p>\n<p>EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally and as the leading contributor to the vibrant and fast-growing PostgreSQL community, EDB supports major government organizations, financial services, media and information technology companies. EDB’s data-driven solutions enable customers to modernize legacy systems and break data silos while leveraging enterprise-grade open source technologies. EDB delivers the confidence of up to 99.999% high availability with mission critical capabilities built in such as security, compliance controls, and observability. For more information, visit <a href=\"http://www.enterprisedb.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">www.enterprisedb.com</a></p>\n</div>\n<p>N<strong>ote: </strong>Candidates who are based in Europe/UK right now</p>\n<p>We are in search of a talented frontend developer with a strong background in systems and data integration. Our team leverages databases, event streaming, Cloud Service Provider (CSP) services, and EDB software to create fault-tolerant and high-performance data solutions. We're looking for candidates who are passionate about exploring cutting-edge literature and technologies in machine learning, analytics, and data engineering to enhance our transactional systems excellence.</p>\n<p>In this role, you'll work with EDB's data integration and migration team to deliver next-generation data movement and integrated data platform solutions to our customers. Together, we'll build systems that not only attract customers to Postgres but also amplify the value of their data.</p>\n<p><strong>What your impact will be:</strong></p>\n<ul>\n<li>Develop frontend systems that power exceptional user experiences by working closely with backend engineers, designers, and product management</li>\n<li>Collaborate with our globally distributed engineering team using tools like GitHub, Jira, and Slack </li>\n<li>Participate in all stages of the product development life cycle spanning ideation, design, implementation, testing, deployment, and operation</li>\n<li>Contribute to continuous improvement of our platform through knowledge sharing and mentoring within the team and across EDB organizations</li>\n<li>Approach problem-solving with an inquisitive, innovative, and detail-oriented mindset while maintaining a focus on delivering value to our customers</li>\n</ul>\n<p><strong>What you will bring:</strong></p>\n<ul>\n<li>3+ years' experience in a front-end development role using React and TypeScript</li>\n<li>Proficiency in building web applications that interact with services using HTTP REST APIs</li>\n<li>Experience with Playwright or other browser-based testing automation tools</li>\n<li>Sense of ownership over the products you build</li>\n<li>Being comfortable working iteratively in our lightweight Scrum process and open to feedback from others</li>\n<li>Calm and methodical approach with good communication skills</li>\n</ul>\n<p><strong>What will give you an edge:</strong></p>\n<ul>\n<li>Experience with building UIs based on Figma designs</li>\n<li>Experience with configuring frontend build tooling (ESLint, prettier, tsc, vite)</li>\n<li>Experience with GitHub Actions or other CI systems</li>\n<li>Attention to detail and user experience</li>\n<li>Experience with Docker and related container-based tools</li>\n<li>Experience with deploying and operating software on Kubernetes</li>\n<li>Understanding of the Postgres ecosystem and experience developing against Postgres</li>\n<li>Experience working with Oracle database systems, especially change-data-capture and REDO log interactions</li>\n<li>Involvement in OSS communities (not just Postgres, though that’s a double plus!)</li>\n</ul>\n<div>\n<p>EDB is committed to supporting our employees' overall well being by offering a range of benefits and resources to promote a healthy work-life balance and wellness. We provide access to CuraLinc to aid employees in health and wellness tips and practices, as well as Wellness Fridays extending to December 2026! Check out our career site for more information on perks and benefits and reach out to our Talent Acquisition team for region specific benefits.</p>\n<p>We know it takes a unique mix of people and skills to help us in our mission to supercharge Postgres, and we understand that not everyone will check every box. We’d love to hear from you and we want you to apply!</p>\n<p>EDB is proud to be an equal opportunity workplace. We celebrate diversity and are committed to creating an inclusive environment for all employees. EDB was built on a commitment to trust and respect each other and to embrace an array of people and ideas. These values remain at the center of our culture and are key to our company’s integrity. </p>\n<p>EDB does not seek or accept unsolicited resumes or CVs from recruitment agencies. EDB and its affiliates are not responsible for, and will not pay, any fees, commissions, or any other similar payment related to unsolicited resumes or CVs except as required in a written signed agreement between EDB and the recruitment agency or party requesting payment of a fee.</p>\n<p>#LI-Remote</p>\n</div>",
-      "pubDate": "2026-06-10T17:28:49+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146019",
-    "platform": "jobicy",
-    "external_id": "146019",
-    "title": "Freelance Software tester (Magenta TV, Poland)",
-    "company": "Testlio",
-    "description": "Hi there! We are Testlio, a global software testing company with its own freelance network. Our freelancers test apps from companies across the globe. Testlio is a great place for people who value the freedom and flexibility of remote work. At the moment, we are looking for freelance software testers based in Poland who own Magenta TV Subscriptions (with set-top-box), working on T-Mobile internet connection (broadband). If you have such a setup, we'd like to invite you to participate in our client's project, where we'll be testing their app to ensure the highest possible quality. Your work will help them improve their services for users such as yourself, as well as others throughout Poland. To participate in this project, you will need to create an account on our platform. Through this account, we can assign you testing tasks. You will be asked to use our website for defect tracking and will receive materials to prepare you for testing. Benefits of being a freelancer at Testlio Schedule: You can create your schedule and work on other testing runs that interest you. Location: Testlio is a 100% remote company. Seriously, you can work from the coffee shop, your home, or while waiting for class. Growth: You’ll be testing global-scale mobile apps and have the chance to boost your skills and grow your career. Payment: You are paid by the hour, not by the bug. This means you get paid even if you did not uncover any bugs. Requirements Age: You have to be at least 18 years old. Location: Must be physically located in Poland.. Availability: This is a freelance project, meaning that working hours are limited. At the moment, we'll be running this project throughout the month of June. We will assign tasks every week, sometimes several times per week. Devices: Magenta TV STB (set-top-box) working on a T-Mobile internet connection. We're also looking for someone who, in addition to the STB, has an iOS device. This is not a mandatory requirement, but nice to have. Experience: Software testing experience is a plus, but if you are new to testing, we offer free courses to help you learn and grow. We offer a preparatory course that will help you learn more about testing on our website. What does testing look like? Type of testing: functional, streaming testing. Type of work: short-term, freelance. Workload: Each testing task can last 2 to 4 hours . Pay rate: The hourly pay rate for this is 15 USD/hr. Bonus payrates are also available: $50 USD for participating in at least 1 test run. $25 USD for referring a friend who has the setup we are looking for! Payment: You are paid weekly via PayPal or Payoneer. We will send you the USD amount, which you can then transfer/convert to EUR if it is more convenient to you. How to start? Fill out the application below to start. From there, our team will get in touch with instructions about the next steps, which will include information on how to create a Testlio account and how to access the project. If you have any questions or need help, please contact Opportunities@testlio.com using the code MAGENTA PL in the Subject line/email body so we can quickly identify your request",
-    "url": "https://jobicy.com/jobs/146019-freelance-software-tester-magenta-tv-poland",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": null,
-    "location": "EMEA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "ios"
-    ],
-    "tags": [
-      "QA &amp; Testing"
-    ],
-    "posted_at": "2026-06-10T17:28:29+00:00",
-    "fetched_at": "2026-06-18T20:01:58.246Z",
-    "raw": {
-      "id": 146019,
-      "url": "https://jobicy.com/jobs/146019-freelance-software-tester-magenta-tv-poland",
-      "jobSlug": "146019-freelance-software-tester-magenta-tv-poland",
-      "jobTitle": "Freelance Software tester (Magenta TV, Poland)",
-      "companyName": "Testlio",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/11024036-221.png",
-      "jobIndustry": [
-        "QA &amp; Testing"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "EMEA",
-      "jobLevel": "Any",
-      "jobExcerpt": "Hi there! We are Testlio, a global software testing company with its own freelance network. Our freelancers test apps from companies across the globe. Testlio is a great place for...",
-      "jobDescription": "<p>Hi there! We are Testlio, a global software testing company with its own freelance network. Our freelancers test apps from companies across the globe. Testlio is a great place for people who value the freedom and flexibility of remote work.</p>\n<p>At the moment, we are looking for freelance software testers based in Poland who own Magenta TV Subscriptions (with set-top-box), working on T-Mobile internet connection (broadband). If you have such a setup, we'd like to invite you to participate in our client's project, where we'll be testing their app to ensure the highest possible quality. Your work will help them improve their services for users such as yourself, as well as others throughout Poland. </p>\n<p>To participate in this project, you will need to create an account on our platform. Through this account, we can assign you testing tasks. You will be asked to use our website for defect tracking and will receive materials to prepare you for testing.</p>\n<h2>Benefits of being a freelancer at Testlio</h2>\n<ul>\n<li>Schedule: You can create your schedule and work on other testing runs that interest you.</li>\n<li>Location: Testlio is a 100% remote company. Seriously, you can work from the coffee shop, your home, or while waiting for class.</li>\n<li>Growth: You’ll be testing global-scale mobile apps and have the chance to boost your skills and grow your career.</li>\n<li>Payment: You are paid by the hour, not by the bug. This means you get paid even if you did not uncover any bugs.</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>Age: You have to be at least 18 years old.</li>\n<li>Location: Must be physically located in Poland..</li>\n<li>Availability: This is a freelance project, meaning that working hours are limited. At the moment, we'll be running this project throughout the month of June. We will assign tasks every week, sometimes several times per week.</li>\n<li>Devices: Magenta TV STB (set-top-box) working on a T-Mobile internet connection.\n<ul>\n<li>We're also looking for someone who, in addition to the STB, has an iOS device. This is not a mandatory requirement, but nice to have. </li>\n</ul>\n</li>\n<li>Experience: Software testing experience is a plus, but if you are new to testing, we offer free courses to help you learn and grow. We offer a preparatory course that will help you learn more about testing on our website.</li>\n</ul>\n<h2>What does testing look like?</h2>\n<ul>\n<li>Type of testing: functional, streaming testing.</li>\n<li>Type of work: short-term, freelance.</li>\n<li>Workload: Each testing task can last<strong> 2 to 4 hours</strong>. </li>\n<li>Pay rate: The hourly pay rate for this is 15 USD/hr.\n<ul>\n<li>Bonus payrates are also available:\n<ul>\n<li>$50 USD for participating in at least 1 test run. </li>\n<li>$25 USD for referring a friend who has the setup we are looking for!</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Payment: You are paid weekly via PayPal or Payoneer.</li>\n<li>We will send you the USD amount, which you can then transfer/convert to EUR if it is more convenient to you.</li>\n</ul>\n<h2>How to start?</h2>\n<p>Fill out the application below to start. From there, our team will get in touch with instructions about the next steps, which will include information on how to create a Testlio account and how to access the project. </p>\n<p>If you have any questions or need help, please contact Opportunities@testlio.com using the code MAGENTA PL in the Subject line/email body so we can quickly identify your request</p>",
-      "pubDate": "2026-06-10T17:28:29+00:00",
-      "salaryMin": 30000,
-      "salaryMax": 30000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:145996",
-    "platform": "jobicy",
-    "external_id": "145996",
-    "title": "Customer Solutions Architect",
-    "company": "Fivetran",
-    "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About the Role We’re looking for a Customer Solutions Architect (CSA) to join our Enterprise team, focused on driving adoption, value realisation and expansion across our existing customer base. The CSA is the primary post-sales technical owner for Enterprise customers. Working alongside Account Executives (AEs) and Sales Engineers (SEs), the CSA ensures that customers not only successfully deploy Fivetran, but continue to scale and expand its usage over time. This role operates as a technical account manager and strategic advisor, acting as the bridge between initial onboarding success and long-term growth. The CSA owns the technical narrative post-go-live, guding customers through architecture evolution, adoption, and expansion initiatives.Unlike implementation-focused roles, the CSA is a non-billable, expansion-focused position, measured on driving incremental ARR, adoption, and Net Revenue Retention (NRR).You will act as a trusted advisor, advocate and accelerator for your customers - ensuring they derive maximum value from their data investments while aligning their technical roadmap with Fivetran’s platform capabilities. This is a full-time, remote position based in Japan. Technologies You’ll Work Databases: SAP HANA, Oracle, SQL Server, Postgres Data Platforms: Snowflake, Databricks, BigQuery, Redshift Languages: SQL, Python, bash or powershell Networking: SSH tunneling, VPNs, PrivateLink Modern Data Stack tools and ecosystem technologies What You’ll Do Customer Adoption &amp; Value Realisation Own post-sales technical engagement across assigned Enterprise accounts Drive adoption, optimisation and ongoing usage of Fivetran Deliver enablement sessions, workshops and best-practice guidance Monitor account health signals (usage, performance, support trends) and proactively intervene where needed Ensure customers move from initial deployment to sustained, scalable success Expansion &amp; Growth Enablement Identify, validate and execute expansion opportunities across business units, regions and use-cases Translate customer initiatives into scalable data workloads and technical solutions Partner with AEs to drive incremental ARR through structured expansion plays Lead technical validation of new workloads, including workshops and (where necessary) POCs Replicate successful use-cases across the organisation to accelerate growth Technical Strategy &amp; Architecture Act as the chief technical stakeholder for assigned accounts post-go-live Define and maintain Enterprise Reference Architectures aligned to customer environments Ensure architectural consistency and scalability across all implementations Guide customers on best practices for data pipelines, automation, and platform adoption Maintain technical artefacts such as architecture documentation, design patterns, and knowledge bases Stakeholder Engagement &amp; Alignment Build and maintain relationships with technical, operational and executive stakeholders Develop and maintain stakeholder maps and multi-threaded engagement strategies Run regular technical cadence calls, business reviews and roadmap sessions Align customer technical strategy with business objectives and commercial plans Internal &amp; Partner Collaboration Act as the technical orchestrator across Sales, Professional Services, Product and Engineering Advocate for customer needs internally, influencing product roadmap and priorities Collaborate with technology partners (e.g. Snowflake, Databricks, AWS, GCP) to drive joint value Ensure alignment between delivery teams and long-term expansion strategy Strategic Account Planning Contribute to Mutual Account Plans (MAPs) and own Mutual Success Plans (MSPs) Map whitespace opportunities across business units, subsidiaries and use-cases Maintain a structured view of expansion opportunities and workload pipelines Align technical execution with long-term account growth strategy Skills We’re Looking For Proven experience in a Solution Architect, Technical Account Manager, or similar customer-facing technical role Strong ability to own and drive customer outcomes post-sale, including adoption and expansion Experience designing scalable data architectures and working within modern data ecosystems Ability to translate business objectives into technical solutions and measurable outcomes Strong stakeholder management skills across technical and non-technical audiences Proactive, self-sufficient and highly organised approach to managing multiple accounts Comfortable operating strategically while also engaging in deep technical discussions Bonus Skills Experience working with cloud data platforms (Snowflake, Databricks, etc.) Background in data integration, ETL/ELT or replication technologies Experience with workload-based or consumption-based sales models Familiarity with enterprise architecture frameworks and design patterns Experience working with system integrators or technology partners #LI-REMOTE #LI-LA1 Perks and Benefits 100% employer-paid medical insurance * Generous paid time-off policy (PTO), plus paid sick time, inclusive parental leave policy, holidays, and volunteer days off RSU stock grants* Professional development and training opportunities Company virtual happy hours, free food, and fun team-building activities Monthly cell phone stipend Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents. * May vary by country and worker type - please reach out to your recruiter for more information Click here to learn more about Fivetran's Benefits by Region. We’re honored to be valued at over $5.6 billion , but more importantly, we’re proud of our core values of Get Stuck In, Do the Right Thing, and One Team, One Dream . Read about us in Forbes . Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities. To learn more about Fivetran’s culture and what it’s like to be part of the team, click here and enjoy our video. To learn more about our candidate privacy policy, you can read our statement here . We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this form . We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.",
-    "url": "https://jobicy.com/jobs/145996-customer-solutions-architect-2",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "APAC,  Japan",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "postgresql",
-      "oracle",
-      "sqlserver",
-      "aws",
-      "gcp",
-      "snowflake",
-      "databricks",
-      "bash"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-10T17:14:46+00:00",
-    "fetched_at": "2026-06-18T20:01:58.247Z",
-    "raw": {
-      "id": 145996,
-      "url": "https://jobicy.com/jobs/145996-customer-solutions-architect-2",
-      "jobSlug": "145996-customer-solutions-architect-2",
-      "jobTitle": "Customer Solutions Architect",
-      "companyName": "Fivetran",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/3b8e4532-221-1.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "APAC,  Japan",
-      "jobLevel": "Senior",
-      "jobExcerpt": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses,...",
-      "jobDescription": "<div>\n<p>From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p>\n</div>\n<p><strong>About the Role</strong></p>\n<p>We’re looking for a Customer Solutions Architect (CSA) to join our Enterprise team, focused on driving adoption, value realisation and expansion across our existing customer base. The CSA is the primary post-sales technical owner for Enterprise customers. Working alongside Account Executives (AEs) and Sales Engineers (SEs), the CSA ensures that customers not only successfully deploy Fivetran, but continue to scale and expand its usage over time.</p>\n<p>This role operates as a technical account manager and strategic advisor, acting as the bridge between initial onboarding success and long-term growth. The CSA owns the technical narrative post-go-live, guding customers through architecture evolution, adoption, and expansion initiatives.Unlike implementation-focused roles, the CSA is a non-billable, expansion-focused position, measured on driving incremental ARR, adoption, and Net Revenue Retention (NRR).You will act as a trusted advisor, advocate and accelerator for your customers - ensuring they derive maximum value from their data investments while aligning their technical roadmap with Fivetran’s platform capabilities.</p>\n<p>This is a full-time, remote position based in Japan.</p>\n<p><strong>Technologies You’ll Work </strong></p>\n<ul>\n<li>Databases: SAP HANA, Oracle, SQL Server, Postgres</li>\n<li>Data Platforms: Snowflake, Databricks, BigQuery, Redshift</li>\n<li>Languages: SQL, Python, bash or powershell</li>\n<li>Networking: SSH tunneling, VPNs, PrivateLink</li>\n<li>Modern Data Stack tools and ecosystem technologies</li>\n</ul>\n<p><strong>What You’ll Do<br /></strong></p>\n<p>Customer Adoption &amp; Value Realisation</p>\n<ul>\n<li>Own post-sales technical engagement across assigned Enterprise accounts</li>\n<li>Drive adoption, optimisation and ongoing usage of Fivetran</li>\n<li>Deliver enablement sessions, workshops and best-practice guidance</li>\n<li>Monitor account health signals (usage, performance, support trends) and proactively intervene where needed</li>\n<li>Ensure customers move from initial deployment to sustained, scalable success</li>\n</ul>\n<p>Expansion &amp; Growth Enablement</p>\n<ul>\n<li>Identify, validate and execute expansion opportunities across business units, regions and use-cases</li>\n<li>Translate customer initiatives into scalable data workloads and technical solutions</li>\n<li>Partner with AEs to drive incremental ARR through structured expansion plays</li>\n<li>Lead technical validation of new workloads, including workshops and (where necessary) POCs</li>\n<li>Replicate successful use-cases across the organisation to accelerate growth</li>\n</ul>\n<p>Technical Strategy &amp; Architecture</p>\n<ul>\n<li>Act as the chief technical stakeholder for assigned accounts post-go-live</li>\n<li>Define and maintain Enterprise Reference Architectures aligned to customer environments</li>\n<li>Ensure architectural consistency and scalability across all implementations</li>\n<li>Guide customers on best practices for data pipelines, automation, and platform adoption</li>\n<li>Maintain technical artefacts such as architecture documentation, design patterns, and knowledge bases</li>\n</ul>\n<p>Stakeholder Engagement &amp; Alignment</p>\n<ul>\n<li>Build and maintain relationships with technical, operational and executive stakeholders</li>\n<li>Develop and maintain stakeholder maps and multi-threaded engagement strategies</li>\n<li>Run regular technical cadence calls, business reviews and roadmap sessions</li>\n<li>Align customer technical strategy with business objectives and commercial plans</li>\n</ul>\n<p>Internal &amp; Partner Collaboration</p>\n<ul>\n<li>Act as the technical orchestrator across Sales, Professional Services, Product and Engineering</li>\n<li>Advocate for customer needs internally, influencing product roadmap and priorities</li>\n<li>Collaborate with technology partners (e.g. Snowflake, Databricks, AWS, GCP) to drive joint value</li>\n<li>Ensure alignment between delivery teams and long-term expansion strategy</li>\n</ul>\n<p>Strategic Account Planning</p>\n<ul>\n<li>Contribute to Mutual Account Plans (MAPs) and own Mutual Success Plans (MSPs)</li>\n<li>Map whitespace opportunities across business units, subsidiaries and use-cases</li>\n<li>Maintain a structured view of expansion opportunities and workload pipelines</li>\n<li>Align technical execution with long-term account growth strategy</li>\n</ul>\n<p><strong>Skills We’re Looking For</strong></p>\n<ul>\n<li>Proven experience in a Solution Architect, Technical Account Manager, or similar customer-facing technical role</li>\n<li>Strong ability to own and drive customer outcomes post-sale, including adoption and expansion</li>\n<li>Experience designing scalable data architectures and working within modern data ecosystems</li>\n<li>Ability to translate business objectives into technical solutions and measurable outcomes</li>\n<li>Strong stakeholder management skills across technical and non-technical audiences</li>\n<li>Proactive, self-sufficient and highly organised approach to managing multiple accounts</li>\n<li>Comfortable operating strategically while also engaging in deep technical discussions</li>\n</ul>\n<p><strong>Bonus Skills</strong></p>\n<ul>\n<li>Experience working with cloud data platforms (Snowflake, Databricks, etc.)</li>\n<li>Background in data integration, ETL/ELT or replication technologies</li>\n<li>Experience with workload-based or consumption-based sales models</li>\n<li>Familiarity with enterprise architecture frameworks and design patterns</li>\n<li>Experience working with system integrators or technology partners</li>\n</ul>\n<p>#LI-REMOTE</p>\n<p>#LI-LA1 </p>\n<div>\n<p><strong>Perks and Benefits</strong></p>\n<ul>\n<li>100% employer-paid medical insurance<strong>*</strong></li>\n<li>Generous paid time-off policy (PTO), plus paid sick time, inclusive parental leave policy, holidays, and volunteer days off</li>\n<li>RSU stock grants*</li>\n<li>Professional development and training opportunities</li>\n<li>Company virtual happy hours, free food, and fun team-building activities</li>\n<li>Monthly cell phone stipend</li>\n<li>Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.</li>\n</ul>\n<p><em><strong>*</strong>May vary by country and worker type - please reach out to your recruiter for more information</em></p>\n<p><em>Click <a href=\"https://drive.google.com/drive/folders/1CdawUwjo1Q1B7ghZJ_owdmmHB8VtqhBu?usp=sharing\" target=\"_blank\" rel=\"nofollow ugc noopener\">here</a> to learn more about Fivetran's Benefits by Region.</em></p>\n<p>We’re honored to be <a href=\"https://fivetran.com/blog/hvr-acquisition-series-d\" target=\"_blank\" rel=\"nofollow ugc noopener\">valued at over $5.6 billion</a>, but more importantly, we’re proud of our <a href=\"https://fivetran.com/culture\" target=\"_blank\" rel=\"nofollow ugc noopener\">core values of Get Stuck In, Do the Right Thing, and One Team, One Dream</a>. Read about us in <a href=\"https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf\" target=\"_blank\" rel=\"nofollow ugc noopener\">Forbes</a>. </p>\n<p>Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.</p>\n<p>To learn more about Fivetran’s culture and what it’s like to be part of the team, <a href=\"https://www.youtube.com/watch?v=xlhtp4dGh8o\" target=\"_blank\" rel=\"nofollow ugc noopener\">click here</a> and enjoy our video.</p>\n<p>To learn more about our candidate privacy policy, you can <a href=\"https://fivetran.com/candidate-privacy\" target=\"_blank\" rel=\"nofollow ugc noopener\">read our statement here</a>.</p>\n<p><em>We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this <a href=\"https://forms.gle/V7k3t4u9j523XkEt6\" rel=\"nofollow ugc noopener\" target=\"_blank\">form</a>. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.</em></p>\n</div>",
-      "pubDate": "2026-06-10T17:14:46+00:00"
-    }
-  },
-  {
-    "id": "jobicy:145995",
-    "platform": "jobicy",
-    "external_id": "145995",
-    "title": "Ubuntu Linux Kernel Test Engineer",
-    "company": "Canonical Ltd.",
-    "description": "Ubuntu is the most widely used Linux distribution in the world, delivering kernels across a vast matrix of versions, architectures, and configurations – with up to 15 years of security and maintenance commitments for Long Term Support (LTS) releases. Ensuring the quality and reliability of these kernels demands a dedicated, systematic approach to testing at scale. The Canonical Kernel Team is looking for a Test Engineer to take ownership of our kernel testing strategy and infrastructure. You will design and maintain test plans covering functional correctness, stability, performance, and security. You will build and evolve automated test frameworks – including stress testing, fuzzing, code coverage analysis, and regression detection – that not only must remain effective across many concurrently supported kernel versions spanning years of maintenance, but must be able to scale with the high demand for Ubuntu kernels (currently more than 160 under active support). The successful candidate will bring strong Python skills, familiarity with Linux kernel internals, and experience building test infrastructure that scales. You will work closely with kernel engineers to catch regressions early, validate fixes, and ensure every kernel we ship meets the highest standards of reliability. Location: This role will be based remotely in the APAC region, except for Taipei, Taiwan, and Beijing, China, which are office-based locations. What your day will look like Design, develop, and maintain comprehensive test plans covering functional correctness, stability, performance, and security for Ubuntu Linux kernels Build and improve automated test infrastructure for continuous kernel quality validation across multiple kernel versions and architectures Maintain long-lived test suites that evolve alongside Ubuntu’s many concurrently supported kernel versions spanning years of maintenance Develop and maintain CI/CD pipelines for continuous kernel quality validation Conduct performance benchmarking and regression detection across kernel releases Measure and improve kernel code coverage, identifying gaps in test coverage and creating tests to address them Execute and analyze stress tests covering CPU scheduling, memory management, I/O subsystems, networking, and filesystem workloads Develop and maintain fuzzing harnesses to discover kernel vulnerabilities and reliability issues using tools such as syzkaller, Trinity, or custom fuzzers Collaborate regularly and proactively with a globally distributed team Contribute to upstream test suites and testing frameworks Document test methodologies, results, and coverage gaps What we are looking for in you Significant programming experience in Python Experience with test frameworks such as LTP, kselftest, xfstests, stress-ng, fio, or similar Experience designing and executing system-level tests: functional, stress, performance, or regression testing Familiarity with CI/CD systems (Jenkins, GitHub CI, or similar) Experience maintaining test suites over long periods, adapting to evolving software across multiple supported versions Familiarity with Linux (Ubuntu or Debian preferred but not required), Linux kernel internals and subsystems Experience with Linux systems administration and automation Solid background with git Well-organized, self-starting and able to deliver to fixed schedules Professional written and spoken English with excellent communication skills Ability to travel twice a year, for company events up to two weeks each Additional skills that you might also bring Familiarity with kernel fuzzing tools and techniques (e.g. syzkaller, Trinity, AFL, or custom harnesses) Experience with code coverage instrumentation (e.g. gcov, kcov, LLVM source-based coverage) Knowledge of kernel tracing and observability tools (e.g. ftrace, perf, bpftrace, eBPF) Familiarity with static analysis tools (e.g. sparse, smatch, Coccinelle) as part of a testing workflow Experience with fault injection frameworks (e.g. failslab, fail_make_request) for reliability testing Prior experience with test infrastructure at scale (provisioning, orchestration, result aggregation) Experience with Ubuntu/Debian packaging or Snap Knowledge of virtualization technologies (KVM, QEMU) and container runtimes Cloud infrastructure experience (AWS, GCP, Azure, or OpenStack) Prior involvement with open source testing communities or projects What we offer you Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process. Fully remote working environment - we’ve been working remotely since 2004! Personal learning and development budget of 2,000USD per annum Annual compensation review Recognition rewards Annual holiday leave Parental Leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues at ‘sprints’ Priority Pass for travel and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-    "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "APAC,  China",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "aws",
-      "gcp",
-      "azure",
-      "jenkins",
-      "git",
-      "linux"
-    ],
-    "tags": [
-      "QA &amp; Testing"
-    ],
-    "posted_at": "2026-06-10T17:14:44+00:00",
-    "fetched_at": "2026-06-18T20:01:58.249Z",
-    "raw": {
-      "id": 145995,
-      "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
-      "jobSlug": "145995-ubuntu-linux-kernel-test-engineer",
-      "jobTitle": "Ubuntu Linux Kernel Test Engineer",
-      "companyName": "Canonical Ltd.",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
-      "jobIndustry": [
-        "QA &amp; Testing"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "APAC,  China",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Ubuntu is the most widely used Linux distribution in the world, delivering kernels across a vast matrix of versions, architectures, and configurations – with up to 15 years of security...",
-      "jobDescription": "<p>Ubuntu is the most widely used Linux distribution in the world, delivering kernels across a vast matrix of versions, architectures, and configurations – with up to 15 years of security and maintenance commitments for Long Term Support (LTS) releases. Ensuring the quality and reliability of these kernels demands a dedicated, systematic approach to testing at scale.</p>\n<p>The Canonical Kernel Team is looking for a Test Engineer to take ownership of our kernel testing strategy and infrastructure. You will design and maintain test plans covering functional correctness, stability, performance, and security. You will build and evolve automated test frameworks – including stress testing, fuzzing, code coverage analysis, and regression detection – that not only must remain effective across many concurrently supported kernel versions spanning years of maintenance, but must be able to scale with the high demand for Ubuntu kernels (currently more than 160 under active support).</p>\n<p>The successful candidate will bring strong Python skills, familiarity with Linux kernel internals, and experience building test infrastructure that scales. You will work closely with kernel engineers to catch regressions early, validate fixes, and ensure every kernel we ship meets the highest standards of reliability.</p>\n<p><strong>Location:</strong> This role will be based remotely in the APAC region, except for Taipei, Taiwan, and Beijing, China, which are office-based locations.</p>\n<h2>What your day will look like</h2>\n<ul>\n<li>Design, develop, and maintain comprehensive test plans covering functional correctness, stability, performance, and security for Ubuntu Linux kernels</li>\n<li>Build and improve automated test infrastructure for continuous kernel quality validation across multiple kernel versions and architectures</li>\n<li>Maintain long-lived test suites that evolve alongside Ubuntu’s many concurrently supported kernel versions spanning years of maintenance</li>\n<li>Develop and maintain CI/CD pipelines for continuous kernel quality validation</li>\n<li>Conduct performance benchmarking and regression detection across kernel releases</li>\n<li>Measure and improve kernel code coverage, identifying gaps in test coverage and creating tests to address them</li>\n<li>Execute and analyze stress tests covering CPU scheduling, memory management, I/O subsystems, networking, and filesystem workloads</li>\n<li>Develop and maintain fuzzing harnesses to discover kernel vulnerabilities and reliability issues using tools such as syzkaller, Trinity, or custom fuzzers</li>\n<li>Collaborate regularly and proactively with a globally distributed team</li>\n<li>Contribute to upstream test suites and testing frameworks</li>\n<li>Document test methodologies, results, and coverage gaps</li>\n</ul>\n<h2>What we are looking for in you</h2>\n<ul>\n<li>Significant programming experience in Python</li>\n<li>Experience with test frameworks such as LTP, kselftest, xfstests, stress-ng, fio, or similar</li>\n<li>Experience designing and executing system-level tests: functional, stress, performance, or regression testing</li>\n<li>Familiarity with CI/CD systems (Jenkins, GitHub CI, or similar)</li>\n<li>Experience maintaining test suites over long periods, adapting to evolving software across multiple supported versions</li>\n<li>Familiarity with Linux (Ubuntu or Debian preferred but not required), Linux kernel internals and subsystems</li>\n<li>Experience with Linux systems administration and automation</li>\n<li>Solid background with git</li>\n<li>Well-organized, self-starting and able to deliver to fixed schedules</li>\n<li>Professional written and spoken English with excellent communication skills</li>\n<li>Ability to travel twice a year, for company events up to two weeks each</li>\n</ul>\n<h2>Additional skills that you might also bring</h2>\n<ul>\n<li>Familiarity with kernel fuzzing tools and techniques (e.g. syzkaller, Trinity, AFL, or custom harnesses)</li>\n<li>Experience with code coverage instrumentation (e.g. gcov, kcov, LLVM source-based coverage)</li>\n<li>Knowledge of kernel tracing and observability tools (e.g. ftrace, perf, bpftrace, eBPF)</li>\n<li>Familiarity with static analysis tools (e.g. sparse, smatch, Coccinelle) as part of a testing workflow</li>\n<li>Experience with fault injection frameworks (e.g. failslab, fail_make_request) for reliability testing</li>\n<li>Prior experience with test infrastructure at scale (provisioning, orchestration, result aggregation)</li>\n<li>Experience with Ubuntu/Debian packaging or Snap</li>\n<li>Knowledge of virtualization technologies (KVM, QEMU) and container runtimes</li>\n<li>Cloud infrastructure experience (AWS, GCP, Azure, or OpenStack)</li>\n<li>Prior involvement with open source testing communities or projects</li>\n</ul>\n<h2>What we offer you</h2>\n<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. </p>\n<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>\n<ul>\n<li>Fully remote working environment - we’ve been working remotely since 2004!</li>\n<li>Personal learning and development budget of 2,000USD per annum</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Parental Leave</li>\n<li>Employee Assistance Programme</li>\n<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>\n<li>Priority Pass for travel and travel upgrades for long haul company events</li>\n</ul>\n<h2><strong>About Canonical</strong></h2>\n<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>\n<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>\n<h2><strong>Canonical is an equal opportunity employer</strong></h2>\n<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Whatever your identity, we will give your application fair consideration.</a></p>\n<p>#LI-remote</p>",
-      "pubDate": "2026-06-10T17:14:44+00:00"
     }
   }
 ]
