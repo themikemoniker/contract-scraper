@@ -1,5 +1,50 @@
 [
   {
+    "id": "jobicy:144256",
+    "platform": "jobicy",
+    "external_id": "144256",
+    "title": "VP of Engineering",
+    "company": "Crystal Intelligence",
+    "description": "About Crystal Crystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability risk and transaction intelligence that powers operational decisions. Crystal is entering the most consequential platform shift in its history: a full migration from our current data architecture to a new, AI-native data pipeline that will define the company's next decade of scale, speed, and product capability. This is the role that owns it. Role summary Crystal's engineering organization has grown organically. The current architecture serves a large and loyal customer base, but it is reaching the limits of what feature-driven growth can sustain. In parallel, we have built a new data pipeline architecture led by a dedicated platform team. The strategic priority for 2026 is to migrate Crystal end-to-end from the legacy stack to the new pipeline - without disrupting customer SLAs, while continuing to ship the product roadmap, and while rebuilding engineering management discipline. The VP of Engineering will own this migration. The mission is concrete: deliver the new pipeline into production behind every Crystal product, restore platform-grade latency and reliability, and convert the existing organization into one that ships predictably and uses AI as a productivity multiplier. What You’ll Do Own the platform migration end-to-end Lead the integration of the new data pipeline into all Crystal products: Crystal Expert, Crystal Foresight, Monitor, Risk Check API, Data Intelligence, and Crystal Light Sequence the migration to preserve revenue and customer trust: no SLA regressions, no rollback drama, no surprise downtime Drive the architectural decisions and trade-offs that the legacy-to-new transition requires, including data model alignment, service-by-service cutover, and parallel-run validation Hold engineering, product, and customer success aligned on a single migration roadmap with clear customer-impact gates Restore platform foundations Bring API and core platform latency back to target: 1,000 RPS at sub-two-second latency, scaling toward 10k RPS Reduce database load, fix stability regressions exposed by recent releases, raise release velocity to multiple deployments per week Lead the multi-chain platform with discipline across 100+ chains: predictable integration timelines, accountable squad ownership, clear SLAs to commercial partners Rebuild the engineering management layer Partner with the existing engineering leadership to establish clear accountability across squad leads, engineering managers, and platform teams Set the standard for what good engineering management looks like at Crystal: predictable delivery, transparent planning, technical depth, people development Make the hiring, performance, and structural decisions required to bring the organization to the level the platform demands Drive AI into engineering as a productivity lever Build shared infrastructure for AI-assisted engineering: code generation, automated testing, agent-based migration tooling, internal knowledge systems Move Crystal from individual AI tool usage to organization-wide AI productivity, with measurable impact on delivery throughput Reduce OpEx-to-revenue through architectural improvements, automation, and reduction of manual operational load Partner with the business Work directly with product, GTM, customer success, and finance to translate engineering investments into customer outcomes and revenue Communicate trade-offs, risks, and progress clearly to the executive team and board Own the engineering budget, hiring plan, and vendor decisions What Success Looks Like (12 Months) New data pipeline architecture is in production powering Crystal's core products Customer SLAs are met or exceeded throughout the migration; no customer churn attributable to platform instability Latency restored and improved; release cadence shifted from monthly to weekly or faster Engineering management layer operating with clear accountability and predictable delivery AI-assisted engineering infrastructure deployed and measurable productivity gains realized OpEx-to-revenue ratio meaningfully reduced toward target Requirements 10+ years engineering experience, with 5+ years leading platform, data, or infrastructure organizations as VP Engineering, Head of Engineering, or equivalent Led at least one major platform migration or large-scale rebuild, with continuous customer service maintained throughout Operated low-latency, high-availability distributed systems with multi-tenant SaaS workloads at production scale Production experience integrating AI into engineering workflows, including agent-assisted development and AI-driven automation Strong product partnership instincts - you have shaped what gets built and how it ships Track record of building accountable, high-ownership engineering organizations Direct experience in one or more relevant domains: blockchain or crypto, fintech, payments, fraud or risk platforms, regulatory technology, or large-scale data platforms",
+    "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "blockchain"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-20T04:26:43+00:00",
+    "fetched_at": "2026-06-20T08:35:36.499Z",
+    "raw": {
+      "id": 144256,
+      "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
+      "jobSlug": "144256-vp-of-engineering",
+      "jobTitle": "VP of Engineering",
+      "companyName": "Crystal Intelligence",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/d21a424f-221.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Director",
+      "jobExcerpt": "About CrystalCrystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability...",
+      "jobDescription": "<p><strong>About Crystal</strong></p>\n<p>Crystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability risk and transaction intelligence that powers operational decisions.</p>\n<p>Crystal is entering the most consequential platform shift in its history: a full migration from our current data architecture to a new, AI-native data pipeline that will define the company's next decade of scale, speed, and product capability. This is the role that owns it.</p>\n<p><strong>Role summary</strong></p>\n<p>Crystal's engineering organization has grown organically. The current architecture serves a large and loyal customer base, but it is reaching the limits of what feature-driven growth can sustain. In parallel, we have built a new data pipeline architecture led by a dedicated platform team.</p>\n<p>The strategic priority for 2026 is to migrate Crystal end-to-end from the legacy stack to the new pipeline - without disrupting customer SLAs, while continuing to ship the product roadmap, and while rebuilding engineering management discipline. The VP of Engineering will own this migration.</p>\n<p>The mission is concrete: deliver the new pipeline into production behind every Crystal product, restore platform-grade latency and reliability, and convert the existing organization into one that ships predictably and uses AI as a productivity multiplier.</p>\n<p><strong>What You’ll Do</strong></p>\n<p><strong>Own the platform migration end-to-end</strong></p>\n<ul>\n<li>\n<p>Lead the integration of the new data pipeline into all Crystal products: Crystal Expert, Crystal Foresight, Monitor, Risk Check API, Data Intelligence, and Crystal Light</p>\n</li>\n<li>\n<p>Sequence the migration to preserve revenue and customer trust: no SLA regressions, no rollback drama, no surprise downtime</p>\n</li>\n<li>\n<p>Drive the architectural decisions and trade-offs that the legacy-to-new transition requires, including data model alignment, service-by-service cutover, and parallel-run validation</p>\n</li>\n<li>\n<p>Hold engineering, product, and customer success aligned on a single migration roadmap with clear customer-impact gates</p>\n</li>\n</ul>\n<p><strong>Restore platform foundations</strong></p>\n<ul>\n<li>\n<p>Bring API and core platform latency back to target: 1,000 RPS at sub-two-second latency, scaling toward 10k RPS</p>\n</li>\n<li>\n<p>Reduce database load, fix stability regressions exposed by recent releases, raise release velocity to multiple deployments per week</p>\n</li>\n<li>\n<p>Lead the multi-chain platform with discipline across 100+ chains: predictable integration timelines, accountable squad ownership, clear SLAs to commercial partners</p>\n</li>\n</ul>\n<p><strong>Rebuild the engineering management layer</strong></p>\n<ul>\n<li>\n<p>Partner with the existing engineering leadership to establish clear accountability across squad leads, engineering managers, and platform teams</p>\n</li>\n<li>\n<p>Set the standard for what good engineering management looks like at Crystal: predictable delivery, transparent planning, technical depth, people development</p>\n</li>\n<li>\n<p>Make the hiring, performance, and structural decisions required to bring the organization to the level the platform demands</p>\n</li>\n</ul>\n<p><strong>Drive AI into engineering as a productivity lever</strong></p>\n<ul>\n<li>\n<p>Build shared infrastructure for AI-assisted engineering: code generation, automated testing, agent-based migration tooling, internal knowledge systems</p>\n</li>\n<li>\n<p>Move Crystal from individual AI tool usage to organization-wide AI productivity, with measurable impact on delivery throughput</p>\n</li>\n<li>\n<p>Reduce OpEx-to-revenue through architectural improvements, automation, and reduction of manual operational load</p>\n</li>\n</ul>\n<p><strong>Partner with the business</strong></p>\n<ul>\n<li>\n<p>Work directly with product, GTM, customer success, and finance to translate engineering investments into customer outcomes and revenue</p>\n</li>\n<li>\n<p>Communicate trade-offs, risks, and progress clearly to the executive team and board</p>\n</li>\n<li>\n<p>Own the engineering budget, hiring plan, and vendor decisions</p>\n</li>\n</ul>\n<p><strong>What Success Looks Like (12 Months)</strong></p>\n<ul>\n<li>\n<p>New data pipeline architecture is in production powering Crystal's core products</p>\n</li>\n<li>\n<p>Customer SLAs are met or exceeded throughout the migration; no customer churn attributable to platform instability</p>\n</li>\n<li>\n<p>Latency restored and improved; release cadence shifted from monthly to weekly or faster</p>\n</li>\n<li>\n<p>Engineering management layer operating with clear accountability and predictable delivery</p>\n</li>\n<li>\n<p>AI-assisted engineering infrastructure deployed and measurable productivity gains realized</p>\n</li>\n<li>\n<p>OpEx-to-revenue ratio meaningfully reduced toward target</p>\n</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li>\n<p>10+ years engineering experience, with 5+ years leading platform, data, or infrastructure organizations as VP Engineering, Head of Engineering, or equivalent</p>\n</li>\n<li>\n<p>Led at least one major platform migration or large-scale rebuild, with continuous customer service maintained throughout</p>\n</li>\n<li>\n<p>Operated low-latency, high-availability distributed systems with multi-tenant SaaS workloads at production scale</p>\n</li>\n<li>\n<p>Production experience integrating AI into engineering workflows, including agent-assisted development and AI-driven automation</p>\n</li>\n<li>\n<p>Strong product partnership instincts - you have shaped what gets built and how it ships</p>\n</li>\n<li>\n<p>Track record of building accountable, high-ownership engineering organizations</p>\n</li>\n<li>\n<p>Direct experience in one or more relevant domains: blockchain or crypto, fintech, payments, fraud or risk platforms, regulatory technology, or large-scale data platforms</p>\n</li>\n</ul>",
+      "pubDate": "2026-06-20T04:26:43+00:00"
+    }
+  },
+  {
     "id": "jobicy:144153",
     "platform": "jobicy",
     "external_id": "144153",
@@ -29,7 +74,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T13:36:45+00:00",
-    "fetched_at": "2026-06-20T01:56:51.588Z",
+    "fetched_at": "2026-06-20T08:35:36.500Z",
     "raw": {
       "id": 144153,
       "url": "https://jobicy.com/jobs/144153-senior-ios-sdk-engineer",
@@ -84,7 +129,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T13:36:44+00:00",
-    "fetched_at": "2026-06-20T01:56:51.589Z",
+    "fetched_at": "2026-06-20T08:35:36.501Z",
     "raw": {
       "id": 144154,
       "url": "https://jobicy.com/jobs/144154-senior-android-sdk-engineer",
@@ -148,7 +193,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:41:45+00:00",
-    "fetched_at": "2026-06-20T01:56:51.591Z",
+    "fetched_at": "2026-06-20T08:35:36.502Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -197,7 +242,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:26:42+00:00",
-    "fetched_at": "2026-06-20T01:56:51.591Z",
+    "fetched_at": "2026-06-20T08:35:36.503Z",
     "raw": {
       "id": 144167,
       "url": "https://jobicy.com/jobs/144167-sr-software-engineer-2",
@@ -250,7 +295,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:21:44+00:00",
-    "fetched_at": "2026-06-20T01:56:51.592Z",
+    "fetched_at": "2026-06-20T08:35:36.504Z",
     "raw": {
       "id": 144179,
       "url": "https://jobicy.com/jobs/144179-golang-engineer",
@@ -309,7 +354,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T22:11:45+00:00",
-    "fetched_at": "2026-06-20T01:56:51.593Z",
+    "fetched_at": "2026-06-20T08:35:36.505Z",
     "raw": {
       "id": 143911,
       "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
@@ -357,7 +402,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:58+00:00",
-    "fetched_at": "2026-06-20T01:56:51.595Z",
+    "fetched_at": "2026-06-20T08:35:36.507Z",
     "raw": {
       "id": 147190,
       "url": "https://jobicy.com/jobs/147190-ai-soc-hardware-architect",
@@ -403,7 +448,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:56+00:00",
-    "fetched_at": "2026-06-20T01:56:51.597Z",
+    "fetched_at": "2026-06-20T08:35:36.509Z",
     "raw": {
       "id": 147189,
       "url": "https://jobicy.com/jobs/147189-ai-compiler-engineer",
@@ -454,7 +499,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:54+00:00",
-    "fetched_at": "2026-06-20T01:56:51.597Z",
+    "fetched_at": "2026-06-20T08:35:36.510Z",
     "raw": {
       "id": 147188,
       "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
@@ -503,7 +548,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:51+00:00",
-    "fetched_at": "2026-06-20T01:56:51.599Z",
+    "fetched_at": "2026-06-20T08:35:36.511Z",
     "raw": {
       "id": 147186,
       "url": "https://jobicy.com/jobs/147186-system-developer",
@@ -552,7 +597,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T17:01:42+00:00",
-    "fetched_at": "2026-06-20T01:56:51.600Z",
+    "fetched_at": "2026-06-20T08:35:36.513Z",
     "raw": {
       "id": 144972,
       "url": "https://jobicy.com/jobs/144972-emerging-talent-aspire-engineering-and-technology-italy-2026-opportunities",
@@ -602,7 +647,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:11:42+00:00",
-    "fetched_at": "2026-06-20T01:56:51.601Z",
+    "fetched_at": "2026-06-20T08:35:36.514Z",
     "raw": {
       "id": 143893,
       "url": "https://jobicy.com/jobs/143893-web-application-software-engineer",
@@ -653,7 +698,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:01:49+00:00",
-    "fetched_at": "2026-06-20T01:56:51.603Z",
+    "fetched_at": "2026-06-20T08:35:36.516Z",
     "raw": {
       "id": 143908,
       "url": "https://jobicy.com/jobs/143908-senior-sales-engineer-5",
@@ -699,7 +744,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:01:48+00:00",
-    "fetched_at": "2026-06-20T01:56:51.604Z",
+    "fetched_at": "2026-06-20T08:35:36.517Z",
     "raw": {
       "id": 143906,
       "url": "https://jobicy.com/jobs/143906-senior-software-engineer-13",
@@ -752,7 +797,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-18T07:01:46+00:00",
-    "fetched_at": "2026-06-20T01:56:51.605Z",
+    "fetched_at": "2026-06-20T08:35:36.519Z",
     "raw": {
       "id": 143900,
       "url": "https://jobicy.com/jobs/143900-analyst-ii-full-stack-2",
@@ -805,7 +850,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:56:43+00:00",
-    "fetched_at": "2026-06-20T01:56:51.607Z",
+    "fetched_at": "2026-06-20T08:35:36.521Z",
     "raw": {
       "id": 143969,
       "url": "https://jobicy.com/jobs/143969-ai-automation-engineer",
@@ -852,7 +897,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:46:55+00:00",
-    "fetched_at": "2026-06-20T01:56:51.608Z",
+    "fetched_at": "2026-06-20T08:35:36.522Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -899,7 +944,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:41:54+00:00",
-    "fetched_at": "2026-06-20T01:56:51.610Z",
+    "fetched_at": "2026-06-20T08:35:36.523Z",
     "raw": {
       "id": 144098,
       "url": "https://jobicy.com/jobs/144098-senior-software-engineer-full-remote-france-or-hybrid-2",
@@ -955,7 +1000,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:41:45+00:00",
-    "fetched_at": "2026-06-20T01:56:51.612Z",
+    "fetched_at": "2026-06-20T08:35:36.524Z",
     "raw": {
       "id": 144094,
       "url": "https://jobicy.com/jobs/144094-mobile-software-engineer-android-digital-trust",
@@ -1012,7 +1057,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:36:44+00:00",
-    "fetched_at": "2026-06-20T01:56:51.612Z",
+    "fetched_at": "2026-06-20T08:35:36.525Z",
     "raw": {
       "id": 144103,
       "url": "https://jobicy.com/jobs/144103-ai-engineer-fde-forward-deployed-engineer",
@@ -1063,7 +1108,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:06:46+00:00",
-    "fetched_at": "2026-06-20T01:56:51.613Z",
+    "fetched_at": "2026-06-20T08:35:36.526Z",
     "raw": {
       "id": 144839,
       "url": "https://jobicy.com/jobs/144839-front-end-engineer-2",
@@ -1109,7 +1154,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T04:00:52+00:00",
-    "fetched_at": "2026-06-20T01:56:51.614Z",
+    "fetched_at": "2026-06-20T08:35:36.527Z",
     "raw": {
       "id": 147114,
       "url": "https://jobicy.com/jobs/147114-solution-engineer-2",
@@ -1152,7 +1197,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T04:00:48+00:00",
-    "fetched_at": "2026-06-20T01:56:51.615Z",
+    "fetched_at": "2026-06-20T08:35:36.528Z",
     "raw": {
       "id": 147112,
       "url": "https://jobicy.com/jobs/147112-principal-geotechnical-engineer",
@@ -1199,7 +1244,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-17T18:51:08+00:00",
-    "fetched_at": "2026-06-20T01:56:51.616Z",
+    "fetched_at": "2026-06-20T08:35:36.529Z",
     "raw": {
       "id": 147080,
       "url": "https://jobicy.com/jobs/147080-senior-net-wpf-developer",
@@ -1251,7 +1296,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-17T18:51:06+00:00",
-    "fetched_at": "2026-06-20T01:56:51.617Z",
+    "fetched_at": "2026-06-20T08:35:36.530Z",
     "raw": {
       "id": 147079,
       "url": "https://jobicy.com/jobs/147079-qa-engineer-5",
@@ -1297,7 +1342,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T18:50:44+00:00",
-    "fetched_at": "2026-06-20T01:56:51.618Z",
+    "fetched_at": "2026-06-20T08:35:36.532Z",
     "raw": {
       "id": 147066,
       "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
@@ -1344,7 +1389,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T18:50:42+00:00",
-    "fetched_at": "2026-06-20T01:56:51.619Z",
+    "fetched_at": "2026-06-20T08:35:36.533Z",
     "raw": {
       "id": 147065,
       "url": "https://jobicy.com/jobs/147065-staff-design-engineer",
@@ -1392,7 +1437,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:57+00:00",
-    "fetched_at": "2026-06-20T01:56:51.620Z",
+    "fetched_at": "2026-06-20T08:35:36.534Z",
     "raw": {
       "id": 147050,
       "url": "https://jobicy.com/jobs/147050-ai-systems-engineering-expert",
@@ -1444,7 +1489,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:52+00:00",
-    "fetched_at": "2026-06-20T01:56:51.622Z",
+    "fetched_at": "2026-06-20T08:35:36.537Z",
     "raw": {
       "id": 147047,
       "url": "https://jobicy.com/jobs/147047-lead-cloud-solution-architect-application-modernization-aws",
@@ -1504,7 +1549,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:48+00:00",
-    "fetched_at": "2026-06-20T01:56:51.624Z",
+    "fetched_at": "2026-06-20T08:35:36.539Z",
     "raw": {
       "id": 147045,
       "url": "https://jobicy.com/jobs/147045-lead-cloud-solution-architect-ai-data-aws",
@@ -1560,7 +1605,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-17T11:05:09+00:00",
-    "fetched_at": "2026-06-20T01:56:51.625Z",
+    "fetched_at": "2026-06-20T08:35:36.540Z",
     "raw": {
       "id": 147013,
       "url": "https://jobicy.com/jobs/147013-ios-developer-remote-anywhere-in-mexico",
@@ -1605,7 +1650,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T11:04:40+00:00",
-    "fetched_at": "2026-06-20T01:56:51.626Z",
+    "fetched_at": "2026-06-20T08:35:36.541Z",
     "raw": {
       "id": 147000,
       "url": "https://jobicy.com/jobs/147000-experienced-information-systems-architect",
@@ -1654,7 +1699,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T11:04:38+00:00",
-    "fetched_at": "2026-06-20T01:56:51.628Z",
+    "fetched_at": "2026-06-20T08:35:36.543Z",
     "raw": {
       "id": 146999,
       "url": "https://jobicy.com/jobs/146999-director-solutions-engineering-usa-remote",
@@ -1701,7 +1746,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T05:09:32+00:00",
-    "fetched_at": "2026-06-20T01:56:51.630Z",
+    "fetched_at": "2026-06-20T08:35:36.545Z",
     "raw": {
       "id": 146984,
       "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
@@ -1753,7 +1798,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T05:09:18+00:00",
-    "fetched_at": "2026-06-20T01:56:51.631Z",
+    "fetched_at": "2026-06-20T08:35:36.546Z",
     "raw": {
       "id": 146976,
       "url": "https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes",
@@ -1802,7 +1847,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T16:05:22+00:00",
-    "fetched_at": "2026-06-20T01:56:51.633Z",
+    "fetched_at": "2026-06-20T08:35:36.549Z",
     "raw": {
       "id": 146917,
       "url": "https://jobicy.com/jobs/146917-implementation-engineer",
@@ -1855,7 +1900,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T07:03:36+00:00",
-    "fetched_at": "2026-06-20T01:56:51.633Z",
+    "fetched_at": "2026-06-20T08:35:36.549Z",
     "raw": {
       "id": 146875,
       "url": "https://jobicy.com/jobs/146875-semi-senior-back-end-python-engineer-e-learning",
@@ -1898,7 +1943,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:19:45+00:00",
-    "fetched_at": "2026-06-20T01:56:51.634Z",
+    "fetched_at": "2026-06-20T08:35:36.550Z",
     "raw": {
       "id": 146848,
       "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
@@ -1954,7 +1999,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:34+00:00",
-    "fetched_at": "2026-06-20T01:56:51.635Z",
+    "fetched_at": "2026-06-20T08:35:36.552Z",
     "raw": {
       "id": 146800,
       "url": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl",
@@ -2004,7 +2049,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-16T04:07:29+00:00",
-    "fetched_at": "2026-06-20T01:56:51.636Z",
+    "fetched_at": "2026-06-20T08:35:36.552Z",
     "raw": {
       "id": 146795,
       "url": "https://jobicy.com/jobs/146795-front-end-developer-2",
@@ -2050,7 +2095,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:07:28+00:00",
-    "fetched_at": "2026-06-20T01:56:51.636Z",
+    "fetched_at": "2026-06-20T08:35:36.553Z",
     "raw": {
       "id": 146792,
       "url": "https://jobicy.com/jobs/146792-c-developer-tech-lead-image-processing",
@@ -2106,7 +2151,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:07:27+00:00",
-    "fetched_at": "2026-06-20T01:56:51.637Z",
+    "fetched_at": "2026-06-20T08:35:36.554Z",
     "raw": {
       "id": 146791,
       "url": "https://jobicy.com/jobs/146791-senior-fullstack-engineer-java-vue",
@@ -2153,7 +2198,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:25+00:00",
-    "fetched_at": "2026-06-20T01:56:51.638Z",
+    "fetched_at": "2026-06-20T08:35:36.556Z",
     "raw": {
       "id": 146790,
       "url": "https://jobicy.com/jobs/146790-senior-qa-automation-engineer-3",
@@ -2200,7 +2245,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:04+00:00",
-    "fetched_at": "2026-06-20T01:56:51.639Z",
+    "fetched_at": "2026-06-20T08:35:36.557Z",
     "raw": {
       "id": 146761,
       "url": "https://jobicy.com/jobs/146761-danish-tech-linguistic-tester",
@@ -2247,7 +2292,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:02+00:00",
-    "fetched_at": "2026-06-20T01:56:51.640Z",
+    "fetched_at": "2026-06-20T08:35:36.558Z",
     "raw": {
       "id": 146760,
       "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
@@ -2294,7 +2339,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:01+00:00",
-    "fetched_at": "2026-06-20T01:56:51.641Z",
+    "fetched_at": "2026-06-20T08:35:36.559Z",
     "raw": {
       "id": 146757,
       "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
@@ -2347,7 +2392,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:06:56+00:00",
-    "fetched_at": "2026-06-20T01:56:51.642Z",
+    "fetched_at": "2026-06-20T08:35:36.560Z",
     "raw": {
       "id": 146750,
       "url": "https://jobicy.com/jobs/146750-staff-product-engineer-europe",
@@ -2400,7 +2445,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:06:53+00:00",
-    "fetched_at": "2026-06-20T01:56:51.643Z",
+    "fetched_at": "2026-06-20T08:35:36.561Z",
     "raw": {
       "id": 146746,
       "url": "https://jobicy.com/jobs/146746-senior-product-engineer-europe",
@@ -2449,7 +2494,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:56:22+00:00",
-    "fetched_at": "2026-06-20T01:56:51.646Z",
+    "fetched_at": "2026-06-20T08:35:36.565Z",
     "raw": {
       "id": 146727,
       "url": "https://jobicy.com/jobs/146727-assistant-director-data-engineering-2",
@@ -2502,7 +2547,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:55:46+00:00",
-    "fetched_at": "2026-06-20T01:56:51.647Z",
+    "fetched_at": "2026-06-20T08:35:36.566Z",
     "raw": {
       "id": 146685,
       "url": "https://jobicy.com/jobs/146685-automation-engineer-shreveport-la",
@@ -2547,7 +2592,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-16T03:42:18+00:00",
-    "fetched_at": "2026-06-20T01:56:51.648Z",
+    "fetched_at": "2026-06-20T08:35:36.567Z",
     "raw": {
       "id": 146663,
       "url": "https://jobicy.com/jobs/146663-sr-synon-developer",
@@ -2590,7 +2635,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:31:37+00:00",
-    "fetched_at": "2026-06-20T01:56:51.649Z",
+    "fetched_at": "2026-06-20T08:35:36.568Z",
     "raw": {
       "id": 146657,
       "url": "https://jobicy.com/jobs/146657-associate-application-engineer",
@@ -2645,7 +2690,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:24:07+00:00",
-    "fetched_at": "2026-06-20T01:56:51.650Z",
+    "fetched_at": "2026-06-20T08:35:36.569Z",
     "raw": {
       "id": 146649,
       "url": "https://jobicy.com/jobs/146649-staff-software-engineer-ai-infrastructure-python",
@@ -2698,7 +2743,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:45:44+00:00",
-    "fetched_at": "2026-06-20T01:56:51.652Z",
+    "fetched_at": "2026-06-20T08:35:36.571Z",
     "raw": {
       "id": 146614,
       "url": "https://jobicy.com/jobs/146614-database-engineer",
@@ -2748,7 +2793,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:45:43+00:00",
-    "fetched_at": "2026-06-20T01:56:51.653Z",
+    "fetched_at": "2026-06-20T08:35:36.572Z",
     "raw": {
       "id": 146613,
       "url": "https://jobicy.com/jobs/146613-senior-software-engineer-sustaining-automation-2",
@@ -2797,7 +2842,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:40:02+00:00",
-    "fetched_at": "2026-06-20T01:56:51.654Z",
+    "fetched_at": "2026-06-20T08:35:36.573Z",
     "raw": {
       "id": 146611,
       "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
@@ -2853,7 +2898,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T08:06:42+00:00",
-    "fetched_at": "2026-06-20T01:56:51.655Z",
+    "fetched_at": "2026-06-20T08:35:36.575Z",
     "raw": {
       "id": 146549,
       "url": "https://jobicy.com/jobs/146549-senior-backend-engineer-typescript-nodejs-aws",
@@ -2907,7 +2952,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:44:51+00:00",
-    "fetched_at": "2026-06-20T01:56:51.658Z",
+    "fetched_at": "2026-06-20T08:35:36.578Z",
     "raw": {
       "id": 146310,
       "url": "https://jobicy.com/jobs/146310-staff-software-engineer-2",
@@ -2954,7 +2999,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:30:15+00:00",
-    "fetched_at": "2026-06-20T01:56:51.659Z",
+    "fetched_at": "2026-06-20T08:35:36.579Z",
     "raw": {
       "id": 146306,
       "url": "https://jobicy.com/jobs/146306-senior-qa-engineer-software",
@@ -3007,7 +3052,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:30:07+00:00",
-    "fetched_at": "2026-06-20T01:56:51.660Z",
+    "fetched_at": "2026-06-20T08:35:36.582Z",
     "raw": {
       "id": 146301,
       "url": "https://jobicy.com/jobs/146301-full-stack-engineer-4",
@@ -3065,7 +3110,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:57+00:00",
-    "fetched_at": "2026-06-20T01:56:51.661Z",
+    "fetched_at": "2026-06-20T08:35:36.583Z",
     "raw": {
       "id": 146294,
       "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
@@ -3119,7 +3164,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:55+00:00",
-    "fetched_at": "2026-06-20T01:56:51.662Z",
+    "fetched_at": "2026-06-20T08:35:36.584Z",
     "raw": {
       "id": 146293,
       "url": "https://jobicy.com/jobs/146293-senior-full-stack-engineer-net-angular-asp-net-focus-govtech-hr-software-latam",
@@ -3170,7 +3215,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:51+00:00",
-    "fetched_at": "2026-06-20T01:56:51.663Z",
+    "fetched_at": "2026-06-20T08:35:36.585Z",
     "raw": {
       "id": 146290,
       "url": "https://jobicy.com/jobs/146290-hands-on-tech-lead-proptech-real-estate-media",
@@ -3223,7 +3268,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:42+00:00",
-    "fetched_at": "2026-06-20T01:56:51.664Z",
+    "fetched_at": "2026-06-20T08:35:36.587Z",
     "raw": {
       "id": 146285,
       "url": "https://jobicy.com/jobs/146285-senior-full-stack-engineer-net-asp-net-technology",
@@ -3279,7 +3324,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:39+00:00",
-    "fetched_at": "2026-06-20T01:56:51.665Z",
+    "fetched_at": "2026-06-20T08:35:36.588Z",
     "raw": {
       "id": 146283,
       "url": "https://jobicy.com/jobs/146283-senior-full-stack-engineer-react-or-vue-python-investment-latam",
@@ -3327,7 +3372,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:27+00:00",
-    "fetched_at": "2026-06-20T01:56:51.666Z",
+    "fetched_at": "2026-06-20T08:35:36.588Z",
     "raw": {
       "id": 146276,
       "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
@@ -3380,7 +3425,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:24+00:00",
-    "fetched_at": "2026-06-20T01:56:51.667Z",
+    "fetched_at": "2026-06-20T08:35:36.590Z",
     "raw": {
       "id": 146274,
       "url": "https://jobicy.com/jobs/146274-lead-product-engineer-javascript-technology-company",
@@ -3428,7 +3473,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:19+00:00",
-    "fetched_at": "2026-06-20T01:56:51.668Z",
+    "fetched_at": "2026-06-20T08:35:36.591Z",
     "raw": {
       "id": 146271,
       "url": "https://jobicy.com/jobs/146271-forward-deployed-engineer-technology",
@@ -3475,7 +3520,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:17+00:00",
-    "fetched_at": "2026-06-20T01:56:51.669Z",
+    "fetched_at": "2026-06-20T08:35:36.592Z",
     "raw": {
       "id": 146270,
       "url": "https://jobicy.com/jobs/146270-principal-full-stack-engineer-net-angular-govtech",
@@ -3522,7 +3567,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:29:16+00:00",
-    "fetched_at": "2026-06-20T01:56:51.670Z",
+    "fetched_at": "2026-06-20T08:35:36.593Z",
     "raw": {
       "id": 146269,
       "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
@@ -3569,7 +3614,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:29:14+00:00",
-    "fetched_at": "2026-06-20T01:56:51.671Z",
+    "fetched_at": "2026-06-20T08:35:36.594Z",
     "raw": {
       "id": 146268,
       "url": "https://jobicy.com/jobs/146268-senior-sdet-govtech-industry",
@@ -3615,7 +3660,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:11+00:00",
-    "fetched_at": "2026-06-20T01:56:51.672Z",
+    "fetched_at": "2026-06-20T08:35:36.595Z",
     "raw": {
       "id": 146266,
       "url": "https://jobicy.com/jobs/146266-salesforce-technical-lead",
@@ -3665,7 +3710,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:09+00:00",
-    "fetched_at": "2026-06-20T01:56:51.673Z",
+    "fetched_at": "2026-06-20T08:35:36.596Z",
     "raw": {
       "id": 146265,
       "url": "https://jobicy.com/jobs/146265-lead-front-end-engineer-digital-agency-latam",
@@ -3718,7 +3763,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:08+00:00",
-    "fetched_at": "2026-06-20T01:56:51.674Z",
+    "fetched_at": "2026-06-20T08:35:36.597Z",
     "raw": {
       "id": 146264,
       "url": "https://jobicy.com/jobs/146264-senior-fullstack-engineer-c-react-ecommerce-latam",
@@ -3780,7 +3825,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:55+00:00",
-    "fetched_at": "2026-06-20T01:56:51.676Z",
+    "fetched_at": "2026-06-20T08:35:36.599Z",
     "raw": {
       "id": 146260,
       "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
@@ -3836,7 +3881,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:54+00:00",
-    "fetched_at": "2026-06-20T01:56:51.677Z",
+    "fetched_at": "2026-06-20T08:35:36.599Z",
     "raw": {
       "id": 146259,
       "url": "https://jobicy.com/jobs/146259-net-developer",
@@ -3879,7 +3924,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:41+00:00",
-    "fetched_at": "2026-06-20T01:56:51.677Z",
+    "fetched_at": "2026-06-20T08:35:36.600Z",
     "raw": {
       "id": 146251,
       "url": "https://jobicy.com/jobs/146251-full-stack-developer-4",
@@ -3929,7 +3974,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:39+00:00",
-    "fetched_at": "2026-06-20T01:56:51.678Z",
+    "fetched_at": "2026-06-20T08:35:36.601Z",
     "raw": {
       "id": 146250,
       "url": "https://jobicy.com/jobs/146250-solution-architect",
@@ -3984,7 +4029,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T07:19:06+00:00",
-    "fetched_at": "2026-06-20T01:56:51.679Z",
+    "fetched_at": "2026-06-20T08:35:36.602Z",
     "raw": {
       "id": 146232,
       "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
@@ -4031,7 +4076,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:42+00:00",
-    "fetched_at": "2026-06-20T01:56:51.681Z",
+    "fetched_at": "2026-06-20T08:35:36.604Z",
     "raw": {
       "id": 146203,
       "url": "https://jobicy.com/jobs/146203-advisory-engineer-hardware-hpsc",
@@ -4083,7 +4128,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:41+00:00",
-    "fetched_at": "2026-06-20T01:56:51.682Z",
+    "fetched_at": "2026-06-20T08:35:36.605Z",
     "raw": {
       "id": 146202,
       "url": "https://jobicy.com/jobs/146202-senior-software-engineer-event-sourcing-stream-processing",
@@ -4137,7 +4182,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:38+00:00",
-    "fetched_at": "2026-06-20T01:56:51.683Z",
+    "fetched_at": "2026-06-20T08:35:36.606Z",
     "raw": {
       "id": 146200,
       "url": "https://jobicy.com/jobs/146200-sr-solutions-architect-agencies",
@@ -4184,7 +4229,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:27+00:00",
-    "fetched_at": "2026-06-20T01:56:51.684Z",
+    "fetched_at": "2026-06-20T08:35:36.607Z",
     "raw": {
       "id": 146194,
       "url": "https://jobicy.com/jobs/146194-electrical-engineer",
@@ -4231,7 +4276,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:24+00:00",
-    "fetched_at": "2026-06-20T01:56:51.685Z",
+    "fetched_at": "2026-06-20T08:35:36.608Z",
     "raw": {
       "id": 146192,
       "url": "https://jobicy.com/jobs/146192-mechanical-engineer",
@@ -4281,7 +4326,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:22+00:00",
-    "fetched_at": "2026-06-20T01:56:51.686Z",
+    "fetched_at": "2026-06-20T08:35:36.610Z",
     "raw": {
       "id": 146191,
       "url": "https://jobicy.com/jobs/146191-network-engineer",
@@ -4340,7 +4385,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-11T14:05:20+00:00",
-    "fetched_at": "2026-06-20T01:56:51.687Z",
+    "fetched_at": "2026-06-20T08:35:36.610Z",
     "raw": {
       "id": 146187,
       "url": "https://jobicy.com/jobs/146187-senior-qa-engineer-%e5%8c%ba%e5%9d%97%e9%93%be%e6%b5%8b%e8%af%95%e5%b7%a5%e7%a8%8b%e5%b8%88",
@@ -4385,7 +4430,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:55+00:00",
-    "fetched_at": "2026-06-20T01:56:51.688Z",
+    "fetched_at": "2026-06-20T08:35:36.611Z",
     "raw": {
       "id": 146128,
       "url": "https://jobicy.com/jobs/146128-electronics-engineer-2",
@@ -4432,7 +4477,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:53+00:00",
-    "fetched_at": "2026-06-20T01:56:51.689Z",
+    "fetched_at": "2026-06-20T08:35:36.612Z",
     "raw": {
       "id": 146127,
       "url": "https://jobicy.com/jobs/146127-naval-architect",
@@ -4479,7 +4524,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:51+00:00",
-    "fetched_at": "2026-06-20T01:56:51.690Z",
+    "fetched_at": "2026-06-20T08:35:36.614Z",
     "raw": {
       "id": 146126,
       "url": "https://jobicy.com/jobs/146126-structural-engineer",
@@ -4532,7 +4577,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:20:45+00:00",
-    "fetched_at": "2026-06-20T01:56:51.691Z",
+    "fetched_at": "2026-06-20T08:35:36.614Z",
     "raw": {
       "id": 146122,
       "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
@@ -4577,7 +4622,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:40+00:00",
-    "fetched_at": "2026-06-20T01:56:51.691Z",
+    "fetched_at": "2026-06-20T08:35:36.615Z",
     "raw": {
       "id": 146119,
       "url": "https://jobicy.com/jobs/146119-associate-it-engineer",
@@ -4634,7 +4679,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-10T18:20:38+00:00",
-    "fetched_at": "2026-06-20T01:56:51.692Z",
+    "fetched_at": "2026-06-20T08:35:36.615Z",
     "raw": {
       "id": 146118,
       "url": "https://jobicy.com/jobs/146118-application-programmer",
@@ -4683,7 +4728,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:35+00:00",
-    "fetched_at": "2026-06-20T01:56:51.693Z",
+    "fetched_at": "2026-06-20T08:35:36.616Z",
     "raw": {
       "id": 146116,
       "url": "https://jobicy.com/jobs/146116-cloud-application-technical-lead",
@@ -4726,7 +4771,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:20:34+00:00",
-    "fetched_at": "2026-06-20T01:56:51.694Z",
+    "fetched_at": "2026-06-20T08:35:36.617Z",
     "raw": {
       "id": 146115,
       "url": "https://jobicy.com/jobs/146115-software-systems-engineer",
@@ -4769,7 +4814,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-10T18:20:32+00:00",
-    "fetched_at": "2026-06-20T01:56:51.694Z",
+    "fetched_at": "2026-06-20T08:35:36.617Z",
     "raw": {
       "id": 146114,
       "url": "https://jobicy.com/jobs/146114-quality-assurance-specialist",
@@ -4821,7 +4866,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:07:02+00:00",
-    "fetched_at": "2026-06-20T01:56:51.695Z",
+    "fetched_at": "2026-06-20T08:35:36.619Z",
     "raw": {
       "id": 146097,
       "url": "https://jobicy.com/jobs/146097-senior-android-engineer-transactions",
@@ -4872,7 +4917,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:07:00+00:00",
-    "fetched_at": "2026-06-20T01:56:51.697Z",
+    "fetched_at": "2026-06-20T08:35:36.620Z",
     "raw": {
       "id": 146096,
       "url": "https://jobicy.com/jobs/146096-senior-android-engineer-shopper-activation-and-engagement",
@@ -4931,7 +4976,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:59+00:00",
-    "fetched_at": "2026-06-20T01:56:51.698Z",
+    "fetched_at": "2026-06-20T08:35:36.621Z",
     "raw": {
       "id": 146095,
       "url": "https://jobicy.com/jobs/146095-staff-software-engineer-metamask-money-movement",
@@ -4985,7 +5030,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-10T18:06:49+00:00",
-    "fetched_at": "2026-06-20T01:56:51.700Z",
+    "fetched_at": "2026-06-20T08:35:36.623Z",
     "raw": {
       "id": 146089,
       "url": "https://jobicy.com/jobs/146089-staff-software-engineer-platform-syseng-canada-remote",
@@ -5006,59 +5051,6 @@
       "pubDate": "2026-06-10T18:06:49+00:00",
       "salaryMin": 186368,
       "salaryMax": 223642,
-      "salaryCurrency": "CAD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:146085",
-    "platform": "jobicy",
-    "external_id": "146085",
-    "title": "Staff Software Developer",
-    "company": "Varicent",
-    "description": "At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the 2025 Forrester Wave Report for SPM , 2023 Ventana Research Revenue Performance Management (RPM) Value Index , Gartner Peer Insights , 2024 Gartner SPM Market Guide , and G2. Our solutions are trusted by a diverse range of global industry leaders like T-Mobile, ServiceNow, Wawanesa Bank, Shaw Industries, Moody's, Stryker and hundreds more. Here’s why you’ll thrive at Varicent: Innovate with Purpose: Build impactful solutions for customers worldwide. Join Excellence: Work in a diverse, collaborative, and innovative team. Shape the Future: Lead in redefining revenue optimization. Grow Together: Unlock your potential in a supportive environment. Join us at Varicent—where your talent and ambition meet limitless opportunities for success! Staff Software Developer The Incentives Development team is dedicated to driving innovation and excellence in everything we build. By combining deep technical expertise with creative problem-solving, the team delivers a best-in-class user experience for our customers. Our commitment to customer success extends beyond feature delivery—we continuously explore new opportunities to enhance our platform through cutting-edge capabilities that delight users and exceed expectations. With a strong focus on quality, scalability, and performance, we consistently push the boundaries of efficiency, ensuring our systems remain modern, reliable, and built for the future. As a Staff Software Developer , you will be part of a multidisciplinary team of developers, designers, data scientists, and business professionals. You will work on Varicent Incentives , a single-page web application built using React and Redux that connects to a REST API written in C# and hosted on AWS. What You'll Do Build new features for our REST API and enhance AWS infrastructure using a modern technology stack, including C# and AWS CloudFormation. Partner closely with Product Management, Design, and QA teams to deliver new features and platform enhancements. Participate in our pull request review process, ensuring high code quality while providing thoughtful feedback and mentorship to fellow team members. Optimize application performance, scalability, and responsiveness across large datasets. Develop cloud-native features using AWS services such as Lambda, S3, DynamoDB, and Redshift. Automate deployments and CI/CD pipelines using Infrastructure-as-Code technologies. Identify and resolve performance bottlenecks while ensuring high availability and platform reliability. ✅ What You'll Bring Technical Skills 7+ years of software development experience, with a focus on data-intensive applications. Proficiency in at least one backend programming language (e.g., C#, Java, or C++). Hands-on experience with AWS services such as EC2, S3, Lambda, RDS, and Redshift. Understanding of ELT/ETL processes and the challenges associated with handling large-scale datasets. Strong understanding of software design principles and engineering best practices. Excellent problem-solving skills and a passion for building clean, scalable, and maintainable solutions. Collaboration &amp; Communication Strong English communication skills and the ability to collaborate effectively within cross-functional teams. B2-level English proficiency or higher is required. First 30 Days: Getting Started Learn and become familiar with our development processes, codebase, coding standards, and tools. Actively participate in team meetings, collaborate with colleagues, and communicate progress, blockers, and learnings effectively. Complete well-defined tasks and bug fixes while demonstrating the ability to write high-quality code. ️ First 60 Days: Building Momentum Become increasingly independent when handling assigned work, requiring less supervision and guidance. Take ownership of more complex assignments, including implementing new features and modules. Demonstrate improved troubleshooting skills and the ability to resolve issues efficiently. Consistently adhere to coding standards, produce maintainable and well-documented code, and actively participate in code reviews. Contribute valuable insights during team discussions and collaborate effectively across functions. First 90 Days: Hitting Your Stride Lead the development of a larger feature or service that is critical to the Incentives Management application. Ensure scalability, reliability, and performance through rigorous testing and optimization. Develop a strong understanding of the application's core architecture and troubleshoot reported defects with minimal assistance. Consistently meet project deadlines while delivering high-quality work. Demonstrate a commitment to continuous learning and staying current with emerging technologies and industry trends. Identify opportunities to improve development processes and recommend solutions that enhance efficiency and productivity. Participate in roadmap planning, technical discussions, and estimation exercises to help shape the future direction of the platform. The expected base salary range for this role is $104,300 - $136,800* CAD, and individuals may be eligible to participate in our variable compensation program. *Final compensation may vary based on experience, skills, designations, and market conditions. This posting is for an existing vacancy. This hiring process utilizes artificial intelligence tools to assist in candidate screening and assessment. Our AI tools are designed to complement, not replace, human decision-making. Varicent is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. If you require accommodation at any time during the recruitment process please email accomodations@varicent.com Varicent is also committed to compliance with all fair employment practices regarding citizenship and immigration status. By applying for a position at Varicent and/or by using this portal, you declare and confirm that you have read and agree to our Job Applicant Privacy Notice and that the information provided by you as part of your application is true and complete and includes no misrepresentation or material omission of fact",
-    "url": "https://jobicy.com/jobs/146085-staff-software-developer-2",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CAD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Canada",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "java",
-      "react",
-      "dynamodb",
-      "aws",
-      "rest"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-10T18:06:43+00:00",
-    "fetched_at": "2026-06-20T01:56:51.701Z",
-    "raw": {
-      "id": 146085,
-      "url": "https://jobicy.com/jobs/146085-staff-software-developer-2",
-      "jobSlug": "146085-staff-software-developer-2",
-      "jobTitle": "Staff Software Developer",
-      "companyName": "Varicent",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/c86166a8-221.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Canada",
-      "jobLevel": "Senior",
-      "jobExcerpt": "At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market...",
-      "jobDescription": "<div>\n<div>At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the <em>2025 Forrester Wave Report for SPM</em>, <em>2023 Ventana Research Revenue Performance Management (RPM) Value Index</em>, <em>Gartner Peer Insights</em>, <em>2024 Gartner SPM Market Guide</em>, and <em>G2. </em>Our solutions are trusted by a diverse range of global industry leaders like T-Mobile, ServiceNow, Wawanesa Bank, Shaw Industries, Moody's, Stryker and hundreds more. Here’s why you’ll thrive at Varicent:</div>\n<ul>\n<li><strong>Innovate with Purpose: Build impactful solutions for customers worldwide.</strong></li>\n<li><strong>Join Excellence: Work in a diverse, collaborative, and innovative team.</strong></li>\n<li><strong>Shape the Future: Lead in redefining revenue optimization.</strong></li>\n<li><strong>Grow Together: Unlock your potential in a supportive environment.</strong></li>\n</ul>\n<div>Join us at Varicent—where your talent and ambition meet limitless opportunities for success!</div>\n</div>\n<h2>Staff Software Developer</h2>\n<p>The Incentives Development team is dedicated to driving innovation and excellence in everything we build. By combining deep technical expertise with creative problem-solving, the team delivers a best-in-class user experience for our customers. Our commitment to customer success extends beyond feature delivery—we continuously explore new opportunities to enhance our platform through cutting-edge capabilities that delight users and exceed expectations.</p>\n<p>With a strong focus on quality, scalability, and performance, we consistently push the boundaries of efficiency, ensuring our systems remain modern, reliable, and built for the future.</p>\n<p>As a <strong>Staff Software Developer</strong>, you will be part of a multidisciplinary team of developers, designers, data scientists, and business professionals. You will work on <strong>Varicent Incentives</strong>, a single-page web application built using React and Redux that connects to a REST API written in C# and hosted on AWS.</p>\n<h2> What You'll Do</h2>\n<ul>\n<li>\n<p>Build new features for our REST API and enhance AWS infrastructure using a modern technology stack, including C# and AWS CloudFormation.</p>\n</li>\n<li>\n<p>Partner closely with Product Management, Design, and QA teams to deliver new features and platform enhancements.</p>\n</li>\n<li>\n<p>Participate in our pull request review process, ensuring high code quality while providing thoughtful feedback and mentorship to fellow team members.</p>\n</li>\n<li>\n<p>Optimize application performance, scalability, and responsiveness across large datasets.</p>\n</li>\n<li>\n<p>Develop cloud-native features using AWS services such as Lambda, S3, DynamoDB, and Redshift.</p>\n</li>\n<li>\n<p>Automate deployments and CI/CD pipelines using Infrastructure-as-Code technologies.</p>\n</li>\n<li>\n<p>Identify and resolve performance bottlenecks while ensuring high availability and platform reliability.</p>\n</li>\n</ul>\n<h2>✅ What You'll Bring</h2>\n<h2>Technical Skills</h2>\n<ul>\n<li>\n<p>7+ years of software development experience, with a focus on data-intensive applications.</p>\n</li>\n<li>\n<p>Proficiency in at least one backend programming language (e.g., C#, Java, or C++).</p>\n</li>\n<li>\n<p>Hands-on experience with AWS services such as EC2, S3, Lambda, RDS, and Redshift.</p>\n</li>\n<li>\n<p>Understanding of ELT/ETL processes and the challenges associated with handling large-scale datasets.</p>\n</li>\n<li>\n<p>Strong understanding of software design principles and engineering best practices.</p>\n</li>\n<li>\n<p>Excellent problem-solving skills and a passion for building clean, scalable, and maintainable solutions.</p>\n</li>\n</ul>\n<h2>Collaboration &amp; Communication</h2>\n<ul>\n<li>\n<p>Strong English communication skills and the ability to collaborate effectively within cross-functional teams.</p>\n</li>\n<li>\n<p>B2-level English proficiency or higher is required.</p>\n</li>\n</ul>\n<h2> First 30 Days: Getting Started</h2>\n<ul>\n<li>\n<p>Learn and become familiar with our development processes, codebase, coding standards, and tools.</p>\n</li>\n<li>\n<p>Actively participate in team meetings, collaborate with colleagues, and communicate progress, blockers, and learnings effectively.</p>\n</li>\n<li>\n<p>Complete well-defined tasks and bug fixes while demonstrating the ability to write high-quality code.</p>\n</li>\n</ul>\n<h2>️ First 60 Days: Building Momentum</h2>\n<ul>\n<li>\n<p>Become increasingly independent when handling assigned work, requiring less supervision and guidance.</p>\n</li>\n<li>\n<p>Take ownership of more complex assignments, including implementing new features and modules.</p>\n</li>\n<li>\n<p>Demonstrate improved troubleshooting skills and the ability to resolve issues efficiently.</p>\n</li>\n<li>\n<p>Consistently adhere to coding standards, produce maintainable and well-documented code, and actively participate in code reviews.</p>\n</li>\n<li>\n<p>Contribute valuable insights during team discussions and collaborate effectively across functions.</p>\n</li>\n</ul>\n<h2> First 90 Days: Hitting Your Stride</h2>\n<ul>\n<li>\n<p>Lead the development of a larger feature or service that is critical to the Incentives Management application.</p>\n</li>\n<li>\n<p>Ensure scalability, reliability, and performance through rigorous testing and optimization.</p>\n</li>\n<li>\n<p>Develop a strong understanding of the application's core architecture and troubleshoot reported defects with minimal assistance.</p>\n</li>\n<li>\n<p>Consistently meet project deadlines while delivering high-quality work.</p>\n</li>\n<li>\n<p>Demonstrate a commitment to continuous learning and staying current with emerging technologies and industry trends.</p>\n</li>\n<li>\n<p>Identify opportunities to improve development processes and recommend solutions that enhance efficiency and productivity.</p>\n</li>\n<li>\n<p>Participate in roadmap planning, technical discussions, and estimation exercises to help shape the future direction of the platform.</p>\n</li>\n</ul>\n<p><em>The expected base salary range for this role is $104,300 - $136,800* CAD, and individuals may be eligible to participate in our variable compensation program.</em></p>\n<p><em>*Final compensation may vary based on experience, skills, designations, and market conditions. </em><em>This posting is for an existing vacancy.</em></p>\n<p><em>This hiring process utilizes artificial intelligence tools to assist in candidate screening and assessment. Our AI tools are designed to complement, not replace, human decision-making.</em></p>\n<div>\n<div>Varicent is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. If you require accommodation at any time during the recruitment process please email accomodations@varicent.com</div>\n<div> </div>\n<div>Varicent is also committed to compliance with all fair employment practices regarding citizenship and immigration status. By applying for a position at Varicent and/or by using this portal, you declare and confirm that you have read and agree to our<a href=\"https://www.varicent.com/recruitment-portal-privacy-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Job Applicant Privacy Notice</a> and that the information provided by you as part of your application is true and complete and includes no misrepresentation or material omission of fact</div>\n</div>",
-      "pubDate": "2026-06-10T18:06:43+00:00",
-      "salaryMin": 104300,
-      "salaryMax": 136800,
       "salaryCurrency": "CAD",
       "salaryPeriod": "yearly"
     }
