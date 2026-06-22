@@ -1,5 +1,152 @@
 [
   {
+    "id": "jobicy:147410",
+    "platform": "jobicy",
+    "external_id": "147410",
+    "title": "Staff Backend Engineer / Tech Lead Manager",
+    "company": "Nebius",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D. Nebius Managed Kubernetes (mk8s) mission is to grow the Nebius cloud platform by providing a Kubernetes-native way to run AI systems with high efficiency and low operational overhead. With a single click, it provides a Kubernetes cluster on top of Nebius services for compute (VMs) and networking. In 2026, the service is scaling 10× and is expected to manage customer workloads across tens of thousands of GPU servers in more than 10 data centers. You will lead the mk8s Core team, one of three mk8s teams. The Core team owns the API, the core of the service control plane, cluster autoscaling, platform integrations, and running k8s add-ons. At Nebius, team leads are hands-on. We expect you to be a senior or staff engineer now (or earlier in your career). You will start as an individual contributor to gain context, then take on managerial responsibilities. In this position, you will be responsible to: Lead by example. Set the quality bar by spending a significant portion of your time on IC work: writing and reviewing code, leading projects, and participating in on-call rotation, incident mitigation, and post-incident analysis. Manage 4–8 mid-to-senior engineers. Provide context, coach, and give regular feedback. Maintain the technical vision for your area of responsibility. Collaborate with the Product Manager and Service Owner to shape product vision and plans. Examples of outcomes you could drive as a Team Lead Optimize the service control plane to create and manage 20K GPU nodes in a single Kubernetes cluster, enabling a major contract for the company. Integrate cluster autoscaling approaches (e.g., Karpenter) to improve resource utilization and support seamless auto-upgrades. Provide a Kubernetes-native way to use local disks to reduce disk I/O bottlenecks for AI training and inference, improving efficiency. Deliver managed Layer 7 load balancers to reduce operational overhead for customers. What you will bring to the table: 8+ years of professional software engineering or management experience Excellent knowledge of Golang, or you are ready to quickly switch to this programming language Expertise with Multi-month technical projects Tech leading engineers Owning multi-month technical projects. It would be an added bonus if you had: Experience with Team management, Kubernetes administration, Developing Kubernetes controllers Benefits &amp; Perks: Competitive compensation Career growth and learning opportunities Flexibility and ownership Collaborative and innovative culture Opportunity to work on impactful AI projects International environment and talented teams What's it like to work at Nebius: Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI Equal Opportunity Statement: Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. If you need accommodations during the application process, please let us know.",
+    "url": "https://jobicy.com/jobs/147410-staff-backend-engineer-tech-lead-manager",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Europe,  Germany,  Netherlands,  UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "go",
+      "kubernetes",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-22T13:21:48+00:00",
+    "fetched_at": "2026-06-22T20:25:43.993Z",
+    "raw": {
+      "id": 147410,
+      "url": "https://jobicy.com/jobs/147410-staff-backend-engineer-tech-lead-manager",
+      "jobSlug": "147410-staff-backend-engineer-tech-lead-manager",
+      "jobTitle": "Staff Backend Engineer / Tech Lead Manager",
+      "companyName": "Nebius",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/d90c0566-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe,  Germany,  Netherlands,  UK",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from...",
+      "jobDescription": "<div>\n<p><strong>About Nebius:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p>\n</div>\n<p>Nebius Managed Kubernetes (mk8s) mission is to grow the Nebius cloud platform by providing a Kubernetes-native way to run AI systems with high efficiency and low operational overhead. <br />With a single click, it provides a Kubernetes cluster on top of Nebius services for compute (VMs) and networking. <br />In 2026, the service is scaling 10× and is expected to manage customer workloads across tens of thousands of GPU servers in more than 10 data centers.</p>\n<p>You will lead the mk8s Core team, one of three mk8s teams. The Core team owns the API, the core of the service control plane, cluster autoscaling, platform integrations, and running k8s add-ons.<br />At Nebius, team leads are hands-on. We expect you to be a senior or staff engineer now (or earlier in your career). You will start as an individual contributor to gain context, then take on managerial responsibilities.</p>\n<p><strong>In this position, you will be responsible to:</strong></p>\n<ul>\n<li><strong>Lead by example.</strong> Set the quality bar by spending a significant portion of your time on IC work: writing and reviewing code, leading projects, and participating in on-call rotation, incident mitigation, and post-incident analysis.</li>\n<li><strong>Manage 4–8 mid-to-senior engineers.</strong> Provide context, coach, and give regular feedback.</li>\n<li><strong>Maintain the technical vision</strong> for your area of responsibility.</li>\n<li><strong>Collaborate with the Product Manager and Service Owner</strong> to shape product vision and plans.</li>\n</ul>\n<h2>Examples of outcomes you could drive as a Team Lead</h2>\n<ul>\n<li>Optimize the service control plane to create and manage 20K GPU nodes in a single Kubernetes cluster, enabling a major contract for the company.</li>\n<li>Integrate cluster autoscaling approaches (e.g., Karpenter) to improve resource utilization and support seamless auto-upgrades.</li>\n<li>Provide a Kubernetes-native way to use local disks to reduce disk I/O bottlenecks for AI training and inference, improving efficiency.</li>\n<li>Deliver managed Layer 7 load balancers to reduce operational overhead for customers.</li>\n</ul>\n<p><strong>What you will bring to the table:</strong></p>\n<ul>\n<li>8+ years of professional software engineering or management experience</li>\n<li>Excellent knowledge of Golang, or you are ready to quickly switch to this programming language</li>\n<li>Expertise with</li>\n<ul>\n<li>Multi-month technical projects</li>\n<li>Tech leading engineers</li>\n<li>Owning multi-month technical projects.</li>\n</ul>\n</ul>\n<p><strong>It would be an added bonus if you had:</strong></p>\n<ul>\n<li>Experience with Team management, Kubernetes administration, Developing Kubernetes controllers</li>\n</ul>\n<div>\n<p><strong>Benefits &amp; Perks:</strong></p>\n<ul>\n<li>Competitive compensation</li>\n<li>Career growth and learning opportunities</li>\n<li>Flexibility and ownership</li>\n<li>Collaborative and innovative culture</li>\n<li>Opportunity to work on impactful AI projects</li>\n<li>International environment and talented teams</li>\n</ul>\n<p><strong>What's it like to work at Nebius:</strong></p>\n<p>Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI </p>\n<p><strong>Equal Opportunity Statement:</strong></p>\n<p>Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law.</p>\n<p>Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. </p>\n<p>If you need accommodations during the application process, please let us know.</p>\n</div>",
+      "pubDate": "2026-06-22T13:21:48+00:00"
+    }
+  },
+  {
+    "id": "jobicy:147408",
+    "platform": "jobicy",
+    "external_id": "147408",
+    "title": "Senior Backend Software Engineer (Observability)",
+    "company": "Nebius",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D. The role We are looking for a Senior Backend Software Engineer to join our Observability Platform team in Amsterdam or remotely. Building a reliable and profitable cloud platform is impossible without world-class observability. It spans every layer of the stack — from developer tooling and CI/CD pipelines to Kubernetes, managed services, databases, networking, and customer workloads. Our mission is to provide a unified ecosystem for logs, metrics, traces, alerting, and troubleshooting that enables engineers to understand and operate systems at scale. You will build and scale the core services behind this platform, working on high-volume telemetry ingestion, distributed storage, query engines, alerting pipelines, and new ways to help engineers make sense of operational data, including AI-assisted troubleshooting. We expect you to have: 5+ years of professional software engineering experience Strong knowledge of Golang or willingness to quickly switch to it Experience building distributed backend systems Solid understanding of software reliability, scalability, and performance Ability to troubleshoot complex production issues Teamwork-oriented approach and strong communication skills It would be an added bonus if you had: Experience building or contributing to observability platforms, telemetry systems, or related open-source projects such as Prometheus, Grafana, Loki, Jaeger, OpenTelemetry, VictoriaMetrics, Mimir, Tempo, or similar technologies Experience using ClickHouse in production Benefits &amp; Perks: Competitive compensation Career growth and learning opportunities Flexibility and ownership Collaborative and innovative culture Opportunity to work on impactful AI projects International environment and talented teams What's it like to work at Nebius: Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI Equal Opportunity Statement: Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. If you need accommodations during the application process, please let us know.",
+    "url": "https://jobicy.com/jobs/147408-senior-backend-software-engineer-observability",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Czechia,  Europe,  Germany,  Netherlands,  UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "go",
+      "clickhouse",
+      "kubernetes",
+      "prometheus",
+      "grafana",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-22T13:21:45+00:00",
+    "fetched_at": "2026-06-22T20:25:43.994Z",
+    "raw": {
+      "id": 147408,
+      "url": "https://jobicy.com/jobs/147408-senior-backend-software-engineer-observability",
+      "jobSlug": "147408-senior-backend-software-engineer-observability",
+      "jobTitle": "Senior Backend Software Engineer (Observability)",
+      "companyName": "Nebius",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/d90c0566-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Czechia,  Europe,  Germany,  Netherlands,  UK",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from...",
+      "jobDescription": "<div>\n<p><strong>About Nebius:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p>\n</div>\n<h2>The role </h2>\n<p>We are looking for a Senior Backend Software Engineer to join our Observability Platform team in Amsterdam or remotely. Building a reliable and profitable cloud platform is impossible without world-class observability. It spans every layer of the stack — from developer tooling and CI/CD pipelines to Kubernetes, managed services, databases, networking, and customer workloads. Our mission is to provide a unified ecosystem for logs, metrics, traces, alerting, and troubleshooting that enables engineers to understand and operate systems at scale. You will build and scale the core services behind this platform, working on high-volume telemetry ingestion, distributed storage, query engines, alerting pipelines, and new ways to help engineers make sense of operational data, including AI-assisted troubleshooting. </p>\n<h3>We expect you to have: </h3>\n<ul>\n<li>5+ years of professional software engineering experience</li>\n<li>Strong knowledge of Golang or willingness to quickly switch to it</li>\n<li>Experience building distributed backend systems</li>\n<li>Solid understanding of software reliability, scalability, and performance</li>\n<li>Ability to troubleshoot complex production issues</li>\n<li>Teamwork-oriented approach and strong communication skills</li>\n</ul>\n<h3>It would be an added bonus if you had: </h3>\n<ul>\n<li>Experience building or contributing to observability platforms, telemetry systems, or related open-source projects such as Prometheus, Grafana, Loki, Jaeger, OpenTelemetry, VictoriaMetrics, Mimir, Tempo, or similar technologies</li>\n<li>Experience using ClickHouse in production</li>\n</ul>\n<div>\n<p><strong>Benefits &amp; Perks:</strong></p>\n<ul>\n<li>Competitive compensation</li>\n<li>Career growth and learning opportunities</li>\n<li>Flexibility and ownership</li>\n<li>Collaborative and innovative culture</li>\n<li>Opportunity to work on impactful AI projects</li>\n<li>International environment and talented teams</li>\n</ul>\n<p><strong>What's it like to work at Nebius:</strong></p>\n<p>Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI </p>\n<p><strong>Equal Opportunity Statement:</strong></p>\n<p>Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law.</p>\n<p>Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. </p>\n<p>If you need accommodations during the application process, please let us know.</p>\n</div>",
+      "pubDate": "2026-06-22T13:21:45+00:00"
+    }
+  },
+  {
+    "id": "jobicy:147399",
+    "platform": "jobicy",
+    "external_id": "147399",
+    "title": "Senior QA Automation Engineer (BDD)",
+    "company": "Zartis",
+    "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud native engineering. You will work on meaningful projects that accelerate the adoption of advanced technologies, from strategy and discovery through to full product delivery, helping turn complex challenges into measurable outcomes. With engineering hubs across EMEA and LATAM, and long term partnerships in financial services, healthcare and life sciences, and energy and climate, we offer opportunities to work on projects that truly matter. Here, you will not just build technology, you will drive business impact and grow your career alongside industry leaders. We are looking for a Senior QA Engineer to work on a project in the green energy industry. The project: Our teammates are talented people that come from a variety of backgrounds. We’re committed to building an inclusive culture based on trust and innovation. You will be part of a distributed, multi-functional Agile team developing new technologies to solve real business problems, with responsibility for managing and resolving defects collaboratively. We are looking for someone with good communication skills, ideally with experience making decisions, being proactive, used to building software from scratch, and with excellent attention to detail. What you will do: Collaborate with development and product teams to establish test approaches. Design and implement test plans and cases. Develop and execute manual and automated tests such as API, UI, Regression, functional and non functional tests. Identify defects and collaborate with the team to resolve them. Integrate tests into the CI/CD pipeline to ensure reliable and high-quality software releases. Plan and lead User Acceptance Testing with internal and external users. Prepare, set up and maintain test data alongside the ability to setup relevant tools to support test execution. Contribute to team initiatives to improve the overall QA process, such as identifying gaps or inefficiencies in automation workflows and manual testing processes and suggesting improvements. What you will bring: 2-5 years of software development or QA automation Experience using Behaviour Driven Development (BDD). Experience maintaining and executing manual and automated test harnesses. Experience testing REST APIs. Experience with Playwright, Jest or other best in class testing frameworks. Experience with TypeScript, JavaScript, Python, Cucumber, HTTP request/Assert libraries. Experience with CLI tools such as GIT. Excellent verbal and written communication in English. Excellent attention to detail. What we offer: 100% Remote Work WFH allowance: Monthly payment as financial support for remote working. Career Growth: We have established a career development program accessible for all employees with a 360º feedback that will help us to guide you in your career progression. Training: For Tech training at Zartis, you have time allocated during the week at your disposal. You can request from a variety of options, such as online courses (from Pluralsight and Educative.io, for example), English classes, books, conferences, and events. Mentoring Program: You can become a mentor in Zartis or you can receive mentorship, or both. Zartis Wellbeing Hub (Kara Connect) : A platform that provides sessions with a range of specialists, including mental health professionals, nutritionists, physiotherapists, fitness coaches, and webinars with such professionals as well. Multicultural working environment: We organize tech events, webinars, parties, and activities to do online team-building games and contests.",
+    "url": "https://jobicy.com/jobs/147399-senior-qa-automation-engineer-bdd",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Europe",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "jest",
+      "playwright",
+      "git"
+    ],
+    "tags": [
+      "QA &amp; Testing"
+    ],
+    "posted_at": "2026-06-22T13:21:30+00:00",
+    "fetched_at": "2026-06-22T20:25:43.995Z",
+    "raw": {
+      "id": 147399,
+      "url": "https://jobicy.com/jobs/147399-senior-qa-automation-engineer-bdd",
+      "jobSlug": "147399-senior-qa-automation-engineer-bdd",
+      "jobTitle": "Senior QA Automation Engineer (BDD)",
+      "companyName": "Zartis",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/9bd0869f-221.webp",
+      "jobIndustry": [
+        "QA &amp; Testing"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe",
+      "jobLevel": "Senior",
+      "jobExcerpt": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations...",
+      "jobDescription": "<div>\n<p><strong>The company and our mission:</strong></p>\n<p>Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact.</p>\n<p>Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud native engineering. You will work on meaningful projects that accelerate the adoption of advanced technologies, from strategy and discovery through to full product delivery, helping turn complex challenges into measurable outcomes.</p>\n<p>With engineering hubs across EMEA and LATAM, and long term partnerships in financial services, healthcare and life sciences, and energy and climate, we offer opportunities to work on projects that truly matter. Here, you will not just build technology, you will drive business impact and grow your career alongside industry leaders.</p>\n<p>We are looking for a <strong>Senior QA Engineer</strong> to work on a project in the green energy industry.</p>\n<p><strong>The project:</strong></p>\n<p>Our teammates are talented people that come from a variety of backgrounds. We’re committed to building an inclusive culture based on trust and innovation.</p>\n<p>You will be part of a distributed, multi-functional Agile team developing new technologies to solve real business problems, with responsibility for managing and resolving defects collaboratively.</p>\n<p>We are looking for someone with good communication skills, ideally with experience making decisions, being proactive, used to building software from scratch, and with excellent attention to detail.</p>\n<p><strong>What you will do:</strong></p>\n<ul>\n<li>Collaborate with development and product teams to establish test approaches.</li>\n<li>Design and implement test plans and cases.</li>\n<li>Develop and execute manual and automated tests such as API, UI, Regression, functional and non functional tests.</li>\n<li>Identify defects and collaborate with the team to resolve them.</li>\n<li>Integrate tests into the CI/CD pipeline to ensure reliable and high-quality software releases.</li>\n<li>Plan and lead User Acceptance Testing with internal and external users.</li>\n<li>Prepare, set up and maintain test data alongside the ability to setup relevant tools to support test execution.</li>\n<li>Contribute to team initiatives to improve the overall QA process, such as identifying gaps or inefficiencies in automation workflows and manual testing processes and suggesting improvements.</li>\n</ul>\n<p><strong>What you will bring:</strong></p>\n<ul>\n<li>2-5 years of software development or QA automation</li>\n<li>Experience using Behaviour Driven Development (BDD).</li>\n<li>Experience maintaining and executing manual and automated test harnesses.</li>\n<li>Experience testing REST APIs.</li>\n<li>Experience with Playwright, Jest or other best in class testing frameworks.</li>\n<li>Experience with TypeScript, JavaScript, Python, Cucumber, HTTP request/Assert libraries.</li>\n<li>Experience with CLI tools such as GIT.</li>\n<li>Excellent verbal and written communication in English.</li>\n<li>Excellent attention to detail.</li>\n</ul>\n<p><strong>What we offer:</strong></p>\n<ul>\n<li><strong>100%</strong> <strong>Remote Work</strong></li>\n<li><strong>WFH allowance:</strong> Monthly payment as financial support for remote working.</li>\n<li><strong>Career Growth: We have established a career development program accessible for all employees with a 360º feedback that will help us to guide you in your career progression.</strong></li>\n<li><strong>Training:</strong> For Tech training at Zartis, you have time allocated during the week at your disposal. You can request from a variety of options, such as online courses (from Pluralsight and Educative.io, for example), English classes, books, conferences, and events.</li>\n<li><strong>Mentoring Program:</strong> You can become a mentor in Zartis or you can receive mentorship, or both.</li>\n<li><strong>Zartis Wellbeing Hub (Kara Connect)</strong>: A platform that provides sessions with a range of specialists, including mental health professionals, nutritionists, physiotherapists, fitness coaches, and webinars with such professionals as well.</li>\n<li><strong>Multicultural working environment: </strong>We organize tech events, webinars, parties, and activities to do online team-building games and contests.</li>\n</ul>\n</div>",
+      "pubDate": "2026-06-22T13:21:30+00:00"
+    }
+  },
+  {
     "id": "jobicy:144376",
     "platform": "jobicy",
     "external_id": "144376",
@@ -33,7 +180,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-22T01:26:50+00:00",
-    "fetched_at": "2026-06-22T16:20:52.838Z",
+    "fetched_at": "2026-06-22T20:25:43.996Z",
     "raw": {
       "id": 144376,
       "url": "https://jobicy.com/jobs/144376-machine-learning-engineer-3",
@@ -85,7 +232,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:31:04+00:00",
-    "fetched_at": "2026-06-22T16:20:52.840Z",
+    "fetched_at": "2026-06-22T20:25:43.997Z",
     "raw": {
       "id": 147339,
       "url": "https://jobicy.com/jobs/147339-it-engineer",
@@ -138,7 +285,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:31:00+00:00",
-    "fetched_at": "2026-06-22T16:20:52.842Z",
+    "fetched_at": "2026-06-22T20:25:43.999Z",
     "raw": {
       "id": 147337,
       "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
@@ -190,7 +337,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:58+00:00",
-    "fetched_at": "2026-06-22T16:20:52.844Z",
+    "fetched_at": "2026-06-22T20:25:44.001Z",
     "raw": {
       "id": 147336,
       "url": "https://jobicy.com/jobs/147336-principal-engineer-catalog",
@@ -245,7 +392,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:57+00:00",
-    "fetched_at": "2026-06-22T16:20:52.846Z",
+    "fetched_at": "2026-06-22T20:25:44.005Z",
     "raw": {
       "id": 147335,
       "url": "https://jobicy.com/jobs/147335-principal-engineer-mobile",
@@ -299,7 +446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:55+00:00",
-    "fetched_at": "2026-06-22T16:20:52.847Z",
+    "fetched_at": "2026-06-22T20:25:44.007Z",
     "raw": {
       "id": 147334,
       "url": "https://jobicy.com/jobs/147334-sr-software-engineer-ii-ai",
@@ -354,7 +501,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:53+00:00",
-    "fetched_at": "2026-06-22T16:20:52.849Z",
+    "fetched_at": "2026-06-22T20:25:44.008Z",
     "raw": {
       "id": 147333,
       "url": "https://jobicy.com/jobs/147333-sr-software-engineer-ii-catalog",
@@ -409,7 +556,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:52+00:00",
-    "fetched_at": "2026-06-22T16:20:52.850Z",
+    "fetched_at": "2026-06-22T20:25:44.009Z",
     "raw": {
       "id": 147332,
       "url": "https://jobicy.com/jobs/147332-full-stack-engineer-global",
@@ -473,7 +620,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:50+00:00",
-    "fetched_at": "2026-06-22T16:20:52.852Z",
+    "fetched_at": "2026-06-22T20:25:44.011Z",
     "raw": {
       "id": 147331,
       "url": "https://jobicy.com/jobs/147331-infrastructure-engineer",
@@ -526,7 +673,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T00:31:46+00:00",
-    "fetched_at": "2026-06-22T16:20:52.853Z",
+    "fetched_at": "2026-06-22T20:25:44.012Z",
     "raw": {
       "id": 144326,
       "url": "https://jobicy.com/jobs/144326-security-engineer-2",
@@ -573,7 +720,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T00:26:42+00:00",
-    "fetched_at": "2026-06-22T16:20:52.854Z",
+    "fetched_at": "2026-06-22T20:25:44.013Z",
     "raw": {
       "id": 144336,
       "url": "https://jobicy.com/jobs/144336-staff-security-architect",
@@ -620,7 +767,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-20T09:26:44+00:00",
-    "fetched_at": "2026-06-22T16:20:52.855Z",
+    "fetched_at": "2026-06-22T20:25:44.014Z",
     "raw": {
       "id": 144246,
       "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
@@ -665,7 +812,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-20T04:26:43+00:00",
-    "fetched_at": "2026-06-22T16:20:52.856Z",
+    "fetched_at": "2026-06-22T20:25:44.015Z",
     "raw": {
       "id": 144256,
       "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
@@ -716,7 +863,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T13:36:45+00:00",
-    "fetched_at": "2026-06-22T16:20:52.857Z",
+    "fetched_at": "2026-06-22T20:25:44.016Z",
     "raw": {
       "id": 144153,
       "url": "https://jobicy.com/jobs/144153-senior-ios-sdk-engineer",
@@ -780,7 +927,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:41:45+00:00",
-    "fetched_at": "2026-06-22T16:20:52.859Z",
+    "fetched_at": "2026-06-22T20:25:44.017Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -829,7 +976,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:26:42+00:00",
-    "fetched_at": "2026-06-22T16:20:52.860Z",
+    "fetched_at": "2026-06-22T20:25:44.018Z",
     "raw": {
       "id": 144167,
       "url": "https://jobicy.com/jobs/144167-sr-software-engineer-2",
@@ -882,7 +1029,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:21:44+00:00",
-    "fetched_at": "2026-06-22T16:20:52.860Z",
+    "fetched_at": "2026-06-22T20:25:44.019Z",
     "raw": {
       "id": 144179,
       "url": "https://jobicy.com/jobs/144179-golang-engineer",
@@ -941,7 +1088,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T22:11:45+00:00",
-    "fetched_at": "2026-06-22T16:20:52.862Z",
+    "fetched_at": "2026-06-22T20:25:44.020Z",
     "raw": {
       "id": 143911,
       "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
@@ -989,7 +1136,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:58+00:00",
-    "fetched_at": "2026-06-22T16:20:52.864Z",
+    "fetched_at": "2026-06-22T20:25:44.022Z",
     "raw": {
       "id": 147190,
       "url": "https://jobicy.com/jobs/147190-ai-soc-hardware-architect",
@@ -1035,7 +1182,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:56+00:00",
-    "fetched_at": "2026-06-22T16:20:52.865Z",
+    "fetched_at": "2026-06-22T20:25:44.023Z",
     "raw": {
       "id": 147189,
       "url": "https://jobicy.com/jobs/147189-ai-compiler-engineer",
@@ -1086,7 +1233,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:54+00:00",
-    "fetched_at": "2026-06-22T16:20:52.866Z",
+    "fetched_at": "2026-06-22T20:25:44.024Z",
     "raw": {
       "id": 147188,
       "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
@@ -1135,7 +1282,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:51+00:00",
-    "fetched_at": "2026-06-22T16:20:52.867Z",
+    "fetched_at": "2026-06-22T20:25:44.025Z",
     "raw": {
       "id": 147186,
       "url": "https://jobicy.com/jobs/147186-system-developer",
@@ -1184,7 +1331,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T17:01:42+00:00",
-    "fetched_at": "2026-06-22T16:20:52.868Z",
+    "fetched_at": "2026-06-22T20:25:44.026Z",
     "raw": {
       "id": 144972,
       "url": "https://jobicy.com/jobs/144972-emerging-talent-aspire-engineering-and-technology-italy-2026-opportunities",
@@ -1234,7 +1381,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:11:42+00:00",
-    "fetched_at": "2026-06-22T16:20:52.869Z",
+    "fetched_at": "2026-06-22T20:25:44.027Z",
     "raw": {
       "id": 143893,
       "url": "https://jobicy.com/jobs/143893-web-application-software-engineer",
@@ -1285,7 +1432,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:01:49+00:00",
-    "fetched_at": "2026-06-22T16:20:52.872Z",
+    "fetched_at": "2026-06-22T20:25:44.029Z",
     "raw": {
       "id": 143908,
       "url": "https://jobicy.com/jobs/143908-senior-sales-engineer-5",
@@ -1331,7 +1478,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:01:48+00:00",
-    "fetched_at": "2026-06-22T16:20:52.873Z",
+    "fetched_at": "2026-06-22T20:25:44.030Z",
     "raw": {
       "id": 143906,
       "url": "https://jobicy.com/jobs/143906-senior-software-engineer-13",
@@ -1384,7 +1531,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-18T07:01:46+00:00",
-    "fetched_at": "2026-06-22T16:20:52.874Z",
+    "fetched_at": "2026-06-22T20:25:44.031Z",
     "raw": {
       "id": 143900,
       "url": "https://jobicy.com/jobs/143900-analyst-ii-full-stack-2",
@@ -1437,7 +1584,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:56:43+00:00",
-    "fetched_at": "2026-06-22T16:20:52.876Z",
+    "fetched_at": "2026-06-22T20:25:44.033Z",
     "raw": {
       "id": 143969,
       "url": "https://jobicy.com/jobs/143969-ai-automation-engineer",
@@ -1484,7 +1631,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:46:55+00:00",
-    "fetched_at": "2026-06-22T16:20:52.877Z",
+    "fetched_at": "2026-06-22T20:25:44.034Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -1531,7 +1678,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:41:54+00:00",
-    "fetched_at": "2026-06-22T16:20:52.878Z",
+    "fetched_at": "2026-06-22T20:25:44.035Z",
     "raw": {
       "id": 144098,
       "url": "https://jobicy.com/jobs/144098-senior-software-engineer-full-remote-france-or-hybrid-2",
@@ -1588,7 +1735,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:36:44+00:00",
-    "fetched_at": "2026-06-22T16:20:52.879Z",
+    "fetched_at": "2026-06-22T20:25:44.036Z",
     "raw": {
       "id": 144103,
       "url": "https://jobicy.com/jobs/144103-ai-engineer-fde-forward-deployed-engineer",
@@ -1639,7 +1786,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:06:46+00:00",
-    "fetched_at": "2026-06-22T16:20:52.880Z",
+    "fetched_at": "2026-06-22T20:25:44.036Z",
     "raw": {
       "id": 144839,
       "url": "https://jobicy.com/jobs/144839-front-end-engineer-2",
@@ -1685,7 +1832,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T04:00:52+00:00",
-    "fetched_at": "2026-06-22T16:20:52.881Z",
+    "fetched_at": "2026-06-22T20:25:44.037Z",
     "raw": {
       "id": 147114,
       "url": "https://jobicy.com/jobs/147114-solution-engineer-2",
@@ -1728,7 +1875,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T04:00:48+00:00",
-    "fetched_at": "2026-06-22T16:20:52.882Z",
+    "fetched_at": "2026-06-22T20:25:44.038Z",
     "raw": {
       "id": 147112,
       "url": "https://jobicy.com/jobs/147112-principal-geotechnical-engineer",
@@ -1775,7 +1922,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-17T18:51:08+00:00",
-    "fetched_at": "2026-06-22T16:20:52.883Z",
+    "fetched_at": "2026-06-22T20:25:44.039Z",
     "raw": {
       "id": 147080,
       "url": "https://jobicy.com/jobs/147080-senior-net-wpf-developer",
@@ -1827,7 +1974,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-17T18:51:06+00:00",
-    "fetched_at": "2026-06-22T16:20:52.884Z",
+    "fetched_at": "2026-06-22T20:25:44.040Z",
     "raw": {
       "id": 147079,
       "url": "https://jobicy.com/jobs/147079-qa-engineer-5",
@@ -1873,7 +2020,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T18:50:44+00:00",
-    "fetched_at": "2026-06-22T16:20:52.885Z",
+    "fetched_at": "2026-06-22T20:25:44.041Z",
     "raw": {
       "id": 147066,
       "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
@@ -1920,7 +2067,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T18:50:42+00:00",
-    "fetched_at": "2026-06-22T16:20:52.887Z",
+    "fetched_at": "2026-06-22T20:25:44.043Z",
     "raw": {
       "id": 147065,
       "url": "https://jobicy.com/jobs/147065-staff-design-engineer",
@@ -1968,7 +2115,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:57+00:00",
-    "fetched_at": "2026-06-22T16:20:52.887Z",
+    "fetched_at": "2026-06-22T20:25:44.044Z",
     "raw": {
       "id": 147050,
       "url": "https://jobicy.com/jobs/147050-ai-systems-engineering-expert",
@@ -2020,7 +2167,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:52+00:00",
-    "fetched_at": "2026-06-22T16:20:52.890Z",
+    "fetched_at": "2026-06-22T20:25:44.046Z",
     "raw": {
       "id": 147047,
       "url": "https://jobicy.com/jobs/147047-lead-cloud-solution-architect-application-modernization-aws",
@@ -2080,7 +2227,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:48+00:00",
-    "fetched_at": "2026-06-22T16:20:52.892Z",
+    "fetched_at": "2026-06-22T20:25:44.048Z",
     "raw": {
       "id": 147045,
       "url": "https://jobicy.com/jobs/147045-lead-cloud-solution-architect-ai-data-aws",
@@ -2136,7 +2283,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-17T11:05:09+00:00",
-    "fetched_at": "2026-06-22T16:20:52.893Z",
+    "fetched_at": "2026-06-22T20:25:44.049Z",
     "raw": {
       "id": 147013,
       "url": "https://jobicy.com/jobs/147013-ios-developer-remote-anywhere-in-mexico",
@@ -2181,7 +2328,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T11:04:40+00:00",
-    "fetched_at": "2026-06-22T16:20:52.894Z",
+    "fetched_at": "2026-06-22T20:25:44.050Z",
     "raw": {
       "id": 147000,
       "url": "https://jobicy.com/jobs/147000-experienced-information-systems-architect",
@@ -2230,7 +2377,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T11:04:38+00:00",
-    "fetched_at": "2026-06-22T16:20:52.896Z",
+    "fetched_at": "2026-06-22T20:25:44.052Z",
     "raw": {
       "id": 146999,
       "url": "https://jobicy.com/jobs/146999-director-solutions-engineering-usa-remote",
@@ -2277,7 +2424,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T05:09:32+00:00",
-    "fetched_at": "2026-06-22T16:20:52.898Z",
+    "fetched_at": "2026-06-22T20:25:44.053Z",
     "raw": {
       "id": 146984,
       "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
@@ -2329,7 +2476,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T05:09:18+00:00",
-    "fetched_at": "2026-06-22T16:20:52.899Z",
+    "fetched_at": "2026-06-22T20:25:44.054Z",
     "raw": {
       "id": 146976,
       "url": "https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes",
@@ -2378,7 +2525,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T16:05:22+00:00",
-    "fetched_at": "2026-06-22T16:20:52.901Z",
+    "fetched_at": "2026-06-22T20:25:44.057Z",
     "raw": {
       "id": 146917,
       "url": "https://jobicy.com/jobs/146917-implementation-engineer",
@@ -2431,7 +2578,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T07:03:36+00:00",
-    "fetched_at": "2026-06-22T16:20:52.902Z",
+    "fetched_at": "2026-06-22T20:25:44.057Z",
     "raw": {
       "id": 146875,
       "url": "https://jobicy.com/jobs/146875-semi-senior-back-end-python-engineer-e-learning",
@@ -2474,7 +2621,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:19:45+00:00",
-    "fetched_at": "2026-06-22T16:20:52.902Z",
+    "fetched_at": "2026-06-22T20:25:44.058Z",
     "raw": {
       "id": 146848,
       "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
@@ -2530,7 +2677,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:34+00:00",
-    "fetched_at": "2026-06-22T16:20:52.904Z",
+    "fetched_at": "2026-06-22T20:25:44.059Z",
     "raw": {
       "id": 146800,
       "url": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl",
@@ -2580,7 +2727,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-16T04:07:29+00:00",
-    "fetched_at": "2026-06-22T16:20:52.904Z",
+    "fetched_at": "2026-06-22T20:25:44.060Z",
     "raw": {
       "id": 146795,
       "url": "https://jobicy.com/jobs/146795-front-end-developer-2",
@@ -2626,7 +2773,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:07:28+00:00",
-    "fetched_at": "2026-06-22T16:20:52.905Z",
+    "fetched_at": "2026-06-22T20:25:44.061Z",
     "raw": {
       "id": 146792,
       "url": "https://jobicy.com/jobs/146792-c-developer-tech-lead-image-processing",
@@ -2682,7 +2829,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:07:27+00:00",
-    "fetched_at": "2026-06-22T16:20:52.906Z",
+    "fetched_at": "2026-06-22T20:25:44.062Z",
     "raw": {
       "id": 146791,
       "url": "https://jobicy.com/jobs/146791-senior-fullstack-engineer-java-vue",
@@ -2729,7 +2876,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:25+00:00",
-    "fetched_at": "2026-06-22T16:20:52.907Z",
+    "fetched_at": "2026-06-22T20:25:44.063Z",
     "raw": {
       "id": 146790,
       "url": "https://jobicy.com/jobs/146790-senior-qa-automation-engineer-3",
@@ -2776,7 +2923,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:04+00:00",
-    "fetched_at": "2026-06-22T16:20:52.908Z",
+    "fetched_at": "2026-06-22T20:25:44.064Z",
     "raw": {
       "id": 146761,
       "url": "https://jobicy.com/jobs/146761-danish-tech-linguistic-tester",
@@ -2823,7 +2970,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:02+00:00",
-    "fetched_at": "2026-06-22T16:20:52.909Z",
+    "fetched_at": "2026-06-22T20:25:44.065Z",
     "raw": {
       "id": 146760,
       "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
@@ -2870,7 +3017,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:01+00:00",
-    "fetched_at": "2026-06-22T16:20:52.910Z",
+    "fetched_at": "2026-06-22T20:25:44.066Z",
     "raw": {
       "id": 146757,
       "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
@@ -2923,7 +3070,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:06:56+00:00",
-    "fetched_at": "2026-06-22T16:20:52.912Z",
+    "fetched_at": "2026-06-22T20:25:44.067Z",
     "raw": {
       "id": 146750,
       "url": "https://jobicy.com/jobs/146750-staff-product-engineer-europe",
@@ -2976,7 +3123,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:06:53+00:00",
-    "fetched_at": "2026-06-22T16:20:52.913Z",
+    "fetched_at": "2026-06-22T20:25:44.068Z",
     "raw": {
       "id": 146746,
       "url": "https://jobicy.com/jobs/146746-senior-product-engineer-europe",
@@ -3025,7 +3172,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:56:22+00:00",
-    "fetched_at": "2026-06-22T16:20:52.916Z",
+    "fetched_at": "2026-06-22T20:25:44.071Z",
     "raw": {
       "id": 146727,
       "url": "https://jobicy.com/jobs/146727-assistant-director-data-engineering-2",
@@ -3078,7 +3225,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:55:46+00:00",
-    "fetched_at": "2026-06-22T16:20:52.917Z",
+    "fetched_at": "2026-06-22T20:25:44.072Z",
     "raw": {
       "id": 146685,
       "url": "https://jobicy.com/jobs/146685-automation-engineer-shreveport-la",
@@ -3123,7 +3270,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-16T03:42:18+00:00",
-    "fetched_at": "2026-06-22T16:20:52.918Z",
+    "fetched_at": "2026-06-22T20:25:44.073Z",
     "raw": {
       "id": 146663,
       "url": "https://jobicy.com/jobs/146663-sr-synon-developer",
@@ -3166,7 +3313,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:31:37+00:00",
-    "fetched_at": "2026-06-22T16:20:52.919Z",
+    "fetched_at": "2026-06-22T20:25:44.074Z",
     "raw": {
       "id": 146657,
       "url": "https://jobicy.com/jobs/146657-associate-application-engineer",
@@ -3221,7 +3368,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:24:07+00:00",
-    "fetched_at": "2026-06-22T16:20:52.921Z",
+    "fetched_at": "2026-06-22T20:25:44.075Z",
     "raw": {
       "id": 146649,
       "url": "https://jobicy.com/jobs/146649-staff-software-engineer-ai-infrastructure-python",
@@ -3274,7 +3421,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:45:44+00:00",
-    "fetched_at": "2026-06-22T16:20:52.922Z",
+    "fetched_at": "2026-06-22T20:25:44.077Z",
     "raw": {
       "id": 146614,
       "url": "https://jobicy.com/jobs/146614-database-engineer",
@@ -3324,7 +3471,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:45:43+00:00",
-    "fetched_at": "2026-06-22T16:20:52.923Z",
+    "fetched_at": "2026-06-22T20:25:44.078Z",
     "raw": {
       "id": 146613,
       "url": "https://jobicy.com/jobs/146613-senior-software-engineer-sustaining-automation-2",
@@ -3373,7 +3520,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:40:02+00:00",
-    "fetched_at": "2026-06-22T16:20:52.924Z",
+    "fetched_at": "2026-06-22T20:25:44.079Z",
     "raw": {
       "id": 146611,
       "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
@@ -3429,7 +3576,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T08:06:42+00:00",
-    "fetched_at": "2026-06-22T16:20:52.926Z",
+    "fetched_at": "2026-06-22T20:25:44.080Z",
     "raw": {
       "id": 146549,
       "url": "https://jobicy.com/jobs/146549-senior-backend-engineer-typescript-nodejs-aws",
@@ -3483,7 +3630,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:44:51+00:00",
-    "fetched_at": "2026-06-22T16:20:52.928Z",
+    "fetched_at": "2026-06-22T20:25:44.083Z",
     "raw": {
       "id": 146310,
       "url": "https://jobicy.com/jobs/146310-staff-software-engineer-2",
@@ -3530,7 +3677,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:30:15+00:00",
-    "fetched_at": "2026-06-22T16:20:52.929Z",
+    "fetched_at": "2026-06-22T20:25:44.084Z",
     "raw": {
       "id": 146306,
       "url": "https://jobicy.com/jobs/146306-senior-qa-engineer-software",
@@ -3583,7 +3730,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:30:07+00:00",
-    "fetched_at": "2026-06-22T16:20:52.931Z",
+    "fetched_at": "2026-06-22T20:25:44.085Z",
     "raw": {
       "id": 146301,
       "url": "https://jobicy.com/jobs/146301-full-stack-engineer-4",
@@ -3641,7 +3788,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:57+00:00",
-    "fetched_at": "2026-06-22T16:20:52.932Z",
+    "fetched_at": "2026-06-22T20:25:44.086Z",
     "raw": {
       "id": 146294,
       "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
@@ -3695,7 +3842,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:55+00:00",
-    "fetched_at": "2026-06-22T16:20:52.933Z",
+    "fetched_at": "2026-06-22T20:25:44.087Z",
     "raw": {
       "id": 146293,
       "url": "https://jobicy.com/jobs/146293-senior-full-stack-engineer-net-angular-asp-net-focus-govtech-hr-software-latam",
@@ -3746,7 +3893,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:51+00:00",
-    "fetched_at": "2026-06-22T16:20:52.934Z",
+    "fetched_at": "2026-06-22T20:25:44.088Z",
     "raw": {
       "id": 146290,
       "url": "https://jobicy.com/jobs/146290-hands-on-tech-lead-proptech-real-estate-media",
@@ -3799,7 +3946,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:42+00:00",
-    "fetched_at": "2026-06-22T16:20:52.935Z",
+    "fetched_at": "2026-06-22T20:25:44.089Z",
     "raw": {
       "id": 146285,
       "url": "https://jobicy.com/jobs/146285-senior-full-stack-engineer-net-asp-net-technology",
@@ -3855,7 +4002,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:39+00:00",
-    "fetched_at": "2026-06-22T16:20:52.936Z",
+    "fetched_at": "2026-06-22T20:25:44.090Z",
     "raw": {
       "id": 146283,
       "url": "https://jobicy.com/jobs/146283-senior-full-stack-engineer-react-or-vue-python-investment-latam",
@@ -3903,7 +4050,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:27+00:00",
-    "fetched_at": "2026-06-22T16:20:52.937Z",
+    "fetched_at": "2026-06-22T20:25:44.091Z",
     "raw": {
       "id": 146276,
       "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
@@ -3956,7 +4103,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:24+00:00",
-    "fetched_at": "2026-06-22T16:20:52.938Z",
+    "fetched_at": "2026-06-22T20:25:44.092Z",
     "raw": {
       "id": 146274,
       "url": "https://jobicy.com/jobs/146274-lead-product-engineer-javascript-technology-company",
@@ -4004,7 +4151,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:19+00:00",
-    "fetched_at": "2026-06-22T16:20:52.939Z",
+    "fetched_at": "2026-06-22T20:25:44.094Z",
     "raw": {
       "id": 146271,
       "url": "https://jobicy.com/jobs/146271-forward-deployed-engineer-technology",
@@ -4051,7 +4198,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:17+00:00",
-    "fetched_at": "2026-06-22T16:20:52.940Z",
+    "fetched_at": "2026-06-22T20:25:44.094Z",
     "raw": {
       "id": 146270,
       "url": "https://jobicy.com/jobs/146270-principal-full-stack-engineer-net-angular-govtech",
@@ -4098,7 +4245,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:29:16+00:00",
-    "fetched_at": "2026-06-22T16:20:52.941Z",
+    "fetched_at": "2026-06-22T20:25:44.095Z",
     "raw": {
       "id": 146269,
       "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
@@ -4145,7 +4292,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:29:14+00:00",
-    "fetched_at": "2026-06-22T16:20:52.942Z",
+    "fetched_at": "2026-06-22T20:25:44.096Z",
     "raw": {
       "id": 146268,
       "url": "https://jobicy.com/jobs/146268-senior-sdet-govtech-industry",
@@ -4191,7 +4338,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:11+00:00",
-    "fetched_at": "2026-06-22T16:20:52.943Z",
+    "fetched_at": "2026-06-22T20:25:44.097Z",
     "raw": {
       "id": 146266,
       "url": "https://jobicy.com/jobs/146266-salesforce-technical-lead",
@@ -4241,7 +4388,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:09+00:00",
-    "fetched_at": "2026-06-22T16:20:52.944Z",
+    "fetched_at": "2026-06-22T20:25:44.098Z",
     "raw": {
       "id": 146265,
       "url": "https://jobicy.com/jobs/146265-lead-front-end-engineer-digital-agency-latam",
@@ -4294,7 +4441,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:08+00:00",
-    "fetched_at": "2026-06-22T16:20:52.946Z",
+    "fetched_at": "2026-06-22T20:25:44.099Z",
     "raw": {
       "id": 146264,
       "url": "https://jobicy.com/jobs/146264-senior-fullstack-engineer-c-react-ecommerce-latam",
@@ -4356,7 +4503,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:55+00:00",
-    "fetched_at": "2026-06-22T16:20:52.948Z",
+    "fetched_at": "2026-06-22T20:25:44.101Z",
     "raw": {
       "id": 146260,
       "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
@@ -4412,7 +4559,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:54+00:00",
-    "fetched_at": "2026-06-22T16:20:52.948Z",
+    "fetched_at": "2026-06-22T20:25:44.102Z",
     "raw": {
       "id": 146259,
       "url": "https://jobicy.com/jobs/146259-net-developer",
@@ -4455,7 +4602,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:41+00:00",
-    "fetched_at": "2026-06-22T16:20:52.949Z",
+    "fetched_at": "2026-06-22T20:25:44.102Z",
     "raw": {
       "id": 146251,
       "url": "https://jobicy.com/jobs/146251-full-stack-developer-4",
@@ -4505,7 +4652,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:23:39+00:00",
-    "fetched_at": "2026-06-22T16:20:52.950Z",
+    "fetched_at": "2026-06-22T20:25:44.103Z",
     "raw": {
       "id": 146250,
       "url": "https://jobicy.com/jobs/146250-solution-architect",
@@ -4560,7 +4707,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T07:19:06+00:00",
-    "fetched_at": "2026-06-22T16:20:52.951Z",
+    "fetched_at": "2026-06-22T20:25:44.104Z",
     "raw": {
       "id": 146232,
       "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
@@ -4607,7 +4754,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:42+00:00",
-    "fetched_at": "2026-06-22T16:20:52.953Z",
+    "fetched_at": "2026-06-22T20:25:44.106Z",
     "raw": {
       "id": 146203,
       "url": "https://jobicy.com/jobs/146203-advisory-engineer-hardware-hpsc",
@@ -4659,7 +4806,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:41+00:00",
-    "fetched_at": "2026-06-22T16:20:52.954Z",
+    "fetched_at": "2026-06-22T20:25:44.107Z",
     "raw": {
       "id": 146202,
       "url": "https://jobicy.com/jobs/146202-senior-software-engineer-event-sourcing-stream-processing",
@@ -4713,7 +4860,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:38+00:00",
-    "fetched_at": "2026-06-22T16:20:52.955Z",
+    "fetched_at": "2026-06-22T20:25:44.108Z",
     "raw": {
       "id": 146200,
       "url": "https://jobicy.com/jobs/146200-sr-solutions-architect-agencies",
@@ -4760,7 +4907,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:27+00:00",
-    "fetched_at": "2026-06-22T16:20:52.957Z",
+    "fetched_at": "2026-06-22T20:25:44.111Z",
     "raw": {
       "id": 146194,
       "url": "https://jobicy.com/jobs/146194-electrical-engineer",
@@ -4807,7 +4954,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:24+00:00",
-    "fetched_at": "2026-06-22T16:20:52.958Z",
+    "fetched_at": "2026-06-22T20:25:44.112Z",
     "raw": {
       "id": 146192,
       "url": "https://jobicy.com/jobs/146192-mechanical-engineer",
@@ -4857,7 +5004,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-11T14:11:22+00:00",
-    "fetched_at": "2026-06-22T16:20:52.959Z",
+    "fetched_at": "2026-06-22T20:25:44.113Z",
     "raw": {
       "id": 146191,
       "url": "https://jobicy.com/jobs/146191-network-engineer",
@@ -4916,7 +5063,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-11T14:05:20+00:00",
-    "fetched_at": "2026-06-22T16:20:52.960Z",
+    "fetched_at": "2026-06-22T20:25:44.114Z",
     "raw": {
       "id": 146187,
       "url": "https://jobicy.com/jobs/146187-senior-qa-engineer-%e5%8c%ba%e5%9d%97%e9%93%be%e6%b5%8b%e8%af%95%e5%b7%a5%e7%a8%8b%e5%b8%88",
@@ -4935,149 +5082,6 @@
       "jobExcerpt": "Who we areMantle is the entry point for institutions and traditional finance to access real-world assets on-chain. Backed by the world’s largest community-owned treasury of over $4B, Mantle combines institutional-grade...",
       "jobDescription": "<h2><strong>Who we are</strong></h2>\n<p>Mantle is the entry point for institutions and traditional finance to access real-world assets on-chain. Backed by the world’s largest community-owned treasury of over $4B, Mantle combines institutional-grade infrastructure with the scale and credibility to bring RWAs into Web3 with confidence.</p>\n<p>Mantle positions itself as the gateway for institutions and TradFi to move into RWAs on-chain. With $4B+ in community-owned assets, Mantle combines credibility, liquidity and scale with institutional infrastructure to support large-scale adoption. The ecosystem is anchored by $MNT in the Bybit network, and built out through subsidiaries mETH, fBTC, MI4 and MantleX. This is complemented by Mantle Network’s partnerships with leading issuers and protocols such as Agora AUSD, Ethena USDe, Ondo USDY and EigenLayer.</p>\n<p><strong>主要职责：</strong></p>\n<ol>\n<li>\n<p>负责区块链产品的功能、性能、安全、自动化等测试工作，参与项目研发全流程；</p>\n</li>\n<li>\n<p>参与项目的需求分析，关注项目需求的合理性，可测性；参与重大产品需求和架构设计评审，保证产品设计与架构的合理性；</p>\n</li>\n<li>\n<p>编写自动化用例、测试工具及平台等，提升测试质量及效率；</p>\n</li>\n<li>\n<p>深入了解区块链相关知识，参与研究并攻克区块链测试领域的关键技术挑战，建立区块链的测试体系。</p>\n</li>\n<li>\n<p>DApp测试，包括功能测试、性能测试和安全性测试。</p>\n</li>\n<li>\n<p>浏览器测试， 对于支持区块链技术的浏览器有一定的了解，能够进行相关的测试工作。</p>\n</li>\n</ol>\n<p><strong>职位要求：</strong></p>\n<ol>\n<li>\n<p>计算机科学、软件工程等相关专业，本科及以上学历；</p>\n</li>\n<li>\n<p>具有2年以上的区块链测试开发经验， 有DApp测试经验</p>\n</li>\n<li>\n<p>熟悉hardhat、foundy等测试工具</p>\n</li>\n<li>\n<p>熟悉自动化测试工具(例如Mocha, Chai, Cypress等)，有落地过自动化测试项目的经验</p>\n</li>\n<li>\n<p>熟悉JavaScript/Typescript，python，golang，solidity</p>\n</li>\n<li>\n<p>熟悉Ethereum或其他公链项目，有资深的公链测试经验</p>\n</li>\n<li>\n<p>能阅读英文文档，有较强的研究能力和自我驱动能力</p>\n</li>\n</ol>\n<h2>Your Role</h2>\n<ol>\n<li>\n<p>Responsible for testing blockchain products' functionality, performance, security, and automation, and participate in the entire project development process.</p>\n</li>\n<li>\n<p>Participate in project requirement analysis, focus on the rationality and testability of project requirements, participate in major product requirement and architecture design reviews, and ensure the rationality of product design and architecture.</p>\n</li>\n<li>\n<p>Write automation test cases, testing tools, and platforms to improve testing quality and efficiency.</p>\n</li>\n<li>\n<p>In-depth understanding of blockchain-related knowledge, participate in research and overcome key technical challenges in the blockchain testing field, and establish a blockchain testing system.</p>\n</li>\n</ol>\n<h2>Your Craft</h2>\n<ul>\n<li>\n<p>Bachelor's degree or above in computer science, software engineering, or related majors.</p>\n</li>\n<li>\n<p>More than 2 years of experience in blockchain testing and development.</p>\n</li>\n<li>\n<p>Familiar with testing tools such as Hardhat, Foundy, etc.</p>\n</li>\n<li>\n<p>Familiar with automated testing tools (such as Mocha, Chai, Cypress, etc.) and have experience in implementing automated testing projects.</p>\n</li>\n<li>\n<p>Familiar with JavaScript/Typescript, Python, Golang, Solidity.</p>\n</li>\n<li>\n<p>Familiar with Ethereum or other public chain projects, and have extensive experience in public chain testing.</p>\n</li>\n<li>\n<p>Able to read English documents, have strong research ability and self driven personality</p>\n</li>\n</ul>",
       "pubDate": "2026-06-11T14:05:20+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146128",
-    "platform": "jobicy",
-    "external_id": "146128",
-    "title": "Electronics Engineer",
-    "company": "ManTech",
-    "description": "General information Requisition # R68548 Locations USA-Remote Work Posting Date 06/10/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH! MANTECH seeks a motivated, career and customer-oriented Electronics Engineer to join our team in Chesapeake, VA . This position is remote out of Virginia , but requires occasional travel to Chesapeake or Norfolk, VA , for client meetings and events. The Electronics Engineer will leverage their strong technical background and knowledge to support Military Sealift Command (MSC) engineering and design efforts. You will help manage the technical aspects of shipboard electronic systems, including navigation, machinery control electronics, and satellite communications, to ensure safe and reliable maritime operations through professional architectural and scientific analysis. Responsibilities include but are not limited to: Managing the design, maintenance, and configuration control for shipboard electrical systems, navigation, and machinery control electronics. Conducting technical surveys, inspection trips, and attending sea trials or ship checks before, during, and after system alterations. Developing Electrical Calculations and Schematics, including Voltage Drop Calculations, Load Calculations, and Power &amp; Lighting One Line Diagrams. Performing Electrical Plant Load Analysis (EPLA), Protective Device Coordination Studies, and Electric Plant Distribution Impact Data (EPDID). Designing and integrating Satellite Communications (SATCOM) hardware and software, including transponders, antennas, and frequency planners. Implementing RF and signal processing solutions such as adaptive antenna beamforming and high-power amplifiers to optimize spectrum efficiency. Developing ground segment engineering solutions and SmallSat/CubeSat systems, including power management circuits and command systems. Minimum Qualifications: Bachelor's Degree in Electrical Engineering or a related field 5+ years of experience with specialized vessels in one or more of the following areas: Expeditionary Fast Transport Vessels (T-EPF), Hospital Ships (T-AH), Dry Cargo/Ammunition Ships (T-AKE), Underway Replenishment Oilers (T-AO), Cable Laying/Repair (T-ARC), Rescue/Salvage Ships (T-ARS), Submarine Tender (T-AS), Fleet Ocean Tugs (T-ATF), Command Ship (LCC), Expeditionary Mobile Base (T-ESB), Fast Combat Support Vessels (T-AOE) or like vessels. Experience with navigation, electronics, and communication systems in a marine environment. Demonstrated experience with satellite communications (SATCOM) integration, including hardware and software implementation. Experience performing fault current analysis and protective device coordination studies for maritime platforms. Preferred Qualifications: Experience with SKM (or similar power system analysis software), MathCAD, Adobe Pro, AutoCAD, and MS Office Suite. Self-starter with excellent people skills - able to work across teams, organize meetings/boards, and drive change throughout an organization. Clearance Requirements: An active Secret clearance is required for this position. Physical Requirements: Must be able to remain in a stationary position 50% of the time. Needs to occasionally move about inside the office, and climb ladder wells on vessels, etc. Frequently communicates with co-workers, management, and customers, which may involve attending meetings. Must be able to exchange accurate information in these situations. The projected compensation range for this position is $70,200.00-$117,000.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation. If you need a reasonable accommodation to apply for a position with MANTECH, please email us at careers@mantech.com and provide your name and contact information.",
-    "url": "https://jobicy.com/jobs/146128-electronics-engineer-2",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "segment"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-10T18:20:55+00:00",
-    "fetched_at": "2026-06-22T16:20:52.962Z",
-    "raw": {
-      "id": 146128,
-      "url": "https://jobicy.com/jobs/146128-electronics-engineer-2",
-      "jobSlug": "146128-electronics-engineer-2",
-      "jobTitle": "Electronics Engineer",
-      "companyName": "ManTech",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/265c7fe8-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Midweight",
-      "jobExcerpt": "General information Requisition # R68548 Locations USA-Remote Work Posting Date 06/10/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
-      "jobDescription": "<div>\n<div>\n<h2> General information </h2>\n</div>\n</div>\n<div>\n<div>\n<div>\n<div> Requisition # </div>\n<div> R68548 </div>\n</div>\n<div>\n<div> Locations </div>\n<div> USA-Remote Work </div>\n</div>\n<div>\n<div> Posting Date </div>\n<div> 06/10/2026 </div>\n</div>\n<div>\n<div> Security Clearance Required </div>\n<div> Secret </div>\n</div>\n<div>\n<div> Remote Type </div>\n<div> Fully Remote </div>\n</div>\n<div>\n<div> Time Type </div>\n<div> Full time </div>\n</div>\n</div>\n</div>\n<div>\n<div>\n<h2> Description &amp; Requirements </h2>\n</div>\n</div>\n<div>\n<div>\n<div>\n<div>\n<div>\nShape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH!</div>\n</div>\n</div>\n<div>\n<div>\n<p><b>MANTECH</b> seeks a motivated, career and customer-oriented <b>Electronics Engineer</b> to join our team in <b>Chesapeake, VA</b>. This position is <b>remote out of Virginia</b>, but requires occasional travel to <b>Chesapeake or Norfolk, VA</b>, for client meetings and events.</p>\n<p>The Electronics Engineer will leverage their strong technical background and knowledge to support Military Sealift Command (MSC) engineering and design efforts. You will help manage the technical aspects of shipboard electronic systems, including navigation, machinery control electronics, and satellite communications, to ensure safe and reliable maritime operations through professional architectural and scientific analysis.</p>\n<p><b>Responsibilities include but are not limited to:</b></p>\n<ul>\n<li>\n<p>Managing the design, maintenance, and configuration control for shipboard electrical systems, navigation, and machinery control electronics.</p>\n</li>\n<li>\n<p>Conducting technical surveys, inspection trips, and attending sea trials or ship checks before, during, and after system alterations.</p>\n</li>\n<li>\n<p>Developing Electrical Calculations and Schematics, including Voltage Drop Calculations, Load Calculations, and Power &amp; Lighting One Line Diagrams.</p>\n</li>\n<li>\n<p>Performing Electrical Plant Load Analysis (EPLA), Protective Device Coordination Studies, and Electric Plant Distribution Impact Data (EPDID).</p>\n</li>\n<li>\n<p>Designing and integrating Satellite Communications (SATCOM) hardware and software, including transponders, antennas, and frequency planners.</p>\n</li>\n<li>\n<p>Implementing RF and signal processing solutions such as adaptive antenna beamforming and high-power amplifiers to optimize spectrum efficiency.</p>\n</li>\n<li>\n<p>Developing ground segment engineering solutions and SmallSat/CubeSat systems, including power management circuits and command systems.</p>\n</li>\n</ul>\n<p><b>Minimum Qualifications:</b></p>\n<ul>\n<li>\n<p>Bachelor's Degree in Electrical Engineering or a related field</p>\n</li>\n<li>\n<p>5+ years of experience with specialized vessels in one or more of the following areas: Expeditionary Fast Transport Vessels (T-EPF), Hospital Ships (T-AH), Dry Cargo/Ammunition Ships (T-AKE), Underway Replenishment Oilers (T-AO), Cable Laying/Repair (T-ARC), Rescue/Salvage Ships (T-ARS), Submarine Tender (T-AS), Fleet Ocean Tugs (T-ATF), Command Ship (LCC), Expeditionary Mobile Base (T-ESB), Fast Combat Support Vessels (T-AOE) or like vessels.</p>\n</li>\n<li>\n<p>Experience with navigation, electronics, and communication systems in a marine environment.</p>\n</li>\n<li>\n<p>Demonstrated experience with satellite communications (SATCOM) integration, including hardware and software implementation.</p>\n</li>\n<li>\n<p>Experience performing fault current analysis and protective device coordination studies for maritime platforms.</p>\n</li>\n</ul>\n<p><b>Preferred Qualifications:</b></p>\n<ul>\n<li>\n<p>Experience with SKM (or similar power system analysis software), MathCAD, Adobe Pro, AutoCAD, and MS Office Suite.</p>\n</li>\n<li>\n<p>Self-starter with excellent people skills - able to work across teams, organize meetings/boards, and drive change throughout an organization.</p>\n</li>\n</ul>\n<p><b>Clearance Requirements:</b></p>\n<ul>\n<li>\n<p>An active Secret clearance is required for this position.</p>\n</li>\n</ul>\n<p><b>Physical Requirements:</b></p>\n<ul>\n<li>\n<p>Must be able to remain in a stationary position 50% of the time.</p>\n</li>\n<li>\n<p>Needs to occasionally move about inside the office, and climb ladder wells on vessels, etc.</p>\n</li>\n<li>\n<p>Frequently communicates with co-workers, management, and customers, which may involve attending meetings.</p>\n</li>\n<li>\n<p>Must be able to exchange accurate information in these situations.</p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<div>\nThe projected compensation range for this position is $70,200.00-$117,000.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections.</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n<em>MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.<br />If you need a reasonable accommodation to apply for a position with MANTECH, please email us at <a href=\"mailto:careers@mantech.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers@mantech.com</a> and provide your name and contact information.</em>\n</div>\n</div>\n</div>\n</div>\n</div>",
-      "pubDate": "2026-06-10T18:20:55+00:00",
-      "salaryMin": 70200,
-      "salaryMax": 117000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:146127",
-    "platform": "jobicy",
-    "external_id": "146127",
-    "title": "Naval Architect",
-    "company": "ManTech",
-    "description": "General information Requisition # R68549 Locations USA-Remote Work Posting Date 06/10/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH! MANTECH seeks a motivated, career and customer-oriented Naval Architect to join our team in Chesapeake, VA . This position is remote out of Virginia , but requires occasional travel to C hesapeake or Norfolk, VA , for client meetings and events. The Naval Architect will leverage their strong technical background and knowledge to support Military Sealift Command (MSC) maritime engineering and design efforts, to include managing structural form, strength, and stability for various naval crafts and sea surface ships. You will help ensure the operational characteristics of waterborne vessels meet mission-critical standards through professional architectural and scientific analysis. Responsibilities include but are not limited to: Managing and performing professional architectural work relating to the form, strength, stability, and performance of marine structures and waterborne vessels. Conducting detailed Structural Analyses and Finite Element Analyses (FEA) to ensure the integrity of hull and deck arrangements. Developing complex Rigging, Cargo Handling, and Lifesaving Systems Analyses alongside Weight and Moment Reports. Performing Hydrostatics, Intact and Damage stability calculations, and Inclining Experiment Calculations to verify vessel safety. Executing Mooring Studies, Material Analyses, Weld and Connection Analyses, and Vibration Analyses for diverse naval crafts. Supporting the Military Sealift Command (MSC) by providing expert engineering oversight for a variety of ship classes and expeditionary vessels. Working with all stakeholders to ensure complete and functioning maritime systems that meet all performance and operational requirements. Minimum Qualifications: Master's Degree in Naval Architecture, Ocean Engineering, Mechanical Engineering, or a closely related field 7+ years of experience with specialized vessels in one or more of the following areas: Expeditionary Fast Transport Vessels (T-EPF), Hospital Ships (T-AH), Dry Cargo/Ammunition Ships (T-AKE), Underway Replenishment Oilers (T-AO), Cable Laying/Repair (T-ARC), Rescue/Salvage Ships (T-ARS), Submarine Tender (T-AS), Fleet Ocean Tugs (T-ATF), Command Ship (LCC), Expeditionary Mobile Base (T-ESB), Fast Combat Support Vessels (T-AOE) or like vessels Significant experience with vessel stability calculations, mooring analysis, towing plans, ship salvage, and dry-docking operations Expertise in complex hull structures, arrangements, outfitting, and structural analysis Experience performing finite element analysis (FEA) and closed-form solutions for maritime platforms Preferred Qualifications: ​ Experience with Optimoor and FEMAP/ANSYS (or similar software), MathCAD, Adobe Pro, AutoCAD, and MS Office Suite. Self-starter with excellent people skills - able to work across teams and drive change throughout the MSC engineering organization. Clearance Requirements: An active Secret clearance is required for this position. Physical Requirements: Must be able to remain in a stationary position 50% of the time. Needs to occasionally move about inside the office to access file cabinets, climb ladder wells on vessels, etc. Frequently communicates with co-workers, management, and customers, which may involve attending meetings. Must be able to exchange accurate information in these situations. The projected compensation range for this position is $89,100.00-$148,200.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation. If you need a reasonable accommodation to apply for a position with MANTECH, please email us at careers@mantech.com and provide your name and contact information.",
-    "url": "https://jobicy.com/jobs/146127-naval-architect",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-10T18:20:53+00:00",
-    "fetched_at": "2026-06-22T16:20:52.963Z",
-    "raw": {
-      "id": 146127,
-      "url": "https://jobicy.com/jobs/146127-naval-architect",
-      "jobSlug": "146127-naval-architect",
-      "jobTitle": "Naval Architect",
-      "companyName": "ManTech",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/265c7fe8-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "General information Requisition # R68549 Locations USA-Remote Work Posting Date 06/10/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
-      "jobDescription": "<div>\n<div>\n<h2> General information </h2>\n</div>\n</div>\n<div>\n<div>\n<div>\n<div> Requisition # </div>\n<div> R68549 </div>\n</div>\n<div>\n<div> Locations </div>\n<div> USA-Remote Work </div>\n</div>\n<div>\n<div> Posting Date </div>\n<div> 06/10/2026 </div>\n</div>\n<div>\n<div> Security Clearance Required </div>\n<div> Secret </div>\n</div>\n<div>\n<div> Remote Type </div>\n<div> Fully Remote </div>\n</div>\n<div>\n<div> Time Type </div>\n<div> Full time </div>\n</div>\n</div>\n</div>\n<div>\n<div>\n<h2> Description &amp; Requirements </h2>\n</div>\n</div>\n<div>\n<div>\n<div>\n<div>\n<div>\nShape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH!</div>\n</div>\n</div>\n<div>\n<div>\n<p><b>MANTECH </b>seeks a motivated, career and customer-oriented <b>Naval Architect</b> to join our team in <b>Chesapeake, VA</b>. This position is <b>remote out of Virginia</b>, but requires occasional travel to C<b>hesapeake or Norfolk, VA</b>, for client meetings and events.</p>\n<p>The Naval Architect will leverage their strong technical background and knowledge to support Military Sealift Command (MSC) maritime engineering and design efforts, to include managing structural form, strength, and stability for various naval crafts and sea surface ships. You will help ensure the operational characteristics of waterborne vessels meet mission-critical standards through professional architectural and scientific analysis.</p>\n<p><b>Responsibilities include but are not limited to:</b></p>\n<ul>\n<li>\n<p>Managing and performing professional architectural work relating to the form, strength, stability, and performance of marine structures and waterborne vessels.</p>\n</li>\n<li>\n<p>Conducting detailed Structural Analyses and Finite Element Analyses (FEA) to ensure the integrity of hull and deck arrangements.</p>\n</li>\n<li>\n<p>Developing complex Rigging, Cargo Handling, and Lifesaving Systems Analyses alongside Weight and Moment Reports.</p>\n</li>\n<li>\n<p>Performing Hydrostatics, Intact and Damage stability calculations, and Inclining Experiment Calculations to verify vessel safety.</p>\n</li>\n<li>\n<p>Executing Mooring Studies, Material Analyses, Weld and Connection Analyses, and Vibration Analyses for diverse naval crafts.</p>\n</li>\n<li>\n<p>Supporting the Military Sealift Command (MSC) by providing expert engineering oversight for a variety of ship classes and expeditionary vessels.</p>\n</li>\n<li>\n<p>Working with all stakeholders to ensure complete and functioning maritime systems that meet all performance and operational requirements.</p>\n</li>\n</ul>\n<p><b>Minimum Qualifications:</b></p>\n<ul>\n<li>\n<p>Master's Degree in Naval Architecture, Ocean Engineering, Mechanical Engineering, or a closely related field</p>\n</li>\n<li>\n<p>7+ years of experience with specialized vessels in one or more of the following areas: Expeditionary Fast Transport Vessels (T-EPF), Hospital Ships (T-AH), Dry Cargo/Ammunition Ships (T-AKE), Underway Replenishment Oilers (T-AO), Cable Laying/Repair (T-ARC), Rescue/Salvage Ships (T-ARS), Submarine Tender (T-AS), Fleet Ocean Tugs (T-ATF), Command Ship (LCC), Expeditionary Mobile Base (T-ESB), Fast Combat Support Vessels (T-AOE) or like vessels</p>\n</li>\n<li>\n<p>Significant experience with vessel stability calculations, mooring analysis, towing plans, ship salvage, and dry-docking operations</p>\n</li>\n<li>\n<p>Expertise in complex hull structures, arrangements, outfitting, and structural analysis</p>\n</li>\n<li>\n<p>Experience performing finite element analysis (FEA) and closed-form solutions for maritime platforms</p>\n</li>\n</ul>\n<p><b>Preferred Qualifications:</b>​</p>\n<ul>\n<li>\n<p>Experience with Optimoor and FEMAP/ANSYS (or similar software), MathCAD, Adobe Pro, AutoCAD, and MS Office Suite.</p>\n</li>\n<li>\n<p>Self-starter with excellent people skills - able to work across teams and drive change throughout the MSC engineering organization.</p>\n</li>\n</ul>\n<p><b>Clearance Requirements:</b></p>\n<ul>\n<li>\n<p>An active Secret clearance is required for this position.</p>\n</li>\n</ul>\n<p><b>Physical Requirements:</b></p>\n<ul>\n<li>\n<p>Must be able to remain in a stationary position 50% of the time.</p>\n</li>\n<li>\n<p>Needs to occasionally move about inside the office to access file cabinets, climb ladder wells on vessels, etc.</p>\n</li>\n<li>\n<p>Frequently communicates with co-workers, management, and customers, which may involve attending meetings.</p>\n</li>\n<li>\n<p>Must be able to exchange accurate information in these situations.</p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<div>\nThe projected compensation range for this position is $89,100.00-$148,200.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections.</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n<em>MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.<br />If you need a reasonable accommodation to apply for a position with MANTECH, please email us at <a href=\"mailto:careers@mantech.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers@mantech.com</a> and provide your name and contact information.</em>\n</div>\n</div>\n</div>\n</div>\n</div>",
-      "pubDate": "2026-06-10T18:20:53+00:00",
-      "salaryMin": 89100,
-      "salaryMax": 148200,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:146126",
-    "platform": "jobicy",
-    "external_id": "146126",
-    "title": "Structural Engineer",
-    "company": "ManTech",
-    "description": "General information Requisition # R68551 Locations USA-Remote Work Posting Date 06/10/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH! MANTECH seeks a motivated, career and customer-oriented Structural Engineer to join our team. This position is remote out of Virginia , but requires occasional travel to C hesapeake or Norfolk, VA , for client meetings and events. The Structural Engineer will leverage their strong technical background and knowledge to support Military Sealift Command (MSC) engineering and design efforts. You will help ensure the structural integrity, strength, and stability of diverse marine structures and waterborne vessel hulls to meet critical operational characteristics for naval crafts operating on the sea surface. Responsibilities include but are not limited to: Performing professional architectural, engineering, and scientific work relating to the form, strength, and performance of marine structures Conducting detailed Structural Analyses and Finite Element Analyses (FEA) to evaluate vessel hull integrity and operational safety Developing technical reports and calculations for Weight and Moment, Stability, and Inclining Experiments Executing Hydrostatics and Intact and Damage stability assessments to ensure vessel compliance with maritime standards Managing arrangements for Hull and Deck outfitting, as well as conducting Mooring Studies and Vibration Analyses Performing Material Analyses and Weld and Connection Analyses to support complex shipboard repair and construction Providing engineering oversight for Rigging, Cargo Handling, and Lifesaving Systems Analyses across various naval platforms Minimum Qualifications: Bachelor's Degree in Civil Engineering, Applied Mechanics or a related field 5+ years of experience with specialized vessels in one or more of the following areas: Expeditionary Fast Transport Vessels (T-EPF), Hospital Ships (T-AH), Dry Cargo/Ammunition Ships (T-AKE), Underway Replenishment Oilers (T-AO), Cable Laying/Repair (T-ARC), Rescue/Salvage Ships (T-ARS), Submarine Tender (T-AS), Fleet Ocean Tugs (T-ATF), Command Ship (LCC), Expeditionary Mobile Base (T-ESB), Fast Combat Support Vessels (T-AOE) or like vessels Experience with vessel stability calculations, mooring analysis, towing plans, ship salvage, and dry-docking operations Expertise in complex hull structures, arrangements, outfitting, and structural analysis Preferred Qualifications: ​ Experience performing finite element analysis (FEA) and closed-form solutions for maritime applications Experience with Optimoor and FEMAP/ANSYS (or similar software), MathCAD, Adobe Pro, AutoCAD, and MS Office Suite Experience supporting Military Sealift Command (MSC) or similar naval engineering environments Self-starter with excellent people skills - able to work across teams, organize meetings/boards, and drive change throughout an organization Clearance Requirement: An active Secret clearance is required for this position. Physical Requirements: Must be able to remain in a stationary position 50% of the time. Needs to occasionally move about inside the office to access file cabinets, climb ladder wells on vessels, etc. Frequently communicates with co-workers, management, and customers, which may involve delivering presentations attending meetings. Must be able to exchange accurate information in these situations. The projected compensation range for this position is $70,200.00-$117,000.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation. If you need a reasonable accommodation to apply for a position with MANTECH, please email us at careers@mantech.com and provide your name and contact information.",
-    "url": "https://jobicy.com/jobs/146126-structural-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-10T18:20:51+00:00",
-    "fetched_at": "2026-06-22T16:20:52.964Z",
-    "raw": {
-      "id": 146126,
-      "url": "https://jobicy.com/jobs/146126-structural-engineer",
-      "jobSlug": "146126-structural-engineer",
-      "jobTitle": "Structural Engineer",
-      "companyName": "ManTech",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/265c7fe8-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Midweight",
-      "jobExcerpt": "General information Requisition # R68551 Locations USA-Remote Work Posting Date 06/10/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
-      "jobDescription": "<div>\n<div>\n<h2> General information </h2>\n</div>\n</div>\n<div>\n<div>\n<div>\n<div> Requisition # </div>\n<div> R68551 </div>\n</div>\n<div>\n<div> Locations </div>\n<div> USA-Remote Work </div>\n</div>\n<div>\n<div> Posting Date </div>\n<div> 06/10/2026 </div>\n</div>\n<div>\n<div> Security Clearance Required </div>\n<div> Secret </div>\n</div>\n<div>\n<div> Remote Type </div>\n<div> Fully Remote </div>\n</div>\n<div>\n<div> Time Type </div>\n<div> Full time </div>\n</div>\n</div>\n</div>\n<div>\n<div>\n<h2> Description &amp; Requirements </h2>\n</div>\n</div>\n<div>\n<div>\n<div>\n<div>\n<div>\nShape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH!</div>\n</div>\n</div>\n<div>\n<div>\n<p><b>MANTECH</b> seeks a motivated, career and customer-oriented <b>Structural Engineer</b> to join our team. This position is <b>remote out of Virginia</b>, but requires occasional travel to <b>C</b><b>hesapeake or Norfolk, VA</b>, for client meetings and events.</p>\n<p>The Structural Engineer will leverage their strong technical background and knowledge to support Military Sealift Command (MSC) engineering and design efforts. You will help ensure the structural integrity, strength, and stability of diverse marine structures and waterborne vessel hulls to meet critical operational characteristics for naval crafts operating on the sea surface.</p>\n<p><b>Responsibilities include but are not limited to:</b></p>\n<ul>\n<li>\n<p>Performing professional architectural, engineering, and scientific work relating to the form, strength, and performance of marine structures</p>\n</li>\n<li>\n<p>Conducting detailed Structural Analyses and Finite Element Analyses (FEA) to evaluate vessel hull integrity and operational safety</p>\n</li>\n<li>\n<p>Developing technical reports and calculations for Weight and Moment, Stability, and Inclining Experiments</p>\n</li>\n<li>\n<p>Executing Hydrostatics and Intact and Damage stability assessments to ensure vessel compliance with maritime standards</p>\n</li>\n<li>\n<p>Managing arrangements for Hull and Deck outfitting, as well as conducting Mooring Studies and Vibration Analyses</p>\n</li>\n<li>\n<p>Performing Material Analyses and Weld and Connection Analyses to support complex shipboard repair and construction</p>\n</li>\n<li>\n<p>Providing engineering oversight for Rigging, Cargo Handling, and Lifesaving Systems Analyses across various naval platforms</p>\n</li>\n</ul>\n<p><b>Minimum Qualifications:</b></p>\n<ul>\n<li>\n<p>Bachelor's Degree in Civil Engineering, Applied Mechanics or a related field</p>\n</li>\n<li>\n<p>5+ years of experience with specialized vessels in one or more of the following areas: Expeditionary Fast Transport Vessels (T-EPF), Hospital Ships (T-AH), Dry Cargo/Ammunition Ships (T-AKE), Underway Replenishment Oilers (T-AO), Cable Laying/Repair (T-ARC), Rescue/Salvage Ships (T-ARS), Submarine Tender (T-AS), Fleet Ocean Tugs (T-ATF), Command Ship (LCC), Expeditionary Mobile Base (T-ESB), Fast Combat Support Vessels (T-AOE) or like vessels</p>\n</li>\n<li>\n<p>Experience with vessel stability calculations, mooring analysis, towing plans, ship salvage, and dry-docking operations</p>\n</li>\n<li>\n<p>Expertise in complex hull structures, arrangements, outfitting, and structural analysis</p>\n</li>\n</ul>\n<p><b>Preferred Qualifications:</b>​</p>\n<ul>\n<li>\n<p>Experience performing finite element analysis (FEA) and closed-form solutions for maritime applications</p>\n</li>\n<li>\n<p>Experience with Optimoor and FEMAP/ANSYS (or similar software), MathCAD, Adobe Pro, AutoCAD, and MS Office Suite</p>\n</li>\n<li>\n<p>Experience supporting Military Sealift Command (MSC) or similar naval engineering environments</p>\n</li>\n<li>\n<p>Self-starter with excellent people skills - able to work across teams, organize meetings/boards, and drive change throughout an organization</p>\n</li>\n</ul>\n<p><b>Clearance Requirement:</b></p>\n<ul>\n<li>\n<p>An active Secret clearance is required for this position.</p>\n</li>\n</ul>\n<p><b>Physical Requirements:</b></p>\n<ul>\n<li>\n<p>Must be able to remain in a stationary position 50% of the time.</p>\n</li>\n<li>\n<p>Needs to occasionally move about inside the office to access file cabinets, climb ladder wells on vessels, etc.</p>\n</li>\n<li>\n<p>Frequently communicates with co-workers, management, and customers, which may involve delivering presentations attending meetings.</p>\n</li>\n<li>\n<p>Must be able to exchange accurate information in these situations.</p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<div>\nThe projected compensation range for this position is $70,200.00-$117,000.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections.</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n<em>MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.<br />If you need a reasonable accommodation to apply for a position with MANTECH, please email us at <a href=\"mailto:careers@mantech.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers@mantech.com</a> and provide your name and contact information.</em>\n</div>\n</div>\n</div>\n</div>\n</div>",
-      "pubDate": "2026-06-10T18:20:51+00:00",
-      "salaryMin": 70200,
-      "salaryMax": 117000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
     }
   }
 ]
