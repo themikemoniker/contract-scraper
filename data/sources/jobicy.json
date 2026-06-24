@@ -1,5 +1,212 @@
 [
   {
+    "id": "jobicy:147582",
+    "platform": "jobicy",
+    "external_id": "147582",
+    "title": "Software Engineer, AI Agent Platform",
+    "company": "QAD, Inc.",
+    "description": "Company Description Redzone is the #1 Connected Workforce Solution for manufacturers big and small. We work to improve efficiency in plants, provide coaching for best practices, and enable the front-line worker to improve the quality of their work and their work life by providing them with tools, processes, and collaboration tools to keep their manufacturing lines running smoothly and efficiently. At Redzone we focus on the customer experience, listening to the customer, and providing solutions that create great outcomes. We are a combination of great leadership, years of manufacturing experience, and an incredible technology team that all work together to create great products. This role is fully remote. Job Description ChampionAI is QAD | Redzone agentic platform, purpose-built for manufacturing and utilized by the various business units within QAD | Redzone. This engineer joins the core platform team with three main areas of focus: building new capabilities into the platform, helping Applied AI teams at partner business units build and ship Champions correctly, and directly building Champion agents for business-unit use cases when needed. You will work in the same codebase as the Applied AI engineers you support, which keeps the enablement work practical and the platform work focused on real problems. Key Responsibilities Platform Development Build and ship features across the Champion platform repositories Improve developer experience: tooling, scaffolding, internal documentation, and onboarding paths for Applied AI engineers. Maintain and evolve the MCP tool server and agent infrastructure that BU teams depend on. Identify and address friction points that slow down Champion development or deployment Applied AI Enablement Support BU Applied AI engineers in building, deploying, and operating Champions correctly Review agent implementations for prompt quality, scope enforcement, auth configuration, and deployment setup Contribute to internal engineering guides and skill documentation Pair with BU engineers on first K8S manifest creation, database registration, and LaunchDarkly prompt rollout Agent Development Design and build Champion agents for BU use-cases when the platform team is directly engaged Write and iterate on system prompts, tool bindings, and context injection for production agents Register agents in Champion Server and configure LaunchDarkly-gated prompt rollout across environments Engineering Practices We follow trunk-based development with PR-gated merges to main. Engineers are expected to: Write tests before implementing. TDD is the expectation, not a nice-to-have. Keep PRs small and focused; use feature flags to ship partial work incrementally Follow conventional commit format (feat:, fix:, etc.) Be mindful of API and schema backward-compatibility; prefer additive changes over breaking ones Review your own diff before requesting review Qualifications Core Requirements Python: Proficient in async Python, Pydantic, type hints, and FastAPI. Experience with the Strands agent SDK or a comparable agentic framework. Testing is non-optional: candidates should be comfortable with pytest, pytest- asyncio, and DeepEval for agent-specific evaluation. We test agent behavior, not just unit logic. Prompt Engineering: Able to write and iterate on production system prompts: XML-structured, scope-enforced, with tool descriptions that guide LLM delegation reliably. Model Context Protocol (MCP): Solid understanding of MCP and hands-on experience building or consuming MCP servers. Familiarity with Agent-to-Agent (A2A) protocol is a strong plus. Agent Patterns: Familiar with multi-agent architectures and orchestration patterns beyond basic ReAct: supervisor/subagent delegation, parallel tool use, handoffs, and context management across agent boundaries. Agent Evals: Able to design and run evaluation suites for agent behavior: correctness checks, scope enforcement tests, regression coverage, and systematic prompt iteration based on eval results. Docker: Comfortable authoring Dockerfiles, multi-stage builds, and local dev environments via docker-compose / make. PostgreSQL: Comfortable with templated INSERT/SELECT, foreign key relationships, and reading an ER diagram. Git / Semantic Versioning: Follows conventional commit format (feat:, fix:) and a PR-based trunk workflow. Nice to Have Kubernetes: Working knowledge of Deployments, Services, ConfigMaps, and ServiceAccounts. Able to read and adapt K8s manifests and use kubectl for basic troubleshooting. AWS: Working knowledge of ECR, EKS, IAM, and Bedrock (inference layer). OAuth2 / OIDC: Conceptual understanding of Authorization Code Flow with PKCE, token exchange, and agent auth delegation. Terraform: Beginner-level familiarity; able to make targeted changes to existing modules and interpret a plan diff. LaunchDarkly: Experience managing feature flags or AI config overrides for environment-gated rollout. Document Intelligence / OCR: AWS Textract or comparable pipeline experience for use cases involving structured document extraction. AI-Native Development We run an AI-native SDLC. AI-assisted tools (Claude Code, Cursor) are part of the standard engineering workflow at every stage: planning, implementation, review, and documentation. This is not optional or supplemental; it is how we work. Candidates should be comfortable with AI-assisted development and willing to invest in getting good at it. Use Claude Code and Cursor actively across planning, implementation, and code review Know when AI output is wrong and push back on it. Help drive adoption across the team by sharing what works What This Role Is Not This is not an ML research or data science role. The platform team owns cluster networking, observability pipelines, auth configuration, and LLM routing, so deep expertise in those areas is not required. The job is building reliable software on top of that infrastructure and helping others do the same. Additional Information About QAD: QAD | Redzone is redefining manufacturing and supply chains through its intelligent, adaptive platform that connects people, processes, and data into a single System of Action. With three core pillars — Redzone (frontline empowerment), Adaptive Applications (the intelligent backbone), and Champion AI (Agentic AI for manufacturing) — QAD | Redzone helps manufacturers operate with Champion Pace , achieving measurable productivity, resilience, and growth in just 90 days. QAD is committed to ensuring that every employee feels they work in an environment that values their contributions, respects their unique perspectives and provides opportunities for growth regardless of background. QAD’s DEI program is driving higher levels of diversity, equity and inclusion so that employees can bring their whole self to work. We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. #LI-Remote",
+    "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": null,
+    "location": "Mexico",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "react",
+      "backbone",
+      "fastapi",
+      "postgresql",
+      "aws",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "llm",
+      "machine-learning",
+      "pytest",
+      "git"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-24T03:03:06+00:00",
+    "fetched_at": "2026-06-24T08:46:56.109Z",
+    "raw": {
+      "id": 147582,
+      "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
+      "jobSlug": "147582-software-engineer-ai-agent-platform",
+      "jobTitle": "Software Engineer, AI Agent Platform",
+      "companyName": "QAD, Inc.",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6b90cca9-221.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Mexico",
+      "jobLevel": "Any",
+      "jobExcerpt": "Company DescriptionRedzone is the #1 Connected Workforce Solution for manufacturers big and small. We work to improve efficiency in plants, provide coaching for best practices, and enable the front-line worker to...",
+      "jobDescription": "<h2>Company Description</h2>\n<p><strong>Redzone is the #1 Connected Workforce Solution </strong>for manufacturers big and small. We work to improve efficiency in plants, provide coaching for best practices, and enable the front-line worker to improve the quality of their work and their work life by providing them with tools, processes, and collaboration tools to keep their manufacturing lines running smoothly and efficiently. </p>\n<p>At Redzone we focus on the customer experience, listening to the customer, and providing solutions that create great outcomes. We are a combination of great leadership, years of manufacturing experience, and an incredible technology team that all work together to create great products. </p>\n<p>This role is fully remote.</p>\n<h2>Job Description</h2>\n<p>ChampionAI is QAD | Redzone agentic platform, purpose-built for manufacturing and utilized by the various business units within QAD | Redzone. This engineer joins the core platform team with three main areas of focus: building new capabilities into the platform, helping Applied AI teams at partner business units build and ship Champions correctly, and directly building Champion agents for business-unit use cases when needed.<br />\nYou will work in the same codebase as the Applied AI engineers you support, which keeps the enablement work<br />\npractical and the platform work focused on real problems.</p>\n<p>\n<strong>Key Responsibilities</strong><br />\n<strong>Platform Development</strong></p>\n<ul>\n<li>Build and ship features across the Champion platform repositories</li>\n<li> Improve developer experience: tooling, scaffolding, internal documentation, and onboarding paths for Applied AI engineers.</li>\n<li>Maintain and evolve the MCP tool server and agent infrastructure that BU teams depend on.</li>\n<li>Identify and address friction points that slow down Champion development or deployment</li>\n</ul>\n<p><strong>Applied AI Enablement</strong></p>\n<ul>\n<li>Support BU Applied AI engineers in building, deploying, and operating Champions correctly</li>\n<li>Review agent implementations for prompt quality, scope enforcement, auth configuration, and deployment setup</li>\n<li>Contribute to internal engineering guides and skill documentation</li>\n<li>Pair with BU engineers on first K8S manifest creation, database registration, and LaunchDarkly prompt rollout</li>\n</ul>\n<p><strong>Agent Development</strong></p>\n<ul>\n<li>Design and build Champion agents for BU use-cases when the platform team is directly engaged</li>\n<li>Write and iterate on system prompts, tool bindings, and context injection for production agents</li>\n<li>Register agents in Champion Server and configure LaunchDarkly-gated prompt rollout across environments</li>\n</ul>\n<p><strong>Engineering Practices</strong><br />\nWe follow trunk-based development with PR-gated merges to main. Engineers are expected to:</p>\n<ul>\n<li>Write tests before implementing. TDD is the expectation, not a nice-to-have.</li>\n<li>Keep PRs small and focused; use feature flags to ship partial work incrementally</li>\n<li>Follow conventional commit format (feat:, fix:, etc.)</li>\n<li>Be mindful of API and schema backward-compatibility; prefer additive changes over breaking ones</li>\n<li>Review your own diff before requesting review</li>\n</ul>\n<h2>Qualifications</h2>\n<p><strong>Core Requirements</strong></p>\n<ul>\n<li>Python: Proficient in async Python, Pydantic, type hints, and FastAPI. Experience with the Strands agent SDK or a comparable agentic framework. Testing is non-optional: candidates should be comfortable with pytest, pytest- asyncio, and DeepEval for agent-specific evaluation. We test agent behavior, not just unit logic.</li>\n<li>Prompt Engineering: Able to write and iterate on production system prompts: XML-structured, scope-enforced, with tool descriptions that guide LLM delegation reliably.</li>\n<li>Model Context Protocol (MCP): Solid understanding of MCP and hands-on experience building or consuming MCP servers. Familiarity with Agent-to-Agent (A2A) protocol is a strong plus.</li>\n<li>Agent Patterns: Familiar with multi-agent architectures and orchestration patterns beyond basic ReAct: supervisor/subagent delegation, parallel tool use, handoffs, and context management across agent boundaries.</li>\n<li>Agent Evals: Able to design and run evaluation suites for agent behavior: correctness checks, scope enforcement tests, regression coverage, and systematic prompt iteration based on eval results.</li>\n<li>Docker: Comfortable authoring Dockerfiles, multi-stage builds, and local dev environments via docker-compose / make.</li>\n<li>PostgreSQL: Comfortable with templated INSERT/SELECT, foreign key relationships, and reading an ER diagram.</li>\n<li>Git / Semantic Versioning: Follows conventional commit format (feat:, fix:) and a PR-based trunk workflow.</li>\n</ul>\n<p><strong>Nice to Have</strong></p>\n<ul>\n<li>Kubernetes: Working knowledge of Deployments, Services, ConfigMaps, and ServiceAccounts. Able to read and adapt K8s manifests and use kubectl for basic troubleshooting.</li>\n<li>AWS: Working knowledge of ECR, EKS, IAM, and Bedrock (inference layer).</li>\n<li>OAuth2 / OIDC: Conceptual understanding of Authorization Code Flow with PKCE, token exchange, and agent auth delegation.</li>\n<li>Terraform: Beginner-level familiarity; able to make targeted changes to existing modules and interpret a plan diff.</li>\n<li>LaunchDarkly: Experience managing feature flags or AI config overrides for environment-gated rollout.</li>\n<li>Document Intelligence / OCR: AWS Textract or comparable pipeline experience for use cases involving structured document extraction.</li>\n</ul>\n<p>\n<strong>AI-Native Development</strong></p>\n<ul>\n<li>We run an AI-native SDLC. AI-assisted tools (Claude Code, Cursor) are part of the standard engineering workflow at every stage: planning, implementation, review, and documentation. This is not optional or supplemental; it is how we work. Candidates should be comfortable with AI-assisted development and willing to invest in getting good at it.</li>\n<li>Use Claude Code and Cursor actively across planning, implementation, and code review</li>\n<li>Know when AI output is wrong and push back on it.</li>\n<li>Help drive adoption across the team by sharing what works</li>\n</ul>\n<p><strong>What This Role Is Not</strong><br />\nThis is not an ML research or data science role. The platform team owns cluster networking, observability pipelines, auth configuration, and LLM routing, so deep expertise in those areas is not required. The job is building reliable<br />\nsoftware on top of that infrastructure and helping others do the same.</p>\n<h2>Additional Information</h2>\n<p><strong>About QAD:</strong></p>\n<p><a href=\"https://www.qad.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">QAD</a> | <a href=\"https://rzsoftware.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Redzone</a> is redefining manufacturing and supply chains through its intelligent, adaptive platform that connects people, processes, and data into a single System of Action. With three core pillars — Redzone (frontline empowerment), Adaptive Applications (the intelligent backbone), and Champion AI (Agentic AI for manufacturing) — QAD | Redzone helps manufacturers operate with <a href=\"https://www.qad.com/champion-pace\" rel=\"nofollow ugc noopener\" target=\"_blank\">Champion Pace</a>, achieving measurable productivity, resilience, and growth in just 90 days.</p>\n<p>QAD is committed to ensuring that every employee feels they work in an environment that values their contributions, respects their unique perspectives and provides opportunities for growth regardless of background. QAD’s DEI program is driving higher levels of diversity, equity and inclusion so that employees can bring their whole self to work.</p>\n<p>We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. </p>\n<p>#LI-Remote</p>",
+      "pubDate": "2026-06-24T03:03:06+00:00"
+    }
+  },
+  {
+    "id": "jobicy:147581",
+    "platform": "jobicy",
+    "external_id": "147581",
+    "title": "Forward Deployed Engineer",
+    "company": "Endava",
+    "description": "Company Description Technology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change. By combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses. From prototype to real-world impact - be part of a global shift by doing work that matters. Job Description Remote Opportunity MUST HAVE EXPERIENCE WITH PALANTIR As a Senior Forward Deployed Engineer (Delta), you will serve as the technical leader at the intersection of Palantir Foundry's platform capabilities and our most complex, high-impact healthcare data and operational engagements. This role combines deep technical expertise in Palantir Foundry with strategic deployment leadership, driving transformational outcomes for our kidney care and healthcare operations. The Delta designation reflects a commitment to driving change and transformation — you are the catalyst who bridges the gap between what the platform can do and what it should do for our unique operational context. You will be expected to be hands-on and an independent FDE owning, architecting enterprise-grade solutions, development, deployment, mentor as needed and shape the technical strategy for critical engagements across our client's healthcare ecosystem. Qualifications 5+ years of experience in software engineering, data engineering, or technical consulting — with at least 2+ years on Palantir Foundry Strong proficiency in Python (PySpark, Pandas, Polars) and SQL; experience with TypeScript is highly valued Deep understanding of the Foundry Ontology — object types, link types, action types, interfaces, and functions Proven track record of designing and deploying production-grade data pipelines (batch and streaming) at enterprise scale Experience building Workshop applications and/or OSDK-based applications (React/TypeScript) Strong communication skills with the ability to engage both technical and non-technical stakeholders Preferred Qualifications Experience with Google Cloud Platform (GCP) — Compute Engine, Cloud Functions, Cloud Storage, Dataflow, Pub/Sub, and IAM Experience with Google BigQuery — query optimization, partitioning/clustering strategies, BigQuery ML, data warehousing patterns, and migration from legacy EDW platforms (e.g., Netezza, Teradata) Experience with AIP (AI Platform) — AIP Logic, AIP Agents, evaluation suites, and LLM-powered functions Familiarity with machine learning workflows in Foundry: Model Studio, pro-code model authoring, batch/live inference Experience implementing data governance frameworks — markings, ABAC, restricted views, Cipher for data protection, and HIPAA-compliant data handling Background in healthcare, kidney care, or clinical operations, revenue cycle optimizations a plus. Experience leading teams of 3+ engineers in forward-deployed settings Contributions to internal tooling, open-source projects, or platform evangelism Additional Information Discover some of the global benefits that empower our people to become the best version of themselves: Finance: Competitive salary package, share plan, company performance bonuses, value-based recognition awards, referral bonus; Career Development: Career coaching, global career opportunities, non-linear career paths, internal development programmes for management and technical leadership; Learning Opportunities: Complex projects, rotations, internal tech communities, training, certifications, coaching, online learning platforms subscriptions, pass-it-on sessions, workshops, conferences; Work-Life Balance: Hybrid work and flexible working hours, employee assistance programme; Health: Global internal wellbeing programme, access to wellbeing apps; Community: Global internal tech communities, hobby clubs and interest groups, inclusion and diversity programmes, events and celebrations. Additional Employee Requirements Participation in both internal meetings and external meetings via video calls, as necessary. Ability to go into corporate or client offices to work onsite, as necessary. Prolonged periods of remaining stationary at a desk and working on a computer, as necessary. Ability to bend, kneel, crouch, and reach overhead, as necessary. Hand-eye coordination necessary to operate computers and various pieces of office equipment, as necessary. Vision abilities including close vision, toleration of fluorescent lighting, and adjusting focus, as necessary. For positions that require business travel and/or event attendance, ability to lift 25 lbs, as necessary. For positions that require business travel and/or event attendance, a valid driver’s license and acceptable driving record are required, as driving is an essential job function. *If requested, reasonable accommodations will be made to enable employees requiring accommodations to perform the essential functions of their jobs, absent undue hardship. USA Benefits (Full time roles only, does not apply to contractor positions) Robust healthcare and benefits including Medical, Dental, vision, Disability coverage, and various other benefit options Flexible Spending Accounts (Medical, Transit, and Dependent Care) Employer Paid Life Insurance and AD&amp;D Coverages Health Savings account paired with our low-cost High Deductible Medical Plan 401(k) Safe Harbor Retirement plan with employer match with immediately vest At Endava, we’re committed to creating an open, inclusive, and respectful environment where everyone feels safe, valued, and empowered to be their best. We welcome applications from people of all backgrounds, experiences, and perspectives—because we know that inclusive teams help us deliver smarter, more innovative solutions for our customers. Hiring decisions are based on merit, skills, qualifications, and potential. If you need adjustments or support during the recruitment process, please let us know.",
+    "url": "https://jobicy.com/jobs/147581-forward-deployed-engineer-3",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript",
+      "python",
+      "react",
+      "gcp",
+      "llm",
+      "machine-learning",
+      "pandas",
+      "foundry"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-24T03:03:04+00:00",
+    "fetched_at": "2026-06-24T08:46:56.111Z",
+    "raw": {
+      "id": 147581,
+      "url": "https://jobicy.com/jobs/147581-forward-deployed-engineer-3",
+      "jobSlug": "147581-forward-deployed-engineer-3",
+      "jobTitle": "Forward Deployed Engineer",
+      "companyName": "Endava",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/2f95f618-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Company DescriptionTechnology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.By combining world-class engineering, industry expertise and a...",
+      "jobDescription": "<h2>Company Description</h2>\n<p>Technology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.<br />By combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses.<br />From prototype to real-world impact - be part of a global shift by doing work that matters.</p>\n<h2>Job Description</h2>\n<p>Remote Opportunity</p>\n<p>MUST HAVE EXPERIENCE WITH PALANTIR</p>\n<p>As a Senior Forward Deployed Engineer (Delta), you will serve as the technical leader at the intersection of Palantir Foundry's platform capabilities and our most complex, high-impact healthcare data and operational engagements.</p>\n<p>This role combines deep technical expertise in Palantir Foundry with strategic deployment leadership, driving transformational outcomes for our kidney care and healthcare operations.</p>\n<p>The Delta designation reflects a commitment to driving <em>change and transformation</em> — you are the catalyst who bridges the gap between what the platform can do and what it should do for our unique operational context.</p>\n<p>You will be expected to be hands-on and an independent FDE owning, architecting enterprise-grade solutions, development, deployment, mentor as needed and shape the technical strategy for critical engagements across our client's healthcare ecosystem.</p>\n<h2>Qualifications</h2>\n<ul>\n<li>5+ years of experience in software engineering, data engineering, or technical consulting — with at least 2+ years on Palantir Foundry</li>\n<li>Strong proficiency in Python (PySpark, Pandas, Polars) and SQL; experience with TypeScript is highly valued</li>\n<li>Deep understanding of the Foundry Ontology — object types, link types, action types, interfaces, and functions</li>\n<li>Proven track record of designing and deploying production-grade data pipelines (batch and streaming) at enterprise scale</li>\n<li>Experience building Workshop applications and/or OSDK-based applications (React/TypeScript)</li>\n<li>Strong communication skills with the ability to engage both technical and non-technical stakeholders</li>\n</ul>\n<p>Preferred Qualifications</p>\n<ul>\n<li>Experience with Google Cloud Platform (GCP) — Compute Engine, Cloud Functions, Cloud Storage, Dataflow, Pub/Sub, and IAM</li>\n<li>Experience with Google BigQuery — query optimization, partitioning/clustering strategies, BigQuery ML, data warehousing patterns, and migration from legacy EDW platforms (e.g., Netezza, Teradata)</li>\n<li>Experience with AIP (AI Platform) — AIP Logic, AIP Agents, evaluation suites, and LLM-powered functions</li>\n<li>Familiarity with machine learning workflows in Foundry: Model Studio, pro-code model authoring, batch/live inference</li>\n<li>Experience implementing data governance frameworks — markings, ABAC, restricted views, Cipher for data protection, and HIPAA-compliant data handling</li>\n<li>Background in healthcare, kidney care, or clinical operations, revenue cycle optimizations a plus.</li>\n<li>Experience leading teams of 3+ engineers in forward-deployed settings</li>\n<li>Contributions to internal tooling, open-source projects, or platform evangelism</li>\n</ul>\n<h2>Additional Information</h2>\n<p>Discover some of the global benefits that empower our people to become the best version of themselves:</p>\n<ul>\n<li>Finance: Competitive salary package, share plan, company performance bonuses, value-based recognition awards, referral bonus; </li>\n<li>Career Development: Career coaching, global career opportunities, non-linear career paths, internal development programmes for management and technical leadership;</li>\n<li>Learning Opportunities: Complex projects, rotations, internal tech communities, training, certifications, coaching, online learning platforms subscriptions, pass-it-on sessions, workshops, conferences;</li>\n<li>Work-Life Balance: Hybrid work and flexible working hours, employee assistance programme;</li>\n<li>Health: Global internal wellbeing programme, access to wellbeing apps;</li>\n<li>Community: Global internal tech communities, hobby clubs and interest groups, inclusion and diversity programmes, events and celebrations.</li>\n</ul>\n<p>Additional Employee Requirements </p>\n<ul>\n<li>Participation in both internal meetings and external meetings via video calls, as necessary. </li>\n<li>Ability to go into corporate or client offices to work onsite, as necessary. </li>\n<li>Prolonged periods of remaining stationary at a desk and working on a computer, as necessary. </li>\n<li>Ability to bend, kneel, crouch, and reach overhead, as necessary. </li>\n<li>Hand-eye coordination necessary to operate computers and various pieces of office equipment, as necessary. </li>\n<li>Vision abilities including close vision, toleration of fluorescent lighting, and adjusting focus, as necessary. </li>\n<li>For positions that require business travel and/or event attendance, ability to lift 25 lbs, as necessary. </li>\n<li>For positions that require business travel and/or event attendance, a valid driver’s license and acceptable driving record are required, as driving is an essential job function.</li>\n</ul>\n<p>*If requested, reasonable accommodations will be made to enable employees requiring accommodations to perform the essential functions of their jobs, absent undue hardship. </p>\n<p>USA Benefits (Full time roles only, does not apply to contractor positions)</p>\n<ul>\n<li>Robust healthcare and benefits including Medical, Dental, vision, Disability coverage, and various other benefit options </li>\n<li>Flexible Spending Accounts (Medical, Transit, and Dependent Care) </li>\n<li>Employer Paid Life Insurance and AD&amp;D Coverages </li>\n<li>Health Savings account paired with our low-cost High Deductible Medical Plan </li>\n<li>401(k) Safe Harbor Retirement plan with employer match with immediately vest </li>\n</ul>\n<p>At Endava, we’re committed to creating an open, inclusive, and respectful environment where everyone feels safe, valued, and empowered to be their best. We welcome applications from people of all backgrounds, experiences, and perspectives—because we know that inclusive teams help us deliver smarter, more innovative solutions for our customers. Hiring decisions are based on merit, skills, qualifications, and potential. If you need adjustments or support during the recruitment process, please let us know.</p>",
+      "pubDate": "2026-06-24T03:03:04+00:00"
+    }
+  },
+  {
+    "id": "jobicy:147580",
+    "platform": "jobicy",
+    "external_id": "147580",
+    "title": "Staff Engineer, Builder Enablement",
+    "company": "NBCUniversal",
+    "description": "Company Description NBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations &amp; Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information. Our impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world. Job Description As a Staff Engineer on the Builder Enablement team , your mission is to make the right way the easy way . You will be a founding member of the Builder Enablement team at the intersection of architecture, engineering, and enablement - identifying common design and implementation needs across Enterprise Engineering and turn them into paved paths, clear, reusable solutions that reduce friction and accelerate time-to-value. These paved paths can take many forms depending on what works best for builders: well-crafted documentation, reference architectures, code templates, IaC modules, shared libraries, or self-service infrastructure tools . You’ll choose the right medium to meet developers where they are and integrate with how they already work. You’ll partner closely with architects and service owners, translating patterns and practices into concrete implementations that teams can readily adopt. Your focus is on usability and adoption, not just creating guidance, but making it the default. Where it adds value, you’ll also leverage modern AI tools, such as agent-based workflows or prompt-driven interfaces, to further reduce friction and help developers design, build, and operate systems more effectively. The result: teams move faster, with less guesswork, on top of a platform that is consistent, scalable, and easy to use. Responsibilities Identify common design and implementation needs across application engineering teams, and translate them into clear, reusable paved paths that reduce friction and accelerate delivery Create and maintain high-quality documentation, reference architectures, and implementation guides that help engineers quickly understand how to build on enterprise platforms and services Develop reusable artifacts such as Terraform or similar modules, code templates, and example implementations that encode best practices and provide strong starting points for new systems Partner with enterprise platform and foundation teams to understand existing capabilities and constraints , and incorporate them into cohesive, developer-friendly patterns Collaborate with architects to translate architectural principles and system understanding into practical guidance and working implementations Contribute to and evolve AI-assisted developer workflows , such as agent-based tools, prompt patterns, or skill definitions, that help engineers design, scaffold, and operate systems more effectively Evaluate and choose the right medium for enablement —whether documentation, code, templates, or AI-assisted interfaces—based on what will be most effective and adoptable for builders Gather feedback from application teams and iterate on paved paths based on real-world usage, improving usability, clarity, and adoption over time Help identify gaps in platform capabilities or developer experience, and work with foundation teams to influence improvements or new services where needed Advocate for a developer-centric approach to platform adoption , ensuring that enterprise capabilities are accessible, understandable, and easy to use in practice Qualifications Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience 6+ years of relevant experience Strong hands-on experience building and operating production software systems , with a solid understanding of the tools, workflows, and challenges faced by application engineers Experience working with cloud platforms (e.g., AWS, Azure, GCP) and modern infrastructure practices, including infrastructure-as-code (CFT, Terraform, Pulumi, or similar) Demonstrated ability to create clear, practical technical guidance —such as documentation, examples, or templates—that other engineers successfully adopt Experience translating complex systems or platform capabilities into usable patterns and abstractions for other developers Familiarity with developer workflows and tooling (CI/CD, local development, deployment patterns) and how to improve them Ability to collaborate effectively across teams, particularly with platform, infrastructure, and application engineers Strong communication skills, with the ability to meet developers where they are and present solutions in a way that is approachable and actionable A pragmatic mindset, with a focus on usability, adoption, and real-world effectiveness over theoretical elegance Desired Characteristics: Experience in platform engineering, developer experience (DX), or internal tooling roles focused on enabling other engineers Experience creating and maintaining IaC modules, code templates, or reference implementations used across multiple teams Comfort working across multiple abstraction layers—from infrastructure to application architecture—and understanding how they connect Experience using or building AI-assisted development workflows , such as prompt engineering, agent-based tooling, or internal developer assistants A strong sense for when to write documentation vs. build tooling vs. provide examples , and how to combine them effectively Experience working in large, federated organizations , where different teams own different parts of the stack Curiosity and a bias toward simplifying complex systems and reducing cognitive load for other engineers Ability to gather feedback, observe developer behavior, and continuously improve solutions based on how they are actually used Additional Requirements: Fully Remote : This position has been designated as fully remote, meaning that the position is expected to contribute from a non-NBCUniversal worksite, most commonly an employee’s residence. This position is eligible for company sponsored benefits, including medical, dental and vision insurance, 401(k), paid leave, tuition reimbursement, and a variety of other discounts and perks. Learn more about the benefits offered by NBCUniversal by visiting the Benefits page of the Careers website. Salary range: $140,000 - $165,000 (bonus eligible) We are accepting applications for this position on an ongoing basis. Additional Information As part of our selection process, external candidates may be required to attend an in-person interview with an NBCUniversal employee at one of our locations prior to a hiring decision. NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access nbcunicareers.com as a result of your disability. You can request reasonable accommodations by emailing AccessibilitySupport@nbcuni.com. For LA County and City Residents Only: NBCUniversal will consider for employment qualified applicants with criminal histories, or arrest or conviction records, in a manner consistent with relevant legal requirements, including the City of Los Angeles' Fair Chance Initiative For Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, where applicable.",
+    "url": "https://jobicy.com/jobs/147580-staff-engineer-builder-enablement",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "aws",
+      "gcp",
+      "azure",
+      "terraform",
+      "pulumi"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-24T03:03:02+00:00",
+    "fetched_at": "2026-06-24T08:46:56.113Z",
+    "raw": {
+      "id": 147580,
+      "url": "https://jobicy.com/jobs/147580-staff-engineer-builder-enablement",
+      "jobSlug": "147580-staff-engineer-builder-enablement",
+      "jobTitle": "Staff Engineer, Builder Enablement",
+      "companyName": "NBCUniversal",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/836510d4-221-2.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Company DescriptionNBCUniversal is one of the world&#8217;s leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to...",
+      "jobDescription": "<h2>Company Description</h2>\n<p>NBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations &amp; Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.</p>\n<p>Our impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.</p>\n<h2>Job Description</h2>\n<p>As a <strong>Staff Engineer on the Builder Enablement team</strong>, your mission is to <strong>make the right way the easy way</strong>. </p>\n<p>You will be a founding member of the <strong>Builder Enablement</strong> <strong>team at the intersection of architecture, engineering, and enablement - </strong>identifying common design and implementation needs across Enterprise Engineering and turn them into <strong>paved paths, </strong>clear, reusable solutions that reduce friction and accelerate time-to-value. </p>\n<p>These paved paths can take many forms depending on what works best for builders: <strong>well-crafted documentation, reference architectures, code templates, IaC modules, shared libraries, or self-service infrastructure tools</strong>. You’ll choose the right medium to meet developers where they are and integrate with how they already work. </p>\n<p>You’ll partner closely with architects and service owners, translating patterns and practices into concrete implementations that teams can readily adopt. Your focus is on <strong>usability and adoption, </strong>not just creating guidance, but making it the default. </p>\n<p>Where it adds value, you’ll also leverage modern AI tools, such as agent-based workflows or prompt-driven interfaces, to further reduce friction and help developers design, build, and operate systems more effectively. </p>\n<p>The result: teams move faster, with less guesswork, on top of a platform that is consistent, scalable, and easy to use. </p>\n<p><strong>Responsibilities </strong></p>\n<ul>\n<li>\n<p>Identify common design and implementation needs across application engineering teams, and translate them into <strong>clear, reusable paved paths</strong> that reduce friction and accelerate delivery </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Create and maintain <strong>high-quality documentation, reference architectures, and implementation guides </strong>that help engineers quickly understand how to build on enterprise platforms and services </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Develop <strong>reusable artifacts</strong> such as Terraform or similar modules, code templates, and example implementations that encode best practices and provide strong starting points for new systems </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Partner with enterprise platform and foundation teams to <strong>understand existing capabilities and constraints</strong>, and incorporate them into cohesive, developer-friendly patterns </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Collaborate with architects to <strong>translate architectural principles and system understanding into practical guidance and working implementations</strong> </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Contribute to and evolve <strong>AI-assisted developer workflows</strong>, such as agent-based tools, prompt patterns, or skill definitions, that help engineers design, scaffold, and operate systems more effectively </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Evaluate and choose the <strong>right medium for enablement</strong>—whether documentation, code, templates, or AI-assisted interfaces—based on what will be most effective and adoptable for builders </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Gather feedback from application teams and <strong>iterate on paved paths based on real-world usage, </strong>improving usability, clarity, and adoption over time </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Help identify gaps in platform capabilities or developer experience, and <strong>work with foundation teams to influence improvements or new services</strong> where needed </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Advocate for a <strong>developer-centric approach to platform adoption</strong>, ensuring that enterprise capabilities are accessible, understandable, and easy to use in practice </p>\n</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>\n<p>Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience</p>\n</li>\n<li>\n<p>6+ years of relevant experience </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Strong hands-on experience building and operating <strong>production software systems</strong>, with a solid understanding of the tools, workflows, and challenges faced by application engineers </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Experience working with <strong>cloud platforms (e.g., AWS, Azure, GCP) </strong>and modern infrastructure practices, including infrastructure-as-code (CFT, Terraform, Pulumi, or similar) </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Demonstrated ability to create <strong>clear, practical technical guidance</strong>—such as documentation, examples, or templates—that other engineers successfully adopt </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Experience translating complex systems or platform capabilities into <strong>usable patterns and abstractions</strong> for other developers </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Familiarity with <strong>developer workflows and tooling </strong>(CI/CD, local development, deployment patterns) and how to improve them </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Ability to collaborate effectively across teams, particularly with platform, infrastructure, and application engineers </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Strong communication skills, with the ability to <strong>meet developers where they are</strong> and present solutions in a way that is approachable and actionable </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>A pragmatic mindset, with a focus on <strong>usability, adoption, and real-world effectiveness</strong> over theoretical elegance </p>\n</li>\n</ul>\n<p><strong>Desired Characteristics: </strong></p>\n<ul>\n<li>\n<p>Experience in <strong>platform engineering, developer experience (DX), or internal tooling</strong> roles focused on enabling other engineers </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Experience creating and maintaining <strong>IaC modules, code templates, or reference implementations</strong> used across multiple teams </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Comfort working across multiple abstraction layers—from infrastructure to application architecture—and understanding how they connect </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Experience using or building <strong>AI-assisted development workflows</strong>, such as prompt engineering, agent-based tooling, or internal developer assistants </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>A strong sense for <strong>when to write documentation vs. build tooling vs. provide examples</strong>, and how to combine them effectively </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Experience working in <strong>large, federated organizations</strong>, where different teams own different parts of the stack </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Curiosity and a bias toward <strong>simplifying complex systems</strong> and reducing cognitive load for other engineers </p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Ability to gather feedback, observe developer behavior, and <strong>continuously improve solutions based on how they are actually used </strong></p>\n</li>\n</ul>\n<p><strong>Additional Requirements: </strong></p>\n<ul>\n<li>\n<p><strong>Fully Remote</strong>: This position has been designated as fully remote, meaning that the position is expected to contribute from a non-NBCUniversal worksite, most commonly an employee’s residence. </p>\n</li>\n</ul>\n<p>This position is eligible for company sponsored benefits, including medical, dental and vision insurance, 401(k), paid leave, tuition reimbursement, and a variety of other discounts and perks. Learn more about the benefits offered by NBCUniversal by visiting the Benefits page of the Careers website. Salary range: $140,000 - $165,000 (bonus eligible)</p>\n<p>\nWe are accepting applications for this position on an ongoing basis. </p>\n<h2>Additional Information</h2>\n<p>As part of our selection process, external candidates may be required to attend an in-person interview with an NBCUniversal employee at one of our locations prior to a hiring decision. NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. </p>\n<p>If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access nbcunicareers.com as a result of your disability. You can request reasonable accommodations by emailing AccessibilitySupport@nbcuni.com.</p>\n<p>For LA County and City Residents Only: NBCUniversal will consider for employment qualified applicants with criminal histories, or arrest or conviction records, in a manner consistent with relevant legal requirements, including the City of Los Angeles' Fair Chance Initiative For Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, where applicable.</p>",
+      "pubDate": "2026-06-24T03:03:02+00:00",
+      "salaryMin": 140000,
+      "salaryMax": 165000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:144481",
+    "platform": "jobicy",
+    "external_id": "144481",
+    "title": "Solutions Architect, Scaled Operations AI Accelerator Team",
+    "company": "Meta",
+    "description": "The Scaled Operations organization in Meta is responsible for delivering global scaled human operations to power Meta company priorities. Meta is seeking a highly skilled Automation Solutions Architect to join the Scaled Operations AI Accelerator Team. This small, entrepreneurial team is responsible for designing, developing, and deploying AI-powered automation solutions that transform operational processes at scale. As an Automation Solutions Architect, you will play a critical role in assessing and optimizing processes, leading technical design, and driving system implementation to deliver measurable impact across Scaled Operations.ResponsibilitiesAnalyze, map, and redesign internal operational workflows to identify pain points and opportunities for AI-driven automation* Collaborate with process owners and cross-functional teams to optimize processes and ensure successful automation outcomes* Architect end-to-end automation solutions, ensuring technical scalability, robustness, and compliance with Meta standards* Manage complex projects, including requirements gathering, timeline management, and deliverable oversight* Champion effective change management, developing and executing strategies to support employees and teams through transitions resulting from automation* Drive cross-functional engagement with product managers, engineers, business stakeholders, and external partners to deliver impactful solutions* Communicate technical concepts and project status clearly to both technical and non-technical audiences* Stay current with AI/ML advancements and experiment with new tools and approaches to foster innovation and continuous improvement* Develop playbooks, reusable templates, and best practices to scale successful automations across Scaled Operations* Manage contract worker or vendor relationships to support technical design development and implementation* Track, analyze, and report on key metrics and business impact of automation initiativesQualificationsBachelor's degree in a directly related field, or equivalent practical experience* 8+ years of experience in systems architecture and solution design* 6+ years of experience in process analysis or business operations* Proven experience with AI/ML or automation projects, including end-to-end solution delivery* Expertise in API integration and automation frameworks* Demonstrated ability to deliver technical documentation and communicate technical requirements* Demonstrated skills in program management, including managing complex projects and cross-functional deliverables* Experience supporting change management and stakeholder engagement Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)* Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)* Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies* Bachelor’s or advanced degree in Computer Science, Engineering, or a related technical experience* Experience with Meta’s internal tools and platforms (e.g., Vibe Coding, internal automation frameworks)* Familiarity with Scaled Operations processes and FTE workflows* Experience developing playbooks, reusable templates, and best practices for automation at scale",
+    "url": "https://jobicy.com/jobs/144481-solutions-architect-scaled-operations-ai-accelerator-team",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-23T23:26:42+00:00",
+    "fetched_at": "2026-06-24T08:46:56.113Z",
+    "raw": {
+      "id": 144481,
+      "url": "https://jobicy.com/jobs/144481-solutions-architect-scaled-operations-ai-accelerator-team",
+      "jobSlug": "144481-solutions-architect-scaled-operations-ai-accelerator-team",
+      "jobTitle": "Solutions Architect, Scaled Operations AI Accelerator Team",
+      "companyName": "Meta",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/750f86a9-221.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "The Scaled Operations organization in Meta is responsible for delivering global scaled human operations to power Meta company priorities. Meta is seeking a highly skilled Automation Solutions Architect to join...",
+      "jobDescription": "<p>The Scaled Operations organization in Meta is responsible for delivering global scaled human operations to power Meta company priorities. Meta is seeking a highly skilled Automation Solutions Architect to join the Scaled Operations AI Accelerator Team. This small, entrepreneurial team is responsible for designing, developing, and deploying AI-powered automation solutions that transform operational processes at scale. As an Automation Solutions Architect, you will play a critical role in assessing and optimizing processes, leading technical design, and driving system implementation to deliver measurable impact across Scaled Operations.ResponsibilitiesAnalyze, map, and redesign internal operational workflows to identify pain points and opportunities for AI-driven automation* Collaborate with process owners and cross-functional teams to optimize processes and ensure successful automation outcomes* Architect end-to-end automation solutions, ensuring technical scalability, robustness, and compliance with Meta standards* Manage complex projects, including requirements gathering, timeline management, and deliverable oversight* Champion effective change management, developing and executing strategies to support employees and teams through transitions resulting from automation* Drive cross-functional engagement with product managers, engineers, business stakeholders, and external partners to deliver impactful solutions* Communicate technical concepts and project status clearly to both technical and non-technical audiences* Stay current with AI/ML advancements and experiment with new tools and approaches to foster innovation and continuous improvement* Develop playbooks, reusable templates, and best practices to scale successful automations across Scaled Operations* Manage contract worker or vendor relationships to support technical design development and implementation* Track, analyze, and report on key metrics and business impact of automation initiativesQualificationsBachelor's degree in a directly related field, or equivalent practical experience* 8+ years of experience in systems architecture and solution design* 6+ years of experience in process analysis or business operations* Proven experience with AI/ML or automation projects, including end-to-end solution delivery* Expertise in API integration and automation frameworks* Demonstrated ability to deliver technical documentation and communicate technical requirements* Demonstrated skills in program management, including managing complex projects and cross-functional deliverables* Experience supporting change management and stakeholder engagement Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)* Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)* Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies* Bachelor’s or advanced degree in Computer Science, Engineering, or a related technical experience* Experience with Meta’s internal tools and platforms (e.g., Vibe Coding, internal automation frameworks)* Familiarity with Scaled Operations processes and FTE workflows* Experience developing playbooks, reusable templates, and best practices for automation at scale</p>",
+      "pubDate": "2026-06-23T23:26:42+00:00"
+    }
+  },
+  {
     "id": "jobicy:147559",
     "platform": "jobicy",
     "external_id": "147559",
@@ -21,7 +228,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T19:05:28+00:00",
-    "fetched_at": "2026-06-24T01:49:46.027Z",
+    "fetched_at": "2026-06-24T08:46:56.115Z",
     "raw": {
       "id": 147559,
       "url": "https://jobicy.com/jobs/147559-manufacturing-quality-engineer",
@@ -66,7 +273,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T19:05:25+00:00",
-    "fetched_at": "2026-06-24T01:49:46.027Z",
+    "fetched_at": "2026-06-24T08:46:56.116Z",
     "raw": {
       "id": 147557,
       "url": "https://jobicy.com/jobs/147557-data-integrator",
@@ -114,7 +321,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:56:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.028Z",
+    "fetched_at": "2026-06-24T08:46:56.117Z",
     "raw": {
       "id": 144461,
       "url": "https://jobicy.com/jobs/144461-software-engineer-7",
@@ -157,7 +364,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:41:44+00:00",
-    "fetched_at": "2026-06-24T01:49:46.029Z",
+    "fetched_at": "2026-06-24T08:46:56.118Z",
     "raw": {
       "id": 144492,
       "url": "https://jobicy.com/jobs/144492-commissioning-manager-all-genders-for-hvdc-systems",
@@ -206,7 +413,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:36:43+00:00",
-    "fetched_at": "2026-06-24T01:49:46.030Z",
+    "fetched_at": "2026-06-24T08:46:56.118Z",
     "raw": {
       "id": 144510,
       "url": "https://jobicy.com/jobs/144510-staff-software-engineer-agentic-data-plane-poland",
@@ -255,7 +462,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:36:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.030Z",
+    "fetched_at": "2026-06-24T08:46:56.119Z",
     "raw": {
       "id": 144511,
       "url": "https://jobicy.com/jobs/144511-software-engineer-agentic-data-plane",
@@ -302,7 +509,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:31:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.032Z",
+    "fetched_at": "2026-06-24T08:46:56.121Z",
     "raw": {
       "id": 144518,
       "url": "https://jobicy.com/jobs/144518-principal-software-engineer-postgres",
@@ -352,7 +559,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:57:39+00:00",
-    "fetched_at": "2026-06-24T01:49:46.033Z",
+    "fetched_at": "2026-06-24T08:46:56.122Z",
     "raw": {
       "id": 147511,
       "url": "https://jobicy.com/jobs/147511-senior-quality-engineer",
@@ -406,7 +613,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:46+00:00",
-    "fetched_at": "2026-06-24T01:49:46.034Z",
+    "fetched_at": "2026-06-24T08:46:56.124Z",
     "raw": {
       "id": 147496,
       "url": "https://jobicy.com/jobs/147496-senior-frontend-software-engineer-home-experience",
@@ -458,7 +665,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:34+00:00",
-    "fetched_at": "2026-06-24T01:49:46.035Z",
+    "fetched_at": "2026-06-24T08:46:56.125Z",
     "raw": {
       "id": 147489,
       "url": "https://jobicy.com/jobs/147489-senior-machine-learning-systems-engineer-ads-ml-experience-platform",
@@ -508,7 +715,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:30+00:00",
-    "fetched_at": "2026-06-24T01:49:46.037Z",
+    "fetched_at": "2026-06-24T08:46:56.127Z",
     "raw": {
       "id": 147487,
       "url": "https://jobicy.com/jobs/147487-engineering-manager-ads-ml-efficiency",
@@ -564,7 +771,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T03:31:44+00:00",
-    "fetched_at": "2026-06-24T01:49:46.037Z",
+    "fetched_at": "2026-06-24T08:46:56.128Z",
     "raw": {
       "id": 144154,
       "url": "https://jobicy.com/jobs/144154-senior-android-sdk-engineer",
@@ -620,7 +827,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:56:41+00:00",
-    "fetched_at": "2026-06-24T01:49:46.039Z",
+    "fetched_at": "2026-06-24T08:46:56.130Z",
     "raw": {
       "id": 144467,
       "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
@@ -676,7 +883,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:51:41+00:00",
-    "fetched_at": "2026-06-24T01:49:46.039Z",
+    "fetched_at": "2026-06-24T08:46:56.131Z",
     "raw": {
       "id": 144474,
       "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
@@ -721,7 +928,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:46:47+00:00",
-    "fetched_at": "2026-06-24T01:49:46.040Z",
+    "fetched_at": "2026-06-24T08:46:56.132Z",
     "raw": {
       "id": 144479,
       "url": "https://jobicy.com/jobs/144479-ai-systems-engineering-subject-matter-expert",
@@ -770,7 +977,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:36:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.041Z",
+    "fetched_at": "2026-06-24T08:46:56.134Z",
     "raw": {
       "id": 144508,
       "url": "https://jobicy.com/jobs/144508-software-engineer-cloud",
@@ -817,7 +1024,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:31:46+00:00",
-    "fetched_at": "2026-06-24T01:49:46.042Z",
+    "fetched_at": "2026-06-24T08:46:56.135Z",
     "raw": {
       "id": 144513,
       "url": "https://jobicy.com/jobs/144513-qa-automation-engineer-pro",
@@ -864,7 +1071,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-22T13:21:48+00:00",
-    "fetched_at": "2026-06-24T01:49:46.043Z",
+    "fetched_at": "2026-06-24T08:46:56.137Z",
     "raw": {
       "id": 147410,
       "url": "https://jobicy.com/jobs/147410-staff-backend-engineer-tech-lead-manager",
@@ -914,7 +1121,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-22T13:21:45+00:00",
-    "fetched_at": "2026-06-24T01:49:46.043Z",
+    "fetched_at": "2026-06-24T08:46:56.138Z",
     "raw": {
       "id": 147408,
       "url": "https://jobicy.com/jobs/147408-senior-backend-software-engineer-observability",
@@ -964,7 +1171,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-22T13:21:30+00:00",
-    "fetched_at": "2026-06-24T01:49:46.044Z",
+    "fetched_at": "2026-06-24T08:46:56.139Z",
     "raw": {
       "id": 147399,
       "url": "https://jobicy.com/jobs/147399-senior-qa-automation-engineer-bdd",
@@ -1019,7 +1226,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-22T01:26:50+00:00",
-    "fetched_at": "2026-06-24T01:49:46.045Z",
+    "fetched_at": "2026-06-24T08:46:56.140Z",
     "raw": {
       "id": 144376,
       "url": "https://jobicy.com/jobs/144376-machine-learning-engineer-3",
@@ -1071,7 +1278,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:31:04+00:00",
-    "fetched_at": "2026-06-24T01:49:46.046Z",
+    "fetched_at": "2026-06-24T08:46:56.142Z",
     "raw": {
       "id": 147339,
       "url": "https://jobicy.com/jobs/147339-it-engineer",
@@ -1124,7 +1331,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:31:00+00:00",
-    "fetched_at": "2026-06-24T01:49:46.048Z",
+    "fetched_at": "2026-06-24T08:46:56.144Z",
     "raw": {
       "id": 147337,
       "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
@@ -1176,7 +1383,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:58+00:00",
-    "fetched_at": "2026-06-24T01:49:46.050Z",
+    "fetched_at": "2026-06-24T08:46:56.146Z",
     "raw": {
       "id": 147336,
       "url": "https://jobicy.com/jobs/147336-principal-engineer-catalog",
@@ -1231,7 +1438,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:57+00:00",
-    "fetched_at": "2026-06-24T01:49:46.052Z",
+    "fetched_at": "2026-06-24T08:46:56.149Z",
     "raw": {
       "id": 147335,
       "url": "https://jobicy.com/jobs/147335-principal-engineer-mobile",
@@ -1285,7 +1492,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:55+00:00",
-    "fetched_at": "2026-06-24T01:49:46.054Z",
+    "fetched_at": "2026-06-24T08:46:56.151Z",
     "raw": {
       "id": 147334,
       "url": "https://jobicy.com/jobs/147334-sr-software-engineer-ii-ai",
@@ -1340,7 +1547,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:53+00:00",
-    "fetched_at": "2026-06-24T01:49:46.055Z",
+    "fetched_at": "2026-06-24T08:46:56.152Z",
     "raw": {
       "id": 147333,
       "url": "https://jobicy.com/jobs/147333-sr-software-engineer-ii-catalog",
@@ -1395,7 +1602,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:52+00:00",
-    "fetched_at": "2026-06-24T01:49:46.056Z",
+    "fetched_at": "2026-06-24T08:46:56.153Z",
     "raw": {
       "id": 147332,
       "url": "https://jobicy.com/jobs/147332-full-stack-engineer-global",
@@ -1459,7 +1666,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T03:30:50+00:00",
-    "fetched_at": "2026-06-24T01:49:46.058Z",
+    "fetched_at": "2026-06-24T08:46:56.155Z",
     "raw": {
       "id": 147331,
       "url": "https://jobicy.com/jobs/147331-infrastructure-engineer",
@@ -1512,7 +1719,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T00:31:46+00:00",
-    "fetched_at": "2026-06-24T01:49:46.059Z",
+    "fetched_at": "2026-06-24T08:46:56.157Z",
     "raw": {
       "id": 144326,
       "url": "https://jobicy.com/jobs/144326-security-engineer-2",
@@ -1559,7 +1766,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-21T00:26:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.060Z",
+    "fetched_at": "2026-06-24T08:46:56.160Z",
     "raw": {
       "id": 144336,
       "url": "https://jobicy.com/jobs/144336-staff-security-architect",
@@ -1606,7 +1813,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-20T09:26:44+00:00",
-    "fetched_at": "2026-06-24T01:49:46.060Z",
+    "fetched_at": "2026-06-24T08:46:56.160Z",
     "raw": {
       "id": 144246,
       "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
@@ -1651,7 +1858,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-20T04:26:43+00:00",
-    "fetched_at": "2026-06-24T01:49:46.061Z",
+    "fetched_at": "2026-06-24T08:46:56.161Z",
     "raw": {
       "id": 144256,
       "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
@@ -1712,7 +1919,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:41:45+00:00",
-    "fetched_at": "2026-06-24T01:49:46.063Z",
+    "fetched_at": "2026-06-24T08:46:56.163Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -1761,7 +1968,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:26:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.064Z",
+    "fetched_at": "2026-06-24T08:46:56.164Z",
     "raw": {
       "id": 144167,
       "url": "https://jobicy.com/jobs/144167-sr-software-engineer-2",
@@ -1814,7 +2021,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-19T08:21:44+00:00",
-    "fetched_at": "2026-06-24T01:49:46.065Z",
+    "fetched_at": "2026-06-24T08:46:56.165Z",
     "raw": {
       "id": 144179,
       "url": "https://jobicy.com/jobs/144179-golang-engineer",
@@ -1873,7 +2080,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T22:11:45+00:00",
-    "fetched_at": "2026-06-24T01:49:46.066Z",
+    "fetched_at": "2026-06-24T08:46:56.166Z",
     "raw": {
       "id": 143911,
       "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
@@ -1921,7 +2128,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:58+00:00",
-    "fetched_at": "2026-06-24T01:49:46.068Z",
+    "fetched_at": "2026-06-24T08:46:56.168Z",
     "raw": {
       "id": 147190,
       "url": "https://jobicy.com/jobs/147190-ai-soc-hardware-architect",
@@ -1967,7 +2174,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:56+00:00",
-    "fetched_at": "2026-06-24T01:49:46.069Z",
+    "fetched_at": "2026-06-24T08:46:56.169Z",
     "raw": {
       "id": 147189,
       "url": "https://jobicy.com/jobs/147189-ai-compiler-engineer",
@@ -2018,7 +2225,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:54+00:00",
-    "fetched_at": "2026-06-24T01:49:46.070Z",
+    "fetched_at": "2026-06-24T08:46:56.170Z",
     "raw": {
       "id": 147188,
       "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
@@ -2067,7 +2274,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T19:03:51+00:00",
-    "fetched_at": "2026-06-24T01:49:46.071Z",
+    "fetched_at": "2026-06-24T08:46:56.172Z",
     "raw": {
       "id": 147186,
       "url": "https://jobicy.com/jobs/147186-system-developer",
@@ -2116,7 +2323,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T17:01:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.072Z",
+    "fetched_at": "2026-06-24T08:46:56.173Z",
     "raw": {
       "id": 144972,
       "url": "https://jobicy.com/jobs/144972-emerging-talent-aspire-engineering-and-technology-italy-2026-opportunities",
@@ -2166,7 +2373,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:11:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.073Z",
+    "fetched_at": "2026-06-24T08:46:56.174Z",
     "raw": {
       "id": 143893,
       "url": "https://jobicy.com/jobs/143893-web-application-software-engineer",
@@ -2217,7 +2424,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:01:49+00:00",
-    "fetched_at": "2026-06-24T01:49:46.075Z",
+    "fetched_at": "2026-06-24T08:46:56.176Z",
     "raw": {
       "id": 143908,
       "url": "https://jobicy.com/jobs/143908-senior-sales-engineer-5",
@@ -2263,7 +2470,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T07:01:48+00:00",
-    "fetched_at": "2026-06-24T01:49:46.076Z",
+    "fetched_at": "2026-06-24T08:46:56.177Z",
     "raw": {
       "id": 143906,
       "url": "https://jobicy.com/jobs/143906-senior-software-engineer-13",
@@ -2316,7 +2523,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-18T07:01:46+00:00",
-    "fetched_at": "2026-06-24T01:49:46.078Z",
+    "fetched_at": "2026-06-24T08:46:56.179Z",
     "raw": {
       "id": 143900,
       "url": "https://jobicy.com/jobs/143900-analyst-ii-full-stack-2",
@@ -2369,7 +2576,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:56:43+00:00",
-    "fetched_at": "2026-06-24T01:49:46.079Z",
+    "fetched_at": "2026-06-24T08:46:56.180Z",
     "raw": {
       "id": 143969,
       "url": "https://jobicy.com/jobs/143969-ai-automation-engineer",
@@ -2416,7 +2623,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:46:55+00:00",
-    "fetched_at": "2026-06-24T01:49:46.080Z",
+    "fetched_at": "2026-06-24T08:46:56.181Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -2463,7 +2670,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:41:54+00:00",
-    "fetched_at": "2026-06-24T01:49:46.081Z",
+    "fetched_at": "2026-06-24T08:46:56.183Z",
     "raw": {
       "id": 144098,
       "url": "https://jobicy.com/jobs/144098-senior-software-engineer-full-remote-france-or-hybrid-2",
@@ -2520,7 +2727,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:36:44+00:00",
-    "fetched_at": "2026-06-24T01:49:46.082Z",
+    "fetched_at": "2026-06-24T08:46:56.183Z",
     "raw": {
       "id": 144103,
       "url": "https://jobicy.com/jobs/144103-ai-engineer-fde-forward-deployed-engineer",
@@ -2571,7 +2778,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T06:06:46+00:00",
-    "fetched_at": "2026-06-24T01:49:46.083Z",
+    "fetched_at": "2026-06-24T08:46:56.184Z",
     "raw": {
       "id": 144839,
       "url": "https://jobicy.com/jobs/144839-front-end-engineer-2",
@@ -2617,7 +2824,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T04:00:52+00:00",
-    "fetched_at": "2026-06-24T01:49:46.084Z",
+    "fetched_at": "2026-06-24T08:46:56.185Z",
     "raw": {
       "id": 147114,
       "url": "https://jobicy.com/jobs/147114-solution-engineer-2",
@@ -2660,7 +2867,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-18T04:00:48+00:00",
-    "fetched_at": "2026-06-24T01:49:46.085Z",
+    "fetched_at": "2026-06-24T08:46:56.186Z",
     "raw": {
       "id": 147112,
       "url": "https://jobicy.com/jobs/147112-principal-geotechnical-engineer",
@@ -2707,7 +2914,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-17T18:51:08+00:00",
-    "fetched_at": "2026-06-24T01:49:46.086Z",
+    "fetched_at": "2026-06-24T08:46:56.187Z",
     "raw": {
       "id": 147080,
       "url": "https://jobicy.com/jobs/147080-senior-net-wpf-developer",
@@ -2759,7 +2966,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-17T18:51:06+00:00",
-    "fetched_at": "2026-06-24T01:49:46.087Z",
+    "fetched_at": "2026-06-24T08:46:56.188Z",
     "raw": {
       "id": 147079,
       "url": "https://jobicy.com/jobs/147079-qa-engineer-5",
@@ -2805,7 +3012,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T18:50:44+00:00",
-    "fetched_at": "2026-06-24T01:49:46.088Z",
+    "fetched_at": "2026-06-24T08:46:56.190Z",
     "raw": {
       "id": 147066,
       "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
@@ -2852,7 +3059,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T18:50:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.089Z",
+    "fetched_at": "2026-06-24T08:46:56.191Z",
     "raw": {
       "id": 147065,
       "url": "https://jobicy.com/jobs/147065-staff-design-engineer",
@@ -2900,7 +3107,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:57+00:00",
-    "fetched_at": "2026-06-24T01:49:46.090Z",
+    "fetched_at": "2026-06-24T08:46:56.192Z",
     "raw": {
       "id": 147050,
       "url": "https://jobicy.com/jobs/147050-ai-systems-engineering-expert",
@@ -2952,7 +3159,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:52+00:00",
-    "fetched_at": "2026-06-24T01:49:46.092Z",
+    "fetched_at": "2026-06-24T08:46:56.194Z",
     "raw": {
       "id": 147047,
       "url": "https://jobicy.com/jobs/147047-lead-cloud-solution-architect-application-modernization-aws",
@@ -3012,7 +3219,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T17:12:48+00:00",
-    "fetched_at": "2026-06-24T01:49:46.094Z",
+    "fetched_at": "2026-06-24T08:46:56.196Z",
     "raw": {
       "id": 147045,
       "url": "https://jobicy.com/jobs/147045-lead-cloud-solution-architect-ai-data-aws",
@@ -3068,7 +3275,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-17T11:05:09+00:00",
-    "fetched_at": "2026-06-24T01:49:46.095Z",
+    "fetched_at": "2026-06-24T08:46:56.197Z",
     "raw": {
       "id": 147013,
       "url": "https://jobicy.com/jobs/147013-ios-developer-remote-anywhere-in-mexico",
@@ -3113,7 +3320,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T11:04:40+00:00",
-    "fetched_at": "2026-06-24T01:49:46.097Z",
+    "fetched_at": "2026-06-24T08:46:56.199Z",
     "raw": {
       "id": 147000,
       "url": "https://jobicy.com/jobs/147000-experienced-information-systems-architect",
@@ -3162,7 +3369,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T11:04:38+00:00",
-    "fetched_at": "2026-06-24T01:49:46.098Z",
+    "fetched_at": "2026-06-24T08:46:56.201Z",
     "raw": {
       "id": 146999,
       "url": "https://jobicy.com/jobs/146999-director-solutions-engineering-usa-remote",
@@ -3209,7 +3416,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T05:09:32+00:00",
-    "fetched_at": "2026-06-24T01:49:46.100Z",
+    "fetched_at": "2026-06-24T08:46:56.202Z",
     "raw": {
       "id": 146984,
       "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
@@ -3261,7 +3468,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-17T05:09:18+00:00",
-    "fetched_at": "2026-06-24T01:49:46.101Z",
+    "fetched_at": "2026-06-24T08:46:56.204Z",
     "raw": {
       "id": 146976,
       "url": "https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes",
@@ -3310,7 +3517,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T16:05:22+00:00",
-    "fetched_at": "2026-06-24T01:49:46.103Z",
+    "fetched_at": "2026-06-24T08:46:56.206Z",
     "raw": {
       "id": 146917,
       "url": "https://jobicy.com/jobs/146917-implementation-engineer",
@@ -3363,7 +3570,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T07:03:36+00:00",
-    "fetched_at": "2026-06-24T01:49:46.104Z",
+    "fetched_at": "2026-06-24T08:46:56.206Z",
     "raw": {
       "id": 146875,
       "url": "https://jobicy.com/jobs/146875-semi-senior-back-end-python-engineer-e-learning",
@@ -3406,7 +3613,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:19:45+00:00",
-    "fetched_at": "2026-06-24T01:49:46.105Z",
+    "fetched_at": "2026-06-24T08:46:56.207Z",
     "raw": {
       "id": 146848,
       "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
@@ -3462,7 +3669,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:34+00:00",
-    "fetched_at": "2026-06-24T01:49:46.106Z",
+    "fetched_at": "2026-06-24T08:46:56.208Z",
     "raw": {
       "id": 146800,
       "url": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl",
@@ -3512,7 +3719,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-16T04:07:29+00:00",
-    "fetched_at": "2026-06-24T01:49:46.106Z",
+    "fetched_at": "2026-06-24T08:46:56.209Z",
     "raw": {
       "id": 146795,
       "url": "https://jobicy.com/jobs/146795-front-end-developer-2",
@@ -3558,7 +3765,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:07:28+00:00",
-    "fetched_at": "2026-06-24T01:49:46.107Z",
+    "fetched_at": "2026-06-24T08:46:56.210Z",
     "raw": {
       "id": 146792,
       "url": "https://jobicy.com/jobs/146792-c-developer-tech-lead-image-processing",
@@ -3614,7 +3821,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:07:27+00:00",
-    "fetched_at": "2026-06-24T01:49:46.108Z",
+    "fetched_at": "2026-06-24T08:46:56.211Z",
     "raw": {
       "id": 146791,
       "url": "https://jobicy.com/jobs/146791-senior-fullstack-engineer-java-vue",
@@ -3661,7 +3868,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:25+00:00",
-    "fetched_at": "2026-06-24T01:49:46.109Z",
+    "fetched_at": "2026-06-24T08:46:56.212Z",
     "raw": {
       "id": 146790,
       "url": "https://jobicy.com/jobs/146790-senior-qa-automation-engineer-3",
@@ -3708,7 +3915,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:04+00:00",
-    "fetched_at": "2026-06-24T01:49:46.110Z",
+    "fetched_at": "2026-06-24T08:46:56.213Z",
     "raw": {
       "id": 146761,
       "url": "https://jobicy.com/jobs/146761-danish-tech-linguistic-tester",
@@ -3755,7 +3962,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:02+00:00",
-    "fetched_at": "2026-06-24T01:49:46.111Z",
+    "fetched_at": "2026-06-24T08:46:56.215Z",
     "raw": {
       "id": 146760,
       "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
@@ -3802,7 +4009,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-16T04:07:01+00:00",
-    "fetched_at": "2026-06-24T01:49:46.112Z",
+    "fetched_at": "2026-06-24T08:46:56.216Z",
     "raw": {
       "id": 146757,
       "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
@@ -3855,7 +4062,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:06:56+00:00",
-    "fetched_at": "2026-06-24T01:49:46.113Z",
+    "fetched_at": "2026-06-24T08:46:56.217Z",
     "raw": {
       "id": 146750,
       "url": "https://jobicy.com/jobs/146750-staff-product-engineer-europe",
@@ -3908,7 +4115,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T04:06:53+00:00",
-    "fetched_at": "2026-06-24T01:49:46.114Z",
+    "fetched_at": "2026-06-24T08:46:56.218Z",
     "raw": {
       "id": 146746,
       "url": "https://jobicy.com/jobs/146746-senior-product-engineer-europe",
@@ -3957,7 +4164,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:56:22+00:00",
-    "fetched_at": "2026-06-24T01:49:46.118Z",
+    "fetched_at": "2026-06-24T08:46:56.221Z",
     "raw": {
       "id": 146727,
       "url": "https://jobicy.com/jobs/146727-assistant-director-data-engineering-2",
@@ -4010,7 +4217,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:55:46+00:00",
-    "fetched_at": "2026-06-24T01:49:46.119Z",
+    "fetched_at": "2026-06-24T08:46:56.223Z",
     "raw": {
       "id": 146685,
       "url": "https://jobicy.com/jobs/146685-automation-engineer-shreveport-la",
@@ -4055,7 +4262,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-16T03:42:18+00:00",
-    "fetched_at": "2026-06-24T01:49:46.120Z",
+    "fetched_at": "2026-06-24T08:46:56.224Z",
     "raw": {
       "id": 146663,
       "url": "https://jobicy.com/jobs/146663-sr-synon-developer",
@@ -4098,7 +4305,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:31:37+00:00",
-    "fetched_at": "2026-06-24T01:49:46.121Z",
+    "fetched_at": "2026-06-24T08:46:56.225Z",
     "raw": {
       "id": 146657,
       "url": "https://jobicy.com/jobs/146657-associate-application-engineer",
@@ -4153,7 +4360,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-16T03:24:07+00:00",
-    "fetched_at": "2026-06-24T01:49:46.122Z",
+    "fetched_at": "2026-06-24T08:46:56.226Z",
     "raw": {
       "id": 146649,
       "url": "https://jobicy.com/jobs/146649-staff-software-engineer-ai-infrastructure-python",
@@ -4206,7 +4413,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:45:44+00:00",
-    "fetched_at": "2026-06-24T01:49:46.123Z",
+    "fetched_at": "2026-06-24T08:46:56.228Z",
     "raw": {
       "id": 146614,
       "url": "https://jobicy.com/jobs/146614-database-engineer",
@@ -4256,7 +4463,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:45:43+00:00",
-    "fetched_at": "2026-06-24T01:49:46.126Z",
+    "fetched_at": "2026-06-24T08:46:56.229Z",
     "raw": {
       "id": 146613,
       "url": "https://jobicy.com/jobs/146613-senior-software-engineer-sustaining-automation-2",
@@ -4305,7 +4512,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T19:40:02+00:00",
-    "fetched_at": "2026-06-24T01:49:46.127Z",
+    "fetched_at": "2026-06-24T08:46:56.230Z",
     "raw": {
       "id": 146611,
       "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
@@ -4361,7 +4568,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-15T08:06:42+00:00",
-    "fetched_at": "2026-06-24T01:49:46.128Z",
+    "fetched_at": "2026-06-24T08:46:56.231Z",
     "raw": {
       "id": 146549,
       "url": "https://jobicy.com/jobs/146549-senior-backend-engineer-typescript-nodejs-aws",
@@ -4415,7 +4622,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:44:51+00:00",
-    "fetched_at": "2026-06-24T01:49:46.130Z",
+    "fetched_at": "2026-06-24T08:46:56.234Z",
     "raw": {
       "id": 146310,
       "url": "https://jobicy.com/jobs/146310-staff-software-engineer-2",
@@ -4462,7 +4669,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-12T16:30:15+00:00",
-    "fetched_at": "2026-06-24T01:49:46.131Z",
+    "fetched_at": "2026-06-24T08:46:56.235Z",
     "raw": {
       "id": 146306,
       "url": "https://jobicy.com/jobs/146306-senior-qa-engineer-software",
@@ -4515,7 +4722,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:30:07+00:00",
-    "fetched_at": "2026-06-24T01:49:46.132Z",
+    "fetched_at": "2026-06-24T08:46:56.236Z",
     "raw": {
       "id": 146301,
       "url": "https://jobicy.com/jobs/146301-full-stack-engineer-4",
@@ -4573,7 +4780,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:57+00:00",
-    "fetched_at": "2026-06-24T01:49:46.134Z",
+    "fetched_at": "2026-06-24T08:46:56.237Z",
     "raw": {
       "id": 146294,
       "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
@@ -4627,7 +4834,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:55+00:00",
-    "fetched_at": "2026-06-24T01:49:46.135Z",
+    "fetched_at": "2026-06-24T08:46:56.238Z",
     "raw": {
       "id": 146293,
       "url": "https://jobicy.com/jobs/146293-senior-full-stack-engineer-net-angular-asp-net-focus-govtech-hr-software-latam",
@@ -4678,7 +4885,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:51+00:00",
-    "fetched_at": "2026-06-24T01:49:46.136Z",
+    "fetched_at": "2026-06-24T08:46:56.240Z",
     "raw": {
       "id": 146290,
       "url": "https://jobicy.com/jobs/146290-hands-on-tech-lead-proptech-real-estate-media",
@@ -4734,7 +4941,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:39+00:00",
-    "fetched_at": "2026-06-24T01:49:46.137Z",
+    "fetched_at": "2026-06-24T08:46:56.241Z",
     "raw": {
       "id": 146283,
       "url": "https://jobicy.com/jobs/146283-senior-full-stack-engineer-react-or-vue-python-investment-latam",
@@ -4782,7 +4989,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:27+00:00",
-    "fetched_at": "2026-06-24T01:49:46.137Z",
+    "fetched_at": "2026-06-24T08:46:56.242Z",
     "raw": {
       "id": 146276,
       "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
@@ -4835,7 +5042,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-12T16:29:24+00:00",
-    "fetched_at": "2026-06-24T01:49:46.138Z",
+    "fetched_at": "2026-06-24T08:46:56.243Z",
     "raw": {
       "id": 146274,
       "url": "https://jobicy.com/jobs/146274-lead-product-engineer-javascript-technology-company",
@@ -4854,195 +5061,6 @@
       "jobExcerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
       "jobDescription": "<h2><strong>About Truelogic</strong></h2>\n<p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p>\n<p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p>\n<p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p>\n<h2><strong>Our Client</strong></h2>\n<p>Our client is building a next-generation <strong>trusted data marketplace</strong> that enables organizations to access verified, high-quality datasets generated through authenticated survey responses.</p>\n<p>By combining advanced identity verification, timestamp validation, and rigorous data collection methodologies, the platform helps businesses, researchers, and AI-driven organizations access reliable data while addressing one of the industry's most critical challenges: <strong>data quality and trustworthiness</strong>.</p>\n<p>As the business evolves from a successful beta product into a scalable commercial platform, the company is expanding its engineering team to support growing customer demand and accelerate product innovation.</p>\n<h2><strong>Job Summary</strong></h2>\n<p>We are seeking a highly autonomous and pragmatic <strong>Lead Product Engineer</strong> to help transform an early-stage product into a scalable, production-ready platform serving real customers.</p>\n<p>This is a hands-on individual contributor role focused on delivering product features, improving user workflows, integrating data sources, and building rich, data-driven experiences. You will work directly with company leadership and play a key role in shaping both the product roadmap and technical direction.</p>\n<p>The ideal candidate enjoys wearing multiple hats, solving business problems through technology, and thrives in startup environments where ownership, speed, and execution are critical.</p>\n<h2><strong>Responsibilities</strong></h2>\n<ul>\n<li>\n<p>Build and enhance buyer-facing and administrative web experiences.</p>\n</li>\n<li>\n<p>Develop dashboards, reporting tools, and data visualization features.</p>\n</li>\n<li>\n<p>Design and implement SQL-backed workflows and product functionality.</p>\n</li>\n<li>\n<p>Integrate internal and third-party REST APIs.</p>\n</li>\n<li>\n<p>Collaborate directly with founders and stakeholders to translate business needs into product features.</p>\n</li>\n<li>\n<p>Improve usability, performance, reliability, and maintainability across the platform.</p>\n</li>\n<li>\n<p>Help shape technical decisions and contribute to product roadmap discussions.</p>\n</li>\n<li>\n<p>Leverage modern AI-assisted development tools to accelerate delivery and improve engineering productivity.</p>\n</li>\n<li>\n<p>Operate with a high degree of ownership and autonomy in a fast-paced startup environment.</p>\n</li>\n</ul>\n<h2><strong>Qualifications and Job Requirements</strong></h2>\n<p><u>Product Engineering Experience</u></p>\n<ul>\n<li>\n<p>5+ years of experience building customer-facing SaaS products, marketplaces, dashboards, admin portals, analytics platforms, or B2B web applications.</p>\n</li>\n<li>\n<p>Proven ability to independently deliver product features from concept to production.</p>\n</li>\n</ul>\n<p><u>Web Development</u></p>\n<ul>\n<li>\n<p>Strong experience building responsive and user-friendly web applications with HTML, CSS, and JavaScript</p>\n</li>\n<li>\n<p>Strong understanding of browser fundamentals and modern web development practices.</p>\n</li>\n</ul>\n<p><u>APIs &amp; Integrations</u></p>\n<ul>\n<li>\n<p>Experience designing and consuming REST APIs.</p>\n</li>\n<li>\n<p>Experience integrating third-party services and data sources.</p>\n</li>\n</ul>\n<p><u>Data &amp; Databases</u></p>\n<ul>\n<li>\n<p>Strong SQL skills.</p>\n</li>\n<li>\n<p>Experience working with PostgreSQL or similar relational databases.</p>\n</li>\n<li>\n<p>Comfortable working with data-intensive applications and business workflows.</p>\n</li>\n</ul>\n<p><u>Engineering Practices</u></p>\n<ul>\n<li>\n<p>Experience using Git and modern development workflows.</p>\n</li>\n<li>\n<p>Strong debugging, troubleshooting, and problem-solving skills.</p>\n</li>\n<li>\n<p>Ability to balance speed and quality in a startup environment.</p>\n</li>\n</ul>\n<p><u>Communication &amp; Ownership</u></p>\n<ul>\n<li>\n<p>Excellent English communication skills.</p>\n</li>\n<li>\n<p>Ability to work independently with minimal supervision.</p>\n</li>\n<li>\n<p>Strong sense of accountability and product ownership.</p>\n</li>\n</ul>\n<p><u>AI-Assisted Development</u></p>\n<ul>\n<li>\n<p>Experience leveraging AI tools such as Cursor, Claude, ChatGPT, GitHub Copilot, or similar tools as part of the software development process.</p>\n</li>\n</ul>\n<h2>Nice to have</h2>\n<ul>\n<li>\n<p>Experience with Supabase or PostgREST.</p>\n</li>\n<li>\n<p>Experience with data visualization libraries such as ECharts, D3, Chart.js, Recharts, or similar.</p>\n</li>\n<li>\n<p>Experience with Docker and modern deployment workflows.</p>\n</li>\n<li>\n<p>Experience building data marketplaces, analytics platforms, or buyer-facing B2B products.</p>\n</li>\n<li>\n<p>Familiarity with Snowflake Marketplace or similar data ecosystems.</p>\n</li>\n<li>\n<p>Exposure to JVM-based technologies or Scala.</p>\n</li>\n<li>\n<p>Knowledge of data science, survey methodology, cryptography, identity systems, or Web3 technologies.</p>\n</li>\n</ul>\n<h2><strong>What We Offer</strong></h2>\n<ul>\n<li>\n<p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p>\n</li>\n<li>\n<p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p>\n</li>\n<li>\n<p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p>\n</li>\n<li>\n<p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p>\n</li>\n<li>\n<p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p>\n</li>\n</ul>\n<h2><strong>Why You’ll Like Working Here</strong></h2>\n<ul>\n<li>\n<p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p>\n</li>\n<li>\n<p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p>\n</li>\n<li>\n<p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p>\n</li>\n</ul>\n<p>Apply now!</p>",
       "pubDate": "2026-06-12T16:29:24+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146271",
-    "platform": "jobicy",
-    "external_id": "146271",
-    "title": "Forward Deployed Engineer – Technology",
-    "company": "Truelogic",
-    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client The client is a digital product, brand, and customer experience consultancy that helps leading companies design and build digital experiences, products, platforms, and growth initiatives. The company operates with a distributed workforce model and manages a large network of freelancers, contractors, and full-time employees across multiple disciplines. Job Summary The Forward Deployed Engineer will partner directly with Talent and Resourcing leadership to evaluate and optimize the organization's talent operations ecosystem. Working across tools such as Airtable, Lever, and other internal systems, this individual will identify opportunities to improve workflows, automate manual processes, and leverage AI-driven solutions to increase efficiency and decision-making. Acting as a consultant-builder, the FDE will work closely with stakeholders to understand business challenges, define technical solutions, and lead initiatives from discovery through implementation. Responsibilities Partner with business stakeholders to understand existing workflows, pain points, and operational challenges Evaluate current systems, processes, and integrations, identifying opportunities for automation and optimization Design and implement AI-powered solutions that improve talent operations and decision-making Build integrations between internal and third-party platforms using APIs and workflow automation tools Define technical architectures, MVPs, and implementation roadmaps for new initiatives Develop internal tools and operational platforms that streamline talent management processes Prototype and deploy solutions involving LLMs, agents, recommendation systems, and workflow automation where appropriate Own projects from discovery and requirements gathering through delivery and iteration Provide technical guidance and recommendations on emerging AI technologies and automation opportunities Qualifications and Job Requirements 5+ years of software engineering experience Strong Python development experience Experience integrating third-party systems via APIs Experience building AI-enabled applications using LLMs Experience leveraging AI/LLM technologies to solve business problems and improve operational workflows Experience working directly with business stakeholders and translating business needs into technical solutions Experience designing and building internal tools, workflow automation, or operational platforms Strong communication and consulting skills Ability to operate effectively in highly ambiguous environments SQL and data modeling experience Nice to Have Experience leading technical discovery, requirements gathering, and solution design Hands-on experience with OpenAI, Anthropic Claude, or AWS Bedrock Familiarity with LangChain, LlamaIndex, or similar AI frameworks Knowledge of vector databases, embeddings, and semantic search Experience building recommendation engines or matching systems Exposure to agentic AI workflows and autonomous agents Integration experience with Airtable, Lever ATS, or similar platforms Background in recruiting, talent management, or HR technology Understanding of data pipelines Ability to define MVPs and technical architectures What We Offer 100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection. Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings. Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed. Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock. Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies. Why You’ll Like Working Here A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally. Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America. Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field. Apply now!",
-    "url": "https://jobicy.com/jobs/146271-forward-deployed-engineer-technology",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "LATAM",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "aws",
-      "llm",
-      "langchain"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-12T16:29:19+00:00",
-    "fetched_at": "2026-06-24T01:49:46.139Z",
-    "raw": {
-      "id": 146271,
-      "url": "https://jobicy.com/jobs/146271-forward-deployed-engineer-technology",
-      "jobSlug": "146271-forward-deployed-engineer-technology",
-      "jobTitle": "Forward Deployed Engineer – Technology",
-      "companyName": "Truelogic",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e7ae6cb6-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "LATAM",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
-      "jobDescription": "<h2><strong>About Truelogic</strong></h2>\n<p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p>\n<p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p>\n<p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p>\n<h2><strong>Our Client</strong></h2>\n<p>The client is a digital product, brand, and customer experience consultancy that helps leading companies design and build digital experiences, products, platforms, and growth initiatives. The company operates with a distributed workforce model and manages a large network of freelancers, contractors, and full-time employees across multiple disciplines.</p>\n<h2><strong>Job Summary</strong></h2>\n<p>The Forward Deployed Engineer will partner directly with Talent and Resourcing leadership to evaluate and optimize the organization's talent operations ecosystem. Working across tools such as Airtable, Lever, and other internal systems, this individual will identify opportunities to improve workflows, automate manual processes, and leverage AI-driven solutions to increase efficiency and decision-making. Acting as a consultant-builder, the FDE will work closely with stakeholders to understand business challenges, define technical solutions, and lead initiatives from discovery through implementation.</p>\n<h2><strong>Responsibilities</strong></h2>\n<ul>\n<li>\n<p>Partner with business stakeholders to understand existing workflows, pain points, and operational challenges</p>\n</li>\n<li>\n<p>Evaluate current systems, processes, and integrations, identifying opportunities for automation and optimization</p>\n</li>\n<li>\n<p>Design and implement AI-powered solutions that improve talent operations and decision-making</p>\n</li>\n<li>\n<p>Build integrations between internal and third-party platforms using APIs and workflow automation tools</p>\n</li>\n<li>\n<p>Define technical architectures, MVPs, and implementation roadmaps for new initiatives</p>\n</li>\n<li>\n<p>Develop internal tools and operational platforms that streamline talent management processes</p>\n</li>\n<li>\n<p>Prototype and deploy solutions involving LLMs, agents, recommendation systems, and workflow automation where appropriate</p>\n</li>\n<li>\n<p>Own projects from discovery and requirements gathering through delivery and iteration</p>\n</li>\n<li>\n<p>Provide technical guidance and recommendations on emerging AI technologies and automation opportunities</p>\n</li>\n</ul>\n<h2><strong>Qualifications and Job Requirements</strong></h2>\n<ul>\n<li>\n<p>5+ years of software engineering experience</p>\n</li>\n<li>\n<p>Strong Python development experience</p>\n</li>\n<li>\n<p>Experience integrating third-party systems via APIs</p>\n</li>\n<li>\n<p>Experience building AI-enabled applications using LLMs </p>\n</li>\n<li>\n<p>Experience leveraging AI/LLM technologies to solve business problems and improve operational workflows</p>\n</li>\n<li>\n<p>Experience working directly with business stakeholders and translating business needs into technical solutions</p>\n</li>\n<li>\n<p>Experience designing and building internal tools, workflow automation, or operational platforms</p>\n</li>\n<li>\n<p>Strong communication and consulting skills</p>\n</li>\n<li>\n<p>Ability to operate effectively in highly ambiguous environments</p>\n</li>\n<li>\n<p>SQL and data modeling experience</p>\n</li>\n</ul>\n<h2><strong>Nice to Have</strong></h2>\n<ul>\n<li>\n<p>Experience leading technical discovery, requirements gathering, and solution design</p>\n</li>\n<li>\n<p>Hands-on experience with OpenAI, Anthropic Claude, or AWS Bedrock</p>\n</li>\n<li>\n<p>Familiarity with LangChain, LlamaIndex, or similar AI frameworks</p>\n</li>\n<li>\n<p>Knowledge of vector databases, embeddings, and semantic search</p>\n</li>\n<li>\n<p>Experience building recommendation engines or matching systems</p>\n</li>\n<li>\n<p>Exposure to agentic AI workflows and autonomous agents</p>\n</li>\n<li>\n<p>Integration experience with Airtable, Lever ATS, or similar platforms</p>\n</li>\n<li>\n<p>Background in recruiting, talent management, or HR technology</p>\n</li>\n<li>\n<p>Understanding of data pipelines</p>\n</li>\n<li>\n<p>Ability to define MVPs and technical architectures</p>\n</li>\n</ul>\n<h2><strong>What We Offer</strong></h2>\n<ul>\n<li>\n<p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p>\n</li>\n<li>\n<p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p>\n</li>\n<li>\n<p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p>\n</li>\n<li>\n<p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p>\n</li>\n<li>\n<p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p>\n</li>\n</ul>\n<h2><strong>Why You’ll Like Working Here</strong></h2>\n<ul>\n<li>\n<p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p>\n</li>\n<li>\n<p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p>\n</li>\n<li>\n<p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p>\n</li>\n</ul>\n<p>Apply now!</p>",
-      "pubDate": "2026-06-12T16:29:19+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146270",
-    "platform": "jobicy",
-    "external_id": "146270",
-    "title": "Principal Full-stack Engineer (.NET/Angular) – GovTech",
-    "company": "Truelogic",
-    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client A leading provider of cloud-based solutions that empower public institutions to modernize and streamline their operations. With over two decades of experience, this organization builds technology that enhances efficiency, fosters transparency, and improves how people serve their communities. Job Summary We’re looking for a hands-on Principal Engineer to help design, build, and deliver high-quality, scalable enterprise SaaS applications. This role is ideal for someone who enjoys solving complex problems, writing clean code, and taking full ownership of their work, including testing and quality. Responsibilities Write production code for critical and complex system components, setting the standard for quality and maintainability. Architect, implement, and improve high-performing, modular software systems using SQL, .NET, and Angular, with a focus on scalability and fault tolerance. Lead complex system designs and influence architecture decisions across teams, ensuring integration with enterprise-wide systems. Build prototypes and proof-of-concepts to validate new technologies and approaches before broader adoption. Evolve large existing systems, driving modernization from monolith to modular without disrupting production delivery. Provide technical guidance that helps teams plan and execute complex work effectively. Ensure critical paths are observable and measurable through hands-on implementation of monitoring and performance tooling. Qualifications and Job Requirements 10+ years of software engineering experience, including staff-level or equivalent technical leadership Strong proficiency in .NET, SQL Server, and Angular Proven ability to lead end-to-end delivery of large-scale, high-impact systems Experience defining scalable architectures and reusable patterns across teams Track record of owning technical roadmaps and modernizing legacy systems Solid expertise in automated testing (including TDD) aligned with business risk Hands-on experience with CI/CD pipelines, Git, and Agile development practices Strong knowledge of system observability, performance monitoring, and reliability at scale Familiarity with code quality and security tools such as SonarQube or Mend Excellent communication and cross-functional leadership skills What We Offer 100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection. Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings. Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed. Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock. Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies. Why You’ll Like Working Here A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally. Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America. Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field. Apply now!",
-    "url": "https://jobicy.com/jobs/146270-principal-full-stack-engineer-net-angular-govtech",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "LATAM",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "angular",
-      "sqlserver",
-      "git"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-12T16:29:17+00:00",
-    "fetched_at": "2026-06-24T01:49:46.140Z",
-    "raw": {
-      "id": 146270,
-      "url": "https://jobicy.com/jobs/146270-principal-full-stack-engineer-net-angular-govtech",
-      "jobSlug": "146270-principal-full-stack-engineer-net-angular-govtech",
-      "jobTitle": "Principal Full-stack Engineer (.NET/Angular) – GovTech",
-      "companyName": "Truelogic",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e7ae6cb6-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "LATAM",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
-      "jobDescription": "<h2><strong>About Truelogic</strong></h2>\n<p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p>\n<p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p>\n<p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p>\n<h2><strong>Our Client</strong></h2>\n<p>A leading provider of cloud-based solutions that empower public institutions to modernize and streamline their operations. With over two decades of experience, this organization builds technology that enhances efficiency, fosters transparency, and improves how people serve their communities.</p>\n<h2><strong>Job Summary</strong></h2>\n<p>We’re looking for a hands-on Principal Engineer to help design, build, and deliver high-quality, scalable enterprise SaaS applications. This role is ideal for someone who enjoys solving complex problems, writing clean code, and taking full ownership of their work, including testing and quality.</p>\n<h2><strong>Responsibilities</strong></h2>\n<ul>\n<li>\n<p>Write production code for critical and complex system components, setting the standard for quality and maintainability.</p>\n</li>\n<li>\n<p>Architect, implement, and improve high-performing, modular software systems using SQL, .NET, and Angular, with a focus on scalability and fault tolerance.</p>\n</li>\n<li>\n<p>Lead complex system designs and influence architecture decisions across teams, ensuring integration with enterprise-wide systems.</p>\n</li>\n<li>\n<p>Build prototypes and proof-of-concepts to validate new technologies and approaches before broader adoption.</p>\n</li>\n<li>\n<p>Evolve large existing systems, driving modernization from monolith to modular without disrupting production delivery.</p>\n</li>\n<li>\n<p>Provide technical guidance that helps teams plan and execute complex work effectively.</p>\n</li>\n<li>\n<p>Ensure critical paths are observable and measurable through hands-on implementation of monitoring and performance tooling.</p>\n</li>\n</ul>\n<h2><strong>Qualifications and Job Requirements</strong></h2>\n<ul>\n<li>\n<p>10+ years of software engineering experience, including staff-level or equivalent technical leadership Strong proficiency in .NET, SQL Server, and Angular </p>\n</li>\n<li>\n<p>Proven ability to lead end-to-end delivery of large-scale, high-impact systems </p>\n</li>\n<li>\n<p>Experience defining scalable architectures and reusable patterns across teams </p>\n</li>\n<li>\n<p>Track record of owning technical roadmaps and modernizing legacy systems </p>\n</li>\n<li>\n<p>Solid expertise in automated testing (including TDD) aligned with business risk </p>\n</li>\n<li>\n<p>Hands-on experience with CI/CD pipelines, Git, and Agile development practices </p>\n</li>\n<li>\n<p>Strong knowledge of system observability, performance monitoring, and reliability at scale</p>\n</li>\n<li>\n<p>Familiarity with code quality and security tools such as SonarQube or Mend </p>\n</li>\n<li>\n<p>Excellent communication and cross-functional leadership skills</p>\n</li>\n</ul>\n<h2><strong>What We Offer</strong></h2>\n<ul>\n<li>\n<p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p>\n</li>\n<li>\n<p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p>\n</li>\n<li>\n<p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p>\n</li>\n<li>\n<p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p>\n</li>\n<li>\n<p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p>\n</li>\n</ul>\n<h2><strong>Why You’ll Like Working Here</strong></h2>\n<ul>\n<li>\n<p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p>\n</li>\n<li>\n<p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p>\n</li>\n<li>\n<p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p>\n</li>\n</ul>\n<p>Apply now!</p>",
-      "pubDate": "2026-06-12T16:29:17+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146269",
-    "platform": "jobicy",
-    "external_id": "146269",
-    "title": "Senior SDET – GovTech Industry (Colombia)",
-    "company": "Truelogic",
-    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client Technology company focused on the public sector and education, with over 25 years of experience developing solutions that help organizations streamline operations, improve efficiency, and better serve their communities. The company combines deep government-sector expertise with modern SaaS practices, automation, and AI-driven workflows. Its platform supports the entire employee lifecycle—from hiring to retirement—simplifying HR and compliance processes so organizations can focus on delivering greater impact and value to the people they serve. Job Summary Building a new engineering team focused on expanding automated test coverage, improving system reliability, and increasing developer confidence across a portfolio of 20+ SaaS products. The role centers on developing production-quality automated tests—including unit, integration, and selective end-to-end tests—and leveraging AI tools to improve efficiency and scalability. Engineers collaborate with product teams across multiple technologies to create maintainable testing solutions, reduce CI/CD instability, and enhance overall software quality. Responsibilities Develop and maintain automated unit, integration, and end-to-end tests. Improve test coverage and identify quality risks across existing applications. Leverage AI tools (e.g., Claude, Copilot) to accelerate test development and maintenance. Troubleshoot and resolve test failures across application, infrastructure, and data layers. Reduce flaky tests and improve CI/CD pipeline reliability. Collaborate with engineering teams to enhance testability and confidence in production systems. Establish scalable testing standards, tools, and best practices across multiple products. Qualifications and Job Requirements Strong programming skills in C# . Experience developing and maintaining automated unit and integration tests . Familiarity with testing frameworks such as xUnit, JUnit, Jest, and Playwright . Solid understanding of testing concepts, including unit testing, integration testing, mocking, and test isolation . Strong debugging, troubleshooting, and problem-solving skills. Ability to work effectively within large and complex codebases. Experience working in Shift Left and quality-focused engineering environments. Strong English communication skills and collaborative mindset. Interest in using AI tools (e.g., Claude, Copilot) for test generation, refactoring, and coverage analysis. Basic understanding of LLMs or a strong willingness to learn. What We Offer 100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection. Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings. Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed. Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock. Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies. Why You’ll Like Working Here A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally. Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America. Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field. Apply now!",
-    "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "LATAM",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "llm",
-      "jest",
-      "playwright"
-    ],
-    "tags": [
-      "QA &amp; Testing"
-    ],
-    "posted_at": "2026-06-12T16:29:16+00:00",
-    "fetched_at": "2026-06-24T01:49:46.141Z",
-    "raw": {
-      "id": 146269,
-      "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
-      "jobSlug": "146269-senior-sdet-govtech-industry-colombia",
-      "jobTitle": "Senior SDET – GovTech Industry (Colombia)",
-      "companyName": "Truelogic",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e7ae6cb6-221-1.png",
-      "jobIndustry": [
-        "QA &amp; Testing"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "LATAM",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
-      "jobDescription": "<h2><strong>About Truelogic</strong></h2>\n<p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p>\n<p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p>\n<p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p>\n<h2><strong>Our Client</strong></h2>\n<p>Technology company focused on the public sector and education, with over 25 years of experience developing solutions that help organizations streamline operations, improve efficiency, and better serve their communities. The company combines deep government-sector expertise with modern SaaS practices, automation, and AI-driven workflows. Its platform supports the entire employee lifecycle—from hiring to retirement—simplifying HR and compliance processes so organizations can focus on delivering greater impact and value to the people they serve.</p>\n<p><strong>Job Summary</strong></p>\n<p>Building a new engineering team focused on expanding automated test coverage, improving system reliability, and increasing developer confidence across a portfolio of 20+ SaaS products. The role centers on developing production-quality automated tests—including unit, integration, and selective end-to-end tests—and leveraging AI tools to improve efficiency and scalability. Engineers collaborate with product teams across multiple technologies to create maintainable testing solutions, reduce CI/CD instability, and enhance overall software quality.</p>\n<h2><strong>Responsibilities</strong></h2>\n<ul>\n<li>\n<p>Develop and maintain automated unit, integration, and end-to-end tests.</p>\n</li>\n<li>\n<p>Improve test coverage and identify quality risks across existing applications.</p>\n</li>\n<li>\n<p>Leverage AI tools (e.g., Claude, Copilot) to accelerate test development and maintenance.</p>\n</li>\n<li>\n<p>Troubleshoot and resolve test failures across application, infrastructure, and data layers.</p>\n</li>\n<li>\n<p>Reduce flaky tests and improve CI/CD pipeline reliability.</p>\n</li>\n<li>\n<p>Collaborate with engineering teams to enhance testability and confidence in production systems.</p>\n</li>\n<li>\n<p>Establish scalable testing standards, tools, and best practices across multiple products.</p>\n</li>\n</ul>\n<h2><strong>Qualifications and Job Requirements</strong></h2>\n<ul>\n<li>\n<p>Strong programming skills in <strong>C#</strong>.</p>\n</li>\n<li>\n<p>Experience developing and maintaining <strong>automated unit and integration tests</strong>.</p>\n</li>\n<li>\n<p>Familiarity with testing frameworks such as <strong>xUnit, JUnit, Jest, and Playwright</strong>.</p>\n</li>\n<li>\n<p>Solid understanding of testing concepts, including <strong>unit testing, integration testing, mocking, and test isolation</strong>.</p>\n</li>\n<li>\n<p>Strong debugging, troubleshooting, and problem-solving skills.</p>\n</li>\n<li>\n<p>Ability to work effectively within large and complex codebases.</p>\n</li>\n<li>\n<p>Experience working in <strong>Shift Left</strong> and quality-focused engineering environments.</p>\n</li>\n<li>\n<p>Strong English communication skills and collaborative mindset.</p>\n</li>\n<li>\n<p>Interest in using <strong>AI tools</strong> (e.g., Claude, Copilot) for test generation, refactoring, and coverage analysis.</p>\n</li>\n<li>\n<p>Basic understanding of <strong>LLMs</strong> or a strong willingness to learn.</p>\n</li>\n</ul>\n<h2><strong>What We Offer</strong></h2>\n<ul>\n<li>\n<p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p>\n</li>\n<li>\n<p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p>\n</li>\n<li>\n<p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p>\n</li>\n<li>\n<p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p>\n</li>\n<li>\n<p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p>\n</li>\n</ul>\n<h2><strong>Why You’ll Like Working Here</strong></h2>\n<ul>\n<li>\n<p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p>\n</li>\n<li>\n<p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p>\n</li>\n<li>\n<p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p>\n</li>\n</ul>\n<p>Apply now!</p>",
-      "pubDate": "2026-06-12T16:29:16+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146268",
-    "platform": "jobicy",
-    "external_id": "146268",
-    "title": "Senior SDET – GovTech Industry",
-    "company": "Truelogic",
-    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client Technology company focused on the public sector and education, with over 25 years of experience developing solutions that help organizations streamline operations, improve efficiency, and better serve their communities. The company combines deep government-sector expertise with modern SaaS practices, automation, and AI-driven workflows. Its platform supports the entire employee lifecycle—from hiring to retirement—simplifying HR and compliance processes so organizations can focus on delivering greater impact and value to the people they serve. Job Summary Building a new engineering team focused on expanding automated test coverage, improving system reliability, and increasing developer confidence across a portfolio of 20+ SaaS products. The role centers on developing production-quality automated tests—including unit, integration, and selective end-to-end tests—and leveraging AI tools to improve efficiency and scalability. Engineers collaborate with product teams across multiple technologies to create maintainable testing solutions, reduce CI/CD instability, and enhance overall software quality. Responsibilities Develop and maintain automated unit, integration, and end-to-end tests. Improve test coverage and identify quality risks across existing applications. Leverage AI tools (e.g., Claude, Copilot) to accelerate test development and maintenance. Troubleshoot and resolve test failures across application, infrastructure, and data layers. Reduce flaky tests and improve CI/CD pipeline reliability. Collaborate with engineering teams to enhance testability and confidence in production systems. Establish scalable testing standards, tools, and best practices across multiple products. Qualifications and Job Requirements Strong programming skills in C#. Experience developing and maintaining automated unit and integration tests . Familiarity with testing frameworks such as xUnit, JUnit, Jest, and Playwright . Solid understanding of testing concepts, including unit testing, integration testing, mocking, and test isolation . Strong debugging, troubleshooting, and problem-solving skills. Ability to work effectively within large and complex codebases. Experience working in Shift Left and quality-focused engineering environments. Strong English communication skills and collaborative mindset. Interest in using AI tools (e.g., Claude, Copilot) for test generation, refactoring, and coverage analysis. Basic understanding of LLMs or a strong willingness to learn. What We Offer 100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection. Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings. Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed. Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock. Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies. Why You’ll Like Working Here A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally. Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America. Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field. Apply now!",
-    "url": "https://jobicy.com/jobs/146268-senior-sdet-govtech-industry",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "LATAM",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "llm",
-      "jest",
-      "playwright"
-    ],
-    "tags": [
-      "QA &amp; Testing"
-    ],
-    "posted_at": "2026-06-12T16:29:14+00:00",
-    "fetched_at": "2026-06-24T01:49:46.142Z",
-    "raw": {
-      "id": 146268,
-      "url": "https://jobicy.com/jobs/146268-senior-sdet-govtech-industry",
-      "jobSlug": "146268-senior-sdet-govtech-industry",
-      "jobTitle": "Senior SDET – GovTech Industry",
-      "companyName": "Truelogic",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e7ae6cb6-221-1.png",
-      "jobIndustry": [
-        "QA &amp; Testing"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "LATAM",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
-      "jobDescription": "<h2><strong>About Truelogic</strong></h2>\n<p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p>\n<p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p>\n<p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p>\n<h2><strong>Our Client</strong></h2>\n<p>Technology company focused on the public sector and education, with over 25 years of experience developing solutions that help organizations streamline operations, improve efficiency, and better serve their communities. The company combines deep government-sector expertise with modern SaaS practices, automation, and AI-driven workflows. Its platform supports the entire employee lifecycle—from hiring to retirement—simplifying HR and compliance processes so organizations can focus on delivering greater impact and value to the people they serve.</p>\n<p><strong>Job Summary</strong></p>\n<p>Building a new engineering team focused on expanding automated test coverage, improving system reliability, and increasing developer confidence across a portfolio of 20+ SaaS products. The role centers on developing production-quality automated tests—including unit, integration, and selective end-to-end tests—and leveraging AI tools to improve efficiency and scalability. Engineers collaborate with product teams across multiple technologies to create maintainable testing solutions, reduce CI/CD instability, and enhance overall software quality.</p>\n<h2><strong>Responsibilities</strong></h2>\n<ul>\n<li>\n<p>Develop and maintain automated unit, integration, and end-to-end tests.</p>\n</li>\n<li>\n<p>Improve test coverage and identify quality risks across existing applications.</p>\n</li>\n<li>\n<p>Leverage AI tools (e.g., Claude, Copilot) to accelerate test development and maintenance.</p>\n</li>\n<li>\n<p>Troubleshoot and resolve test failures across application, infrastructure, and data layers.</p>\n</li>\n<li>\n<p>Reduce flaky tests and improve CI/CD pipeline reliability.</p>\n</li>\n<li>\n<p>Collaborate with engineering teams to enhance testability and confidence in production systems.</p>\n</li>\n<li>\n<p>Establish scalable testing standards, tools, and best practices across multiple products.</p>\n</li>\n</ul>\n<h2><strong>Qualifications and Job Requirements</strong></h2>\n<ul>\n<li>\n<p>Strong programming skills in <strong>C#.</strong></p>\n</li>\n<li>\n<p>Experience developing and maintaining <strong>automated unit and integration tests</strong>.</p>\n</li>\n<li>\n<p>Familiarity with testing frameworks such as <strong>xUnit, JUnit, Jest, and Playwright</strong>.</p>\n</li>\n<li>\n<p>Solid understanding of testing concepts, including <strong>unit testing, integration testing, mocking, and test isolation</strong>.</p>\n</li>\n<li>\n<p>Strong debugging, troubleshooting, and problem-solving skills.</p>\n</li>\n<li>\n<p>Ability to work effectively within large and complex codebases.</p>\n</li>\n<li>\n<p>Experience working in <strong>Shift Left</strong> and quality-focused engineering environments.</p>\n</li>\n<li>\n<p>Strong English communication skills and collaborative mindset.</p>\n</li>\n<li>\n<p>Interest in using <strong>AI tools</strong> (e.g., Claude, Copilot) for test generation, refactoring, and coverage analysis.</p>\n</li>\n<li>\n<p>Basic understanding of <strong>LLMs</strong> or a strong willingness to learn.</p>\n</li>\n</ul>\n<h2><strong>What We Offer</strong></h2>\n<ul>\n<li>\n<p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p>\n</li>\n<li>\n<p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p>\n</li>\n<li>\n<p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p>\n</li>\n<li>\n<p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p>\n</li>\n<li>\n<p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p>\n</li>\n</ul>\n<h2><strong>Why You’ll Like Working Here</strong></h2>\n<ul>\n<li>\n<p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p>\n</li>\n<li>\n<p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p>\n</li>\n<li>\n<p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p>\n</li>\n</ul>\n<p>Apply now!</p>",
-      "pubDate": "2026-06-12T16:29:14+00:00"
     }
   }
 ]
