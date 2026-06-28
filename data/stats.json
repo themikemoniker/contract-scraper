@@ -1,14 +1,13 @@
 {
-  "totalJobs": 856,
+  "totalJobs": 855,
   "bySource": {
-    "arbeitnow": 84,
+    "arbeitnow": 83,
     "jobicy": 96,
     "remoteok": 99,
+    "remotive": 25,
     "workingnomads": 25,
     "wwr": 54,
-    "remotive": 24,
-    "hn": 473,
-    "himalayas": 1
+    "hn": 473
   },
   "byTechStack": {
     "javascript": 134,
@@ -67,7 +66,7 @@
     "dart": 4,
     "jenkins": 25,
     "nextjs": 18,
-    "backbone": 5,
+    "backbone": 6,
     "elasticsearch": 14,
     "apache": 11,
     "jest": 5,
@@ -176,13 +175,13 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "freelance": 16,
-    "full-time": 678,
+    "freelance": 17,
+    "full-time": 675,
     "contract": 9,
     "part-time": 4
   },
   "byRemoteType": {
-    "remote": 485,
+    "remote": 486,
     "onsite": 228,
     "hybrid": 1
   },
@@ -192,16 +191,16 @@
     "100k-150k": 16,
     "150k-200k": 8,
     "over200k": 9,
-    "unknown": 691
+    "unknown": 690
   },
-  "lastUpdated": "2026-06-28T08:35:37.698Z",
+  "lastUpdated": "2026-06-28T13:05:39.086Z",
   "jobsLast7Days": [
     4,
     17,
-    41,
+    40,
     67,
-    102,
-    43,
-    1
+    96,
+    44,
+    7
   ]
 }
