@@ -1,5 +1,214 @@
 [
   {
+    "id": "jobicy:143126",
+    "platform": "jobicy",
+    "external_id": "143126",
+    "title": "Senior Network Engineer",
+    "company": "Verra Mobility",
+    "description": "Position Overview: The Senior Network Engineer (Load Balancing) will be responsible for the design, implementation, and optimization of enterprise-grade load balancing and traffic management solutions across on-prem and cloud environments. This role is critical to ensuring application availability, performance, and scalability. The ideal candidate brings strong hands-on experience with L4–L7 technologies, a performance-first mindset, and the ability to operate in complex, mission-critical environments. The ideal candidate combines deep technical expertise with business acumen, ensuring that technology strategies align with organizational goals while delivering scalable, secure, and resilient solutions. Key Responsibilities Architecture &amp; Design Engineer, deploy, and manage load balancing solutions (L4–L7) to support high-availability applications and services Design and implement traffic management strategies including SSL offload, content switching, GSLB, and application acceleration Configure and support platforms such as F5 BIG-IP (LTM/GTM), Citrix ADC (NetScaler), A10, or cloud-native load balancers Optimize application performance through tuning of persistence profiles, health monitors, iRules/policies, and traffic steering logic Lead efforts in capacity planning, failover design, and disaster recovery for application delivery infrastructure Troubleshoot complex network and application performance issues across multi-tier environments Partner with application, DevOps, and security teams to ensure seamless integration and delivery of services Implement and maintain secure traffic flows, including WAF integration, TLS best practices, and DDoS mitigation strategies Automate load balancer provisioning and configuration using tools such as Ansible, Terraform, or vendor APIs Develop and maintain documentation, standards, and runbooks for traffic engineering and load balancing practices Technical Leadership Serve as an enterprise-wide authority on technology standards, patterns, and best practices. Guide best practices adoption, modernization, and migration initiatives across business units. Provide governance for solution design, ensuring compliance, security, and performance objectives are met. Mentor engineers and junior architects, fostering a culture of technical excellence. Implementation &amp; Optimization Lead proof-of-concepts (POCs), solution prototyping, and production deployments. Collaborate with DevOps teams to implement CI/CD, automation, and infrastructure as code (Terraform, Ansible, Azure DevOps) as needed. Continuously evaluate emerging technologies and recommend adoption strategies. Stakeholder Engagement Partner with business leaders to translate requirements into actionable technology roadmaps. Produce architectural diagrams, technical documentation, and executive presentations. Act as a trusted advisor to stakeholders on the value and impact of proposed solutions. Qualifications 7+ years of experience in network engineering with a strong focus on load balancing and application delivery Deep expertise in L4–L7 networking concepts, including HTTP/S, TCP optimization, persistence, and SSL/TLS Hands-on experience with platforms such as F5 BIG-IP (LTM, GTM/DNS), Citrix ADC, A10, or similar Strong understanding of DNS, GSLB, and global traffic distribution strategies Experience with cloud load balancing in AWS (ALB/NLB), Azure (Application Gateway/Front Door), or GCP Familiarity with web application security concepts including WAF, OWASP Top 10, and zero-trust principles Scripting/automation experience (Python, Bash, or similar) and infrastructure-as-code tools Solid understanding of routing and switching (BGP, OSPF, VLANs, etc.) Strong troubleshooting skills with packet captures, logs, and performance metrics Excellent communication skills and ability to work cross-functionally Must be locally located and comfortable working a 3 days in office hybrid model and 2 days remote Soft Skills Excellent communication and executive presentation abilities. Strong problem-solving and analytical thinking. Ability to balance long-term strategy with hands-on execution. Entrepreneurial and Collaborative mindset Leadership skills to influence cross-functional teams. Verra Mobility Values An ideal candidate for this role naturally works in alignment with the Verra Mobility Core Values: Own It. We focus on high performance and drive toward breakthrough outcomes. Our employees ensure accountability, optimize and align work, focus on the customer, and cultivate innovation. Do What’s Right. We champion integrity and good character. Our team members model ethical behavior, demonstrate good judgment and are courageous. Choose Courage Over Comfort. We lean into the conversations, decisions and actions that move the business forward, even when they feel uncomfortable. We challenge assumptions, address issues early and prioritize progress over ease. Win Together. We believe in growing and inspiring people together. We seek people who collaborate, value differences, think and act globally, foster an engaging work environment, and recognize and develop others. With your explicit consent which you provided as part of the application process, we will retain candidate personal data solely for the business purpose for which it was collected. In no event will we retain such data more than two (2) years following the closure of the recruitment process relating to the role for which you applied or in the event other related job opportunities arise within the company. Verra Mobility Applicant Privacy Notice Verra Mobility is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. .",
+    "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "aws",
+      "gcp",
+      "azure",
+      "terraform",
+      "ansible",
+      "bash"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-30T04:41:41+00:00",
+    "fetched_at": "2026-06-30T08:49:15.971Z",
+    "raw": {
+      "id": 143126,
+      "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
+      "jobSlug": "143126-senior-network-engineer",
+      "jobTitle": "Senior Network Engineer",
+      "companyName": "Verra Mobility",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/98f74d13-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Position Overview: The Senior Network Engineer (Load Balancing) will be responsible for the design, implementation, and optimization of enterprise-grade load balancing and traffic management solutions across on-prem and cloud environments. This role is critical to ensuring application availability, performance, and scalability. The ideal candidate brings strong hands-on experience with L4–L7 technologies, a performance-first mindset, and the ability to operate in&hellip;",
+      "jobDescription": "<p><strong>Position Overview:</strong> </p><p>The Senior Network Engineer (Load Balancing) will be responsible for the design, implementation, and optimization of enterprise-grade load balancing and traffic management solutions across on-prem and cloud environments. This role is critical to ensuring application availability, performance, and scalability. The ideal candidate brings strong hands-on experience with L4–L7 technologies, a performance-first mindset, and the ability to operate in complex, mission-critical environments. </p><p>The ideal candidate combines deep technical expertise with business acumen, ensuring that technology strategies align with organizational goals while delivering scalable, secure, and resilient solutions. </p><p><strong>Key Responsibilities</strong> </p><p>Architecture &amp; Design </p><ul>\n<li>Engineer, deploy, and manage load balancing solutions (L4–L7) to support high-availability applications and services </li>\n<li>Design and implement traffic management strategies including SSL offload, content switching, GSLB, and application acceleration </li>\n<li>Configure and support platforms such as F5 BIG-IP (LTM/GTM), Citrix ADC (NetScaler), A10, or cloud-native load balancers </li>\n<li>Optimize application performance through tuning of persistence profiles, health monitors, iRules/policies, and traffic steering logic </li>\n<li>Lead efforts in capacity planning, failover design, and disaster recovery for application delivery infrastructure </li>\n<li>Troubleshoot complex network and application performance issues across multi-tier environments </li>\n<li>Partner with application, DevOps, and security teams to ensure seamless integration and delivery of services </li>\n<li>Implement and maintain secure traffic flows, including WAF integration, TLS best practices, and DDoS mitigation strategies </li>\n<li>Automate load balancer provisioning and configuration using tools such as Ansible, Terraform, or vendor APIs </li>\n<li>Develop and maintain documentation, standards, and runbooks for traffic engineering and load balancing practices </li>\n</ul><p>Technical Leadership </p><ul>\n<li>Serve as an enterprise-wide authority on technology standards, patterns, and best practices. </li>\n<li>Guide best practices adoption, modernization, and migration initiatives across business units. </li>\n<li>Provide governance for solution design, ensuring compliance, security, and performance objectives are met. </li>\n<li>Mentor engineers and junior architects, fostering a culture of technical excellence. </li>\n</ul><p>Implementation &amp; Optimization </p><ul>\n<li>Lead proof-of-concepts (POCs), solution prototyping, and production deployments. </li>\n<li>Collaborate with DevOps teams to implement CI/CD, automation, and infrastructure as code (Terraform, Ansible, Azure DevOps) as needed. </li>\n<li>Continuously evaluate emerging technologies and recommend adoption strategies. </li>\n</ul><p>Stakeholder Engagement </p><ul>\n<li>Partner with business leaders to translate requirements into actionable technology roadmaps. </li>\n<li>Produce architectural diagrams, technical documentation, and executive presentations. </li>\n<li>Act as a trusted advisor to stakeholders on the value and impact of proposed solutions. </li>\n</ul><p><strong>Qualifications</strong> </p><ul>\n<li>7+ years of experience in network engineering with a strong focus on load balancing and application delivery </li>\n<li>Deep expertise in L4–L7 networking concepts, including HTTP/S, TCP optimization, persistence, and SSL/TLS </li>\n<li>Hands-on experience with platforms such as F5 BIG-IP (LTM, GTM/DNS), Citrix ADC, A10, or similar </li>\n<li>Strong understanding of DNS, GSLB, and global traffic distribution strategies </li>\n<li>Experience with cloud load balancing in AWS (ALB/NLB), Azure (Application Gateway/Front Door), or GCP </li>\n<li>Familiarity with web application security concepts including WAF, OWASP Top 10, and zero-trust principles </li>\n<li>Scripting/automation experience (Python, Bash, or similar) and infrastructure-as-code tools </li>\n<li>Solid understanding of routing and switching (BGP, OSPF, VLANs, etc.) </li>\n<li>Strong troubleshooting skills with packet captures, logs, and performance metrics </li>\n<li>Excellent communication skills and ability to work cross-functionally </li>\n<li><strong>Must be locally located and comfortable working a 3 days in office hybrid model and 2 days remote</strong></li>\n</ul><p><strong>Soft Skills</strong> </p><ul>\n<li>Excellent communication and executive presentation abilities. </li>\n<li>Strong problem-solving and analytical thinking. </li>\n<li>Ability to balance long-term strategy with hands-on execution. </li>\n<li>Entrepreneurial and Collaborative mindset </li>\n<li>Leadership skills to influence cross-functional teams. </li>\n</ul><p><strong>Verra Mobility Values<br></strong><br>An ideal candidate for this role naturally works in alignment with the Verra Mobility Core Values:</p><ul>\n<li><strong>Own It.</strong>We focus on high performance and drive toward breakthrough outcomes. Our employees ensure accountability, optimize and align work, focus on the customer, and cultivate innovation.</li>\n<li><strong>Do What’s Right.</strong>We champion integrity and good character. Our team members model ethical behavior, demonstrate good judgment and are courageous.</li>\n<li><strong>Choose Courage Over Comfort.</strong> We lean into the conversations, decisions and actions that move the business forward, even when they feel uncomfortable. We challenge assumptions, address issues early and prioritize progress over ease.</li>\n<li><strong>Win Together.</strong> We believe in growing and inspiring people together. We seek people who collaborate, value differences, think and act globally, foster an engaging work environment, and recognize and develop others.</li>\n</ul><p><em>With your explicit consent which you provided as part of the application process, we will retain candidate personal data solely for the business purpose for which it was collected. In no event will we retain such data more than two (2) years following the closure of the recruitment process relating to the role for which you applied or in the event other related job opportunities arise within the company. <a href=\"https://www.verramobility.com/candidate-privacy-notice/\" target=\"_blank\" rel=\"nofollow ugc noopener\">Verra Mobility Applicant Privacy Notice</a></em></p><p>Verra Mobility is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. </p><p>.<em> </em></p>",
+      "pubDate": "2026-06-30T04:41:41+00:00"
+    }
+  },
+  {
+    "id": "jobicy:143221",
+    "platform": "jobicy",
+    "external_id": "143221",
+    "title": "Staff AI Architect, Family AI Lab",
+    "company": "Life360",
+    "description": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app,Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver reports, and crash detection with emergency dispatch. Life360 serves approximately 95.8 million monthly active users (MAU), as of December 31, 2025, across more than 180 countries. Life360 delivers peace of mind and enhances everyday family life with seamless coordination for all the moments that matter, big and small. By continuing to innovate and deliver for our customers, we have become a household name and the must-have mobile-based membership for families (and those friends who are basically family). Life360 has more than 500 (and growing!) remote-first employees. For more information, please visit life360.com . Life360 is a Remote First company, which means a remote work environment will be the primary experience for all employees. All positions, unless otherwise specified, can be performed remotely (within the US and Canada) regardless of any specified location above. We are AI Native We are building an AI native company where AI is an integral part of how we build and operate. AI tool usage during interviews varies by role. You may be asked to demonstrate proficiency with AI tools, discuss how you leverage AI, or complete interview exercises without AI assistance. Your Recruiter will provide clear guidance as you move through the interview process. Undisclosed use of AI not previously discussed with or approved by your Recruiter may impact your candidacy. About The Team The AI Lab is a small, founder-led team operating like a zero-to-one startup inside Life360, building the company’s next chapter. Our mission is to transform Life360 from the app you open to find your family into an intelligent operating system families rely on daily. We design and build an AI-powered layer on top of our family graph, leveraging our core location technologies and global 100 million-user base to proactively surface what matters across location, schedules, and everyday life. About the Job Your role is owning how Life360's deterministic backend (location data, the family graph, behavioral signals, user insights) pairs with the probabilistic world of LLMs. You decide how those two sides talk to each other, and you make sure the seams don't show. You own the inference pipeline end to end: model selection, serving infrastructure, evaluation loops, prompt and context strategy, and the cloud services that keep it all running in production. You make the tradeoffs between latency, cost, and quality. You build the eval harness that tells us whether the system is actually getting better, not just feeling different. If you do this job right, the product feels seamless to users, the data stays safe, and inference costs don't run away from us. You are a cloud engineer who is deeply fluent in how AI systems actually work in production. For candidates based in the US, the salary range for this position is $197,000 to $290,000 USD. For candidates based out of Canada, the salary range for this position is $229,000 to $268,000 CAD. Note: Please be aware that the job title for positions in Canada will be \"Developer\" in lieu of \"Engineer.\" We take into consideration an individual's background and experience in determining final salary - therefore, base pay offered may vary considerably depending on geographic location, job-related knowledge, skills, and experience. The compensation package includes a wide range of medical, dental, vision, financial, and other benefits, as well as equity. What You’ll Do Architect the inference pipeline that turns Life360 into a context layer LLMs can reason over: soul files, family context, behavioral signals, document understanding. Choose models. Choose hosting. Decide what is self-hosted, API-based, fine-tuned, or prompt-engineered. Revisit those decisions as the landscape changes. Build the serving infrastructure. Latency budgets, batching, caching, fallbacks, graceful degradation. Make it run at scale before scale gets here. Build the eval loop. Know whether changes make the product better or worse, not just whether the demo works. This is the difference between a real product and a magic trick. Own the cost model. Track spend per user, per feature, per family. Find the levers (context compression, model routing, pre-computation) that keep unit economics working from a test group to millions. Define what gets persisted, what gets summarized, and what gets thrown away. The architecture decision of \"what does our data look like to an LLM\" lives with you. Set the bar for safety, privacy, and trust at the infrastructure layer. Sensitive categories filtered before they propagate. Encryption, access controls, audit trails built in, not bolted on. What We’re Looking For If there's one trait we need above all others, it's self-starter energy. As we've gotten bigger, we've been more open to roles with clearly defined schedules and processes. That doesn't work in a startup. We need people on founder hours, not office hours — with a huge desire to win. You'll be a cofounder of this initiative. You operate without a spec. You'd rather have a conversation, a sketch, and 24 hours than a 30-page PRD and a week. You ship every day. Not \"make progress.\" Ship. Even rough. Even ugly. Momentum matters more than polish at this stage. You push for more. You won't wait to be told what to do. You demand excellence of yourself and the people around you. You hold strong opinions and change them when the evidence moves. You push back. You concede fast when wrong. You're a customer of what we build. Try it if you haven't. The bar Deep engineering experience, with significant time spent building and running AI systems in production at meaningful scale. Real users, real load, real on-call. Fluent in modern LLM serving (vLLM, TGI, SGLang, hosted APIs — whatever's right for the job). No religion about it. You think in evals. You've built harnesses. You know the difference between vibes-based iteration and real progress because you've felt the pain of not having one. You can build a cloud system from the ground up. Pick the services, wire them together, make them reliable, keep the bill in check. Strong opinions about cost. You've seen inference bills run out of control and have instincts for where the leaks come from. AI-native in your daily workflow. Hands-on with Claude Code, Cursor, or equivalent. You think natively in agentic workflows, prompt engineering, context window management, MCP / function calling. Comfortable deciding with incomplete information. The spec will be a moving target. You don't need it to settle before you start building. Strong written communication. You write specs, decision records, and playbooks that an agent (and a human) can act on precisely. Experience with agent systems, retrieval pipelines, or long-context personalization. Privacy architecture experience in multi-user systems where context is shared across people with different rights to see it. You've built something where the data itself was the moat — and you understand why that's different from building on public data. Our Benefits Competitive pay and benefits. Medical, dental, vision, life and disability insurance plans (100% paid for US employees). We offer supplemental plans for medical and dental for Canadian employees. 401(k) plan with company matching program in the US and RRSP with DPSP plan for Canadian employees. Employee Assistance Program (EAP) for mental wellness. Flexible PTO and 12 company wide days off throughout the year. Learning &amp; Development programs. Equipment, tools, and reimbursement support for a productive remote environment. Free Life360 Platinum Membership for your preferred circle. Life360 Values Our company’s mission driven culture is guided by our shared values to create a trusted work environment where you can bring your authentic self to work and make a positive difference Be a Good Person - We have a team of high integrity people you can trust. Be Direct With Respect - We communicate directly, even when it’s hard. Members Before Metrics - We focus on building an exceptional experience for families. High Intensity High Impact - We do whatever it takes to get the job done. Our Commitment to Diversity We are an equal opportunity employer and value diversity at Life360. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or any legally protected status. We encourage people of all backgrounds to apply. We believe that a diversity of perspectives and experiences create a foundation for the best ideas. Come join us in building something meaningful. Even if you don’t meet 100% of the below qualifications, you should still seriously consider applying! #LI-Remote ____________________________________________________________________________",
+    "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "llm"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-30T03:46:41+00:00",
+    "fetched_at": "2026-06-30T08:49:15.973Z",
+    "raw": {
+      "id": 143221,
+      "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
+      "jobSlug": "143221-staff-ai-architect-family-ai-lab",
+      "jobTitle": "Staff AI Architect, Family AI Lab",
+      "companyName": "Life360",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/f269bad3-221.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Life360Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app,Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver reports, and crash detection with emergency dispatch. Life360 serves&hellip;",
+      "jobDescription": "<h2>About Life360</h2><p>Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app,Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver reports, and crash detection with emergency dispatch. Life360 serves approximately 95.8 million monthly active users (MAU), as of December 31, 2025, across more than 180 countries.</p><p>Life360 delivers peace of mind and enhances everyday family life with seamless coordination for all the moments that matter, big and small. By continuing to innovate and deliver for our customers, we have become a household name and the must-have mobile-based membership for families (and those friends who are basically family).</p><p>Life360 has more than 500 (and growing!) remote-first employees. For more information, please visit <a href=\"http://life360.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">life360.com</a>.</p><p><strong><em>Life360 is a Remote First company, which means a remote work environment will be the primary experience for all employees. All positions, unless otherwise specified, can be performed remotely (within the US and Canada) regardless of any specified location above. </em></strong></p><h3>We are AI Native</h3><p>We are building an AI native company where AI is an integral part of how we build and operate. AI tool usage during interviews varies by role. You may be asked to demonstrate proficiency with AI tools, discuss how you leverage AI, or complete interview exercises without AI assistance. Your Recruiter will provide clear guidance as you move through the interview process.</p><p>Undisclosed use of AI not previously discussed with or approved by your Recruiter may impact your candidacy.</p><h2>About The Team</h2><p>The AI Lab is a small, founder-led team operating like a zero-to-one startup inside Life360, building the company’s next chapter. Our mission is to transform Life360 from the app you open to find your family into an intelligent operating system families rely on daily. We design and build an AI-powered layer on top of our family graph, leveraging our core location technologies and global 100 million-user base to proactively surface what matters across location, schedules, and everyday life.</p><h2>About the Job</h2><p>Your role is owning how Life360's deterministic backend (location data, the family graph, behavioral signals, user insights) pairs with the probabilistic world of LLMs. You decide how those two sides talk to each other, and you make sure the seams don't show.</p><p>You own the inference pipeline end to end: model selection, serving infrastructure, evaluation loops, prompt and context strategy, and the cloud services that keep it all running in production. You make the tradeoffs between latency, cost, and quality. You build the eval harness that tells us whether the system is actually getting better, not just feeling different. If you do this job right, the product feels seamless to users, the data stays safe, and inference costs don't run away from us. You are a cloud engineer who is deeply fluent in how AI systems actually work in production. </p><p><em><strong>For candidates based in the US, the salary range for this position is $197,000 to $290,000 USD. For candidates based out of Canada, the salary range for this position is $229,000 to $268,000 CAD. Note: Please be aware that the job title for positions in Canada will be \"Developer\" in lieu of \"Engineer.\" We take into consideration an individual's background and experience in determining final salary - therefore, base pay offered may vary considerably depending on geographic location, job-related knowledge, skills, and experience. The compensation package includes a wide range of medical, dental, vision, financial, and other benefits, as well as equity.</strong></em></p><h2>What You’ll Do</h2><ul>\n<li>Architect the inference pipeline that turns Life360 into a context layer LLMs can reason over: soul files, family context, behavioral signals, document understanding.</li>\n<li>Choose models. Choose hosting. Decide what is self-hosted, API-based, fine-tuned, or prompt-engineered. Revisit those decisions as the landscape changes.</li>\n<li>Build the serving infrastructure. Latency budgets, batching, caching, fallbacks, graceful degradation. Make it run at scale before scale gets here.</li>\n<li>Build the eval loop. Know whether changes make the product better or worse, not just whether the demo works. This is the difference between a real product and a magic trick.</li>\n<li>Own the cost model. Track spend per user, per feature, per family. Find the levers (context compression, model routing, pre-computation) that keep unit economics working from a test group to millions.</li>\n<li>Define what gets persisted, what gets summarized, and what gets thrown away. The architecture decision of \"what does our data look like to an LLM\" lives with you.</li>\n<li>Set the bar for safety, privacy, and trust at the infrastructure layer. Sensitive categories filtered before they propagate. Encryption, access controls, audit trails built in, not bolted on.</li>\n</ul><h2>What We’re Looking For</h2><p>If there's one trait we need above all others, it's self-starter energy. As we've gotten bigger, we've been more open to roles with clearly defined schedules and processes. That doesn't work in a startup. We need people on founder hours, not office hours — with a huge desire to win. You'll be a cofounder of this initiative.</p><ul>\n<li>You operate without a spec. You'd rather have a conversation, a sketch, and 24 hours than a 30-page PRD and a week.</li>\n<li>You ship every day. Not \"make progress.\" Ship. Even rough. Even ugly. Momentum matters more than polish at this stage.</li>\n<li>You push for more. You won't wait to be told what to do. You demand excellence of yourself and the people around you.</li>\n<li>You hold strong opinions and change them when the evidence moves. You push back. You concede fast when wrong.</li>\n<li>You're a customer of what we build. Try it if you haven't.</li>\n</ul><p><strong>The bar</strong></p><ul>\n<li>Deep engineering experience, with significant time spent building and running AI systems in production at meaningful scale. Real users, real load, real on-call.</li>\n<li>Fluent in modern LLM serving (vLLM, TGI, SGLang, hosted APIs — whatever's right for the job). No religion about it.</li>\n<li>You think in evals. You've built harnesses. You know the difference between vibes-based iteration and real progress because you've felt the pain of not having one.</li>\n<li>You can build a cloud system from the ground up. Pick the services, wire them together, make them reliable, keep the bill in check.</li>\n<li>Strong opinions about cost. You've seen inference bills run out of control and have instincts for where the leaks come from.</li>\n<li>AI-native in your daily workflow. Hands-on with Claude Code, Cursor, or equivalent. You think natively in agentic workflows, prompt engineering, context window management, MCP / function calling.</li>\n<li>Comfortable deciding with incomplete information. The spec will be a moving target. You don't need it to settle before you start building.</li>\n<li>Strong written communication. You write specs, decision records, and playbooks that an agent (and a human) can act on precisely.</li>\n<li>Experience with agent systems, retrieval pipelines, or long-context personalization.</li>\n<li>Privacy architecture experience in multi-user systems where context is shared across people with different rights to see it.</li>\n<li>You've built something where the data itself was the moat — and you understand why that's different from building on public data.</li>\n</ul><h2>Our Benefits</h2><ul>\n<li>Competitive pay and benefits.</li>\n<li>Medical, dental, vision, life and disability insurance plans (100% paid for US employees). We offer supplemental plans for medical and dental for Canadian employees.</li>\n<li>401(k) plan with company matching program in the US and RRSP with DPSP plan for Canadian employees.</li>\n<li>Employee Assistance Program (EAP) for mental wellness.</li>\n<li>Flexible PTO and 12 company wide days off throughout the year.</li>\n<li>Learning &amp; Development programs.</li>\n<li>Equipment, tools, and reimbursement support for a productive remote environment.</li>\n<li>Free Life360 Platinum Membership for your preferred circle.</li>\n</ul><h2>Life360 Values</h2><p>Our company’s mission driven culture is guided by our shared values to create a trusted work environment where you can bring your authentic self to work and make a positive difference </p><ul>\n<li>Be a Good Person - We have a team of high integrity people you can trust. </li>\n<li>Be Direct With Respect - We communicate directly, even when it’s hard.</li>\n<li>Members Before Metrics - We focus on building an exceptional experience for families. </li>\n<li>High Intensity High Impact - We do whatever it takes to get the job done. </li>\n</ul><h2>Our Commitment to Diversity</h2><p><em>We are an equal opportunity employer and value diversity at Life360. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or any legally protected status. </em></p><p><em>We encourage people of all backgrounds to apply. We believe that a diversity of perspectives and experiences create a foundation for the best ideas. Come join us in building something meaningful.</em><em>Even if you don’t meet 100% of the below qualifications, you should still seriously consider applying!</em></p><p><strong>#LI-Remote</strong></p><p><em>____________________________________________________________________________</em></p><p></p>",
+      "pubDate": "2026-06-30T03:46:41+00:00",
+      "salaryMin": 197000,
+      "salaryMax": 290000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:143399",
+    "platform": "jobicy",
+    "external_id": "143399",
+    "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
+    "company": "Lumen Technologies",
+    "description": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world. By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock what’s next. At Lumen, people power progress. Our culture is built on teamwork, trust, and transparency, giving you the flexibility, support, and opportunity to make a lasting impact. We’re looking for top-tier talent ready to take on the challenge. Join us in building the future. The Role SAIC seeks a Lumen Network Design Engineer V (WAN / Work Package Engineer) to support the Department of the Air Force C3BM/ABMS program. In this lead Lumen engineering role, you apply advanced engineering and network principles to solve unusually complex problems and to develop/evaluate/implement secure WAN/transport solutions. Embedded with the SAIC mission team, you translate operational and cybersecurity requirements into implementable field work packages for classified and unclassified environments. Deliverables to the SAIC Chief Engineer and technical engineering include HLD/LLD, design-review packages, diagrams, and (as requested) bills of material and configuration templates. HYBRID role; initial work is performed in contractor-provided facilities. The engineer works with SAIC’s Chief Engineer to design secure WAN/transport connectivity and deliver implementation-ready field work packages. Contingent upon contract award expected in Q1. The Main Responsibilities WAN Architecture &amp; Design Engineering. Develop WAN/transport design recommendations for mission networks: site connectivity, segmentation, resiliency, and performance engineering across classified and unclassified enclaves. Define engineering requirements, interfaces, and implementable WAN designs, including L0 circuit configurations and CLLI circuit-route options across CONUS/OCONUS; optionally address routing, addressing, QoS, encryption, and boundary protection. Develop optimized WAN transport options using OTN and ITU‑T standards (G.709, G.798, G.872); apply MPLS/IP, Ethernet, VPN/IPsec, SD‑WAN, and modern secure access patterns (SASE/SSE) where applicable. Propose WAN work package options to SAIC technical leadership to support engineering trades before implementation; deliverables may include HLD/LLD, logical/physical diagrams, IP plans, L0 routing/QoS policies, security boundary requirements, BOM/part lists, rack elevations (as applicable), configuration templates, and interface cut sheets. Support the SAIC Chief Engineer with MOPs, implementation plans, cutover schedules, rollback procedures, and test/validation plans; participate in technical reviews and change control; identify/mitigate risks per work package. Recommend optimized WAN solutions for current/long-range planning; partner with technical leads to select tools/technologies that improve efficiency, reduce cost, and increase customer satisfaction. Create/maintain engineering and compliance evidence (device configuration baselines, DISA STIG notes/checklists, boundary descriptions, diagrams, status reports) to support audits and RMF/ATO. Support operational projects and maintenance windows; assist implementation teams during turn-ups, migrations, and service transitions. Recommend automation/standardization of repeatable engineering tasks (configuration generation, validation checks, documentation workflows) consistent with program approvals. Troubleshoot complex hardware/software/network issues (as requested); document problems, root causes, and resolutions; feed lessons learned into package templates and standards. Support WAN capacity planning across sites/segments (bandwidth, optical/Carrier Ethernet where applicable, routing headroom, power/cooling constraints, lifecycle/EOL). Support L0 circuit delivery/integration/activation and service migrations: coordinate with providers, validate acceptance criteria, and update as-built documentation. Provide inputs to design review packages; update network drawings (e.g., Visio) and route maps to reflect approved designs and as-built changes. Develop ROM estimates and cost models for new sites, routes, and WAN services. Operational Support, Provider Coordination, and Documentation As requested by the PM and/or Chief Engineer, serve as technical liaison among teams to align design intent, circuit turn-up activities, and field execution. Provide Tier 3/4 troubleshooting and root-cause analysis for WAN/transport issues and recommend corrective actions. Support RMF/ATO by producing required network engineering evidence: diagrams; port/protocol/service documentation; boundary descriptions; STIG checklists/implementation notes; and as-built configurations. Deliver technical design reviews, implementation-readiness briefings, and mission-impact assessments to the SAIC Chief Engineer and operational teams. What We Look For in a Candidate US Citizenship is required. Active TS/SCI or SCI Eligible. IAT Level I/II/III Certification. Travel is required Education/experience: BA/BS +17 years; or MS + 13 years; or PhD/JD + 10 years related experience. 14+ years progressive WAN/transport engineering, network architecture, or telecommunications experience, including deployable implementation/job packages. Deep expertise in: OTN and ITU-T standards (G.709, G.798, G.872). MPLS/IP, Ethernet, VPN/IPsec overlays, and enterprise/carrier WAN design patterns. Routing/traffic engineering (BGP, OSPF/ISIS), path control, convergence, SD-WAN and secure connectivity (SASE/SSE), segmentation/policy design, QoS (marking/queuing/shaping), performance engineering, capacity planning. Network security, boundary protections, and Zero Trust; field-ready engineering packages (logical/physical diagrams, IP plans, BOMs, config templates, implementation steps, cutover/rollback, test/validation). Task/work-order execution support: design reviews, implementation readiness coordination, and design-to-field discrepancy resolution. Technical writing/communications: concise engineering documentation and briefings for technical and non-technical stakeholders. Consultative skills: rapport, fact-finding, requirements definition, options/recommendations, follow-through, customer focus; thrives with competing priorities. Compensation This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors. Location Based Pay Ranges $132,232 - $176,310 in these states: AL AR AZ FL GA IA ID IN KS KY LA ME MO MS MT ND NE NM OH OK PA SC SD TN UT VT WI WV WY $138,844 - $185,124 in these states: CO HI MI MN NC NH NV OR RI $145,456 - $193,940 in these states: AK CA CT DC DE IL MA MD NJ NY TX VA WA Lumen offers a comprehensive package featuring a broad range of Health, Life, Voluntary Lifestyle benefits and other perks that enhance your physical, mental, emotional and financial wellbeing. We're able to answer any additional questions you may have about our bonus structure (short-term incentives, long-term incentives and/or sales compensation) as you move through the selection process. Learn more about Lumen's: Benefits Bonus Structure #LI-Remote Requisition #: 342128 Background Screening If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our FAQ page . Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Equal Employment Opportunities We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training. Privacy Notice Lumen is committed to protecting the privacy and security of personal information collected during the recruitment and hiring process. Our Privacy Notice explains how we collect, use, disclose, and protect applicant information, as well as how individuals may request access to or deletion of their personal data. To review Lumen’s Privacy Notice, please visit: https://jobs.lumen.com/global/en/privacy-notice Disclaimer The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions. In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information. Please be advised that Lumen does not require any form of payment from job applicants during the recruitment process. All legitimate job openings will be posted on our official website or communicated through official company email addresses. If you encounter any job offers that request payment in exchange for employment at Lumen, they are not for employment with us, but may relate to another company with a similar name.",
+    "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-30T02:36:42+00:00",
+    "fetched_at": "2026-06-30T08:49:15.975Z",
+    "raw": {
+      "id": 143399,
+      "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
+      "jobSlug": "143399-network-design-engineer-v-wan-job-package-engineer-abms",
+      "jobTitle": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
+      "companyName": "Lumen Technologies",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/09/bab8bfe71b006d34181034e47e6b2c52.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Any",
+      "jobExcerpt": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock what’s next.At Lumen, people power progress. Our culture is built on teamwork, trust, and transparency, giving you the flexibility, support,&hellip;",
+      "jobDescription": "<p>Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.</p><p>By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock what’s next.</p><p>At Lumen, people power progress. Our culture is built on teamwork, trust, and transparency, giving you the flexibility, support, and opportunity to make a lasting impact. We’re looking for top-tier talent ready to take on the challenge. Join us in building the future.</p><h2><b>The Role</b></h2><p>SAIC seeks a Lumen Network Design Engineer V (WAN / Work Package Engineer) to support the Department of the Air Force C3BM/ABMS program. In this lead Lumen engineering role, you apply advanced engineering and network principles to solve unusually complex problems and to develop/evaluate/implement secure WAN/transport solutions. Embedded with the SAIC mission team, you translate operational and cybersecurity requirements into implementable field work packages for classified and unclassified environments. Deliverables to the SAIC Chief Engineer and technical engineering include HLD/LLD, design-review packages, diagrams, and (as requested) bills of material and configuration templates. </p><p>HYBRID role; initial work is performed in contractor-provided facilities. The engineer works with SAIC’s Chief Engineer to design secure WAN/transport connectivity and deliver implementation-ready field work packages. Contingent upon contract award expected in Q1. </p><h2><b>The Main Responsibilities</b></h2><ul>\r\n<li>WAN Architecture &amp; Design Engineering.</li>\r\n<li>Develop WAN/transport design recommendations for mission networks: site connectivity, segmentation, resiliency, and performance engineering across classified and unclassified enclaves. </li>\r\n<li>Define engineering requirements, interfaces, and implementable WAN designs, including L0 circuit configurations and CLLI circuit-route options across CONUS/OCONUS; optionally address routing, addressing, QoS, encryption, and boundary protection. </li>\r\n<li>Develop optimized WAN transport options using OTN and ITU‑T standards (G.709, G.798, G.872); apply MPLS/IP, Ethernet, VPN/IPsec, SD‑WAN, and modern secure access patterns (SASE/SSE) where applicable. </li>\r\n<li>Propose WAN work package options to SAIC technical leadership to support engineering trades before implementation; deliverables may include HLD/LLD, logical/physical diagrams, IP plans, L0 routing/QoS policies, security boundary requirements, BOM/part lists, rack elevations (as applicable), configuration templates, and interface cut sheets. </li>\r\n<li>Support the SAIC Chief Engineer with MOPs, implementation plans, cutover schedules, rollback procedures, and test/validation plans; participate in technical reviews and change control; identify/mitigate risks per work package. </li>\r\n<li>Recommend optimized WAN solutions for current/long-range planning; partner with technical leads to select tools/technologies that improve efficiency, reduce cost, and increase customer satisfaction. </li>\r\n<li>Create/maintain engineering and compliance evidence (device configuration baselines, DISA STIG notes/checklists, boundary descriptions, diagrams, status reports) to support audits and RMF/ATO. </li>\r\n<li>Support operational projects and maintenance windows; assist implementation teams during turn-ups, migrations, and service transitions. </li>\r\n<li>Recommend automation/standardization of repeatable engineering tasks (configuration generation, validation checks, documentation workflows) consistent with program approvals. </li>\r\n<li>Troubleshoot complex hardware/software/network issues (as requested); document problems, root causes, and resolutions; feed lessons learned into package templates and standards. </li>\r\n<li>Support WAN capacity planning across sites/segments (bandwidth, optical/Carrier Ethernet where applicable, routing headroom, power/cooling constraints, lifecycle/EOL). </li>\r\n<li>Support L0 circuit delivery/integration/activation and service migrations: coordinate with providers, validate acceptance criteria, and update as-built documentation. </li>\r\n<li>Provide inputs to design review packages; update network drawings (e.g., Visio) and route maps to reflect approved designs and as-built changes. </li>\r\n<li>Develop ROM estimates and cost models for new sites, routes, and WAN services. </li>\r\n<li>Operational Support, Provider Coordination, and Documentation </li>\r\n<li>As requested by the PM and/or Chief Engineer, serve as technical liaison among teams to align design intent, circuit turn-up activities, and field execution. </li>\r\n<li>Provide Tier 3/4 troubleshooting and root-cause analysis for WAN/transport issues and recommend corrective actions. </li>\r\n<li>Support RMF/ATO by producing required network engineering evidence: diagrams; port/protocol/service documentation; boundary descriptions; STIG checklists/implementation notes; and as-built configurations. </li>\r\n<li>Deliver technical design reviews, implementation-readiness briefings, and mission-impact assessments to the SAIC Chief Engineer and operational teams. </li>\r\n</ul><h2><b>What We Look For in a Candidate</b></h2><ul>\r\n<li>US Citizenship is required.</li>\r\n<li>Active TS/SCI or SCI Eligible. </li>\r\n<li>IAT Level I/II/III Certification. </li>\r\n<li>Travel is required </li>\r\n<li>Education/experience: BA/BS +17 years; or MS + 13 years; or PhD/JD + 10 years related experience. </li>\r\n<li>14+ years progressive WAN/transport engineering, network architecture, or telecommunications experience, including deployable implementation/job packages. </li>\r\n<li>Deep expertise in: </li>\r\n<li>OTN and ITU-T standards (G.709, G.798, G.872). </li>\r\n<li>MPLS/IP, Ethernet, VPN/IPsec overlays, and enterprise/carrier WAN design patterns. </li>\r\n<li>Routing/traffic engineering (BGP, OSPF/ISIS), path control, convergence, SD-WAN and secure connectivity (SASE/SSE), segmentation/policy design, QoS (marking/queuing/shaping), performance engineering, capacity planning. </li>\r\n<li>Network security, boundary protections, and Zero Trust; field-ready engineering packages (logical/physical diagrams, IP plans, BOMs, config templates, implementation steps, cutover/rollback, test/validation). </li>\r\n<li>Task/work-order execution support: design reviews, implementation readiness coordination, and design-to-field discrepancy resolution. </li>\r\n<li>Technical writing/communications: concise engineering documentation and briefings for technical and non-technical stakeholders. </li>\r\n<li>Consultative skills: rapport, fact-finding, requirements definition, options/recommendations, follow-through, customer focus; thrives with competing priorities. <br> </li>\r\n</ul><h2><b>Compensation</b></h2><p> This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.<br />Location Based Pay Ranges<br />$132,232 - $176,310 in these states: AL AR AZ FL GA IA ID IN KS KY LA ME MO MS MT ND NE NM OH OK PA SC SD TN UT VT WI WV WY <br>$138,844 - $185,124 in these states: CO HI MI MN NC NH NV OR RI <br>$145,456 - $193,940 in these states: AK CA CT DC DE IL MA MD NJ NY TX VA WA <br />Lumen offers a comprehensive package featuring a broad range of Health, Life, Voluntary Lifestyle benefits and other perks that enhance your physical, mental, emotional and financial wellbeing. We're able to answer any additional questions you may have about our bonus structure (short-term incentives, long-term incentives and/or sales compensation) as you move through the selection process. </p><p> Learn more about Lumen's: <a href=\"https://jobs.lumen.com/global/en/benefits-statement\" rel=\"nofollow ugc noopener\" target=\"_blank\">Benefits</a> <a href=\"https://jobs.lumen.com/global/en/compensation-information\" rel=\"nofollow ugc noopener\" target=\"_blank\">Bonus Structure</a> </p><p>#LI-Remote</p><p>Requisition #: 342128</p><p><strong>Background Screening</strong></p><p>If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our <a href=\"https://jobs.lumen.com/global/en/faq\" rel=\"nofollow ugc noopener\" target=\"_blank\">FAQ page</a>. Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis.</p><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p><p><strong>Equal Employment Opportunities</strong></p><p>We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.</p><p><strong>Privacy Notice</strong></p><p>Lumen is committed to protecting the privacy and security of personal information collected during the recruitment and hiring process. Our Privacy Notice explains how we collect, use, disclose, and protect applicant information, as well as how individuals may request access to or deletion of their personal data.</p><p>To review Lumen’s Privacy Notice, please visit:<br><a href=\"https://jobs.lumen.com/global/en/privacy-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://jobs.lumen.com/global/en/privacy-notice</a></p><p><strong>Disclaimer</strong></p><p>The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions.</p><p>In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.</p><p>Please be advised that Lumen does not require any form of payment from job applicants during the recruitment process. All legitimate job openings will be posted on our official website or communicated through official company email addresses. If you encounter any job offers that request payment in exchange for employment at Lumen, they are not for employment with us, but may relate to another company with a similar name.</p>",
+      "pubDate": "2026-06-30T02:36:42+00:00",
+      "salaryMin": 132232,
+      "salaryMax": 193940,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:148118",
+    "platform": "jobicy",
+    "external_id": "148118",
+    "title": "Senior Backend Engineer (Elixir)",
+    "company": "Remote",
+    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find Remoters working from 6 different continents (Antarctica left to go!) and all of our positions are fully remote. With Innovation as one of the core values, we have built Automation and AI capabilities into the requirements for every role. We encourage every member of the Remote team to bring their talents, experiences and culture to the table to help us build the best-in-class HR platform. If you are energetic, curious, motivated and ambitious, be part of our world. Apply now and define the future of work! The position You'll be joining a team of engineers across Frontend, Backend, SRE and QA. We're organised into cross-functional development teams assigned to specific verticals. This role is open for several teams, and we will define the exact team that you will be joining during the interview process based on the business needs and your preferences. Regardless of the specific team, you will be working on building tools, APIs and integrations for one of our products. Our backend is built with Elixir and Phoenix, with a Postgres database. We use React and Nextjs for our front-end. Gitlab is used as a version control tool, issue tracker and a CI/CD solution. Our applications are hosted on AWS. We fully rely on our CI for deployments and deploy multiple times per day. You can also check out this Keynote to learn how we evolved Remote's architecture and organisation to support a fast pace. We explore domain boundaries and dependency management alongside worker separation. You will also hear about ownership driven observability. What this job can offer you Complex and meaningful challenges — solving them will enable people and businesses to live and operate in any country of the world. Opportunity to have a significant impact on the business — we are still very early in our journey as a company, and each change you make today is amplified by the company's growth. A lot of freedom to organize your work and life — you are not bound to daily standups, recurring meetings or other ceremonies. Competitive salary, stock options, flexible paid time off, and a set of perks and benefits. A supportive and kind work environment where we would like you to challenge the dogmas and pursue innovation! Strong team of experienced engineers who will support and facilitate your professional growth. What you bring Must have (professional experience): Strong engineering fundamentals and a track record of shipping production systems that are secure, reliable, and scalable. Practical experience designing or adopting agentic/automation workflows (or comparable systems) and improving them through iteration. Ability to think in systems: define specs clearly, break down plans, instrument verification, and close the loop on quality. Postgres (or similar). CI/CD (GitLab, Github, Jenkins or similar). Demonstrates strong automation and AI capabilities and AI fluency. Nice to have Kubernetes Docker AWS Nextjs React/Vue/Angular Key Responsibilities Lead the development of major team-scoped projects, participate in cross-team initiatives for Remote's HR and Payroll products. Actively participate in product work in the team: provide feedback, suggest solutions to the problems. Use technical insights and expertise to suggest product improvements. Maintain good understanding of the team’s domain, both from product and engineering sides. Provide feedback on code reviews. Contribute to the shared codebase. Debug and solve technical and business issues. Participate in non-team activities, such as support rotations, hiring process, RFC discussions, etc. Mentor and provide guidance to other engineers. Investigate, propose and participate in implementation of improvements to our platform. Implement interfaces with performance, accessibility, and API design in mind. Redesign how engineering work ships with autonomous agents as the default execution layer Propose and operationalize agentic workflows end-to-end (spec → plan → execute → verify) to deliver outcomes faster. Build reusable agentic workflows and primitives in the codebase so teams can apply them repeatedly across domains. Use verification loops (tests, checks, evals, guardrails) to ensure results are correct, secure, reliable, and scalable. Practicals Reporting line: Engineering Team Leader Team: Engineering Location : Anywhere in the World Start date : As soon as possible Application process Interview with our recruiter Interview with an Engineering Leader (async) Code exercise and review Interview with members of the engineering team Bar Raiser Interview Executive Interview with VP of Engineering Offer and Prior employment verification check Remote's Total Rewards philosophy is to ensure fair, unbiased compensation and fair equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries. At first glance our salary bands seem quite wide - here is some context. At Remote we have international operations and a globally distributed workforce. We use geo ranges to consider geographic pay differentials as part of our global compensation strategy to remain competitive in various markets while we hiring globally. Our salary ranges are determined by role, level and location, and our job titles may span more than one career level. The actual base pay for the successful candidate in this role is dependent upon many factors such as location, transferable or job-related skills, work experience, relevant training, business needs, and market demands. The base salary range may be subject to change. At Remote, we foster internal mobility as a key element of our culture of employee growth and development, supported by a compensation philosophy that guarantees pay equity and fairness. Therefore, all compensation changes associated with an internal move will be reviewed by the Total Rewards &amp; People Enablement team on a case by case basis. The annual salary range for this full-time position is $53,300—$119,850 USD Benefits Our full benefits &amp; perks are explained in our handbook at remote.com/r/benefits . As a global company, each country works differently, but some benefits/perks are for all Remoters: work from anywhere flexible paid time off flexible working hours (we are async ) 16 weeks paid parental leave mental health support services stock options learning budget home office budget &amp; IT equipment budget for local in-person social events or co-working spaces How you’ll plan your day (and life) We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at remote.com/async . You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your life-work balance is important and you will be encouraged to put yourself and your family first, and fit work around your needs. If that sounds like something you want, apply now! How to apply Please fill out the form below and upload your CV with a PDF format. We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote. If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead. Not only do we encourage folks from all ethnic groups, genders, sexuality, age, abilities, disability status and any other under-represented group to apply, but we prioritize a sense of belonging. We have 4 ERGs (Women, Disability, Queer, Minorities in Tech) who meet regularly with the People team. During your interviews and beyond, we ask &amp; encourage anybody who needs an accommodation to request one from their recruiter. We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to. At Remote, we embrace AI as a valuable tool while prioritizing human creativity and authenticity. We look forward to meeting candidates who balance innovation with genuine expertise and experience. To learn more about Remote's AI guidelines check see here . Please note we accept applications on an ongoing basis.",
+    "url": "https://jobicy.com/jobs/148118-senior-backend-engineer-elixir-2",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "EMEA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "elixir",
+      "react",
+      "vue",
+      "angular",
+      "nextjs",
+      "phoenix",
+      "postgresql",
+      "aws",
+      "docker",
+      "kubernetes",
+      "jenkins",
+      "gitlab"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-06-30T02:33:57+00:00",
+    "fetched_at": "2026-06-30T08:49:15.977Z",
+    "raw": {
+      "id": 148118,
+      "url": "https://jobicy.com/jobs/148118-senior-backend-engineer-elixir-2",
+      "jobSlug": "148118-senior-backend-engineer-elixir-2",
+      "jobTitle": "Senior Backend Engineer (Elixir)",
+      "companyName": "Remote",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/63a88d3a-221-1.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "EMEA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+      "jobDescription": "<div><h2><strong>About Remote</strong></h2>\n<div>Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find Remoters working from 6 different continents (Antarctica left to go!) and all of our positions are fully remote.<br />With Innovation as one of the core values, we have built Automation and AI capabilities into the requirements for every role.<br />We encourage every member of the Remote team to bring their talents, experiences and culture to the table to help us build the best-in-class HR platform.</div>\n<div> </div>\n<div>If you are energetic, curious, motivated and ambitious, be part of our world. Apply now and define the future of work!</div></div><h2>The position</h2><p>You'll be joining a team of engineers across Frontend, Backend, SRE and QA. We're organised into cross-functional development teams assigned to specific verticals.</p><p>This role is open for several teams, and we will define the exact team that you will be joining during the interview process based on the business needs and your preferences.</p><p>Regardless of the specific team, you will be working on building tools, APIs and integrations for one of our products.</p><p>Our backend is built with Elixir and Phoenix, with a Postgres database. We use React and Nextjs for our front-end. Gitlab is used as a version control tool, issue tracker and a CI/CD solution. Our applications are hosted on AWS. We fully rely on our CI for deployments and deploy multiple times per day.<br />You can also check out this <a href=\"https://www.youtube.com/watch?v=02r5xP2BgNk\" rel=\"nofollow ugc noopener\" target=\"_blank\">Keynote</a> to learn how we evolved Remote's architecture and organisation to support a fast pace. We explore domain boundaries and dependency management alongside worker separation. You will also hear about ownership driven observability.</p><h2><strong>What this job can offer you</strong></h2><ul>\n<li>Complex and meaningful challenges — solving them will enable people and businesses to live and operate in any country of the world.</li>\n<li>Opportunity to have a significant impact on the business — we are still very early in our journey as a company, and each change you make today is amplified by the company's growth.</li>\n<li>A lot of freedom to organize your work and life — you are not bound to daily standups, recurring meetings or other ceremonies.</li>\n<li>Competitive salary, stock options, flexible paid time off, and a set of perks and benefits.</li>\n<li>A supportive and kind work environment where we would like you to challenge the dogmas and pursue innovation!</li>\n<li>Strong team of experienced engineers who will support and facilitate your professional growth.</li>\n</ul><h2>What you bring</h2><p><strong>Must have (professional experience):</strong></p><ul>\n<li>Strong engineering fundamentals and a track record of shipping production systems that are secure, reliable, and scalable.</li>\n<li>Practical experience designing or adopting agentic/automation workflows (or comparable systems) and improving them through iteration.</li>\n<li>Ability to think in systems: define specs clearly, break down plans, instrument verification, and close the loop on quality.</li>\n<li>Postgres (or similar).</li>\n<li>CI/CD (GitLab, Github, Jenkins or similar).</li>\n<li><strong>Demonstrates strong automation and AI capabilities and AI fluency.</strong></li>\n</ul><p><strong>Nice to have</strong></p><ul>\n<li>Kubernetes</li>\n<li>Docker</li>\n<li>AWS</li>\n<li>Nextjs</li>\n<li>React/Vue/Angular</li>\n</ul><h2>Key Responsibilities</h2><ul>\n<li>Lead the development of major team-scoped projects, participate in cross-team initiatives for Remote's HR and Payroll products.</li>\n<li>Actively participate in product work in the team: provide feedback, suggest solutions to the problems. Use technical insights and expertise to suggest product improvements.</li>\n<li>Maintain good understanding of the team’s domain, both from product and engineering sides.</li>\n<li>Provide feedback on code reviews.</li>\n<li>Contribute to the shared codebase.</li>\n<li>Debug and solve technical and business issues.</li>\n<li>Participate in non-team activities, such as support rotations, hiring process, RFC discussions, etc.</li>\n<li>Mentor and provide guidance to other engineers.</li>\n<li>Investigate, propose and participate in implementation of improvements to our platform.</li>\n<li>Implement interfaces with performance, accessibility, and API design in mind.</li>\n<li>Redesign how engineering work ships with autonomous agents as the default execution layer</li>\n<li>Propose and operationalize agentic workflows end-to-end (spec → plan → execute → verify) to deliver outcomes faster.</li>\n<li>Build reusable agentic workflows and primitives in the codebase so teams can apply them repeatedly across domains.</li>\n<li>Use verification loops (tests, checks, evals, guardrails) to ensure results are correct, secure, reliable, and scalable.</li>\n</ul><h2>Practicals</h2><ul>\n<li><strong>Reporting line: </strong>Engineering Team Leader</li>\n<li><strong>Team:</strong> Engineering</li>\n<li><strong>Location</strong>: Anywhere in the World</li>\n<li><strong>Start date</strong>: As soon as possible</li>\n</ul><h2><strong>Application process</strong></h2><ol>\n<li>Interview with our recruiter</li>\n<li>Interview with an Engineering Leader</li>\n<li>(async) Code exercise and review</li>\n<li>Interview with members of the engineering team</li>\n<li>Bar Raiser Interview</li>\n<li>Executive Interview with VP of Engineering</li>\n<li>Offer and <a href=\"https://www.notion.so/96e108c037b8423cbd4c3f07a1f9b38b?pvs=21\" rel=\"nofollow ugc noopener\" target=\"_blank\">Prior employment verification check</a></li>\n</ol><div><div><div><p>Remote's <a href=\"https://www.notion.so/remotecom/people-Total-Rewards-1945bce8d3924ece9421ba8630f57b0c\" rel=\"nofollow ugc noopener\" target=\"_blank\">Total Rewards philosophy</a> is to ensure fair, unbiased compensation and fair equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.</p>\n<p>At first glance our salary bands seem quite wide - here is some context. At Remote we have international operations and a globally distributed workforce. We use geo ranges to consider geographic pay differentials as part of our global compensation strategy to remain competitive in various markets while we hiring globally.<br />Our salary ranges are determined by role, level and location, and our job titles may span more than one career level. The actual base pay for the successful candidate in this role is dependent upon many factors such as location, transferable or job-related skills, work experience, relevant training, business needs, and market demands. The base salary range may be subject to change.<br /><em>At Remote, we foster internal mobility as a key element of our culture of employee growth and development, supported by a compensation philosophy that guarantees pay equity and fairness. Therefore, all compensation changes associated with an internal move will be reviewed by the Total Rewards &amp; People Enablement team on a case by case basis.</em></p></div><div>The annual salary range for this full-time position is</div><div>$53,300—$119,850 USD</div></div></div><div><h2><strong>Benefits</strong></h2>\n<div>\n<div>Our full benefits &amp; perks are explained in our handbook at <a href=\"http://remote.com/r/benefits\" target=\"_blank\" rel=\"nofollow ugc noopener\">remote.com/r/benefits</a>. As a global company, each country works differently, but some benefits/perks are for all Remoters:</div>\n<ul>\n<li>work from anywhere</li>\n<li>flexible paid time off</li>\n<li>flexible working hours (we are <a href=\"https://remote.com/async\" target=\"_blank\" rel=\"nofollow ugc noopener\">async</a>)</li>\n<li>16 weeks paid parental leave</li>\n<li>mental health support services</li>\n<li>stock options</li>\n<li>learning budget</li>\n<li>home office budget &amp; IT equipment</li>\n<li>budget for local in-person social events or co-working spaces</li>\n</ul>\n</div>\n<h2><strong>How you’ll plan your day (and life)</strong></h2>\n<p>We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at <a href=\"https://remote.com/async\" target=\"_blank\" rel=\"nofollow ugc noopener\">remote.com/async</a>.</p>\n<p>You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your <strong>life-work balance</strong> is important and you will be encouraged to put yourself and your family first, and fit work around your needs.</p>\n<p>If that sounds like something you want, apply now!</p>\n<h2><strong>How to apply</strong></h2>\n<ol>\n<li>Please fill out the form below and upload your CV with a PDF format.</li>\n<li><strong>We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.</strong></li>\n<li>If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.</li>\n</ol>\n<p>Not only do we encourage folks from all ethnic groups, genders, sexuality, age, abilities, disability status and any other under-represented group to apply, but we prioritize a sense of belonging. We have 4 ERGs (Women, Disability, Queer, Minorities in Tech) who meet regularly with the People team. During your interviews and beyond, we ask &amp; encourage anybody who needs an accommodation to request one from their recruiter.</p>\n<p>We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.</p>\n<p>At Remote, we embrace AI as a valuable tool while prioritizing human creativity and authenticity. We look forward to meeting candidates who balance innovation with genuine expertise and experience. To learn more about Remote's AI guidelines check see <a href=\"https://www.notion.so/remotecom/Guidelines-on-using-AI-when-applying-for-a-job-at-Remote-11ccb4dadab4805f80a7c73b6567bd8f\" target=\"_blank\" rel=\"nofollow ugc noopener\">here</a>. <br /><em>Please note we accept applications on an ongoing basis. </em></p></div>",
+      "pubDate": "2026-06-30T02:33:57+00:00",
+      "salaryMin": 53300,
+      "salaryMax": 119850,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:143731",
     "platform": "jobicy",
     "external_id": "143731",
@@ -38,7 +247,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-29T22:46:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.418Z",
+    "fetched_at": "2026-06-30T08:49:15.977Z",
     "raw": {
       "id": 143731,
       "url": "https://jobicy.com/jobs/143731-full-stack-software-developer-node-js-react-bulgaria-based",
@@ -88,7 +297,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:56:44+00:00",
-    "fetched_at": "2026-06-30T01:54:24.419Z",
+    "fetched_at": "2026-06-30T08:49:15.979Z",
     "raw": {
       "id": 144806,
       "url": "https://jobicy.com/jobs/144806-sailpoint-iam-engineer",
@@ -138,7 +347,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:16:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.420Z",
+    "fetched_at": "2026-06-30T08:49:15.980Z",
     "raw": {
       "id": 144851,
       "url": "https://jobicy.com/jobs/144851-lead-backend-engineer",
@@ -190,7 +399,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:51:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.422Z",
+    "fetched_at": "2026-06-30T08:49:15.982Z",
     "raw": {
       "id": 144874,
       "url": "https://jobicy.com/jobs/144874-senior-ai-engineer-4",
@@ -237,7 +446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:11:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.423Z",
+    "fetched_at": "2026-06-30T08:49:15.983Z",
     "raw": {
       "id": 144970,
       "url": "https://jobicy.com/jobs/144970-sap-btp-integration-developer-m-f-d",
@@ -283,7 +492,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:21:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.424Z",
+    "fetched_at": "2026-06-30T08:49:15.984Z",
     "raw": {
       "id": 145005,
       "url": "https://jobicy.com/jobs/145005-software-engineer-ii-network-operations",
@@ -348,7 +557,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:10+00:00",
-    "fetched_at": "2026-06-30T01:54:24.426Z",
+    "fetched_at": "2026-06-30T08:49:15.986Z",
     "raw": {
       "id": 148065,
       "url": "https://jobicy.com/jobs/148065-senior-backend-engineer",
@@ -399,7 +608,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:08+00:00",
-    "fetched_at": "2026-06-30T01:54:24.427Z",
+    "fetched_at": "2026-06-30T08:49:15.988Z",
     "raw": {
       "id": 148064,
       "url": "https://jobicy.com/jobs/148064-engineering-team-leader-2",
@@ -452,7 +661,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-29T12:11:45+00:00",
-    "fetched_at": "2026-06-30T01:54:24.428Z",
+    "fetched_at": "2026-06-30T08:49:15.988Z",
     "raw": {
       "id": 148051,
       "url": "https://jobicy.com/jobs/148051-backend-php-developer",
@@ -501,7 +710,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T19:01:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.429Z",
+    "fetched_at": "2026-06-30T08:49:15.990Z",
     "raw": {
       "id": 144909,
       "url": "https://jobicy.com/jobs/144909-senior-android-engineer-2",
@@ -555,7 +764,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T18:36:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.432Z",
+    "fetched_at": "2026-06-30T08:49:15.992Z",
     "raw": {
       "id": 144932,
       "url": "https://jobicy.com/jobs/144932-senior-security-engineer-grc-automation",
@@ -607,7 +816,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-28T17:31:44+00:00",
-    "fetched_at": "2026-06-30T01:54:24.433Z",
+    "fetched_at": "2026-06-30T08:49:15.993Z",
     "raw": {
       "id": 145128,
       "url": "https://jobicy.com/jobs/145128-agentic-ai-developer",
@@ -665,7 +874,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:21+00:00",
-    "fetched_at": "2026-06-30T01:54:24.433Z",
+    "fetched_at": "2026-06-30T08:49:15.994Z",
     "raw": {
       "id": 147980,
       "url": "https://jobicy.com/jobs/147980-node-js-react-tech-lead-latam-remote",
@@ -717,7 +926,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:11+00:00",
-    "fetched_at": "2026-06-30T01:54:24.433Z",
+    "fetched_at": "2026-06-30T08:49:15.994Z",
     "raw": {
       "id": 147975,
       "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
@@ -772,7 +981,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:09+00:00",
-    "fetched_at": "2026-06-30T01:54:24.434Z",
+    "fetched_at": "2026-06-30T08:49:15.994Z",
     "raw": {
       "id": 147974,
       "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
@@ -815,7 +1024,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T21:21:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.435Z",
+    "fetched_at": "2026-06-30T08:49:15.996Z",
     "raw": {
       "id": 147705,
       "url": "https://jobicy.com/jobs/147705-cpq-architect",
@@ -858,7 +1067,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T19:11:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.436Z",
+    "fetched_at": "2026-06-30T08:49:15.997Z",
     "raw": {
       "id": 142065,
       "url": "https://jobicy.com/jobs/142065-senior-model-based-system-engineer",
@@ -907,7 +1116,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:36:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.437Z",
+    "fetched_at": "2026-06-30T08:49:15.997Z",
     "raw": {
       "id": 142109,
       "url": "https://jobicy.com/jobs/142109-senior-hpc-performance-engineer",
@@ -958,7 +1167,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:31:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.437Z",
+    "fetched_at": "2026-06-30T08:49:15.998Z",
     "raw": {
       "id": 142111,
       "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
@@ -1010,7 +1219,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T17:21:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.438Z",
+    "fetched_at": "2026-06-30T08:49:15.999Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -1063,7 +1272,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:46:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.440Z",
+    "fetched_at": "2026-06-30T08:49:16.000Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -1113,7 +1322,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:21:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.440Z",
+    "fetched_at": "2026-06-30T08:49:16.001Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -1156,7 +1365,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T14:11:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.441Z",
+    "fetched_at": "2026-06-30T08:49:16.002Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -1214,7 +1423,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:56:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.443Z",
+    "fetched_at": "2026-06-30T08:49:16.003Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -1261,7 +1470,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:11:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.443Z",
+    "fetched_at": "2026-06-30T08:49:16.004Z",
     "raw": {
       "id": 142565,
       "url": "https://jobicy.com/jobs/142565-technical-principal",
@@ -1304,7 +1513,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T09:11:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.445Z",
+    "fetched_at": "2026-06-30T08:49:16.006Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -1360,7 +1569,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:41:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.446Z",
+    "fetched_at": "2026-06-30T08:49:16.007Z",
     "raw": {
       "id": 142760,
       "url": "https://jobicy.com/jobs/142760-software-engineer-video",
@@ -1414,7 +1623,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:31:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.448Z",
+    "fetched_at": "2026-06-30T08:49:16.009Z",
     "raw": {
       "id": 142770,
       "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
@@ -1461,7 +1670,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:36:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.449Z",
+    "fetched_at": "2026-06-30T08:49:16.010Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -1519,7 +1728,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:31:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.451Z",
+    "fetched_at": "2026-06-30T08:49:16.012Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -1566,7 +1775,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:45+00:00",
-    "fetched_at": "2026-06-30T01:54:24.452Z",
+    "fetched_at": "2026-06-30T08:49:16.013Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -1609,7 +1818,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.453Z",
+    "fetched_at": "2026-06-30T08:49:16.014Z",
     "raw": {
       "id": 143733,
       "url": "https://jobicy.com/jobs/143733-senior-staff-engineer",
@@ -1654,7 +1863,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:26+00:00",
-    "fetched_at": "2026-06-30T01:54:24.454Z",
+    "fetched_at": "2026-06-30T08:49:16.015Z",
     "raw": {
       "id": 147871,
       "url": "https://jobicy.com/jobs/147871-senior-associate-automation-engineer",
@@ -1703,7 +1912,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:23+00:00",
-    "fetched_at": "2026-06-30T01:54:24.455Z",
+    "fetched_at": "2026-06-30T08:49:16.017Z",
     "raw": {
       "id": 147869,
       "url": "https://jobicy.com/jobs/147869-associate-automation-engineer",
@@ -1752,7 +1961,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:11+00:00",
-    "fetched_at": "2026-06-30T01:54:24.456Z",
+    "fetched_at": "2026-06-30T08:49:16.018Z",
     "raw": {
       "id": 147862,
       "url": "https://jobicy.com/jobs/147862-staff-software-engineer-media-experiences",
@@ -1799,7 +2008,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:35:52+00:00",
-    "fetched_at": "2026-06-30T01:54:24.457Z",
+    "fetched_at": "2026-06-30T08:49:16.019Z",
     "raw": {
       "id": 147801,
       "url": "https://jobicy.com/jobs/147801-engineering-senior-specialist-customer-application-engineering-m-f-d",
@@ -1846,7 +2055,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:30:17+00:00",
-    "fetched_at": "2026-06-30T01:54:24.458Z",
+    "fetched_at": "2026-06-30T08:49:16.020Z",
     "raw": {
       "id": 147796,
       "url": "https://jobicy.com/jobs/147796-model-based-systems-engineer",
@@ -1905,7 +2114,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.462Z",
+    "fetched_at": "2026-06-30T08:49:16.024Z",
     "raw": {
       "id": 142467,
       "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
@@ -1964,7 +2173,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.465Z",
+    "fetched_at": "2026-06-30T08:49:16.028Z",
     "raw": {
       "id": 142468,
       "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
@@ -2019,7 +2228,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:01:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.466Z",
+    "fetched_at": "2026-06-30T08:49:16.029Z",
     "raw": {
       "id": 142478,
       "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
@@ -2062,7 +2271,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T16:16:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.467Z",
+    "fetched_at": "2026-06-30T08:49:16.030Z",
     "raw": {
       "id": 142515,
       "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
@@ -2114,7 +2323,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:51:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.468Z",
+    "fetched_at": "2026-06-30T08:49:16.031Z",
     "raw": {
       "id": 142527,
       "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
@@ -2166,7 +2375,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:36:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.470Z",
+    "fetched_at": "2026-06-30T08:49:16.033Z",
     "raw": {
       "id": 142566,
       "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
@@ -2217,7 +2426,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T14:41:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.471Z",
+    "fetched_at": "2026-06-30T08:49:16.034Z",
     "raw": {
       "id": 142662,
       "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
@@ -2267,7 +2476,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T12:46:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.472Z",
+    "fetched_at": "2026-06-30T08:49:16.035Z",
     "raw": {
       "id": 142756,
       "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
@@ -2320,7 +2529,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T12:06:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.472Z",
+    "fetched_at": "2026-06-30T08:49:16.036Z",
     "raw": {
       "id": 142967,
       "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
@@ -2371,7 +2580,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:13:26+00:00",
-    "fetched_at": "2026-06-30T01:54:24.473Z",
+    "fetched_at": "2026-06-30T08:49:16.037Z",
     "raw": {
       "id": 147758,
       "url": "https://jobicy.com/jobs/147758-senior-software-engineer-java",
@@ -2422,7 +2631,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T11:08:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.474Z",
+    "fetched_at": "2026-06-30T08:49:16.038Z",
     "raw": {
       "id": 147754,
       "url": "https://jobicy.com/jobs/147754-senior-python-data-scraping-engineer-freelance",
@@ -2476,7 +2685,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:08:30+00:00",
-    "fetched_at": "2026-06-30T01:54:24.475Z",
+    "fetched_at": "2026-06-30T08:49:16.039Z",
     "raw": {
       "id": 147747,
       "url": "https://jobicy.com/jobs/147747-senior-software-engineer",
@@ -2529,7 +2738,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-25T11:08:25+00:00",
-    "fetched_at": "2026-06-30T01:54:24.476Z",
+    "fetched_at": "2026-06-30T08:49:16.040Z",
     "raw": {
       "id": 147744,
       "url": "https://jobicy.com/jobs/147744-senior-software-quality-engineer-mexico-remote",
@@ -2583,7 +2792,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:21:45+00:00",
-    "fetched_at": "2026-06-30T01:54:24.477Z",
+    "fetched_at": "2026-06-30T08:49:16.041Z",
     "raw": {
       "id": 143127,
       "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
@@ -2640,7 +2849,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T10:06:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.478Z",
+    "fetched_at": "2026-06-30T08:49:16.042Z",
     "raw": {
       "id": 143143,
       "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
@@ -2683,7 +2892,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:45+00:00",
-    "fetched_at": "2026-06-30T01:54:24.479Z",
+    "fetched_at": "2026-06-30T08:49:16.043Z",
     "raw": {
       "id": 143147,
       "url": "https://jobicy.com/jobs/143147-security-architect-ii",
@@ -2726,7 +2935,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:44+00:00",
-    "fetched_at": "2026-06-30T01:54:24.481Z",
+    "fetched_at": "2026-06-30T08:49:16.045Z",
     "raw": {
       "id": 143148,
       "url": "https://jobicy.com/jobs/143148-sotif-expert-all-genders",
@@ -2775,7 +2984,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T09:46:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.482Z",
+    "fetched_at": "2026-06-30T08:49:16.047Z",
     "raw": {
       "id": 143220,
       "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
@@ -2827,7 +3036,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T09:41:44+00:00",
-    "fetched_at": "2026-06-30T01:54:24.484Z",
+    "fetched_at": "2026-06-30T08:49:16.048Z",
     "raw": {
       "id": 143283,
       "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
@@ -2876,7 +3085,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:56:45+00:00",
-    "fetched_at": "2026-06-30T01:54:24.484Z",
+    "fetched_at": "2026-06-30T08:49:16.049Z",
     "raw": {
       "id": 143438,
       "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
@@ -2919,7 +3128,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:56:44+00:00",
-    "fetched_at": "2026-06-30T01:54:24.486Z",
+    "fetched_at": "2026-06-30T08:49:16.051Z",
     "raw": {
       "id": 143441,
       "url": "https://jobicy.com/jobs/143441-quality-engineer",
@@ -2972,7 +3181,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:41:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.487Z",
+    "fetched_at": "2026-06-30T08:49:16.052Z",
     "raw": {
       "id": 143481,
       "url": "https://jobicy.com/jobs/143481-principal-engineer",
@@ -3015,7 +3224,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:46+00:00",
-    "fetched_at": "2026-06-30T01:54:24.488Z",
+    "fetched_at": "2026-06-30T08:49:16.053Z",
     "raw": {
       "id": 143574,
       "url": "https://jobicy.com/jobs/143574-senior-solution-architect-ai-infrastructure",
@@ -3065,7 +3274,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:45+00:00",
-    "fetched_at": "2026-06-30T01:54:24.489Z",
+    "fetched_at": "2026-06-30T08:49:16.054Z",
     "raw": {
       "id": 143575,
       "url": "https://jobicy.com/jobs/143575-solutions-architect-networking",
@@ -3112,7 +3321,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:43+00:00",
-    "fetched_at": "2026-06-30T01:54:24.490Z",
+    "fetched_at": "2026-06-30T08:49:16.055Z",
     "raw": {
       "id": 143573,
       "url": "https://jobicy.com/jobs/143573-senior-solutions-architect-networking-public-sector",
@@ -3159,7 +3368,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T07:56:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.491Z",
+    "fetched_at": "2026-06-30T08:49:16.056Z",
     "raw": {
       "id": 143616,
       "url": "https://jobicy.com/jobs/143616-staff-design-quality-assurance-engineer",
@@ -3208,7 +3417,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T07:51:50+00:00",
-    "fetched_at": "2026-06-30T01:54:24.492Z",
+    "fetched_at": "2026-06-30T08:49:16.057Z",
     "raw": {
       "id": 143676,
       "url": "https://jobicy.com/jobs/143676-software-developer-iii",
@@ -3255,7 +3464,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T06:05:40+00:00",
-    "fetched_at": "2026-06-30T01:54:24.493Z",
+    "fetched_at": "2026-06-30T08:49:16.058Z",
     "raw": {
       "id": 147723,
       "url": "https://jobicy.com/jobs/147723-financial-software-engineer",
@@ -3316,7 +3525,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T04:46:44+00:00",
-    "fetched_at": "2026-06-30T01:54:24.495Z",
+    "fetched_at": "2026-06-30T08:49:16.060Z",
     "raw": {
       "id": 144689,
       "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
@@ -3365,7 +3574,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T04:36:46+00:00",
-    "fetched_at": "2026-06-30T01:54:24.496Z",
+    "fetched_at": "2026-06-30T08:49:16.061Z",
     "raw": {
       "id": 144716,
       "url": "https://jobicy.com/jobs/144716-enterprise-solutions-engineer-germany",
@@ -3412,7 +3621,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T03:27:06+00:00",
-    "fetched_at": "2026-06-30T01:54:24.498Z",
+    "fetched_at": "2026-06-30T08:49:16.063Z",
     "raw": {
       "id": 147700,
       "url": "https://jobicy.com/jobs/147700-principal-software-architect",
@@ -3471,7 +3680,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T03:22:04+00:00",
-    "fetched_at": "2026-06-30T01:54:24.500Z",
+    "fetched_at": "2026-06-30T08:49:16.064Z",
     "raw": {
       "id": 147692,
       "url": "https://jobicy.com/jobs/147692-voice-backend-software-engineer-node-js-and-java-remote-us",
@@ -3528,7 +3737,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T12:32:48+00:00",
-    "fetched_at": "2026-06-30T01:54:24.501Z",
+    "fetched_at": "2026-06-30T08:49:16.065Z",
     "raw": {
       "id": 147648,
       "url": "https://jobicy.com/jobs/147648-senior-fullstack-engineer-java-react",
@@ -3585,7 +3794,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T12:32:47+00:00",
-    "fetched_at": "2026-06-30T01:54:24.502Z",
+    "fetched_at": "2026-06-30T08:49:16.067Z",
     "raw": {
       "id": 147647,
       "url": "https://jobicy.com/jobs/147647-ai-engineer-5",
@@ -3634,7 +3843,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:32+00:00",
-    "fetched_at": "2026-06-30T01:54:24.503Z",
+    "fetched_at": "2026-06-30T08:49:16.068Z",
     "raw": {
       "id": 147608,
       "url": "https://jobicy.com/jobs/147608-software-development-engineer-agentic-workspaces",
@@ -3690,7 +3899,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:30+00:00",
-    "fetched_at": "2026-06-30T01:54:24.505Z",
+    "fetched_at": "2026-06-30T08:49:16.070Z",
     "raw": {
       "id": 147607,
       "url": "https://jobicy.com/jobs/147607-principal-mobile-engineer-android",
@@ -3737,7 +3946,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:23+00:00",
-    "fetched_at": "2026-06-30T01:54:24.506Z",
+    "fetched_at": "2026-06-30T08:49:16.072Z",
     "raw": {
       "id": 147603,
       "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
@@ -3790,7 +3999,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:21+00:00",
-    "fetched_at": "2026-06-30T01:54:24.508Z",
+    "fetched_at": "2026-06-30T08:49:16.073Z",
     "raw": {
       "id": 147602,
       "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
@@ -3851,7 +4060,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T03:03:06+00:00",
-    "fetched_at": "2026-06-30T01:54:24.509Z",
+    "fetched_at": "2026-06-30T08:49:16.075Z",
     "raw": {
       "id": 147582,
       "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
@@ -3903,7 +4112,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T03:03:04+00:00",
-    "fetched_at": "2026-06-30T01:54:24.510Z",
+    "fetched_at": "2026-06-30T08:49:16.076Z",
     "raw": {
       "id": 147581,
       "url": "https://jobicy.com/jobs/147581-forward-deployed-engineer-3",
@@ -3952,7 +4161,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T03:03:02+00:00",
-    "fetched_at": "2026-06-30T01:54:24.512Z",
+    "fetched_at": "2026-06-30T08:49:16.078Z",
     "raw": {
       "id": 147580,
       "url": "https://jobicy.com/jobs/147580-staff-engineer-builder-enablement",
@@ -4001,7 +4210,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T23:26:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.513Z",
+    "fetched_at": "2026-06-30T08:49:16.079Z",
     "raw": {
       "id": 144481,
       "url": "https://jobicy.com/jobs/144481-solutions-architect-scaled-operations-ai-accelerator-team",
@@ -4044,7 +4253,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T19:05:28+00:00",
-    "fetched_at": "2026-06-30T01:54:24.514Z",
+    "fetched_at": "2026-06-30T08:49:16.081Z",
     "raw": {
       "id": 147559,
       "url": "https://jobicy.com/jobs/147559-manufacturing-quality-engineer",
@@ -4089,7 +4298,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T19:05:25+00:00",
-    "fetched_at": "2026-06-30T01:54:24.515Z",
+    "fetched_at": "2026-06-30T08:49:16.081Z",
     "raw": {
       "id": 147557,
       "url": "https://jobicy.com/jobs/147557-data-integrator",
@@ -4137,7 +4346,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:56:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.515Z",
+    "fetched_at": "2026-06-30T08:49:16.082Z",
     "raw": {
       "id": 144461,
       "url": "https://jobicy.com/jobs/144461-software-engineer-7",
@@ -4180,7 +4389,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:41:44+00:00",
-    "fetched_at": "2026-06-30T01:54:24.516Z",
+    "fetched_at": "2026-06-30T08:49:16.083Z",
     "raw": {
       "id": 144492,
       "url": "https://jobicy.com/jobs/144492-commissioning-manager-all-genders-for-hvdc-systems",
@@ -4227,7 +4436,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:31:42+00:00",
-    "fetched_at": "2026-06-30T01:54:24.517Z",
+    "fetched_at": "2026-06-30T08:49:16.084Z",
     "raw": {
       "id": 144518,
       "url": "https://jobicy.com/jobs/144518-principal-software-engineer-postgres",
@@ -4277,7 +4486,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:57:39+00:00",
-    "fetched_at": "2026-06-30T01:54:24.519Z",
+    "fetched_at": "2026-06-30T08:49:16.086Z",
     "raw": {
       "id": 147511,
       "url": "https://jobicy.com/jobs/147511-senior-quality-engineer",
@@ -4331,7 +4540,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:46+00:00",
-    "fetched_at": "2026-06-30T01:54:24.520Z",
+    "fetched_at": "2026-06-30T08:49:16.089Z",
     "raw": {
       "id": 147496,
       "url": "https://jobicy.com/jobs/147496-senior-frontend-software-engineer-home-experience",
@@ -4383,7 +4592,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:34+00:00",
-    "fetched_at": "2026-06-30T01:54:24.521Z",
+    "fetched_at": "2026-06-30T08:49:16.090Z",
     "raw": {
       "id": 147489,
       "url": "https://jobicy.com/jobs/147489-senior-machine-learning-systems-engineer-ads-ml-experience-platform",
@@ -4433,7 +4642,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:30+00:00",
-    "fetched_at": "2026-06-30T01:54:24.522Z",
+    "fetched_at": "2026-06-30T08:49:16.091Z",
     "raw": {
       "id": 147487,
       "url": "https://jobicy.com/jobs/147487-engineering-manager-ads-ml-efficiency",
@@ -4489,7 +4698,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T03:31:44+00:00",
-    "fetched_at": "2026-06-30T01:54:24.523Z",
+    "fetched_at": "2026-06-30T08:49:16.092Z",
     "raw": {
       "id": 144154,
       "url": "https://jobicy.com/jobs/144154-senior-android-sdk-engineer",
@@ -4545,7 +4754,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:56:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.524Z",
+    "fetched_at": "2026-06-30T08:49:16.094Z",
     "raw": {
       "id": 144467,
       "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
@@ -4601,7 +4810,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:51:41+00:00",
-    "fetched_at": "2026-06-30T01:54:24.525Z",
+    "fetched_at": "2026-06-30T08:49:16.094Z",
     "raw": {
       "id": 144474,
       "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
@@ -4646,7 +4855,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:46:47+00:00",
-    "fetched_at": "2026-06-30T01:54:24.526Z",
+    "fetched_at": "2026-06-30T08:49:16.095Z",
     "raw": {
       "id": 144479,
       "url": "https://jobicy.com/jobs/144479-ai-systems-engineering-subject-matter-expert",
@@ -4693,7 +4902,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T02:31:46+00:00",
-    "fetched_at": "2026-06-30T01:54:24.527Z",
+    "fetched_at": "2026-06-30T08:49:16.096Z",
     "raw": {
       "id": 144513,
       "url": "https://jobicy.com/jobs/144513-qa-automation-engineer-pro",
@@ -4740,7 +4949,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-22T13:21:48+00:00",
-    "fetched_at": "2026-06-30T01:54:24.528Z",
+    "fetched_at": "2026-06-30T08:49:16.097Z",
     "raw": {
       "id": 147410,
       "url": "https://jobicy.com/jobs/147410-staff-backend-engineer-tech-lead-manager",
@@ -4790,7 +4999,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-22T13:21:45+00:00",
-    "fetched_at": "2026-06-30T01:54:24.528Z",
+    "fetched_at": "2026-06-30T08:49:16.098Z",
     "raw": {
       "id": 147408,
       "url": "https://jobicy.com/jobs/147408-senior-backend-software-engineer-observability",
@@ -4840,7 +5049,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-22T13:21:30+00:00",
-    "fetched_at": "2026-06-30T01:54:24.529Z",
+    "fetched_at": "2026-06-30T08:49:16.099Z",
     "raw": {
       "id": 147399,
       "url": "https://jobicy.com/jobs/147399-senior-qa-automation-engineer-bdd",
@@ -4859,222 +5068,6 @@
       "jobExcerpt": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
       "jobDescription": "<div>\n<p><strong>The company and our mission:</strong></p>\n<p>Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact.</p>\n<p>Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud native engineering. You will work on meaningful projects that accelerate the adoption of advanced technologies, from strategy and discovery through to full product delivery, helping turn complex challenges into measurable outcomes.</p>\n<p>With engineering hubs across EMEA and LATAM, and long term partnerships in financial services, healthcare and life sciences, and energy and climate, we offer opportunities to work on projects that truly matter. Here, you will not just build technology, you will drive business impact and grow your career alongside industry leaders.</p>\n<p>We are looking for a <strong>Senior QA Engineer</strong> to work on a project in the green energy industry.</p>\n<p><strong>The project:</strong></p>\n<p>Our teammates are talented people that come from a variety of backgrounds. We’re committed to building an inclusive culture based on trust and innovation.</p>\n<p>You will be part of a distributed, multi-functional Agile team developing new technologies to solve real business problems, with responsibility for managing and resolving defects collaboratively.</p>\n<p>We are looking for someone with good communication skills, ideally with experience making decisions, being proactive, used to building software from scratch, and with excellent attention to detail.</p>\n<p><strong>What you will do:</strong></p>\n<ul>\n<li>Collaborate with development and product teams to establish test approaches.</li>\n<li>Design and implement test plans and cases.</li>\n<li>Develop and execute manual and automated tests such as API, UI, Regression, functional and non functional tests.</li>\n<li>Identify defects and collaborate with the team to resolve them.</li>\n<li>Integrate tests into the CI/CD pipeline to ensure reliable and high-quality software releases.</li>\n<li>Plan and lead User Acceptance Testing with internal and external users.</li>\n<li>Prepare, set up and maintain test data alongside the ability to setup relevant tools to support test execution.</li>\n<li>Contribute to team initiatives to improve the overall QA process, such as identifying gaps or inefficiencies in automation workflows and manual testing processes and suggesting improvements.</li>\n</ul>\n<p><strong>What you will bring:</strong></p>\n<ul>\n<li>2-5 years of software development or QA automation</li>\n<li>Experience using Behaviour Driven Development (BDD).</li>\n<li>Experience maintaining and executing manual and automated test harnesses.</li>\n<li>Experience testing REST APIs.</li>\n<li>Experience with Playwright, Jest or other best in class testing frameworks.</li>\n<li>Experience with TypeScript, JavaScript, Python, Cucumber, HTTP request/Assert libraries.</li>\n<li>Experience with CLI tools such as GIT.</li>\n<li>Excellent verbal and written communication in English.</li>\n<li>Excellent attention to detail.</li>\n</ul>\n<p><strong>What we offer:</strong></p>\n<ul>\n<li><strong>100%</strong> <strong>Remote Work</strong></li>\n<li><strong>WFH allowance:</strong> Monthly payment as financial support for remote working.</li>\n<li><strong>Career Growth: We have established a career development program accessible for all employees with a 360º feedback that will help us to guide you in your career progression.</strong></li>\n<li><strong>Training:</strong> For Tech training at Zartis, you have time allocated during the week at your disposal. You can request from a variety of options, such as online courses (from Pluralsight and Educative.io, for example), English classes, books, conferences, and events.</li>\n<li><strong>Mentoring Program:</strong> You can become a mentor in Zartis or you can receive mentorship, or both.</li>\n<li><strong>Zartis Wellbeing Hub (Kara Connect)</strong>: A platform that provides sessions with a range of specialists, including mental health professionals, nutritionists, physiotherapists, fitness coaches, and webinars with such professionals as well.</li>\n<li><strong>Multicultural working environment: </strong>We organize tech events, webinars, parties, and activities to do online team-building games and contests.</li>\n</ul>\n</div>",
       "pubDate": "2026-06-22T13:21:30+00:00"
-    }
-  },
-  {
-    "id": "jobicy:144376",
-    "platform": "jobicy",
-    "external_id": "144376",
-    "title": "Machine Learning Engineer",
-    "company": "ManTech",
-    "description": "General information Requisition # R67616 Locations USA-Remote Work Posting Date 05/19/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Elevate your career with MANTECH International Corporation! Join a dynamic team dedicated to national security through cutting-edge technology. Since 1968, MANTECH has led in delivering advanced solutions to government intelligence, the Department of Defense, and Federal Civilian sectors. Dive into innovation in Digital Transformation, Cybersecurity, IT, Data Analytics and Software Development. Your journey to impactful work and rapid growth starts now—be extraordinary at MANTECH! ***This is for a future opportunity*** MANTECH seeks a motivated, career and customer-oriented Machine Learning Engineer to join our team. The Machine Learning Engineer will leverage their strong technical background and knowledge to support highly scalable machine learning-based applications, including both pipelines and services, processing large volumes of data. This role involves collaborating with Data Scientists to design tools and train models using data from across the enterprise to support mission and business functions. Responsibilities include but are not limited to: Collaborate with cross-functional teams—including data scientists, engineers, and architects—to build machine learning models, training tools, and simulation environments that support business functions. Implement the full MLOps lifecycle to deploy, operationalize, scale, and manage automated machine learning models and analytical solutions. Develop and test ML applications according to requirements, running targeted experiments to optimize overall system performance. Train and embed machine learning models into applications using programming languages (Python, Java, R) and core libraries (TensorFlow, Keras, Scikit-learn). Explore and visualize data to uncover key insights and identify specific factors that impact model accuracy and performance. Manage and deploy cloud-based ML services across major cloud computing environments, including AWS, Azure, or Google Cloud Platform (GCP). Follow Agile methodologies to deliver production-ready, highly testable code in small, efficient, and continuous iterations. Minimum Qualifications: Master’s degree in Applied Mathematics, Statistics, Computer Science, or related fields. Verifiable work experience defining and implementing data pipelines and machine learning algorithms. Proficiency in Agile Development and Git Operations. Experience creating, maintaining, and communicating complex technical documentation for machine learning systems. Preferred Qualifications: Experience with the Sponsor’s primary cyber risk and compliance automation tools. Clearance Requirements: An active Secret clearance is required. Physical Requirements: Must be able to remain in a stationary position 50%. Needs to occasionally move about inside the office to access file cabinets, office machinery, etc. Frequently communicates with co-workers, management, and customers, which may involve delivering presentations. Must be able to exchange accurate information in these situations. The projected compensation range for this position is $128,800.00-$214,500.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation. If you need a reasonable accommodation to apply for a position with MANTECH, please email us at careers@mantech.com and provide your name and contact information.",
-    "url": "https://jobicy.com/jobs/144376-machine-learning-engineer-3",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": null,
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "java",
-      "aws",
-      "gcp",
-      "azure",
-      "tensorflow",
-      "machine-learning",
-      "keras",
-      "scikit",
-      "mlops",
-      "git"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-22T01:26:50+00:00",
-    "fetched_at": "2026-06-30T01:54:24.530Z",
-    "raw": {
-      "id": 144376,
-      "url": "https://jobicy.com/jobs/144376-machine-learning-engineer-3",
-      "jobSlug": "144376-machine-learning-engineer-3",
-      "jobTitle": "Machine Learning Engineer",
-      "companyName": "ManTech",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/265c7fe8-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Any",
-      "jobExcerpt": "General information Requisition # R67616 Locations USA-Remote Work Posting Date 05/19/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Elevate your career with MANTECH International Corporation! Join a dynamic team dedicated to national security through cutting-edge technology. Since 1968, MANTECH has led in delivering advanced solutions to government&hellip;",
-      "jobDescription": "<h2> General information </h2><p> Requisition # R67616 Locations USA-Remote Work Posting Date 05/19/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time </p><h2> Description &amp; Requirements </h2><p> Elevate your career with MANTECH International Corporation! Join a dynamic team dedicated to national security through cutting-edge technology. Since 1968, MANTECH has led in delivering advanced solutions to government intelligence, the Department of Defense, and Federal Civilian sectors. Dive into innovation in Digital Transformation, Cybersecurity, IT, Data Analytics and Software Development. Your journey to impactful work and rapid growth starts now—be extraordinary at MANTECH!<br /><em>***This is for a future opportunity***</em></p><p><b>MANTECH</b> seeks a motivated, career and customer-oriented <b>Machine Learning Engineer</b> to join our team.</p><p>The Machine Learning Engineer will leverage their strong technical background and knowledge to support highly scalable machine learning-based applications, including both pipelines and services, processing large volumes of data. This role involves collaborating with Data Scientists to design tools and train models using data from across the enterprise to support mission and business functions.</p><p><b>Responsibilities include but are not limited to:</b></p><ul><li><p>Collaborate with cross-functional teams—including data scientists, engineers, and architects—to build machine learning models, training tools, and simulation environments that support business functions.</p></li><li><p>Implement the full MLOps lifecycle to deploy, operationalize, scale, and manage automated machine learning models and analytical solutions.</p></li><li><p>Develop and test ML applications according to requirements, running targeted experiments to optimize overall system performance.</p></li><li><p>Train and embed machine learning models into applications using programming languages (Python, Java, R) and core libraries (TensorFlow, Keras, Scikit-learn).</p></li><li><p>Explore and visualize data to uncover key insights and identify specific factors that impact model accuracy and performance.</p></li><li><p>Manage and deploy cloud-based ML services across major cloud computing environments, including AWS, Azure, or Google Cloud Platform (GCP).</p></li><li><p>Follow Agile methodologies to deliver production-ready, highly testable code in small, efficient, and continuous iterations.</p></li></ul><p><b>Minimum Qualifications:</b></p><ul><li><p>Master’s degree in Applied Mathematics, Statistics, Computer Science, or related fields.</p></li><li><p>Verifiable work experience defining and implementing data pipelines and machine learning algorithms.</p></li><li><p>Proficiency in Agile Development and Git Operations.</p></li><li><p>Experience creating, maintaining, and communicating complex technical documentation for machine learning systems.</p></li></ul><p><b>Preferred Qualifications:</b></p><ul><li><p>Experience with the Sponsor’s primary cyber risk and compliance automation tools.</p></li></ul><p><b>Clearance Requirements:</b></p><ul><li><p>An active Secret clearance is required.</p></li></ul><p><b>Physical Requirements:</b></p><ul><li><p>Must be able to remain in a stationary position 50%.</p></li><li><p>Needs to occasionally move about inside the office to access file cabinets, office machinery, etc.</p></li><li><p>Frequently communicates with co-workers, management, and customers, which may involve delivering presentations.</p></li><li><p>Must be able to exchange accurate information in these situations.</p></li></ul><p>\nThe projected compensation range for this position is $128,800.00-$214,500.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. <br>\n<em>MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.<br />If you need a reasonable accommodation to apply for a position with MANTECH, please email us at <a href=\"mailto:careers@mantech.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers@mantech.com</a> and provide your name and contact information.</em></p>",
-      "pubDate": "2026-06-22T01:26:50+00:00",
-      "salaryMin": 128800,
-      "salaryMax": 214500,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:147339",
-    "platform": "jobicy",
-    "external_id": "147339",
-    "title": "IT Engineer",
-    "company": "Updater",
-    "description": "View All Jobs About the Role Updater is hiring an IT Engineer for our IT team. This role will serve as the first point of contact at the Updater Helpdesk, lead our IT knowledge management program — building documentation for both human readers and the AI assistants our employees rely on every day — and own Tier 2 systems administration across our SaaS stack. The role reports to the Director, IT &amp; Business Process Transformation. This role is well-suited for an IT professional who takes pride in turning a messy troubleshooting session into a clean, reusable document, treats every helpdesk ticket as a relationship rather than a chore, and is genuinely curious about how AI tools can make IT support better — for the employees we serve and for the people doing the work. Key Responsibilities Helpdesk Operations Serve as the first point of contact for all IT support requests at Updater, triage Freshservice tickets, and resolve Tier 1/2 issues with clear, friendly communication. Provide white-glove end-user support across macOS and Windows endpoints, Iru (MDM), , Microsoft Intune, Okta SSO, Google Workspace, Slack Enterprise, Zoom, and the Atlassian suite. Own the day-to-day ticket queue: response and resolution SLAs, accurate categorization, escalation to Tier 3/4 teammates as needed, and clean ticket hygiene to keep the Helpdesk auditable. Support employee onboarding, offboarding, and hardware lifecycle in coordination with the Senior IT Engineer (Device Management). Surface recurring issues and friction points back to the IT team so they can be solved at the root rather than re-resolved one ticket at a time. IT Knowledge Management Lead Updater’s IT knowledge management program — establishing the standard for how IT documents what it knows and driving adoption across the team. Take ownership of our Confluence and Helpdesk knowledge bases: runbooks, troubleshooting guides, SaaS administration procedures, onboarding/offboarding playbooks, and end-user-facing help articles. Author documentation that is structured, consistent, and machine-readable, so that both employees and the AI assistants they use (Claude, ChatGPT, Copilot, Gemini) can reliably retrieve and apply it. Partner with the Director, IT &amp; Business Process Transformation, on the AI at Updater Confluence space and the AI Education Resource Hub, ensuring that IT-authored content serves as a canonical reference for the company. Treat every ticket and every system change as a documentation opportunity — capture what was learned, publish it, and reduce the long-tail rate of repeated questions. Maintain the freshness of existing knowledge by auditing, retiring, and rewriting content continuously as the IT environment evolves. Tier 2 Systems Administration Grow into hands-on administration of Updater’s SaaS stack, including Okta (group, rule, and policy management), Google Workspace, Slack Enterprise Grid, Atlassian (Jira and Confluence), Zoom, Iru, Microsoft Intune and Freshservice. Execute routine SaaS administration tasks — provisioning, de-provisioning, license management, permission changes, and lifecycle hygiene — with accuracy and a documentation-first habit. Support change management and access reviews in partnership with the IT Systems Architect and the Security team, contributing to Updater’s ISO 42001 certification posture. Assist with rollout, configuration, and ongoing administration of new SaaS tools as Updater’s environment evolves. Requirements Experience 1–3 years of IT support, helpdesk, or end-user technology experience in a professional environment (internships, MSP, or college IT roles count). Working familiarity with end-user support across macOS and Windows. Hands-on exposure to at least some of: an identity provider (Okta or equivalent), Google Workspace administration, Slack, Atlassian (Jira / Confluence), and an ITSM platform (Freshservice, ServiceNow, Zendesk, or similar). Demonstrated ability to write clear technical documentation — work samples, internal wiki contributions, or published help articles. Comfort using AI assistants (Claude, ChatGPT, Copilot, Gemini, or similar) as part of day-to-day work. Excellent communication skills, verbal and written, with the ability to translate technical concepts for non-technical audiences. Familiarity or experience with AI governance frameworks, AI red-teaming, or AI-enabled application development. Technical / Functional Skills Hands-on familiarity with macOS and Windows endpoint environments. Working knowledge of identity management (Okta or equivalent), Google Workspace, Slack Enterprise, Atlassian (Jira and Confluence), and ITSM platforms (Freshservice, ServiceNow, Zendesk, or similar). Ability to author structured, machine-readable documentation for both human and AI consumption. Comfort using AI assistants (Claude, ChatGPT, Copilot, Gemini, or similar) as a standard part of daily workflows. Bonus: scripting exposure (Bash, Python, PowerShell); compliance exposure (SOC 2, ISO 27001, ISO 42001, NIST); prior ownership of a knowledge base or documentation program. Relevant certifications a plus: CompTIA A+, Network+, Google Workspace Administrator, Okta Certified Professional, ITIL Foundation, or similar. Ways of Working You treat the Helpdesk as the front door of IT, and you want to be the person standing at it. End-user empathy and clear communication come naturally to you across every level of the company. You are a strong technical writer. You can take a debugging session you just ran and turn it into a document that someone else — or an LLM — can follow without you in the room. You see AI tools as a working partner, not a threat. You are curious about how to make documentation, runbooks, and IT processes more useful with AI. You are organized and detail-oriented. Tickets, documentation, and access records all reflect your care for accuracy. You are a self-starter who prefers to be pointed in a direction and given freedom to figure it out, and you ask questions when you need to. You are intellectually curious and quick to learn anything. You want to grow. You are looking for a role that begins at the Helpdesk and stretches into real SaaS administration over time. Compensation This posting is anticipated to remain open until 7/31/2026. The new hire salary range for this position is $80,000 - $100,000 annually. Factors which may affect the starting pay within this range include skills, experience, and other qualifications aligned with Updater's internal leveling guidelines. About Updater Updater is a leading technology platform helping major brands acquire and retain customers at scale. We are on a mission to power millions of complex transactions through intelligent, autonomous systems. By combining deep integrations, real-world data, and purpose-built AI agents, we’re transforming fragmented purchasing workflows into seamless, automated experiences – freeing businesses and consumers from operational friction and enabling a new standard of speed, accuracy, and scale. Updater has raised over $450 million from leading investors, including SoftBank Capital, Vista Credit Partners, IA Ventures, Commerce Ventures, Second Century Ventures (the strategic investment arm of the National Association of Realtors®), and more. For more information, please visit www.updater.com. Updater is proud to be an equal opportunity employer and will consider all qualified applicants regardless of color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender identity or expression, veteran status, actual or presumed belonging to an ethnic group, or any other legally protected status. If you have a disability or special need that requires accommodation, please let us know. Benefits: The Company offers the following benefits for this full-time position, subject to applicable eligibility requirements: Medical, Dental, and Vision Insurance Flexible PTO 13 paid company holidays annually Updater Stock Options 401(k) with employer match Wellbeing Subsidy One Medical membership Virtual on-demand healthcare through Teladoc and Talkspace Flexible spending account (FSA) Health savings account (HSA) Supplemental Short &amp; Long Term Disability Insurance Supplemental Life Insurance Paid Parental Leave",
-    "url": "https://jobicy.com/jobs/147339-it-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "llm",
-      "bash",
-      "sso"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-21T03:31:04+00:00",
-    "fetched_at": "2026-06-30T01:54:24.532Z",
-    "raw": {
-      "id": 147339,
-      "url": "https://jobicy.com/jobs/147339-it-engineer",
-      "jobSlug": "147339-it-engineer",
-      "jobTitle": "IT Engineer",
-      "companyName": "Updater",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b6d59c36-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "View All JobsAbout the RoleUpdater is hiring an IT Engineer for our IT team. This role will serve as the first point of contact at the Updater Helpdesk, lead our IT knowledge management program — building documentation for both human readers and the AI assistants our employees rely on every day — and own Tier&hellip;",
-      "jobDescription": "<p><a href=\"https://www.updater.com/jobs/openings/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><strong>View All Jobs</strong></a></p><h2>About the Role</h2><p>Updater is hiring an IT Engineer for our IT team. This role will serve as the first point of contact at the Updater Helpdesk, lead our IT knowledge management program — building documentation for both human readers and the AI assistants our employees rely on every day — and own Tier 2 systems administration across our SaaS stack. The role reports to the Director, IT &amp; Business Process Transformation.</p><p>This role is well-suited for an IT professional who takes pride in turning a messy troubleshooting session into a clean, reusable document, treats every helpdesk ticket as a relationship rather than a chore, and is genuinely curious about how AI tools can make IT support better — for the employees we serve and for the people doing the work.</p><h2>Key Responsibilities</h2><p><strong>Helpdesk Operations</strong></p><ul>\n<li>Serve as the first point of contact for all IT support requests at Updater, triage Freshservice tickets, and resolve Tier 1/2 issues with clear, friendly communication.</li>\n<li>Provide white-glove end-user support across macOS and Windows endpoints, Iru (MDM), , Microsoft Intune, Okta SSO, Google Workspace, Slack Enterprise, Zoom, and the Atlassian suite.</li>\n<li>Own the day-to-day ticket queue: response and resolution SLAs, accurate categorization, escalation to Tier 3/4 teammates as needed, and clean ticket hygiene to keep the Helpdesk auditable.</li>\n<li>Support employee onboarding, offboarding, and hardware lifecycle in coordination with the Senior IT Engineer (Device Management).</li>\n<li>Surface recurring issues and friction points back to the IT team so they can be solved at the root rather than re-resolved one ticket at a time.</li>\n</ul><h3><strong>IT Knowledge Management</strong></h3><ul>\n<li>Lead Updater’s IT knowledge management program — establishing the standard for how IT documents what it knows and driving adoption across the team.</li>\n<li>Take ownership of our Confluence and Helpdesk knowledge bases: runbooks, troubleshooting guides, SaaS administration procedures, onboarding/offboarding playbooks, and end-user-facing help articles.</li>\n<li>Author documentation that is structured, consistent, and machine-readable, so that both employees and the AI assistants they use (Claude, ChatGPT, Copilot, Gemini) can reliably retrieve and apply it.</li>\n<li>Partner with the Director, IT &amp; Business Process Transformation, on the AI at Updater Confluence space and the AI Education Resource Hub, ensuring that IT-authored content serves as a canonical reference for the company.</li>\n<li>Treat every ticket and every system change as a documentation opportunity — capture what was learned, publish it, and reduce the long-tail rate of repeated questions.</li>\n<li>Maintain the freshness of existing knowledge by auditing, retiring, and rewriting content continuously as the IT environment evolves. </li>\n</ul><h3><strong>Tier 2 Systems Administration</strong></h3><ul>\n<li>Grow into hands-on administration of Updater’s SaaS stack, including Okta (group, rule, and policy management), Google Workspace, Slack Enterprise Grid, Atlassian (Jira and Confluence), Zoom, Iru, Microsoft Intune and Freshservice.</li>\n<li>Execute routine SaaS administration tasks — provisioning, de-provisioning, license management, permission changes, and lifecycle hygiene — with accuracy and a documentation-first habit.</li>\n<li>Support change management and access reviews in partnership with the IT Systems Architect and the Security team, contributing to Updater’s ISO 42001 certification posture.</li>\n<li>Assist with rollout, configuration, and ongoing administration of new SaaS tools as Updater’s environment evolves.</li>\n</ul><h2>Requirements</h2><h3><strong>Experience</strong></h3><ul>\n<li>1–3 years of IT support, helpdesk, or end-user technology experience in a professional environment (internships, MSP, or college IT roles count).</li>\n<li>Working familiarity with end-user support across macOS and Windows.</li>\n<li>Hands-on exposure to at least some of: an identity provider (Okta or equivalent), Google Workspace administration, Slack, Atlassian (Jira / Confluence), and an ITSM platform (Freshservice, ServiceNow, Zendesk, or similar).</li>\n<li>Demonstrated ability to write clear technical documentation — work samples, internal wiki contributions, or published help articles.</li>\n<li>Comfort using AI assistants (Claude, ChatGPT, Copilot, Gemini, or similar) as part of day-to-day work.</li>\n<li>Excellent communication skills, verbal and written, with the ability to translate technical concepts for non-technical audiences. </li>\n<li>Familiarity or experience with AI governance frameworks, AI red-teaming, or AI-enabled application development.</li>\n</ul><h3><strong>Technical / Functional Skills</strong></h3><ul>\n<li>Hands-on familiarity with macOS and Windows endpoint environments.</li>\n<li>Working knowledge of identity management (Okta or equivalent), Google Workspace, Slack Enterprise, Atlassian (Jira and Confluence), and ITSM platforms (Freshservice, ServiceNow, Zendesk, or similar).</li>\n<li>Ability to author structured, machine-readable documentation for both human and AI consumption.</li>\n<li>Comfort using AI assistants (Claude, ChatGPT, Copilot, Gemini, or similar) as a standard part of daily workflows.</li>\n<li>Bonus: scripting exposure (Bash, Python, PowerShell); compliance exposure (SOC 2, ISO 27001, ISO 42001, NIST); prior ownership of a knowledge base or documentation program.</li>\n<li>Relevant certifications a plus: CompTIA A+, Network+, Google Workspace Administrator, Okta Certified Professional, ITIL Foundation, or similar. </li>\n</ul><h3><strong>Ways of Working</strong></h3><ul>\n<li>You treat the Helpdesk as the front door of IT, and you want to be the person standing at it. End-user empathy and clear communication come naturally to you across every level of the company.</li>\n<li>You are a strong technical writer. You can take a debugging session you just ran and turn it into a document that someone else — or an LLM — can follow without you in the room.</li>\n<li>You see AI tools as a working partner, not a threat. You are curious about how to make documentation, runbooks, and IT processes more useful with AI.</li>\n<li>You are organized and detail-oriented. Tickets, documentation, and access records all reflect your care for accuracy.</li>\n<li>You are a self-starter who prefers to be pointed in a direction and given freedom to figure it out, and you ask questions when you need to.</li>\n<li>You are intellectually curious and quick to learn anything.</li>\n<li>You want to grow. You are looking for a role that begins at the Helpdesk and stretches into real SaaS administration over time. </li>\n</ul><p><strong>Compensation</strong></p><p>This posting is anticipated to remain open until 7/31/2026. The new hire salary range for this position is $80,000 - $100,000 annually. Factors which may affect the starting pay within this range include skills, experience, and other qualifications aligned with Updater's internal leveling guidelines.</p><div><h2><strong>About Updater</strong></h2>\n<p>Updater is a leading technology platform helping major brands acquire and retain customers at scale. We are on a mission to power millions of complex transactions through intelligent, autonomous systems. By combining deep integrations, real-world data, and purpose-built AI agents, we’re transforming fragmented purchasing workflows into seamless, automated experiences – freeing businesses and consumers from operational friction and enabling a new standard of speed, accuracy, and scale.</p>\n<p>Updater has raised over $450 million from leading investors, including SoftBank Capital, Vista Credit Partners, IA Ventures, Commerce Ventures, Second Century Ventures (the strategic investment arm of the National Association of Realtors®), and more. For more information, please visit www.updater.com.</p>\n<p>Updater is proud to be an equal opportunity employer and will consider all qualified applicants regardless of color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender identity or expression, veteran status, actual or presumed belonging to an ethnic group, or any other legally protected status. If you have a disability or special need that requires accommodation, please let us know.</p>\n<p><em>Benefits: </em>The Company offers the following benefits for this full-time position, subject to applicable eligibility requirements:</p>\n<ul>\n<li>Medical, Dental, and Vision Insurance </li>\n<li>Flexible PTO</li>\n<li>13 paid company holidays annually </li>\n<li>Updater Stock Options </li>\n<li>401(k) with employer match</li>\n<li>Wellbeing Subsidy</li>\n<li>One Medical membership</li>\n<li>Virtual on-demand healthcare through Teladoc and Talkspace</li>\n<li>Flexible spending account (FSA)</li>\n<li>Health savings account (HSA)</li>\n<li>Supplemental Short &amp; Long Term Disability Insurance </li>\n<li>Supplemental Life Insurance</li>\n<li>Paid Parental Leave</li>\n</ul></div>",
-      "pubDate": "2026-06-21T03:31:04+00:00",
-      "salaryMin": 80000,
-      "salaryMax": 100000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:147337",
-    "platform": "jobicy",
-    "external_id": "147337",
-    "title": "Principal Engineer - AI Platform",
-    "company": "iHerb",
-    "description": "Job Summary: The Principal Engineer operates at the intersection of deep technical execution and broad organizational influence. This role will resolve the hardest architectural questions, set the AI-native engineering bar, and ensure that iHerb's platform decisions compound over time rather than accumulate debt. Reporting to the VP of Engineering this role collaborates closely with peer Principals, Engineering Managers, and peer VPs across the organization. This role owns the end-to-end technical strategy for iHerb's AI Platform and GenAI product experiences. This spans the user-facing AI layer (Wellness Agent, LLM-driven recommendations, RAG over catalog and reviews, generative content) and the shared AI infrastructure (RAG pipelines, evals framework, MLOps, guardrails, observability) that makes AI features production-grade and repeatable across the engineering organization. Job Expectations: Define and own the AI platform architecture: retrieval infrastructure, model lifecycle, evals framework, guardrails, and GenAI product feature design. Lead the build of the shared AI platform layer consumed by all AI product features and reusable by internal business teams. Hands-on contributor: build production AI systems, write proofs of concept, and validate architecture through working software. Set and enforce technical standards for the AI Platform team; drive architecture reviews and model quality reviews. Coordinate with the Personalization team to define clear boundaries between the GenAI product layer and existing ML personalization infrastructure. Contribute AI platform-specific patterns and lessons into iHerb's shared AI-driven SDLC golden path. Drive the hardest cross-cutting technical decisions across multiple teams and shared platform services. Establish and evolve iHerb's AI-driven SDLC golden path: shared standards, Claude Code skills, guardrails, and automation patterns. Lead complex multi-team technical efforts by coordinating architecture reviews, aligning peer Principals and EMs, and resolving competing approaches. Mentor and raise the technical bar across the engineering organization through code review, architecture review, and direct coaching of senior engineers. Represent engineering in cross-functional conversations with product, data science, security, and infrastructure. Feed architectural decisions into the shared knowledge base so institutional knowledge compounds across the organization. The duties and responsibilities described above may provide only a partial description of this position. This is not an exhaustive list of all aspects of the job. Other duties and responsibilities not outlined in this document may be added as necessary or desirable, with or without notice. Knowledge, Skills and Abilities: Required: AI-driven SDLC (required): demonstrated use of AI-assisted development tools such as Claude Code, GitHub Copilot, or Cursor to ship production systems. Can articulate workflow changes, quality tradeoffs, and guardrail strategies. Architecture at scale: experience designing and evolving large-scale distributed systems across multiple teams and years: APIs, data pipelines, event-driven architectures, or high-traffic platforms. Cross-org technical leadership: track record of driving architectural standards, technical roadmaps, or platform initiatives that span multiple teams or organizations. Engineering quality mindset: deeply held opinions on code quality, observability, CI/CD, test automation, and maintaining velocity without accumulating hidden debt. Communication and influence: able to write clear architecture documents, present to technical and non-technical audiences, and build consensus without formal authority. Experience working in distributed teams across the US, China, and Latin America. Production experience designing and operating AI platform systems: RAG pipelines, vector search, embedding infrastructure, or retrieval-augmented applications at scale. Hands-on experience with LLM evaluation: building eval frameworks, defining quality metrics, and iterating on model and prompt quality using data. MLOps experience: model deployment, monitoring, lifecycle management, and cost governance in a production environment. Experience building and operating agentic systems using frameworks such as LangChain, LlamaIndex, or equivalent. GenAI in production is required; prototype or research-only experience is not sufficient at this level. High degree of accuracy and attention to detail Excellent organization skills and ability to multi-task Equipment Knowledge: Experience with Microsoft Office Suite (Word, Excel, PowerPoint) Experience with Google Business Suite (Gmail, Drive, Docs, Sheets, Forms) preferred Experience Requirements: Generally requires a minimum of 10+ years of software engineering experience, with a significant portion at senior, staff, or principal IC level. Education Requirements: Bachelor’s Degree in Computer Science or related field preferred, or a combination of education and equivalent work experience. Judgment/Reasoning Ability: Able to identify, troubleshoot and resolve problems quickly using sound judgment, poise and diplomacy. Ability to use judgment and reasoning skills, and determine when to escalate issues, as required, in a timely manner. Physical Demands: The physical demands described here are representative of those that must be met by a Team Member to successfully perform the essential functions of this job. While performing the duties of this job, the Team Member is regularly required to talk and hear. The Team Member is frequently required to sit, walk, climb stairs, use hands and fingers, bend, stoop and reach with hands and arms. Reaching above shoulder heights, below the waist or lifting as required to file documents or store materials throughout the work day. The Team Member may occasionally lift or move office products and supplies up to 25 pounds. Proper lifting techniques required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Work Environment: The noise in the work environment is usually moderate. Other factors are: Hectic, fast-paced with multi-level distractions Professional, yet casual work environment Office / Warehouse environment Ability to work extended hours as required #LI-JC1 The anticipated pay scale for this position can be found below, however the pay range applicable to you may vary by geographic location based on where the job is located or where you work. The final pay offered to a successful candidate will be dependent on several factors that may include but are not limited to the type and years of experience within the job, the type of years and experience within the industry, education, etc. iHerb, LLC is a multi-state employer and this pay scale may not reflect positions that work in other states or locations. Employees (and their families) that meet eligibility criteria as outlined in applicable plan documents are eligible to participate in our medical, dental, vision, and basic life insurance programs and may enroll in our company’s 401(k) plan. Employees will also be eligible for Time Off and Paid Sick Leave pursuant to the company’s policies. Employees will enjoy paid holidays throughout the calendar year. Eligibility requirements for these benefits will be controlled by applicable plan documents. Hired applicant may be awarded Restrict Stock Units and receive annual bonuses pursuant to eligibility and performance criteria defined in the respective plan documents and policies. For more information on iHerb benefits, visit us at iHerbBenefits.com . Anticipated Pay Scale: $204,000—$260,000 USD Staffing Agency Submission Notice iHerb does not accept unsolicited 3rd party (\"Agency\") candidates. If you are an Agency, please send any requests to be considered as a supplier in our Vendor Management System to staffingvendors@iherb.com . Do not contact iHerb employees directly. If requested to work on a role, any Agency candidates would be presented through the internal recruiting organization. About iHerb iHerb is on a mission to make health and wellness accessible to all. We offer Earth’s best-curated selection of health and wellness products, at the best possible value, delivered with the most convenient experience. We’re the world’s largest eCommerce platform dedicated to vitamins, minerals, and supplements, and other health and wellness products. For more than 25 years, we’ve been making it simple for people all over the world to purchase the highest quality products. From supplements to skincare to grocery items, we ship over 50,000 products, from over 1,800 brands direct to our customers in 180+ countries. Our vision is to become the #1 destination for health and wellness across the world. With a passion for wellness and a mind for innovative solutions, iHerb team members share a vision for a healthier world that drives them each day. Our 5 Shared Values unite our global team: Focus on the Customer · Empower Our People · Be Entrepreneurial &amp; Pivot Quickly · Embrace Diversity &amp; Inclusion · Strive for Simplicity iHerb Benefits At iHerb, we are dedicated to offering programs designed to help our employees and their families stay healthy, live well, and plan for their financial future. Built on a strong foundation, our programs provide options and upgrades with flexibility, protection, and security in mind. For the comprehensive benefits list, visit www.iHerbBenefits.com . For our international team members, you may be eligible for benefits depending on the country where you are employed. The Talent Acquisition Partner/local HR representative will go over the benefits you are eligible for. iHerb is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status. iHerb provides equal employment opportunities to all applicants for employment and prohibits discrimination and harassment.",
-    "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "llm",
-      "machine-learning",
-      "langchain",
-      "mlops",
-      "rag"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-21T03:31:00+00:00",
-    "fetched_at": "2026-06-30T01:54:24.534Z",
-    "raw": {
-      "id": 147337,
-      "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
-      "jobSlug": "147337-principal-engineer-ai-platform",
-      "jobTitle": "Principal Engineer - AI Platform",
-      "companyName": "iHerb",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/a1083a62-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Job Summary: The Principal Engineer operates at the intersection of deep technical execution and broad organizational influence. This role will resolve the hardest architectural questions, set the AI-native engineering bar, and ensure that iHerb's platform decisions compound over time rather than accumulate debt. Reporting to the VP of Engineering this role collaborates closely with peer Principals,&hellip;",
-      "jobDescription": "<p><strong><strong>Job Summary: </strong></strong></p><p>The Principal Engineer operates at the intersection of deep technical execution and broad organizational influence. This role will resolve the hardest architectural questions, set the AI-native engineering bar, and ensure that iHerb's platform decisions compound over time rather than accumulate debt. Reporting to the VP of Engineering this role collaborates closely with peer Principals, Engineering Managers, and peer VPs across the organization. </p><p>This role owns the end-to-end technical strategy for iHerb's AI Platform and GenAI product experiences. This spans the user-facing AI layer (Wellness Agent, LLM-driven recommendations, RAG over catalog and reviews, generative content) and the shared AI infrastructure (RAG pipelines, evals framework, MLOps, guardrails, observability) that makes AI features production-grade and repeatable across the engineering organization. </p><p><strong><strong>Job Expectations:</strong></strong></p><ul>\n<li>\n<p>Define and own the AI platform architecture: retrieval infrastructure, model lifecycle, evals framework, guardrails, and GenAI product feature design.</p>\n</li>\n<li>\n<p>Lead the build of the shared AI platform layer consumed by all AI product features and reusable by internal business teams. </p>\n</li>\n<li>\n<p>Hands-on contributor: build production AI systems, write proofs of concept, and validate architecture through working software. </p>\n</li>\n<li>\n<p>Set and enforce technical standards for the AI Platform team; drive architecture reviews and model quality reviews. </p>\n</li>\n<li>\n<p>Coordinate with the Personalization team to define clear boundaries between the GenAI product layer and existing ML personalization infrastructure. </p>\n</li>\n<li>\n<p>Contribute AI platform-specific patterns and lessons into iHerb's shared AI-driven SDLC golden path. </p>\n</li>\n<li>\n<p>Drive the hardest cross-cutting technical decisions across multiple teams and shared platform services. </p>\n</li>\n<li>\n<p>Establish and evolve iHerb's AI-driven SDLC golden path: shared standards, Claude Code skills, guardrails, and automation patterns. </p>\n</li>\n<li>\n<p>Lead complex multi-team technical efforts by coordinating architecture reviews, aligning peer Principals and EMs, and resolving competing approaches. </p>\n</li>\n<li>\n<p>Mentor and raise the technical bar across the engineering organization through code review, architecture review, and direct coaching of senior engineers. </p>\n</li>\n<li>\n<p>Represent engineering in cross-functional conversations with product, data science, security, and infrastructure. </p>\n</li>\n<li>\n<p>Feed architectural decisions into the shared knowledge base so institutional knowledge compounds across the organization. </p>\n</li>\n</ul><p>The duties and responsibilities described above may provide only a partial description of this position. This is not an exhaustive list of all aspects of the job. Other duties and responsibilities not outlined in this document may be added as necessary or desirable, with or without notice.</p><p><strong><strong>Knowledge, Skills and Abilities:</strong></strong></p><p><strong><u>Required:</u> </strong></p><ul>\n<li>\n<p>AI-driven SDLC (required): demonstrated use of AI-assisted development tools such as Claude Code, GitHub Copilot, or Cursor to ship production systems. Can articulate workflow changes, quality tradeoffs, and guardrail strategies. </p>\n</li>\n<li>\n<p>Architecture at scale: experience designing and evolving large-scale distributed systems across multiple teams and years: APIs, data pipelines, event-driven architectures, or high-traffic platforms.</p>\n</li>\n<li>\n<p>Cross-org technical leadership: track record of driving architectural standards, technical roadmaps, or platform initiatives that span multiple teams or organizations.</p>\n</li>\n<li>\n<p>Engineering quality mindset: deeply held opinions on code quality, observability, CI/CD, test automation, and maintaining velocity without accumulating hidden debt. </p>\n</li>\n<li>\n<p>Communication and influence: able to write clear architecture documents, present to technical and non-technical audiences, and build consensus without formal authority. </p>\n</li>\n<li>\n<p>Experience working in distributed teams across the US, China, and Latin America.</p>\n</li>\n<li>\n<p>Production experience designing and operating AI platform systems: RAG pipelines, vector search, embedding infrastructure, or retrieval-augmented applications at scale. </p>\n</li>\n<li>\n<p>Hands-on experience with LLM evaluation: building eval frameworks, defining quality metrics, and iterating on model and prompt quality using data. </p>\n</li>\n<li>\n<p>MLOps experience: model deployment, monitoring, lifecycle management, and cost governance in a production environment. </p>\n</li>\n<li>\n<p>Experience building and operating agentic systems using frameworks such as LangChain, LlamaIndex, or equivalent. </p>\n</li>\n<li>\n<p>GenAI in production is required; prototype or research-only experience is not sufficient at this level. </p>\n</li>\n<li>\n<p>High degree of accuracy and attention to detail</p>\n</li>\n<li>\n<p>Excellent organization skills and ability to multi-task</p>\n</li>\n</ul><p><strong><strong>Equipment Knowledge:</strong></strong></p><ul>\n<li>\n<p>Experience with Microsoft Office Suite (Word, Excel, PowerPoint)</p>\n</li>\n<li>\n<p>Experience with Google Business Suite (Gmail, Drive, Docs, Sheets, Forms) preferred</p>\n</li>\n</ul><p><strong><strong>Experience Requirements:</strong></strong></p><p>Generally requires a minimum of 10+ years of software engineering experience, with a significant portion at senior, staff, or principal IC level.</p><p><strong><strong>Education Requirements: </strong></strong></p><p>Bachelor’s Degree in Computer Science or related field preferred, or a combination of education and equivalent work experience.</p><p><strong><strong>Judgment/Reasoning Ability: </strong></strong>Able to identify, troubleshoot and resolve problems quickly using sound judgment, poise and diplomacy. Ability to use judgment and reasoning skills, and determine when to escalate issues, as required, in a timely manner.</p><p><strong><strong>Physical Demands: </strong></strong>The physical demands described here are representative of those that must be met by a Team Member to successfully perform the essential functions of this job. While performing the duties of this job, the Team Member is regularly required to talk and hear. The Team Member is frequently required to sit, walk, climb stairs, use hands and fingers, bend, stoop and reach with hands and arms. Reaching above shoulder heights, below the waist or lifting as required to file documents or store materials throughout the work day. The Team Member may occasionally lift or move office products and supplies up to 25 pounds. Proper lifting techniques required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p><p><strong><strong>Work Environment: </strong></strong>The noise in the work environment is usually moderate. Other factors are:</p><ul>\n<li>\n<p>Hectic, fast-paced with multi-level distractions</p>\n</li>\n<li>\n<p>Professional, yet casual work environment</p>\n</li>\n<li>\n<p>Office / Warehouse environment</p>\n</li>\n<li>\n<p>Ability to work extended hours as required</p>\n</li>\n</ul><p>#LI-JC1</p><div><div><div>The anticipated pay scale for this position can be found below, however the pay range applicable to you may vary by geographic location based on where the job is located or where you work. The final pay offered to a successful candidate will be dependent on several factors that may include but are not limited to the type and years of experience within the job, the type of years and experience within the industry, education, etc. iHerb, LLC is a multi-state employer and this pay scale may not reflect positions that work in other states or locations.<br />Employees (and their families) that meet eligibility criteria as outlined in applicable plan documents are eligible to participate in our medical, dental, vision, and basic life insurance programs and may enroll in our company’s 401(k) plan. Employees will also be eligible for Time Off and Paid Sick Leave pursuant to the company’s policies. Employees will enjoy paid holidays throughout the calendar year. Eligibility requirements for these benefits will be controlled by applicable plan documents.<br /><div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>Hired applicant may be awarded Restrict Stock Units and receive annual bonuses pursuant to eligibility and performance criteria defined in the respective plan documents and policies.</div>\n</div>\n</div>\n</div>\n</div> </div>\n</div>\n<div>\n<div>\n<div>\n<div>\n<div> </div>\n</div>\n</div>\n</div>\n</div>\nFor more information on iHerb benefits, visit us at <a href=\"https://www.iherbbenefits.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">iHerbBenefits.com</a>.<br /></div><div>Anticipated Pay Scale:</div><div>$204,000—$260,000 USD</div></div></div><div>\n<p><strong>Staffing Agency Submission Notice</strong> <br>iHerb does not accept unsolicited 3rd party (\"Agency\") candidates. If you are an Agency, please send any requests to be considered as a supplier in our Vendor Management System to <a href=\"mailto:staffingvendors@iherb.com\" target=\"_blank\" rel=\"nofollow ugc noopener\">staffingvendors@iherb.com</a>. Do not contact iHerb employees directly. If requested to work on a role, any Agency candidates would be presented through the internal recruiting organization.</p> <p><strong>About iHerb<br></strong>iHerb is on a mission to make health and wellness accessible to all. We offer Earth’s best-curated selection of health and wellness products, at the best possible value, delivered with the most convenient experience.<br />We’re the world’s largest eCommerce platform dedicated to vitamins, minerals, and supplements, and other health and wellness products. For more than 25 years, we’ve been making it simple for people all over the world to purchase the highest quality products. From supplements to skincare to grocery items, we ship over 50,000 products, from over 1,800 brands direct to our customers in 180+ countries.<br />Our vision is to become the #1 destination for health and wellness across the world.<br />With a passion for wellness and a mind for innovative solutions, iHerb team members share a vision for a healthier world that drives them each day. Our 5 Shared Values unite our global team:</p>\n<p><strong>Focus on the Customer · Empower Our People · Be Entrepreneurial &amp; Pivot Quickly · </strong><br><strong>Embrace Diversity &amp; Inclusion · Strive for Simplicity</strong><strong><br></strong></p> <p><strong>iHerb Benefits<br></strong>At iHerb, we are dedicated to offering programs designed to help our employees and their families stay healthy, live well, and plan for their financial future. Built on a strong foundation, our programs provide options and upgrades with flexibility, protection, and security in mind. For the comprehensive benefits list, visit <a href=\"http://www.iherbbenefits.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">www.iHerbBenefits.com</a>. For our international team members, you may be eligible for benefits depending on the country where you are employed. The Talent Acquisition Partner/local HR representative will go over the benefits you are eligible for. </p> <p>iHerb is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status. iHerb provides equal employment opportunities to all applicants for employment and prohibits discrimination and harassment.</p></div>",
-      "pubDate": "2026-06-21T03:31:00+00:00",
-      "salaryMin": 204000,
-      "salaryMax": 260000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:147336",
-    "platform": "jobicy",
-    "external_id": "147336",
-    "title": "Principal Engineer - Catalog",
-    "company": "iHerb",
-    "description": "Job Summary: The Principal Engineer - Catalog operates at the intersection of deep technical execution and broad organizational influence. This role will resolve the hardest architectural questions, set the AI-native engineering bar, and ensure that iHerb's platform decisions compound over time rather than accumulate debt. Reporting to the VP of Engineering this role collaborates closely with peer Principals, Engineering Managers, and peer VPs across the organization. The Principal Engineer - Catalog owns the end-to-end technical strategy for iHerb's product catalog platform, one of the most business-critical systems in the company. This role will lead the catalog modernization effort, define service boundaries and data models, and set the full-stack engineering bar for the Catalog team. Job Expectations: Define and own the catalog platform architecture: service design, data modeling, API contracts, and technology choices across the stack. Lead the technical scoping and execution of the catalog modernization effort, coordinating with the Catalog EM and cross-functional partners. Hands-on contributor: write production code, build proofs of concept, and validate architecture through working software. Set and enforce technical standards for the Catalog team; drive code reviews and architecture reviews. Identify and resolve cross-cutting technical dependencies with peer engineering teams and shared platform services. Contribute catalog-specific patterns and lessons into iHerb's shared AI-driven SDLC golden path. Drive the hardest cross-cutting technical decisions across multiple teams and shared platform services. Establish and evolve iHerb's AI-driven SDLC golden path: shared standards, Claude Code skills, guardrails, and automation patterns. Lead complex multi-team technical efforts by coordinating architecture reviews, aligning peer Principals and EMs, and resolving competing approaches. Mentor and raise the technical bar across the engineering organization through code review, architecture review, and direct coaching of senior engineers. Represent engineering in cross-functional conversations with product, data science, security, and infrastructure. Feed architectural decisions into the shared knowledge base so institutional knowledge compounds across the organization. The duties and responsibilities described above may provide only a partial description of this position. This is not an exhaustive list of all aspects of the job. Other duties and responsibilities not outlined in this document may be added as necessary or desirable, with or without notice. Knowledge, Skills and Abilities: Required: AI-driven SDLC (required): demonstrated use of AI-assisted development tools such as Claude Code, GitHub Copilot, or Cursor to ship production systems. Can articulate workflow changes, quality tradeoffs, and guardrail strategies. Architecture at scale: experience designing and evolving large-scale distributed systems across multiple teams and years: APIs, data pipelines, event-driven architectures, or high-traffic platforms. Cross-org technical leadership: track record of driving architectural standards, technical roadmaps, or platform initiatives that span multiple teams or organizations. Engineering quality mindset: deeply held opinions on code quality, observability, CI/CD, test automation, and maintaining velocity without accumulating hidden debt. Communication and influence: able to write clear architecture documents, present to technical and non-technical audiences, and build consensus without formal authority. Experience working in distributed teams across the US, China, and Latin America. Deep backend engineering experience with at least one of: C#/.NET (strongly preferred), Go, Java, or Python, at production scale. Proven experience designing data models and APIs for high-volume catalog, inventory, or e-commerce systems. Full-stack capability: able to contribute meaningfully to frontend (React or equivalent) and own backend-to-UI architectural decisions. Experience driving a large-scale platform modernization or rewrite effort, including migration strategy and risk management. High degree of accuracy and attention to detail Excellent organization skills and ability to multi-task Equipment Knowledge: Experience with Microsoft Office Suite (Word, Excel, PowerPoint) Experience with Google Business Suite (Gmail, Drive, Docs, Sheets, Forms) preferred Experience Requirements: Generally requires a minimum of 10+ years of software engineering experience, with a significant portion at senior, staff, or principal IC level. Education Requirements: Bachelor’s Degree in Computer Science or related field preferred, or a combination of education and equivalent work experience. Judgment/Reasoning Ability: Able to identify, troubleshoot and resolve problems quickly using sound judgment, poise and diplomacy. Ability to use judgment and reasoning skills, and determine when to escalate issues, as required, in a timely manner. Physical Demands: The physical demands described here are representative of those that must be met by a Team Member to successfully perform the essential functions of this job. While performing the duties of this job, the Team Member is regularly required to talk and hear. The Team Member is frequently required to sit, walk, climb stairs, use hands and fingers, bend, stoop and reach with hands and arms. Reaching above shoulder heights, below the waist or lifting as required to file documents or store materials throughout the work day. The Team Member may occasionally lift or move office products and supplies up to 25 pounds. Proper lifting techniques required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Work Environment: The noise in the work environment is usually moderate. Other factors are: Hectic, fast-paced with multi-level distractions Professional, yet casual work environment Office / Warehouse environment Ability to work extended hours as required #LI-JC1 The anticipated pay scale for this position can be found below, however the pay range applicable to you may vary by geographic location based on where the job is located or where you work. The final pay offered to a successful candidate will be dependent on several factors that may include but are not limited to the type and years of experience within the job, the type of years and experience within the industry, education, etc. iHerb, LLC is a multi-state employer and this pay scale may not reflect positions that work in other states or locations. Employees (and their families) that meet eligibility criteria as outlined in applicable plan documents are eligible to participate in our medical, dental, vision, and basic life insurance programs and may enroll in our company’s 401(k) plan. Employees will also be eligible for Time Off and Paid Sick Leave pursuant to the company’s policies. Employees will enjoy paid holidays throughout the calendar year. Eligibility requirements for these benefits will be controlled by applicable plan documents. Hired applicant may be awarded Restrict Stock Units and receive annual bonuses pursuant to eligibility and performance criteria defined in the respective plan documents and policies. For more information on iHerb benefits, visit us at iHerbBenefits.com . Anticipated Pay Scale: $204,000—$260,000 USD Staffing Agency Submission Notice iHerb does not accept unsolicited 3rd party (\"Agency\") candidates. If you are an Agency, please send any requests to be considered as a supplier in our Vendor Management System to staffingvendors@iherb.com . Do not contact iHerb employees directly. If requested to work on a role, any Agency candidates would be presented through the internal recruiting organization. About iHerb iHerb is on a mission to make health and wellness accessible to all. We offer Earth’s best-curated selection of health and wellness products, at the best possible value, delivered with the most convenient experience. We’re the world’s largest eCommerce platform dedicated to vitamins, minerals, and supplements, and other health and wellness products. For more than 25 years, we’ve been making it simple for people all over the world to purchase the highest quality products. From supplements to skincare to grocery items, we ship over 50,000 products, from over 1,800 brands direct to our customers in 180+ countries. Our vision is to become the #1 destination for health and wellness across the world. With a passion for wellness and a mind for innovative solutions, iHerb team members share a vision for a healthier world that drives them each day. Our 5 Shared Values unite our global team: Focus on the Customer · Empower Our People · Be Entrepreneurial &amp; Pivot Quickly · Embrace Diversity &amp; Inclusion · Strive for Simplicity iHerb Benefits At iHerb, we are dedicated to offering programs designed to help our employees and their families stay healthy, live well, and plan for their financial future. Built on a strong foundation, our programs provide options and upgrades with flexibility, protection, and security in mind. For the comprehensive benefits list, visit www.iHerbBenefits.com . For our international team members, you may be eligible for benefits depending on the country where you are employed. The Talent Acquisition Partner/local HR representative will go over the benefits you are eligible for. iHerb is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status. iHerb provides equal employment opportunities to all applicants for employment and prohibits discrimination and harassment.",
-    "url": "https://jobicy.com/jobs/147336-principal-engineer-catalog",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "java",
-      "react",
-      "llm"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-21T03:30:58+00:00",
-    "fetched_at": "2026-06-30T01:54:24.535Z",
-    "raw": {
-      "id": 147336,
-      "url": "https://jobicy.com/jobs/147336-principal-engineer-catalog",
-      "jobSlug": "147336-principal-engineer-catalog",
-      "jobTitle": "Principal Engineer - Catalog",
-      "companyName": "iHerb",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/a1083a62-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Job Summary: The Principal Engineer - Catalog operates at the intersection of deep technical execution and broad organizational influence. This role will resolve the hardest architectural questions, set the AI-native engineering bar, and ensure that iHerb's platform decisions compound over time rather than accumulate debt. Reporting to the VP of Engineering this role collaborates closely with&hellip;",
-      "jobDescription": "<p><strong><strong>Job Summary: </strong></strong></p><p>The Principal Engineer - Catalog operates at the intersection of deep technical execution and broad organizational influence. This role will resolve the hardest architectural questions, set the AI-native engineering bar, and ensure that iHerb's platform decisions compound over time rather than accumulate debt. Reporting to the VP of Engineering this role collaborates closely with peer Principals, Engineering Managers, and peer VPs across the organization. </p><p>The Principal Engineer - Catalog owns the end-to-end technical strategy for iHerb's product catalog platform, one of the most business-critical systems in the company. This role will lead the catalog modernization effort, define service boundaries and data models, and set the full-stack engineering bar for the Catalog team. </p><p><strong><strong>Job Expectations:</strong></strong></p><ul>\n<li>\n<p>Define and own the catalog platform architecture: service design, data modeling, API contracts, and technology choices across the stack. </p>\n</li>\n<li>\n<p>Lead the technical scoping and execution of the catalog modernization effort, coordinating with the Catalog EM and cross-functional partners. </p>\n</li>\n<li>\n<p>Hands-on contributor: write production code, build proofs of concept, and validate architecture through working software. </p>\n</li>\n<li>\n<p>Set and enforce technical standards for the Catalog team; drive code reviews and architecture reviews. </p>\n</li>\n<li>\n<p>Identify and resolve cross-cutting technical dependencies with peer engineering teams and shared platform services.</p>\n</li>\n<li>\n<p>Contribute catalog-specific patterns and lessons into iHerb's shared AI-driven SDLC golden path. </p>\n</li>\n<li>\n<p>Drive the hardest cross-cutting technical decisions across multiple teams and shared platform services. </p>\n</li>\n<li>\n<p>Establish and evolve iHerb's AI-driven SDLC golden path: shared standards, Claude Code skills, guardrails, and automation patterns. </p>\n</li>\n<li>\n<p>Lead complex multi-team technical efforts by coordinating architecture reviews, aligning peer Principals and EMs, and resolving competing approaches. </p>\n</li>\n<li>\n<p>Mentor and raise the technical bar across the engineering organization through code review, architecture review, and direct coaching of senior engineers. </p>\n</li>\n<li>\n<p>Represent engineering in cross-functional conversations with product, data science, security, and infrastructure. </p>\n</li>\n<li>\n<p>Feed architectural decisions into the shared knowledge base so institutional knowledge compounds across the organization. </p>\n</li>\n</ul><p>The duties and responsibilities described above may provide only a partial description of this position. This is not an exhaustive list of all aspects of the job. Other duties and responsibilities not outlined in this document may be added as necessary or desirable, with or without notice.</p><p><strong><strong>Knowledge, Skills and Abilities:</strong></strong></p><p><strong><u>Required:</u> </strong></p><ul>\n<li>\n<p>AI-driven SDLC (required): demonstrated use of AI-assisted development tools such as Claude Code, GitHub Copilot, or Cursor to ship production systems. Can articulate workflow changes, quality tradeoffs, and guardrail strategies. </p>\n</li>\n<li>\n<p>Architecture at scale: experience designing and evolving large-scale distributed systems across multiple teams and years: APIs, data pipelines, event-driven architectures, or high-traffic platforms.</p>\n</li>\n<li>\n<p>Cross-org technical leadership: track record of driving architectural standards, technical roadmaps, or platform initiatives that span multiple teams or organizations.</p>\n</li>\n<li>\n<p>Engineering quality mindset: deeply held opinions on code quality, observability, CI/CD, test automation, and maintaining velocity without accumulating hidden debt. </p>\n</li>\n<li>\n<p>Communication and influence: able to write clear architecture documents, present to technical and non-technical audiences, and build consensus without formal authority. </p>\n</li>\n<li>\n<p>Experience working in distributed teams across the US, China, and Latin America.</p>\n</li>\n<li>\n<p>Deep backend engineering experience with at least one of: C#/.NET (strongly preferred), Go, Java, or Python, at production scale. </p>\n</li>\n<li>\n<p>Proven experience designing data models and APIs for high-volume catalog, inventory, or e-commerce systems. </p>\n</li>\n<li>\n<p>Full-stack capability: able to contribute meaningfully to frontend (React or equivalent) and own backend-to-UI architectural decisions. </p>\n</li>\n<li>\n<p>Experience driving a large-scale platform modernization or rewrite effort, including migration strategy and risk management. </p>\n</li>\n<li>\n<p>High degree of accuracy and attention to detail</p>\n</li>\n<li>\n<p>Excellent organization skills and ability to multi-task</p>\n</li>\n</ul><p><strong><strong>Equipment Knowledge:</strong></strong></p><ul>\n<li>\n<p>Experience with Microsoft Office Suite (Word, Excel, PowerPoint)</p>\n</li>\n<li>\n<p>Experience with Google Business Suite (Gmail, Drive, Docs, Sheets, Forms) preferred</p>\n</li>\n</ul><p><strong><strong>Experience Requirements:</strong></strong></p><p>Generally requires a minimum of 10+ years of software engineering experience, with a significant portion at senior, staff, or principal IC level.</p><p><strong><strong>Education Requirements: </strong></strong></p><p>Bachelor’s Degree in Computer Science or related field preferred, or a combination of education and equivalent work experience.</p><p><strong><strong>Judgment/Reasoning Ability: </strong></strong>Able to identify, troubleshoot and resolve problems quickly using sound judgment, poise and diplomacy. Ability to use judgment and reasoning skills, and determine when to escalate issues, as required, in a timely manner.</p><p><strong><strong>Physical Demands: </strong></strong>The physical demands described here are representative of those that must be met by a Team Member to successfully perform the essential functions of this job. While performing the duties of this job, the Team Member is regularly required to talk and hear. The Team Member is frequently required to sit, walk, climb stairs, use hands and fingers, bend, stoop and reach with hands and arms. Reaching above shoulder heights, below the waist or lifting as required to file documents or store materials throughout the work day. The Team Member may occasionally lift or move office products and supplies up to 25 pounds. Proper lifting techniques required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p><p><strong><strong>Work Environment: </strong></strong>The noise in the work environment is usually moderate. Other factors are:</p><ul>\n<li>\n<p>Hectic, fast-paced with multi-level distractions</p>\n</li>\n<li>\n<p>Professional, yet casual work environment</p>\n</li>\n<li>\n<p>Office / Warehouse environment</p>\n</li>\n<li>\n<p>Ability to work extended hours as required</p>\n</li>\n</ul><p>#LI-JC1</p><div><div><div>The anticipated pay scale for this position can be found below, however the pay range applicable to you may vary by geographic location based on where the job is located or where you work. The final pay offered to a successful candidate will be dependent on several factors that may include but are not limited to the type and years of experience within the job, the type of years and experience within the industry, education, etc. iHerb, LLC is a multi-state employer and this pay scale may not reflect positions that work in other states or locations.<br />Employees (and their families) that meet eligibility criteria as outlined in applicable plan documents are eligible to participate in our medical, dental, vision, and basic life insurance programs and may enroll in our company’s 401(k) plan. Employees will also be eligible for Time Off and Paid Sick Leave pursuant to the company’s policies. Employees will enjoy paid holidays throughout the calendar year. Eligibility requirements for these benefits will be controlled by applicable plan documents.<br /><div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>Hired applicant may be awarded Restrict Stock Units and receive annual bonuses pursuant to eligibility and performance criteria defined in the respective plan documents and policies.</div>\n</div>\n</div>\n</div>\n</div> </div>\n</div>\n<div>\n<div>\n<div>\n<div>\n<div> </div>\n</div>\n</div>\n</div>\n</div>\nFor more information on iHerb benefits, visit us at <a href=\"https://www.iherbbenefits.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">iHerbBenefits.com</a>.<br /></div><div>Anticipated Pay Scale:</div><div>$204,000—$260,000 USD</div></div></div><div>\n<p><strong>Staffing Agency Submission Notice</strong> <br>iHerb does not accept unsolicited 3rd party (\"Agency\") candidates. If you are an Agency, please send any requests to be considered as a supplier in our Vendor Management System to <a href=\"mailto:staffingvendors@iherb.com\" target=\"_blank\" rel=\"nofollow ugc noopener\">staffingvendors@iherb.com</a>. Do not contact iHerb employees directly. If requested to work on a role, any Agency candidates would be presented through the internal recruiting organization.</p> <p><strong>About iHerb<br></strong>iHerb is on a mission to make health and wellness accessible to all. We offer Earth’s best-curated selection of health and wellness products, at the best possible value, delivered with the most convenient experience.<br />We’re the world’s largest eCommerce platform dedicated to vitamins, minerals, and supplements, and other health and wellness products. For more than 25 years, we’ve been making it simple for people all over the world to purchase the highest quality products. From supplements to skincare to grocery items, we ship over 50,000 products, from over 1,800 brands direct to our customers in 180+ countries.<br />Our vision is to become the #1 destination for health and wellness across the world.<br />With a passion for wellness and a mind for innovative solutions, iHerb team members share a vision for a healthier world that drives them each day. Our 5 Shared Values unite our global team:</p>\n<p><strong>Focus on the Customer · Empower Our People · Be Entrepreneurial &amp; Pivot Quickly · </strong><br><strong>Embrace Diversity &amp; Inclusion · Strive for Simplicity</strong><strong><br></strong></p> <p><strong>iHerb Benefits<br></strong>At iHerb, we are dedicated to offering programs designed to help our employees and their families stay healthy, live well, and plan for their financial future. Built on a strong foundation, our programs provide options and upgrades with flexibility, protection, and security in mind. For the comprehensive benefits list, visit <a href=\"http://www.iherbbenefits.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">www.iHerbBenefits.com</a>. For our international team members, you may be eligible for benefits depending on the country where you are employed. The Talent Acquisition Partner/local HR representative will go over the benefits you are eligible for. </p> <p>iHerb is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status. iHerb provides equal employment opportunities to all applicants for employment and prohibits discrimination and harassment.</p></div>",
-      "pubDate": "2026-06-21T03:30:58+00:00",
-      "salaryMin": 204000,
-      "salaryMax": 260000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
     }
   }
 ]
