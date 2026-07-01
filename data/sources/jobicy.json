@@ -1,5 +1,116 @@
 [
   {
+    "id": "jobicy:148199",
+    "platform": "jobicy",
+    "external_id": "148199",
+    "title": "Data Engineer, Engineering & Operations",
+    "company": "NBCUniversal",
+    "description": "Company Description NBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations &amp; Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information. Our impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world. Job Description We are seeking a Data Engineer to join the Engineering &amp; Operations team. Reporting to the Director of Engineering &amp; Operations , this role will design, build, and operate scalable data pipelines, clean room environments, identity workflows, and privacy-safe data integrations that support NBCUniversal’s data collaboration ecosystem. The ideal candidate is a hands-on data engineer with strong SQL and Python skills, experience working with cloud data platforms such as Snowflake or Databricks, and the ability to build secure, reliable, and repeatable data workflows for partner onboarding, audience activation, measurement, and reporting. Responsibilities Clean Room &amp; Partner Onboarding Support partner onboarding into clean room environments across platforms such as Snowflake, LiveRamp, Databricks, or similar technologies. Follow clean room architecture patterns that are secure, scalable, privacy-preserving, and repeatable across partner engagements. Configure and manage clean room environments, including data access, environment setup, platform configuration, and release validation. Serve as the technical owner for assigned partner onboarding efforts, coordinating with product, engineering, operations, privacy, and partner-facing teams. Implement privacy-preserving controls such as aggregation thresholds, anonymization techniques, approved query patterns, and output validation checks. Infrastructure Setup &amp; Library Deployment Deploy and manage Python-based libraries, templates, and reusable components within the clean room and data platform ecosystem. Support environment setup, configuration management, package deployment, and version-controlled release processes. Partner with software engineering teams to operationalize reusable libraries for audience, measurement, reporting, and partner-facing workflows. Ensure platform components are deployed consistently across partner environments and aligned with established engineering standards. Security, RBAC &amp; Privacy Controls Design, implement, and enforce granular role-based access control policies across data platform environments. Configure least-privilege service accounts, roles, grants, schemas, shares, and data access patterns. Partner with security, privacy, and platform teams to ensure access controls meet internal policies and partner-specific requirements. Validate that partner-facing outputs adhere to privacy, security, and business requirements before release. Data Pipelines &amp; Data Product Ownership Design, build, and operate scalable ELT pipelines using advanced SQL, Snowpark, PySpark, dbt, or similar technologies. Develop and provision curated Gold datasets for audience, measurement, activation, and reporting use cases. Build reusable pipeline patterns that support batch and near real-time processing across Snowflake, Databricks, or similar platforms. Translate business and analytical requirements into reliable, well-documented, production-ready data products. Own pipeline performance, reliability, data correctness, and operational support for assigned data products. Identity Resolution &amp; Data Collaboration Implement and evolve identity resolution logic that maps internal NBCU data to third-party identifiers such as LUIDs, RampIDs, TransUnion IDs, or similar identity frameworks. Support privacy-safe identity workflows for audience matching, measurement, activation, and partner collaboration. Build validation checks to ensure identity mappings are accurate, secure, and compliant with approved usage patterns. Work with internal teams and external partners to troubleshoot match rates, data quality issues, and onboarding discrepancies. Data Quality, Testing &amp; Validation Build automated data quality checks using tools such as Great Expectations, dbt tests, custom SQL assertions, or similar frameworks. Define and monitor quality standards for schema drift, null rate spikes, volume anomalies, duplicate records, referential integrity, and unexpected data distribution changes. Create test strategies for partner-facing releases, including input validation, output validation, regression testing, and privacy checks. Document data assumptions, known limitations, validation logic, and operational support procedures. FinOps &amp; Operational Excellence Optimize query performance and platform costs through query tuning, clustering/partitioning strategies, caching, incremental processing, and workload management. Implement query tagging, workload tracking, and chargeback/showback models to improve cost transparency and partner-level attribution. Establish monitoring, alerting, runbooks, and standard operating procedures to improve platform reliability and reduce incident time-to-resolution. Participate in incident response, root cause analysis, and continuous improvement efforts for production data workflows. Qualifications Required Qualifications Education Bachelor’s degree or equivalent practical experience in Computer Science, Information Systems, Software Engineering, Electrical Engineering, Electronics Engineering, Data Engineering, or a related technical field Data Engineering 3+ years of experience in data engineering, including building and operating production data pipelines, data models, and data products SQL &amp; Python Deep proficiency in advanced SQL and Python for data processing, automation, pipeline development, validation, and operational support Cloud Data Platforms 2+ years of hands-on experience with cloud data platforms such as Snowflake, Databricks, or similar technologies ELT &amp; Orchestration Experience building scalable ELT pipelines using tools such as Airflow, dbt, Snowpark, PySpark, or similar technologies Preferred Qualifications Clean Room Knowledge Exposure to data clean room concepts or platforms such as Snowflake Clean Rooms, Databricks Clean Rooms, LiveRamp, Habu, or similar technologies Ad Tech / Measurement Exposure to advertising technology, audience activation, campaign delivery, reach and frequency, attribution, incrementality, or reporting workflows Identity Resolution Experience working with identity graphs, hashed identifiers, RampIDs, LUIDs, TransUnion IDs, device IDs, household IDs, or similar identity frameworks Certifications Snowflake SnowPro Core Certification, Databricks Certified Data Engineer Associate, or similar cloud/data platform certification Additional Requirements Fully Remote : This position has been designated as fully remote, meaning that the position is expected to contribute from a non-NBCUniversal worksite, most commonly an employee’s residence. This position is eligible for company sponsored benefits, including medical, dental and vision insurance, 401(k), paid leave, tuition reimbursement, and a variety of other discounts and perks. Learn more about the benefits offered by NBCUniversal by visiting the Benefits page of the Careers website. Salary range: $115,000 - $145,000 (bonus eligible) Additional Information As part of our selection process, external candidates may be required to attend an in-person interview with an NBCUniversal employee at one of our locations prior to a hiring decision. NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access nbcunicareers.com as a result of your disability. You can request reasonable accommodations by emailing AccessibilitySupport@nbcuni.com. For LA County and City Residents Only: NBCUniversal will consider for employment qualified applicants with criminal histories, or arrest or conviction records, in a manner consistent with relevant legal requirements, including the City of Los Angeles' Fair Chance Initiative For Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, where applicable.",
+    "url": "https://jobicy.com/jobs/148199-data-engineer-engineering-operations",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "airflow",
+      "dbt",
+      "snowflake",
+      "databricks"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-01T02:13:33+00:00",
+    "fetched_at": "2026-07-01T09:22:15.203Z",
+    "raw": {
+      "id": 148199,
+      "url": "https://jobicy.com/jobs/148199-data-engineer-engineering-operations",
+      "jobSlug": "148199-data-engineer-engineering-operations",
+      "jobTitle": "Data Engineer, Engineering & Operations",
+      "companyName": "NBCUniversal",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/836510d4-221-2.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Midweight",
+      "jobExcerpt": "Company DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC&hellip;",
+      "jobDescription": "<h2>Company Description</h2><p>NBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations &amp; Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.</p><p>Our impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.</p><h2>Job Description</h2><p>We are seeking a <strong>Data Engineer</strong> to join the Engineering &amp; Operations team. Reporting to the <strong>Director of Engineering &amp; Operations</strong>, this role will design, build, and operate scalable data pipelines, clean room environments, identity workflows, and privacy-safe data integrations that support NBCUniversal’s data collaboration ecosystem.</p><p>The ideal candidate is a hands-on data engineer with strong SQL and Python skills, experience working with cloud data platforms such as Snowflake or Databricks, and the ability to build secure, reliable, and repeatable data workflows for partner onboarding, audience activation, measurement, and reporting.</p><p><strong>Responsibilities</strong></p><p><strong>Clean Room &amp; Partner Onboarding</strong></p><ul><li>Support partner onboarding into clean room environments across platforms such as Snowflake, LiveRamp, Databricks, or similar technologies.</li><li>Follow clean room architecture patterns that are secure, scalable, privacy-preserving, and repeatable across partner engagements.</li><li>Configure and manage clean room environments, including data access, environment setup, platform configuration, and release validation.</li><li>Serve as the technical owner for assigned partner onboarding efforts, coordinating with product, engineering, operations, privacy, and partner-facing teams.</li><li>Implement privacy-preserving controls such as aggregation thresholds, anonymization techniques, approved query patterns, and output validation checks.</li></ul><p><strong>Infrastructure Setup &amp; Library Deployment</strong></p><ul><li>Deploy and manage Python-based libraries, templates, and reusable components within the clean room and data platform ecosystem.</li><li>Support environment setup, configuration management, package deployment, and version-controlled release processes.</li><li>Partner with software engineering teams to operationalize reusable libraries for audience, measurement, reporting, and partner-facing workflows.</li><li>Ensure platform components are deployed consistently across partner environments and aligned with established engineering standards.</li></ul><p><strong>Security, RBAC &amp; Privacy Controls</strong></p><ul><li>Design, implement, and enforce granular role-based access control policies across data platform environments.</li><li>Configure least-privilege service accounts, roles, grants, schemas, shares, and data access patterns.</li><li>Partner with security, privacy, and platform teams to ensure access controls meet internal policies and partner-specific requirements.</li><li>Validate that partner-facing outputs adhere to privacy, security, and business requirements before release.</li></ul><p><strong>Data Pipelines &amp; Data Product Ownership</strong></p><ul><li>Design, build, and operate scalable ELT pipelines using advanced SQL, Snowpark, PySpark, dbt, or similar technologies.</li><li>Develop and provision curated Gold datasets for audience, measurement, activation, and reporting use cases.</li><li>Build reusable pipeline patterns that support batch and near real-time processing across Snowflake, Databricks, or similar platforms.</li><li>Translate business and analytical requirements into reliable, well-documented, production-ready data products.</li><li>Own pipeline performance, reliability, data correctness, and operational support for assigned data products.</li></ul><p><strong>Identity Resolution &amp; Data Collaboration</strong></p><ul><li>Implement and evolve identity resolution logic that maps internal NBCU data to third-party identifiers such as LUIDs, RampIDs, TransUnion IDs, or similar identity frameworks.</li><li>Support privacy-safe identity workflows for audience matching, measurement, activation, and partner collaboration.</li><li>Build validation checks to ensure identity mappings are accurate, secure, and compliant with approved usage patterns.</li><li>Work with internal teams and external partners to troubleshoot match rates, data quality issues, and onboarding discrepancies.</li></ul><p><strong>Data Quality, Testing &amp; Validation</strong></p><ul><li>Build automated data quality checks using tools such as Great Expectations, dbt tests, custom SQL assertions, or similar frameworks.</li><li>Define and monitor quality standards for schema drift, null rate spikes, volume anomalies, duplicate records, referential integrity, and unexpected data distribution changes.</li><li>Create test strategies for partner-facing releases, including input validation, output validation, regression testing, and privacy checks.</li><li>Document data assumptions, known limitations, validation logic, and operational support procedures.</li></ul><p><strong>FinOps &amp; Operational Excellence</strong></p><ul><li>Optimize query performance and platform costs through query tuning, clustering/partitioning strategies, caching, incremental processing, and workload management.</li><li>Implement query tagging, workload tracking, and chargeback/showback models to improve cost transparency and partner-level attribution.</li><li>Establish monitoring, alerting, runbooks, and standard operating procedures to improve platform reliability and reduce incident time-to-resolution.</li><li>Participate in incident response, root cause analysis, and continuous improvement efforts for production data workflows.</li></ul><h2>Qualifications</h2><p><strong>Required Qualifications</strong></p><p>Education</p><ul><li>Bachelor’s degree or equivalent practical experience in Computer Science, Information Systems, Software Engineering, Electrical Engineering, Electronics Engineering, Data Engineering, or a related technical field</li></ul><p>Data Engineering</p><ul><li>3+ years of experience in data engineering, including building and operating production data pipelines, data models, and data products</li></ul><p>SQL &amp; Python</p><ul><li>Deep proficiency in advanced SQL and Python for data processing, automation, pipeline development, validation, and operational support</li></ul><p>Cloud Data Platforms</p><ul><li>2+ years of hands-on experience with cloud data platforms such as Snowflake, Databricks, or similar technologies</li></ul><p>ELT &amp; Orchestration</p><ul><li>Experience building scalable ELT pipelines using tools such as Airflow, dbt, Snowpark, PySpark, or similar technologies</li></ul><p><strong>Preferred Qualifications</strong></p><p>Clean Room Knowledge</p><ul><li>Exposure to data clean room concepts or platforms such as Snowflake Clean Rooms, Databricks Clean Rooms, LiveRamp, Habu, or similar technologies</li></ul><p>Ad Tech / Measurement</p><ul><li>Exposure to advertising technology, audience activation, campaign delivery, reach and frequency, attribution, incrementality, or reporting workflows</li></ul><p>Identity Resolution</p><ul><li>Experience working with identity graphs, hashed identifiers, RampIDs, LUIDs, TransUnion IDs, device IDs, household IDs, or similar identity frameworks</li></ul><p>Certifications</p><ul><li>Snowflake SnowPro Core Certification, Databricks Certified Data Engineer Associate, or similar cloud/data platform certification</li></ul><p><strong>Additional Requirements</strong></p><p><strong>Fully Remote</strong>: This position has been designated as fully remote, meaning that the position is expected to contribute from a non-NBCUniversal worksite, most commonly an employee’s residence. </p><p>This position is eligible for company sponsored benefits, including medical, dental and vision insurance, 401(k), paid leave, tuition reimbursement, and a variety of other discounts and perks. Learn more about the benefits offered by NBCUniversal by visiting the Benefits page of the Careers website.</p><p>Salary range: $115,000 - $145,000 (bonus eligible)</p><h2>Additional Information</h2><p>As part of our selection process, external candidates may be required to attend an in-person interview with an NBCUniversal employee at one of our locations prior to a hiring decision. NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. </p><p>If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access nbcunicareers.com as a result of your disability. You can request reasonable accommodations by emailing AccessibilitySupport@nbcuni.com.</p><p>For LA County and City Residents Only: NBCUniversal will consider for employment qualified applicants with criminal histories, or arrest or conviction records, in a manner consistent with relevant legal requirements, including the City of Los Angeles' Fair Chance Initiative For Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, where applicable.</p>",
+      "pubDate": "2026-07-01T02:13:33+00:00",
+      "salaryMin": 115000,
+      "salaryMax": 145000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:148197",
+    "platform": "jobicy",
+    "external_id": "148197",
+    "title": "Software Engineer - Unity",
+    "company": "Lingraphica",
+    "description": "Company Description Lingraphica is a mission-driven organization that provides speech-generating devices to help improve communication, speech, and quality of life for people with communication impairments. Lingraphica is a leader in augmentative and alternative communication (AAC) technology, helping people with aphasia and other speech and language impairments communicate and engage more fully in daily life. Through a combination of innovative devices, software, and services, Lingraphica is focused on improving communication outcomes and supporting individuals, families, and care teams. We look for candidates who enjoy working in a fast-paced, goal-oriented environment, and who share our commitment to helping individuals on their communication journey. Job Description Overview : A Software Engineer at Lingraphica develops and maintains software that powers speech-generating devices and related services for people with communication challenges. Working within a cross-functional Innovation team, this role partners with product, design, and engineering to deliver high-quality, user-centered solutions that improve communication outcomes. This position contributes across the full software lifecycle, from development through production support. Responsibilities: Designs, develops, tests, and maintains software for speech-generating devices and applications Collaborates with cross-functional partners to deliver user-centered solutions Writes clean, efficient, and well-documented code Participates in code reviews, debugging, and troubleshooting across the technology stack Contributes to automated and manual testing to ensure product quality Supports production systems through bug fixes and performance improvements Participates in Agile team ceremonies and continuous improvement efforts Enhances internal tools, infrastructure, and engineering processes (e.g., CI/CD, documentation) Qualifications Required Qualifications: Bachelor’s degree in Computer Science, Engineering, or related field, or equivalent experience 3+ years of professional software engineering experience Proficiency with Unity and C# Experience developing and consuming REST APIs (Node.js or similar) Familiarity with version control systems such as Git and GitHub Experience working in the Agile or Scrum environments Ability and willingness to travel within the U.S. up to 2 times per year for team and company meetings Preferred Qualifications: Experience with cloud platforms (e.g., AWS, Vercel) Experience with React Native for mobile app development Familiarity with Generative AI, LLMs and AI APIs Experience with Python, PostgreSQL, Firebase, or similar technologies Knowledge of testing frameworks, CI/CD pipelines, and automated testing practices Exposure to machine learning concepts or development Experience with Atlassian tools (Jira, Confluence) Understanding of relational and NoSQL database design Additional Information Work Environment &amp; Physical Demands The incumbent works remotely from their home and is expected to maintain a safe, productive work environment with secure internet access. The ability to operate a computer with or without reasonable accommodation is required. Travel Travel (by air) is required for the annual company meeting and team off-site, within the continental United States, approximately twice per year. Accommodations To perform this job successfully, an individual must be able to perform each essential duty and physical demand satisfactorily. The requirements listed above are representative of the knowledge, skills, and/or abilities and physical demands required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Lingraphica and Pay Transparency At Lingraphica, we are committed to fair and equitable compensation practices. The starting salary range for this position is $84,000 and $97,400 per year. Placement in the starting pay is based on factors such as experience, skills, education, and internal equity. We regularly review our compensation structures to ensure they align with industry standards, promote fairness, and support career growth. In addition to competitive base pay, we offer a comprehensive benefits package and a commitment to fostering an inclusive and supportive workplace. We encourage open conversations about compensation and are dedicated to maintaining transparency throughout the hiring process. To learn more about Lingraphica, visit: www.lingraphica.com ! To learn more about our benefits offerings, click here ! This Organization Participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. Este empleador participa en E-Verify y proporcionará al gobierno federal la información de su Formulario I-9 para confirmar que usted está autorizado para trabajar en los EE. UU.",
+    "url": "https://jobicy.com/jobs/148197-software-engineer-unity",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": null,
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "react",
+      "nodejs",
+      "postgresql",
+      "aws",
+      "vercel",
+      "machine-learning",
+      "react-native",
+      "git"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-01T02:13:30+00:00",
+    "fetched_at": "2026-07-01T09:22:15.204Z",
+    "raw": {
+      "id": 148197,
+      "url": "https://jobicy.com/jobs/148197-software-engineer-unity",
+      "jobSlug": "148197-software-engineer-unity",
+      "jobTitle": "Software Engineer - Unity",
+      "companyName": "Lingraphica",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/12/0ebd0674d0b000a5783705e1b9ae1dd7.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Any",
+      "jobExcerpt": "Company DescriptionLingraphica is a mission-driven organization that provides speech-generating devices to help improve communication, speech, and quality of life for people with communication impairments. Lingraphica is a leader in augmentative and alternative communication (AAC) technology, helping people with aphasia and other speech and language impairments communicate and engage more fully in daily life. Through a combination of innovative devices, software,&hellip;",
+      "jobDescription": "<h2>Company Description</h2><p>Lingraphica is a mission-driven organization that provides speech-generating devices to help improve communication, speech, and quality of life for people with communication impairments. Lingraphica is a leader in augmentative and alternative communication (AAC) technology, helping people with aphasia and other speech and language impairments communicate and engage more fully in daily life. Through a combination of innovative devices, software, and services, Lingraphica is focused on improving communication outcomes and supporting individuals, families, and care teams. We look for candidates who enjoy working in a fast-paced, goal-oriented environment, and who share our commitment to helping individuals on their communication journey.</p><h2>Job Description</h2><p><strong>Overview</strong>: A Software Engineer at Lingraphica develops and maintains software that powers speech-generating devices and related services for people with communication challenges. Working within a cross-functional Innovation team, this role partners with product, design, and engineering to deliver high-quality, user-centered solutions that improve communication outcomes. This position contributes across the full software lifecycle, from development through production support. </p><p><strong>Responsibilities:</strong></p><ul><li>Designs, develops, tests, and maintains software for speech-generating devices and applications </li><li>Collaborates with cross-functional partners to deliver user-centered solutions </li><li>Writes clean, efficient, and well-documented code </li><li>Participates in code reviews, debugging, and troubleshooting across the technology stack </li><li>Contributes to automated and manual testing to ensure product quality </li><li>Supports production systems through bug fixes and performance improvements </li><li>Participates in Agile team ceremonies and continuous improvement efforts </li><li>Enhances internal tools, infrastructure, and engineering processes (e.g., CI/CD, documentation) </li></ul><h2>Qualifications</h2><p><strong>Required Qualifications:</strong></p><ul><li>Bachelor’s degree in Computer Science, Engineering, or related field, or equivalent experience </li><li>3+ years of professional software engineering experience </li><li>Proficiency with Unity and C# </li><li>Experience developing and consuming REST APIs (Node.js or similar) </li><li>Familiarity with version control systems such as Git and GitHub </li><li>Experience working in the Agile or Scrum environments </li><li>Ability and willingness to travel within the U.S. up to 2 times per year for team and company meetings </li></ul><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience with cloud platforms (e.g., AWS, Vercel) </li><li>Experience with React Native for mobile app development </li><li>Familiarity with Generative AI, LLMs and AI APIs </li><li>Experience with Python, PostgreSQL, Firebase, or similar technologies </li><li>Knowledge of testing frameworks, CI/CD pipelines, and automated testing practices </li><li>Exposure to machine learning concepts or development </li><li>Experience with Atlassian tools (Jira, Confluence) </li><li>Understanding of relational and NoSQL database design </li></ul><h2>Additional Information</h2><p><strong>Work Environment &amp; Physical Demands </strong></p><p>The incumbent works remotely from their home and is expected to maintain a safe, productive work environment with secure internet access. The ability to operate a computer with or without reasonable accommodation is required. </p><p><strong>Travel </strong></p><p>Travel (by air) is required for the annual company meeting and team off-site, within the continental United States, approximately twice per year. </p><p><strong>Accommodations </strong></p><p>To perform this job successfully, an individual must be able to perform each essential duty and physical demand satisfactorily. The requirements listed above are representative of the knowledge, skills, and/or abilities and physical demands required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. </p><p><strong>Lingraphica and Pay Transparency </strong></p><p>At Lingraphica, we are committed to fair and equitable compensation practices. The starting salary range for this position is $84,000 and $97,400 per year. Placement in the starting pay is based on factors such as experience, skills, education, and internal equity. We regularly review our compensation structures to ensure they align with industry standards, promote fairness, and support career growth. In addition to competitive base pay, we offer a comprehensive benefits package and a commitment to fostering an inclusive and supportive workplace. We encourage open conversations about compensation and are dedicated to maintaining transparency throughout the hiring process. </p><p><strong>To learn more about Lingraphica, visit: <a href=\"http://www.lingraphica.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">www.lingraphica.com</a>! To learn more about our benefits offerings, <a href=\"https://c.smartrecruiters.com/sr-company-attachments-prod-aws-dc5/61310c91eba31c20a52ce851/b26b40c9-b650-4431-88a4-6ce286353d83?r=s3-eu-central-1\" rel=\"nofollow ugc noopener\" target=\"_blank\">click here</a>!</strong></p><p>This Organization Participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. </p><p>Este empleador participa en E-Verify y proporcionará al gobierno federal la información de su Formulario I-9 para confirmar que usted está autorizado para trabajar en los EE. UU.</p>",
+      "pubDate": "2026-07-01T02:13:30+00:00",
+      "salaryMin": 84000,
+      "salaryMax": 97400,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:144087",
     "platform": "jobicy",
     "external_id": "144087",
@@ -27,7 +138,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-30T17:21:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.032Z",
+    "fetched_at": "2026-07-01T09:22:15.205Z",
     "raw": {
       "id": 144087,
       "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
@@ -75,7 +186,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:22+00:00",
-    "fetched_at": "2026-07-01T01:59:36.034Z",
+    "fetched_at": "2026-07-01T09:22:15.207Z",
     "raw": {
       "id": 148145,
       "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
@@ -130,7 +241,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:20+00:00",
-    "fetched_at": "2026-07-01T01:59:36.035Z",
+    "fetched_at": "2026-07-01T09:22:15.208Z",
     "raw": {
       "id": 148144,
       "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
@@ -186,7 +297,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:19+00:00",
-    "fetched_at": "2026-07-01T01:59:36.037Z",
+    "fetched_at": "2026-07-01T09:22:15.209Z",
     "raw": {
       "id": 148143,
       "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
@@ -243,7 +354,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:15+00:00",
-    "fetched_at": "2026-07-01T01:59:36.038Z",
+    "fetched_at": "2026-07-01T09:22:15.210Z",
     "raw": {
       "id": 148141,
       "url": "https://jobicy.com/jobs/148141-demo-engineer",
@@ -298,7 +409,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T04:41:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.039Z",
+    "fetched_at": "2026-07-01T09:22:15.212Z",
     "raw": {
       "id": 143126,
       "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
@@ -343,7 +454,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T03:46:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.041Z",
+    "fetched_at": "2026-07-01T09:22:15.213Z",
     "raw": {
       "id": 143221,
       "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
@@ -392,7 +503,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T02:36:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.043Z",
+    "fetched_at": "2026-07-01T09:22:15.215Z",
     "raw": {
       "id": 143399,
       "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
@@ -452,7 +563,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T02:33:57+00:00",
-    "fetched_at": "2026-07-01T01:59:36.045Z",
+    "fetched_at": "2026-07-01T09:22:15.217Z",
     "raw": {
       "id": 148118,
       "url": "https://jobicy.com/jobs/148118-senior-backend-engineer-elixir-2",
@@ -516,7 +627,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-29T22:46:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.046Z",
+    "fetched_at": "2026-07-01T09:22:15.218Z",
     "raw": {
       "id": 143731,
       "url": "https://jobicy.com/jobs/143731-full-stack-software-developer-node-js-react-bulgaria-based",
@@ -566,7 +677,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:56:44+00:00",
-    "fetched_at": "2026-07-01T01:59:36.047Z",
+    "fetched_at": "2026-07-01T09:22:15.219Z",
     "raw": {
       "id": 144806,
       "url": "https://jobicy.com/jobs/144806-sailpoint-iam-engineer",
@@ -616,7 +727,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:16:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.048Z",
+    "fetched_at": "2026-07-01T09:22:15.220Z",
     "raw": {
       "id": 144851,
       "url": "https://jobicy.com/jobs/144851-lead-backend-engineer",
@@ -668,7 +779,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:51:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.050Z",
+    "fetched_at": "2026-07-01T09:22:15.222Z",
     "raw": {
       "id": 144874,
       "url": "https://jobicy.com/jobs/144874-senior-ai-engineer-4",
@@ -715,7 +826,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:11:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.051Z",
+    "fetched_at": "2026-07-01T09:22:15.223Z",
     "raw": {
       "id": 144970,
       "url": "https://jobicy.com/jobs/144970-sap-btp-integration-developer-m-f-d",
@@ -761,7 +872,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:21:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.053Z",
+    "fetched_at": "2026-07-01T09:22:15.224Z",
     "raw": {
       "id": 145005,
       "url": "https://jobicy.com/jobs/145005-software-engineer-ii-network-operations",
@@ -826,7 +937,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:10+00:00",
-    "fetched_at": "2026-07-01T01:59:36.054Z",
+    "fetched_at": "2026-07-01T09:22:15.225Z",
     "raw": {
       "id": 148065,
       "url": "https://jobicy.com/jobs/148065-senior-backend-engineer",
@@ -877,7 +988,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:08+00:00",
-    "fetched_at": "2026-07-01T01:59:36.056Z",
+    "fetched_at": "2026-07-01T09:22:15.227Z",
     "raw": {
       "id": 148064,
       "url": "https://jobicy.com/jobs/148064-engineering-team-leader-2",
@@ -930,7 +1041,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-29T12:11:45+00:00",
-    "fetched_at": "2026-07-01T01:59:36.057Z",
+    "fetched_at": "2026-07-01T09:22:15.228Z",
     "raw": {
       "id": 148051,
       "url": "https://jobicy.com/jobs/148051-backend-php-developer",
@@ -979,7 +1090,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T19:01:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.058Z",
+    "fetched_at": "2026-07-01T09:22:15.229Z",
     "raw": {
       "id": 144909,
       "url": "https://jobicy.com/jobs/144909-senior-android-engineer-2",
@@ -1033,7 +1144,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T18:36:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.061Z",
+    "fetched_at": "2026-07-01T09:22:15.231Z",
     "raw": {
       "id": 144932,
       "url": "https://jobicy.com/jobs/144932-senior-security-engineer-grc-automation",
@@ -1085,7 +1196,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-28T17:31:44+00:00",
-    "fetched_at": "2026-07-01T01:59:36.062Z",
+    "fetched_at": "2026-07-01T09:22:15.232Z",
     "raw": {
       "id": 145128,
       "url": "https://jobicy.com/jobs/145128-agentic-ai-developer",
@@ -1143,7 +1254,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:21+00:00",
-    "fetched_at": "2026-07-01T01:59:36.062Z",
+    "fetched_at": "2026-07-01T09:22:15.233Z",
     "raw": {
       "id": 147980,
       "url": "https://jobicy.com/jobs/147980-node-js-react-tech-lead-latam-remote",
@@ -1195,7 +1306,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:11+00:00",
-    "fetched_at": "2026-07-01T01:59:36.063Z",
+    "fetched_at": "2026-07-01T09:22:15.233Z",
     "raw": {
       "id": 147975,
       "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
@@ -1250,7 +1361,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:09+00:00",
-    "fetched_at": "2026-07-01T01:59:36.063Z",
+    "fetched_at": "2026-07-01T09:22:15.233Z",
     "raw": {
       "id": 147974,
       "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
@@ -1293,7 +1404,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T21:21:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.064Z",
+    "fetched_at": "2026-07-01T09:22:15.234Z",
     "raw": {
       "id": 147705,
       "url": "https://jobicy.com/jobs/147705-cpq-architect",
@@ -1336,7 +1447,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T19:11:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.065Z",
+    "fetched_at": "2026-07-01T09:22:15.235Z",
     "raw": {
       "id": 142065,
       "url": "https://jobicy.com/jobs/142065-senior-model-based-system-engineer",
@@ -1385,7 +1496,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:36:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.066Z",
+    "fetched_at": "2026-07-01T09:22:15.236Z",
     "raw": {
       "id": 142109,
       "url": "https://jobicy.com/jobs/142109-senior-hpc-performance-engineer",
@@ -1436,7 +1547,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:31:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.067Z",
+    "fetched_at": "2026-07-01T09:22:15.237Z",
     "raw": {
       "id": 142111,
       "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
@@ -1488,7 +1599,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T17:21:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.068Z",
+    "fetched_at": "2026-07-01T09:22:15.238Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -1541,7 +1652,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:46:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.069Z",
+    "fetched_at": "2026-07-01T09:22:15.239Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -1591,7 +1702,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:21:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.070Z",
+    "fetched_at": "2026-07-01T09:22:15.239Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -1634,7 +1745,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T14:11:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.071Z",
+    "fetched_at": "2026-07-01T09:22:15.240Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -1692,7 +1803,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:56:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.072Z",
+    "fetched_at": "2026-07-01T09:22:15.241Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -1739,7 +1850,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:11:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.073Z",
+    "fetched_at": "2026-07-01T09:22:15.242Z",
     "raw": {
       "id": 142565,
       "url": "https://jobicy.com/jobs/142565-technical-principal",
@@ -1782,7 +1893,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T09:11:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.075Z",
+    "fetched_at": "2026-07-01T09:22:15.244Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -1838,7 +1949,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:41:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.077Z",
+    "fetched_at": "2026-07-01T09:22:15.245Z",
     "raw": {
       "id": 142760,
       "url": "https://jobicy.com/jobs/142760-software-engineer-video",
@@ -1892,7 +2003,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:31:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.078Z",
+    "fetched_at": "2026-07-01T09:22:15.246Z",
     "raw": {
       "id": 142770,
       "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
@@ -1939,7 +2050,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:36:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.080Z",
+    "fetched_at": "2026-07-01T09:22:15.248Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -1997,7 +2108,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:31:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.081Z",
+    "fetched_at": "2026-07-01T09:22:15.249Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -2044,7 +2155,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:45+00:00",
-    "fetched_at": "2026-07-01T01:59:36.082Z",
+    "fetched_at": "2026-07-01T09:22:15.250Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -2087,7 +2198,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.083Z",
+    "fetched_at": "2026-07-01T09:22:15.251Z",
     "raw": {
       "id": 143733,
       "url": "https://jobicy.com/jobs/143733-senior-staff-engineer",
@@ -2132,7 +2243,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:26+00:00",
-    "fetched_at": "2026-07-01T01:59:36.085Z",
+    "fetched_at": "2026-07-01T09:22:15.252Z",
     "raw": {
       "id": 147871,
       "url": "https://jobicy.com/jobs/147871-senior-associate-automation-engineer",
@@ -2181,7 +2292,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:23+00:00",
-    "fetched_at": "2026-07-01T01:59:36.086Z",
+    "fetched_at": "2026-07-01T09:22:15.254Z",
     "raw": {
       "id": 147869,
       "url": "https://jobicy.com/jobs/147869-associate-automation-engineer",
@@ -2230,7 +2341,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:11+00:00",
-    "fetched_at": "2026-07-01T01:59:36.087Z",
+    "fetched_at": "2026-07-01T09:22:15.255Z",
     "raw": {
       "id": 147862,
       "url": "https://jobicy.com/jobs/147862-staff-software-engineer-media-experiences",
@@ -2277,7 +2388,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:35:52+00:00",
-    "fetched_at": "2026-07-01T01:59:36.088Z",
+    "fetched_at": "2026-07-01T09:22:15.256Z",
     "raw": {
       "id": 147801,
       "url": "https://jobicy.com/jobs/147801-engineering-senior-specialist-customer-application-engineering-m-f-d",
@@ -2324,7 +2435,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:30:17+00:00",
-    "fetched_at": "2026-07-01T01:59:36.089Z",
+    "fetched_at": "2026-07-01T09:22:15.257Z",
     "raw": {
       "id": 147796,
       "url": "https://jobicy.com/jobs/147796-model-based-systems-engineer",
@@ -2383,7 +2494,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.093Z",
+    "fetched_at": "2026-07-01T09:22:15.260Z",
     "raw": {
       "id": 142467,
       "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
@@ -2442,7 +2553,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.097Z",
+    "fetched_at": "2026-07-01T09:22:15.263Z",
     "raw": {
       "id": 142468,
       "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
@@ -2497,7 +2608,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:01:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.098Z",
+    "fetched_at": "2026-07-01T09:22:15.264Z",
     "raw": {
       "id": 142478,
       "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
@@ -2540,7 +2651,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T16:16:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.100Z",
+    "fetched_at": "2026-07-01T09:22:15.265Z",
     "raw": {
       "id": 142515,
       "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
@@ -2592,7 +2703,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:51:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.101Z",
+    "fetched_at": "2026-07-01T09:22:15.267Z",
     "raw": {
       "id": 142527,
       "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
@@ -2644,7 +2755,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:36:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.102Z",
+    "fetched_at": "2026-07-01T09:22:15.268Z",
     "raw": {
       "id": 142566,
       "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
@@ -2695,7 +2806,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T14:41:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.103Z",
+    "fetched_at": "2026-07-01T09:22:15.269Z",
     "raw": {
       "id": 142662,
       "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
@@ -2745,7 +2856,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T12:46:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.104Z",
+    "fetched_at": "2026-07-01T09:22:15.270Z",
     "raw": {
       "id": 142756,
       "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
@@ -2798,7 +2909,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T12:06:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.105Z",
+    "fetched_at": "2026-07-01T09:22:15.270Z",
     "raw": {
       "id": 142967,
       "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
@@ -2849,7 +2960,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:13:26+00:00",
-    "fetched_at": "2026-07-01T01:59:36.106Z",
+    "fetched_at": "2026-07-01T09:22:15.271Z",
     "raw": {
       "id": 147758,
       "url": "https://jobicy.com/jobs/147758-senior-software-engineer-java",
@@ -2900,7 +3011,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T11:08:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.107Z",
+    "fetched_at": "2026-07-01T09:22:15.272Z",
     "raw": {
       "id": 147754,
       "url": "https://jobicy.com/jobs/147754-senior-python-data-scraping-engineer-freelance",
@@ -2954,7 +3065,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:08:30+00:00",
-    "fetched_at": "2026-07-01T01:59:36.108Z",
+    "fetched_at": "2026-07-01T09:22:15.273Z",
     "raw": {
       "id": 147747,
       "url": "https://jobicy.com/jobs/147747-senior-software-engineer",
@@ -3007,7 +3118,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-25T11:08:25+00:00",
-    "fetched_at": "2026-07-01T01:59:36.109Z",
+    "fetched_at": "2026-07-01T09:22:15.275Z",
     "raw": {
       "id": 147744,
       "url": "https://jobicy.com/jobs/147744-senior-software-quality-engineer-mexico-remote",
@@ -3061,7 +3172,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:21:45+00:00",
-    "fetched_at": "2026-07-01T01:59:36.110Z",
+    "fetched_at": "2026-07-01T09:22:15.275Z",
     "raw": {
       "id": 143127,
       "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
@@ -3118,7 +3229,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T10:06:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.111Z",
+    "fetched_at": "2026-07-01T09:22:15.276Z",
     "raw": {
       "id": 143143,
       "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
@@ -3161,7 +3272,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:45+00:00",
-    "fetched_at": "2026-07-01T01:59:36.112Z",
+    "fetched_at": "2026-07-01T09:22:15.277Z",
     "raw": {
       "id": 143147,
       "url": "https://jobicy.com/jobs/143147-security-architect-ii",
@@ -3204,7 +3315,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:44+00:00",
-    "fetched_at": "2026-07-01T01:59:36.114Z",
+    "fetched_at": "2026-07-01T09:22:15.279Z",
     "raw": {
       "id": 143148,
       "url": "https://jobicy.com/jobs/143148-sotif-expert-all-genders",
@@ -3253,7 +3364,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T09:46:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.116Z",
+    "fetched_at": "2026-07-01T09:22:15.280Z",
     "raw": {
       "id": 143220,
       "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
@@ -3305,7 +3416,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T09:41:44+00:00",
-    "fetched_at": "2026-07-01T01:59:36.117Z",
+    "fetched_at": "2026-07-01T09:22:15.281Z",
     "raw": {
       "id": 143283,
       "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
@@ -3354,7 +3465,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:56:45+00:00",
-    "fetched_at": "2026-07-01T01:59:36.118Z",
+    "fetched_at": "2026-07-01T09:22:15.282Z",
     "raw": {
       "id": 143438,
       "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
@@ -3397,7 +3508,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:56:44+00:00",
-    "fetched_at": "2026-07-01T01:59:36.120Z",
+    "fetched_at": "2026-07-01T09:22:15.284Z",
     "raw": {
       "id": 143441,
       "url": "https://jobicy.com/jobs/143441-quality-engineer",
@@ -3450,7 +3561,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:41:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.121Z",
+    "fetched_at": "2026-07-01T09:22:15.285Z",
     "raw": {
       "id": 143481,
       "url": "https://jobicy.com/jobs/143481-principal-engineer",
@@ -3493,7 +3604,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:46+00:00",
-    "fetched_at": "2026-07-01T01:59:36.122Z",
+    "fetched_at": "2026-07-01T09:22:15.286Z",
     "raw": {
       "id": 143574,
       "url": "https://jobicy.com/jobs/143574-senior-solution-architect-ai-infrastructure",
@@ -3543,7 +3654,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:45+00:00",
-    "fetched_at": "2026-07-01T01:59:36.123Z",
+    "fetched_at": "2026-07-01T09:22:15.287Z",
     "raw": {
       "id": 143575,
       "url": "https://jobicy.com/jobs/143575-solutions-architect-networking",
@@ -3590,7 +3701,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:43+00:00",
-    "fetched_at": "2026-07-01T01:59:36.125Z",
+    "fetched_at": "2026-07-01T09:22:15.288Z",
     "raw": {
       "id": 143573,
       "url": "https://jobicy.com/jobs/143573-senior-solutions-architect-networking-public-sector",
@@ -3637,7 +3748,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T07:56:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.125Z",
+    "fetched_at": "2026-07-01T09:22:15.289Z",
     "raw": {
       "id": 143616,
       "url": "https://jobicy.com/jobs/143616-staff-design-quality-assurance-engineer",
@@ -3686,7 +3797,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T07:51:50+00:00",
-    "fetched_at": "2026-07-01T01:59:36.126Z",
+    "fetched_at": "2026-07-01T09:22:15.290Z",
     "raw": {
       "id": 143676,
       "url": "https://jobicy.com/jobs/143676-software-developer-iii",
@@ -3733,7 +3844,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T06:05:40+00:00",
-    "fetched_at": "2026-07-01T01:59:36.127Z",
+    "fetched_at": "2026-07-01T09:22:15.290Z",
     "raw": {
       "id": 147723,
       "url": "https://jobicy.com/jobs/147723-financial-software-engineer",
@@ -3794,7 +3905,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T04:46:44+00:00",
-    "fetched_at": "2026-07-01T01:59:36.129Z",
+    "fetched_at": "2026-07-01T09:22:15.292Z",
     "raw": {
       "id": 144689,
       "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
@@ -3843,7 +3954,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T04:36:46+00:00",
-    "fetched_at": "2026-07-01T01:59:36.130Z",
+    "fetched_at": "2026-07-01T09:22:15.293Z",
     "raw": {
       "id": 144716,
       "url": "https://jobicy.com/jobs/144716-enterprise-solutions-engineer-germany",
@@ -3890,7 +4001,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T03:27:06+00:00",
-    "fetched_at": "2026-07-01T01:59:36.132Z",
+    "fetched_at": "2026-07-01T09:22:15.295Z",
     "raw": {
       "id": 147700,
       "url": "https://jobicy.com/jobs/147700-principal-software-architect",
@@ -3949,7 +4060,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T03:22:04+00:00",
-    "fetched_at": "2026-07-01T01:59:36.133Z",
+    "fetched_at": "2026-07-01T09:22:15.296Z",
     "raw": {
       "id": 147692,
       "url": "https://jobicy.com/jobs/147692-voice-backend-software-engineer-node-js-and-java-remote-us",
@@ -4006,7 +4117,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T12:32:48+00:00",
-    "fetched_at": "2026-07-01T01:59:36.134Z",
+    "fetched_at": "2026-07-01T09:22:15.297Z",
     "raw": {
       "id": 147648,
       "url": "https://jobicy.com/jobs/147648-senior-fullstack-engineer-java-react",
@@ -4063,7 +4174,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T12:32:47+00:00",
-    "fetched_at": "2026-07-01T01:59:36.136Z",
+    "fetched_at": "2026-07-01T09:22:15.298Z",
     "raw": {
       "id": 147647,
       "url": "https://jobicy.com/jobs/147647-ai-engineer-5",
@@ -4112,7 +4223,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:32+00:00",
-    "fetched_at": "2026-07-01T01:59:36.138Z",
+    "fetched_at": "2026-07-01T09:22:15.300Z",
     "raw": {
       "id": 147608,
       "url": "https://jobicy.com/jobs/147608-software-development-engineer-agentic-workspaces",
@@ -4168,7 +4279,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:30+00:00",
-    "fetched_at": "2026-07-01T01:59:36.140Z",
+    "fetched_at": "2026-07-01T09:22:15.302Z",
     "raw": {
       "id": 147607,
       "url": "https://jobicy.com/jobs/147607-principal-mobile-engineer-android",
@@ -4215,7 +4326,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:23+00:00",
-    "fetched_at": "2026-07-01T01:59:36.141Z",
+    "fetched_at": "2026-07-01T09:22:15.303Z",
     "raw": {
       "id": 147603,
       "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
@@ -4268,7 +4379,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:21+00:00",
-    "fetched_at": "2026-07-01T01:59:36.144Z",
+    "fetched_at": "2026-07-01T09:22:15.304Z",
     "raw": {
       "id": 147602,
       "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
@@ -4329,7 +4440,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T03:03:06+00:00",
-    "fetched_at": "2026-07-01T01:59:36.145Z",
+    "fetched_at": "2026-07-01T09:22:15.306Z",
     "raw": {
       "id": 147582,
       "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
@@ -4381,7 +4492,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T03:03:04+00:00",
-    "fetched_at": "2026-07-01T01:59:36.147Z",
+    "fetched_at": "2026-07-01T09:22:15.307Z",
     "raw": {
       "id": 147581,
       "url": "https://jobicy.com/jobs/147581-forward-deployed-engineer-3",
@@ -4430,7 +4541,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T03:03:02+00:00",
-    "fetched_at": "2026-07-01T01:59:36.149Z",
+    "fetched_at": "2026-07-01T09:22:15.310Z",
     "raw": {
       "id": 147580,
       "url": "https://jobicy.com/jobs/147580-staff-engineer-builder-enablement",
@@ -4479,7 +4590,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T23:26:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.149Z",
+    "fetched_at": "2026-07-01T09:22:15.311Z",
     "raw": {
       "id": 144481,
       "url": "https://jobicy.com/jobs/144481-solutions-architect-scaled-operations-ai-accelerator-team",
@@ -4522,7 +4633,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T19:05:28+00:00",
-    "fetched_at": "2026-07-01T01:59:36.151Z",
+    "fetched_at": "2026-07-01T09:22:15.312Z",
     "raw": {
       "id": 147559,
       "url": "https://jobicy.com/jobs/147559-manufacturing-quality-engineer",
@@ -4567,7 +4678,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T19:05:25+00:00",
-    "fetched_at": "2026-07-01T01:59:36.151Z",
+    "fetched_at": "2026-07-01T09:22:15.313Z",
     "raw": {
       "id": 147557,
       "url": "https://jobicy.com/jobs/147557-data-integrator",
@@ -4615,7 +4726,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:56:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.152Z",
+    "fetched_at": "2026-07-01T09:22:15.314Z",
     "raw": {
       "id": 144461,
       "url": "https://jobicy.com/jobs/144461-software-engineer-7",
@@ -4658,7 +4769,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:41:44+00:00",
-    "fetched_at": "2026-07-01T01:59:36.153Z",
+    "fetched_at": "2026-07-01T09:22:15.314Z",
     "raw": {
       "id": 144492,
       "url": "https://jobicy.com/jobs/144492-commissioning-manager-all-genders-for-hvdc-systems",
@@ -4705,7 +4816,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T07:31:42+00:00",
-    "fetched_at": "2026-07-01T01:59:36.154Z",
+    "fetched_at": "2026-07-01T09:22:15.316Z",
     "raw": {
       "id": 144518,
       "url": "https://jobicy.com/jobs/144518-principal-software-engineer-postgres",
@@ -4755,7 +4866,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:57:39+00:00",
-    "fetched_at": "2026-07-01T01:59:36.156Z",
+    "fetched_at": "2026-07-01T09:22:15.317Z",
     "raw": {
       "id": 147511,
       "url": "https://jobicy.com/jobs/147511-senior-quality-engineer",
@@ -4809,7 +4920,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:46+00:00",
-    "fetched_at": "2026-07-01T01:59:36.157Z",
+    "fetched_at": "2026-07-01T09:22:15.318Z",
     "raw": {
       "id": 147496,
       "url": "https://jobicy.com/jobs/147496-senior-frontend-software-engineer-home-experience",
@@ -4861,7 +4972,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:34+00:00",
-    "fetched_at": "2026-07-01T01:59:36.159Z",
+    "fetched_at": "2026-07-01T09:22:15.319Z",
     "raw": {
       "id": 147489,
       "url": "https://jobicy.com/jobs/147489-senior-machine-learning-systems-engineer-ads-ml-experience-platform",
@@ -4911,7 +5022,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T05:09:30+00:00",
-    "fetched_at": "2026-07-01T01:59:36.160Z",
+    "fetched_at": "2026-07-01T09:22:15.321Z",
     "raw": {
       "id": 147487,
       "url": "https://jobicy.com/jobs/147487-engineering-manager-ads-ml-efficiency",
@@ -4967,7 +5078,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-23T03:31:44+00:00",
-    "fetched_at": "2026-07-01T01:59:36.161Z",
+    "fetched_at": "2026-07-01T09:22:15.321Z",
     "raw": {
       "id": 144154,
       "url": "https://jobicy.com/jobs/144154-senior-android-sdk-engineer",
@@ -4989,115 +5100,6 @@
       "salaryMin": 227000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:144467",
-    "platform": "jobicy",
-    "external_id": "144467",
-    "title": "Lead Cloud Network Engineer",
-    "company": "Experian",
-    "description": "Company Description Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries. Job Description As a Lead Cloud Network Engineer reporting to the Manager of Cloud Network Engineering. You will architect and engineer cloud-native and hybrid networking solutions across AWS, Azure, and other public cloud platforms. You will design VPC/VNet architectures, connectivity patterns, and shared network services using Infrastructure as Code and automation-first principles. You will work with cloud platform engineers, network engineers, security teams, and application teams to ensure that network services are available, resilient, secure, and consumable through self-service interfaces. Your work will directly improve our ability to deliver reliable connectivity, enforce network governance, and support large-scale cloud adoption. Responsibilities : Cloud &amp; Hybrid Network Architecture Design and maintain cloud networking architectures, including AWS VPCs, Azure VNets, subnets, routing tables, NAT, IGW, and firewalls. Hub-and-spoke, transit VPC/VNet, and multi-account/multi-subscription models. Architect and operate hybrid connectivity solutions: AWS Direct Connect, Azure ExpressRoute. Site-to-Site VPN, Client VPN, and backup connectivity patterns. Design and support routing strategies using BGP, static routing, and route propagation across hybrid and multi-cloud environments. Implement shared network services, such as: Transit gateways / virtual WAN. Centralized ingress/egress. DNS, NTP, IPAM, and firewall services. Infrastructure as Code &amp; Automation. Architect and maintain network infrastructure as code using: Terraform and CloudFormation. Modular, reusable network components and blueprints. Automate provisioning, configuration, and lifecycle management of cloud networking resources. Build reusable network service modules that can be consumed by application and platform teams through self-service workflows. Integrate network automation into CI/CD pipelines and GitOps workflows. Security, Governance &amp; Observability Embed network security and governance controls into IaC for segmentation, routing controls, firewall policies, and traffic inspection. Partner with security teams on Zero Trust and least-privilege network access models and secure hybrid and third-party connectivity. Implement network observability, logging, and monitoring for performance, availability, and troubleshooting. Support compliance requirements through standardized, auditable network designs. Platform Collaboration &amp; Enablement Collaborate with cloud platform, application, and SRE teams to: Define network patterns aligned with cloud-native best practices. Allow scalable onboarding of new workloads and environments. Provide guidance and technical leadership on cloud networking best practices. Contribute to internal documentation, reference architectures, and design standards. Improve developer experience by simplifying network usage through APIs, templates, and automation. Qualifications Over 8 years of Cloud Engineering experience. 3+ years of experience designing and operating cloud or hybrid network infrastructure at scale. Hands-on experience with cloud networking in AWS or Azure, including: VPC/VNet design, routing, security groups/NSGs, load balancing. Direct Connect / ExpressRoute architectures and operations. Understanding of hybrid networking concepts like BGP, routing domains, MTU, latency, redundancy, and failover. Solid knowledge of core networking protocols like TCP/IP, DNS, HTTP/S, routing, and distributed network design. Automation &amp; Engineering Hands-on experience with Infrastructure as Code using Terraform or CloudFormation for network resources. Proficiency in automation and scripting with Python, Ansible, or cloud SDKs/CLIs. Experience integrating network provisioning into CI/CD pipelines. Linux/Unix background; Windows networking experience is beneficial. Security &amp; Identity Understanding of cloud IAM concepts and their interaction with network security. Familiarity with cybersecurity practices, including: Network segmentation, traffic inspection, and incident response. Secure connectivity to on-premises and third-party environments. Beneficial skills: Experience with API-driven platforms and service interfaces. Exposure to internal developer platforms or self-service portals. Basic understanding of frontend technologies (HTML, CSS, JavaScript) to support platform integration. Experience supporting multi-cloud network architectures (AWS, Azure, GCP, OCI). Advanced Cloud Certifications in AWS or Azure. Additional Information Our uniqueness is that we celebrate yours. Experian's people first, inclusive and purpose driven culture is multi award-winning; World's Best Workplaces™ 2025 (Fortune Global Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or explore our Careers Site to understand why. Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and individuals with disabilities. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity. Our benefits include: Medical, life and dental insurance, Asociacion Solidarista, International Share Save Plan, Flex Work/Work from home, Paid time off, Annual Performance Bonus, Education Reimbursement, Family Bonding, Bereavement Leave, Referral Program, and more. #LI-Remote This is a remote position.",
-    "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Costa Rica",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "python",
-      "aws",
-      "gcp",
-      "azure",
-      "terraform",
-      "ansible",
-      "linux",
-      "unix"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-23T02:56:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.162Z",
-    "raw": {
-      "id": 144467,
-      "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
-      "jobSlug": "144467-lead-cloud-network-engineer",
-      "jobTitle": "Lead Cloud Network Engineer",
-      "companyName": "Experian",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/09/dcc5b29a570bb19b9f5c3e150db2fdfe.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Costa Rica",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team&hellip;",
-      "jobDescription": "<h2>Company Description</h2><p>Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries. </p><h2>Job Description</h2><p>As a Lead Cloud Network Engineer reporting to the Manager of Cloud Network Engineering. You will architect and engineer cloud-native and hybrid networking solutions across AWS, Azure, and other public cloud platforms. You will design VPC/VNet architectures, connectivity patterns, and shared network services using Infrastructure as Code and automation-first principles.</p><p>You will work with cloud platform engineers, network engineers, security teams, and application teams to ensure that network services are available, resilient, secure, and consumable through self-service interfaces. Your work will directly improve our ability to deliver reliable connectivity, enforce network governance, and support large-scale cloud adoption.</p><p><strong>Responsibilities</strong>:</p><p><strong>Cloud &amp; Hybrid Network Architecture</strong></p><ul><li>Design and maintain cloud networking architectures, including</li><li>AWS VPCs, Azure VNets, subnets, routing tables, NAT, IGW, and firewalls.</li><li>Hub-and-spoke, transit VPC/VNet, and multi-account/multi-subscription models.</li><li>Architect and operate hybrid connectivity solutions:</li><li>AWS Direct Connect, Azure ExpressRoute.</li><li>Site-to-Site VPN, Client VPN, and backup connectivity patterns.</li><li>Design and support routing strategies using BGP, static routing, and route propagation across hybrid and multi-cloud environments.</li><li>Implement shared network services, such as:</li><li>Transit gateways / virtual WAN.</li><li>Centralized ingress/egress.</li><li>DNS, NTP, IPAM, and firewall services.</li></ul><p>Infrastructure as Code &amp; Automation.</p><ul><li>Architect and maintain network infrastructure as code using:</li><li>Terraform and CloudFormation.</li><li>Modular, reusable network components and blueprints.</li><li>Automate provisioning, configuration, and lifecycle management of cloud networking resources.</li><li>Build reusable network service modules that can be consumed by application and platform teams through self-service workflows.</li><li>Integrate network automation into CI/CD pipelines and GitOps workflows.</li></ul><p><strong>Security, Governance &amp; Observability</strong></p><ul><li>Embed network security and governance controls into IaC for segmentation, routing controls, firewall policies, and traffic inspection.</li><li>Partner with security teams on Zero Trust and least-privilege network access models and secure hybrid and third-party connectivity.</li><li>Implement network observability, logging, and monitoring for performance, availability, and troubleshooting.</li><li>Support compliance requirements through standardized, auditable network designs.</li></ul><p><strong>Platform Collaboration &amp; Enablement</strong></p><ul><li>Collaborate with cloud platform, application, and SRE teams to:</li><li>Define network patterns aligned with cloud-native best practices.</li><li>Allow scalable onboarding of new workloads and environments.</li><li>Provide guidance and technical leadership on cloud networking best practices.</li><li>Contribute to internal documentation, reference architectures, and design standards.</li><li>Improve developer experience by simplifying network usage through APIs, templates, and automation.</li></ul><h2>Qualifications</h2><ul><li>Over 8 years of Cloud Engineering experience.</li><li>3+ years of experience designing and operating cloud or hybrid network infrastructure at scale.</li><li>Hands-on experience with cloud networking in AWS or Azure, including:</li><li>VPC/VNet design, routing, security groups/NSGs, load balancing.</li><li>Direct Connect / ExpressRoute architectures and operations.</li><li>Understanding of hybrid networking concepts like BGP, routing domains, MTU, latency, redundancy, and failover.</li><li>Solid knowledge of core networking protocols like TCP/IP, DNS, HTTP/S, routing, and distributed network design.</li></ul><p>Automation &amp; Engineering</p><ul><li>Hands-on experience with Infrastructure as Code using Terraform or CloudFormation for network resources.</li><li>Proficiency in automation and scripting with Python, Ansible, or cloud SDKs/CLIs.</li><li>Experience integrating network provisioning into CI/CD pipelines.</li><li>Linux/Unix background; Windows networking experience is beneficial.</li></ul><p>Security &amp; Identity</p><ul><li>Understanding of cloud IAM concepts and their interaction with network security.</li><li>Familiarity with cybersecurity practices, including: Network segmentation, traffic inspection, and incident response. Secure connectivity to on-premises and third-party environments.</li></ul><p>Beneficial skills:</p><ul><li>Experience with API-driven platforms and service interfaces.</li><li>Exposure to internal developer platforms or self-service portals.</li><li>Basic understanding of frontend technologies (HTML, CSS, JavaScript) to support platform integration.</li><li>Experience supporting multi-cloud network architectures (AWS, Azure, GCP, OCI).</li><li>Advanced Cloud Certifications in AWS or Azure.</li></ul><h2>Additional Information</h2><p>Our uniqueness is that we celebrate yours. Experian's people first, inclusive and purpose driven culture is multi award-winning; World's Best Workplaces™ 2025 (Fortune Global Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or explore our Careers Site to understand why.</p><p>Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and individuals with disabilities. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.</p><p>Our benefits include: Medical, life and dental insurance, Asociacion Solidarista, International Share Save Plan, Flex Work/Work from home, Paid time off, Annual Performance Bonus, Education Reimbursement, Family Bonding, Bereavement Leave, Referral Program, and more. </p><p>#LI-Remote</p><p>This is a remote position.</p>",
-      "pubDate": "2026-06-23T02:56:41+00:00"
-    }
-  },
-  {
-    "id": "jobicy:144474",
-    "platform": "jobicy",
-    "external_id": "144474",
-    "title": "Senior Quality Assurance Automation Engineer",
-    "company": "Experian",
-    "description": "Company Description Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries. Job Description Experian is looking for a Senior QA Automation Engineer to test and maintain core enterprise systems while providing technical leadership across distributed teams in the United States and India. You will blend manual and automated test creation with operational ownership, helping engineering teams deliver secure, reliable, and scalable software. You will report to the QA Manager. Primary responsibilities include: Develop automated test harnesses and libraries for UI/API You will create test scripts from smoke, regression, and functional test plans Ensure that tests function well across all supported browsers and platforms Integrate test scripts with frameworks such as Jenkins/Travis CI You will manage inbound test requests, estimating time needed and working with other team members to set priorities Communicate test results and highlight any potential quality risks Assist other software engineers in writing tests. Qualifications Bachelor's degree in Computer Science or equivalent work experience in the field. 5+ years of experience in testing software and maintaining test automation Coding experience with .Net, Java and querying on SQL. Looking for candidate with strong UI automation along with solid API experience. This skill set would enable effective end-to-end support for projects. Experience developing automation frameworks with Ruby/Java/Python/Selenium with SQL/PostgreSQL Experience with RESTful API development or testing Experienced working both independently and on several teams Knowledge of Unix, SQL, Java, JavaScript, HTML, CSS, JSON, and source control Git/TFS/SVN Demonstrated skill in testing Enterprise applications Experience integrating test harnesses and test results into continuous integration and build environments Familiarity with iOS or Android development is beneficial Experience with Jmeter/Soasta/Load Runner performance test tool is also is beneficial MS in Computer Science or technology-related is beneficial Additional Information Our uniqueness is that we celebrate yours. Experian's people first, inclusive and purpose driven culture is multi award-winning; World's Best Workplaces™ 2025 (Fortune Global Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or explore our Careers Site to understand why. Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and individuals with disabilities. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity. Benefits/Perks: Our benefits include: Medical, life and dental insurance, Asociacion Solidarista, International Share Save Plan, Flex Work/Work from home, Paid time off, Annual Performance Bonus, Education Reimbursement, Family Bonding, Bereavement Leave, Referral Program, and more. This is a fully remote job opportunity. #LI-Remote",
-    "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Costa Rica",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "python",
-      "java",
-      "ruby",
-      "postgresql",
-      "jenkins",
-      "ios",
-      "android",
-      "selenium",
-      "rest",
-      "git",
-      "unix"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-23T02:51:41+00:00",
-    "fetched_at": "2026-07-01T01:59:36.163Z",
-    "raw": {
-      "id": 144474,
-      "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
-      "jobSlug": "144474-senior-quality-assurance-automation-engineer",
-      "jobTitle": "Senior Quality Assurance Automation Engineer",
-      "companyName": "Experian",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/09/dcc5b29a570bb19b9f5c3e150db2fdfe.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Costa Rica",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200&hellip;",
-      "jobDescription": "<h2>Company Description</h2><p>Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries. </p><h2>Job Description</h2><p>Experian is looking for a Senior QA Automation Engineer to test and maintain core enterprise systems while providing technical leadership across distributed teams in the United States and India. You will blend manual and automated test creation with operational ownership, helping engineering teams deliver secure, reliable, and scalable software. You will report to the QA Manager.</p><p>Primary responsibilities include:</p><ul><li>Develop automated test harnesses and libraries for UI/API</li><li>You will create test scripts from smoke, regression, and functional test plans</li><li>Ensure that tests function well across all supported browsers and platforms</li><li>Integrate test scripts with frameworks such as Jenkins/Travis CI</li><li>You will manage inbound test requests, estimating time needed and working with other team members to set priorities</li><li>Communicate test results and highlight any potential quality risks</li><li>Assist other software engineers in writing tests.</li></ul><h2>Qualifications</h2><ul><li>Bachelor's degree in Computer Science or equivalent work experience in the field.</li><li>5+ years of experience in testing software and maintaining test automation</li><li>Coding experience with .Net, Java and querying on SQL.</li><li>Looking for candidate with strong UI automation along with solid API experience. This skill set would enable effective end-to-end support for projects.</li><li>Experience developing automation frameworks with Ruby/Java/Python/Selenium with SQL/PostgreSQL</li><li>Experience with RESTful API development or testing</li><li>Experienced working both independently and on several teams</li><li>Knowledge of Unix, SQL, Java, JavaScript, HTML, CSS, JSON, and source control Git/TFS/SVN</li><li>Demonstrated skill in testing Enterprise applications</li><li>Experience integrating test harnesses and test results into continuous integration and build environments</li><li>Familiarity with iOS or Android development is beneficial</li><li>Experience with Jmeter/Soasta/Load Runner performance test tool is also is beneficial</li><li>MS in Computer Science or technology-related is beneficial</li></ul><h2>Additional Information</h2><p>Our uniqueness is that we celebrate yours. Experian's people first, inclusive and purpose driven culture is multi award-winning; World's Best Workplaces™ 2025 (Fortune Global Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or explore our Careers Site to understand why.</p><p>Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and individuals with disabilities. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.</p><ul><li>Benefits/Perks:</li></ul><p>Our benefits include: Medical, life and dental insurance, Asociacion Solidarista, International Share Save Plan, Flex Work/Work from home, Paid time off, Annual Performance Bonus, Education Reimbursement, Family Bonding, Bereavement Leave, Referral Program, and more.</p><ul><li>This is a fully remote job opportunity. #LI-Remote</li></ul>",
-      "pubDate": "2026-06-23T02:51:41+00:00"
     }
   }
 ]
