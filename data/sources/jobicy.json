@@ -1,5 +1,114 @@
 [
   {
+    "id": "jobicy:145309",
+    "platform": "jobicy",
+    "external_id": "145309",
+    "title": "Staff Cloud Security Engineer",
+    "company": "Temporal Technologies",
+    "description": "About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen. Our values guide us —they are present in how we show up, make decisions, and work together to make an impact. We’re curious, driven, collaborative, genuine and humble. Temporal is growing and we are looking for those who share our values, challenge 'standard' thinking, and want to influence our future. If you have a passion for improving the developer experience, building world-class open-source software and communities, and want to be a part of our amazing team, we'd love to hear from you! Summary Join our dynamic team as a Staff Cloud Security Engineer, where you'll play a pivotal role in securing the Temporal cloud environment for our customers. In this position, you'll work closely with our infrastructure teams, software engineering teams, and customers to build security deeply into our platform across multiple clouds. You'll also help shape how we use AI responsibly in both our infrastructure and our engineering processes. We're looking for individuals who are passionate about enabling engineering teams to build and ship securely, serving as trusted security partners across the organization. What You’ll Do Collaborate with product and engineering teams to integrate security principles into the design and architecture of cloud infrastructure across multiple clouds (AWS, GCP, Azure, and others). Secure Temporal's core platform components, including the workflow engine, task queue architecture, and worker execution model - identifying attack surfaces unique to durable, stateful distributed systems. Conduct threat modeling and risk assessments to identify vulnerabilities and potential attack vectors across our multi-cloud environment, with particular focus on workflow execution, task queue integrity, and client-server trust boundaries. Secure Temporal's gRPC-based communication layer, including mTLS certificate management, service mesh configuration, and API authentication. Manage cloud security posture using tools such as Wiz, including misconfiguration detection, compliance monitoring, and remediation across all three cloud providers. Stay current on emerging cloud security standards and guidance (e.g. CSA Cloud Controls Matrix, CIS Benchmarks) and translate these into actionable internal policy. Able to participate in on-call rotation. What You’ll Bring Bachelor’s degree in Computer Science, Cybersecurity, or a related field (or equivalent experience). 5+ years in cloud security or a related role. Proven partnership with engineering teams, bringing security expertise to infrastructure access and security posture. Kubernetes security posture management and auditing, including workload hardening, RBAC design, and admission control. Demonstrated experience with multi-tenant security architecture, including data plane isolation, control plane hardening, and cross-tenant data leakage prevention. Strong opinions on the use of AI in different areas (assessments, threat models, penetration testing, etc). A deep understanding of application architecture and design principles, ability to effectively identify vulnerabilities across multiple programming languages Experience with secrets management at scale (e.g. HashiCorp Vault, AWS Secrets Manager) and payload encryption patterns such as codec servers for protecting sensitive workflow data. Proficiency in Go; familiarity with Python. Go is Temporal's primary server and SDK language. Strong command of gRPC security, mTLS, and service mesh architectures (Istio, Envoy). Excellent communication and ability to explain complex security concepts to non-technical stakeholders. Excellent collaboration and communication skills. Nice to Have Prior experience with Temporal, Cadence, or similar workflow orchestration platforms and an understanding of workflow history, replay semantics, and scheduling internals. FedRAMP, SOC 2 Type II, or ISO 27001 experience, particularly in the context of cloud-native SaaS. Open Source automation or automation projects. Expertise in other areas of security (AppSec, CorpSec, GRC) Security conference talks or published research. Compensation The estimated pay range for this role is $225,000 - $275,000, depending on qualifications and location. This role is eligible to participate in Temporal's equity plan. Compensation ranges reflect salary and commission compensation (when applicable) across several geographic markets. Employment offers carefully consider multiple factors, including prior experience, knowledge, expertise, skillset, market location, and job level assessed during the interview process. Employee benefits and perks below are for full-time employees, part-time or temporary positions are excluded. U.S. Benefits Unlimited PTO, 12 Holidays + 2 Floating Holidays 100% Premiums Coverage for Medical, Dental, and Vision AD&amp;D, LT &amp; ST Disability, and Life Insurance (Standard &amp; Supplemental Available) Empower 401K Plan Additional Perks for Learning &amp; Development, Lifestyle Spending, In-Home Office Setup, Professional Memberships, WFH Meals, Internet Stipend and more! International Benefits Paid Time Off (PTO) and Benefits outside the United States vary by country, and are issued in partnership with Remote.com . Additionally, Temporal offers perks to all international employees for learning &amp; career development, a lifestyle spending account, in-home office setup (in addition to company-issued hardware), professional memberships, work-from-home meals, and access to the Calm app for mental wellness. Travel Temporal is a globally distributed, collaborative team that values opportunities for in-person connection. Occasional travel may be required for company events, team offsites, and other meaningful moments that bring us together. Additional Perks $3,600 / Year Work from Home Meals $1,800 / Year Professional Enrichment (Career Development &amp; Professional Memberships) $1,200 / Year Lifestyle Spending Account $1,000 / Year In-Home Office Setup (In addition to Temporal issued equipment - laptop, monitor, keyboard, mouse, trackpad, and extension power cable at no cost to you) $74 / Month Reimbursement for Internet Calm App Subscription for Mental Health &amp; Wellness Temporal Technologies is an Equal Opportunity Employer. Temporal Technologies does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need. We embrace and celebrate differences and diversity. Temporal is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. If you need to request a reasonable accommodation, please let your Recruiter know so we can assist. We are not working with external recruitment agencies, thanks.",
+    "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "aws",
+      "gcp",
+      "azure",
+      "kubernetes",
+      "grpc"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-03T10:36:44+00:00",
+    "fetched_at": "2026-07-03T18:55:08.198Z",
+    "raw": {
+      "id": 145309,
+      "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
+      "jobSlug": "145309-staff-cloud-security-engineer",
+      "jobTitle": "Staff Cloud Security Engineer",
+      "companyName": "Temporal Technologies",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/491f34a8-221-1.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen.   Our&hellip;",
+      "jobDescription": "<div><h2><strong>About Us</strong></h2>\n<div>Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen.</div>\n<div> </div>\n<div>Our values guide us —they are present in how we show up, make decisions, and work together to make an impact. We’re curious, driven, collaborative, genuine and humble.</div>\n<div> </div>\n<div>Temporal is growing and we are looking for those who share our values, challenge 'standard' thinking, and want to influence our future. If you have a passion for improving the developer experience, building world-class open-source software and communities, and want to be a part of our amazing team, we'd love to hear from you!</div></div><div>\n<h2>Summary</h2>\n<p>Join our dynamic team as a Staff Cloud Security Engineer, where you'll play a pivotal role in securing the Temporal cloud environment for our customers. In this position, you'll work closely with our infrastructure teams, software engineering teams, and customers to build security deeply into our platform across multiple clouds. You'll also help shape how we use AI responsibly in both our infrastructure and our engineering processes. We're looking for individuals who are passionate about enabling engineering teams to build and ship securely, serving as trusted security partners across the organization.</p>\n<h2><strong>What You’ll Do</strong></h2>\n<ul>\n<li>Collaborate with product and engineering teams to integrate security principles into the design and architecture of cloud infrastructure across multiple clouds (AWS, GCP, Azure, and others).</li>\n<li>Secure Temporal's core platform components, including the workflow engine, task queue architecture, and worker execution model - identifying attack surfaces unique to durable, stateful distributed systems.</li>\n<li>Conduct threat modeling and risk assessments to identify vulnerabilities and potential attack vectors across our multi-cloud environment, with particular focus on workflow execution, task queue integrity, and client-server trust boundaries.</li>\n<li>Secure Temporal's gRPC-based communication layer, including mTLS certificate management, service mesh configuration, and API authentication.</li>\n<li>Manage cloud security posture using tools such as Wiz, including misconfiguration detection, compliance monitoring, and remediation across all three cloud providers.</li>\n<li>Stay current on emerging cloud security standards and guidance (e.g. CSA Cloud Controls Matrix, CIS Benchmarks) and translate these into actionable internal policy.</li>\n<li>Able to participate in on-call rotation.</li>\n</ul>\n<h2><strong>What You’ll Bring</strong></h2>\n<ul>\n<li>Bachelor’s degree in Computer Science, Cybersecurity, or a related field (or equivalent experience).</li>\n<li>5+ years in cloud security or a related role.</li>\n<li>Proven partnership with engineering teams, bringing security expertise to infrastructure access and security posture.</li>\n<li>Kubernetes security posture management and auditing, including workload hardening, RBAC design, and admission control.</li>\n<li>Demonstrated experience with multi-tenant security architecture, including data plane isolation, control plane hardening, and cross-tenant data leakage prevention.</li>\n<li>Strong opinions on the use of AI in different areas (assessments, threat models, penetration testing, etc).</li>\n<li>A deep understanding of application architecture and design principles, ability to effectively identify vulnerabilities across multiple programming languages</li>\n<li>Experience with secrets management at scale (e.g. HashiCorp Vault, AWS Secrets Manager) and payload encryption patterns such as codec servers for protecting sensitive workflow data.</li>\n<li>Proficiency in Go; familiarity with Python. Go is Temporal's primary server and SDK language.</li>\n<li>Strong command of gRPC security, mTLS, and service mesh architectures (Istio, Envoy).</li>\n<li>Excellent communication and ability to explain complex security concepts to non-technical stakeholders.</li>\n<li>Excellent collaboration and communication skills.</li>\n</ul>\n<h2><strong>Nice to Have</strong></h2>\n<ul>\n<li>Prior experience with Temporal, Cadence, or similar workflow orchestration platforms and an understanding of workflow history, replay semantics, and scheduling internals.</li>\n<li>FedRAMP, SOC 2 Type II, or ISO 27001 experience, particularly in the context of cloud-native SaaS.</li>\n<li>Open Source automation or automation projects.</li>\n<li>Expertise in other areas of security (AppSec, CorpSec, GRC)</li>\n<li>Security conference talks or published research.</li>\n</ul>\n</div><div>\n<div><strong>Compensation</strong></div>\n<div>\n<ul>\n<li>The estimated pay range for this role is $225,000 - $275,000, depending on qualifications and location.</li>\n<li>This role is eligible to participate in Temporal's equity plan.</li>\n</ul>\n</div>\n</div><div><div><em>Compensation ranges reflect salary and commission compensation (when applicable) across several geographic markets. Employment offers carefully consider multiple factors, including prior experience, knowledge, expertise, skillset, market location, and job level assessed during the interview process.</em></div>\n<div> </div>\n<div><em>Employee benefits and perks below are for full-time employees, part-time or temporary positions are excluded. </em></div>\n<div> </div>\n<div>\n<div><strong>U.S. Benefits </strong></div>\n<div>\n<ul>\n<li>Unlimited PTO, 12 Holidays + 2 Floating Holidays</li>\n<li>100% Premiums Coverage for Medical, Dental, and Vision</li>\n<li>AD&amp;D, LT &amp; ST Disability, and Life Insurance (Standard &amp; Supplemental Available)</li>\n<li>Empower 401K Plan</li>\n<li>Additional Perks for Learning &amp; Development, Lifestyle Spending, In-Home Office Setup, Professional Memberships, WFH Meals, Internet Stipend and more!</li>\n</ul>\n</div>\n</div>\n<div>\n<div><strong>International Benefits</strong></div>\n<div>\n<p>Paid Time Off (PTO) and Benefits outside the United States vary by country, and are issued in partnership with <a href=\"http://remote.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Remote.com</a>. Additionally, Temporal offers perks to all international employees for learning &amp; career development, a lifestyle spending account, in-home office setup (in addition to company-issued hardware), professional memberships, work-from-home meals, and access to the Calm app for mental wellness.</p>\n<p><strong>Travel</strong></p>\n<p>Temporal is a globally distributed, collaborative team that values opportunities for in-person connection. Occasional travel may be required for company events, team offsites, and other meaningful moments that bring us together.</p>\n</div>\n</div>\n<div><strong>Additional Perks </strong></div>\n<div>\n<ul>\n<li>$3,600 / Year Work from Home Meals </li>\n<li>$1,800 / Year Professional Enrichment (Career Development &amp; Professional Memberships)</li>\n<li>$1,200 / Year Lifestyle Spending Account</li>\n<li>$1,000 / Year In-Home Office Setup (In addition to Temporal issued equipment - laptop, monitor, keyboard, mouse, trackpad, and extension power cable at no cost to you)</li>\n<li>$74 / Month Reimbursement for Internet</li>\n<li>Calm App Subscription for Mental Health &amp; Wellness</li>\n</ul>\n</div>\n<div><em>Temporal Technologies is an Equal Opportunity Employer. Temporal Technologies does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need. We embrace and celebrate differences and diversity.</em></div>\n<div> </div>\n<div><em>Temporal is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. If you need to request a reasonable accommodation, please let your Recruiter know so we can assist.</em></div>\n<div> </div>\n<div><em>We are not working with external recruitment agencies, thanks.</em></div></div>",
+      "pubDate": "2026-07-03T10:36:44+00:00",
+      "salaryMin": 225000,
+      "salaryMax": 275000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:145328",
+    "platform": "jobicy",
+    "external_id": "145328",
+    "title": "Senior Staff Software Engineer - Data Platform",
+    "company": "Marqeta",
+    "description": "This is a software engineering role on a software engineering team. The team builds and operates the data platform: the infrastructure, abstractions, and SDKs that the rest of Marqeta's data and ML organization runs on. We are not writing pipelines–we are building the platform pipelines run on. If you've spent your career building infrastructure that other engineers depend on; and you know the difference between “software engineering” and \"data engineering\", read on. We work Flexible First . This role can be performed remotely anywhere within the United States or from our Oakland office. We’d love for you to join us! Learn more about our Product and Engineering team . At Marqeta, participation in a rotational on-call pager duty is a required part of the software engineering role. The specifics of the rotation may vary by team, depending on team size and structure, and will be discussed further during the interview process. What you'd own The lakehouse and the streaming ingestion that feeds it. Iceberg/Delta on S3, Spark/Glue processing, Kafka and CDC pipelines, the abstractions that let other teams land data, build pipelines, and publish datasets without inventing the patterns themselves. You’d help set the multi-year technical direction, design the golden paths, and ship the work — directly, with your hands on the code that matters. How the team works You’d report to the Director of Data Engineering and partner with a peer Manager whose scope is people leadership and operational delivery. You own technical direction, application architecture, and the engineering bar. You’ll work alongside other senior staff engineers across the broader data platform org, and partner with security, compliance, and the consumer teams who depend on what we ship. What \"hands-on\" actually means here Worth being specific, because “hands-on” means different things to different people: Yes: writing production code on the platform's hardest problems, owning the design and build of new abstractions end-to-end, leading design reviews, setting the engineering bar through the work itself. Sometimes: prototyping, deep diving on a tricky migration, pairing with engineers on tough problems. What the work looks like Modernization. Building out the lakehouse — the patterns Marqeta will run on for years. New abstractions, new tooling, the paved road internal teams want to use. Live system work. Evolving and hardening the platform that's already in production. Reliability, performance, developer experience — improved without disrupting the teams who depend on it. Engineering excellence. Testing confidence, release velocity. On call, blameless postmortems. What you bring We care more about demonstrated work than years on paper, but the experience this role asks for typically takes around a decade to accumulate. A career building data platforms, not just pipelines. You can name the abstractions you've designed, the teams that adopted them, and the problems they solved. If most of your last several years has been writing transformations rather than building the system transformations run on, this isn't the right shape. Production depth in modern lakehouse work. Iceberg or Delta in production. Strong fluency in the surrounding stack: AWS data services (S3, Glue, EMR), Spark, Airflow, Kafka, IAM boundaries for multi-tenant data access. You don't need depth in all of it — you need real depth in the lakehouse and credible engagement with the rest. Mastery of Python in a production data-platform context, with credible depth in Go or Java. Idioms, ecosystem, performance characteristics, the parts that bite at scale. The ability to adopt the best tool for the job. A track record of evolving live infrastructure. Improving reliability, performance, and DX on systems that real teams depend on, sequenced so the work doesn't disrupt them. Ownership of major platform transitions. Build vs. buy, migration design, risk management, all the way through to delivery. You've led at least one of these end-to-end and can talk through what went right, what didn't, and what you'd do differently. Influence as a working skill. You build alignment across platform, security, and consumer teams. You write design docs and RFCs people actually read. You can hold a strong technical position and update on evidence. A history of growing other engineers — including peers at your level. The team gets stronger because you're on it. Helpful, not required: payments or fintech context (PCI-DSS, SOX, SOC 2). CDC tooling experience (Debezium, Kafka Connect). Data governance tooling (DataHub, Amundsen, Collibra). Public technical writing or open-source contributions to data infrastructure. Typical Process Application Submission Recruiter Video Call Coding Interview &amp; Hiring Manager Interview Virtual \"Onsite\" consisting of four 45-60 min video calls Offer! Compensation and Benefits Marqeta is a Flex First company which allows you to choose your best working environment, whether that be from home or at a company office. To support Flex First, we calibrate pay to a competitive value according to working location. Compensation is aligned according to three tiers within the United States: National: A baseline tier that applies to most of the geographic territory of the United States. Premium: Slightly elevated from the National tier, and oriented toward a narrower set of higher cost-of-living areas, such as Los Angeles CA and Seattle WA Premium Plus: A tier for the most expensive working areas, like the San Francisco Bay area and New York City. Visit this page or consult with a Recruiter to determine which tier would be applicable to you. When determining salaries, we consider several factors including, but not limited to, skills, prior experience, and work location. The new-hire base salary range for this position is: National: 200,500 - 250,600 Premium: 210,200 - 262,800 Premium Plus: 220,000 - 275,000 We also believe in recognizing the contributions of our people. That's why we award annual bonuses to eligible employees, rewarding both individual performance and the success of the entire company. Along with monetary compensation, Marqeta offers Multiple health insurance options Flexible time off – take what you need Retirement savings program with company contribution and after tax contributions Equity in a publicly-traded company and an Employee Stock Purchase Program Family-forming benefits, fertility support, and up to 20 weeks of Parental Leave Free therapy sessions, financial and professional coaching, and legal advice Monthly stipend to support our remote work model Annual “development dollars” to support our people growth and development Through Flex First, the freedom to live and work wherever you and your family thrive",
+    "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "java",
+      "aws",
+      "machine-learning",
+      "spark",
+      "airflow",
+      "kafka"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-03T10:26:42+00:00",
+    "fetched_at": "2026-07-03T18:55:08.200Z",
+    "raw": {
+      "id": 145328,
+      "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
+      "jobSlug": "145328-senior-staff-software-engineer-data-platform",
+      "jobTitle": "Senior Staff Software Engineer - Data Platform",
+      "companyName": "Marqeta",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/792239a5-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "This is a software engineering role on a software engineering team. The team builds and operates the data platform: the infrastructure, abstractions, and SDKs that the rest of Marqeta's data and ML organization runs on. We are not writing pipelines–we are building the platform pipelines run on.If you've spent your career building infrastructure that other&hellip;",
+      "jobDescription": "<p>This is a software engineering role on a software engineering team. The team builds and operates the data platform: the infrastructure, abstractions, and SDKs that the rest of Marqeta's data and ML organization runs on. We are not writing pipelines–we are building the platform pipelines run on.</p><p>If you've spent your career building infrastructure that other engineers depend on; and you know the difference between “software engineering” and \"data engineering\", read on.</p><p>We work <a href=\"https://www.marqeta.com/blog/2022/05/10/flexible-first\" rel=\"nofollow ugc noopener\" target=\"_blank\">Flexible First</a>. This role can be performed remotely anywhere within the United States or from our Oakland office. We’d love for you to join us!</p><p><a href=\"https://www.marqeta.com/company/tech-at-marqeta\" rel=\"nofollow ugc noopener\" target=\"_blank\">Learn more about our Product and Engineering team</a>.</p><p>At Marqeta, participation in a rotational on-call pager duty is a required part of the software engineering role. The specifics of the rotation may vary by team, depending on team size and structure, and will be discussed further during the interview process.</p><h2><strong>What you'd own</strong></h2><p>The lakehouse and the streaming ingestion that feeds it. Iceberg/Delta on S3, Spark/Glue processing, Kafka and CDC pipelines, the abstractions that let other teams land data, build pipelines, and publish datasets without inventing the patterns themselves. You’d help set the multi-year technical direction, design the golden paths, and ship the work — directly, with your hands on the code that matters.</p><h2><strong>How the team works</strong></h2><p>You’d report to the Director of Data Engineering and partner with a peer Manager whose scope is people leadership and operational delivery. You own technical direction, application architecture, and the engineering bar. You’ll work alongside other senior staff engineers across the broader data platform org, and partner with security, compliance, and the consumer teams who depend on what we ship.</p><h2><strong>What \"hands-on\" actually means here</strong></h2><p>Worth being specific, because “hands-on” means different things to different people:</p><ul>\n<li><strong>Yes:</strong> writing production code on the platform's hardest problems, owning the design and build of new abstractions end-to-end, leading design reviews, setting the engineering bar through the work itself.</li>\n<li><strong>Sometimes:</strong> prototyping, deep diving on a tricky migration, pairing with engineers on tough problems.</li>\n</ul><h2><strong>What the work looks like</strong></h2><ul>\n<li><strong>Modernization.</strong> Building out the lakehouse — the patterns Marqeta will run on for years. New abstractions, new tooling, the paved road internal teams <em>want</em> to use.</li>\n<li><strong>Live system work.</strong> Evolving and hardening the platform that's already in production. Reliability, performance, developer experience — improved without disrupting the teams who depend on it.</li>\n<li><strong>Engineering excellence.</strong> Testing confidence, release velocity. On call, blameless postmortems.</li>\n</ul><h2><strong>What you bring</strong></h2><p>We care more about demonstrated work than years on paper, but the experience this role asks for typically takes around a decade to accumulate.</p><ul>\n<li><strong>A career building data platforms, not just pipelines.</strong> You can name the abstractions you've designed, the teams that adopted them, and the problems they solved. If most of your last several years has been writing transformations rather than building the system transformations run on, this isn't the right shape.</li>\n<li><strong>Production depth in modern lakehouse work.</strong> Iceberg or Delta in production. Strong fluency in the surrounding stack: AWS data services (S3, Glue, EMR), Spark, Airflow, Kafka, IAM boundaries for multi-tenant data access. You don't need depth in all of it — you need real depth in the lakehouse and credible engagement with the rest.</li>\n<li><strong>Mastery of Python in a production data-platform context, with credible depth in Go or Java.</strong> Idioms, ecosystem, performance characteristics, the parts that bite at scale. The ability to adopt the best tool for the job.</li>\n<li><strong>A track record of evolving live infrastructure.</strong> Improving reliability, performance, and DX on systems that real teams depend on, sequenced so the work doesn't disrupt them.</li>\n<li><strong>Ownership of major platform transitions.</strong> Build vs. buy, migration design, risk management, all the way through to delivery. You've led at least one of these end-to-end and can talk through what went right, what didn't, and what you'd do differently.</li>\n<li><strong>Influence as a working skill.</strong> You build alignment across platform, security, and consumer teams. You write design docs and RFCs people actually read. You can hold a strong technical position and update on evidence.</li>\n<li><strong>A history of growing other engineers</strong> — including peers at your level. The team gets stronger because you're on it.</li>\n</ul><p><strong>Helpful, not required:</strong> payments or fintech context (PCI-DSS, SOX, SOC 2). CDC tooling experience (Debezium, Kafka Connect). Data governance tooling (DataHub, Amundsen, Collibra). Public technical writing or open-source contributions to data infrastructure.</p><p><strong>Typical Process</strong></p><ul>\n<li>Application Submission</li>\n<li>Recruiter Video Call</li>\n<li>Coding Interview &amp; Hiring Manager Interview</li>\n<li>Virtual \"Onsite\" consisting of four 45-60 min video calls</li>\n<li>Offer!</li>\n</ul><p><strong>Compensation and Benefits</strong></p><p>Marqeta is a Flex First company which allows you to choose your best working environment, whether that be from home or at a company office. To support Flex First, we calibrate pay to a competitive value according to working location. Compensation is aligned according to three tiers within the United States:</p><ul>\n<li><strong>National:</strong> A baseline tier that applies to most of the geographic territory of the United States.</li>\n<li><strong>Premium:</strong> Slightly elevated from the National tier, and oriented toward a narrower set of higher cost-of-living areas, such as Los Angeles CA and Seattle WA</li>\n<li><strong>Premium Plus:</strong> A tier for the most expensive working areas, like the San Francisco Bay area and New York City.</li>\n</ul><p>Visit <a href=\"https://www.marqeta.com/company/salaryzones\" rel=\"nofollow ugc noopener\" target=\"_blank\">this page</a> or consult with a Recruiter to determine which tier would be applicable to you.</p><p>When determining salaries, we consider several factors including, but not limited to, skills, prior experience, and work location. The new-hire base salary range for this position is:</p><ul>\n<li>National: 200,500 - 250,600</li>\n<li>Premium: 210,200 - 262,800</li>\n<li>Premium Plus: 220,000 - 275,000</li>\n</ul><p>We also believe in recognizing the contributions of our people. That's why we award annual bonuses to eligible employees, rewarding both individual performance and the success of the entire company.</p><p>Along with monetary compensation, Marqeta offers</p><ul>\n<li>Multiple health insurance options</li>\n<li>Flexible time off – take what you need</li>\n<li>Retirement savings program with company contribution and after tax contributions</li>\n<li>Equity in a publicly-traded company and an Employee Stock Purchase Program</li>\n<li>Family-forming benefits, fertility support, and up to 20 weeks of Parental Leave</li>\n<li>Free therapy sessions, financial and professional coaching, and legal advice</li>\n<li>Monthly stipend to support our remote work model</li>\n<li>Annual “development dollars” to support our people growth and development</li>\n<li>Through Flex First, the freedom to live and work wherever you and your family thrive</li>\n</ul>",
+      "pubDate": "2026-07-03T10:26:42+00:00",
+      "salaryMin": 200500,
+      "salaryMax": 250600,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:145335",
     "platform": "jobicy",
     "external_id": "145335",
@@ -21,7 +130,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:16:44+00:00",
-    "fetched_at": "2026-07-03T13:24:48.434Z",
+    "fetched_at": "2026-07-03T18:55:08.201Z",
     "raw": {
       "id": 145335,
       "url": "https://jobicy.com/jobs/145335-engineering-manager-advanced-signals-swe",
@@ -70,7 +179,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T02:44:05+00:00",
-    "fetched_at": "2026-07-03T13:24:48.435Z",
+    "fetched_at": "2026-07-03T18:55:08.202Z",
     "raw": {
       "id": 148507,
       "url": "https://jobicy.com/jobs/148507-connectivity-integration-lead-data-center-infrastructure",
@@ -120,7 +229,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T11:41:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.436Z",
+    "fetched_at": "2026-07-03T18:55:08.203Z",
     "raw": {
       "id": 145054,
       "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
@@ -163,7 +272,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T11:21:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.437Z",
+    "fetched_at": "2026-07-03T18:55:08.205Z",
     "raw": {
       "id": 145072,
       "url": "https://jobicy.com/jobs/145072-senior-sales-engineer-majors",
@@ -215,7 +324,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T10:41:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.438Z",
+    "fetched_at": "2026-07-03T18:55:08.205Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -277,7 +386,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-02T10:26:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.440Z",
+    "fetched_at": "2026-07-03T18:55:08.207Z",
     "raw": {
       "id": 145227,
       "url": "https://jobicy.com/jobs/145227-senior-full-stack-ai-native-developer",
@@ -320,7 +429,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T07:43:23+00:00",
-    "fetched_at": "2026-07-03T13:24:48.441Z",
+    "fetched_at": "2026-07-03T18:55:08.208Z",
     "raw": {
       "id": 148357,
       "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
@@ -367,7 +476,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:41:06+00:00",
-    "fetched_at": "2026-07-03T13:24:48.442Z",
+    "fetched_at": "2026-07-03T18:55:08.210Z",
     "raw": {
       "id": 148338,
       "url": "https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term",
@@ -416,7 +525,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:07:36+00:00",
-    "fetched_at": "2026-07-03T13:24:48.443Z",
+    "fetched_at": "2026-07-03T18:55:08.211Z",
     "raw": {
       "id": 148327,
       "url": "https://jobicy.com/jobs/148327-cost-engineer",
@@ -462,7 +571,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:07:34+00:00",
-    "fetched_at": "2026-07-03T13:24:48.445Z",
+    "fetched_at": "2026-07-03T18:55:08.212Z",
     "raw": {
       "id": 148326,
       "url": "https://jobicy.com/jobs/148326-substation-engineer-remote-part-time",
@@ -515,7 +624,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:07:33+00:00",
-    "fetched_at": "2026-07-03T13:24:48.446Z",
+    "fetched_at": "2026-07-03T18:55:08.213Z",
     "raw": {
       "id": 148325,
       "url": "https://jobicy.com/jobs/148325-senior-backend-software-engineer-usa-remote",
@@ -570,7 +679,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T03:52:51+00:00",
-    "fetched_at": "2026-07-03T13:24:48.447Z",
+    "fetched_at": "2026-07-03T18:55:08.214Z",
     "raw": {
       "id": 148319,
       "url": "https://jobicy.com/jobs/148319-senior-software-engineer-customer-experience-platform",
@@ -616,7 +725,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T11:11:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.448Z",
+    "fetched_at": "2026-07-03T18:55:08.215Z",
     "raw": {
       "id": 145122,
       "url": "https://jobicy.com/jobs/145122-middle-strong-general-qa-with-ai",
@@ -664,7 +773,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T10:51:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.448Z",
+    "fetched_at": "2026-07-03T18:55:08.216Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -726,7 +835,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T10:46:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.450Z",
+    "fetched_at": "2026-07-03T18:55:08.217Z",
     "raw": {
       "id": 145145,
       "url": "https://jobicy.com/jobs/145145-mts-cloud-test",
@@ -782,7 +891,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T06:41:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.450Z",
+    "fetched_at": "2026-07-03T18:55:08.218Z",
     "raw": {
       "id": 146283,
       "url": "https://jobicy.com/jobs/146283-senior-full-stack-engineer-react-or-vue-python-investment-latam",
@@ -833,7 +942,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T06:30:52+00:00",
-    "fetched_at": "2026-07-03T13:24:48.451Z",
+    "fetched_at": "2026-07-03T18:55:08.219Z",
     "raw": {
       "id": 148224,
       "url": "https://jobicy.com/jobs/148224-senior-platform-engineer",
@@ -882,7 +991,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T02:13:33+00:00",
-    "fetched_at": "2026-07-03T13:24:48.453Z",
+    "fetched_at": "2026-07-03T18:55:08.221Z",
     "raw": {
       "id": 148199,
       "url": "https://jobicy.com/jobs/148199-data-engineer-engineering-operations",
@@ -940,7 +1049,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T02:13:30+00:00",
-    "fetched_at": "2026-07-03T13:24:48.454Z",
+    "fetched_at": "2026-07-03T18:55:08.222Z",
     "raw": {
       "id": 148197,
       "url": "https://jobicy.com/jobs/148197-software-engineer-unity",
@@ -993,7 +1102,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-30T17:21:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.455Z",
+    "fetched_at": "2026-07-03T18:55:08.222Z",
     "raw": {
       "id": 144087,
       "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
@@ -1041,7 +1150,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:22+00:00",
-    "fetched_at": "2026-07-03T13:24:48.457Z",
+    "fetched_at": "2026-07-03T18:55:08.224Z",
     "raw": {
       "id": 148145,
       "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
@@ -1096,7 +1205,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:20+00:00",
-    "fetched_at": "2026-07-03T13:24:48.458Z",
+    "fetched_at": "2026-07-03T18:55:08.225Z",
     "raw": {
       "id": 148144,
       "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
@@ -1152,7 +1261,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:19+00:00",
-    "fetched_at": "2026-07-03T13:24:48.459Z",
+    "fetched_at": "2026-07-03T18:55:08.226Z",
     "raw": {
       "id": 148143,
       "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
@@ -1209,7 +1318,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:15+00:00",
-    "fetched_at": "2026-07-03T13:24:48.461Z",
+    "fetched_at": "2026-07-03T18:55:08.227Z",
     "raw": {
       "id": 148141,
       "url": "https://jobicy.com/jobs/148141-demo-engineer",
@@ -1264,7 +1373,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T04:41:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.462Z",
+    "fetched_at": "2026-07-03T18:55:08.228Z",
     "raw": {
       "id": 143126,
       "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
@@ -1309,7 +1418,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T03:46:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.463Z",
+    "fetched_at": "2026-07-03T18:55:08.230Z",
     "raw": {
       "id": 143221,
       "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
@@ -1358,7 +1467,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T02:36:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.465Z",
+    "fetched_at": "2026-07-03T18:55:08.232Z",
     "raw": {
       "id": 143399,
       "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
@@ -1418,7 +1527,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T02:33:57+00:00",
-    "fetched_at": "2026-07-03T13:24:48.467Z",
+    "fetched_at": "2026-07-03T18:55:08.234Z",
     "raw": {
       "id": 148118,
       "url": "https://jobicy.com/jobs/148118-senior-backend-engineer-elixir-2",
@@ -1472,7 +1581,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:56:44+00:00",
-    "fetched_at": "2026-07-03T13:24:48.468Z",
+    "fetched_at": "2026-07-03T18:55:08.235Z",
     "raw": {
       "id": 144806,
       "url": "https://jobicy.com/jobs/144806-sailpoint-iam-engineer",
@@ -1522,7 +1631,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:16:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.469Z",
+    "fetched_at": "2026-07-03T18:55:08.236Z",
     "raw": {
       "id": 144851,
       "url": "https://jobicy.com/jobs/144851-lead-backend-engineer",
@@ -1574,7 +1683,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:51:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.471Z",
+    "fetched_at": "2026-07-03T18:55:08.238Z",
     "raw": {
       "id": 144874,
       "url": "https://jobicy.com/jobs/144874-senior-ai-engineer-4",
@@ -1621,7 +1730,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:11:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.472Z",
+    "fetched_at": "2026-07-03T18:55:08.239Z",
     "raw": {
       "id": 144970,
       "url": "https://jobicy.com/jobs/144970-sap-btp-integration-developer-m-f-d",
@@ -1667,7 +1776,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:21:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.473Z",
+    "fetched_at": "2026-07-03T18:55:08.240Z",
     "raw": {
       "id": 145005,
       "url": "https://jobicy.com/jobs/145005-software-engineer-ii-network-operations",
@@ -1732,7 +1841,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:10+00:00",
-    "fetched_at": "2026-07-03T13:24:48.475Z",
+    "fetched_at": "2026-07-03T18:55:08.241Z",
     "raw": {
       "id": 148065,
       "url": "https://jobicy.com/jobs/148065-senior-backend-engineer",
@@ -1783,7 +1892,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:08+00:00",
-    "fetched_at": "2026-07-03T13:24:48.477Z",
+    "fetched_at": "2026-07-03T18:55:08.243Z",
     "raw": {
       "id": 148064,
       "url": "https://jobicy.com/jobs/148064-engineering-team-leader-2",
@@ -1836,7 +1945,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-29T12:11:45+00:00",
-    "fetched_at": "2026-07-03T13:24:48.478Z",
+    "fetched_at": "2026-07-03T18:55:08.244Z",
     "raw": {
       "id": 148051,
       "url": "https://jobicy.com/jobs/148051-backend-php-developer",
@@ -1885,7 +1994,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T19:01:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.479Z",
+    "fetched_at": "2026-07-03T18:55:08.245Z",
     "raw": {
       "id": 144909,
       "url": "https://jobicy.com/jobs/144909-senior-android-engineer-2",
@@ -1939,7 +2048,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T18:36:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.481Z",
+    "fetched_at": "2026-07-03T18:55:08.248Z",
     "raw": {
       "id": 144932,
       "url": "https://jobicy.com/jobs/144932-senior-security-engineer-grc-automation",
@@ -1991,7 +2100,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-28T17:31:44+00:00",
-    "fetched_at": "2026-07-03T13:24:48.482Z",
+    "fetched_at": "2026-07-03T18:55:08.249Z",
     "raw": {
       "id": 145128,
       "url": "https://jobicy.com/jobs/145128-agentic-ai-developer",
@@ -2049,7 +2158,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:21+00:00",
-    "fetched_at": "2026-07-03T13:24:48.483Z",
+    "fetched_at": "2026-07-03T18:55:08.249Z",
     "raw": {
       "id": 147980,
       "url": "https://jobicy.com/jobs/147980-node-js-react-tech-lead-latam-remote",
@@ -2101,7 +2210,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:11+00:00",
-    "fetched_at": "2026-07-03T13:24:48.483Z",
+    "fetched_at": "2026-07-03T18:55:08.249Z",
     "raw": {
       "id": 147975,
       "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
@@ -2156,7 +2265,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:09+00:00",
-    "fetched_at": "2026-07-03T13:24:48.483Z",
+    "fetched_at": "2026-07-03T18:55:08.250Z",
     "raw": {
       "id": 147974,
       "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
@@ -2199,7 +2308,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T21:21:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.484Z",
+    "fetched_at": "2026-07-03T18:55:08.251Z",
     "raw": {
       "id": 147705,
       "url": "https://jobicy.com/jobs/147705-cpq-architect",
@@ -2242,7 +2351,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T19:11:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.485Z",
+    "fetched_at": "2026-07-03T18:55:08.252Z",
     "raw": {
       "id": 142065,
       "url": "https://jobicy.com/jobs/142065-senior-model-based-system-engineer",
@@ -2291,7 +2400,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:36:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.486Z",
+    "fetched_at": "2026-07-03T18:55:08.252Z",
     "raw": {
       "id": 142109,
       "url": "https://jobicy.com/jobs/142109-senior-hpc-performance-engineer",
@@ -2342,7 +2451,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:31:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.487Z",
+    "fetched_at": "2026-07-03T18:55:08.253Z",
     "raw": {
       "id": 142111,
       "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
@@ -2394,7 +2503,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T17:21:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.488Z",
+    "fetched_at": "2026-07-03T18:55:08.254Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -2447,7 +2556,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:46:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.489Z",
+    "fetched_at": "2026-07-03T18:55:08.255Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -2497,7 +2606,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:21:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.490Z",
+    "fetched_at": "2026-07-03T18:55:08.256Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -2540,7 +2649,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T14:11:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.491Z",
+    "fetched_at": "2026-07-03T18:55:08.257Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -2598,7 +2707,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:56:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.492Z",
+    "fetched_at": "2026-07-03T18:55:08.258Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -2645,7 +2754,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:11:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.493Z",
+    "fetched_at": "2026-07-03T18:55:08.259Z",
     "raw": {
       "id": 142565,
       "url": "https://jobicy.com/jobs/142565-technical-principal",
@@ -2688,7 +2797,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T09:11:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.494Z",
+    "fetched_at": "2026-07-03T18:55:08.260Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -2744,7 +2853,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:41:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.496Z",
+    "fetched_at": "2026-07-03T18:55:08.262Z",
     "raw": {
       "id": 142760,
       "url": "https://jobicy.com/jobs/142760-software-engineer-video",
@@ -2798,7 +2907,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:31:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.497Z",
+    "fetched_at": "2026-07-03T18:55:08.263Z",
     "raw": {
       "id": 142770,
       "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
@@ -2845,7 +2954,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:36:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.498Z",
+    "fetched_at": "2026-07-03T18:55:08.264Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -2903,7 +3012,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:31:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.500Z",
+    "fetched_at": "2026-07-03T18:55:08.266Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -2950,7 +3059,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:45+00:00",
-    "fetched_at": "2026-07-03T13:24:48.501Z",
+    "fetched_at": "2026-07-03T18:55:08.267Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -2993,7 +3102,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.502Z",
+    "fetched_at": "2026-07-03T18:55:08.268Z",
     "raw": {
       "id": 143733,
       "url": "https://jobicy.com/jobs/143733-senior-staff-engineer",
@@ -3038,7 +3147,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:26+00:00",
-    "fetched_at": "2026-07-03T13:24:48.503Z",
+    "fetched_at": "2026-07-03T18:55:08.269Z",
     "raw": {
       "id": 147871,
       "url": "https://jobicy.com/jobs/147871-senior-associate-automation-engineer",
@@ -3087,7 +3196,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:23+00:00",
-    "fetched_at": "2026-07-03T13:24:48.504Z",
+    "fetched_at": "2026-07-03T18:55:08.270Z",
     "raw": {
       "id": 147869,
       "url": "https://jobicy.com/jobs/147869-associate-automation-engineer",
@@ -3136,7 +3245,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:11+00:00",
-    "fetched_at": "2026-07-03T13:24:48.505Z",
+    "fetched_at": "2026-07-03T18:55:08.271Z",
     "raw": {
       "id": 147862,
       "url": "https://jobicy.com/jobs/147862-staff-software-engineer-media-experiences",
@@ -3195,7 +3304,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.508Z",
+    "fetched_at": "2026-07-03T18:55:08.275Z",
     "raw": {
       "id": 142467,
       "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
@@ -3254,7 +3363,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.512Z",
+    "fetched_at": "2026-07-03T18:55:08.278Z",
     "raw": {
       "id": 142468,
       "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
@@ -3309,7 +3418,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:01:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.513Z",
+    "fetched_at": "2026-07-03T18:55:08.279Z",
     "raw": {
       "id": 142478,
       "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
@@ -3352,7 +3461,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T16:16:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.514Z",
+    "fetched_at": "2026-07-03T18:55:08.280Z",
     "raw": {
       "id": 142515,
       "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
@@ -3404,7 +3513,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:51:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.515Z",
+    "fetched_at": "2026-07-03T18:55:08.281Z",
     "raw": {
       "id": 142527,
       "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
@@ -3456,7 +3565,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:36:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.517Z",
+    "fetched_at": "2026-07-03T18:55:08.283Z",
     "raw": {
       "id": 142566,
       "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
@@ -3507,7 +3616,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T14:41:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.517Z",
+    "fetched_at": "2026-07-03T18:55:08.284Z",
     "raw": {
       "id": 142662,
       "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
@@ -3557,7 +3666,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T12:46:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.520Z",
+    "fetched_at": "2026-07-03T18:55:08.285Z",
     "raw": {
       "id": 142756,
       "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
@@ -3610,7 +3719,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T12:06:41+00:00",
-    "fetched_at": "2026-07-03T13:24:48.520Z",
+    "fetched_at": "2026-07-03T18:55:08.285Z",
     "raw": {
       "id": 142967,
       "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
@@ -3661,7 +3770,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:13:26+00:00",
-    "fetched_at": "2026-07-03T13:24:48.521Z",
+    "fetched_at": "2026-07-03T18:55:08.286Z",
     "raw": {
       "id": 147758,
       "url": "https://jobicy.com/jobs/147758-senior-software-engineer-java",
@@ -3712,7 +3821,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T11:08:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.522Z",
+    "fetched_at": "2026-07-03T18:55:08.287Z",
     "raw": {
       "id": 147754,
       "url": "https://jobicy.com/jobs/147754-senior-python-data-scraping-engineer-freelance",
@@ -3766,7 +3875,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:08:30+00:00",
-    "fetched_at": "2026-07-03T13:24:48.523Z",
+    "fetched_at": "2026-07-03T18:55:08.288Z",
     "raw": {
       "id": 147747,
       "url": "https://jobicy.com/jobs/147747-senior-software-engineer",
@@ -3819,7 +3928,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-25T11:08:25+00:00",
-    "fetched_at": "2026-07-03T13:24:48.524Z",
+    "fetched_at": "2026-07-03T18:55:08.289Z",
     "raw": {
       "id": 147744,
       "url": "https://jobicy.com/jobs/147744-senior-software-quality-engineer-mexico-remote",
@@ -3873,7 +3982,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:21:45+00:00",
-    "fetched_at": "2026-07-03T13:24:48.525Z",
+    "fetched_at": "2026-07-03T18:55:08.290Z",
     "raw": {
       "id": 143127,
       "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
@@ -3930,7 +4039,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T10:06:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.526Z",
+    "fetched_at": "2026-07-03T18:55:08.291Z",
     "raw": {
       "id": 143143,
       "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
@@ -3973,7 +4082,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:45+00:00",
-    "fetched_at": "2026-07-03T13:24:48.527Z",
+    "fetched_at": "2026-07-03T18:55:08.292Z",
     "raw": {
       "id": 143147,
       "url": "https://jobicy.com/jobs/143147-security-architect-ii",
@@ -4016,7 +4125,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:44+00:00",
-    "fetched_at": "2026-07-03T13:24:48.528Z",
+    "fetched_at": "2026-07-03T18:55:08.293Z",
     "raw": {
       "id": 143148,
       "url": "https://jobicy.com/jobs/143148-sotif-expert-all-genders",
@@ -4065,7 +4174,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T09:46:42+00:00",
-    "fetched_at": "2026-07-03T13:24:48.529Z",
+    "fetched_at": "2026-07-03T18:55:08.295Z",
     "raw": {
       "id": 143220,
       "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
@@ -4117,7 +4226,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T09:41:44+00:00",
-    "fetched_at": "2026-07-03T13:24:48.531Z",
+    "fetched_at": "2026-07-03T18:55:08.296Z",
     "raw": {
       "id": 143283,
       "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
@@ -4166,7 +4275,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:56:45+00:00",
-    "fetched_at": "2026-07-03T13:24:48.531Z",
+    "fetched_at": "2026-07-03T18:55:08.297Z",
     "raw": {
       "id": 143438,
       "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
@@ -4209,7 +4318,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:56:44+00:00",
-    "fetched_at": "2026-07-03T13:24:48.533Z",
+    "fetched_at": "2026-07-03T18:55:08.299Z",
     "raw": {
       "id": 143441,
       "url": "https://jobicy.com/jobs/143441-quality-engineer",
@@ -4262,7 +4371,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:41:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.534Z",
+    "fetched_at": "2026-07-03T18:55:08.300Z",
     "raw": {
       "id": 143481,
       "url": "https://jobicy.com/jobs/143481-principal-engineer",
@@ -4308,7 +4417,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:45+00:00",
-    "fetched_at": "2026-07-03T13:24:48.535Z",
+    "fetched_at": "2026-07-03T18:55:08.301Z",
     "raw": {
       "id": 143575,
       "url": "https://jobicy.com/jobs/143575-solutions-architect-networking",
@@ -4355,7 +4464,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:43+00:00",
-    "fetched_at": "2026-07-03T13:24:48.536Z",
+    "fetched_at": "2026-07-03T18:55:08.302Z",
     "raw": {
       "id": 143573,
       "url": "https://jobicy.com/jobs/143573-senior-solutions-architect-networking-public-sector",
@@ -4408,7 +4517,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T07:51:50+00:00",
-    "fetched_at": "2026-07-03T13:24:48.537Z",
+    "fetched_at": "2026-07-03T18:55:08.303Z",
     "raw": {
       "id": 143676,
       "url": "https://jobicy.com/jobs/143676-software-developer-iii",
@@ -4455,7 +4564,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T06:05:40+00:00",
-    "fetched_at": "2026-07-03T13:24:48.537Z",
+    "fetched_at": "2026-07-03T18:55:08.305Z",
     "raw": {
       "id": 147723,
       "url": "https://jobicy.com/jobs/147723-financial-software-engineer",
@@ -4516,7 +4625,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T04:46:44+00:00",
-    "fetched_at": "2026-07-03T13:24:48.539Z",
+    "fetched_at": "2026-07-03T18:55:08.307Z",
     "raw": {
       "id": 144689,
       "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
@@ -4565,7 +4674,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T04:36:46+00:00",
-    "fetched_at": "2026-07-03T13:24:48.540Z",
+    "fetched_at": "2026-07-03T18:55:08.308Z",
     "raw": {
       "id": 144716,
       "url": "https://jobicy.com/jobs/144716-enterprise-solutions-engineer-germany",
@@ -4612,7 +4721,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T03:27:06+00:00",
-    "fetched_at": "2026-07-03T13:24:48.541Z",
+    "fetched_at": "2026-07-03T18:55:08.309Z",
     "raw": {
       "id": 147700,
       "url": "https://jobicy.com/jobs/147700-principal-software-architect",
@@ -4671,7 +4780,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T03:22:04+00:00",
-    "fetched_at": "2026-07-03T13:24:48.543Z",
+    "fetched_at": "2026-07-03T18:55:08.310Z",
     "raw": {
       "id": 147692,
       "url": "https://jobicy.com/jobs/147692-voice-backend-software-engineer-node-js-and-java-remote-us",
@@ -4728,7 +4837,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T12:32:48+00:00",
-    "fetched_at": "2026-07-03T13:24:48.544Z",
+    "fetched_at": "2026-07-03T18:55:08.311Z",
     "raw": {
       "id": 147648,
       "url": "https://jobicy.com/jobs/147648-senior-fullstack-engineer-java-react",
@@ -4785,7 +4894,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T12:32:47+00:00",
-    "fetched_at": "2026-07-03T13:24:48.545Z",
+    "fetched_at": "2026-07-03T18:55:08.313Z",
     "raw": {
       "id": 147647,
       "url": "https://jobicy.com/jobs/147647-ai-engineer-5",
@@ -4834,7 +4943,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:32+00:00",
-    "fetched_at": "2026-07-03T13:24:48.546Z",
+    "fetched_at": "2026-07-03T18:55:08.314Z",
     "raw": {
       "id": 147608,
       "url": "https://jobicy.com/jobs/147608-software-development-engineer-agentic-workspaces",
@@ -4890,7 +4999,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:30+00:00",
-    "fetched_at": "2026-07-03T13:24:48.548Z",
+    "fetched_at": "2026-07-03T18:55:08.316Z",
     "raw": {
       "id": 147607,
       "url": "https://jobicy.com/jobs/147607-principal-mobile-engineer-android",
@@ -4937,7 +5046,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:23+00:00",
-    "fetched_at": "2026-07-03T13:24:48.549Z",
+    "fetched_at": "2026-07-03T18:55:08.317Z",
     "raw": {
       "id": 147603,
       "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
@@ -4990,7 +5099,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:21+00:00",
-    "fetched_at": "2026-07-03T13:24:48.551Z",
+    "fetched_at": "2026-07-03T18:55:08.318Z",
     "raw": {
       "id": 147602,
       "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
@@ -5013,115 +5122,6 @@
       "salaryMax": 175000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:147582",
-    "platform": "jobicy",
-    "external_id": "147582",
-    "title": "Software Engineer, AI Agent Platform",
-    "company": "QAD, Inc.",
-    "description": "Company Description Redzone is the #1 Connected Workforce Solution for manufacturers big and small. We work to improve efficiency in plants, provide coaching for best practices, and enable the front-line worker to improve the quality of their work and their work life by providing them with tools, processes, and collaboration tools to keep their manufacturing lines running smoothly and efficiently. At Redzone we focus on the customer experience, listening to the customer, and providing solutions that create great outcomes. We are a combination of great leadership, years of manufacturing experience, and an incredible technology team that all work together to create great products. This role is fully remote. Job Description ChampionAI is QAD | Redzone agentic platform, purpose-built for manufacturing and utilized by the various business units within QAD | Redzone. This engineer joins the core platform team with three main areas of focus: building new capabilities into the platform, helping Applied AI teams at partner business units build and ship Champions correctly, and directly building Champion agents for business-unit use cases when needed. You will work in the same codebase as the Applied AI engineers you support, which keeps the enablement work practical and the platform work focused on real problems. Key Responsibilities Platform Development Build and ship features across the Champion platform repositories Improve developer experience: tooling, scaffolding, internal documentation, and onboarding paths for Applied AI engineers. Maintain and evolve the MCP tool server and agent infrastructure that BU teams depend on. Identify and address friction points that slow down Champion development or deployment Applied AI Enablement Support BU Applied AI engineers in building, deploying, and operating Champions correctly Review agent implementations for prompt quality, scope enforcement, auth configuration, and deployment setup Contribute to internal engineering guides and skill documentation Pair with BU engineers on first K8S manifest creation, database registration, and LaunchDarkly prompt rollout Agent Development Design and build Champion agents for BU use-cases when the platform team is directly engaged Write and iterate on system prompts, tool bindings, and context injection for production agents Register agents in Champion Server and configure LaunchDarkly-gated prompt rollout across environments Engineering Practices We follow trunk-based development with PR-gated merges to main. Engineers are expected to: Write tests before implementing. TDD is the expectation, not a nice-to-have. Keep PRs small and focused; use feature flags to ship partial work incrementally Follow conventional commit format (feat:, fix:, etc.) Be mindful of API and schema backward-compatibility; prefer additive changes over breaking ones Review your own diff before requesting review Qualifications Core Requirements Python: Proficient in async Python, Pydantic, type hints, and FastAPI. Experience with the Strands agent SDK or a comparable agentic framework. Testing is non-optional: candidates should be comfortable with pytest, pytest- asyncio, and DeepEval for agent-specific evaluation. We test agent behavior, not just unit logic. Prompt Engineering: Able to write and iterate on production system prompts: XML-structured, scope-enforced, with tool descriptions that guide LLM delegation reliably. Model Context Protocol (MCP): Solid understanding of MCP and hands-on experience building or consuming MCP servers. Familiarity with Agent-to-Agent (A2A) protocol is a strong plus. Agent Patterns: Familiar with multi-agent architectures and orchestration patterns beyond basic ReAct: supervisor/subagent delegation, parallel tool use, handoffs, and context management across agent boundaries. Agent Evals: Able to design and run evaluation suites for agent behavior: correctness checks, scope enforcement tests, regression coverage, and systematic prompt iteration based on eval results. Docker: Comfortable authoring Dockerfiles, multi-stage builds, and local dev environments via docker-compose / make. PostgreSQL: Comfortable with templated INSERT/SELECT, foreign key relationships, and reading an ER diagram. Git / Semantic Versioning: Follows conventional commit format (feat:, fix:) and a PR-based trunk workflow. Nice to Have Kubernetes: Working knowledge of Deployments, Services, ConfigMaps, and ServiceAccounts. Able to read and adapt K8s manifests and use kubectl for basic troubleshooting. AWS: Working knowledge of ECR, EKS, IAM, and Bedrock (inference layer). OAuth2 / OIDC: Conceptual understanding of Authorization Code Flow with PKCE, token exchange, and agent auth delegation. Terraform: Beginner-level familiarity; able to make targeted changes to existing modules and interpret a plan diff. LaunchDarkly: Experience managing feature flags or AI config overrides for environment-gated rollout. Document Intelligence / OCR: AWS Textract or comparable pipeline experience for use cases involving structured document extraction. AI-Native Development We run an AI-native SDLC. AI-assisted tools (Claude Code, Cursor) are part of the standard engineering workflow at every stage: planning, implementation, review, and documentation. This is not optional or supplemental; it is how we work. Candidates should be comfortable with AI-assisted development and willing to invest in getting good at it. Use Claude Code and Cursor actively across planning, implementation, and code review Know when AI output is wrong and push back on it. Help drive adoption across the team by sharing what works What This Role Is Not This is not an ML research or data science role. The platform team owns cluster networking, observability pipelines, auth configuration, and LLM routing, so deep expertise in those areas is not required. The job is building reliable software on top of that infrastructure and helping others do the same. Additional Information About QAD: QAD | Redzone is redefining manufacturing and supply chains through its intelligent, adaptive platform that connects people, processes, and data into a single System of Action. With three core pillars — Redzone (frontline empowerment), Adaptive Applications (the intelligent backbone), and Champion AI (Agentic AI for manufacturing) — QAD | Redzone helps manufacturers operate with Champion Pace , achieving measurable productivity, resilience, and growth in just 90 days. QAD is committed to ensuring that every employee feels they work in an environment that values their contributions, respects their unique perspectives and provides opportunities for growth regardless of background. QAD’s DEI program is driving higher levels of diversity, equity and inclusion so that employees can bring their whole self to work. We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. #LI-Remote",
-    "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": null,
-    "location": "Mexico",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "react",
-      "backbone",
-      "fastapi",
-      "postgresql",
-      "aws",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "llm",
-      "machine-learning",
-      "pytest",
-      "git"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-24T03:03:06+00:00",
-    "fetched_at": "2026-07-03T13:24:48.552Z",
-    "raw": {
-      "id": 147582,
-      "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
-      "jobSlug": "147582-software-engineer-ai-agent-platform",
-      "jobTitle": "Software Engineer, AI Agent Platform",
-      "companyName": "QAD, Inc.",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6b90cca9-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Mexico",
-      "jobLevel": "Any",
-      "jobExcerpt": "Company DescriptionRedzone is the #1 Connected Workforce Solution for manufacturers big and small. We work to improve efficiency in plants, provide coaching for best practices, and enable the front-line worker to improve the quality of their work and their work life by providing them with tools, processes, and collaboration tools to keep their manufacturing lines running&hellip;",
-      "jobDescription": "<h2>Company Description</h2><p><strong>Redzone is the #1 Connected Workforce Solution </strong>for manufacturers big and small. We work to improve efficiency in plants, provide coaching for best practices, and enable the front-line worker to improve the quality of their work and their work life by providing them with tools, processes, and collaboration tools to keep their manufacturing lines running smoothly and efficiently. </p><p>At Redzone we focus on the customer experience, listening to the customer, and providing solutions that create great outcomes. We are a combination of great leadership, years of manufacturing experience, and an incredible technology team that all work together to create great products. </p><p>This role is fully remote.</p><h2>Job Description</h2><p>ChampionAI is QAD | Redzone agentic platform, purpose-built for manufacturing and utilized by the various business units within QAD | Redzone. This engineer joins the core platform team with three main areas of focus: building new capabilities into the platform, helping Applied AI teams at partner business units build and ship Champions correctly, and directly building Champion agents for business-unit use cases when needed.<br>\nYou will work in the same codebase as the Applied AI engineers you support, which keeps the enablement work<br>\npractical and the platform work focused on real problems.</p><p>\n<strong>Key Responsibilities</strong><br>\n<strong>Platform Development</strong></p><ul><li>Build and ship features across the Champion platform repositories</li><li> Improve developer experience: tooling, scaffolding, internal documentation, and onboarding paths for Applied AI engineers.</li><li>Maintain and evolve the MCP tool server and agent infrastructure that BU teams depend on.</li><li>Identify and address friction points that slow down Champion development or deployment</li></ul><p><strong>Applied AI Enablement</strong></p><ul><li>Support BU Applied AI engineers in building, deploying, and operating Champions correctly</li><li>Review agent implementations for prompt quality, scope enforcement, auth configuration, and deployment setup</li><li>Contribute to internal engineering guides and skill documentation</li><li>Pair with BU engineers on first K8S manifest creation, database registration, and LaunchDarkly prompt rollout</li></ul><p><strong>Agent Development</strong></p><ul><li>Design and build Champion agents for BU use-cases when the platform team is directly engaged</li><li>Write and iterate on system prompts, tool bindings, and context injection for production agents</li><li>Register agents in Champion Server and configure LaunchDarkly-gated prompt rollout across environments</li></ul><p><strong>Engineering Practices</strong><br>\nWe follow trunk-based development with PR-gated merges to main. Engineers are expected to:</p><ul><li>Write tests before implementing. TDD is the expectation, not a nice-to-have.</li><li>Keep PRs small and focused; use feature flags to ship partial work incrementally</li><li>Follow conventional commit format (feat:, fix:, etc.)</li><li>Be mindful of API and schema backward-compatibility; prefer additive changes over breaking ones</li><li>Review your own diff before requesting review</li></ul><h2>Qualifications</h2><p><strong>Core Requirements</strong></p><ul><li>Python: Proficient in async Python, Pydantic, type hints, and FastAPI. Experience with the Strands agent SDK or a comparable agentic framework. Testing is non-optional: candidates should be comfortable with pytest, pytest- asyncio, and DeepEval for agent-specific evaluation. We test agent behavior, not just unit logic.</li><li>Prompt Engineering: Able to write and iterate on production system prompts: XML-structured, scope-enforced, with tool descriptions that guide LLM delegation reliably.</li><li>Model Context Protocol (MCP): Solid understanding of MCP and hands-on experience building or consuming MCP servers. Familiarity with Agent-to-Agent (A2A) protocol is a strong plus.</li><li>Agent Patterns: Familiar with multi-agent architectures and orchestration patterns beyond basic ReAct: supervisor/subagent delegation, parallel tool use, handoffs, and context management across agent boundaries.</li><li>Agent Evals: Able to design and run evaluation suites for agent behavior: correctness checks, scope enforcement tests, regression coverage, and systematic prompt iteration based on eval results.</li><li>Docker: Comfortable authoring Dockerfiles, multi-stage builds, and local dev environments via docker-compose / make.</li><li>PostgreSQL: Comfortable with templated INSERT/SELECT, foreign key relationships, and reading an ER diagram.</li><li>Git / Semantic Versioning: Follows conventional commit format (feat:, fix:) and a PR-based trunk workflow.</li></ul><p><strong>Nice to Have</strong></p><ul><li>Kubernetes: Working knowledge of Deployments, Services, ConfigMaps, and ServiceAccounts. Able to read and adapt K8s manifests and use kubectl for basic troubleshooting.</li><li>AWS: Working knowledge of ECR, EKS, IAM, and Bedrock (inference layer).</li><li>OAuth2 / OIDC: Conceptual understanding of Authorization Code Flow with PKCE, token exchange, and agent auth delegation.</li><li>Terraform: Beginner-level familiarity; able to make targeted changes to existing modules and interpret a plan diff.</li><li>LaunchDarkly: Experience managing feature flags or AI config overrides for environment-gated rollout.</li><li>Document Intelligence / OCR: AWS Textract or comparable pipeline experience for use cases involving structured document extraction.</li></ul><p>\n<strong>AI-Native Development</strong></p><ul><li>We run an AI-native SDLC. AI-assisted tools (Claude Code, Cursor) are part of the standard engineering workflow at every stage: planning, implementation, review, and documentation. This is not optional or supplemental; it is how we work. Candidates should be comfortable with AI-assisted development and willing to invest in getting good at it.</li><li>Use Claude Code and Cursor actively across planning, implementation, and code review</li><li>Know when AI output is wrong and push back on it.</li><li>Help drive adoption across the team by sharing what works</li></ul><p><strong>What This Role Is Not</strong><br>\nThis is not an ML research or data science role. The platform team owns cluster networking, observability pipelines, auth configuration, and LLM routing, so deep expertise in those areas is not required. The job is building reliable<br>\nsoftware on top of that infrastructure and helping others do the same.</p><h2>Additional Information</h2><p><strong>About QAD:</strong></p><p><a href=\"https://www.qad.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">QAD</a> | <a href=\"https://rzsoftware.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Redzone</a> is redefining manufacturing and supply chains through its intelligent, adaptive platform that connects people, processes, and data into a single System of Action. With three core pillars — Redzone (frontline empowerment), Adaptive Applications (the intelligent backbone), and Champion AI (Agentic AI for manufacturing) — QAD | Redzone helps manufacturers operate with <a href=\"https://www.qad.com/champion-pace\" rel=\"nofollow ugc noopener\" target=\"_blank\">Champion Pace</a>, achieving measurable productivity, resilience, and growth in just 90 days.</p><p>QAD is committed to ensuring that every employee feels they work in an environment that values their contributions, respects their unique perspectives and provides opportunities for growth regardless of background. QAD’s DEI program is driving higher levels of diversity, equity and inclusion so that employees can bring their whole self to work.</p><p>We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. </p><p>#LI-Remote</p>",
-      "pubDate": "2026-06-24T03:03:06+00:00"
-    }
-  },
-  {
-    "id": "jobicy:147581",
-    "platform": "jobicy",
-    "external_id": "147581",
-    "title": "Forward Deployed Engineer",
-    "company": "Endava",
-    "description": "Company Description Technology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change. By combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses. From prototype to real-world impact - be part of a global shift by doing work that matters. Job Description Remote Opportunity MUST HAVE EXPERIENCE WITH PALANTIR As a Senior Forward Deployed Engineer (Delta), you will serve as the technical leader at the intersection of Palantir Foundry's platform capabilities and our most complex, high-impact healthcare data and operational engagements. This role combines deep technical expertise in Palantir Foundry with strategic deployment leadership, driving transformational outcomes for our kidney care and healthcare operations. The Delta designation reflects a commitment to driving change and transformation — you are the catalyst who bridges the gap between what the platform can do and what it should do for our unique operational context. You will be expected to be hands-on and an independent FDE owning, architecting enterprise-grade solutions, development, deployment, mentor as needed and shape the technical strategy for critical engagements across our client's healthcare ecosystem. Qualifications 5+ years of experience in software engineering, data engineering, or technical consulting — with at least 2+ years on Palantir Foundry Strong proficiency in Python (PySpark, Pandas, Polars) and SQL; experience with TypeScript is highly valued Deep understanding of the Foundry Ontology — object types, link types, action types, interfaces, and functions Proven track record of designing and deploying production-grade data pipelines (batch and streaming) at enterprise scale Experience building Workshop applications and/or OSDK-based applications (React/TypeScript) Strong communication skills with the ability to engage both technical and non-technical stakeholders Preferred Qualifications Experience with Google Cloud Platform (GCP) — Compute Engine, Cloud Functions, Cloud Storage, Dataflow, Pub/Sub, and IAM Experience with Google BigQuery — query optimization, partitioning/clustering strategies, BigQuery ML, data warehousing patterns, and migration from legacy EDW platforms (e.g., Netezza, Teradata) Experience with AIP (AI Platform) — AIP Logic, AIP Agents, evaluation suites, and LLM-powered functions Familiarity with machine learning workflows in Foundry: Model Studio, pro-code model authoring, batch/live inference Experience implementing data governance frameworks — markings, ABAC, restricted views, Cipher for data protection, and HIPAA-compliant data handling Background in healthcare, kidney care, or clinical operations, revenue cycle optimizations a plus. Experience leading teams of 3+ engineers in forward-deployed settings Contributions to internal tooling, open-source projects, or platform evangelism Additional Information Discover some of the global benefits that empower our people to become the best version of themselves: Finance: Competitive salary package, share plan, company performance bonuses, value-based recognition awards, referral bonus; Career Development: Career coaching, global career opportunities, non-linear career paths, internal development programmes for management and technical leadership; Learning Opportunities: Complex projects, rotations, internal tech communities, training, certifications, coaching, online learning platforms subscriptions, pass-it-on sessions, workshops, conferences; Work-Life Balance: Hybrid work and flexible working hours, employee assistance programme; Health: Global internal wellbeing programme, access to wellbeing apps; Community: Global internal tech communities, hobby clubs and interest groups, inclusion and diversity programmes, events and celebrations. Additional Employee Requirements Participation in both internal meetings and external meetings via video calls, as necessary. Ability to go into corporate or client offices to work onsite, as necessary. Prolonged periods of remaining stationary at a desk and working on a computer, as necessary. Ability to bend, kneel, crouch, and reach overhead, as necessary. Hand-eye coordination necessary to operate computers and various pieces of office equipment, as necessary. Vision abilities including close vision, toleration of fluorescent lighting, and adjusting focus, as necessary. For positions that require business travel and/or event attendance, ability to lift 25 lbs, as necessary. For positions that require business travel and/or event attendance, a valid driver’s license and acceptable driving record are required, as driving is an essential job function. *If requested, reasonable accommodations will be made to enable employees requiring accommodations to perform the essential functions of their jobs, absent undue hardship. USA Benefits (Full time roles only, does not apply to contractor positions) Robust healthcare and benefits including Medical, Dental, vision, Disability coverage, and various other benefit options Flexible Spending Accounts (Medical, Transit, and Dependent Care) Employer Paid Life Insurance and AD&amp;D Coverages Health Savings account paired with our low-cost High Deductible Medical Plan 401(k) Safe Harbor Retirement plan with employer match with immediately vest At Endava, we’re committed to creating an open, inclusive, and respectful environment where everyone feels safe, valued, and empowered to be their best. We welcome applications from people of all backgrounds, experiences, and perspectives—because we know that inclusive teams help us deliver smarter, more innovative solutions for our customers. Hiring decisions are based on merit, skills, qualifications, and potential. If you need adjustments or support during the recruitment process, please let us know.",
-    "url": "https://jobicy.com/jobs/147581-forward-deployed-engineer-3",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "python",
-      "react",
-      "gcp",
-      "llm",
-      "machine-learning",
-      "pandas",
-      "foundry"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-24T03:03:04+00:00",
-    "fetched_at": "2026-07-03T13:24:48.553Z",
-    "raw": {
-      "id": 147581,
-      "url": "https://jobicy.com/jobs/147581-forward-deployed-engineer-3",
-      "jobSlug": "147581-forward-deployed-engineer-3",
-      "jobTitle": "Forward Deployed Engineer",
-      "companyName": "Endava",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/2f95f618-221.webp",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Company DescriptionTechnology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.By combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform&hellip;",
-      "jobDescription": "<h2>Company Description</h2><p>Technology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.<br />By combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses.<br />From prototype to real-world impact - be part of a global shift by doing work that matters.</p><h2>Job Description</h2><p>Remote Opportunity</p><p>MUST HAVE EXPERIENCE WITH PALANTIR</p><p>As a Senior Forward Deployed Engineer (Delta), you will serve as the technical leader at the intersection of Palantir Foundry's platform capabilities and our most complex, high-impact healthcare data and operational engagements.</p><p>This role combines deep technical expertise in Palantir Foundry with strategic deployment leadership, driving transformational outcomes for our kidney care and healthcare operations.</p><p>The Delta designation reflects a commitment to driving <em>change and transformation</em> — you are the catalyst who bridges the gap between what the platform can do and what it should do for our unique operational context.</p><p>You will be expected to be hands-on and an independent FDE owning, architecting enterprise-grade solutions, development, deployment, mentor as needed and shape the technical strategy for critical engagements across our client's healthcare ecosystem.</p><h2>Qualifications</h2><ul><li>5+ years of experience in software engineering, data engineering, or technical consulting — with at least 2+ years on Palantir Foundry</li><li>Strong proficiency in Python (PySpark, Pandas, Polars) and SQL; experience with TypeScript is highly valued</li><li>Deep understanding of the Foundry Ontology — object types, link types, action types, interfaces, and functions</li><li>Proven track record of designing and deploying production-grade data pipelines (batch and streaming) at enterprise scale</li><li>Experience building Workshop applications and/or OSDK-based applications (React/TypeScript)</li><li>Strong communication skills with the ability to engage both technical and non-technical stakeholders</li></ul><p>Preferred Qualifications</p><ul><li>Experience with Google Cloud Platform (GCP) — Compute Engine, Cloud Functions, Cloud Storage, Dataflow, Pub/Sub, and IAM</li><li>Experience with Google BigQuery — query optimization, partitioning/clustering strategies, BigQuery ML, data warehousing patterns, and migration from legacy EDW platforms (e.g., Netezza, Teradata)</li><li>Experience with AIP (AI Platform) — AIP Logic, AIP Agents, evaluation suites, and LLM-powered functions</li><li>Familiarity with machine learning workflows in Foundry: Model Studio, pro-code model authoring, batch/live inference</li><li>Experience implementing data governance frameworks — markings, ABAC, restricted views, Cipher for data protection, and HIPAA-compliant data handling</li><li>Background in healthcare, kidney care, or clinical operations, revenue cycle optimizations a plus.</li><li>Experience leading teams of 3+ engineers in forward-deployed settings</li><li>Contributions to internal tooling, open-source projects, or platform evangelism</li></ul><h2>Additional Information</h2><p>Discover some of the global benefits that empower our people to become the best version of themselves:</p><ul><li>Finance: Competitive salary package, share plan, company performance bonuses, value-based recognition awards, referral bonus; </li><li>Career Development: Career coaching, global career opportunities, non-linear career paths, internal development programmes for management and technical leadership;</li><li>Learning Opportunities: Complex projects, rotations, internal tech communities, training, certifications, coaching, online learning platforms subscriptions, pass-it-on sessions, workshops, conferences;</li><li>Work-Life Balance: Hybrid work and flexible working hours, employee assistance programme;</li><li>Health: Global internal wellbeing programme, access to wellbeing apps;</li><li>Community: Global internal tech communities, hobby clubs and interest groups, inclusion and diversity programmes, events and celebrations.</li></ul><p>Additional Employee Requirements </p><ul><li>Participation in both internal meetings and external meetings via video calls, as necessary. </li><li>Ability to go into corporate or client offices to work onsite, as necessary. </li><li>Prolonged periods of remaining stationary at a desk and working on a computer, as necessary. </li><li>Ability to bend, kneel, crouch, and reach overhead, as necessary. </li><li>Hand-eye coordination necessary to operate computers and various pieces of office equipment, as necessary. </li><li>Vision abilities including close vision, toleration of fluorescent lighting, and adjusting focus, as necessary. </li><li>For positions that require business travel and/or event attendance, ability to lift 25 lbs, as necessary. </li><li>For positions that require business travel and/or event attendance, a valid driver’s license and acceptable driving record are required, as driving is an essential job function.</li></ul><p>*If requested, reasonable accommodations will be made to enable employees requiring accommodations to perform the essential functions of their jobs, absent undue hardship. </p><p>USA Benefits (Full time roles only, does not apply to contractor positions)</p><ul><li>Robust healthcare and benefits including Medical, Dental, vision, Disability coverage, and various other benefit options </li><li>Flexible Spending Accounts (Medical, Transit, and Dependent Care) </li><li>Employer Paid Life Insurance and AD&amp;D Coverages </li><li>Health Savings account paired with our low-cost High Deductible Medical Plan </li><li>401(k) Safe Harbor Retirement plan with employer match with immediately vest </li></ul><p>At Endava, we’re committed to creating an open, inclusive, and respectful environment where everyone feels safe, valued, and empowered to be their best. We welcome applications from people of all backgrounds, experiences, and perspectives—because we know that inclusive teams help us deliver smarter, more innovative solutions for our customers. Hiring decisions are based on merit, skills, qualifications, and potential. If you need adjustments or support during the recruitment process, please let us know.</p>",
-      "pubDate": "2026-06-24T03:03:04+00:00"
     }
   }
 ]
