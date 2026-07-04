@@ -1,5 +1,200 @@
 [
   {
+    "id": "jobicy:148667",
+    "platform": "jobicy",
+    "external_id": "148667",
+    "title": "Senior ML Engineer (Token Factory)",
+    "company": "Nebius",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D. The role Token Factory is a part of Nebius Cloud, one of the world's largest GPU clouds, running tens of thousands of GPUs. We are building a high-performance inference and fine-tuning platform designed to push foundation models to their hardware limits. Our mission is to maximize throughput, minimise latency, and optimise cost-per-token across tens of thousands of GPUs. Some directions we are currently working on, and which you can be a part of: Inference Optimization: Identifying LLM inference bottlenecks to drive production speedups. Squeezing the maximum performance for a wide range of LLM architectures at scale (e.g., GPT-OSS, Kimi K2.5, DeepSeek V3.1/V3.2, GLM-5). Inference engines support: Implement novel speculative decoding architectures, optimise components of various LLM designs (dense/MoE, autoregressive/parallel), and contribute to open-source inference engines. Low Precision Training &amp; Inference: Design and productionise low-precision (FP8, NVFP4/MXFP4) training and inference pipelines with measurable gains in throughput and cost-efficiency. We expect you to have: A profound understanding of theoretical foundations of machine learning and transformer architecture. Experience profiling GPU workloads using Nsight, PyTorch profiler, or similar tools Understanding of GPU memory hierarchy and compute/memory tradeoffs Familiarity with important ideas in LLM space, such as MHA, RoPE, KV-cache, Flash Attention, and quantisation Understanding of performance aspects of large neural network training (sharding strategies, custom kernels, hardware features etc.) Strong software engineering skills (we mostly use Python) Deep experience with modern deep learning frameworks Proficiency in contemporary software engineering approaches, including CI/CD, version control and unit testing Strong communication and leadership abilities Nice to have: Experience working with open-source inference engines (vLLM, SGLang, TensorRT-LLM), including contributions Experience with kernel languages or DSLs such as Triton, Cute, CUTLASS, CUDA A track record of building and delivering products (not necessarily ML-related) in a dynamic startup-like environment. Strong engineering skills, including experience in developing large distributed systems or high-load web services. Open-source projects that showcase your engineering prowess Excellent command of the English language, alongside superior writing, articulation, and communication skills. Benefits &amp; Perks: Competitive compensation Career growth and learning opportunities Flexibility and ownership Collaborative and innovative culture Opportunity to work on impactful AI projects International environment and talented teams What's it like to work at Nebius: Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI Equal Opportunity Statement: Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. If you need accommodations during the application process, please let us know.",
+    "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Czechia,  Europe,  Germany,  Israel,  Netherlands,  UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "pytorch",
+      "llm",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-04T07:21:11+00:00",
+    "fetched_at": "2026-07-04T12:51:19.918Z",
+    "raw": {
+      "id": 148667,
+      "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
+      "jobSlug": "148667-senior-ml-engineer-token-factory",
+      "jobTitle": "Senior ML Engineer (Token Factory)",
+      "companyName": "Nebius",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/d90c0566-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Czechia,  Europe,  Germany,  Israel,  Netherlands,  UK",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "jobDescription": "<div><p><strong>About Nebius:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p></div><p><strong>The role</strong></p><p>Token Factory is a part of Nebius Cloud, one of the world's largest GPU clouds, running tens of thousands of GPUs. We are building a high-performance inference and fine-tuning platform designed to push foundation models to their hardware limits. Our mission is to maximize throughput, minimise latency, and optimise cost-per-token across tens of thousands of GPUs.</p><p> </p><p><strong>Some directions we are currently working on, and which you can be a part of:</strong></p><ul>\n<li>Inference Optimization: Identifying LLM inference bottlenecks to drive production speedups. Squeezing the maximum performance for a wide range of LLM architectures at scale (e.g., GPT-OSS, Kimi K2.5, DeepSeek V3.1/V3.2, GLM-5).</li>\n<li>Inference engines support: Implement novel speculative decoding architectures, optimise components of various LLM designs (dense/MoE, autoregressive/parallel), and contribute to open-source inference engines.</li>\n<li>Low Precision Training &amp; Inference: Design and productionise low-precision (FP8, NVFP4/MXFP4) training and inference pipelines with measurable gains in throughput and cost-efficiency.</li>\n</ul><p> </p><p><strong>We expect you to have:</strong></p><ul>\n<li>A profound understanding of theoretical foundations of machine learning and transformer architecture.</li>\n<li>Experience profiling GPU workloads using Nsight, PyTorch profiler, or similar tools</li>\n<li>Understanding of GPU memory hierarchy and compute/memory tradeoffs</li>\n<li>Familiarity with important ideas in LLM space, such as MHA, RoPE, KV-cache, Flash Attention, and quantisation</li>\n<li> Understanding of performance aspects of large neural network training (sharding strategies, custom kernels, hardware features etc.)</li>\n<li> Strong software engineering skills (we mostly use Python)</li>\n<li>Deep experience with modern deep learning frameworks</li>\n<li>Proficiency in contemporary software engineering approaches, including CI/CD, version control and unit testing</li>\n<li>Strong communication and leadership abilities</li>\n</ul><p> </p><p><strong>Nice to have:</strong></p><ul>\n<li>Experience working with open-source inference engines (vLLM, SGLang, TensorRT-LLM), including contributions</li>\n<li>Experience with kernel languages or DSLs such as Triton, Cute, CUTLASS, CUDA</li>\n<li>A track record of building and delivering products (not necessarily ML-related) in a dynamic startup-like environment.</li>\n<li>Strong engineering skills, including experience in developing large distributed systems or high-load web services.</li>\n<li>Open-source projects that showcase your engineering prowess</li>\n<li> Excellent command of the English language, alongside superior writing, articulation, and communication skills.</li>\n</ul><p> </p><p> </p><div><p><strong>Benefits &amp; Perks:</strong></p>\n<ul>\n<li>Competitive compensation</li>\n<li>Career growth and learning opportunities</li>\n<li>Flexibility and ownership</li>\n<li>Collaborative and innovative culture</li>\n<li>Opportunity to work on impactful AI projects</li>\n<li>International environment and talented teams</li>\n</ul>\n<p><strong>What's it like to work at Nebius:</strong></p>\n<p>Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI </p>\n<p><strong>Equal Opportunity Statement:</strong></p>\n<p>Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law.</p>\n<p>Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. </p>\n<p>If you need accommodations during the application process, please let us know.</p></div>",
+      "pubDate": "2026-07-04T07:21:11+00:00"
+    }
+  },
+  {
+    "id": "jobicy:148664",
+    "platform": "jobicy",
+    "external_id": "148664",
+    "title": "Senior Cloud Engineer - Product Metrics",
+    "company": "Clickhouse",
+    "description": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our journey! About the team The Product Metrics team owns the collection, storage, and serving of metrics collected from customers' ClickHouse instances. As a part of the team you will be responsible for designing, building, operating and maintaining components of the petabyte-scale platform that stores trillions of records and processes millions of new events every second, owning its reliability, performance and availability. Our stack is built using Golang, runs in Kubernetes, and is, of course, stored in ClickHouse. The team’s responsibilities include gathering and processing data for the internal billing and accounting system as well as customer-facing dashboards that provide our customers with immediate insights and analytics. The Product Metrics system is specifically designed to prioritize delivery guarantees, precision, and accuracy in handling extensive data volumes. Its primary goal is to provide data that is both prompt and accurate, supporting reliable operational decisions and enhancing the overall customer experience. What will you do? Take an active part in determining the roadmap for the Product Metrics team Work closely within the team to deliver new features, iterate and improve them Design, build, operate, and maintain business-critical petabyte-scale systems Be responsible for the performance, reliability, availability and cost-efficiency of the Product Metrics systems Mentor and support other team members, participate in design discussions and collaborate with the team Be a part of on-call rotation and take ownership of the services you're running What are we looking for in you? You demonstrate a strong initiative and a preference for action, high level of responsibility, ownership and accountability You prioritize customer needs, ensuring that our products are designed with the user in mind You are able to take on complex challenges and break them down to achieve short feedback loops: to analyze, design, and build modular solutions, deliver MVPs, gather data and feedback and then progress iteratively You have a strong problem solving mindset and have solid production debugging skills You have excellent communication skills and the ability to work well within a team and across engineering teams in a fully remote environment You thrive in a fast-paced environment, and see yourself as a partner with the business with the shared goal of moving the business forward Requirements: 5+ years of relevant software development industry experience building and operating scalable, fault-tolerant, distributed systems 2+ years of software application development experience using Golang Experience with at least one of the major Cloud Service Providers such as AWS, GCP or Azure Experience with storing, shipping, and retrieving large volumes of data efficiently using technologies such as ClickHouse Experience with technologies such as Kubernetes, Helm, ArgoCD, Temporal as well as infrastructure-as-code tools such as Terraform Bonus Points: Experience with ClickHouse Experience writing Kubernetes operators or controllers Experience with Kafka streaming technology Compensation For roles based in the United States , the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed. These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments. An individual’s placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization. If you have any questions or comments about compensation as a candidate, please get in touch with us at paytransparency@clickhouse.com . Perks Flexible work environment - ClickHouse is a globally distributed company and remote-friendly. We currently operate in over 20 countries. Healthcare - Employer contributions towards your healthcare. Equity in the company - Every new team member who joins our company receives stock options. Time off - Flexible time off in the US, generous entitlement in other countries. A $500 Home office setup if you’re a remote employee. Global Gatherings – We believe in the power of in-person connection and offer opportunities to engage with colleagues at company-wide offsites. Culture - We All Shape It As part of a rapidly scaling start up, you will be instrumental in shaping our culture. Are you interested in finding out more about our culture? Learn more about our values here . Check out our blog posts or follow us on LinkedIn to find out more about what’s happening at ClickHouse. Equal Opportunity &amp; Privacy ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Please see here for our Privacy Statement.",
+    "url": "https://jobicy.com/jobs/148664-senior-cloud-engineer-product-metrics",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Europe",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "go",
+      "clickhouse",
+      "aws",
+      "gcp",
+      "azure",
+      "kubernetes",
+      "terraform",
+      "helm",
+      "argocd",
+      "kafka"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-04T07:21:06+00:00",
+    "fetched_at": "2026-07-04T12:51:19.920Z",
+    "raw": {
+      "id": 148664,
+      "url": "https://jobicy.com/jobs/148664-senior-cloud-engineer-product-metrics",
+      "jobSlug": "148664-senior-cloud-engineer-product-metrics",
+      "jobTitle": "Senior Cloud Engineer - Product Metrics",
+      "companyName": "Clickhouse",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/6394b9a0-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating&hellip;",
+      "jobDescription": "<div><h2>About ClickHouse</h2>\n<p>Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads.</p>\n<p>The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.</p>\n<p>We’re on a mission to transform how companies use data. Come be a part of our journey!</p></div><h2>About the team</h2><p>The Product Metrics team owns the collection, storage, and serving of metrics collected from customers' ClickHouse instances. As a part of the team you will be responsible for designing, building, operating and maintaining components of the petabyte-scale platform that stores trillions of records and processes millions of new events every second, owning its reliability, performance and availability. Our stack is built using Golang, runs in Kubernetes, and is, of course, stored in ClickHouse. The team’s responsibilities include gathering and processing data for the internal billing and accounting system as well as customer-facing dashboards that provide our customers with immediate insights and analytics. The Product Metrics system is specifically designed to prioritize delivery guarantees, precision, and accuracy in handling extensive data volumes. Its primary goal is to provide data that is both prompt and accurate, supporting reliable operational decisions and enhancing the overall customer experience.</p><h2>What will you do?</h2><ul>\n<li>Take an active part in determining the roadmap for the Product Metrics team</li>\n<li>Work closely within the team to deliver new features, iterate and improve them</li>\n<li>Design, build, operate, and maintain business-critical petabyte-scale systems</li>\n<li>Be responsible for the performance, reliability, availability and cost-efficiency of the Product Metrics systems</li>\n<li>Mentor and support other team members, participate in design discussions and collaborate with the team</li>\n<li>Be a part of on-call rotation and take ownership of the services you're running</li>\n</ul><h2>What are we looking for in you?</h2><ul>\n<li>You demonstrate a strong initiative and a preference for action, high level of responsibility, ownership and accountability</li>\n<li>You prioritize customer needs, ensuring that our products are designed with the user in mind</li>\n<li>You are able to take on complex challenges and break them down to achieve short feedback loops: to analyze, design, and build modular solutions, deliver MVPs, gather data and feedback and then progress iteratively</li>\n<li>You have a strong problem solving mindset and have solid production debugging skills</li>\n<li>You have excellent communication skills and the ability to work well within a team and across engineering teams in a fully remote environment</li>\n<li>You thrive in a fast-paced environment, and see yourself as a partner with the business with the shared goal of moving the business forward</li>\n</ul><h2>Requirements:</h2><ul>\n<li>5+ years of relevant software development industry experience building and operating scalable, fault-tolerant, distributed systems</li>\n<li>2+ years of software application development experience using Golang</li>\n<li>Experience with at least one of the major Cloud Service Providers such as AWS, GCP or Azure</li>\n<li>Experience with storing, shipping, and retrieving large volumes of data efficiently using technologies such as ClickHouse </li>\n<li>Experience with technologies such as Kubernetes, Helm, ArgoCD, Temporal as well as infrastructure-as-code tools such as Terraform</li>\n</ul><h2>Bonus Points:</h2><ul>\n<li>Experience with ClickHouse</li>\n<li>Experience writing Kubernetes operators or controllers</li>\n<li>Experience with Kafka streaming technology </li>\n</ul><div><h2><strong>Compensation</strong></h2>\n<p>For roles based in the <strong>United States</strong>, the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.</p>\n<p>These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.</p>\n<p>An individual’s placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.</p>\n<p>If you have any questions or comments about compensation as a candidate, please get in touch with us at <a href=\"mailto:paytransparency@clickhouse.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">paytransparency@clickhouse.com</a>.</p>\n<h2><strong>Perks</strong></h2>\n<ul>\n<li><strong>Flexible work environment</strong> - ClickHouse is a globally distributed company and remote-friendly. We currently operate in over 20 countries.</li>\n<li><strong>Healthcare</strong> - Employer contributions towards your healthcare.</li>\n<li><strong>Equity in the company</strong> - Every new team member who joins our company receives stock options.</li>\n<li><strong>Time off</strong> - Flexible time off in the US, generous entitlement in other countries.</li>\n<li><strong>A $500 Home office setup </strong>if you’re a remote employee.</li>\n<li><strong>Global Gatherings </strong>– We believe in the power of in-person connection and offer opportunities to engage with colleagues at company-wide offsites.</li>\n</ul>\n<p><strong>Culture - We All Shape It</strong></p>\n<p>As part of a rapidly scaling start up, you will be instrumental in shaping our culture. </p>\n<p>Are you interested in finding out more about our culture? Learn more about our values <a href=\"https://clickhouse.com/company/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">here</a>. Check out our<a href=\"https://clickhouse.com/blog\" rel=\"nofollow ugc noopener\" target=\"_blank\"> blog posts</a> or follow us on <a href=\"https://www.linkedin.com/company/clickhouseinc/life/0c1ee7f4-2129-488d-b413-e7f6270659fd/?viewAsMember=true\" rel=\"nofollow ugc noopener\" target=\"_blank\">LinkedIn</a> to find out more about what’s happening at ClickHouse.</p>\n<p><strong>Equal Opportunity &amp; Privacy </strong></p>\n<p>ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. </p>\n<p>Please see <a href=\"https://clickhouse.com/legal/applicant-privacy-notice\" target=\"_blank\" rel=\"nofollow ugc noopener\">here</a> for our Privacy Statement.</p></div>",
+      "pubDate": "2026-07-04T07:21:06+00:00"
+    }
+  },
+  {
+    "id": "jobicy:148658",
+    "platform": "jobicy",
+    "external_id": "148658",
+    "title": "Customer Solutions Engineer",
+    "company": "Enode",
+    "description": "About Enode The grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale. Enode provides the infrastructure layer that makes this possible. Our Connect API gives energy companies a single integration to 1000+ devices across 80+ brands. Our optimisation tooling gives energy companies the building blocks to manage those devices locally - think smart charging for EVs. Our Flex product turns those connected devices into a flexible, controllable asset for energy companies. We work with device manufacturers across the energy hardware ecosystem - from EV brands to heat pump and solar inverter producers. Our customers are energy retailers, utilities, and traders building the next generation of energy services. We're backed by Y Combinator, Lowercarbon Capital, and Creandum. The decisions made now will shape how the energy system gets built. We're looking for people who take ownership, move fast, and care deeply about the role technology can play in the energy transition. What we're looking for: Enode is looking for a Customer Solutions Engineer to help our customers leverage maximum value from our product. You will also contribute to shaping Enode's Customer Engineering function. In this role you'll interface directly with engineers, product managers, and leadership stakeholders as they integrate Enode's API's to help them realise value from our product fast. Beyond the integration phase, Customer Solutions Engineers also own the technical relationship with customers and act as an internal advocate for customers throughout their entire journey with Enode. This role will involve working in a pre sales and post sales capacity. You will be a core part of Enode's Customer Success team and play a critical part in evolving this function within Enode, whilst also working on a daily basis across engineering, product, and sales teams. You will be joining a team of 3 customer solutions engineers and work closely with our Tech Ops Engineer who provides technical support to customers. In this role, you will: Design and help our customers implement technical solutions using the Enode API based on their engineering, product, and business needs Advise customers on technical product architecture and best practices for using the Enode API and provide ongoing technical support to customers (e.g. answering technical questions, debugging customer implementations and resolving/escalating issues) Not only will you identify and debug issues in customer implementations, but you will also proactively make necessary fixes and/or improvements directly in the Enode codebase Act as a champion for new products, features, and company initiatives based on customer discussions and your own product expertise you will develop in the role to ensure Enode's resources are allocated to high impact areas Drive and/or contribute to internal projects (e.g. developer portal experience, Integration Guides, customer analysis, etc). This role will be right for you, if: To succeed at Enode you should be passionate about our mission. You should be excited about electrification and the opportunity to use consumer products and software to solve grid challenges in the transition to a net zero energy system. We're looking for: 5+ years of experience relevant to customer engineering such as solutions sales engineering or being a user oriented software engineer An all rounder who is energised by managing technical client relationships but can also dive into the codebase to make fixes improvements Experience deploying complex software in critical infrastructure-like players, mapping API software to existing enterprise stack of ERP, CRM and similar Experience working with enterprise customers with large IT departments and corresponding work processes and governance mechanisms An articulate communicator who has the ability to explain complex, technical issues at the right level depending on the audience A nimble operator &amp; team player who can thrive in a dynamic environment and flat organisation where tasks change frequently to fit the requirements of the company Willingness to travel to customer locations on a regular basis Nice to have: Experience from a technical role in third-party API companies Nice to have: Pre-sales experience, supporting RfP processes for enterprise customers What we offer: Opportunity to join and impact an early-stage climate tech startup with global aspirations as we scale. A mission-driven, fun and caring environment with high drive and ambition. Competitive compensation, including a very attractive employee option program - you’re part of our journey. Access to best in class AI tooling, we think the ceiling on what a small team can do has fundamentally shifted, and we want you to feel that. Remote-first in Europe, with the option of attending an office in Oslo or receiving a co-working pass on demand. Three annual off-sites to connect with the team in exciting &amp; fun places. Flexible, human-first culture. Stipend for setting up your home office. ------------------------------------------------------------------------------------------ A few things to note: Enode is an equal opportunities employer. Don’t meet every single requirement? Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. We are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may just be the right candidate for this or other roles. Our values are integral to the way we work and are embedded into all our hiring processes. You can read more about our values here .",
+    "url": "https://jobicy.com/jobs/148658-customer-solutions-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Europe,  Norway",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-04T07:20:56+00:00",
+    "fetched_at": "2026-07-04T12:51:19.923Z",
+    "raw": {
+      "id": 148658,
+      "url": "https://jobicy.com/jobs/148658-customer-solutions-engineer",
+      "jobSlug": "148658-customer-solutions-engineer",
+      "jobTitle": "Customer Solutions Engineer",
+      "companyName": "Enode",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/70d7b7e3-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe,  Norway",
+      "jobLevel": "Midweight",
+      "jobExcerpt": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
+      "jobDescription": "<h2>About Enode</h2><p>The grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.</p><p><a href=\"https://enode.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">Enode</a> provides the infrastructure layer that makes this possible. Our <a href=\"https://enode.com/connect\" rel=\"nofollow ugc noopener\" target=\"_blank\">Connect</a> API gives energy companies a single integration to 1000+ devices across 80+ brands. Our <a href=\"https://enode.com/optimize\" rel=\"nofollow ugc noopener\" target=\"_blank\">optimisation</a> tooling gives energy companies the building blocks to manage those devices locally - think smart charging for EVs. Our <a href=\"https://enode.com/flex\" rel=\"nofollow ugc noopener\" target=\"_blank\">Flex</a> product turns those connected devices into a flexible, controllable asset for energy companies.</p><p>We work with device manufacturers across the energy hardware ecosystem - from EV brands to heat pump and solar inverter producers. Our customers are energy retailers, utilities, and traders building the next generation of energy services. We're backed by Y Combinator, Lowercarbon Capital, and Creandum.</p><p>The decisions made now will shape how the energy system gets built. We're looking for people who take ownership, move fast, and care deeply about the role technology can play in the energy transition.</p><p></p><h2>What we're looking for:</h2><p>Enode is looking for a Customer Solutions Engineer to help our customers leverage maximum value from our product. You will also contribute to shaping Enode's Customer Engineering function. In this role you'll interface directly with engineers, product managers, and leadership stakeholders as they integrate Enode's API's to help them realise value from our product fast. Beyond the integration phase, Customer Solutions Engineers also own the technical relationship with customers and act as an internal advocate for customers throughout their entire journey with Enode. This role will involve working in a pre sales and post sales capacity.</p><p>You will be a core part of Enode's Customer Success team and play a critical part in evolving this function within Enode, whilst also working on a daily basis across engineering, product, and sales teams. You will be joining a team of 3 customer solutions engineers and work closely with our Tech Ops Engineer who provides technical support to customers.</p><p></p><h2>In this role, you will:</h2><ul><li><p>Design and help our customers implement technical solutions using the Enode API based on their engineering, product, and business needs</p></li><li><p>Advise customers on technical product architecture and best practices for using the Enode API and provide ongoing technical support to customers (e.g. answering technical questions, debugging customer implementations and resolving/escalating issues)</p></li><li><p>Not only will you identify and debug issues in customer implementations, but you will also proactively make necessary fixes and/or improvements directly in the Enode codebase</p></li><li><p>Act as a champion for new products, features, and company initiatives based on customer discussions and your own product expertise you will develop in the role to ensure Enode's resources are allocated to high impact areas</p></li><li><p>Drive and/or contribute to internal projects (e.g. developer portal experience, Integration Guides, customer analysis, etc).</p></li></ul><p></p><h2>This role will be right for you, if:</h2><p>To succeed at Enode you should be passionate about our mission. You should be excited about electrification and the opportunity to use consumer products and software to solve grid challenges in the transition to a net zero energy system.</p><p>We're looking for:</p><ul><li><p>5+ years of experience relevant to customer engineering such as solutions sales engineering or being a user oriented software engineer</p></li><li><p>An all rounder who is energised by managing technical client relationships but can also dive into the codebase to make fixes improvements</p></li><li><p>Experience deploying complex software in critical infrastructure-like players, mapping API software to existing enterprise stack of ERP, CRM and similar</p></li><li><p>Experience working with enterprise customers with large IT departments and corresponding work processes and governance mechanisms</p></li><li><p>An articulate communicator who has the ability to explain complex, technical issues at the right level depending on the audience</p></li><li><p>A nimble operator &amp; team player who can thrive in a dynamic environment and flat organisation where tasks change frequently to fit the requirements of the company</p></li><li><p>Willingness to travel to customer locations on a regular basis</p></li><li><p>Nice to have: Experience from a technical role in third-party API companies</p></li><li><p>Nice to have: Pre-sales experience, supporting RfP processes for enterprise customers</p></li></ul><h2>What we offer:</h2><ul><li><p>Opportunity to join and impact an early-stage climate tech startup with global aspirations as we scale.</p></li><li><p>A mission-driven, fun and caring environment with high drive and ambition.</p></li><li><p>Competitive compensation, including a very attractive employee option program - you’re part of our journey.</p></li><li><p>Access to best in class AI tooling, we think the ceiling on what a small team can do has fundamentally shifted, and we want you to feel that.</p></li><li><p>Remote-first in Europe, with the option of attending an office in Oslo or receiving a co-working pass on demand.</p></li><li><p>Three annual off-sites to connect with the team in exciting &amp; fun places.</p></li><li><p>Flexible, human-first culture.</p></li><li><p>Stipend for setting up your home office.</p></li></ul><p>------------------------------------------------------------------------------------------</p><h2>A few things to note:</h2><ul><li><p>Enode is an equal opportunities employer. Don’t meet every single requirement? Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. We are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may just be the right candidate for this or other roles.</p></li><li><p>Our values are integral to the way we work and are embedded into all our hiring processes. You can read more about our values <a href=\"https://enode.com/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">here</a>.</p></li></ul><p></p>",
+      "pubDate": "2026-07-04T07:20:56+00:00"
+    }
+  },
+  {
+    "id": "jobicy:148652",
+    "platform": "jobicy",
+    "external_id": "148652",
+    "title": "Senior React Native Developer",
+    "company": "Ruby Labs",
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ About the role At RubyLabs we’re looking for a Senior React Native Developer to join our growing engineering team and help lead our expansion into mobile. This is a role for someone who cares deeply about product quality, enjoys solving architectural challenges, and wants ownership over real features that users rely on. You’ll play a key role in building and scaling our mobile applications, shaping the future of our mobile offering, and collaborating closely with backend and product teams to deliver a seamless, reliable, and high-performance user experience. Key Responsibilities Contribute to the development and delivery of new mobile product features. Maintain and improve the existing React Native codebase, performance, and stability. Define and evolve mobile architecture, system design, and technical strategy. Partner with backend, product, and design teams to shape solutions that scale. Drive reliability, performance, and observability standards on mobile. Own production debugging, incident investigation, and root cause analysis. Guide improvements in build systems, CI/CD, releases, testing, and app store deployments. Support hiring and help grow a world-class mobile engineering team. Champion performance across rendering, navigation, latency, memory, offline behavior, caching, and real-time experiences. Qualifications 5+ years of experience building mobile applications, with significant React Native experience. Experience mentoring engineers through code reviews, architecture, and incident response is a strong plus. Strong understanding of mobile system design , component architecture, state management, navigation patterns, and performance trade-offs. Experience optimizing UI performance, memory usage, rendering efficiency, and startup time. Deep knowledge of React internals and rendering behavior ( hooks, reconciliation, lifecycle, render cost ). Experience working with native modules and iOS/Android bridging . Shipped and maintained apps on the App Store and Google Play. Experience with CI/CD, builds, release automation, and OTA update s (EAS, CodePush, or similar). Experience implementing monitoring and observability (Sentry, OpenTelemetry, crash reporting, performance tracing). Demonstrated ownership of edge cases, distributed failure modes, degraded APIs, offline sync, and recovery UX. Demonstrated ability to lead architecture or technical strategy for a mobile app or major feature. Maintains high standards for clean code, SOLID principles, maintainability, and documentation. Nice to have Experience in startup or high-ownership product teams. Experience scaling real-time or multi-region mobile architectures. Experience designing or building design systems, shared component libraries, or mobile platform foundations. Experience improving mobile security, analytics, performance profiling, and release automation. Knowledge of edge caching, streaming real-time events, WebSockets, or offline-first architectures. Location Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours. Benefits Discover the perks of being part of our vibrant team! We offer: Remote Work Environment: Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. Unlimited PTO: Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. Paid National Holidays: Celebrate and relax on national holidays with paid time off to unwind and recharge. Company-provided MacBook: Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. Flexible Independent Contractor Agreement: Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth! Interview Process After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps: Recruiter Screening (40 minutes) Technical Interview (90 minutes) Final Interview (60 minutes) Life at Ruby Labs At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day. This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen. Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success. #LI-Remote",
+    "url": "https://jobicy.com/jobs/148652-senior-react-native-developer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Europe",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "ruby",
+      "react",
+      "sentry",
+      "react-native",
+      "ios",
+      "android"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-04T07:20:46+00:00",
+    "fetched_at": "2026-07-04T12:51:19.924Z",
+    "raw": {
+      "id": 148652,
+      "url": "https://jobicy.com/jobs/148652-senior-react-native-developer",
+      "jobSlug": "148652-senior-react-native-developer",
+      "jobTitle": "Senior React Native Developer",
+      "companyName": "Ruby Labs",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/0799a7b7-221-1.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at:&hellip;",
+      "jobDescription": "<h2><strong>About us</strong></h2><p>Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: <a href=\"https://rubylabs.com/about-us/\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://rubylabs.com/about-us/</a></p><p></p><h2><strong>About the role</strong></h2><p>At RubyLabs we’re looking for a<strong> Senior React Native Developer</strong> to join our growing engineering team and help lead our expansion into mobile. This is a role for someone who cares deeply about product quality, enjoys solving architectural challenges, and wants ownership over real features that users rely on.</p><p>You’ll play a key role in building and scaling our mobile applications, shaping the future of our mobile offering, and collaborating closely with backend and product teams to deliver a seamless, reliable, and high-performance user experience.</p><p></p><h2><strong>Key Responsibilities</strong></h2><ul><li><p>Contribute to the development and delivery of new mobile product features.</p></li><li><p>Maintain and improve the existing React Native codebase, performance, and stability.</p></li><li><p>Define and evolve mobile architecture, system design, and technical strategy.</p></li><li><p>Partner with backend, product, and design teams to shape solutions that scale.</p></li><li><p>Drive reliability, performance, and observability standards on mobile.</p></li><li><p>Own production debugging, incident investigation, and root cause analysis.</p></li><li><p>Guide improvements in build systems, CI/CD, releases, testing, and app store deployments.</p></li><li><p>Support hiring and help grow a world-class mobile engineering team.</p></li><li><p>Champion performance across rendering, navigation, latency, memory, offline behavior, caching, and real-time experiences.</p></li></ul><p></p><h2><strong>Qualifications</strong></h2><ul><li><p><strong>5+ years of experience </strong>building mobile applications, with significant React Native experience.</p></li><li><p>Experience mentoring engineers through <strong>code reviews, architecture, and incident response</strong> is a strong plus.</p></li><li><p>Strong understanding of <strong>mobile system design</strong>, component architecture, state management, navigation patterns, and performance trade-offs.</p></li><li><p>Experience optimizing UI performance, memory usage, rendering efficiency, and startup time.</p></li><li><p>Deep knowledge of React internals and rendering behavior (<strong>hooks, reconciliation, lifecycle, render cost</strong>).</p></li><li><p>Experience working with native modules and<strong> iOS/Android bridging</strong>.</p></li><li><p>Shipped and maintained apps on the App Store and Google Play.</p></li><li><p>Experience with <strong>CI/CD, builds, release automation, and OTA update</strong>s (EAS, CodePush, or similar).</p></li><li><p>Experience implementing <strong>monitoring and observability</strong> (Sentry, OpenTelemetry, crash reporting, performance tracing).</p></li><li><p>Demonstrated ownership of edge cases, distributed failure modes, degraded APIs, offline sync, and recovery UX.</p></li><li><p>Demonstrated ability to lead architecture or technical strategy for a mobile app or major feature.</p></li><li><p>Maintains high standards for clean code, SOLID principles, maintainability, and documentation.</p></li></ul><p></p><h2><strong>Nice to have</strong></h2><ul><li><p>Experience in startup or high-ownership product teams.</p></li><li><p>Experience scaling real-time or multi-region mobile architectures.</p></li><li><p>Experience designing or building design systems, shared component libraries, or mobile platform foundations.</p></li><li><p>Experience improving mobile security, analytics, performance profiling, and release automation.</p></li><li><p>Knowledge of edge caching, streaming real-time events, WebSockets, or offline-first architectures.</p></li></ul><p></p><h2><strong>Location</strong></h2><p>Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.</p><p></p><h2><strong>Benefits</strong></h2><p>Discover the perks of being part of our vibrant team! We offer:</p><ul><li><p><strong>Remote Work Environment:</strong> Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. </p></li><li><p><strong>Unlimited PTO:</strong> Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. </p></li><li><p><strong>Paid National Holidays:</strong> Celebrate and relax on national holidays with paid time off to unwind and recharge. </p></li><li><p><strong>Company-provided MacBook:</strong> Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. </p></li><li><p><strong>Flexible Independent Contractor Agreement:</strong> Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: <a href=\"https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt</a></p></li></ul><p>Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!</p><p></p><h2><strong>Interview Process</strong></h2><p>After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:</p><ul><li><p>Recruiter Screening (40 minutes)</p></li><li><p>Technical Interview (90 minutes)</p></li><li><p>Final Interview (60 minutes)</p></li></ul><p></p><h2><strong>Life at Ruby Labs</strong></h2><p>At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day.</p><p>This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen.</p><p>Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success.</p><p></p><p>#LI-Remote</p>",
+      "pubDate": "2026-07-04T07:20:46+00:00"
+    }
+  },
+  {
     "id": "jobicy:147079",
     "platform": "jobicy",
     "external_id": "147079",
@@ -30,7 +225,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-04T05:10:04+00:00",
-    "fetched_at": "2026-07-04T08:14:58.184Z",
+    "fetched_at": "2026-07-04T12:51:19.925Z",
     "raw": {
       "id": 147079,
       "url": "https://jobicy.com/jobs/147079-qa-engineer-5",
@@ -78,7 +273,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T19:37:15+00:00",
-    "fetched_at": "2026-07-04T08:14:58.185Z",
+    "fetched_at": "2026-07-04T12:51:19.926Z",
     "raw": {
       "id": 148622,
       "url": "https://jobicy.com/jobs/148622-research-engineer-sysml-fair",
@@ -136,7 +331,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-03T18:55:02+00:00",
-    "fetched_at": "2026-07-04T08:14:58.186Z",
+    "fetched_at": "2026-07-04T12:51:19.927Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -186,7 +381,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:36:44+00:00",
-    "fetched_at": "2026-07-04T08:14:58.187Z",
+    "fetched_at": "2026-07-04T12:51:19.928Z",
     "raw": {
       "id": 145309,
       "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
@@ -241,7 +436,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:26:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.188Z",
+    "fetched_at": "2026-07-04T12:51:19.929Z",
     "raw": {
       "id": 145328,
       "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
@@ -288,7 +483,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:16:44+00:00",
-    "fetched_at": "2026-07-04T08:14:58.189Z",
+    "fetched_at": "2026-07-04T12:51:19.931Z",
     "raw": {
       "id": 145335,
       "url": "https://jobicy.com/jobs/145335-engineering-manager-advanced-signals-swe",
@@ -337,7 +532,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T02:44:05+00:00",
-    "fetched_at": "2026-07-04T08:14:58.190Z",
+    "fetched_at": "2026-07-04T12:51:19.932Z",
     "raw": {
       "id": 148507,
       "url": "https://jobicy.com/jobs/148507-connectivity-integration-lead-data-center-infrastructure",
@@ -387,7 +582,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T11:41:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.190Z",
+    "fetched_at": "2026-07-04T12:51:19.933Z",
     "raw": {
       "id": 145054,
       "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
@@ -430,7 +625,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T11:21:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.191Z",
+    "fetched_at": "2026-07-04T12:51:19.935Z",
     "raw": {
       "id": 145072,
       "url": "https://jobicy.com/jobs/145072-senior-sales-engineer-majors",
@@ -482,7 +677,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T10:41:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.192Z",
+    "fetched_at": "2026-07-04T12:51:19.936Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -544,7 +739,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-02T10:26:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.193Z",
+    "fetched_at": "2026-07-04T12:51:19.937Z",
     "raw": {
       "id": 145227,
       "url": "https://jobicy.com/jobs/145227-senior-full-stack-ai-native-developer",
@@ -587,7 +782,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T07:43:23+00:00",
-    "fetched_at": "2026-07-04T08:14:58.194Z",
+    "fetched_at": "2026-07-04T12:51:19.938Z",
     "raw": {
       "id": 148357,
       "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
@@ -634,7 +829,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:41:06+00:00",
-    "fetched_at": "2026-07-04T08:14:58.195Z",
+    "fetched_at": "2026-07-04T12:51:19.940Z",
     "raw": {
       "id": 148338,
       "url": "https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term",
@@ -683,7 +878,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:07:36+00:00",
-    "fetched_at": "2026-07-04T08:14:58.195Z",
+    "fetched_at": "2026-07-04T12:51:19.941Z",
     "raw": {
       "id": 148327,
       "url": "https://jobicy.com/jobs/148327-cost-engineer",
@@ -729,7 +924,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:07:34+00:00",
-    "fetched_at": "2026-07-04T08:14:58.196Z",
+    "fetched_at": "2026-07-04T12:51:19.942Z",
     "raw": {
       "id": 148326,
       "url": "https://jobicy.com/jobs/148326-substation-engineer-remote-part-time",
@@ -780,7 +975,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T03:52:51+00:00",
-    "fetched_at": "2026-07-04T08:14:58.197Z",
+    "fetched_at": "2026-07-04T12:51:19.943Z",
     "raw": {
       "id": 148319,
       "url": "https://jobicy.com/jobs/148319-senior-software-engineer-customer-experience-platform",
@@ -826,7 +1021,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T11:11:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.198Z",
+    "fetched_at": "2026-07-04T12:51:19.944Z",
     "raw": {
       "id": 145122,
       "url": "https://jobicy.com/jobs/145122-middle-strong-general-qa-with-ai",
@@ -874,7 +1069,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T10:51:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.198Z",
+    "fetched_at": "2026-07-04T12:51:19.944Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -936,7 +1131,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T10:46:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.199Z",
+    "fetched_at": "2026-07-04T12:51:19.946Z",
     "raw": {
       "id": 145145,
       "url": "https://jobicy.com/jobs/145145-mts-cloud-test",
@@ -992,7 +1187,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T06:41:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.200Z",
+    "fetched_at": "2026-07-04T12:51:19.947Z",
     "raw": {
       "id": 146283,
       "url": "https://jobicy.com/jobs/146283-senior-full-stack-engineer-react-or-vue-python-investment-latam",
@@ -1043,7 +1238,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T06:30:52+00:00",
-    "fetched_at": "2026-07-04T08:14:58.200Z",
+    "fetched_at": "2026-07-04T12:51:19.947Z",
     "raw": {
       "id": 148224,
       "url": "https://jobicy.com/jobs/148224-senior-platform-engineer",
@@ -1092,7 +1287,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T02:13:33+00:00",
-    "fetched_at": "2026-07-04T08:14:58.202Z",
+    "fetched_at": "2026-07-04T12:51:19.949Z",
     "raw": {
       "id": 148199,
       "url": "https://jobicy.com/jobs/148199-data-engineer-engineering-operations",
@@ -1150,7 +1345,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T02:13:30+00:00",
-    "fetched_at": "2026-07-04T08:14:58.202Z",
+    "fetched_at": "2026-07-04T12:51:19.950Z",
     "raw": {
       "id": 148197,
       "url": "https://jobicy.com/jobs/148197-software-engineer-unity",
@@ -1203,7 +1398,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-30T17:21:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.203Z",
+    "fetched_at": "2026-07-04T12:51:19.951Z",
     "raw": {
       "id": 144087,
       "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
@@ -1251,7 +1446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:22+00:00",
-    "fetched_at": "2026-07-04T08:14:58.204Z",
+    "fetched_at": "2026-07-04T12:51:19.953Z",
     "raw": {
       "id": 148145,
       "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
@@ -1306,7 +1501,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:20+00:00",
-    "fetched_at": "2026-07-04T08:14:58.205Z",
+    "fetched_at": "2026-07-04T12:51:19.954Z",
     "raw": {
       "id": 148144,
       "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
@@ -1362,7 +1557,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:19+00:00",
-    "fetched_at": "2026-07-04T08:14:58.206Z",
+    "fetched_at": "2026-07-04T12:51:19.955Z",
     "raw": {
       "id": 148143,
       "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
@@ -1419,7 +1614,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:15+00:00",
-    "fetched_at": "2026-07-04T08:14:58.207Z",
+    "fetched_at": "2026-07-04T12:51:19.956Z",
     "raw": {
       "id": 148141,
       "url": "https://jobicy.com/jobs/148141-demo-engineer",
@@ -1474,7 +1669,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T04:41:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.208Z",
+    "fetched_at": "2026-07-04T12:51:19.958Z",
     "raw": {
       "id": 143126,
       "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
@@ -1519,7 +1714,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T03:46:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.209Z",
+    "fetched_at": "2026-07-04T12:51:19.959Z",
     "raw": {
       "id": 143221,
       "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
@@ -1540,55 +1735,6 @@
       "pubDate": "2026-06-30T03:46:41+00:00",
       "salaryMin": 197000,
       "salaryMax": 290000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:143399",
-    "platform": "jobicy",
-    "external_id": "143399",
-    "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
-    "company": "Lumen Technologies",
-    "description": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world. By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock what’s next. At Lumen, people power progress. Our culture is built on teamwork, trust, and transparency, giving you the flexibility, support, and opportunity to make a lasting impact. We’re looking for top-tier talent ready to take on the challenge. Join us in building the future. The Role SAIC seeks a Lumen Network Design Engineer V (WAN / Work Package Engineer) to support the Department of the Air Force C3BM/ABMS program. In this lead Lumen engineering role, you apply advanced engineering and network principles to solve unusually complex problems and to develop/evaluate/implement secure WAN/transport solutions. Embedded with the SAIC mission team, you translate operational and cybersecurity requirements into implementable field work packages for classified and unclassified environments. Deliverables to the SAIC Chief Engineer and technical engineering include HLD/LLD, design-review packages, diagrams, and (as requested) bills of material and configuration templates. HYBRID role; initial work is performed in contractor-provided facilities. The engineer works with SAIC’s Chief Engineer to design secure WAN/transport connectivity and deliver implementation-ready field work packages. Contingent upon contract award expected in Q1. The Main Responsibilities WAN Architecture &amp; Design Engineering. Develop WAN/transport design recommendations for mission networks: site connectivity, segmentation, resiliency, and performance engineering across classified and unclassified enclaves. Define engineering requirements, interfaces, and implementable WAN designs, including L0 circuit configurations and CLLI circuit-route options across CONUS/OCONUS; optionally address routing, addressing, QoS, encryption, and boundary protection. Develop optimized WAN transport options using OTN and ITU‑T standards (G.709, G.798, G.872); apply MPLS/IP, Ethernet, VPN/IPsec, SD‑WAN, and modern secure access patterns (SASE/SSE) where applicable. Propose WAN work package options to SAIC technical leadership to support engineering trades before implementation; deliverables may include HLD/LLD, logical/physical diagrams, IP plans, L0 routing/QoS policies, security boundary requirements, BOM/part lists, rack elevations (as applicable), configuration templates, and interface cut sheets. Support the SAIC Chief Engineer with MOPs, implementation plans, cutover schedules, rollback procedures, and test/validation plans; participate in technical reviews and change control; identify/mitigate risks per work package. Recommend optimized WAN solutions for current/long-range planning; partner with technical leads to select tools/technologies that improve efficiency, reduce cost, and increase customer satisfaction. Create/maintain engineering and compliance evidence (device configuration baselines, DISA STIG notes/checklists, boundary descriptions, diagrams, status reports) to support audits and RMF/ATO. Support operational projects and maintenance windows; assist implementation teams during turn-ups, migrations, and service transitions. Recommend automation/standardization of repeatable engineering tasks (configuration generation, validation checks, documentation workflows) consistent with program approvals. Troubleshoot complex hardware/software/network issues (as requested); document problems, root causes, and resolutions; feed lessons learned into package templates and standards. Support WAN capacity planning across sites/segments (bandwidth, optical/Carrier Ethernet where applicable, routing headroom, power/cooling constraints, lifecycle/EOL). Support L0 circuit delivery/integration/activation and service migrations: coordinate with providers, validate acceptance criteria, and update as-built documentation. Provide inputs to design review packages; update network drawings (e.g., Visio) and route maps to reflect approved designs and as-built changes. Develop ROM estimates and cost models for new sites, routes, and WAN services. Operational Support, Provider Coordination, and Documentation As requested by the PM and/or Chief Engineer, serve as technical liaison among teams to align design intent, circuit turn-up activities, and field execution. Provide Tier 3/4 troubleshooting and root-cause analysis for WAN/transport issues and recommend corrective actions. Support RMF/ATO by producing required network engineering evidence: diagrams; port/protocol/service documentation; boundary descriptions; STIG checklists/implementation notes; and as-built configurations. Deliver technical design reviews, implementation-readiness briefings, and mission-impact assessments to the SAIC Chief Engineer and operational teams. What We Look For in a Candidate US Citizenship is required. Active TS/SCI or SCI Eligible. IAT Level I/II/III Certification. Travel is required Education/experience: BA/BS +17 years; or MS + 13 years; or PhD/JD + 10 years related experience. 14+ years progressive WAN/transport engineering, network architecture, or telecommunications experience, including deployable implementation/job packages. Deep expertise in: OTN and ITU-T standards (G.709, G.798, G.872). MPLS/IP, Ethernet, VPN/IPsec overlays, and enterprise/carrier WAN design patterns. Routing/traffic engineering (BGP, OSPF/ISIS), path control, convergence, SD-WAN and secure connectivity (SASE/SSE), segmentation/policy design, QoS (marking/queuing/shaping), performance engineering, capacity planning. Network security, boundary protections, and Zero Trust; field-ready engineering packages (logical/physical diagrams, IP plans, BOMs, config templates, implementation steps, cutover/rollback, test/validation). Task/work-order execution support: design reviews, implementation readiness coordination, and design-to-field discrepancy resolution. Technical writing/communications: concise engineering documentation and briefings for technical and non-technical stakeholders. Consultative skills: rapport, fact-finding, requirements definition, options/recommendations, follow-through, customer focus; thrives with competing priorities. Compensation This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors. Location Based Pay Ranges $132,232 - $176,310 in these states: AL AR AZ FL GA IA ID IN KS KY LA ME MO MS MT ND NE NM OH OK PA SC SD TN UT VT WI WV WY $138,844 - $185,124 in these states: CO HI MI MN NC NH NV OR RI $145,456 - $193,940 in these states: AK CA CT DC DE IL MA MD NJ NY TX VA WA Lumen offers a comprehensive package featuring a broad range of Health, Life, Voluntary Lifestyle benefits and other perks that enhance your physical, mental, emotional and financial wellbeing. We're able to answer any additional questions you may have about our bonus structure (short-term incentives, long-term incentives and/or sales compensation) as you move through the selection process. Learn more about Lumen's: Benefits Bonus Structure #LI-Remote Requisition #: 342128 Background Screening If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our FAQ page . Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Equal Employment Opportunities We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training. Privacy Notice Lumen is committed to protecting the privacy and security of personal information collected during the recruitment and hiring process. Our Privacy Notice explains how we collect, use, disclose, and protect applicant information, as well as how individuals may request access to or deletion of their personal data. To review Lumen’s Privacy Notice, please visit: https://jobs.lumen.com/global/en/privacy-notice Disclaimer The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions. In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information. Please be advised that Lumen does not require any form of payment from job applicants during the recruitment process. All legitimate job openings will be posted on our official website or communicated through official company email addresses. If you encounter any job offers that request payment in exchange for employment at Lumen, they are not for employment with us, but may relate to another company with a similar name.",
-    "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-30T02:36:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.210Z",
-    "raw": {
-      "id": 143399,
-      "url": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
-      "jobSlug": "143399-network-design-engineer-v-wan-job-package-engineer-abms",
-      "jobTitle": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
-      "companyName": "Lumen Technologies",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/09/bab8bfe71b006d34181034e47e6b2c52.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Any",
-      "jobExcerpt": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock what’s next.At Lumen, people power progress. Our culture is built on teamwork, trust, and transparency, giving you the flexibility, support,&hellip;",
-      "jobDescription": "<p>Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.</p><p>By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock what’s next.</p><p>At Lumen, people power progress. Our culture is built on teamwork, trust, and transparency, giving you the flexibility, support, and opportunity to make a lasting impact. We’re looking for top-tier talent ready to take on the challenge. Join us in building the future.</p><h2><b>The Role</b></h2><p>SAIC seeks a Lumen Network Design Engineer V (WAN / Work Package Engineer) to support the Department of the Air Force C3BM/ABMS program. In this lead Lumen engineering role, you apply advanced engineering and network principles to solve unusually complex problems and to develop/evaluate/implement secure WAN/transport solutions. Embedded with the SAIC mission team, you translate operational and cybersecurity requirements into implementable field work packages for classified and unclassified environments. Deliverables to the SAIC Chief Engineer and technical engineering include HLD/LLD, design-review packages, diagrams, and (as requested) bills of material and configuration templates. </p><p>HYBRID role; initial work is performed in contractor-provided facilities. The engineer works with SAIC’s Chief Engineer to design secure WAN/transport connectivity and deliver implementation-ready field work packages. Contingent upon contract award expected in Q1. </p><h2><b>The Main Responsibilities</b></h2><ul>\r\n<li>WAN Architecture &amp; Design Engineering.</li>\r\n<li>Develop WAN/transport design recommendations for mission networks: site connectivity, segmentation, resiliency, and performance engineering across classified and unclassified enclaves. </li>\r\n<li>Define engineering requirements, interfaces, and implementable WAN designs, including L0 circuit configurations and CLLI circuit-route options across CONUS/OCONUS; optionally address routing, addressing, QoS, encryption, and boundary protection. </li>\r\n<li>Develop optimized WAN transport options using OTN and ITU‑T standards (G.709, G.798, G.872); apply MPLS/IP, Ethernet, VPN/IPsec, SD‑WAN, and modern secure access patterns (SASE/SSE) where applicable. </li>\r\n<li>Propose WAN work package options to SAIC technical leadership to support engineering trades before implementation; deliverables may include HLD/LLD, logical/physical diagrams, IP plans, L0 routing/QoS policies, security boundary requirements, BOM/part lists, rack elevations (as applicable), configuration templates, and interface cut sheets. </li>\r\n<li>Support the SAIC Chief Engineer with MOPs, implementation plans, cutover schedules, rollback procedures, and test/validation plans; participate in technical reviews and change control; identify/mitigate risks per work package. </li>\r\n<li>Recommend optimized WAN solutions for current/long-range planning; partner with technical leads to select tools/technologies that improve efficiency, reduce cost, and increase customer satisfaction. </li>\r\n<li>Create/maintain engineering and compliance evidence (device configuration baselines, DISA STIG notes/checklists, boundary descriptions, diagrams, status reports) to support audits and RMF/ATO. </li>\r\n<li>Support operational projects and maintenance windows; assist implementation teams during turn-ups, migrations, and service transitions. </li>\r\n<li>Recommend automation/standardization of repeatable engineering tasks (configuration generation, validation checks, documentation workflows) consistent with program approvals. </li>\r\n<li>Troubleshoot complex hardware/software/network issues (as requested); document problems, root causes, and resolutions; feed lessons learned into package templates and standards. </li>\r\n<li>Support WAN capacity planning across sites/segments (bandwidth, optical/Carrier Ethernet where applicable, routing headroom, power/cooling constraints, lifecycle/EOL). </li>\r\n<li>Support L0 circuit delivery/integration/activation and service migrations: coordinate with providers, validate acceptance criteria, and update as-built documentation. </li>\r\n<li>Provide inputs to design review packages; update network drawings (e.g., Visio) and route maps to reflect approved designs and as-built changes. </li>\r\n<li>Develop ROM estimates and cost models for new sites, routes, and WAN services. </li>\r\n<li>Operational Support, Provider Coordination, and Documentation </li>\r\n<li>As requested by the PM and/or Chief Engineer, serve as technical liaison among teams to align design intent, circuit turn-up activities, and field execution. </li>\r\n<li>Provide Tier 3/4 troubleshooting and root-cause analysis for WAN/transport issues and recommend corrective actions. </li>\r\n<li>Support RMF/ATO by producing required network engineering evidence: diagrams; port/protocol/service documentation; boundary descriptions; STIG checklists/implementation notes; and as-built configurations. </li>\r\n<li>Deliver technical design reviews, implementation-readiness briefings, and mission-impact assessments to the SAIC Chief Engineer and operational teams. </li>\r\n</ul><h2><b>What We Look For in a Candidate</b></h2><ul>\r\n<li>US Citizenship is required.</li>\r\n<li>Active TS/SCI or SCI Eligible. </li>\r\n<li>IAT Level I/II/III Certification. </li>\r\n<li>Travel is required </li>\r\n<li>Education/experience: BA/BS +17 years; or MS + 13 years; or PhD/JD + 10 years related experience. </li>\r\n<li>14+ years progressive WAN/transport engineering, network architecture, or telecommunications experience, including deployable implementation/job packages. </li>\r\n<li>Deep expertise in: </li>\r\n<li>OTN and ITU-T standards (G.709, G.798, G.872). </li>\r\n<li>MPLS/IP, Ethernet, VPN/IPsec overlays, and enterprise/carrier WAN design patterns. </li>\r\n<li>Routing/traffic engineering (BGP, OSPF/ISIS), path control, convergence, SD-WAN and secure connectivity (SASE/SSE), segmentation/policy design, QoS (marking/queuing/shaping), performance engineering, capacity planning. </li>\r\n<li>Network security, boundary protections, and Zero Trust; field-ready engineering packages (logical/physical diagrams, IP plans, BOMs, config templates, implementation steps, cutover/rollback, test/validation). </li>\r\n<li>Task/work-order execution support: design reviews, implementation readiness coordination, and design-to-field discrepancy resolution. </li>\r\n<li>Technical writing/communications: concise engineering documentation and briefings for technical and non-technical stakeholders. </li>\r\n<li>Consultative skills: rapport, fact-finding, requirements definition, options/recommendations, follow-through, customer focus; thrives with competing priorities. <br> </li>\r\n</ul><h2><b>Compensation</b></h2><p> This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.<br />Location Based Pay Ranges<br />$132,232 - $176,310 in these states: AL AR AZ FL GA IA ID IN KS KY LA ME MO MS MT ND NE NM OH OK PA SC SD TN UT VT WI WV WY <br>$138,844 - $185,124 in these states: CO HI MI MN NC NH NV OR RI <br>$145,456 - $193,940 in these states: AK CA CT DC DE IL MA MD NJ NY TX VA WA <br />Lumen offers a comprehensive package featuring a broad range of Health, Life, Voluntary Lifestyle benefits and other perks that enhance your physical, mental, emotional and financial wellbeing. We're able to answer any additional questions you may have about our bonus structure (short-term incentives, long-term incentives and/or sales compensation) as you move through the selection process. </p><p> Learn more about Lumen's: <a href=\"https://jobs.lumen.com/global/en/benefits-statement\" rel=\"nofollow ugc noopener\" target=\"_blank\">Benefits</a> <a href=\"https://jobs.lumen.com/global/en/compensation-information\" rel=\"nofollow ugc noopener\" target=\"_blank\">Bonus Structure</a> </p><p>#LI-Remote</p><p>Requisition #: 342128</p><p><strong>Background Screening</strong></p><p>If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our <a href=\"https://jobs.lumen.com/global/en/faq\" rel=\"nofollow ugc noopener\" target=\"_blank\">FAQ page</a>. Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis.</p><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p><p><strong>Equal Employment Opportunities</strong></p><p>We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.</p><p><strong>Privacy Notice</strong></p><p>Lumen is committed to protecting the privacy and security of personal information collected during the recruitment and hiring process. Our Privacy Notice explains how we collect, use, disclose, and protect applicant information, as well as how individuals may request access to or deletion of their personal data.</p><p>To review Lumen’s Privacy Notice, please visit:<br><a href=\"https://jobs.lumen.com/global/en/privacy-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://jobs.lumen.com/global/en/privacy-notice</a></p><p><strong>Disclaimer</strong></p><p>The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions.</p><p>In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.</p><p>Please be advised that Lumen does not require any form of payment from job applicants during the recruitment process. All legitimate job openings will be posted on our official website or communicated through official company email addresses. If you encounter any job offers that request payment in exchange for employment at Lumen, they are not for employment with us, but may relate to another company with a similar name.</p>",
-      "pubDate": "2026-06-30T02:36:42+00:00",
-      "salaryMin": 132232,
-      "salaryMax": 193940,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
@@ -1628,7 +1774,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T02:33:57+00:00",
-    "fetched_at": "2026-07-04T08:14:58.211Z",
+    "fetched_at": "2026-07-04T12:51:19.961Z",
     "raw": {
       "id": 148118,
       "url": "https://jobicy.com/jobs/148118-senior-backend-engineer-elixir-2",
@@ -1682,7 +1828,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:56:44+00:00",
-    "fetched_at": "2026-07-04T08:14:58.212Z",
+    "fetched_at": "2026-07-04T12:51:19.962Z",
     "raw": {
       "id": 144806,
       "url": "https://jobicy.com/jobs/144806-sailpoint-iam-engineer",
@@ -1732,7 +1878,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:16:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.213Z",
+    "fetched_at": "2026-07-04T12:51:19.963Z",
     "raw": {
       "id": 144851,
       "url": "https://jobicy.com/jobs/144851-lead-backend-engineer",
@@ -1784,7 +1930,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:51:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.214Z",
+    "fetched_at": "2026-07-04T12:51:19.965Z",
     "raw": {
       "id": 144874,
       "url": "https://jobicy.com/jobs/144874-senior-ai-engineer-4",
@@ -1831,7 +1977,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:11:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.215Z",
+    "fetched_at": "2026-07-04T12:51:19.966Z",
     "raw": {
       "id": 144970,
       "url": "https://jobicy.com/jobs/144970-sap-btp-integration-developer-m-f-d",
@@ -1877,7 +2023,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:21:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.216Z",
+    "fetched_at": "2026-07-04T12:51:19.967Z",
     "raw": {
       "id": 145005,
       "url": "https://jobicy.com/jobs/145005-software-engineer-ii-network-operations",
@@ -1942,7 +2088,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:10+00:00",
-    "fetched_at": "2026-07-04T08:14:58.217Z",
+    "fetched_at": "2026-07-04T12:51:19.969Z",
     "raw": {
       "id": 148065,
       "url": "https://jobicy.com/jobs/148065-senior-backend-engineer",
@@ -1993,7 +2139,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:08+00:00",
-    "fetched_at": "2026-07-04T08:14:58.218Z",
+    "fetched_at": "2026-07-04T12:51:19.970Z",
     "raw": {
       "id": 148064,
       "url": "https://jobicy.com/jobs/148064-engineering-team-leader-2",
@@ -2046,7 +2192,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-29T12:11:45+00:00",
-    "fetched_at": "2026-07-04T08:14:58.219Z",
+    "fetched_at": "2026-07-04T12:51:19.971Z",
     "raw": {
       "id": 148051,
       "url": "https://jobicy.com/jobs/148051-backend-php-developer",
@@ -2095,7 +2241,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T19:01:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.220Z",
+    "fetched_at": "2026-07-04T12:51:19.973Z",
     "raw": {
       "id": 144909,
       "url": "https://jobicy.com/jobs/144909-senior-android-engineer-2",
@@ -2149,7 +2295,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T18:36:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.222Z",
+    "fetched_at": "2026-07-04T12:51:19.975Z",
     "raw": {
       "id": 144932,
       "url": "https://jobicy.com/jobs/144932-senior-security-engineer-grc-automation",
@@ -2201,7 +2347,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-28T17:31:44+00:00",
-    "fetched_at": "2026-07-04T08:14:58.222Z",
+    "fetched_at": "2026-07-04T12:51:19.976Z",
     "raw": {
       "id": 145128,
       "url": "https://jobicy.com/jobs/145128-agentic-ai-developer",
@@ -2259,7 +2405,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:21+00:00",
-    "fetched_at": "2026-07-04T08:14:58.222Z",
+    "fetched_at": "2026-07-04T12:51:19.976Z",
     "raw": {
       "id": 147980,
       "url": "https://jobicy.com/jobs/147980-node-js-react-tech-lead-latam-remote",
@@ -2311,7 +2457,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:11+00:00",
-    "fetched_at": "2026-07-04T08:14:58.223Z",
+    "fetched_at": "2026-07-04T12:51:19.977Z",
     "raw": {
       "id": 147975,
       "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
@@ -2366,7 +2512,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:09+00:00",
-    "fetched_at": "2026-07-04T08:14:58.223Z",
+    "fetched_at": "2026-07-04T12:51:19.977Z",
     "raw": {
       "id": 147974,
       "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
@@ -2409,7 +2555,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T21:21:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.224Z",
+    "fetched_at": "2026-07-04T12:51:19.978Z",
     "raw": {
       "id": 147705,
       "url": "https://jobicy.com/jobs/147705-cpq-architect",
@@ -2452,7 +2598,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T19:11:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.224Z",
+    "fetched_at": "2026-07-04T12:51:19.979Z",
     "raw": {
       "id": 142065,
       "url": "https://jobicy.com/jobs/142065-senior-model-based-system-engineer",
@@ -2501,7 +2647,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:36:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.225Z",
+    "fetched_at": "2026-07-04T12:51:19.980Z",
     "raw": {
       "id": 142109,
       "url": "https://jobicy.com/jobs/142109-senior-hpc-performance-engineer",
@@ -2552,7 +2698,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:31:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.225Z",
+    "fetched_at": "2026-07-04T12:51:19.981Z",
     "raw": {
       "id": 142111,
       "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
@@ -2604,7 +2750,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T17:21:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.226Z",
+    "fetched_at": "2026-07-04T12:51:19.981Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -2657,7 +2803,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:46:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.227Z",
+    "fetched_at": "2026-07-04T12:51:19.983Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -2707,7 +2853,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:21:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.227Z",
+    "fetched_at": "2026-07-04T12:51:19.983Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -2750,7 +2896,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T14:11:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.228Z",
+    "fetched_at": "2026-07-04T12:51:19.984Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -2808,7 +2954,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:56:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.229Z",
+    "fetched_at": "2026-07-04T12:51:19.986Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -2855,7 +3001,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:11:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.230Z",
+    "fetched_at": "2026-07-04T12:51:19.986Z",
     "raw": {
       "id": 142565,
       "url": "https://jobicy.com/jobs/142565-technical-principal",
@@ -2898,7 +3044,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T09:11:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.231Z",
+    "fetched_at": "2026-07-04T12:51:19.988Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -2954,7 +3100,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:41:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.232Z",
+    "fetched_at": "2026-07-04T12:51:19.990Z",
     "raw": {
       "id": 142760,
       "url": "https://jobicy.com/jobs/142760-software-engineer-video",
@@ -3008,7 +3154,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:31:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.233Z",
+    "fetched_at": "2026-07-04T12:51:19.991Z",
     "raw": {
       "id": 142770,
       "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
@@ -3055,7 +3201,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:36:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.234Z",
+    "fetched_at": "2026-07-04T12:51:19.992Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -3113,7 +3259,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:31:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.235Z",
+    "fetched_at": "2026-07-04T12:51:19.994Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -3160,7 +3306,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:45+00:00",
-    "fetched_at": "2026-07-04T08:14:58.235Z",
+    "fetched_at": "2026-07-04T12:51:19.995Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -3179,49 +3325,6 @@
       "jobExcerpt": "Do you relish the opportunity to work with global brands?How would you evangelize our cutting edge products to partners?Join our Partner Enablement team!Partner Solutions Engineers (PSE) are part of Akamai's Pre-sales team. You will work with Channel Managers, Partner Account Executives, services &amp; support teams in EMEA. Together, we will ensure that partners are well&hellip;",
       "jobDescription": "<p><strong>Do you relish the opportunity to work with global brands?</strong></p><p><strong>How would you evangelize our cutting edge products to partners?</strong></p><p><strong>Join our Partner Enablement team!</strong></p><p>Partner Solutions Engineers (PSE) are part of Akamai's Pre-sales team. You will work with Channel Managers, Partner Account Executives, services &amp; support teams in EMEA. Together, we will ensure that partners are well enabled to sell, implement, support, and maintain Akamai solutions. PSEs tailor &amp; execute Akamai's Partner training strategy for both partner &amp; Akamai's growth.</p><p><strong>The Role</strong></p><p>Design and implement innovative technical solutions, ensuring seamless integration, optimal performance, and alignment with organizational goals and client requirements.</p><p>As a Partner Solutions Engineer, you will be responsible for:</p><ul>\n<li>Developing trusted relationships with partners' Sales, Presales, and Technical leaders</li>\n<li>Supporting partners with technical sales activities such as value confirmation education and delivery</li>\n<li>Coordinating efforts for enabling partners on relevant products</li>\n<li>Customizing resources such as sales plays, competitive intelligence and use cases to drive partner sourced opportunities</li>\n<li>Representing partner needs to product teams while collaborating with internal groups like marketing, services, and support to ensure partner success.</li>\n<li>Partnering with field sales teams to drive business through the channel</li>\n</ul><p><strong>Do what you love</strong></p><p>To be successful in this role you will:</p><ul>\n<li>Have experience in a customer or partner-facing environment such as technical pre-sales, account/project management or consulting</li>\n<li>Have experience working in cybersecurity, cloud, enterprise, or networking technology</li>\n<li>Be able to effectively present complex and technical material to varying audiences virtually and in-person</li>\n<li>Demonstrate excellent communication in both Swedish and English as well as relationship building skills</li>\n</ul><p><strong>Work in a way that works for you</strong></p><p>FlexBase, Akamai's Global Flexible Working Program, is based on the principles that are helping us create the best workplace in the world. When our colleagues said that flexible working was important to them, we listened. We also know flexible working is important to many of the incredible people considering joining Akamai. FlexBase, gives 95% of employees the choice to work from their home, their office, or both (in the country advertised). This permanent workplace flexibility program is consistent and fair globally, to help us find incredible talent, virtually anywhere. We are happy to discuss working options for this role and encourage you to speak with your recruiter in more detail when you apply. <br /><a href=\"https://www.akamai.com/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">Learn</a> what makes Akamai a great place to work</p><p> Connect with us on social and see what life at Akamai is like! </p><p><strong>We power and protect life online, by solving the toughest challenges, together.</strong></p><p>At Akamai, we're curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, you'll thrive here.</p><p><strong>Working for you</strong></p><p>At Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life:</p><ul>\n<li>Your health</li>\n<li>Your finances</li>\n<li>Your family</li>\n<li>Your time at work</li>\n<li>Your time pursuing other endeavors</li>\n</ul><p>Our benefit plan options are designed to meet your individual needs and budget, both today and in the future.</p><p><strong>About us</strong></p><p>Akamai powers and protects life online. Leading companies worldwide choose Akamai to build, deliver, and secure their digital experiences helping billions of people live, work, and play every day. With the world's most distributed compute platform from cloud to edge we make it easy for customers to develop and run applications, while we keep experiences closer to users and threats farther away.</p><p><strong>Join us</strong></p><p>Are you seeking an opportunity to learn and make a real impact in a global technology company? Come join us and learn with a team of people who will energize and inspire you!<br />#LI-Remote</p>",
       "pubDate": "2026-06-26T22:26:45+00:00"
-    }
-  },
-  {
-    "id": "jobicy:143733",
-    "platform": "jobicy",
-    "external_id": "143733",
-    "title": "Senior Staff Engineer",
-    "company": "Nagarro",
-    "description": "Company Description We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at scale — across all devices and digital mediums, and our people exist everywhere in the world (18,000 experts across 39 countries, to be exact). Our work culture is dynamic and non-hierarchical. Job Description As a Senior Staff Engineer at Nagarro, you will play a key role in designing and delivering advanced PLM solutions for global manufacturing clients. We are looking for a highly experienced professional with strong expertise in Business Solutioning, PLM Integration, and manufacturing business processes, combined with the ability to translate complex requirements into scalable enterprise solutions. The role combines strategic consulting, solution architecture, and delivery excellence, with a strong focus on digital continuity and enterprise transformation. Lead business solutioning initiatives by translating complex business requirements into scalable PLM architectures and enterprise integration strategies Design and deliver end-to-end PLM solutions including data models, workflows, system configurations, and integrations across ERP, MES, ALM, and CAD platforms Drive optimization of manufacturing and engineering business processes including PDM, Engineering Change Management, and BOM Management (eBOM/mBOM/BOP) Collaborate with business stakeholders, technical teams, and leadership to align PLM solutions with digital transformation and organizational objectives Provide architectural leadership for customizations, cloud-based PLM deployments, migration programs, and legacy system modernization initiatives Ensure high-quality solution delivery through architecture governance, performance optimization, and adherence to enterprise security and compliance standards Qualifications Expert-level experience in Business Solutioning with strong expertise in PLM Integration across ERP, MES, ALM, and CAD systems Deep understanding of manufacturing and engineering business processes including PDM, Engineering Change Management, Workflow &amp; Lifecycle Management, and BOM Management (eBOM/mBOM/BOP) Proven hands-on experience with PLM platforms such as Windchill, Enovia, Aras, or similar technologies Strong knowledge of CAD integrations including NX, Creo, SolidWorks, and CATIA, along with experience in cloud-based PLM deployments and modernization initiatives Excellent consulting, stakeholder management, communication, and problem-solving skills with a strong delivery-oriented mindset Fluent German (mandatory) and strong English communication skills Based in Germany with remote working flexibility available Additional Information 30 days of paid vacation, internal and external training opportunities, MyN – Nagarro Employee Share Program, attractive company bicycle arrangements, modern office space at central locations with high-tech equipment, sports programs, access to the corporate benefits portal, free fruit and drinks. Plenty of room for innovation in a high-growth environment with the latest technologies and products. With us, you can get involved and make a difference. Flat hierarchies and a long-term, stable job with attractive development opportunities.",
-    "url": "https://jobicy.com/jobs/143733-senior-staff-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Germany",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-26T22:26:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.236Z",
-    "raw": {
-      "id": 143733,
-      "url": "https://jobicy.com/jobs/143733-senior-staff-engineer",
-      "jobSlug": "143733-senior-staff-engineer",
-      "jobTitle": "Senior Staff Engineer",
-      "companyName": "Nagarro",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/93252b0c-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Germany",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Company Description We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at scale — across all devices and digital mediums, and our people exist everywhere in the world (18,000 experts across 39 countries, to be&hellip;",
-      "jobDescription": "<h2>Company Description</h2><p> We're Nagarro. We are a digital product engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at scale — across all devices and digital mediums, and our people exist everywhere in the world (18,000 experts across 39 countries, to be exact). Our work culture is dynamic and non-hierarchical. </p><h2>Job Description</h2><p>As a Senior Staff Engineer at Nagarro, you will play a key role in designing and delivering advanced PLM solutions for global manufacturing clients. We are looking for a highly experienced professional with strong expertise in Business Solutioning, PLM Integration, and manufacturing business processes, combined with the ability to translate complex requirements into scalable enterprise solutions. The role combines strategic consulting, solution architecture, and delivery excellence, with a strong focus on digital continuity and enterprise transformation.</p><ul><li>Lead business solutioning initiatives by translating complex business requirements into scalable PLM architectures and enterprise integration strategies</li><li>Design and deliver end-to-end PLM solutions including data models, workflows, system configurations, and integrations across ERP, MES, ALM, and CAD platforms</li><li> Drive optimization of manufacturing and engineering business processes including PDM, Engineering Change Management, and BOM Management (eBOM/mBOM/BOP)</li><li>Collaborate with business stakeholders, technical teams, and leadership to align PLM solutions with digital transformation and organizational objectives</li><li> Provide architectural leadership for customizations, cloud-based PLM deployments, migration programs, and legacy system modernization initiatives</li><li>Ensure high-quality solution delivery through architecture governance, performance optimization, and adherence to enterprise security and compliance standards</li></ul><h2>Qualifications</h2><ul><li>Expert-level experience in Business Solutioning with strong expertise in PLM Integration across ERP, MES, ALM, and CAD systems</li><li>Deep understanding of manufacturing and engineering business processes including PDM, Engineering Change Management, Workflow &amp; Lifecycle Management, and BOM Management (eBOM/mBOM/BOP)</li><li>Proven hands-on experience with PLM platforms such as Windchill, Enovia, Aras, or similar technologies</li><li>Strong knowledge of CAD integrations including NX, Creo, SolidWorks, and CATIA, along with experience in cloud-based PLM deployments and modernization initiatives</li><li>Excellent consulting, stakeholder management, communication, and problem-solving skills with a strong delivery-oriented mindset</li><li>Fluent German (mandatory) and strong English communication skills</li><li>Based in Germany with remote working flexibility available</li></ul><h2>Additional Information</h2><ul><li>30 days of paid vacation, internal and external training opportunities, MyN – Nagarro Employee Share Program, attractive company bicycle arrangements, modern office space at central locations with high-tech equipment, sports programs, access to the corporate benefits portal, free fruit and drinks. </li><li>Plenty of room for innovation in a high-growth environment with the latest technologies and products. With us, you can get involved and make a difference. </li><li>Flat hierarchies and a long-term, stable job with attractive development opportunities.</li></ul>",
-      "pubDate": "2026-06-26T22:26:43+00:00"
     }
   },
   {
@@ -3248,7 +3351,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:26+00:00",
-    "fetched_at": "2026-07-04T08:14:58.237Z",
+    "fetched_at": "2026-07-04T12:51:19.996Z",
     "raw": {
       "id": 147871,
       "url": "https://jobicy.com/jobs/147871-senior-associate-automation-engineer",
@@ -3297,7 +3400,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:23+00:00",
-    "fetched_at": "2026-07-04T08:14:58.238Z",
+    "fetched_at": "2026-07-04T12:51:19.997Z",
     "raw": {
       "id": 147869,
       "url": "https://jobicy.com/jobs/147869-associate-automation-engineer",
@@ -3346,7 +3449,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:11+00:00",
-    "fetched_at": "2026-07-04T08:14:58.239Z",
+    "fetched_at": "2026-07-04T12:51:19.998Z",
     "raw": {
       "id": 147862,
       "url": "https://jobicy.com/jobs/147862-staff-software-engineer-media-experiences",
@@ -3405,7 +3508,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.241Z",
+    "fetched_at": "2026-07-04T12:51:20.002Z",
     "raw": {
       "id": 142467,
       "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
@@ -3464,7 +3567,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.243Z",
+    "fetched_at": "2026-07-04T12:51:20.005Z",
     "raw": {
       "id": 142468,
       "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
@@ -3519,7 +3622,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:01:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.244Z",
+    "fetched_at": "2026-07-04T12:51:20.007Z",
     "raw": {
       "id": 142478,
       "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
@@ -3562,7 +3665,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T16:16:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.245Z",
+    "fetched_at": "2026-07-04T12:51:20.008Z",
     "raw": {
       "id": 142515,
       "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
@@ -3614,7 +3717,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:51:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.246Z",
+    "fetched_at": "2026-07-04T12:51:20.009Z",
     "raw": {
       "id": 142527,
       "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
@@ -3666,7 +3769,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:36:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.247Z",
+    "fetched_at": "2026-07-04T12:51:20.010Z",
     "raw": {
       "id": 142566,
       "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
@@ -3717,7 +3820,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T14:41:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.247Z",
+    "fetched_at": "2026-07-04T12:51:20.011Z",
     "raw": {
       "id": 142662,
       "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
@@ -3767,7 +3870,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T12:46:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.248Z",
+    "fetched_at": "2026-07-04T12:51:20.012Z",
     "raw": {
       "id": 142756,
       "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
@@ -3820,7 +3923,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T12:06:41+00:00",
-    "fetched_at": "2026-07-04T08:14:58.249Z",
+    "fetched_at": "2026-07-04T12:51:20.013Z",
     "raw": {
       "id": 142967,
       "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
@@ -3871,7 +3974,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:13:26+00:00",
-    "fetched_at": "2026-07-04T08:14:58.249Z",
+    "fetched_at": "2026-07-04T12:51:20.014Z",
     "raw": {
       "id": 147758,
       "url": "https://jobicy.com/jobs/147758-senior-software-engineer-java",
@@ -3922,7 +4025,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:08:30+00:00",
-    "fetched_at": "2026-07-04T08:14:58.250Z",
+    "fetched_at": "2026-07-04T12:51:20.015Z",
     "raw": {
       "id": 147747,
       "url": "https://jobicy.com/jobs/147747-senior-software-engineer",
@@ -3975,7 +4078,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-25T11:08:25+00:00",
-    "fetched_at": "2026-07-04T08:14:58.252Z",
+    "fetched_at": "2026-07-04T12:51:20.016Z",
     "raw": {
       "id": 147744,
       "url": "https://jobicy.com/jobs/147744-senior-software-quality-engineer-mexico-remote",
@@ -4029,7 +4132,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:21:45+00:00",
-    "fetched_at": "2026-07-04T08:14:58.252Z",
+    "fetched_at": "2026-07-04T12:51:20.017Z",
     "raw": {
       "id": 143127,
       "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
@@ -4086,7 +4189,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T10:06:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.253Z",
+    "fetched_at": "2026-07-04T12:51:20.018Z",
     "raw": {
       "id": 143143,
       "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
@@ -4129,7 +4232,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:45+00:00",
-    "fetched_at": "2026-07-04T08:14:58.254Z",
+    "fetched_at": "2026-07-04T12:51:20.019Z",
     "raw": {
       "id": 143147,
       "url": "https://jobicy.com/jobs/143147-security-architect-ii",
@@ -4172,7 +4275,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:44+00:00",
-    "fetched_at": "2026-07-04T08:14:58.255Z",
+    "fetched_at": "2026-07-04T12:51:20.020Z",
     "raw": {
       "id": 143148,
       "url": "https://jobicy.com/jobs/143148-sotif-expert-all-genders",
@@ -4221,7 +4324,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T09:46:42+00:00",
-    "fetched_at": "2026-07-04T08:14:58.256Z",
+    "fetched_at": "2026-07-04T12:51:20.022Z",
     "raw": {
       "id": 143220,
       "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
@@ -4273,7 +4376,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T09:41:44+00:00",
-    "fetched_at": "2026-07-04T08:14:58.257Z",
+    "fetched_at": "2026-07-04T12:51:20.023Z",
     "raw": {
       "id": 143283,
       "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
@@ -4322,7 +4425,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:56:45+00:00",
-    "fetched_at": "2026-07-04T08:14:58.257Z",
+    "fetched_at": "2026-07-04T12:51:20.024Z",
     "raw": {
       "id": 143438,
       "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
@@ -4365,7 +4468,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:56:44+00:00",
-    "fetched_at": "2026-07-04T08:14:58.258Z",
+    "fetched_at": "2026-07-04T12:51:20.026Z",
     "raw": {
       "id": 143441,
       "url": "https://jobicy.com/jobs/143441-quality-engineer",
@@ -4418,7 +4521,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:41:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.259Z",
+    "fetched_at": "2026-07-04T12:51:20.027Z",
     "raw": {
       "id": 143481,
       "url": "https://jobicy.com/jobs/143481-principal-engineer",
@@ -4464,7 +4567,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:45+00:00",
-    "fetched_at": "2026-07-04T08:14:58.260Z",
+    "fetched_at": "2026-07-04T12:51:20.028Z",
     "raw": {
       "id": 143575,
       "url": "https://jobicy.com/jobs/143575-solutions-architect-networking",
@@ -4511,7 +4614,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T08:16:43+00:00",
-    "fetched_at": "2026-07-04T08:14:58.260Z",
+    "fetched_at": "2026-07-04T12:51:20.029Z",
     "raw": {
       "id": 143573,
       "url": "https://jobicy.com/jobs/143573-senior-solutions-architect-networking-public-sector",
@@ -4564,7 +4667,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T07:51:50+00:00",
-    "fetched_at": "2026-07-04T08:14:58.261Z",
+    "fetched_at": "2026-07-04T12:51:20.030Z",
     "raw": {
       "id": 143676,
       "url": "https://jobicy.com/jobs/143676-software-developer-iii",
@@ -4611,7 +4714,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T06:05:40+00:00",
-    "fetched_at": "2026-07-04T08:14:58.262Z",
+    "fetched_at": "2026-07-04T12:51:20.030Z",
     "raw": {
       "id": 147723,
       "url": "https://jobicy.com/jobs/147723-financial-software-engineer",
@@ -4672,7 +4775,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T04:46:44+00:00",
-    "fetched_at": "2026-07-04T08:14:58.263Z",
+    "fetched_at": "2026-07-04T12:51:20.035Z",
     "raw": {
       "id": 144689,
       "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
@@ -4721,7 +4824,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T04:36:46+00:00",
-    "fetched_at": "2026-07-04T08:14:58.264Z",
+    "fetched_at": "2026-07-04T12:51:20.036Z",
     "raw": {
       "id": 144716,
       "url": "https://jobicy.com/jobs/144716-enterprise-solutions-engineer-germany",
@@ -4768,7 +4871,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T03:27:06+00:00",
-    "fetched_at": "2026-07-04T08:14:58.265Z",
+    "fetched_at": "2026-07-04T12:51:20.037Z",
     "raw": {
       "id": 147700,
       "url": "https://jobicy.com/jobs/147700-principal-software-architect",
@@ -4828,7 +4931,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T12:32:48+00:00",
-    "fetched_at": "2026-07-04T08:14:58.265Z",
+    "fetched_at": "2026-07-04T12:51:20.038Z",
     "raw": {
       "id": 147648,
       "url": "https://jobicy.com/jobs/147648-senior-fullstack-engineer-java-react",
@@ -4885,7 +4988,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T12:32:47+00:00",
-    "fetched_at": "2026-07-04T08:14:58.266Z",
+    "fetched_at": "2026-07-04T12:51:20.039Z",
     "raw": {
       "id": 147647,
       "url": "https://jobicy.com/jobs/147647-ai-engineer-5",
@@ -4934,7 +5037,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:32+00:00",
-    "fetched_at": "2026-07-04T08:14:58.267Z",
+    "fetched_at": "2026-07-04T12:51:20.041Z",
     "raw": {
       "id": 147608,
       "url": "https://jobicy.com/jobs/147608-software-development-engineer-agentic-workspaces",
@@ -4990,7 +5093,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-24T08:35:30+00:00",
-    "fetched_at": "2026-07-04T08:14:58.269Z",
+    "fetched_at": "2026-07-04T12:51:20.043Z",
     "raw": {
       "id": 147607,
       "url": "https://jobicy.com/jobs/147607-principal-mobile-engineer-android",
@@ -5011,106 +5114,6 @@
       "pubDate": "2026-06-24T08:35:30+00:00",
       "salaryMin": 182800,
       "salaryMax": 270400,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:147603",
-    "platform": "jobicy",
-    "external_id": "147603",
-    "title": "Engineering Manager, Service Platform",
-    "company": "Instacart",
-    "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table. Instacart is a Flex First team There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview As the Engineering Manager for the Service Platform team, you will lead the group responsible for Instacart’s core deployment and release engineering systems, including our canary infrastructure and end‑to‑end deployment tooling. This platform is foundational to the reliability of every service at Instacart, and your work will directly shape how developers safely, confidently, and efficiently ship code. You will partner closely with product, infrastructure, and service teams to define and evolve a platform that enables fast iteration without compromising reliability. We are looking for a product-focused engineering manager with a strong interest in developer experience and internal tools, who can guide the team in building intuitive, scalable, and highly resilient systems. You will set the vision, drive execution, and ensure that Instacart engineers have world‑class tools to deploy, validate, and monitor their services. At Instacart, the Service Platform team is a critical enabler for every engineering organization across the company. From owning our deployment pipeline and canary systems to defining the tooling that powers safe, reliable service delivery, our team ensures that developers can ship with confidence. We take pride in deep ownership, a strong product mindset, and a highly collaborative culture. You will work closely with experienced engineers and leaders across Instacart to drive key reliability and platform initiatives end to end. Our work directly shapes the stability, velocity, and success of Instacart’s overall platform. About the Job Product focused leader who is able to adapt to critically fast paced environment Ability to lead both product and critical reliability systems like Temporal/Canary/Deployments Ability to articulate and convey priorities and balance constant needs around the organization Ability to manage cross-cutting stakeholder relationships, prioritizing customer needs first Eager to navigate ambiguous, hairy, and technical problem spaces and fully understand our deployment infra end to end Leader by example, and strong incident triaging mindset Eager to jump into domains, languages, and problem areas that might be new and unfamiliar About You Minimum Qualifications Bachelor’s degree in Computer Science, a related field, or equivalent practical experience 2+ years of experience of leading and managing people with an emphasis on getting deep into details on designing, analyzing, and troubleshooting large-scale distributed systems. 7+ years of experience with software development in one or more programming languages Proven track record of launching and shipping high-impact products; bonus points for internal, developer facing products. Strong proficiency in maintaining high standards for production services Preferred Qualifications Strong communication skills and ability to contextualize problems across various audiences Skilled at navigating ambiguity and involving the right stakeholders to address issues efficiently Experience building and shipping products to users Expertise building platforms and high scale infrastructure Visionary thinker capable of generating transformative ideas #LI-Remote Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy here . Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia. Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings here . For Canadian based candidates, the base pay ranges for a successful candidate are listed below. CAN $196,000—$207,000 USD",
-    "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Canada",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-24T08:35:23+00:00",
-    "fetched_at": "2026-07-04T08:14:58.269Z",
-    "raw": {
-      "id": 147603,
-      "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
-      "jobSlug": "147603-engineering-manager-service-platform",
-      "jobTitle": "Engineering Manager, Service Platform",
-      "companyName": "Instacart",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2023/03/fe39c2bc9bb5ebb0b5e24318b1f3b60d.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Canada",
-      "jobLevel": "Midweight",
-      "jobExcerpt": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied&hellip;",
-      "jobDescription": "<div><p><strong>We're transforming the grocery industry</strong></p>\n<p>At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.</p>\n<p>Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.</p>\n<p><strong>Instacart is a Flex First team </strong></p>\n<p>There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. <a href=\"https://www.instacart.careers/flex-first\" target=\"_blank\" rel=\"nofollow ugc noopener\">Learn more about our flexible approach to where we work.</a></p></div><h2><strong>Overview</strong></h2><p>As the Engineering Manager for the Service Platform team, you will lead the group responsible for Instacart’s core deployment and release engineering systems, including our canary infrastructure and end‑to‑end deployment tooling. This platform is foundational to the reliability of every service at Instacart, and your work will directly shape how developers safely, confidently, and efficiently ship code. You will partner closely with product, infrastructure, and service teams to define and evolve a platform that enables fast iteration without compromising reliability. </p><p>We are looking for a product-focused engineering manager with a strong interest in developer experience and internal tools, who can guide the team in building intuitive, scalable, and highly resilient systems. You will set the vision, drive execution, and ensure that Instacart engineers have world‑class tools to deploy, validate, and monitor their services.</p><p>At Instacart, the Service Platform team is a critical enabler for every engineering organization across the company. From owning our deployment pipeline and canary systems to defining the tooling that powers safe, reliable service delivery, our team ensures that developers can ship with confidence. We take pride in deep ownership, a strong product mindset, and a highly collaborative culture. You will work closely with experienced engineers and leaders across Instacart to drive key reliability and platform initiatives end to end. Our work directly shapes the stability, velocity, and success of Instacart’s overall platform.</p><h2><strong>About the Job </strong></h2><ul>\n<li>Product focused leader who is able to adapt to critically fast paced environment</li>\n<li>Ability to lead both product and critical reliability systems like Temporal/Canary/Deployments</li>\n<li>Ability to articulate and convey priorities and balance constant needs around the organization</li>\n<li>Ability to manage cross-cutting stakeholder relationships, prioritizing customer needs first</li>\n<li>Eager to navigate ambiguous, hairy, and technical problem spaces and fully understand our deployment infra end to end</li>\n<li>Leader by example, and strong incident triaging mindset</li>\n<li>Eager to jump into domains, languages, and problem areas that might be new and unfamiliar</li>\n</ul><h2><strong>About You</strong></h2><p><strong><em>Minimum Qualifications</em></strong></p><ul>\n<li>Bachelor’s degree in Computer Science, a related field, or equivalent practical experience</li>\n<li>2+ years of experience of leading and managing people with an emphasis on getting deep into details on designing, analyzing, and troubleshooting large-scale distributed systems.</li>\n<li>7+ years of experience with software development in one or more programming languages</li>\n<li>Proven track record of launching and shipping high-impact products; bonus points for internal, developer facing products.</li>\n<li>Strong proficiency in maintaining high standards for production services</li>\n</ul><p><strong><em>Preferred Qualifications</em></strong></p><ul>\n<li>Strong communication skills and ability to contextualize problems across various audiences</li>\n<li>Skilled at navigating ambiguity and involving the right stakeholders to address issues efficiently</li>\n<li>Experience building and shipping products to users </li>\n<li>Expertise building platforms and high scale infrastructure</li>\n<li>Visionary thinker capable of generating transformative ideas</li>\n</ul><p>#LI-Remote</p><div><div><div><p>Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy <a href=\"https://instacart.careers/flex-first/\" rel=\"nofollow ugc noopener\" target=\"_blank\">here</a>. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.</p>\n<p>Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings <a href=\"https://instacart.careers/taste-of-instacart/\" rel=\"nofollow ugc noopener\" target=\"_blank\">here</a>.</p>\n<p>For Canadian based candidates, the base pay ranges for a successful candidate are listed below.</p></div><div>CAN</div><div>$196,000—$207,000 USD</div></div></div>",
-      "pubDate": "2026-06-24T08:35:23+00:00",
-      "salaryMin": 196000,
-      "salaryMax": 207000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:147602",
-    "platform": "jobicy",
-    "external_id": "147602",
-    "title": "Senior AI Software Engineer, Python",
-    "company": "Scorpion",
-    "description": "About Us Scorpion is the leading provider of technology and services helping local businesses thrive. We do this by helping customers understand local market dynamics, make the most of their marketing, and deliver experiences their customers will love. We offer tools to know what’s going on with marketing, competitors, and customers. We offer a unique blend of AI support and teams of real human people with local expertise committed to customer success. At Scorpion, we are ready to do whatever it takes to help our clients reach their goals. Our technology and personalized tools bring everything together to help local businesses easily understand their unique business, market, and customer needs. We put SEO, Reviews, Advertising, Email Marketing, Chat and Messaging, Social Media, Website, Lead Management, Appointment Scheduling, and more to work for local businesses. We’re a technology-led service with a human touch. About the Role The Senior AI Software Engineer, Python will be responsible for making Scorpion’s Conversational Intelligence Platform production-grade by building reliable, observable, and scalable infrastructure for real-time AI workloads, including LLM orchestration, streaming responses, and event-driven messaging across multiple communication channels. This role owns the runtime reliability of systems that process LLM inference pipelines, manage backpressure across async workloads, and maintain clean service boundaries with downstream teams. Operating within an established architecture, the Senior AI Software Engineer, Python is responsible for the operational excellence required to make the platform production-ready. What Your Success Will Look Like Own the reliability of the event-driven messaging layer, including backpressure management, idempotency, dead-letter handling, and retry strategies. Build and operate the infrastructure that runs LLM orchestration workloads at scale. Own the operational data layer for the CI runtime, including state management, session persistence, and real-time data access patterns. Own observability for the CI platform, including structured logging, distributed tracing (OpenTelemetry), and error tracking (Sentry). Maintain and harden the interfaces between CI and downstream platforms, including contract testing, versioning, and failure handling. Conduct code reviews and mentor team members on Python engineering practices and production readiness. Own production support for CI infrastructure, including on-call responsibilities and incident response. Who You Are And What You Bring Experience 5+ Years of Experience or Relevant Experience. Developing production-grade Python services at scale. Operating real-time or high-throughput infrastructure supporting AI/ML workloads. Designing and operating distributed, event-driven systems in production environments. Hard / Technical Skills Deep command of Python internals: async/await lifecycle, event loop mechanics, GIL implications for concurrency strategy, memory profiling. Production experience with Pydantic, type systems, and structured data modeling in high-throughput services. Strong opinions on code organization, error handling patterns, and testability in long-lived Python codebases. Hands-on experience operating LLM inference infrastructure at scale. Deep experience with NoSQL data modeling: partition strategy, consistency tradeoffs, query cost optimization, and hot-partition avoidance. Experience with event-driven architecture in production: backpressure, idempotency, dead-letter handling, retry strategies. Proficiency with observability tooling: distributed tracing (OpenTelemetry), structured logging, error tracking (Sentry). Experience with Azure cloud platform services. Professional / Core Skills Ability to negotiate technical boundaries with teams that own upstream and downstream services. Clear, direct communication in design discussions, incident response, and code review. Our Scorpion Values Winning Mindset: When our clients win, we win. Genuine Care: We only succeed when we are truly invested in our clients and each other. Unmatched Results: We deliver more than expected–and then some–driving the best results and impacting lives. Constant Improvement: We believe there is always a better way. We learn we ask “What if?” we build and then do it again. Unbeatable Teamwork: We come from different backgrounds but have the same vision. We only get there by doing it together, as a team. Compensation We acknowledge that states have passed legislation promoting pay transparency. As a national employer, Scorpion has made the decision to post our expected pay rate or pay range (as applicable) in all our job postings, regardless of geographic location. The base salary range is $135,000 (entry-level) - $175,000 (highly experienced), exclusive of fringe benefits. If you are hired at Scorpion, your final base salary compensation will be determined based on factors such as geographic location, skills, education, and/or experience. Additionally, we believe in the importance of pay equity and consider the internal equity of our current team members as a part of any final offer. Please keep in mind that the range mentioned above is the total salary range for the role. Hiring at the maximum of the range would not be typical in order to allow for future &amp; continued salary growth. The compensation package may also include incentive compensation opportunities in the form of discretionary bonuses or commissions. Our Benefits We invest in our employees by offering them diverse benefits from best-in-class carriers. These benefits provide enough choice and flexibility to keep our employees and their families healthy and happy—today and tomorrow. 100% employer-paid medical, dental, and vision insurance Flexible paid time off, so you can rest, relax, and recharge away from work Paid parental leave Paid cell phone and service Remote office allowance Professional development and development courses Regular manager check-ins to drive performance and career growth through Lattice Work Location &amp; Flexibility Scorpion supports a range of work arrangements, including in-office, hybrid, and remote roles. For positions designated as remote, employees who live within commuting distance of a Scorpion office may be asked to work from the office based on team needs, collaboration opportunities, or business priorities. Specific expectations will be discussed during the interview process. Scorpion is an equal opportunity employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, or physical or mental disability. We believe in creating a dynamic work environment that values diversity and inclusion. Reasonable Accommodations Scorpion participates in the E-Verify program to confirm employment authorization of all newly hired employees. The E-Verify process is completed during new hire onboarding and completion of the Form I-9, Employment Eligibility Verification, at the start of employment. E-Verify is not used as a tool to pre-screen candidates. For more information on E-Verify, please visit www.uscis.gov .",
-    "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "azure",
-      "sentry",
-      "llm",
-      "machine-learning"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-24T08:35:21+00:00",
-    "fetched_at": "2026-07-04T08:14:58.270Z",
-    "raw": {
-      "id": 147602,
-      "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
-      "jobSlug": "147602-senior-ai-software-engineer-python",
-      "jobTitle": "Senior AI Software Engineer, Python",
-      "companyName": "Scorpion",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/11/5d0f5219d1a5557d70758202f92e0076.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About Us Scorpion is the leading provider of technology and services helping local businesses thrive. We do this by helping customers understand local market dynamics, make the most of their marketing, and deliver experiences their customers will love. We offer tools to know what’s going on with marketing, competitors, and customers. We offer a unique&hellip;",
-      "jobDescription": "<div><h2><strong>About Us</strong></h2>\n<div>Scorpion is the leading provider of technology and services helping local businesses thrive. We do this by helping customers understand local market dynamics, make the most of their marketing, and deliver experiences their customers will love. We offer tools to know what’s going on with marketing, competitors, and customers. We offer a unique blend of AI support and teams of real human people with local expertise committed to customer success. At Scorpion, we are ready to do whatever it takes to help our clients reach their goals. Our technology and personalized tools bring everything together to help local businesses easily understand their unique business, market, and customer needs. We put SEO, Reviews, Advertising, Email Marketing, Chat and Messaging, Social Media, Website, Lead Management, Appointment Scheduling, and more to work for local businesses. We’re a technology-led service with a human touch.</div></div><h2>About the Role</h2><p>The Senior AI Software Engineer, Python will be responsible for making Scorpion’s Conversational Intelligence Platform production-grade by building reliable, observable, and scalable infrastructure for real-time AI workloads, including LLM orchestration, streaming responses, and event-driven messaging across multiple communication channels.</p><p>This role owns the runtime reliability of systems that process LLM inference pipelines, manage backpressure across async workloads, and maintain clean service boundaries with downstream teams. Operating within an established architecture, the Senior AI Software Engineer, Python is responsible for the operational excellence required to make the platform production-ready.</p><h2><strong>What Your Success Will Look Like</strong></h2><ul>\n<li>Own the reliability of the event-driven messaging layer, including backpressure management, idempotency, dead-letter handling, and retry strategies.</li>\n<li>Build and operate the infrastructure that runs LLM orchestration workloads at scale.</li>\n<li>Own the operational data layer for the CI runtime, including state management, session persistence, and real-time data access patterns.</li>\n<li>Own observability for the CI platform, including structured logging, distributed tracing (OpenTelemetry), and error tracking (Sentry).</li>\n<li>Maintain and harden the interfaces between CI and downstream platforms, including contract testing, versioning, and failure handling.</li>\n<li>Conduct code reviews and mentor team members on Python engineering practices and production readiness.</li>\n<li>Own production support for CI infrastructure, including on-call responsibilities and incident response.</li>\n</ul><h2><strong>Who You Are And What You Bring<br></strong></h2><ul>\n<li><strong>Experience</strong>\n<ul>\n<li>5+ Years of Experience or Relevant Experience.</li>\n<li>Developing production-grade Python services at scale.</li>\n<li>Operating real-time or high-throughput infrastructure supporting AI/ML workloads.</li>\n<li>Designing and operating distributed, event-driven systems in production environments.</li>\n</ul>\n</li>\n</ul><ul>\n<li><strong>Hard / Technical Skills</strong>\n<ul>\n<li>Deep command of Python internals: async/await lifecycle, event loop mechanics, GIL implications for concurrency strategy, memory profiling.</li>\n<li>Production experience with Pydantic, type systems, and structured data modeling in high-throughput services.</li>\n<li>Strong opinions on code organization, error handling patterns, and testability in long-lived Python codebases.</li>\n<li>Hands-on experience operating LLM inference infrastructure at scale.</li>\n<li>Deep experience with NoSQL data modeling: partition strategy, consistency tradeoffs, query cost optimization, and hot-partition avoidance.</li>\n<li>Experience with event-driven architecture in production: backpressure, idempotency, dead-letter handling, retry strategies.</li>\n<li>Proficiency with observability tooling: distributed tracing (OpenTelemetry), structured logging, error tracking (Sentry).</li>\n<li>Experience with Azure cloud platform services.</li>\n</ul>\n</li>\n</ul><ul>\n<li><strong>Professional / Core Skills</strong>\n<ul>\n<li>Ability to negotiate technical boundaries with teams that own upstream and downstream services.</li>\n<li>Clear, direct communication in design discussions, incident response, and code review.</li>\n</ul>\n</li>\n</ul><h2>Our Scorpion Values</h2><ul>\n<li><strong>Winning Mindset:</strong> When our clients win, we win.</li>\n<li><strong>Genuine Care:</strong> We only succeed when we are truly invested in our clients and each other.</li>\n<li><strong>Unmatched Results:</strong> We deliver more than expected–and then some–driving the best results and impacting lives.</li>\n<li><strong>Constant Improvement:</strong> We believe there is always a better way. We learn we ask “What if?” we build and then do it again.</li>\n<li><strong>Unbeatable Teamwork:</strong> We come from different backgrounds but have the same vision. We only get there by doing it together, as a team.</li>\n</ul><h2>Compensation </h2><p>We acknowledge that states have passed legislation promoting pay transparency. As a national employer, Scorpion has made the decision to post our expected pay rate or pay range (as applicable) in all our job postings, regardless of geographic location.</p><ul>\n<li>The base salary range is $135,000 (entry-level) - $175,000 (highly experienced), exclusive of fringe benefits. If you are hired at Scorpion, your final base salary compensation will be determined based on factors such as geographic location, skills, education, and/or experience. Additionally, we believe in the importance of pay equity and consider the internal equity of our current team members as a part of any final offer. Please keep in mind that the range mentioned above is the total salary range for the role. Hiring at the maximum of the range would not be typical in order to allow for future &amp; continued salary growth. </li>\n<li>The compensation package may also include incentive compensation opportunities in the form of discretionary bonuses or commissions.</li>\n</ul><div><div>\n<h2>Our Benefits</h2>\n<p>We invest in our employees by offering them diverse benefits from best-in-class carriers. These benefits provide enough choice and flexibility to keep our employees and their families healthy and happy—today and tomorrow.</p>\n<ul>\n<li>100% employer-paid medical, dental, and vision insurance</li>\n<li>Flexible paid time off, so you can rest, relax, and recharge away from work</li>\n<li>Paid parental leave</li>\n<li>Paid cell phone and service</li>\n<li>Remote office allowance</li>\n<li>Professional development and development courses</li>\n<li>Regular manager check-ins to drive performance and career growth through Lattice</li>\n</ul>\n<p><strong>Work Location &amp; Flexibility</strong></p>\n<p>Scorpion supports a range of work arrangements, including in-office, hybrid, and remote roles. For positions designated as remote, employees who live within commuting distance of a Scorpion office may be asked to work from the office based on team needs, collaboration opportunities, or business priorities. Specific expectations will be discussed during the interview process.</p>\n</div>\n<div>Scorpion is an equal opportunity employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, or physical or mental disability. We believe in creating a dynamic work environment that values diversity and inclusion.</div>\n<div> </div>\n<div><a href=\"https://www.scorpion.co/careers/accommodations/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Reasonable Accommodations</a></div>\n<div> </div>\n<div>Scorpion participates in the E-Verify program to confirm employment authorization of all newly hired employees. The E-Verify process is completed during new hire onboarding and completion of the Form I-9, Employment Eligibility Verification, at the start of employment. E-Verify is not used as a tool to pre-screen candidates. For more information on E-Verify, please visit <a href=\"https://www.uscis.gov\" rel=\"nofollow ugc noopener\" target=\"_blank\">www.uscis.gov</a>.</div></div>",
-      "pubDate": "2026-06-24T08:35:21+00:00",
-      "salaryMin": 135000,
-      "salaryMax": 175000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
