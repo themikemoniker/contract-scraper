@@ -1,5 +1,51 @@
 [
   {
+    "id": "wwr:aguru-uk-ltd-senior-full-stack-engineer",
+    "platform": "wwr",
+    "external_id": "aguru-uk-ltd-senior-full-stack-engineer",
+    "title": "Senior Full Stack Engineer",
+    "company": "Aguru UK Ltd",
+    "description": "Headquarters: United Kingdom URL: https://www.aguru.ai/ Senior Full Stack Engineer Location: Remote, EU/UK preferred Team: Engineering Type: Full-time contractor We are looking for a Senior Full Stack Engineer to join a small, high-impact engineering team. You will work across the product surface: React front end, NestJS backend, durable execution system, Postgres data layer and proprietary systems for evaluating and managing systems of LLMs. Some of this you may not have done before, but you will apply your transferable skills and experience! This role suits someone who enjoys a variety of challenges, extending the forefront of what it takes to deliver reliable and trustworthy AI systems, and making those things simple and a joy to use. You will understand product needs, design clean domain models, build reliable components, ship easy-to-use interfaces, and debug distributed execution behaviour when things get interesting. What You’ll Work On Build product features across our React/Vite frontend, NestJS backend, PostgreSQL data layer, and Temporal-powered worker stack. Develop new ways to benchmark and optimise LLM use, including error detection and correction and blocking AI-focused security attacks Identify where AI can meaningfully improve structured tasks (and not make things worse): extraction, classification, decision support, agentic tool use, document understanding, communication handling, and automation of tedious operational steps. Design and extend systems to proactively benchmark, monitor, manage and optimise LLM selection, quantify drift in production, and measure cost vs. performance Build APIs, data models, and tenant-aware authorization boundaries for workflows, executions, agents, connectors, inbox, dashboards, and configuration. Create polished interfaces for workflow authoring, execution monitoring, review queues, dashboards, and configuration-heavy SaaS workflows. Improve reliability through strong testing, runtime visibility, replay-safe changes, and careful debugging across UI, API, database, workers, and external services. Who We’re Looking For Required Experience 8+ years of professional software engineering experience, with strong ownership of production enterprise systems. React experience, especially building complex data-heavy product interfaces Experience with multi-tenant, distributed back-ends with mandatory authentication/authorization Solid PostgreSQL experience, including schema design, migrations, query performance, transactional thinking, and gated data access. Experience with durable or asynchronous systems: workflow engines, queues, jobs, event-driven systems, state machines, distributed orchestration. Comfort debugging complex production behaviour across UI, backend, database, workers, and third-party integration layers. Strong testing discipline and the ability to choose the right level of test for the risk involved. Advantageous to have Temporal.io experience, or comparable experience with durable workflows and replay-safe execution models. Experience designing or maintaining workflow builders, automation platforms, rules engines, low-code tools, or developer-facing DSLs. Experience identifying practical AI use cases inside business processes, especially where LLMs complement deterministic workflow logic. Experience with AI/LLM integrations in production, including OpenAI, Anthropic, Gemini, structured outputs, tool use, agent patterns, or provider abstraction. Experience with security-sensitive backend work: RLS, secure credential storage and tenant isolation Experience with Kubernetes, Terraform, or other distributed orchestration systems Core Competencies Systems thinking: You can reason about frontend state, API contracts, database state, background execution, and external systems as one product. Product-minded engineering: You care whether a feature meets the product requirements and is also understandable, simple to use, and operationally reliable Autonomy and ownership: You can take a loosely defined problem, collaborate to discover the constraints, make good tradeoffs, and ship. Clear communication: You can explain tradeoffs, document decisions, and collaborate well with product, design, AI, and engineering teammates. Accountability and integrity: You take responsibility for outcomes, communicate transparently, and uphold high standards in both technical and team-impacting decisions. Why Join You’ll be joining a small, global team building a technically ambitious product at a stage where senior engineers can have a real impact. You will see work move quickly from idea to shipped product, and you will help define the architecture, quality bar, and engineering culture as we grow. We value curiosity, clear thinking, accountability, and people who enjoy making complex systems feel simple for users. To apply, please send your CV for the attention of Oleg at hiring@aguru.com with the subject line “Application for Senior Full Stack Engineer”. The application deadline is 30th June 2026. Aguru is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all. &nbsp; To apply: https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "react",
+      "nestjs",
+      "postgresql",
+      "kubernetes",
+      "terraform",
+      "llm",
+      "vite"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-06-12T09:52:16.000Z",
+    "fetched_at": "2026-07-06T14:46:57.524Z",
+    "raw": {
+      "media:content": {
+        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5536/logo.gif",
+        "@_type": "image/png"
+      },
+      "title": "Aguru UK Ltd: Senior Full Stack Engineer",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/5536/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> United Kingdom\n    <br /><strong>URL:</strong> <a href=\"https://www.aguru.ai/\">https://www.aguru.ai/</a>\n</p>\n\n<h1>Senior Full Stack Engineer</h1>\n<p>Location: Remote, EU/UK preferred<br>Team: Engineering<br>Type: Full-time contractor</p>\n<p>We are looking for a Senior Full Stack Engineer to join a small, high-impact engineering team. You will work across the product surface: React front end, NestJS backend, durable execution system, Postgres data layer and proprietary systems for evaluating and managing systems of LLMs. Some of this you may not have done before, but you will apply your transferable skills and experience!</p>\n<p>This role suits someone who enjoys a variety of challenges, extending the forefront of what it takes to deliver reliable and trustworthy AI systems, and making those things simple and a joy to use. You will understand product needs, design clean domain models, build reliable components, ship easy-to-use interfaces, and debug distributed execution behaviour when things get interesting.</p>\n<h2>What You’ll Work On</h2>\n<ul>\n<li>\n<p>Build product features across our React/Vite frontend, NestJS backend, PostgreSQL data layer, and Temporal-powered worker stack.</p>\n</li>\n<li>\n<p>Develop new ways to benchmark and optimise LLM use, including error detection and correction and blocking AI-focused security attacks</p>\n</li>\n<li>\n<p>Identify where AI can meaningfully improve structured tasks (and not make things worse): extraction, classification, decision support, agentic tool use, document understanding, communication handling, and automation of tedious operational steps.</p>\n</li>\n<li>\n<p>Design and extend systems to proactively benchmark, monitor, manage and optimise LLM selection, quantify drift in production, and measure cost vs. performance</p>\n</li>\n<li>\n<p>Build APIs, data models, and tenant-aware authorization boundaries for workflows, executions, agents, connectors, inbox, dashboards, and configuration.</p>\n</li>\n<li>\n<p>Create polished interfaces for workflow authoring, execution monitoring, review queues, dashboards, and configuration-heavy SaaS workflows.</p>\n</li>\n<li>\n<p>Improve reliability through strong testing, runtime visibility, replay-safe changes, and careful debugging across UI, API, database, workers, and external services.</p>\n</li>\n</ul>\n<h2>Who We’re Looking For</h2>\n<h3>Required Experience</h3>\n<ul>\n<li>\n<p>8+ years of professional software engineering experience, with strong ownership of production enterprise systems.</p>\n</li>\n<li>\n<p>React experience, especially building complex data-heavy product interfaces</p>\n</li>\n<li>\n<p>Experience with multi-tenant, distributed back-ends with mandatory authentication/authorization</p>\n</li>\n<li>\n<p>Solid PostgreSQL experience, including schema design, migrations, query performance, transactional thinking, and gated data access.</p>\n</li>\n<li>\n<p>Experience with durable or asynchronous systems: workflow engines, queues, jobs, event-driven systems, state machines, distributed orchestration.</p>\n</li>\n<li>\n<p>Comfort debugging complex production behaviour across UI, backend, database, workers, and third-party integration layers.</p>\n</li>\n<li>\n<p>Strong testing discipline and the ability to choose the right level of test for the risk involved.</p>\n</li>\n</ul>\n<h3>Advantageous to have</h3>\n<ul>\n<li>\n<p>Temporal.io experience, or comparable experience with durable workflows and replay-safe execution models.</p>\n</li>\n<li>\n<p>Experience designing or maintaining workflow builders, automation platforms, rules engines, low-code tools, or developer-facing DSLs.</p>\n</li>\n<li>\n<p>Experience identifying practical AI use cases inside business processes, especially where LLMs complement deterministic workflow logic.</p>\n</li>\n<li>\n<p>Experience with AI/LLM integrations in production, including OpenAI, Anthropic, Gemini, structured outputs, tool use, agent patterns, or provider abstraction.</p>\n</li>\n<li>\n<p>Experience with security-sensitive backend work: RLS, secure credential storage and tenant isolation</p>\n</li>\n<li>\n<p>Experience with Kubernetes, Terraform, or other distributed orchestration systems</p>\n</li>\n</ul>\n<h2>Core Competencies</h2>\n<ul>\n<li>\n<p>Systems thinking: You can reason about frontend state, API contracts, database state, background execution, and external systems as one product.</p>\n</li>\n<li>\n<p>Product-minded engineering: You care whether a feature meets the product requirements and is also understandable, simple to use, and operationally reliable</p>\n</li>\n<li>\n<p>Autonomy and ownership: You can take a loosely defined problem, collaborate to discover the constraints, make good tradeoffs, and ship.</p>\n</li>\n<li>\n<p>Clear communication: You can explain tradeoffs, document decisions, and collaborate well with product, design, AI, and engineering teammates.</p>\n</li>\n<li>\n<p>Accountability and integrity: You take responsibility for outcomes, communicate transparently, and uphold high standards in both technical and team-impacting decisions.</p>\n</li>\n</ul>\n<h2>Why Join</h2>\n<p>You’ll be joining a small, global team building a technically ambitious product at a stage where senior engineers can have a real impact. You will see work move quickly from idea to shipped product, and you will help define the architecture, quality bar, and engineering culture as we grow.</p>\n<p>We value curiosity, clear thinking, accountability, and people who enjoy making complex systems feel simple for users.</p>\n<p>To apply, please send your CV for the attention of Oleg at hiring@aguru.com with the subject line “Application for Senior Full Stack Engineer”. The application deadline is 30th June 2026.</p>\n<p>Aguru is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all.</p>\n<p>&nbsp;</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer\">https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer</a></p>",
+      "pubDate": "Fri, 12 Jun 2026 09:52:16 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer"
+    }
+  },
+  {
     "id": "wwr:abstract-full-stack-web-developer-remote-contractor",
     "platform": "wwr",
     "external_id": "abstract-full-stack-web-developer-remote-contractor",
@@ -35,7 +81,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-06-11T21:45:41.000Z",
-    "fetched_at": "2026-07-06T09:46:05.255Z",
+    "fetched_at": "2026-07-06T14:46:57.525Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5534/logo.gif",
@@ -78,7 +124,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-06-11T21:45:41.000Z",
-    "fetched_at": "2026-07-06T09:46:05.255Z",
+    "fetched_at": "2026-07-06T14:46:57.526Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5533/logo.gif",
@@ -121,7 +167,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-06-11T21:45:40.000Z",
-    "fetched_at": "2026-07-06T09:46:05.256Z",
+    "fetched_at": "2026-07-06T14:46:57.527Z",
     "raw": {
       "title": "WorkStaff360: E-commerce Web Developer (Next.js / Node.js experience is required)",
       "region": "Islamabad",
@@ -155,7 +201,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-06-11T21:45:40.000Z",
-    "fetched_at": "2026-07-06T09:46:05.257Z",
+    "fetched_at": "2026-07-06T14:46:57.528Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5532/logo.gif",
@@ -193,7 +239,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-11T18:33:07.000Z",
-    "fetched_at": "2026-07-06T09:46:05.258Z",
+    "fetched_at": "2026-07-06T14:46:57.529Z",
     "raw": {
       "title": "AHU Technologies: Tax Analyst- Bloomington, IL",
       "region": "Anywhere in the World",
@@ -227,7 +273,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-11T18:33:07.000Z",
-    "fetched_at": "2026-07-06T09:46:05.259Z",
+    "fetched_at": "2026-07-06T14:46:57.530Z",
     "raw": {
       "title": "Air Apps: Framer Website Designer",
       "region": "Rome Metropolitain Area",
@@ -263,7 +309,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-11T18:33:07.000Z",
-    "fetched_at": "2026-07-06T09:46:05.260Z",
+    "fetched_at": "2026-07-06T14:46:57.532Z",
     "raw": {
       "title": "NinjaOne: Localization Web Developer",
       "region": "Anywhere in the World",
@@ -297,7 +343,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-11T18:33:07.000Z",
-    "fetched_at": "2026-07-06T09:46:05.262Z",
+    "fetched_at": "2026-07-06T14:46:57.534Z",
     "raw": {
       "title": "AHU Technologies: Senior Technical Business Analyst- Atlanta, GA",
       "region": "Anywhere in the World",
@@ -338,7 +384,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-06-11T18:02:55.000Z",
-    "fetched_at": "2026-07-06T09:46:05.262Z",
+    "fetched_at": "2026-07-06T14:46:57.534Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0141/7281/logo.gif",
@@ -385,7 +431,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-05-12T12:34:46.000Z",
-    "fetched_at": "2026-07-06T09:46:05.263Z",
+    "fetched_at": "2026-07-06T14:46:57.536Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5141/logo.gif",
@@ -431,7 +477,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2025-05-16T20:03:34.000Z",
-    "fetched_at": "2026-07-06T09:46:05.264Z",
+    "fetched_at": "2026-07-06T14:46:57.536Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0170/9402/logo.gif",
@@ -472,7 +518,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-10T15:59:08.000Z",
-    "fetched_at": "2026-07-06T09:46:05.265Z",
+    "fetched_at": "2026-07-06T14:46:57.537Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5495/logo.gif",
@@ -513,7 +559,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-10T15:59:08.000Z",
-    "fetched_at": "2026-07-06T09:46:05.266Z",
+    "fetched_at": "2026-07-06T14:46:57.538Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5497/logo.gif",
@@ -551,7 +597,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-10T15:59:08.000Z",
-    "fetched_at": "2026-07-06T09:46:05.267Z",
+    "fetched_at": "2026-07-06T14:46:57.539Z",
     "raw": {
       "title": "Olsson: Licensed Civil Engineer - Site Design",
       "region": "Texas",
@@ -588,7 +634,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-10T15:59:08.000Z",
-    "fetched_at": "2026-07-06T09:46:05.267Z",
+    "fetched_at": "2026-07-06T14:46:57.539Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5496/logo.gif",
@@ -634,7 +680,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-06-09T22:16:19.000Z",
-    "fetched_at": "2026-07-06T09:46:05.268Z",
+    "fetched_at": "2026-07-06T14:46:57.540Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5483/logo.gif",
@@ -672,7 +718,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-06-08T20:16:19.000Z",
-    "fetched_at": "2026-07-06T09:46:05.268Z",
+    "fetched_at": "2026-07-06T14:46:57.540Z",
     "raw": {
       "title": "Linkage Web Development: GoHighLevel Expert (Remote)",
       "region": "Pampanga",
@@ -706,7 +752,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-06-08T20:16:19.000Z",
-    "fetched_at": "2026-07-06T09:46:05.269Z",
+    "fetched_at": "2026-07-06T14:46:57.541Z",
     "raw": {
       "title": "AHU Technologies: GxP Instrument Systems Engineer- Norwood, MA",
       "region": "Anywhere in the World",
@@ -740,7 +786,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-06-08T20:16:19.000Z",
-    "fetched_at": "2026-07-06T09:46:05.270Z",
+    "fetched_at": "2026-07-06T14:46:57.542Z",
     "raw": {
       "title": "AHU Technologies: Facilities Maintenance Coordinator - Tonawanda, NY",
       "region": "Anywhere in the World",
@@ -780,7 +826,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-08T20:15:38.000Z",
-    "fetched_at": "2026-07-06T09:46:05.271Z",
+    "fetched_at": "2026-07-06T14:46:57.543Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5468/logo.gif",
@@ -818,7 +864,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-08T20:15:38.000Z",
-    "fetched_at": "2026-07-06T09:46:05.271Z",
+    "fetched_at": "2026-07-06T14:46:57.544Z",
     "raw": {
       "title": "AHU Technologies: Electrical Engineer - Tonawanda, NY",
       "region": "Anywhere in the World",
@@ -862,7 +908,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-06-08T20:15:38.000Z",
-    "fetched_at": "2026-07-06T09:46:05.273Z",
+    "fetched_at": "2026-07-06T14:46:57.545Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5469/logo.gif",
@@ -904,7 +950,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T18:08:52.000Z",
-    "fetched_at": "2026-07-06T09:46:05.273Z",
+    "fetched_at": "2026-07-06T14:46:57.546Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif",
@@ -942,7 +988,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-07-06T09:46:05.274Z",
+    "fetched_at": "2026-07-06T14:46:57.546Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
@@ -955,59 +1001,6 @@
       "pubDate": "Sun, 16 Jun 2024 17:30:51 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
       "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
-    }
-  },
-  {
-    "id": "wwr:memora-aps-founding-engineer",
-    "platform": "wwr",
-    "external_id": "memora-aps-founding-engineer",
-    "title": "Founding Engineer",
-    "company": "Memora ApS",
-    "description": "Headquarters: Copenhagen, Denmark URL: https://memora.dk/ About Us At Memora, we're digitizing one of the oldest and most overlooked categories on earth: the cemetery. Most still run on paper maps, spreadsheets, and institutional memory. We are replacing this with an ecosystem for everyone who touches a cemetery: the leadership running it, the field teams maintaining it, the families visiting it, and the local partners serving them.&nbsp; We’re backed by leading investors and guided by a team of experienced founders and engineers from well known tech names reimagining a category long overdue change. We’re deliberately lean, and will keep it that way. Job Description This is a remote position. Founding Engineer - Memora We're hiring a Founding Engineer to step into one of the broadest roles on the team: A hands-on IC role with real product and cultural ownership. The Why Memora is growing rapidly. We need an awesome engineer in the team who can lead from all angles of the technical stack: IaC end-to-end (Terraform, AWS, deploys, observability) Data ingestion pipelines (large exports, QGIS, PostGIS, multi tenant setups) Shipping core product features across NestJS, React, and React Native (Expo) mobile apps Being a thoughtful, methodical technical voice in a small team where every engineer has outsized influence The What (real examples from what we shipped in the last 30 days) Attribute-based filter systems across PostGIS, NestJS APIs, the React, and PMTiles-backed map tiles, so our clients can visualize by contracts, preservation status to even the flower season. Data import pipelines that convert raw PDF cemetery maps into geo-referenced GeoPackages in QGIS, then ingesting into PostGIS. Owning the end-to-end onboarding for new clientele. Terraform: multi-AZ RDS, ECS Fargate autoscaling, CI workflows, AI guardrails, WAF, SNS, and much more. AI: Designing, evaluating and building harnesses where prompts for summaries and activity can be elegantly delivered to communities, tuning guardrails. Production foundations such as RLS (multi-tenancy), idempotency keys + optimistic locking… so on The Stack Backend: NestJS, TypeScript, MikroORM, PostgreSQL + PostGIS, Inngest for durable workflows Web: React, TanStack Query, MapLibre + PMTiles Mobile: React Native + Expo, Expo Router, native iOS/Android push Infra: AWS (ECS Fargate, RDS, S3, CloudFront, SNS, Bedrock, WAF), Terraform, GH actions (OIDC), Logto Observability: Grafana Cloud, Sentry, CloudWatch Geospatial tooling: QGIS, GeoPackage, PMTiles AI: AWS Bedrock + guardrails, Promptfoo for evals Who you are Must have: Typically 8+ years building production software, including at least one role at a growth startup or as a founding/early engineer with sizeable revenue Full-stack: comfortable shipping in TypeScript across backend (Node/NestJS or similar) and React-based frontends Hands-on cloud infrastructure experience: you've owned a Terraform stack on AWS, not just consumed one Strong relational database fundamentals: you've designed schemas, optimized queries, run migrations against large live datasets Comfortable operating in a small team without a clear playbook: you can scope your own work, write your own docs, and triage your own bugs Strongly preferred: React Native / Expo experience shipping to App Store + Play Store PostGIS or any production geospatial work Experience with row-level security, multi-tenancy patterns, or compliance-sensitive data (we're GDPR + public-sector) Production AI/LLM work prompt design, evals, guardrails B2B/B2G SaaS experience: sales cycles, real customer relationships, public-sector quirks Bonus: Experience with cemetery, GIS, or public records systems A Note on AI Yes, we lean hard on AI coding tools: Claude, Perplexity, Cursor, etc. and we expect you to as well. Engineers who refuse them aren't a fit, but neither are vibe coders. We ship to municipalities managing data for real families, so the bar is robust, well-tested, human-reviewed code, not \"the model said it worked.\" &nbsp; We treat these tools like a sharp junior pair-programmer: fast, occasionally brilliant, frequently wrong, and never the final authority. That means reading every diff, spotting when its tests are theatre, pushing back on its first \"all-inclusive plan\" building workflows with planning and review gates baked in, and being able to ship the same feature with the tools turned off. \"AI wrote it\" is never a defence in a postmortem. &nbsp; If that distinction is obvious to you, we should talk. If your instinct is to paste this post into Claude and ask for \"the final application, make no mistakes\", wrong place. We're hiring humans, not the sub-agents we already work with and know well. How we work We’re building Memora to be the kind of company we’d want to work for ourselves: high trust, low bureaucracy, and full of people who care deeply about doing great work. We’re remote by design. No, we don’t track hours or expect people to be online all day, but we do expect ownership, communication, and roughly 4 hours of overlap with Copenhagen (CET). We believe great work and great lives aren’t in competition with each other. Remote work means your whole life doesn’t stop when work starts and that’s a good thing by us. Families, school pickups, deep-focus afternoons: we welcome the whole human. We optimize for people doing the best work of their careers while still having a life they’re excited to live. We’re a small team. Currently 5 people, which means you’ll have real autonomy and real influence. Engineers talk to customers, help onboard them, visit cemeteries, and see first-hand how their work impacts real people. There are no layers of management and no “that’s someone else’s problem” mentality. We’re low ego and high standards. We challenge ideas, admit mistakes, ask questions, and care more about getting to the right answer than being right. Psychological safety matters here, and so does excellence. We’re async-first and intentionally lightweight. We write things down, keep meetings purposeful, and avoid process for process’ sake. Our default approach is simple: communicate clearly, make good decisions, and ship. And because we’re building a real team, not just a collection of Slack profiles, we get together for an offsite every quarter somewhere in the world. Last time, we spent the week skiing and working together, because the best ideas don’t always happen in a meeting room.&nbsp;&nbsp; Compensation &amp; equity Senior IC salary (currency calibrated to location) Meaningful founding-engineer equity grant: we're early enough that this matters and we want you for the full journey Annual leave + Danish-equivalent benefits Quarterly offsites around the world How to apply Please send us: 1. A relevant CV 2. A short introduction 3. Pick 2 questions in the&nbsp;questionnaire https://zrec.eu/E0KZN To apply: https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
-    "url": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "react",
-      "nodejs",
-      "nestjs",
-      "postgresql",
-      "aws",
-      "terraform",
-      "grafana",
-      "sentry",
-      "llm",
-      "react-native",
-      "ios",
-      "android",
-      "expo"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-06-06T13:32:54.000Z",
-    "fetched_at": "2026-07-06T09:46:05.275Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5449/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Memora ApS: Founding Engineer",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/5449/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Copenhagen, Denmark\n    <br /><strong>URL:</strong> <a href=\"https://memora.dk/\">https://memora.dk/</a>\n</p>\n\n<h3>About Us</h3>\n<div>\n<p>At Memora, we're digitizing one of the oldest and most overlooked categories on earth: the cemetery. Most still run on paper maps, spreadsheets, and institutional memory. We are replacing this with an ecosystem for everyone who touches a cemetery: the leadership running it, the field teams maintaining it, the families visiting it, and the local partners serving them.&nbsp;</p>\n<p>We’re backed by leading investors and guided by a team of experienced founders and engineers from well known tech names reimagining a category long overdue change. We’re deliberately lean, and will keep it that way.</p>\n</div>\n<h3>Job Description</h3>\n<div>\n<p>This is a remote position.</p>\n<h1><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Founding Engineer - Memora</span></span></span></span></h1>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">We're hiring a Founding Engineer to step into one of the broadest roles on the team: A hands-on IC role with real product and cultural ownership.</span></span></span></span></p>\n<h2><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">The Why</span></span></span></span></h2>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Memora is growing rapidly. We need an awesome engineer in the team who can lead from all angles of the technical stack:</span></span></span></span></p>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">IaC end-to-end (Terraform, AWS, deploys, observability)</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Data ingestion pipelines (large exports, QGIS, PostGIS, multi tenant setups)</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Shipping core product features across NestJS, React, and React Native (Expo) mobile apps</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Being a thoughtful, methodical technical voice in a small team where every engineer has outsized influence</span></span></span></span></p>\n</li>\n</ul>\n<h2><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">The What (real examples from what we shipped in the last 30 days)</span></span></span></span></h2>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Attribute-based filter systems across PostGIS, NestJS APIs, the React, and PMTiles-backed map tiles, so our clients can visualize by contracts, preservation status to even the flower season.</span></span></span></span></p>\n</li>\n</ul>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Data import pipelines that convert raw PDF cemetery maps into geo-referenced GeoPackages in QGIS, then ingesting into PostGIS. Owning the end-to-end onboarding for new clientele.</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Terraform: multi-AZ RDS, ECS Fargate autoscaling, CI workflows, AI guardrails, WAF, SNS, and much more.</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">AI: Designing, evaluating and building harnesses where prompts for summaries and activity can be elegantly delivered to communities, tuning guardrails.</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Production foundations such as RLS (multi-tenancy), idempotency keys + optimistic locking… so on</span></span></span></span></p>\n</li>\n</ul>\n<h2><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">The Stack</span></span></span></span></h2>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Backend: NestJS, TypeScript, MikroORM, PostgreSQL + PostGIS, Inngest for durable workflows</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Web: React, TanStack Query, MapLibre + PMTiles</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Mobile: React Native + Expo, Expo Router, native iOS/Android push</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Infra: AWS (ECS Fargate, RDS, S3, CloudFront, SNS, Bedrock, WAF), Terraform, GH actions (OIDC), Logto</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Observability: Grafana Cloud, Sentry, CloudWatch</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Geospatial tooling: QGIS, GeoPackage, PMTiles</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">AI: AWS Bedrock + guardrails, Promptfoo for evals</span></span></span></span></p>\n</li>\n</ul>\n<h2><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Who you are</span></span></span></span></h2>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Must have:</span></span></span></span></p>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Typically 8+ years building production software, including at least one role at a growth startup or as a founding/early engineer with sizeable revenue</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Full-stack: comfortable shipping in TypeScript across backend (Node/NestJS or similar) and React-based frontends</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Hands-on cloud infrastructure experience: you've owned a Terraform stack on AWS, not just consumed one</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Strong relational database fundamentals: you've designed schemas, optimized queries, run migrations against large live datasets</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Comfortable operating in a small team without a clear playbook: you can scope your own work, write your own docs, and triage your own bugs</span></span></span></span></p>\n</li>\n</ul>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Strongly preferred:</span></span></span></span></p>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">React Native / Expo experience shipping to App Store + Play Store</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">PostGIS or any production geospatial work</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Experience with row-level security, multi-tenancy patterns, or compliance-sensitive data (we're GDPR + public-sector)</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Production AI/LLM work prompt design, evals, guardrails</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">B2B/B2G SaaS experience: sales cycles, real customer relationships, public-sector quirks</span></span></span></span></p>\n</li>\n</ul>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Bonus:</span></span></span></span></p>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Experience with cemetery, GIS, or public records systems</span></span></span></span></p>\n</li>\n</ul>\n<h2><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">A Note on AI</span></span></span></span></h2>\n<div><span class=\"s1\">Yes, we lean hard on AI coding tools: Claude, Perplexity, Cursor, etc. and we expect you to as well. Engineers who refuse them aren't a fit, but neither are vibe coders. We ship to municipalities managing data for real families, so the bar is robust, well-tested, human-reviewed code, not \"the model said it worked.\"</span></div>\n<div>&nbsp;</div>\n<div><span class=\"s1\">We treat these tools like a sharp junior pair-programmer: fast, occasionally brilliant, frequently wrong, and never the final authority. That means reading every diff, spotting when its tests are theatre, pushing back on its first \"all-inclusive plan\" building workflows with planning and review gates baked in, and being able to ship the same feature with the tools turned off. \"AI wrote it\" is never a defence in a postmortem.</span></div>\n<div>&nbsp;</div>\n<div><span class=\"s1\">If that distinction is obvious to you, we should talk. If your instinct is to paste this post into Claude and ask for \"the final application, make no mistakes\", wrong place. We're hiring humans, not the sub-agents we already work with and know well.</span></div>\n<h2><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">How we work</span></span></span></span></h2>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">We’re building Memora to be the kind of company we’d want to work for ourselves: high trust, low bureaucracy, and full of people who care deeply about doing great work.</span></span></span></span></p>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">We’re remote by design. No, we don’t track hours or expect people to be online all day, but we do expect ownership, communication, and roughly 4 hours of overlap with Copenhagen (CET).</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">We believe great work and great lives aren’t in competition with each other. Remote work means your whole life doesn’t stop when work starts and that’s a good thing by us. Families, school pickups, deep-focus afternoons: we welcome the whole human. We optimize for people doing the best work of their careers while still having a life they’re excited to live.</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">We’re a small team. Currently 5 people, which means you’ll have real autonomy and real influence. Engineers talk to customers, help onboard them, visit cemeteries, and see first-hand how their work impacts real people. There are no layers of management and no “that’s someone else’s problem” mentality.</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">We’re low ego and high standards. We challenge ideas, admit mistakes, ask questions, and care more about getting to the right answer than being right. Psychological safety matters here, and so does excellence.</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">We’re async-first and intentionally lightweight. We write things down, keep meetings purposeful, and avoid process for process’ sake. Our default approach is simple: communicate clearly, make good decisions, and ship.</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">And because we’re building a real team, not just a collection of Slack profiles, we get together for an offsite every quarter somewhere in the world. Last time, we spent the week skiing and working together, because the best ideas don’t always happen in a meeting room.&nbsp;&nbsp;</span></span></span></span></p>\n</li>\n</ul>\n<h2><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Compensation &amp; equity</span></span></span></span></h2>\n<ul>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Senior IC salary (currency calibrated to location)</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Meaningful founding-engineer equity grant: we're early enough that this matters and we want you for the full journey</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Annual leave + Danish-equivalent benefits</span></span></span></span></p>\n</li>\n<li>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Quarterly offsites around the world</span></span></span></span></p>\n</li>\n</ul>\n<p><strong><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">How to apply</span></span></span></span></strong></p>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">Please send us:</span></span></span></span><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\"><br></span></span></span></span><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">1. A relevant CV</span></span></span></span><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\"><br></span></span></span></span><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">2. A short introduction<br></span></span></span></span><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">3. Pick 2 questions in the&nbsp;questionnaire</span></span></span></span></p>\n<p><span class=\"highlight\"><span class=\"colour\"><span class=\"font\"><span class=\"size\">https://zrec.eu/E0KZN</span></span></span></span></p>\n<span></span></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer\">https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer</a></p>",
-      "pubDate": "Sat, 06 Jun 2026 13:32:54 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
-      "link": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer"
     }
   },
   {
@@ -1040,7 +1033,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-30T20:30:46.000Z",
-    "fetched_at": "2026-07-06T09:46:05.489Z",
+    "fetched_at": "2026-07-06T14:46:58.072Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5706/logo.gif",
@@ -1095,7 +1088,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-24T20:56:13.000Z",
-    "fetched_at": "2026-07-06T09:46:05.491Z",
+    "fetched_at": "2026-07-06T14:46:58.075Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5655/logo.gif",
@@ -1151,7 +1144,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-24T20:56:12.000Z",
-    "fetched_at": "2026-07-06T09:46:05.492Z",
+    "fetched_at": "2026-07-06T14:46:58.076Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5654/logo.gif",
@@ -1219,7 +1212,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-24T20:56:12.000Z",
-    "fetched_at": "2026-07-06T09:46:05.493Z",
+    "fetched_at": "2026-07-06T14:46:58.077Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5657/logo.gif",
@@ -1273,7 +1266,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-24T20:56:12.000Z",
-    "fetched_at": "2026-07-06T09:46:05.494Z",
+    "fetched_at": "2026-07-06T14:46:58.078Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5656/logo.gif",
@@ -1321,7 +1314,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-18T17:19:22.000Z",
-    "fetched_at": "2026-07-06T09:46:05.495Z",
+    "fetched_at": "2026-07-06T14:46:58.079Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5593/logo.gif",
@@ -1379,7 +1372,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-18T17:19:22.000Z",
-    "fetched_at": "2026-07-06T09:46:05.496Z",
+    "fetched_at": "2026-07-06T14:46:58.080Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5592/logo.gif",
@@ -1425,7 +1418,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-18T17:19:22.000Z",
-    "fetched_at": "2026-07-06T09:46:05.497Z",
+    "fetched_at": "2026-07-06T14:46:58.081Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5594/logo.gif",
@@ -1485,7 +1478,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-18T17:19:22.000Z",
-    "fetched_at": "2026-07-06T09:46:05.498Z",
+    "fetched_at": "2026-07-06T14:46:58.082Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5591/logo.gif",
@@ -1533,7 +1526,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-18T17:19:22.000Z",
-    "fetched_at": "2026-07-06T09:46:05.499Z",
+    "fetched_at": "2026-07-06T14:46:58.083Z",
     "raw": {
       "title": "AssureSoft: DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1572,7 +1565,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-15T16:03:12.000Z",
-    "fetched_at": "2026-07-06T09:46:05.500Z",
+    "fetched_at": "2026-07-06T14:46:58.084Z",
     "raw": {
       "title": "Bruker Corporation: Working Student (m/f/d) DevOps – Software Development",
       "region": "Baden-Württemberg",
@@ -1620,7 +1613,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-15T16:03:12.000Z",
-    "fetched_at": "2026-07-06T09:46:05.501Z",
+    "fetched_at": "2026-07-06T14:46:58.085Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5557/logo.gif",
@@ -1679,7 +1672,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-15T16:03:12.000Z",
-    "fetched_at": "2026-07-06T09:46:05.502Z",
+    "fetched_at": "2026-07-06T14:46:58.086Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5555/logo.gif",
@@ -1738,7 +1731,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-15T16:03:12.000Z",
-    "fetched_at": "2026-07-06T09:46:05.503Z",
+    "fetched_at": "2026-07-06T14:46:58.087Z",
     "raw": {
       "title": "Golden 1 Credit Union: IT - Infrastructure Systems - DevOps Engineer II (Remote in CA only)",
       "region": "California",
@@ -1788,7 +1781,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-15T16:03:12.000Z",
-    "fetched_at": "2026-07-06T09:46:05.505Z",
+    "fetched_at": "2026-07-06T14:46:58.089Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5556/logo.gif",
@@ -1842,7 +1835,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-10T22:30:21.000Z",
-    "fetched_at": "2026-07-06T09:46:05.506Z",
+    "fetched_at": "2026-07-06T14:46:58.090Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5512/logo.gif",
@@ -1889,7 +1882,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-10T22:30:21.000Z",
-    "fetched_at": "2026-07-06T09:46:05.507Z",
+    "fetched_at": "2026-07-06T14:46:58.091Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5509/logo.gif",
@@ -1950,7 +1943,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-10T22:30:21.000Z",
-    "fetched_at": "2026-07-06T09:46:05.508Z",
+    "fetched_at": "2026-07-06T14:46:58.092Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5510/logo.gif",
@@ -2013,7 +2006,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-10T22:30:21.000Z",
-    "fetched_at": "2026-07-06T09:46:05.509Z",
+    "fetched_at": "2026-07-06T14:46:58.093Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5508/logo.gif",
@@ -2069,7 +2062,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-10T22:30:21.000Z",
-    "fetched_at": "2026-07-06T09:46:05.510Z",
+    "fetched_at": "2026-07-06T14:46:58.094Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5511/logo.gif",
@@ -2119,7 +2112,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-08T16:47:25.000Z",
-    "fetched_at": "2026-07-06T09:46:05.511Z",
+    "fetched_at": "2026-07-06T14:46:58.095Z",
     "raw": {
       "title": "Vitru Educação: Professor(a)-autor(a) | Curadoria e Validação de Conteúdo - MICROSERVICES COM NODE.JS E MESSAGE BROKERS - EdTech | Vitru",
       "region": "Anywhere in the World",
@@ -2167,7 +2160,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-08T16:47:25.000Z",
-    "fetched_at": "2026-07-06T09:46:05.512Z",
+    "fetched_at": "2026-07-06T14:46:58.095Z",
     "raw": {
       "title": "Premiersoft: DevOps e Platform Sênior| Remoto",
       "region": "Anywhere in the World",
@@ -2216,7 +2209,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-08T16:47:25.000Z",
-    "fetched_at": "2026-07-06T09:46:05.512Z",
+    "fetched_at": "2026-07-06T14:46:58.096Z",
     "raw": {
       "title": "Covent IT: DevOps Engineer (contract)",
       "region": "Anywhere in the World",
@@ -2288,7 +2281,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-06-08T14:25:30.000Z",
-    "fetched_at": "2026-07-06T09:46:05.513Z",
+    "fetched_at": "2026-07-06T14:46:58.097Z",
     "raw": {
       "title": "Lemon.io: Senior Platform/Site Reliability Engineer",
       "region": "Anywhere in the World",
@@ -2330,7 +2323,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-28T07:25:37.000Z",
-    "fetched_at": "2026-07-06T09:46:05.515Z",
+    "fetched_at": "2026-07-06T14:46:58.098Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5346/logo.gif",
