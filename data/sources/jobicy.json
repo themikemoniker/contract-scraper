@@ -1,5 +1,62 @@
 [
   {
+    "id": "jobicy:146053",
+    "platform": "jobicy",
+    "external_id": "146053",
+    "title": "Senior AI Engineer",
+    "company": "Ruby Labs",
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ About the role At Ruby Labs we are looking for a Senior AI Engineer to own and drive the quality, reliability, and evolution of our AI systems in production. This is a high-ownership role. You will be responsible for end-to-end delivery of major AI features, production stability of AI systems, and data-driven experimentation using tools like Langfuse, Mixpanel and OpenRouter. You’ll work in a modern stack built on Next.js, TypeScript, Node.js, and Redis, collaborating closely with product, growth, data, and billing teams. Increasingly, this includes building agentic, tool-using AI systems — defining clean tool contracts (including MCP-based tools) and orchestrating how AI interacts with internal services and business systems. Our engineering organization uses a squad-based structure. You will operate within an AI engineering squad, contributing as a senior technical voice and driving engineering quality within your area of the product. Key Responsibilities Take complete ownership and deliver major AI engineering features within agreed timelines. Own AI output quality, structure, and predictability across all user-facing AI interactions. Design, implement, and maintain output-type-based AI systems, including segmentation, routing, and enforcement. Ensure consistent output structure and formatting across different LLMs for the same request type. Integrate and orchestrate multiple LLM providers via OpenRouter, managing model selection, fallback strategies, and cost optimisations. Design and orchestrate tool-using and agentic AI workflows, defining clean tool contracts (including MCP-based tools), function-calling interfaces, and reliable AI-to-system integrations. Build and maintain complex, multi-step LLM workflows, including with orchestration frameworks such as LangChain or LlamaIndex, for advanced reasoning, context reuse, and retrieval. Design and manage production prompt systems with dynamic prompting, context injection, and conditional logic. Own the deployment and release of LLM experiments, prompt management, and Langfuse-based evaluation pipelines. Run A/B tests across models, analyse results, and present data-driven impact assessments of AI features and experiments. Monitor AI system metrics, quality signals, latency, and release health using Langfuse and other observability tools. Deep-debug complex LLM chains using Langfuse traces, identifying bottlenecks and optimising for cost, latency, and context-window usage, and build output-scoring systems to root-cause hallucinations and logic errors. Write clean, scalable, and maintainable TypeScript code across the Next.js and Node.js stack. Build reliable backend logic for AI systems, with strong error handling, request validation, fallback flows, and predictable behaviour in production, including reliable tool execution and AI-to-service integrations. Ensure high code quality through testing, code reviews, and clear engineering standards. Monitor, troubleshoot, and improve production performance, reliability, and system health. Drive maintainability and technical quality through solid architecture, refactoring, and disciplined release practices. Qualifications 6+ years of backend/full-stack software engineering experience, including production-grade TypeScript/Node.js. Experience with Next.js and/or Python is a plus. 2+ years of experience building AI/LLM systems in production. Less experience may be considered for exceptional candidates. Deep hands-on experience working with LLM APIs (OpenAI, Anthropic, or similar) in production environments. Experience with Agentic AI, multi-agent orchestration, tool-based workflows (function calling/tool execution), and/or RAG pipelines, including indexing, retrieval, and re-ranking. Experience with LLM observability tools such as Langfuse, LangSmith, or similar platforms. Experience with AI gateways and model routing solutions, such as OpenRouter or equivalent technologies. Solid understanding of Redis and relational databases, such as PostgreSQL. Exceptional ownership mindset and personal responsibility for engineering quality and delivery. Nice to have Experience with AI-centered development tools such as Cursor, Claude Code, Windsurf, or similar platforms. Familiarity with evaluation frameworks, including LLM-as-a-judge, RAGAS, or similar approaches. Experience working in high-pressure startup environments with rapid product iteration cycles. Experience with MCP (Model Context Protocol), including building MCP servers/clients or designing tool contracts for AI agents. Experience with edge and serverless runtimes, such as Cloudflare Workers, and supporting services including KV, Durable Objects, Queues, R2, and D1. Experience with payments, billing and checkout flows, or orchestration platforms. Practical experience fine-tuning models for domain-specific tasks or achieving strict JSON/schema compliance. Working proficiency in Python for data science, evaluation scripts, or AI tooling. Location Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours. Benefits Discover the perks of being part of our vibrant team! We offer: Remote Work Environment: Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. Unlimited PTO: Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. Paid National Holidays: Celebrate and relax on national holidays with paid time off to unwind and recharge. Company-provided MacBook: Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. Flexible Independent Contractor Agreement: Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: https://docs.google.com/document/d/1tzxGX4Uu7Ts_HCLFXESKLnKaaBfVCPf1f9AYZPrkjJM/preview?tab=t.0 Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth! Interview Process After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps: Recruiter Screening (40 minutes) Technical Interview (60 minutes) Second Interview (30 minutes) Final Interview (20 minutes) Life at Ruby Labs At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day. This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen. Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success. #LI-Remote",
+    "url": "https://jobicy.com/jobs/146053-senior-ai-engineer-5",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Europe,  Türkiye",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "ruby",
+      "nextjs",
+      "nodejs",
+      "postgresql",
+      "redis",
+      "cloudflare",
+      "llm",
+      "langchain",
+      "rag",
+      "mixpanel"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-07T17:35:03+00:00",
+    "fetched_at": "2026-07-08T01:14:42.243Z",
+    "raw": {
+      "id": 146053,
+      "url": "https://jobicy.com/jobs/146053-senior-ai-engineer-5",
+      "jobSlug": "146053-senior-ai-engineer-5",
+      "jobTitle": "Senior AI Engineer",
+      "companyName": "Ruby Labs",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/0799a7b7-221-1.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe,  Türkiye",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at:&hellip;",
+      "jobDescription": "<h2><strong>About us</strong></h2><p>Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: <a href=\"https://rubylabs.com/about-us/\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://rubylabs.com/about-us/</a></p><h2><strong>About the role</strong></h2><p>At Ruby Labs we are looking for a Senior AI Engineer to own and drive the quality, reliability, and evolution of our AI systems in production.</p><p>This is a high-ownership role. You will be responsible for end-to-end delivery of major AI features, production stability of AI systems, and data-driven experimentation using tools like Langfuse, Mixpanel and OpenRouter. You’ll work in a modern stack built on Next.js, TypeScript, Node.js, and Redis, collaborating closely with product, growth, data, and billing teams. Increasingly, this includes building agentic, tool-using AI systems — defining clean tool contracts (including MCP-based tools) and orchestrating how AI interacts with internal services and business systems.</p><p>Our engineering organization uses a squad-based structure. You will operate within an AI engineering squad, contributing as a senior technical voice and driving engineering quality within your area of the product.</p><h2><strong>Key Responsibilities</strong></h2><ul><li><p>Take complete ownership and deliver major AI engineering features within agreed timelines.</p></li><li><p>Own AI output quality, structure, and predictability across all user-facing AI interactions.</p></li><li><p>Design, implement, and maintain output-type-based AI systems, including segmentation, routing, and enforcement.</p></li><li><p>Ensure consistent output structure and formatting across different LLMs for the same request type.</p></li><li><p>Integrate and orchestrate multiple LLM providers via OpenRouter, managing model selection, fallback strategies, and cost optimisations.</p></li><li><p>Design and orchestrate tool-using and agentic AI workflows, defining clean tool contracts (including MCP-based tools), function-calling interfaces, and reliable AI-to-system integrations.</p></li><li><p>Build and maintain complex, multi-step LLM workflows, including with orchestration frameworks such as LangChain or LlamaIndex, for advanced reasoning, context reuse, and retrieval.</p></li><li><p>Design and manage production prompt systems with dynamic prompting, context injection, and conditional logic.</p></li><li><p>Own the deployment and release of LLM experiments, prompt management, and Langfuse-based evaluation pipelines.</p></li><li><p>Run A/B tests across models, analyse results, and present data-driven impact assessments of AI features and experiments.</p></li><li><p>Monitor AI system metrics, quality signals, latency, and release health using Langfuse and other observability tools.</p></li><li><p>Deep-debug complex LLM chains using Langfuse traces, identifying bottlenecks and optimising for cost, latency, and context-window usage, and build output-scoring systems to root-cause hallucinations and logic errors.</p></li><li><p>Write clean, scalable, and maintainable TypeScript code across the Next.js and Node.js stack.</p></li><li><p>Build reliable backend logic for AI systems, with strong error handling, request validation, fallback flows, and predictable behaviour in production, including reliable tool execution and AI-to-service integrations.</p></li><li><p>Ensure high code quality through testing, code reviews, and clear engineering standards.</p></li><li><p>Monitor, troubleshoot, and improve production performance, reliability, and system health.</p></li><li><p>Drive maintainability and technical quality through solid architecture, refactoring, and disciplined release practices.</p></li></ul><h2><strong>Qualifications</strong></h2><ul><li><p>6+ years of backend/full-stack software engineering experience, including production-grade TypeScript/Node.js. Experience with Next.js and/or Python is a plus.</p></li><li><p>2+ years of experience building AI/LLM systems in production. Less experience may be considered for exceptional candidates.</p></li><li><p>Deep hands-on experience working with LLM APIs (OpenAI, Anthropic, or similar) in production environments.</p></li><li><p>Experience with Agentic AI, multi-agent orchestration, tool-based workflows (function calling/tool execution), and/or RAG pipelines, including indexing, retrieval, and re-ranking.</p></li><li><p>Experience with LLM observability tools such as Langfuse, LangSmith, or similar platforms.</p></li><li><p>Experience with AI gateways and model routing solutions, such as OpenRouter or equivalent technologies.</p></li><li><p>Solid understanding of Redis and relational databases, such as PostgreSQL.</p></li><li><p>Exceptional ownership mindset and personal responsibility for engineering quality and delivery.</p></li></ul><h2><strong>Nice to have</strong></h2><ul><li><p>Experience with AI-centered development tools such as Cursor, Claude Code, Windsurf, or similar platforms.</p></li><li><p>Familiarity with evaluation frameworks, including LLM-as-a-judge, RAGAS, or similar approaches.</p></li><li><p>Experience working in high-pressure startup environments with rapid product iteration cycles.</p></li><li><p>Experience with MCP (Model Context Protocol), including building MCP servers/clients or designing tool contracts for AI agents.</p></li><li><p>Experience with edge and serverless runtimes, such as Cloudflare Workers, and supporting services including KV, Durable Objects, Queues, R2, and D1.</p></li><li><p>Experience with payments, billing and checkout flows, or orchestration platforms.</p></li><li><p>Practical experience fine-tuning models for domain-specific tasks or achieving strict JSON/schema compliance.</p></li><li><p>Working proficiency in Python for data science, evaluation scripts, or AI tooling.</p></li></ul><h2><strong>Location</strong></h2><p>Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.</p><h2><strong>Benefits</strong></h2><p>Discover the perks of being part of our vibrant team! We offer:</p><ul><li><p><strong>Remote Work Environment:</strong> Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. </p></li><li><p><strong>Unlimited PTO:</strong> Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. </p></li><li><p><strong>Paid National Holidays:</strong> Celebrate and relax on national holidays with paid time off to unwind and recharge. </p></li><li><p><strong>Company-provided MacBook:</strong> Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. </p></li><li><p><strong>Flexible Independent Contractor Agreement:</strong> Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: <a href=\"https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://docs.google.com/document/d/1tzxGX4Uu7Ts_HCLFXESKLnKaaBfVCPf1f9AYZPrkjJM/preview?tab=t.0</a></p></li></ul><p>Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!</p><h2><strong>Interview Process</strong></h2><p>After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:</p><ul><li><p>Recruiter Screening (40 minutes)</p></li><li><p>Technical Interview (60 minutes)</p></li><li><p>Second Interview (30 minutes)</p></li><li><p>Final Interview (20 minutes)</p></li></ul><h2><strong>Life at Ruby Labs</strong></h2><p>At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day.</p><p>This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen.</p><p>Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success.</p><p>#LI-Remote</p>",
+      "pubDate": "2026-07-07T17:35:03+00:00"
+    }
+  },
+  {
     "id": "jobicy:148917",
     "platform": "jobicy",
     "external_id": "148917",
@@ -27,7 +84,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-07T11:00:53+00:00",
-    "fetched_at": "2026-07-07T19:27:37.752Z",
+    "fetched_at": "2026-07-08T01:14:42.245Z",
     "raw": {
       "id": 148917,
       "url": "https://jobicy.com/jobs/148917-senior-ios-engineer",
@@ -84,7 +141,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-07T11:00:51+00:00",
-    "fetched_at": "2026-07-07T19:27:37.754Z",
+    "fetched_at": "2026-07-08T01:14:42.246Z",
     "raw": {
       "id": 148916,
       "url": "https://jobicy.com/jobs/148916-senior-ai-engineer",
@@ -137,7 +194,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T17:00:02+00:00",
-    "fetched_at": "2026-07-07T19:27:37.755Z",
+    "fetched_at": "2026-07-08T01:14:42.247Z",
     "raw": {
       "id": 145289,
       "url": "https://jobicy.com/jobs/145289-ai-ml-engineer-synthetic-data",
@@ -185,7 +242,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:55:04+00:00",
-    "fetched_at": "2026-07-07T19:27:37.757Z",
+    "fetched_at": "2026-07-08T01:14:42.248Z",
     "raw": {
       "id": 145311,
       "url": "https://jobicy.com/jobs/145311-staff-software-engineer-growth-performance-marketing",
@@ -235,7 +292,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:25:02+00:00",
-    "fetched_at": "2026-07-07T19:27:37.757Z",
+    "fetched_at": "2026-07-08T01:14:42.249Z",
     "raw": {
       "id": 145562,
       "url": "https://jobicy.com/jobs/145562-senior-software-engineer-java-database-development",
@@ -281,7 +338,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:15:06+00:00",
-    "fetched_at": "2026-07-07T19:27:37.759Z",
+    "fetched_at": "2026-07-08T01:14:42.250Z",
     "raw": {
       "id": 145572,
       "url": "https://jobicy.com/jobs/145572-senior-engineering-manager-search",
@@ -328,7 +385,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:10:04+00:00",
-    "fetched_at": "2026-07-07T19:27:37.759Z",
+    "fetched_at": "2026-07-08T01:14:42.251Z",
     "raw": {
       "id": 145577,
       "url": "https://jobicy.com/jobs/145577-senior-qa-engineer",
@@ -385,7 +442,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:05:03+00:00",
-    "fetched_at": "2026-07-07T19:27:37.760Z",
+    "fetched_at": "2026-07-08T01:14:42.251Z",
     "raw": {
       "id": 145584,
       "url": "https://jobicy.com/jobs/145584-software-development-engineer-in-test",
@@ -438,7 +495,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T14:34:08+00:00",
-    "fetched_at": "2026-07-07T19:27:37.761Z",
+    "fetched_at": "2026-07-08T01:14:42.252Z",
     "raw": {
       "id": 148815,
       "url": "https://jobicy.com/jobs/148815-deployed-software-engineer",
@@ -495,7 +552,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T23:30:02+00:00",
-    "fetched_at": "2026-07-07T19:27:37.763Z",
+    "fetched_at": "2026-07-08T01:14:42.254Z",
     "raw": {
       "id": 143125,
       "url": "https://jobicy.com/jobs/143125-senior-machine-learning-engineer-genai-security",
@@ -546,7 +603,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T12:10:02+00:00",
-    "fetched_at": "2026-07-07T19:27:37.764Z",
+    "fetched_at": "2026-07-08T01:14:42.255Z",
     "raw": {
       "id": 145290,
       "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
@@ -591,7 +648,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T03:41:32+00:00",
-    "fetched_at": "2026-07-07T19:27:37.765Z",
+    "fetched_at": "2026-07-08T01:14:42.256Z",
     "raw": {
       "id": 148747,
       "url": "https://jobicy.com/jobs/148747-engineering-manager-geo-for-self-managed-customers",
@@ -634,7 +691,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T03:36:05+00:00",
-    "fetched_at": "2026-07-07T19:27:37.766Z",
+    "fetched_at": "2026-07-08T01:14:42.257Z",
     "raw": {
       "id": 148728,
       "url": "https://jobicy.com/jobs/148728-salesforce-consultant-m-f-d",
@@ -679,7 +736,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T03:16:27+00:00",
-    "fetched_at": "2026-07-07T19:27:37.766Z",
+    "fetched_at": "2026-07-08T01:14:42.257Z",
     "raw": {
       "id": 148702,
       "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
@@ -727,7 +784,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T11:05:06+00:00",
-    "fetched_at": "2026-07-07T19:27:37.770Z",
+    "fetched_at": "2026-07-08T01:14:42.259Z",
     "raw": {
       "id": 145331,
       "url": "https://jobicy.com/jobs/145331-staff-machine-learning-engineer-2",
@@ -776,7 +833,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T11:00:07+00:00",
-    "fetched_at": "2026-07-07T19:27:37.771Z",
+    "fetched_at": "2026-07-08T01:14:42.259Z",
     "raw": {
       "id": 145493,
       "url": "https://jobicy.com/jobs/145493-senior-linux-embedded-developer-yocto",
@@ -821,7 +878,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T10:50:02+00:00",
-    "fetched_at": "2026-07-07T19:27:37.772Z",
+    "fetched_at": "2026-07-08T01:14:42.260Z",
     "raw": {
       "id": 145503,
       "url": "https://jobicy.com/jobs/145503-senior-quantum-systems-engineer-quantum-computing",
@@ -869,7 +926,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T07:21:11+00:00",
-    "fetched_at": "2026-07-07T19:27:37.773Z",
+    "fetched_at": "2026-07-08T01:14:42.260Z",
     "raw": {
       "id": 148667,
       "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
@@ -923,7 +980,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T07:21:06+00:00",
-    "fetched_at": "2026-07-07T19:27:37.774Z",
+    "fetched_at": "2026-07-08T01:14:42.262Z",
     "raw": {
       "id": 148664,
       "url": "https://jobicy.com/jobs/148664-senior-cloud-engineer-product-metrics",
@@ -966,7 +1023,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T07:20:56+00:00",
-    "fetched_at": "2026-07-07T19:27:37.775Z",
+    "fetched_at": "2026-07-08T01:14:42.263Z",
     "raw": {
       "id": 148658,
       "url": "https://jobicy.com/jobs/148658-customer-solutions-engineer",
@@ -1016,7 +1073,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T07:20:46+00:00",
-    "fetched_at": "2026-07-07T19:27:37.776Z",
+    "fetched_at": "2026-07-08T01:14:42.264Z",
     "raw": {
       "id": 148652,
       "url": "https://jobicy.com/jobs/148652-senior-react-native-developer",
@@ -1068,7 +1125,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-04T05:10:04+00:00",
-    "fetched_at": "2026-07-07T19:27:37.778Z",
+    "fetched_at": "2026-07-08T01:14:42.265Z",
     "raw": {
       "id": 147079,
       "url": "https://jobicy.com/jobs/147079-qa-engineer-5",
@@ -1116,7 +1173,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T19:37:15+00:00",
-    "fetched_at": "2026-07-07T19:27:37.778Z",
+    "fetched_at": "2026-07-08T01:14:42.266Z",
     "raw": {
       "id": 148622,
       "url": "https://jobicy.com/jobs/148622-research-engineer-sysml-fair",
@@ -1174,7 +1231,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-03T18:55:02+00:00",
-    "fetched_at": "2026-07-07T19:27:37.779Z",
+    "fetched_at": "2026-07-08T01:14:42.266Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -1224,7 +1281,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:36:44+00:00",
-    "fetched_at": "2026-07-07T19:27:37.781Z",
+    "fetched_at": "2026-07-08T01:14:42.268Z",
     "raw": {
       "id": 145309,
       "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
@@ -1279,7 +1336,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:26:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.782Z",
+    "fetched_at": "2026-07-08T01:14:42.269Z",
     "raw": {
       "id": 145328,
       "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
@@ -1326,7 +1383,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:16:44+00:00",
-    "fetched_at": "2026-07-07T19:27:37.784Z",
+    "fetched_at": "2026-07-08T01:14:42.270Z",
     "raw": {
       "id": 145335,
       "url": "https://jobicy.com/jobs/145335-engineering-manager-advanced-signals-swe",
@@ -1375,7 +1432,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T02:44:05+00:00",
-    "fetched_at": "2026-07-07T19:27:37.785Z",
+    "fetched_at": "2026-07-08T01:14:42.272Z",
     "raw": {
       "id": 148507,
       "url": "https://jobicy.com/jobs/148507-connectivity-integration-lead-data-center-infrastructure",
@@ -1425,7 +1482,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T11:41:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.786Z",
+    "fetched_at": "2026-07-08T01:14:42.273Z",
     "raw": {
       "id": 145054,
       "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
@@ -1468,7 +1525,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T11:21:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.788Z",
+    "fetched_at": "2026-07-08T01:14:42.274Z",
     "raw": {
       "id": 145072,
       "url": "https://jobicy.com/jobs/145072-senior-sales-engineer-majors",
@@ -1520,7 +1577,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T10:41:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.789Z",
+    "fetched_at": "2026-07-08T01:14:42.275Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -1582,7 +1639,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-02T10:26:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.790Z",
+    "fetched_at": "2026-07-08T01:14:42.276Z",
     "raw": {
       "id": 145227,
       "url": "https://jobicy.com/jobs/145227-senior-full-stack-ai-native-developer",
@@ -1625,7 +1682,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T07:43:23+00:00",
-    "fetched_at": "2026-07-07T19:27:37.791Z",
+    "fetched_at": "2026-07-08T01:14:42.279Z",
     "raw": {
       "id": 148357,
       "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
@@ -1672,7 +1729,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:41:06+00:00",
-    "fetched_at": "2026-07-07T19:27:37.793Z",
+    "fetched_at": "2026-07-08T01:14:42.281Z",
     "raw": {
       "id": 148338,
       "url": "https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term",
@@ -1721,7 +1778,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:07:36+00:00",
-    "fetched_at": "2026-07-07T19:27:37.794Z",
+    "fetched_at": "2026-07-08T01:14:42.282Z",
     "raw": {
       "id": 148327,
       "url": "https://jobicy.com/jobs/148327-cost-engineer",
@@ -1767,7 +1824,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:07:34+00:00",
-    "fetched_at": "2026-07-07T19:27:37.795Z",
+    "fetched_at": "2026-07-08T01:14:42.283Z",
     "raw": {
       "id": 148326,
       "url": "https://jobicy.com/jobs/148326-substation-engineer-remote-part-time",
@@ -1818,7 +1875,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T03:52:51+00:00",
-    "fetched_at": "2026-07-07T19:27:37.797Z",
+    "fetched_at": "2026-07-08T01:14:42.284Z",
     "raw": {
       "id": 148319,
       "url": "https://jobicy.com/jobs/148319-senior-software-engineer-customer-experience-platform",
@@ -1864,7 +1921,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T11:11:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.797Z",
+    "fetched_at": "2026-07-08T01:14:42.285Z",
     "raw": {
       "id": 145122,
       "url": "https://jobicy.com/jobs/145122-middle-strong-general-qa-with-ai",
@@ -1912,7 +1969,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T10:51:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.798Z",
+    "fetched_at": "2026-07-08T01:14:42.285Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -1974,7 +2031,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T10:46:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.800Z",
+    "fetched_at": "2026-07-08T01:14:42.287Z",
     "raw": {
       "id": 145145,
       "url": "https://jobicy.com/jobs/145145-mts-cloud-test",
@@ -2025,7 +2082,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T06:30:52+00:00",
-    "fetched_at": "2026-07-07T19:27:37.801Z",
+    "fetched_at": "2026-07-08T01:14:42.288Z",
     "raw": {
       "id": 148224,
       "url": "https://jobicy.com/jobs/148224-senior-platform-engineer",
@@ -2074,7 +2131,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T02:13:33+00:00",
-    "fetched_at": "2026-07-07T19:27:37.803Z",
+    "fetched_at": "2026-07-08T01:14:42.289Z",
     "raw": {
       "id": 148199,
       "url": "https://jobicy.com/jobs/148199-data-engineer-engineering-operations",
@@ -2132,7 +2189,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T02:13:30+00:00",
-    "fetched_at": "2026-07-07T19:27:37.804Z",
+    "fetched_at": "2026-07-08T01:14:42.291Z",
     "raw": {
       "id": 148197,
       "url": "https://jobicy.com/jobs/148197-software-engineer-unity",
@@ -2185,7 +2242,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-30T17:21:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.805Z",
+    "fetched_at": "2026-07-08T01:14:42.291Z",
     "raw": {
       "id": 144087,
       "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
@@ -2233,7 +2290,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:22+00:00",
-    "fetched_at": "2026-07-07T19:27:37.806Z",
+    "fetched_at": "2026-07-08T01:14:42.293Z",
     "raw": {
       "id": 148145,
       "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
@@ -2288,7 +2345,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:20+00:00",
-    "fetched_at": "2026-07-07T19:27:37.808Z",
+    "fetched_at": "2026-07-08T01:14:42.294Z",
     "raw": {
       "id": 148144,
       "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
@@ -2344,7 +2401,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:19+00:00",
-    "fetched_at": "2026-07-07T19:27:37.809Z",
+    "fetched_at": "2026-07-08T01:14:42.295Z",
     "raw": {
       "id": 148143,
       "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
@@ -2401,7 +2458,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:15+00:00",
-    "fetched_at": "2026-07-07T19:27:37.810Z",
+    "fetched_at": "2026-07-08T01:14:42.296Z",
     "raw": {
       "id": 148141,
       "url": "https://jobicy.com/jobs/148141-demo-engineer",
@@ -2456,7 +2513,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T04:41:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.812Z",
+    "fetched_at": "2026-07-08T01:14:42.298Z",
     "raw": {
       "id": 143126,
       "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
@@ -2501,7 +2558,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T03:46:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.813Z",
+    "fetched_at": "2026-07-08T01:14:42.299Z",
     "raw": {
       "id": 143221,
       "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
@@ -2561,7 +2618,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T02:33:57+00:00",
-    "fetched_at": "2026-07-07T19:27:37.815Z",
+    "fetched_at": "2026-07-08T01:14:42.301Z",
     "raw": {
       "id": 148118,
       "url": "https://jobicy.com/jobs/148118-senior-backend-engineer-elixir-2",
@@ -2611,7 +2668,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T14:16:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.816Z",
+    "fetched_at": "2026-07-08T01:14:42.302Z",
     "raw": {
       "id": 144851,
       "url": "https://jobicy.com/jobs/144851-lead-backend-engineer",
@@ -2663,7 +2720,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:51:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.818Z",
+    "fetched_at": "2026-07-08T01:14:42.304Z",
     "raw": {
       "id": 144874,
       "url": "https://jobicy.com/jobs/144874-senior-ai-engineer-4",
@@ -2710,7 +2767,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:11:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.819Z",
+    "fetched_at": "2026-07-08T01:14:42.305Z",
     "raw": {
       "id": 144970,
       "url": "https://jobicy.com/jobs/144970-sap-btp-integration-developer-m-f-d",
@@ -2756,7 +2813,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:21:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.820Z",
+    "fetched_at": "2026-07-08T01:14:42.306Z",
     "raw": {
       "id": 145005,
       "url": "https://jobicy.com/jobs/145005-software-engineer-ii-network-operations",
@@ -2821,7 +2878,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:10+00:00",
-    "fetched_at": "2026-07-07T19:27:37.822Z",
+    "fetched_at": "2026-07-08T01:14:42.307Z",
     "raw": {
       "id": 148065,
       "url": "https://jobicy.com/jobs/148065-senior-backend-engineer",
@@ -2872,7 +2929,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:08+00:00",
-    "fetched_at": "2026-07-07T19:27:37.824Z",
+    "fetched_at": "2026-07-08T01:14:42.309Z",
     "raw": {
       "id": 148064,
       "url": "https://jobicy.com/jobs/148064-engineering-team-leader-2",
@@ -2925,7 +2982,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-29T12:11:45+00:00",
-    "fetched_at": "2026-07-07T19:27:37.825Z",
+    "fetched_at": "2026-07-08T01:14:42.310Z",
     "raw": {
       "id": 148051,
       "url": "https://jobicy.com/jobs/148051-backend-php-developer",
@@ -2974,7 +3031,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T19:01:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.826Z",
+    "fetched_at": "2026-07-08T01:14:42.311Z",
     "raw": {
       "id": 144909,
       "url": "https://jobicy.com/jobs/144909-senior-android-engineer-2",
@@ -3028,7 +3085,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T18:36:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.829Z",
+    "fetched_at": "2026-07-08T01:14:42.313Z",
     "raw": {
       "id": 144932,
       "url": "https://jobicy.com/jobs/144932-senior-security-engineer-grc-automation",
@@ -3080,7 +3137,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-28T17:31:44+00:00",
-    "fetched_at": "2026-07-07T19:27:37.830Z",
+    "fetched_at": "2026-07-08T01:14:42.314Z",
     "raw": {
       "id": 145128,
       "url": "https://jobicy.com/jobs/145128-agentic-ai-developer",
@@ -3138,7 +3195,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:21+00:00",
-    "fetched_at": "2026-07-07T19:27:37.831Z",
+    "fetched_at": "2026-07-08T01:14:42.314Z",
     "raw": {
       "id": 147980,
       "url": "https://jobicy.com/jobs/147980-node-js-react-tech-lead-latam-remote",
@@ -3190,7 +3247,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:11+00:00",
-    "fetched_at": "2026-07-07T19:27:37.831Z",
+    "fetched_at": "2026-07-08T01:14:42.315Z",
     "raw": {
       "id": 147975,
       "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
@@ -3245,7 +3302,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:09+00:00",
-    "fetched_at": "2026-07-07T19:27:37.831Z",
+    "fetched_at": "2026-07-08T01:14:42.315Z",
     "raw": {
       "id": 147974,
       "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
@@ -3288,7 +3345,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T21:21:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.833Z",
+    "fetched_at": "2026-07-08T01:14:42.316Z",
     "raw": {
       "id": 147705,
       "url": "https://jobicy.com/jobs/147705-cpq-architect",
@@ -3331,7 +3388,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T19:11:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.834Z",
+    "fetched_at": "2026-07-08T01:14:42.317Z",
     "raw": {
       "id": 142065,
       "url": "https://jobicy.com/jobs/142065-senior-model-based-system-engineer",
@@ -3380,7 +3437,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:36:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.835Z",
+    "fetched_at": "2026-07-08T01:14:42.318Z",
     "raw": {
       "id": 142109,
       "url": "https://jobicy.com/jobs/142109-senior-hpc-performance-engineer",
@@ -3431,7 +3488,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:31:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.835Z",
+    "fetched_at": "2026-07-08T01:14:42.318Z",
     "raw": {
       "id": 142111,
       "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
@@ -3483,7 +3540,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T17:21:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.836Z",
+    "fetched_at": "2026-07-08T01:14:42.319Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -3536,7 +3593,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:46:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.838Z",
+    "fetched_at": "2026-07-08T01:14:42.320Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -3586,7 +3643,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:21:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.838Z",
+    "fetched_at": "2026-07-08T01:14:42.321Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -3629,7 +3686,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T14:11:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.839Z",
+    "fetched_at": "2026-07-08T01:14:42.322Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -3687,7 +3744,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:56:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.841Z",
+    "fetched_at": "2026-07-08T01:14:42.323Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -3730,7 +3787,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T09:11:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.842Z",
+    "fetched_at": "2026-07-08T01:14:42.325Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -3786,7 +3843,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:41:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.844Z",
+    "fetched_at": "2026-07-08T01:14:42.326Z",
     "raw": {
       "id": 142760,
       "url": "https://jobicy.com/jobs/142760-software-engineer-video",
@@ -3840,7 +3897,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:31:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.846Z",
+    "fetched_at": "2026-07-08T01:14:42.327Z",
     "raw": {
       "id": 142770,
       "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
@@ -3887,7 +3944,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:36:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.847Z",
+    "fetched_at": "2026-07-08T01:14:42.329Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -3945,7 +4002,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:31:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.849Z",
+    "fetched_at": "2026-07-08T01:14:42.330Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -3992,7 +4049,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:45+00:00",
-    "fetched_at": "2026-07-07T19:27:37.850Z",
+    "fetched_at": "2026-07-08T01:14:42.331Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -4037,7 +4094,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:26+00:00",
-    "fetched_at": "2026-07-07T19:27:37.851Z",
+    "fetched_at": "2026-07-08T01:14:42.333Z",
     "raw": {
       "id": 147871,
       "url": "https://jobicy.com/jobs/147871-senior-associate-automation-engineer",
@@ -4086,7 +4143,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:23+00:00",
-    "fetched_at": "2026-07-07T19:27:37.853Z",
+    "fetched_at": "2026-07-08T01:14:42.334Z",
     "raw": {
       "id": 147869,
       "url": "https://jobicy.com/jobs/147869-associate-automation-engineer",
@@ -4135,7 +4192,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:11+00:00",
-    "fetched_at": "2026-07-07T19:27:37.854Z",
+    "fetched_at": "2026-07-08T01:14:42.335Z",
     "raw": {
       "id": 147862,
       "url": "https://jobicy.com/jobs/147862-staff-software-engineer-media-experiences",
@@ -4194,7 +4251,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.858Z",
+    "fetched_at": "2026-07-08T01:14:42.338Z",
     "raw": {
       "id": 142467,
       "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
@@ -4253,7 +4310,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.861Z",
+    "fetched_at": "2026-07-08T01:14:42.341Z",
     "raw": {
       "id": 142468,
       "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
@@ -4308,7 +4365,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:01:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.863Z",
+    "fetched_at": "2026-07-08T01:14:42.343Z",
     "raw": {
       "id": 142478,
       "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
@@ -4351,7 +4408,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T16:16:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.864Z",
+    "fetched_at": "2026-07-08T01:14:42.344Z",
     "raw": {
       "id": 142515,
       "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
@@ -4403,7 +4460,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:51:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.865Z",
+    "fetched_at": "2026-07-08T01:14:42.345Z",
     "raw": {
       "id": 142527,
       "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
@@ -4455,7 +4512,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T15:36:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.867Z",
+    "fetched_at": "2026-07-08T01:14:42.346Z",
     "raw": {
       "id": 142566,
       "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
@@ -4506,7 +4563,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T14:41:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.867Z",
+    "fetched_at": "2026-07-08T01:14:42.347Z",
     "raw": {
       "id": 142662,
       "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
@@ -4556,7 +4613,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T12:46:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.869Z",
+    "fetched_at": "2026-07-08T01:14:42.348Z",
     "raw": {
       "id": 142756,
       "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
@@ -4609,7 +4666,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T12:06:41+00:00",
-    "fetched_at": "2026-07-07T19:27:37.869Z",
+    "fetched_at": "2026-07-08T01:14:42.349Z",
     "raw": {
       "id": 142967,
       "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
@@ -4660,7 +4717,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:13:26+00:00",
-    "fetched_at": "2026-07-07T19:27:37.870Z",
+    "fetched_at": "2026-07-08T01:14:42.350Z",
     "raw": {
       "id": 147758,
       "url": "https://jobicy.com/jobs/147758-senior-software-engineer-java",
@@ -4711,7 +4768,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T11:08:30+00:00",
-    "fetched_at": "2026-07-07T19:27:37.871Z",
+    "fetched_at": "2026-07-08T01:14:42.350Z",
     "raw": {
       "id": 147747,
       "url": "https://jobicy.com/jobs/147747-senior-software-engineer",
@@ -4764,7 +4821,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-06-25T11:08:25+00:00",
-    "fetched_at": "2026-07-07T19:27:37.873Z",
+    "fetched_at": "2026-07-08T01:14:42.352Z",
     "raw": {
       "id": 147744,
       "url": "https://jobicy.com/jobs/147744-senior-software-quality-engineer-mexico-remote",
@@ -4818,7 +4875,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:21:45+00:00",
-    "fetched_at": "2026-07-07T19:27:37.874Z",
+    "fetched_at": "2026-07-08T01:14:42.353Z",
     "raw": {
       "id": 143127,
       "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
@@ -4875,7 +4932,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T10:06:43+00:00",
-    "fetched_at": "2026-07-07T19:27:37.875Z",
+    "fetched_at": "2026-07-08T01:14:42.354Z",
     "raw": {
       "id": 143143,
       "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
@@ -4918,7 +4975,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:45+00:00",
-    "fetched_at": "2026-07-07T19:27:37.876Z",
+    "fetched_at": "2026-07-08T01:14:42.355Z",
     "raw": {
       "id": 143147,
       "url": "https://jobicy.com/jobs/143147-security-architect-ii",
@@ -4961,7 +5018,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T10:01:44+00:00",
-    "fetched_at": "2026-07-07T19:27:37.877Z",
+    "fetched_at": "2026-07-08T01:14:42.356Z",
     "raw": {
       "id": 143148,
       "url": "https://jobicy.com/jobs/143148-sotif-expert-all-genders",
@@ -5010,7 +5067,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-25T09:46:42+00:00",
-    "fetched_at": "2026-07-07T19:27:37.879Z",
+    "fetched_at": "2026-07-08T01:14:42.358Z",
     "raw": {
       "id": 143220,
       "url": "https://jobicy.com/jobs/143220-staff-ai-builder-ai-native-mobile-engineer-family-ai-lab",
@@ -5031,58 +5088,6 @@
       "pubDate": "2026-06-25T09:46:42+00:00",
       "salaryMin": 190000,
       "salaryMax": 280000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:143283",
-    "platform": "jobicy",
-    "external_id": "143283",
-    "title": "Cybersecurity Systems Engineer",
-    "company": "ManTech",
-    "description": "General information Requisition # R67385 Locations USA-Remote Work Posting Date 05/06/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH! ***This is for a future opportunity*** MANTECH seeks a motivated, career and customer-oriented Cybersecurity Systems Engineer to join our team. The Cybersecurity Systems Engineer will leverage their strong technical background and knowledge to support the design, implementation, and sustainment of secure mission systems in support of Sponsor objectives. You will help ensure cybersecurity is engineered into cloud, platform, and data systems while supporting RMF/ATO processes and enabling secure delivery of operational capabilities in distributed and degraded (D-DIL) conditions. Responsibilities include but are not limited to: Designing and implementing cybersecurity controls across cloud, hybrid, and mission system environments including identity, access control, and monitoring. Creating, updating, and maintaining required Body of Evidence (BOE) documentation, RMF/ATO artifacts, and security control documentation in alignment with ICD 503 and NIST RMF. Maintaining, updating, and conducting routine vulnerability scanning, log analysis, and security event reviews across all systems. Maintaining system baselines and configuration management items to ensure systems are hardened and compliant with required DISA STIGs. Integrating security into CI/CD pipelines and DevSecOps environments using automated scanning, policy enforcement, and Infrastructure as Code (IaC). Implementing and enforcing Zero Trust security principles, identity-centric access controls (RBAC/ABAC), and data protection aligned with the DoD Data Strategy (VAULTIS). Working with all stakeholders to ensure complete and functioning systems that meet security requirements while supporting rapid deployment of AI/ML workloads. Minimum Qualifications: Bachelor's degree in Cybersecurity or a related field and 8+ years of progressively responsible experience in Information Systems Security (additional experience may substitute for degree). Significant experience navigating the Sponsor's accreditation process and ICD 503 requirements, especially as it relates to creating A&amp;A Body of Evidence (BOE) documentation. Significant experience meeting security requirements, implementing controls, and performing vulnerability scanning in the Sponsor's environment or similar environments. Experience working across a large team to drive a security agenda and working with complex, intertwined systems, data flows, and CI/CD pipelines. Experience inventorying complex networks and creating documentation for security compliance, configuration management, and centralized authentication. Experience creating, maintaining, and communicating complex information technology documentation, particularly regarding Zero Trust principles and data system security. Must meet DoD 8140 (formerly 8570) baseline certification requirements, such as Security+, CySA+, or CISSP. Preferred Qualifications: Certified Information Systems Security Professional (CISSP) or CCSP certification. Experience with the Sponsor’s primary cyber risk and compliance automation tools, such as eMASS or equivalent. Experience supporting USSOCOM, DoD, or Intelligence Community environments including familiarity with DoD Data Strategy (VAULTIS) and cloud security (AWS/Azure). Clearance Requirements: Must hold an active Secret security clearance and the ability to obtain and maintain a TS/SCI. Physical Requirements: Must be able to remain in a stationary position 50%. Needs to occasionally move about inside the office to access file cabinets, office machinery, etc. Frequently communicates with co-workers, management, and customers, which may involve delivering presentations. Must be able to exchange accurate information in these situations. The projected compensation range for this position is $148,200.00-$263,000.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation. If you need a reasonable accommodation to apply for a position with MANTECH, please email us at careers@mantech.com and provide your name and contact information.",
-    "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "aws",
-      "azure",
-      "machine-learning"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-25T09:41:44+00:00",
-    "fetched_at": "2026-07-07T19:27:37.880Z",
-    "raw": {
-      "id": 143283,
-      "url": "https://jobicy.com/jobs/143283-cybersecurity-systems-engineer",
-      "jobSlug": "143283-cybersecurity-systems-engineer",
-      "jobTitle": "Cybersecurity Systems Engineer",
-      "companyName": "ManTech",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/265c7fe8-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "General information Requisition # R67385 Locations USA-Remote Work Posting Date 05/06/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to&hellip;",
-      "jobDescription": "<h2> General information </h2><p> Requisition # R67385 Locations USA-Remote Work Posting Date 05/06/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time </p><h2> Description &amp; Requirements </h2><p> Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH!<br /><em>***This is for a future opportunity***</em></p><p><b>MANTECH</b> seeks a motivated, career and customer-oriented <b>Cybersecurity Systems Engineer</b> to join our team.</p><p>The Cybersecurity Systems Engineer will leverage their strong technical background and knowledge to support the design, implementation, and sustainment of secure mission systems in support of Sponsor objectives. You will help ensure cybersecurity is engineered into cloud, platform, and data systems while supporting RMF/ATO processes and enabling secure delivery of operational capabilities in distributed and degraded (D-DIL) conditions.</p><p><b>Responsibilities include but are not limited to:</b></p><ul><li><p>Designing and implementing cybersecurity controls across cloud, hybrid, and mission system environments including identity, access control, and monitoring.</p></li><li><p>Creating, updating, and maintaining required Body of Evidence (BOE) documentation, RMF/ATO artifacts, and security control documentation in alignment with ICD 503 and NIST RMF.</p></li><li><p>Maintaining, updating, and conducting routine vulnerability scanning, log analysis, and security event reviews across all systems.</p></li><li><p>Maintaining system baselines and configuration management items to ensure systems are hardened and compliant with required DISA STIGs.</p></li><li><p>Integrating security into CI/CD pipelines and DevSecOps environments using automated scanning, policy enforcement, and Infrastructure as Code (IaC).</p></li><li><p>Implementing and enforcing Zero Trust security principles, identity-centric access controls (RBAC/ABAC), and data protection aligned with the DoD Data Strategy (VAULTIS).</p></li><li><p>Working with all stakeholders to ensure complete and functioning systems that meet security requirements while supporting rapid deployment of AI/ML workloads.</p></li></ul><p><b>Minimum Qualifications:</b></p><ul><li><p>Bachelor's degree in Cybersecurity or a related field and 8+ years of progressively responsible experience in Information Systems Security (additional experience may substitute for degree).</p></li><li><p>Significant experience navigating the Sponsor's accreditation process and ICD 503 requirements, especially as it relates to creating A&amp;A Body of Evidence (BOE) documentation.</p></li><li><p>Significant experience meeting security requirements, implementing controls, and performing vulnerability scanning in the Sponsor's environment or similar environments.</p></li><li><p>Experience working across a large team to drive a security agenda and working with complex, intertwined systems, data flows, and CI/CD pipelines.</p></li><li><p>Experience inventorying complex networks and creating documentation for security compliance, configuration management, and centralized authentication.</p></li><li><p>Experience creating, maintaining, and communicating complex information technology documentation, particularly regarding Zero Trust principles and data system security.</p></li><li><p>Must meet DoD 8140 (formerly 8570) baseline certification requirements, such as Security+, CySA+, or CISSP.</p></li></ul><p><b>Preferred Qualifications:</b></p><ul><li><p>Certified Information Systems Security Professional (CISSP) or CCSP certification.</p></li><li><p>Experience with the Sponsor’s primary cyber risk and compliance automation tools, such as eMASS or equivalent.</p></li><li><p>Experience supporting USSOCOM, DoD, or Intelligence Community environments including familiarity with DoD Data Strategy (VAULTIS) and cloud security (AWS/Azure).</p></li></ul><p><b>Clearance Requirements:</b></p><ul><li><p>Must hold an active Secret security clearance and the ability to obtain and maintain a TS/SCI.</p></li></ul><p><b>Physical Requirements:</b></p><ul><li><p>Must be able to remain in a stationary position 50%.</p></li><li><p>Needs to occasionally move about inside the office to access file cabinets, office machinery, etc.</p></li><li><p>Frequently communicates with co-workers, management, and customers, which may involve delivering presentations.</p></li><li><p>Must be able to exchange accurate information in these situations.</p></li></ul><p>\nThe projected compensation range for this position is $148,200.00-$263,000.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. <br>\n<em>MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.<br />If you need a reasonable accommodation to apply for a position with MANTECH, please email us at <a href=\"mailto:careers@mantech.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers@mantech.com</a> and provide your name and contact information.</em></p>",
-      "pubDate": "2026-06-25T09:41:44+00:00",
-      "salaryMin": 148200,
-      "salaryMax": 263000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
