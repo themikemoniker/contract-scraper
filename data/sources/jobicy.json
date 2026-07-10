@@ -1,5 +1,275 @@
 [
   {
+    "id": "jobicy:149111",
+    "platform": "jobicy",
+    "external_id": "149111",
+    "title": "Director of Engineering, Cloud & Reliability",
+    "company": "Boulevard",
+    "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we could design a modern, user-friendly platform that meets the unique needs of their business. Our roots may be in hair salons, but we are built for the broader self-care industry, including many types of salons, spas, medspa, barbershops, and more. Our technology not only helps our customers survive but thrive. Take a look at how we (and YOU) can make that happen . We have an insatiable curiosity and embrace experimentation. We believe that simple solutions require the most sophistication, and we design each and every detail to maximize potential, power, and impact. Do our values match? Read through our story and what we value the most . Our team values and celebrates our diverse backgrounds. Being open about who we are and what we do allows us to do the best work of our lives. We believe in equal opportunity for all, and you should too. Come do the best work of your life at Boulevard. We're hiring a Director of Engineering - Cloud &amp; Reliability to lead our infrastructure transformation and establish industry leading reliability practices. This role will be instrumental in evolving Boulevard's infrastructure into a scalable, reliable, secure, and highly available platform that supports our rapid growth and customer needs across a spectrum of market segments (Small Business, Franchises, Enterprises). Reporting to the SVP of Engineering, you'll lead a team of infrastructure and reliability engineers while driving the technical strategy for our cloud infrastructure, DevOps practices, and platform capabilities. Your work will directly enable the Engineering &amp; Data teams to deliver APIs, services, customer-facing products and data capabilities at scale by providing robust, self-service infrastructure foundations. You'll architect and implement modern infrastructure practices including containerization, infrastructure-as-code, advanced CI/CD pipelines, and comprehensive observability systems. This role is perfect for a technical leader who wants to build the infrastructure platform that becomes the backbone of Boulevard's next phase of growth. Domains of Ownership Cloud Infrastructure &amp; Platform - Design, implement, and maintain scalable AWS infrastructure including multi-region deployments, and infrastructure-as-code DevOps &amp; CI/CD - Transform deployment pipelines, implement container orchestration, and enable rapid, reliable software delivery Observability &amp; Reliability - Implement comprehensive monitoring, alerting, and incident response using DataDog and related tools Disaster Recovery &amp; Business Continuity - Establish DR infrastructure, failover systems, and business continuity planning across all Boulevard services Infrastructure Automation - Build self-service infrastructure capabilities and advanced automation using Terraform and GitOps practices Security &amp; Compliance - Establish comprehensive security practices, manage compliance frameworks (PCI, HIPAA, SOC 2), and implement security-by-design principles Key Projects &amp; Initiatives EKS Migration &amp; Containerization : Lead the migration from current infrastructure to Amazon EKS, implementing container orchestration and services-ready architecture Multi-Region DR Implementation : Design and implement hot-hot disaster recovery with automated failover, load balancing, and regular testing procedures CI/CD Pipeline Transformation : Modernize deployment pipelines to support faster, more reliable deployments Advanced Observability : Enhance comprehensive monitoring, alerting, and incident response using DataDog, enabling proactive issue detection and resolution Security Framework : Establish enterprise-grade security practices, compliance frameworks, and automation to support Data team's governance requirements Infrastructure-as-Code Evolution : Scale Terraform usage, implement GitOps practices, and create self-service infrastructure capabilities Database Scaling : Address current RDS limitations and implement scalable database architecture What you'll do here: Technical Leadership : Define and execute the long-term infrastructure and security strategy, ensuring scalability, reliability, and security as Boulevard grows Team Building : Lead, mentor, and grow a team of infrastructure and reliability engineers, establishing best practices and fostering a culture of operational excellence Cross-functional Collaboration : Partner closely with Product, Services and Data Engineering teams to provide the infrastructure foundation for their initiatives Architecture &amp; Design : Drive architectural decisions for cloud infrastructure, security systems, and operational practices Operational Excellence : Establish monitoring, alerting, and incident response practices that ensure high availability and performance Compliance Management : Ensure compliance with industry standards (PCI, HIPAA, SOC 2) and implement security controls What you'll need to thrive: 10+ years of experience in cloud infrastructure and platform engineering, with 5+ years leading infrastructure teams of 5-15 engineers Deep experience with AWS services including EKS, RDS, VPC, IAM, and infrastructure automation using Terraform Proven experience migrating applications to Kubernetes/EKS and implementing container-based architectures Strong background in security practices, compliance frameworks (PCI, HIPAA, SOC 2), and security automation Experience transforming CI/CD pipelines, implementing GitOps practices, and enabling rapid software delivery Expertise with monitoring and observability tools (DataDog, Prometheus, Grafana) and implementing comprehensive alerting strategies Proven ability to work with Product Engineering, Data Engineering, and Platform Services teams to enable their technical initiatives How we'll take care of you: At Boulevard, we work hard to structure compensation in a way that balances internal equity with local market competitiveness, and we’re happy to share a good-faith estimate of the base salary range for this role. For U.S. based candidates, the anticipated base salary range is $209,500 - $270,000 per year. In addition to this base compensation, this role may be eligible to participate in a variable compensation program. Final compensation will vary based on a variety of factors which include but are not limited to applicable experience, location, and final leveling. In addition to the wonderful people you’ll get to work with and challenging projects that’ll push you - Boulevard is here to make sure you’re always at the top of your game emotionally, mentally, and physically. ✨ We’ve got you covered with a 401(k) match plus dental, medical, vision, and life insurance. Take a break whenever you need with our flexible vacation day policy. Fully remote so you can choose where you want to work. You’ll receive a work from home stipend every month. Family planning resources and specialized support programs. Equity: get ahead on the ground floor and grow with Boulevard. Boulevard Bucks Learning and Development program allows employees to explore businesses in the market we serve. We recommend following our official LinkedIn page to stay up to date on all things Boulevard life! Boulevard Labs, Inc. is an Equal Opportunity Employer committed to hiring a diverse workforce and sustaining an inclusive culture. All employment decisions at Boulevard Labs, Inc. are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.",
+    "url": "https://jobicy.com/jobs/149111-director-of-engineering-cloud-reliability",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "backbone",
+      "aws",
+      "kubernetes",
+      "terraform",
+      "prometheus",
+      "grafana",
+      "datadog"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-10T14:23:24+00:00",
+    "fetched_at": "2026-07-10T19:09:56.909Z",
+    "raw": {
+      "id": 149111,
+      "url": "https://jobicy.com/jobs/149111-director-of-engineering-cloud-reliability",
+      "jobSlug": "149111-director-of-engineering-cloud-reliability",
+      "jobTitle": "Director of Engineering, Cloud & Reliability",
+      "companyName": "Boulevard",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/12/a45167e12b0ed51058a884cf9cd0c76f.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Director",
+      "jobExcerpt": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
+      "jobDescription": "<div><p><strong>Who is Boulevard? </strong></p>\n<p>Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most.</p>\n<p>Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we could design a modern, user-friendly platform that meets the unique needs of their business. Our roots may be in hair salons, but we are built for the broader self-care industry, including many types of salons, spas, medspa, barbershops, and more. Our technology not only helps our customers survive but thrive. Take a look at <a href=\"https://www.joinblvd.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">how we (and YOU) can make that happen</a>. </p>\n<p>We have an insatiable curiosity and embrace experimentation. We believe that simple solutions require the most sophistication, and we design each and every detail to maximize potential, power, and impact. Do our values match? Read through <a href=\"https://www.joinblvd.com/about\" target=\"_blank\" rel=\"nofollow ugc noopener\">our story and what we value the most</a>.</p>\n<p>Our team values and celebrates our diverse backgrounds. Being open about who we are and what we do allows us to do the best work of our lives. We believe in equal opportunity for all, and you should too.</p></div><h2><strong>Come do the best work of your life at Boulevard.</strong></h2><p>We're hiring a <strong>Director of Engineering - Cloud &amp; Reliability</strong> to lead our infrastructure transformation and establish industry leading reliability practices. This role will be instrumental in evolving Boulevard's infrastructure into a <strong>scalable, reliable, secure, and highly available</strong> platform that supports our rapid growth and customer needs across a spectrum of market segments (Small Business, Franchises, Enterprises).</p><p>Reporting to the SVP of Engineering, you'll lead a team of infrastructure and reliability engineers while driving the technical strategy for our cloud infrastructure, DevOps practices, and platform capabilities. Your work will directly enable the Engineering &amp; Data teams to deliver APIs, services, customer-facing products and data capabilities at scale by providing robust, self-service infrastructure foundations.</p><p>You'll architect and implement modern infrastructure practices including containerization, infrastructure-as-code, advanced CI/CD pipelines, and comprehensive observability systems. This role is perfect for a technical leader who wants to build the infrastructure platform that becomes the backbone of Boulevard's next phase of growth.</p><p><strong>Domains of Ownership</strong></p><ul>\n<li><strong>Cloud Infrastructure &amp; Platform</strong> - Design, implement, and maintain scalable AWS infrastructure including multi-region deployments, and infrastructure-as-code</li>\n<li><strong>DevOps &amp; CI/CD</strong> - Transform deployment pipelines, implement container orchestration, and enable rapid, reliable software delivery</li>\n<li><strong>Observability &amp; Reliability</strong> - Implement comprehensive monitoring, alerting, and incident response using DataDog and related tools</li>\n<li><strong>Disaster Recovery &amp; Business Continuity</strong> - Establish DR infrastructure, failover systems, and business continuity planning across all Boulevard services</li>\n<li><strong>Infrastructure Automation</strong> - Build self-service infrastructure capabilities and advanced automation using Terraform and GitOps practices</li>\n<li><strong>Security &amp; Compliance</strong> - Establish comprehensive security practices, manage compliance frameworks (PCI, HIPAA, SOC 2), and implement security-by-design principles</li>\n</ul><p><strong>Key Projects &amp; Initiatives</strong></p><ul>\n<li><strong>EKS Migration &amp; Containerization</strong>: Lead the migration from current infrastructure to Amazon EKS, implementing container orchestration and services-ready architecture</li>\n<li><strong>Multi-Region DR Implementation</strong>: Design and implement hot-hot disaster recovery with automated failover, load balancing, and regular testing procedures</li>\n<li><strong>CI/CD Pipeline Transformation</strong>: Modernize deployment pipelines to support faster, more reliable deployments</li>\n<li><strong>Advanced Observability</strong>: Enhance comprehensive monitoring, alerting, and incident response using DataDog, enabling proactive issue detection and resolution</li>\n<li><strong>Security Framework</strong>: Establish enterprise-grade security practices, compliance frameworks, and automation to support Data team's governance requirements</li>\n<li><strong>Infrastructure-as-Code Evolution</strong>: Scale Terraform usage, implement GitOps practices, and create self-service infrastructure capabilities</li>\n<li><strong>Database Scaling</strong>: Address current RDS limitations and implement scalable database architecture</li>\n</ul><p><strong>What you'll do here:</strong></p><ul>\n<li><strong>Technical Leadership</strong>: Define and execute the long-term infrastructure and security strategy, ensuring scalability, reliability, and security as Boulevard grows</li>\n<li><strong>Team Building</strong>: Lead, mentor, and grow a team of infrastructure and reliability engineers, establishing best practices and fostering a culture of operational excellence</li>\n<li><strong>Cross-functional Collaboration</strong>: Partner closely with Product, Services and Data Engineering teams to provide the infrastructure foundation for their initiatives</li>\n<li><strong>Architecture &amp; Design</strong>: Drive architectural decisions for cloud infrastructure, security systems, and operational practices</li>\n<li><strong>Operational Excellence</strong>: Establish monitoring, alerting, and incident response practices that ensure high availability and performance</li>\n<li><strong>Compliance Management</strong>: Ensure compliance with industry standards (PCI, HIPAA, SOC 2) and implement security controls</li>\n</ul><p><strong>What you'll need to thrive:</strong></p><ul>\n<li>10+ years of experience in cloud infrastructure and platform engineering, with 5+ years leading infrastructure teams of 5-15 engineers</li>\n<li>Deep experience with AWS services including EKS, RDS, VPC, IAM, and infrastructure automation using Terraform</li>\n<li>Proven experience migrating applications to Kubernetes/EKS and implementing container-based architectures</li>\n<li>Strong background in security practices, compliance frameworks (PCI, HIPAA, SOC 2), and security automation</li>\n<li>Experience transforming CI/CD pipelines, implementing GitOps practices, and enabling rapid software delivery</li>\n<li>Expertise with monitoring and observability tools (DataDog, Prometheus, Grafana) and implementing comprehensive alerting strategies</li>\n<li>Proven ability to work with Product Engineering, Data Engineering, and Platform Services teams to enable their technical initiatives</li>\n</ul><p><strong>How we'll take care of you:</strong></p><p>At Boulevard, we work hard to structure compensation in a way that balances internal equity with local market competitiveness, and we’re happy to share a good-faith estimate of the base salary range for this role. For U.S. based candidates, the anticipated base salary range is $209,500 - $270,000 per year. In addition to this base compensation, this role may be eligible to participate in a variable compensation program. Final compensation will vary based on a variety of factors which include but are not limited to applicable experience, location, and final leveling.</p><div><p>In addition to the wonderful people you’ll get to work with and challenging projects that’ll push you - Boulevard is here to make sure you’re always at the top of your game emotionally, mentally, and physically. </p>\n<ul>\n<li>\n<p>✨ We’ve got you covered with a 401(k) match plus dental, medical, vision, and life insurance. </p>\n</li>\n<li>\n<p> Take a break whenever you need with our flexible vacation day policy. </p>\n</li>\n<li>\n<p> Fully remote so you can choose where you want to work. You’ll receive a work from home stipend every month. </p>\n</li>\n<li>\n<p> Family planning resources and specialized support programs. </p>\n</li>\n<li>\n<p> Equity: get ahead on the ground floor and grow with Boulevard. </p>\n</li>\n<li>\n<p> Boulevard Bucks Learning and Development program allows employees to explore businesses in the market we serve.</p>\n</li>\n</ul>\n<p> </p>\n<p> We recommend following <a href=\"https://www.linkedin.com/company/boulevard/\" rel=\"nofollow ugc noopener\" target=\"_blank\">our official LinkedIn page</a> to stay up to date on all things Boulevard life!</p>\n<p><em>Boulevard Labs, Inc. is an Equal Opportunity Employer committed to hiring a diverse workforce and sustaining an inclusive culture. All employment decisions at Boulevard Labs, Inc. are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.</em></p></div>",
+      "pubDate": "2026-07-10T14:23:24+00:00",
+      "salaryMin": 209500,
+      "salaryMax": 270000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:149109",
+    "platform": "jobicy",
+    "external_id": "149109",
+    "title": "Software Engineer, Unsecured Installments",
+    "company": "Upstart",
+    "description": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 1,800 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress. We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City (opening Summer 2026), you’ll have the support to work in the way that works best for you. If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you. The Team: Unsecured Installments is one of Upstart's core lending products, helping borrowers access credit through a seamless, digitally native experience. The team owns critical parts of the borrower journey across offer generation, pricing, underwriting, funding, and borrower experience, while working closely with the broader lending platform that powers Upstart at scale. Recent work has focused on improving borrower flows, repricing and rate flexibility, partnership experiences, and the overall quality of the customer-facing experience. As a Software Engineer on the Unsecured Installments team, you'll build and improve the frontend and full-stack experiences that borrowers interact with directly. You'll work primarily in React and TypeScript to ship polished, reliable, high-performing borrower flows, while partnering with backend, product, and design to connect those experiences to the systems behind pricing, underwriting, and funding. This is a hands-on role where you'll own meaningful features end to end and grow your technical depth on a business-critical product. How you’ll make an impact Build and maintain borrower-facing web experiences using React and TypeScript, translating designs and product requirements into clean, responsive, accessible interfaces. Work across the stack to connect frontend experiences to backend services and APIs, contributing to full-stack features that span the borrower journey. Partner closely with product managers, designers, and backend engineers to scope, build, and ship features that improve borrower flows and reduce friction. Write well-tested, maintainable code and participate in code reviews, helping raise the quality and consistency of the team's frontend codebase. Contribute to performance, reliability, and observability of the experiences you own, and help debug and resolve issues across environments. Support experimentation and iterative improvements to borrower flows, using data and feedback to inform what gets built next. Minimum Qualifications Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience) and 4-5+ years of professional software engineering experience. Strong proficiency building web applications with React and TypeScript, including component design, state management, and consuming REST or GraphQL APIs. Full-stack experience contributing to backend services and APIs in a language such as Python, Java, Kotlin, Ruby, or Node.js. Solid fundamentals in writing tested, maintainable code and collaborating through code review in a team environment. Ability to work effectively with product and design partners to deliver features from requirements through production. Preferred Qualifications Experience building consumer-facing products with attention to performance, accessibility, and user experience. Familiarity with modern frontend tooling and testing frameworks (e.g., Jest, React Testing Library, Cypress) and CI/CD workflows. Exposure to fintech, lending, payments, or other regulated financial products with complex user journeys. Experience with experimentation, A/B testing, or feature-flagging in production environments. Active use of AI tools in engineering workflows, with a thoughtful perspective on how AI is reshaping software development. Passion for building products that expand access to credit and improve financial outcomes for consumers. Position location This role is available in the following locations: Remote Travel requirements As a digital first company, the majority of your work can be accomplished remotely. The majority of our employees can live and work anywhere in the U.S but are encouraged to to still spend high quality time in-person collaborating via regular onsites. The in-person sessions’ cadence varies depending on the team and role; most teams meet once or twice per quarter for 2-4 consecutive days at a time. #LI-REMOTE #LI-Associate --&gt; use for L3, L4 At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k). United States | Remote - Anticipated Base Salary Range $142,000—$196,600 USD At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k). Canada | Remote - Anticipated Base Salary Range $136,000—$184,800 CAD What you'll love At Upstart, our benefits are designed to support your health, financial well-being, family, and personal growth. Here’s what you can expect: Competitive compensation, including base pay, bonus opportunities, and annual equity grants that vest quarterly Retirement benefits to help you plan for the future, including a 401(k) or Group Retirement Savings Plan with a company match of $2 for every $1 contributed, up to $15,000 annually (USD in the US, CAD in Canada) Employee Stock Purchase Plan (ESPP) with discounted stock purchase options for eligible employees (US only) Comprehensive health coverage designed to support you and your family, including medical, dental, vision, and wellness resources for US and supplemental health coverage for Canada. Health Savings Account contributions from Upstart for eligible plans (US only) Income protection benefits, including life insurance and disability coverage for added financial security Paid time off, sick leave, and company holidays, in line with local requirements Paid family and parental leave to support caregiving and major life moments (duration varies by country) Family-centered benefits to support fertility, parenthood, and caregiving needs Employee Assistance Program (EAP) offering mental health support and life-centered resources Financial wellness resources, including access to financial planning tools and a financial concierge service (US Only) Annual wellness allowance to support your physical and emotional well-being and personal development, based on what matters most to you Annual productivity allowance to invest in relevant tools and resources you need to do your best work, no matter where you work from Connection and community through team events, all-company updates, and employee resource groups (ERGs) Onsite perks, including catered lunches and fully stocked micro-kitchens when working from one of our offices in the Bay Area, Austin, Columbus, and New York City (opening Summer 2026!) For roles based in Canada, please note that we are not currently able to hire in Quebec. Upstart is a proud Equal Opportunity Employer. Just as we are dedicated to improving access to affordable credit for all, we are committed to inclusive and fair hiring practices. If you require reasonable accommodation in completing an application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please email candidate_accommodations@upstart.com https://www.upstart.com/candidate_privacy_policy",
+    "url": "https://jobicy.com/jobs/149109-software-engineer-unsecured-installments",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "java",
+      "ruby",
+      "kotlin",
+      "react",
+      "nodejs",
+      "spark",
+      "jest",
+      "cypress",
+      "graphql"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-10T14:23:21+00:00",
+    "fetched_at": "2026-07-10T19:09:56.911Z",
+    "raw": {
+      "id": 149109,
+      "url": "https://jobicy.com/jobs/149109-software-engineer-unsecured-installments",
+      "jobSlug": "149109-software-engineer-unsecured-installments",
+      "jobTitle": "Software Engineer, Unsecured Installments",
+      "companyName": "Upstart",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/bc2cfa2b-221-1.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with&hellip;",
+      "jobDescription": "<div><p><strong>About Upstart</strong></p>\n<p>At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.</p>\n<p>As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 1,800 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress.</p>\n<p>We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City (opening Summer 2026), you’ll have the support to work in the way that works best for you.</p>\n<p>If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you.</p></div><p><strong>The Team: </strong></p><p>Unsecured Installments is one of Upstart's core lending products, helping borrowers access credit through a seamless, digitally native experience. The team owns critical parts of the borrower journey across offer generation, pricing, underwriting, funding, and borrower experience, while working closely with the broader lending platform that powers Upstart at scale. Recent work has focused on improving borrower flows, repricing and rate flexibility, partnership experiences, and the overall quality of the customer-facing experience.</p><p>As a Software Engineer on the Unsecured Installments team, you'll build and improve the frontend and full-stack experiences that borrowers interact with directly. You'll work primarily in React and TypeScript to ship polished, reliable, high-performing borrower flows, while partnering with backend, product, and design to connect those experiences to the systems behind pricing, underwriting, and funding. This is a hands-on role where you'll own meaningful features end to end and grow your technical depth on a business-critical product.</p><p> </p><p><strong>How you’ll make an impact</strong></p><ul>\n<li>\n<p>Build and maintain borrower-facing web experiences using React and TypeScript, translating designs and product requirements into clean, responsive, accessible interfaces.</p>\n</li>\n<li>\n<p>Work across the stack to connect frontend experiences to backend services and APIs, contributing to full-stack features that span the borrower journey.</p>\n</li>\n<li>\n<p>Partner closely with product managers, designers, and backend engineers to scope, build, and ship features that improve borrower flows and reduce friction.</p>\n</li>\n<li>\n<p>Write well-tested, maintainable code and participate in code reviews, helping raise the quality and consistency of the team's frontend codebase.</p>\n</li>\n<li>\n<p>Contribute to performance, reliability, and observability of the experiences you own, and help debug and resolve issues across environments.</p>\n</li>\n<li>\n<p>Support experimentation and iterative improvements to borrower flows, using data and feedback to inform what gets built next.</p>\n</li>\n</ul><p> </p><p><strong>Minimum Qualifications </strong></p><ul>\n<li>\n<p>Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience) and 4-5+ years of professional software engineering experience.</p>\n</li>\n<li>\n<p>Strong proficiency building web applications with React and TypeScript, including component design, state management, and consuming REST or GraphQL APIs.</p>\n</li>\n<li>\n<p>Full-stack experience contributing to backend services and APIs in a language such as Python, Java, Kotlin, Ruby, or Node.js.</p>\n</li>\n<li>\n<p>Solid fundamentals in writing tested, maintainable code and collaborating through code review in a team environment.</p>\n</li>\n<li>\n<p>Ability to work effectively with product and design partners to deliver features from requirements through production.</p>\n</li>\n</ul><p> </p><p><strong>Preferred Qualifications</strong></p><ul>\n<li>\n<p>Experience building consumer-facing products with attention to performance, accessibility, and user experience.</p>\n</li>\n<li>\n<p>Familiarity with modern frontend tooling and testing frameworks (e.g., Jest, React Testing Library, Cypress) and CI/CD workflows.</p>\n</li>\n<li>\n<p>Exposure to fintech, lending, payments, or other regulated financial products with complex user journeys.</p>\n</li>\n<li>\n<p>Experience with experimentation, A/B testing, or feature-flagging in production environments.</p>\n</li>\n<li>\n<p>Active use of AI tools in engineering workflows, with a thoughtful perspective on how AI is reshaping software development.</p>\n</li>\n<li>\n<p>Passion for building products that expand access to credit and improve financial outcomes for consumers.</p>\n</li>\n</ul><p> </p><p><strong>Position location</strong> This role is available in the following locations: Remote</p><p><strong>Travel requirements</strong> As a digital first company, the majority of your work can be accomplished remotely. The majority of our employees can live and work anywhere in the U.S but are encouraged to to still spend high quality time in-person collaborating via regular onsites. The in-person sessions’ cadence varies depending on the team and role; most teams meet once or twice per quarter for 2-4 consecutive days at a time.</p><p> </p><p>#LI-REMOTE</p><p>#LI-Associate --&gt; use for L3, L4</p><div></div><div><div><div><p>At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.</p>\n<p>In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k).</p></div><div>United States | Remote - Anticipated Base Salary Range</div><div>$142,000—$196,600 USD</div></div><div><div><p>At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.</p>\n<p>In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k).</p></div><div>Canada | Remote - Anticipated Base Salary Range</div><div>$136,000—$184,800 CAD</div></div></div><div><p><strong>What you'll love</strong></p>\n<p>At Upstart, our benefits are designed to support your health, financial well-being, family, and personal growth. Here’s what you can expect:</p>\n<ul>\n<li>Competitive compensation, including base pay, bonus opportunities, and annual equity grants that vest quarterly </li>\n<li>Retirement benefits to help you plan for the future, including a 401(k) or Group Retirement Savings Plan with a company match of $2 for every $1 contributed, up to $15,000 annually (USD in the US, CAD in Canada)</li>\n<li>Employee Stock Purchase Plan (ESPP) with discounted stock purchase options for eligible employees (US only)</li>\n<li>Comprehensive health coverage designed to support you and your family, including medical, dental, vision, and wellness resources for US and supplemental health coverage for Canada.</li>\n<li>Health Savings Account contributions from Upstart for eligible plans (US only)</li>\n<li>Income protection benefits, including life insurance and disability coverage for added financial security</li>\n<li>Paid time off, sick leave, and company holidays, in line with local requirements</li>\n<li>Paid family and parental leave to support caregiving and major life moments (duration varies by country)</li>\n<li>Family-centered benefits to support fertility, parenthood, and caregiving needs</li>\n<li>Employee Assistance Program (EAP) offering mental health support and life-centered resources</li>\n<li>Financial wellness resources, including access to financial planning tools and a financial concierge service (US Only)</li>\n<li>Annual wellness allowance to support your physical and emotional well-being and personal development, based on what matters most to you</li>\n<li>Annual productivity allowance to invest in relevant tools and resources you need to do your best work, no matter where you work from</li>\n<li>Connection and community through team events, all-company updates, and employee resource groups (ERGs)</li>\n<li>Onsite perks, including catered lunches and fully stocked micro-kitchens when working from one of our offices in the Bay Area, Austin, Columbus, and New York City (opening Summer 2026!)</li>\n</ul>\n<p>For roles based in Canada, please note that we are not currently able to hire in Quebec.</p>\n<p>Upstart is a proud Equal Opportunity Employer. Just as we are dedicated to improving access to affordable credit for all, we are committed to inclusive and fair hiring practices.</p>\n<p><em>If you require reasonable accommodation in completing an application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please email candidate_accommodations@upstart.com</em></p>\n<p><a href=\"https://www.upstart.com/candidate_privacy_policy\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.upstart.com/candidate_privacy_policy</a></p></div>",
+      "pubDate": "2026-07-10T14:23:21+00:00",
+      "salaryMin": 136000,
+      "salaryMax": 196600,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:149108",
+    "platform": "jobicy",
+    "external_id": "149108",
+    "title": "Senior Software Engineer, Unsecured Installments",
+    "company": "Upstart",
+    "description": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 1,800 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress. We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City (opening Summer 2026), you’ll have the support to work in the way that works best for you. If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you. The Team: Unsecured Installments is one of Upstart's core lending products, helping borrowers access credit through a seamless, digitally native experience. The team owns critical parts of the borrower journey across offer generation, pricing, underwriting, funding, and borrower experience, while working closely with the broader lending platform that powers Upstart at scale. Recent work has focused on improving borrower flows, repricing and rate flexibility, partnership experiences, and the overall quality of the customer-facing experience. As a Senior Software Engineer on the Unsecured Installments team, you'll be a technical leader for the frontend and full-stack experiences that borrowers interact with directly. Working primarily in React and TypeScript, you'll own the delivery of large, multi-month projects, shape the architecture of the team's mobile-web and full-stack surfaces, and set a high bar for quality across the borrower experience. You'll partner closely with product, design, and backend engineers to turn ambiguous problems into durable, well-architected solutions, and you'll mentor other engineers along the way. How you’ll make an impact Own the design and delivery of large, complex frontend and full-stack initiatives using React and TypeScript, from planning and sequencing through launch and long-term maintenance. Set technical direction for the team's frontend architecture and full-stack patterns, owning a 3–6 month roadmap and proactively addressing systemic gaps that threaten team effectiveness. Partner closely with product, design, and backend engineers to translate roadmap priorities and borrower needs into scalable, high-quality experiences. Raise the bar for engineering excellence through strong component and API design, thoughtful state management, testing, observability, and operational rigor across borrower-facing surfaces. Lead through ambiguity, breaking down loosely defined problems into clear, testable plans and using data to inform tradeoffs on scope, performance, and user experience. Mentor and grow other engineers through code reviews, design reviews, and technical guidance, and serve as a trusted collaborator across the team. Contribute to how the team uses AI in development workflows and product capabilities, with a pragmatic view of where it can create meaningful leverage. Minimum Qualifications Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience) and 6+ years of professional software engineering experience. Deep proficiency building complex web applications with React and TypeScript, including component architecture, state management, performance optimization, and consuming REST or GraphQL APIs. Full-stack experience designing and building backend services and APIs in a language such as Python, Java, Kotlin, Ruby, or Node.js. Track record of independently leading the design and delivery of large, business-critical frontend or full-stack projects in production. Ability to work effectively in ambiguous environments where product requirements, constraints, and system boundaries evolve over time. Strong communication and collaboration skills, with the ability to explain technical tradeoffs and align product, design, and engineering partners. Preferred Qualifications Experience serving as the frontend or full-stack technical lead for a product team or business-critical product surface. Experience building consumer-facing products at scale with strong attention to performance, accessibility, and user experience. Background in fintech, lending, payments, or other regulated financial products with complex user journeys and high quality expectations. Experience with experimentation, A/B testing, or feature-flagging to drive iterative product improvements in production. Familiarity with modern frontend tooling and testing frameworks (e.g., Jest, React Testing Library, Cypress) and CI/CD workflows. Hands-on experience leveraging generative AI in product features or internal engineering workflows. Passion for building products that expand access to credit and improve financial outcomes for consumers. Position location This role is available in the following locations: Remote Travel requirements As a digital first company, the majority of your work can be accomplished remotely. The majority of our employees can live and work anywhere in the U.S but are encouraged to to still spend high quality time in-person collaborating via regular onsites. The in-person sessions’ cadence varies depending on the team and role; most teams meet once or twice per quarter for 2-4 consecutive days at a time. #LI-REMOTE #LI-MidSenior --&gt; use for L5, L6 At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k). United States | Remote - Anticipated Base Salary Range $166,900—$223,900 USD At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k). Canada | Remote - Anticipated Base Salary Range $160,400—$217,000 CAD What you'll love At Upstart, our benefits are designed to support your health, financial well-being, family, and personal growth. Here’s what you can expect: Competitive compensation, including base pay, bonus opportunities, and annual equity grants that vest quarterly Retirement benefits to help you plan for the future, including a 401(k) or Group Retirement Savings Plan with a company match of $2 for every $1 contributed, up to $15,000 annually (USD in the US, CAD in Canada) Employee Stock Purchase Plan (ESPP) with discounted stock purchase options for eligible employees (US only) Comprehensive health coverage designed to support you and your family, including medical, dental, vision, and wellness resources for US and supplemental health coverage for Canada. Health Savings Account contributions from Upstart for eligible plans (US only) Income protection benefits, including life insurance and disability coverage for added financial security Paid time off, sick leave, and company holidays, in line with local requirements Paid family and parental leave to support caregiving and major life moments (duration varies by country) Family-centered benefits to support fertility, parenthood, and caregiving needs Employee Assistance Program (EAP) offering mental health support and life-centered resources Financial wellness resources, including access to financial planning tools and a financial concierge service (US Only) Annual wellness allowance to support your physical and emotional well-being and personal development, based on what matters most to you Annual productivity allowance to invest in relevant tools and resources you need to do your best work, no matter where you work from Connection and community through team events, all-company updates, and employee resource groups (ERGs) Onsite perks, including catered lunches and fully stocked micro-kitchens when working from one of our offices in the Bay Area, Austin, Columbus, and New York City (opening Summer 2026!) For roles based in Canada, please note that we are not currently able to hire in Quebec. Upstart is a proud Equal Opportunity Employer. Just as we are dedicated to improving access to affordable credit for all, we are committed to inclusive and fair hiring practices. If you require reasonable accommodation in completing an application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please email candidate_accommodations@upstart.com https://www.upstart.com/candidate_privacy_policy",
+    "url": "https://jobicy.com/jobs/149108-senior-software-engineer-unsecured-installments",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "java",
+      "ruby",
+      "kotlin",
+      "react",
+      "nodejs",
+      "spark",
+      "jest",
+      "cypress",
+      "graphql"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-10T14:23:20+00:00",
+    "fetched_at": "2026-07-10T19:09:56.913Z",
+    "raw": {
+      "id": 149108,
+      "url": "https://jobicy.com/jobs/149108-senior-software-engineer-unsecured-installments",
+      "jobSlug": "149108-senior-software-engineer-unsecured-installments",
+      "jobTitle": "Senior Software Engineer, Unsecured Installments",
+      "companyName": "Upstart",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/bc2cfa2b-221-1.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with&hellip;",
+      "jobDescription": "<div><p><strong>About Upstart</strong></p>\n<p>At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.</p>\n<p>As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 1,800 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress.</p>\n<p>We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City (opening Summer 2026), you’ll have the support to work in the way that works best for you.</p>\n<p>If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you.</p></div><p><strong>The Team: </strong></p><p>Unsecured Installments is one of Upstart's core lending products, helping borrowers access credit through a seamless, digitally native experience. The team owns critical parts of the borrower journey across offer generation, pricing, underwriting, funding, and borrower experience, while working closely with the broader lending platform that powers Upstart at scale. Recent work has focused on improving borrower flows, repricing and rate flexibility, partnership experiences, and the overall quality of the customer-facing experience.</p><p>As a Senior Software Engineer on the Unsecured Installments team, you'll be a technical leader for the frontend and full-stack experiences that borrowers interact with directly. Working primarily in React and TypeScript, you'll own the delivery of large, multi-month projects, shape the architecture of the team's mobile-web and full-stack surfaces, and set a high bar for quality across the borrower experience. You'll partner closely with product, design, and backend engineers to turn ambiguous problems into durable, well-architected solutions, and you'll mentor other engineers along the way.</p><p> </p><p><strong>How you’ll make an impact</strong></p><ul>\n<li>\n<p>Own the design and delivery of large, complex frontend and full-stack initiatives using React and TypeScript, from planning and sequencing through launch and long-term maintenance.</p>\n</li>\n<li>\n<p>Set technical direction for the team's frontend architecture and full-stack patterns, owning a 3–6 month roadmap and proactively addressing systemic gaps that threaten team effectiveness.</p>\n</li>\n<li>\n<p>Partner closely with product, design, and backend engineers to translate roadmap priorities and borrower needs into scalable, high-quality experiences.</p>\n</li>\n<li>\n<p>Raise the bar for engineering excellence through strong component and API design, thoughtful state management, testing, observability, and operational rigor across borrower-facing surfaces.</p>\n</li>\n<li>\n<p>Lead through ambiguity, breaking down loosely defined problems into clear, testable plans and using data to inform tradeoffs on scope, performance, and user experience.</p>\n</li>\n<li>\n<p>Mentor and grow other engineers through code reviews, design reviews, and technical guidance, and serve as a trusted collaborator across the team.</p>\n</li>\n<li>\n<p>Contribute to how the team uses AI in development workflows and product capabilities, with a pragmatic view of where it can create meaningful leverage.</p>\n</li>\n</ul><p> </p><p><strong>Minimum Qualifications </strong></p><ul>\n<li>\n<p>Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience) and 6+ years of professional software engineering experience.</p>\n</li>\n<li>\n<p>Deep proficiency building complex web applications with React and TypeScript, including component architecture, state management, performance optimization, and consuming REST or GraphQL APIs.</p>\n</li>\n<li>\n<p>Full-stack experience designing and building backend services and APIs in a language such as Python, Java, Kotlin, Ruby, or Node.js.</p>\n</li>\n<li>\n<p>Track record of independently leading the design and delivery of large, business-critical frontend or full-stack projects in production.</p>\n</li>\n<li>\n<p>Ability to work effectively in ambiguous environments where product requirements, constraints, and system boundaries evolve over time.</p>\n</li>\n<li>\n<p>Strong communication and collaboration skills, with the ability to explain technical tradeoffs and align product, design, and engineering partners.</p>\n</li>\n</ul><p> </p><p><strong>Preferred Qualifications</strong></p><ul>\n<li>\n<p>Experience serving as the frontend or full-stack technical lead for a product team or business-critical product surface.</p>\n</li>\n<li>\n<p>Experience building consumer-facing products at scale with strong attention to performance, accessibility, and user experience.</p>\n</li>\n<li>\n<p>Background in fintech, lending, payments, or other regulated financial products with complex user journeys and high quality expectations.</p>\n</li>\n<li>\n<p>Experience with experimentation, A/B testing, or feature-flagging to drive iterative product improvements in production.</p>\n</li>\n<li>\n<p>Familiarity with modern frontend tooling and testing frameworks (e.g., Jest, React Testing Library, Cypress) and CI/CD workflows.</p>\n</li>\n<li>\n<p>Hands-on experience leveraging generative AI in product features or internal engineering workflows.</p>\n</li>\n<li>\n<p>Passion for building products that expand access to credit and improve financial outcomes for consumers.</p>\n</li>\n</ul><p> </p><p><strong>Position location</strong> This role is available in the following locations: Remote</p><p><strong>Travel requirements</strong> As a digital first company, the majority of your work can be accomplished remotely. The majority of our employees can live and work anywhere in the U.S but are encouraged to to still spend high quality time in-person collaborating via regular onsites. The in-person sessions’ cadence varies depending on the team and role; most teams meet once or twice per quarter for 2-4 consecutive days at a time.</p><p> </p><p>#LI-REMOTE</p><p>#LI-MidSenior --&gt; use for L5, L6</p><div></div><div><div><div><p>At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.</p>\n<p>In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k).</p></div><div>United States | Remote - Anticipated Base Salary Range</div><div>$166,900—$223,900 USD</div></div><div><div><p>At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.</p>\n<p>In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k).</p></div><div>Canada | Remote - Anticipated Base Salary Range</div><div>$160,400—$217,000 CAD</div></div></div><div><p><strong>What you'll love</strong></p>\n<p>At Upstart, our benefits are designed to support your health, financial well-being, family, and personal growth. Here’s what you can expect:</p>\n<ul>\n<li>Competitive compensation, including base pay, bonus opportunities, and annual equity grants that vest quarterly </li>\n<li>Retirement benefits to help you plan for the future, including a 401(k) or Group Retirement Savings Plan with a company match of $2 for every $1 contributed, up to $15,000 annually (USD in the US, CAD in Canada)</li>\n<li>Employee Stock Purchase Plan (ESPP) with discounted stock purchase options for eligible employees (US only)</li>\n<li>Comprehensive health coverage designed to support you and your family, including medical, dental, vision, and wellness resources for US and supplemental health coverage for Canada.</li>\n<li>Health Savings Account contributions from Upstart for eligible plans (US only)</li>\n<li>Income protection benefits, including life insurance and disability coverage for added financial security</li>\n<li>Paid time off, sick leave, and company holidays, in line with local requirements</li>\n<li>Paid family and parental leave to support caregiving and major life moments (duration varies by country)</li>\n<li>Family-centered benefits to support fertility, parenthood, and caregiving needs</li>\n<li>Employee Assistance Program (EAP) offering mental health support and life-centered resources</li>\n<li>Financial wellness resources, including access to financial planning tools and a financial concierge service (US Only)</li>\n<li>Annual wellness allowance to support your physical and emotional well-being and personal development, based on what matters most to you</li>\n<li>Annual productivity allowance to invest in relevant tools and resources you need to do your best work, no matter where you work from</li>\n<li>Connection and community through team events, all-company updates, and employee resource groups (ERGs)</li>\n<li>Onsite perks, including catered lunches and fully stocked micro-kitchens when working from one of our offices in the Bay Area, Austin, Columbus, and New York City (opening Summer 2026!)</li>\n</ul>\n<p>For roles based in Canada, please note that we are not currently able to hire in Quebec.</p>\n<p>Upstart is a proud Equal Opportunity Employer. Just as we are dedicated to improving access to affordable credit for all, we are committed to inclusive and fair hiring practices.</p>\n<p><em>If you require reasonable accommodation in completing an application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please email candidate_accommodations@upstart.com</em></p>\n<p><a href=\"https://www.upstart.com/candidate_privacy_policy\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.upstart.com/candidate_privacy_policy</a></p></div>",
+      "pubDate": "2026-07-10T14:23:20+00:00",
+      "salaryMin": 160400,
+      "salaryMax": 223900,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:149101",
+    "platform": "jobicy",
+    "external_id": "149101",
+    "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
+    "company": "Cresta",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day. Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world’s leading investors, including a16z, Greylock, and Sequoia. Cresta’s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. About the role: Cresta’s AI Agent team is building enterprise-grade AI Agents that can operate inside real-world contact center environments. A critical part of that mission is enabling our AI Agents to seamlessly integrate with customers’ CCaaS platforms (Contact Center as a Service), including voice and digital channels — and to smoothly transition conversations between AI and human agents when needed. This role is focused on building the backend systems that allow our AI Agents to: Integrate deeply with leading CCaaS platforms Participate in live customer conversations across voice and chat Maintain full conversation state and context Perform real-time actions within the CCaaS ecosystem Seamlessly hand off conversations to human agents — without losing context, history, or workflow state Support human agents with AI assistance after transfer We are looking for strong backend engineers who want to work at the intersection of distributed systems, real-time communication, enterprise integrations, and AI Agent orchestration. This is not a pure research role — it is about building production-grade infrastructure that enables AI Agents to operate reliably in mission-critical customer environments. Why This Role Is Unique: AI + Real-Time Systems : Work on infrastructure that enables AI Agents to participate in live conversations at scale. Enterprise-Grade Integrations : Design robust integrations with major CCaaS platforms and customer systems. Human-AI Collaboration : Build the systems that make AI-to-human handoff seamless, contextual, and reliable. High-Impact Engineering : Your work directly determines how smoothly AI Agents operate in production environments. If you’re a strong backend engineer who wants to apply your expertise to real-world AI systems operating inside complex enterprise ecosystems, this role offers that opportunity. Responsibilities : Design and build scalable backend services that integrate Cresta’s AI Agents with customers’ CCaaS platforms. Architect systems that manage real-time conversation state, context propagation, and session lifecycle. Implement seamless AI-to-human handoff mechanisms, ensuring full context transfer and minimal disruption to the customer experience. Develop secure and reliable integrations with CCaaS APIs (voice, chat, messaging, routing, agent desktop, etc.). Collaborate closely with ML engineers and AI researchers to operationalize AI Agent capabilities in live environments. Ensure high availability, low latency, and strong observability for real-time conversation systems. Implement authentication, authorization, compliance, and enterprise security best practices across integrations. Drive improvements in reliability, performance, and scalability in production environments handling high interaction volumes Qualifications We Value: Bachelor’s degree in Computer Science or related field. 5+ years of experience building scalable backend systems in production environments. Strong experience designing and maintaining robust APIs (REST, gRPC). Solid understanding of distributed systems and real-time communication architectures. Experience integrating with third-party enterprise platforms and APIs. Experience working with CCaaS platforms or contact center systems is a strong plus. Familiarity with AI Agents, Virtual Agents, or LLM-based systems is a plus. Experience with containerized environments (Kubernetes, Docker). Experience with cloud platforms such as AWS, GCP, or Azure. Strong understanding of system reliability, observability, and security in enterprise environments. Perks &amp; Benefits: We offer Cresta employees a variety of medical, dental, and vision plans, designed to fit you and your family’s needs Paid parental leave to support you and your family Monthly Health &amp; Wellness allowance Work from home office stipend to help you succeed in a remote environment Lunch reimbursement for in-office employees PTO: 3 weeks in Canada Compensation for this position includes a base salary, equity, and a variety of benefits. Actual base salaries will be based on candidate-specific factors, including experience, skillset, and location, and local minimum pay requirements as applicable. We are actively hiring for this role in the US and Canada. Your recruiter can provide further details. We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Cresta recruiting email communications will always come from the @cresta.ai domain. Any outreach claiming to be from Cresta via other sources should be ignored. If you are uncertain whether you have been contacted by an official Cresta employee, reach out to recruiting@cresta.ai",
+    "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Canada",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "aws",
+      "gcp",
+      "azure",
+      "docker",
+      "kubernetes",
+      "llm",
+      "machine-learning",
+      "grpc"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-10T14:23:09+00:00",
+    "fetched_at": "2026-07-10T19:09:56.914Z",
+    "raw": {
+      "id": 149101,
+      "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
+      "jobSlug": "149101-senior-software-engineer-backend-ai-agent-integrations",
+      "jobTitle": "Senior Software Engineer, Backend (AI Agent Integrations)",
+      "companyName": "Cresta",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/08/4d686e40b22cf2510b627c59afe5fd95.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Canada",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
+      "jobDescription": "<div><p>Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day. </p>\n<p>Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world’s leading investors, including a16z, Greylock, and Sequoia. Cresta’s leadership includes some of the leading minds in AI today. Our CEO, <a href=\"https://www.linkedin.com/in/pingwu/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Ping Wu</a>, founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences.</p>\n<p>Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta.</p></div><h3>About the role:</h3><p>Cresta’s AI Agent team is building enterprise-grade AI Agents that can operate inside real-world contact center environments. A critical part of that mission is enabling our AI Agents to <strong>seamlessly integrate with customers’ CCaaS platforms</strong> (Contact Center as a Service), including voice and digital channels — and to smoothly transition conversations between AI and human agents when needed.</p><p>This role is focused on building the backend systems that allow our AI Agents to:</p><ul>\n<li>Integrate deeply with leading CCaaS platforms</li>\n<li>Participate in live customer conversations across voice and chat</li>\n<li>Maintain full conversation state and context</li>\n<li>Perform real-time actions within the CCaaS ecosystem</li>\n<li>Seamlessly hand off conversations to human agents — without losing context, history, or workflow state</li>\n<li>Support human agents with AI assistance after transfer</li>\n</ul><p>We are looking for strong backend engineers who want to work at the intersection of distributed systems, real-time communication, enterprise integrations, and AI Agent orchestration.</p><p>This is not a pure research role — it is about building production-grade infrastructure that enables AI Agents to operate reliably in mission-critical customer environments.</p><p><strong>Why This Role Is Unique: </strong></p><ul>\n<li><strong>AI + Real-Time Systems</strong>: Work on infrastructure that enables AI Agents to participate in live conversations at scale.</li>\n<li><strong>Enterprise-Grade Integrations</strong>: Design robust integrations with major CCaaS platforms and customer systems.</li>\n<li><strong>Human-AI Collaboration</strong>: Build the systems that make AI-to-human handoff seamless, contextual, and reliable.</li>\n<li><strong>High-Impact Engineering</strong>: Your work directly determines how smoothly AI Agents operate in production environments.</li>\n</ul><p>If you’re a strong backend engineer who wants to apply your expertise to real-world AI systems operating inside complex enterprise ecosystems, this role offers that opportunity.</p><p><strong>Responsibilities</strong>:</p><ul>\n<li>Design and build scalable backend services that integrate Cresta’s AI Agents with customers’ CCaaS platforms.</li>\n<li>Architect systems that manage real-time conversation state, context propagation, and session lifecycle.</li>\n<li>Implement seamless AI-to-human handoff mechanisms, ensuring full context transfer and minimal disruption to the customer experience.</li>\n<li>Develop secure and reliable integrations with CCaaS APIs (voice, chat, messaging, routing, agent desktop, etc.).</li>\n<li>Collaborate closely with ML engineers and AI researchers to operationalize AI Agent capabilities in live environments.</li>\n<li>Ensure high availability, low latency, and strong observability for real-time conversation systems.</li>\n<li>Implement authentication, authorization, compliance, and enterprise security best practices across integrations.</li>\n<li>Drive improvements in reliability, performance, and scalability in production environments handling high interaction volumes</li>\n</ul><h3><strong>Qualifications We Value:</strong></h3><ul>\n<li>Bachelor’s degree in Computer Science or related field.</li>\n<li>5+ years of experience building scalable backend systems in production environments.</li>\n<li>Strong experience designing and maintaining robust APIs (REST, gRPC).</li>\n<li>Solid understanding of distributed systems and real-time communication architectures.</li>\n<li>Experience integrating with third-party enterprise platforms and APIs.</li>\n<li>Experience working with CCaaS platforms or contact center systems is a strong plus.</li>\n<li>Familiarity with AI Agents, Virtual Agents, or LLM-based systems is a plus.</li>\n<li>Experience with containerized environments (Kubernetes, Docker).</li>\n<li>Experience with cloud platforms such as AWS, GCP, or Azure.</li>\n<li>Strong understanding of system reliability, observability, and security in enterprise environments.</li>\n</ul><p><strong>Perks &amp; Benefits:</strong></p><ul>\n<li>We offer Cresta employees a variety of medical, dental, and vision plans, designed to fit you and your family’s needs</li>\n<li>Paid parental leave to support you and your family</li>\n<li>Monthly Health &amp; Wellness allowance</li>\n<li>Work from home office stipend to help you succeed in a remote environment</li>\n<li>Lunch reimbursement for in-office employees </li>\n<li>PTO: 3 weeks in Canada </li>\n</ul><p>Compensation for this position includes a base salary, equity, and a variety of benefits. Actual base salaries will be based on candidate-specific factors, including experience, skillset, and location, and local minimum pay requirements as applicable. We are actively hiring for this role in the US and Canada. Your recruiter can provide further details.</p><p>We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Cresta recruiting email communications will always come from the @cresta.ai domain. Any outreach claiming to be from Cresta via other sources should be ignored. If you are uncertain whether you have been contacted by an official Cresta employee, reach out to <a href=\"mailto:recruiting@cresra.ai\" rel=\"nofollow ugc noopener\" target=\"_blank\">recruiting@cresta.ai</a></p>",
+      "pubDate": "2026-07-10T14:23:09+00:00"
+    }
+  },
+  {
+    "id": "jobicy:149097",
+    "platform": "jobicy",
+    "external_id": "149097",
+    "title": "Application Engineer - Digital Solutions",
+    "company": "Grundfos",
+    "description": "Are you passionate about bridging the gap between cutting-edge digital technology and real-world customer success in water management? Then join us in our mission to pioneer smarter solutions for moving and transforming water, reducing energy consumption, and enhancing quality of life for people. As our new Application Engineer – Digital Solutions, you will be serving as the technical expert for our digital solutions portfolio — combining software, hardware, and IoT expertise to ensure customers successfully onboard, adopt, and expand their use of Grundfos digital offerings across global markets. You'll be part of a diverse, supportive and inclusive culture, that celebrates our differences and puts people first by fostering growth, well-being, and a sense of belonging. This position reports to the Digital Customer Success Regional Manager, part of the WU sales organization. It will operate on a hybrid schedule from our facility in Monterrey, NL, Mexico. Relocation for this position cannot be supported and qualified candidates must be authorized to work in Mexico without support now or in the future. What you will be doing As a key part of the Digital Customer Success team, you'll create impact by Driving measurable customer outcomes by ensuring the continuous, reliable operation of digital solutions that help manage the world's most vital resource — water. Your main responsibilities include: Build and maintain deep technical expertise across our digital solutions, the applications they serve, and the Grundfos components they integrate with. Provide proactive technical support for active subscriptions — configuring solution apps, delivering customer outcome reports, and identifying opportunities for improvement. Resolve incidents escalated by local sales, service teams, or customers directly, collaborating with 2nd-level support to ensure timely case closure and customer satisfaction. Contribute to continuous improvement by creating documentation, tools, and scripts that enhance support processes and team efficiency. Build trusted partnerships with customers using our digital solutions — identifying champions, generating success stories, and fostering a community of engaged digital users. What makes you a great fit Above all, you are a technically sharp, customer-centric professional with hands-on experience in IoT, remote monitoring, or digital platforms, combined with a strong troubleshooting mindset and the communication skills to build trust with global stakeholders. We would also imagine that you have: Bachelor's degree in Engineering, Computer Science, Electronics, Mechanical or Environmental Engineering, or equivalent practical experience. Knowledge of or experience with electronic monitoring systems, SCADA, telemetry, IoT devices, or software-based data management and analytics platforms. Experience implementing customer support processes including onboarding, training, and hypercare. Fluent in English (verbal and written). It is a plus if you also have: Experience in water utility or building services applications. Proficiency in additional languages beyond English. Familiarity with customer success methodologies, adoption metrics, or subscription-based service models. Why you will love working here We care! Day to day, you can look forward to: A working environment built around your needs, with hybrid working opportunities. Annual bonuses, health insurance and a strong focus on well-being activities. Three days' additional paid leave for volunteering in your community. Access to on-demand training and learning sessions and carefully structured programes to pursue personal and professional development opportunities. We are inclusive! Celebrating and valuing our differences helps us see possibilities where others can't. We therefore welcome and encourage applications from all abilities, experiences, and backgrounds. Are you ready to unlock possibilities at Grundfos? Apply today! To get to know us better, follow us on LinkedIn or visit grundfos.com",
+    "url": "https://jobicy.com/jobs/149097-application-engineer-digital-solutions",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Mexico",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-10T14:23:02+00:00",
+    "fetched_at": "2026-07-10T19:09:56.915Z",
+    "raw": {
+      "id": 149097,
+      "url": "https://jobicy.com/jobs/149097-application-engineer-digital-solutions",
+      "jobSlug": "149097-application-engineer-digital-solutions",
+      "jobTitle": "Application Engineer - Digital Solutions",
+      "companyName": "Grundfos",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/09/3a459ef1-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Mexico",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Are you passionate about bridging the gap between cutting-edge digital technology and real-world customer success in water management? Then join us in our mission to pioneer smarter solutions for moving and transforming water, reducing energy consumption, and enhancing quality of life for people.   As our new Application Engineer – Digital Solutions, you will be&hellip;",
+      "jobDescription": "<div><div><div><h2></h2>\n</div><div><p><strong>Are you passionate about bridging the gap between cutting-edge digital technology and real-world customer success in water management? </strong>Then join us in our mission to pioneer smarter solutions for moving and transforming water, reducing energy consumption, and enhancing quality of life for people.</p>\n<p> </p>\n<p>As our new Application Engineer – Digital Solutions, you will be serving as the technical expert for our digital solutions portfolio — combining software, hardware, and IoT expertise to ensure customers successfully onboard, adopt, and expand their use of Grundfos digital offerings across global markets. You'll be part of a diverse, supportive and inclusive culture, that celebrates our differences and puts people first by fostering growth, well-being, and a sense of belonging.</p>\n<p> </p>\n<p>This position reports to the Digital Customer Success Regional Manager, part of the WU sales organization. It will operate on a hybrid schedule from our facility in Monterrey, NL, Mexico. Relocation for this position cannot be supported and qualified candidates must be authorized to work in Mexico without support now or in the future.</p>\n<p><br><strong>What you will be doing</strong></p>\n<p> </p>\n<p>As a key part of the Digital Customer Success team, you'll create impact by Driving measurable customer outcomes by ensuring the continuous, reliable operation of digital solutions that help manage the world's most vital resource — water.</p>\n<p>Your main responsibilities include:</p>\n<ul>\n<li>Build and maintain deep technical expertise across our digital solutions, the applications they serve, and the Grundfos components they integrate with.</li>\n<li>Provide proactive technical support for active subscriptions — configuring solution apps, delivering customer outcome reports, and identifying opportunities for improvement.</li>\n<li>Resolve incidents escalated by local sales, service teams, or customers directly, collaborating with 2nd-level support to ensure timely case closure and customer satisfaction.</li>\n<li>Contribute to continuous improvement by creating documentation, tools, and scripts that enhance support processes and team efficiency.</li>\n<li>Build trusted partnerships with customers using our digital solutions — identifying champions, generating success stories, and fostering a community of engaged digital users.</li>\n</ul></div></div><div><div><h2></h2>\n</div><div><p><strong>What makes you a great fit</strong></p>\n<p> </p>\n<p>Above all, you are a technically sharp, customer-centric professional with hands-on experience in IoT, remote monitoring, or digital platforms, combined with a strong troubleshooting mindset and the communication skills to build trust with global stakeholders. We would also imagine that you have:</p>\n<ul>\n<li>Bachelor's degree in Engineering, Computer Science, Electronics, Mechanical or Environmental Engineering, or equivalent practical experience.</li>\n<li>Knowledge of or experience with electronic monitoring systems, SCADA, telemetry, IoT devices, or software-based data management and analytics platforms.</li>\n<li>Experience implementing customer support processes including onboarding, training, and hypercare.</li>\n<li>Fluent in English (verbal and written).</li>\n</ul>\n<p> </p>\n<p>It is a plus if you also have:</p>\n<ul>\n<li>Experience in water utility or building services applications.</li>\n<li>Proficiency in additional languages beyond English.</li>\n<li>Familiarity with customer success methodologies, adoption metrics, or subscription-based service models.</li>\n</ul></div></div><div><div><h2></h2>\n</div><div><p><strong>Why you will love working here</strong></p>\n<p> </p>\n<p>We care! Day to day, you can look forward to:</p>\n<ul>\n<li>A working environment built around your needs, with hybrid working opportunities.</li>\n<li>Annual bonuses, health insurance and a strong focus on well-being activities.</li>\n<li>Three days' additional paid leave for volunteering in your community.</li>\n<li>Access to on-demand training and learning sessions and carefully structured programes to pursue personal and professional development opportunities.</li>\n</ul>\n<p> </p>\n<p>We are inclusive! Celebrating and valuing our differences helps us see possibilities where others can't. We therefore welcome and encourage applications from all abilities, experiences, and backgrounds.</p>\n<p> </p>\n<p>Are you ready to unlock possibilities at Grundfos? Apply today!</p>\n<p>To get to know us better, follow us on LinkedIn or visit grundfos.com</p></div></div></div>",
+      "pubDate": "2026-07-10T14:23:02+00:00"
+    }
+  },
+  {
     "id": "jobicy:149068",
     "platform": "jobicy",
     "external_id": "149068",
@@ -21,7 +291,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T12:54:16+00:00",
-    "fetched_at": "2026-07-10T13:46:35.607Z",
+    "fetched_at": "2026-07-10T19:09:56.917Z",
     "raw": {
       "id": 149068,
       "url": "https://jobicy.com/jobs/149068-senior-customer-solution-engineer-ai-native-consumption-quote-to-cash",
@@ -73,7 +343,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T11:50:17+00:00",
-    "fetched_at": "2026-07-10T13:46:35.608Z",
+    "fetched_at": "2026-07-10T19:09:56.918Z",
     "raw": {
       "id": 149062,
       "url": "https://jobicy.com/jobs/149062-software-engineer",
@@ -121,7 +391,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T11:50:06+00:00",
-    "fetched_at": "2026-07-10T13:46:35.609Z",
+    "fetched_at": "2026-07-10T19:09:56.919Z",
     "raw": {
       "id": 149055,
       "url": "https://jobicy.com/jobs/149055-lead-ios-engineer",
@@ -170,7 +440,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T11:50:05+00:00",
-    "fetched_at": "2026-07-10T13:46:35.610Z",
+    "fetched_at": "2026-07-10T19:09:56.920Z",
     "raw": {
       "id": 149054,
       "url": "https://jobicy.com/jobs/149054-lead-android-developer",
@@ -220,7 +490,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T11:50:03+00:00",
-    "fetched_at": "2026-07-10T13:46:35.612Z",
+    "fetched_at": "2026-07-10T19:09:56.922Z",
     "raw": {
       "id": 149053,
       "url": "https://jobicy.com/jobs/149053-senior-android-engineer",
@@ -269,7 +539,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T11:50:00+00:00",
-    "fetched_at": "2026-07-10T13:46:35.613Z",
+    "fetched_at": "2026-07-10T19:09:56.923Z",
     "raw": {
       "id": 149051,
       "url": "https://jobicy.com/jobs/149051-ai-engineer-gn-agentic-ai-automation",
@@ -325,7 +595,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-09T11:49:58+00:00",
-    "fetched_at": "2026-07-10T13:46:35.614Z",
+    "fetched_at": "2026-07-10T19:09:56.924Z",
     "raw": {
       "id": 149050,
       "url": "https://jobicy.com/jobs/149050-qa-engineer-gn-automation-resilience",
@@ -377,7 +647,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T11:49:57+00:00",
-    "fetched_at": "2026-07-10T13:46:35.616Z",
+    "fetched_at": "2026-07-10T19:09:56.925Z",
     "raw": {
       "id": 149049,
       "url": "https://jobicy.com/jobs/149049-ai-enablement-lead-gn-data-intelligence",
@@ -433,7 +703,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-09T11:49:55+00:00",
-    "fetched_at": "2026-07-10T13:46:35.617Z",
+    "fetched_at": "2026-07-10T19:09:56.926Z",
     "raw": {
       "id": 149048,
       "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
@@ -482,7 +752,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T11:49:54+00:00",
-    "fetched_at": "2026-07-10T13:46:35.618Z",
+    "fetched_at": "2026-07-10T19:09:56.927Z",
     "raw": {
       "id": 149047,
       "url": "https://jobicy.com/jobs/149047-software-architect-gn-data-intelligence",
@@ -529,7 +799,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-09T11:49:52+00:00",
-    "fetched_at": "2026-07-10T13:46:35.619Z",
+    "fetched_at": "2026-07-10T19:09:56.930Z",
     "raw": {
       "id": 149046,
       "url": "https://jobicy.com/jobs/149046-tech-lead-gn-feature-team",
@@ -572,7 +842,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-08T20:22:54+00:00",
-    "fetched_at": "2026-07-10T13:46:35.620Z",
+    "fetched_at": "2026-07-10T19:09:56.931Z",
     "raw": {
       "id": 149024,
       "url": "https://jobicy.com/jobs/149024-sr-mgr-manufacturing-process-dvl-engineering",
@@ -619,7 +889,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-08T12:40:10+00:00",
-    "fetched_at": "2026-07-10T13:46:35.624Z",
+    "fetched_at": "2026-07-10T19:09:56.933Z",
     "raw": {
       "id": 145575,
       "url": "https://jobicy.com/jobs/145575-solutions-engineer-3",
@@ -677,7 +947,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-08T11:55:04+00:00",
-    "fetched_at": "2026-07-10T13:46:35.626Z",
+    "fetched_at": "2026-07-10T19:09:56.935Z",
     "raw": {
       "id": 145647,
       "url": "https://jobicy.com/jobs/145647-principal-machine-learning-engineer-3",
@@ -739,7 +1009,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-08T11:10:03+00:00",
-    "fetched_at": "2026-07-10T13:46:35.627Z",
+    "fetched_at": "2026-07-10T19:09:56.936Z",
     "raw": {
       "id": 145744,
       "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
@@ -793,7 +1063,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-08T03:35:02+00:00",
-    "fetched_at": "2026-07-10T13:46:35.629Z",
+    "fetched_at": "2026-07-10T19:09:56.938Z",
     "raw": {
       "id": 142466,
       "url": "https://jobicy.com/jobs/142466-director-security-engineering-remote-in-spain",
@@ -854,7 +1124,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-07T17:35:03+00:00",
-    "fetched_at": "2026-07-10T13:46:35.631Z",
+    "fetched_at": "2026-07-10T19:09:56.939Z",
     "raw": {
       "id": 146053,
       "url": "https://jobicy.com/jobs/146053-senior-ai-engineer-5",
@@ -903,7 +1173,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-07T11:00:53+00:00",
-    "fetched_at": "2026-07-10T13:46:35.632Z",
+    "fetched_at": "2026-07-10T19:09:56.940Z",
     "raw": {
       "id": 148917,
       "url": "https://jobicy.com/jobs/148917-senior-ios-engineer",
@@ -960,7 +1230,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-07T11:00:51+00:00",
-    "fetched_at": "2026-07-10T13:46:35.634Z",
+    "fetched_at": "2026-07-10T19:09:56.942Z",
     "raw": {
       "id": 148916,
       "url": "https://jobicy.com/jobs/148916-senior-ai-engineer",
@@ -1013,7 +1283,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T17:00:02+00:00",
-    "fetched_at": "2026-07-10T13:46:35.635Z",
+    "fetched_at": "2026-07-10T19:09:56.943Z",
     "raw": {
       "id": 145289,
       "url": "https://jobicy.com/jobs/145289-ai-ml-engineer-synthetic-data",
@@ -1061,7 +1331,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:55:04+00:00",
-    "fetched_at": "2026-07-10T13:46:35.637Z",
+    "fetched_at": "2026-07-10T19:09:56.944Z",
     "raw": {
       "id": 145311,
       "url": "https://jobicy.com/jobs/145311-staff-software-engineer-growth-performance-marketing",
@@ -1111,7 +1381,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:25:02+00:00",
-    "fetched_at": "2026-07-10T13:46:35.637Z",
+    "fetched_at": "2026-07-10T19:09:56.945Z",
     "raw": {
       "id": 145562,
       "url": "https://jobicy.com/jobs/145562-senior-software-engineer-java-database-development",
@@ -1157,7 +1427,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:15:06+00:00",
-    "fetched_at": "2026-07-10T13:46:35.639Z",
+    "fetched_at": "2026-07-10T19:09:56.946Z",
     "raw": {
       "id": 145572,
       "url": "https://jobicy.com/jobs/145572-senior-engineering-manager-search",
@@ -1204,7 +1474,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:10:04+00:00",
-    "fetched_at": "2026-07-10T13:46:35.640Z",
+    "fetched_at": "2026-07-10T19:09:56.947Z",
     "raw": {
       "id": 145577,
       "url": "https://jobicy.com/jobs/145577-senior-qa-engineer",
@@ -1261,7 +1531,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T16:05:03+00:00",
-    "fetched_at": "2026-07-10T13:46:35.640Z",
+    "fetched_at": "2026-07-10T19:09:56.948Z",
     "raw": {
       "id": 145584,
       "url": "https://jobicy.com/jobs/145584-software-development-engineer-in-test",
@@ -1314,7 +1584,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-06T14:34:08+00:00",
-    "fetched_at": "2026-07-10T13:46:35.642Z",
+    "fetched_at": "2026-07-10T19:09:56.949Z",
     "raw": {
       "id": 148815,
       "url": "https://jobicy.com/jobs/148815-deployed-software-engineer",
@@ -1371,7 +1641,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T23:30:02+00:00",
-    "fetched_at": "2026-07-10T13:46:35.643Z",
+    "fetched_at": "2026-07-10T19:09:56.950Z",
     "raw": {
       "id": 143125,
       "url": "https://jobicy.com/jobs/143125-senior-machine-learning-engineer-genai-security",
@@ -1422,7 +1692,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T12:10:02+00:00",
-    "fetched_at": "2026-07-10T13:46:35.644Z",
+    "fetched_at": "2026-07-10T19:09:56.952Z",
     "raw": {
       "id": 145290,
       "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
@@ -1467,7 +1737,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T03:41:32+00:00",
-    "fetched_at": "2026-07-10T13:46:35.646Z",
+    "fetched_at": "2026-07-10T19:09:56.953Z",
     "raw": {
       "id": 148747,
       "url": "https://jobicy.com/jobs/148747-engineering-manager-geo-for-self-managed-customers",
@@ -1510,7 +1780,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T03:36:05+00:00",
-    "fetched_at": "2026-07-10T13:46:35.646Z",
+    "fetched_at": "2026-07-10T19:09:56.953Z",
     "raw": {
       "id": 148728,
       "url": "https://jobicy.com/jobs/148728-salesforce-consultant-m-f-d",
@@ -1555,7 +1825,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-05T03:16:27+00:00",
-    "fetched_at": "2026-07-10T13:46:35.647Z",
+    "fetched_at": "2026-07-10T19:09:56.954Z",
     "raw": {
       "id": 148702,
       "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
@@ -1603,7 +1873,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T11:05:06+00:00",
-    "fetched_at": "2026-07-10T13:46:35.648Z",
+    "fetched_at": "2026-07-10T19:09:56.956Z",
     "raw": {
       "id": 145331,
       "url": "https://jobicy.com/jobs/145331-staff-machine-learning-engineer-2",
@@ -1652,7 +1922,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T11:00:07+00:00",
-    "fetched_at": "2026-07-10T13:46:35.649Z",
+    "fetched_at": "2026-07-10T19:09:56.956Z",
     "raw": {
       "id": 145493,
       "url": "https://jobicy.com/jobs/145493-senior-linux-embedded-developer-yocto",
@@ -1697,7 +1967,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T10:50:02+00:00",
-    "fetched_at": "2026-07-10T13:46:35.649Z",
+    "fetched_at": "2026-07-10T19:09:56.957Z",
     "raw": {
       "id": 145503,
       "url": "https://jobicy.com/jobs/145503-senior-quantum-systems-engineer-quantum-computing",
@@ -1745,7 +2015,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T07:21:11+00:00",
-    "fetched_at": "2026-07-10T13:46:35.650Z",
+    "fetched_at": "2026-07-10T19:09:56.958Z",
     "raw": {
       "id": 148667,
       "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
@@ -1799,7 +2069,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T07:21:06+00:00",
-    "fetched_at": "2026-07-10T13:46:35.651Z",
+    "fetched_at": "2026-07-10T19:09:56.959Z",
     "raw": {
       "id": 148664,
       "url": "https://jobicy.com/jobs/148664-senior-cloud-engineer-product-metrics",
@@ -1842,7 +2112,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T07:20:56+00:00",
-    "fetched_at": "2026-07-10T13:46:35.652Z",
+    "fetched_at": "2026-07-10T19:09:56.960Z",
     "raw": {
       "id": 148658,
       "url": "https://jobicy.com/jobs/148658-customer-solutions-engineer",
@@ -1892,7 +2162,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-04T07:20:46+00:00",
-    "fetched_at": "2026-07-10T13:46:35.654Z",
+    "fetched_at": "2026-07-10T19:09:56.962Z",
     "raw": {
       "id": 148652,
       "url": "https://jobicy.com/jobs/148652-senior-react-native-developer",
@@ -1940,7 +2210,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T19:37:15+00:00",
-    "fetched_at": "2026-07-10T13:46:35.654Z",
+    "fetched_at": "2026-07-10T19:09:56.963Z",
     "raw": {
       "id": 148622,
       "url": "https://jobicy.com/jobs/148622-research-engineer-sysml-fair",
@@ -1998,7 +2268,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-03T18:55:02+00:00",
-    "fetched_at": "2026-07-10T13:46:35.655Z",
+    "fetched_at": "2026-07-10T19:09:56.964Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -2048,7 +2318,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:36:44+00:00",
-    "fetched_at": "2026-07-10T13:46:35.657Z",
+    "fetched_at": "2026-07-10T19:09:56.965Z",
     "raw": {
       "id": 145309,
       "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
@@ -2103,7 +2373,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:26:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.659Z",
+    "fetched_at": "2026-07-10T19:09:56.967Z",
     "raw": {
       "id": 145328,
       "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
@@ -2150,7 +2420,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T10:16:44+00:00",
-    "fetched_at": "2026-07-10T13:46:35.660Z",
+    "fetched_at": "2026-07-10T19:09:56.968Z",
     "raw": {
       "id": 145335,
       "url": "https://jobicy.com/jobs/145335-engineering-manager-advanced-signals-swe",
@@ -2199,7 +2469,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-03T02:44:05+00:00",
-    "fetched_at": "2026-07-10T13:46:35.661Z",
+    "fetched_at": "2026-07-10T19:09:56.969Z",
     "raw": {
       "id": 148507,
       "url": "https://jobicy.com/jobs/148507-connectivity-integration-lead-data-center-infrastructure",
@@ -2249,7 +2519,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T11:41:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.662Z",
+    "fetched_at": "2026-07-10T19:09:56.971Z",
     "raw": {
       "id": 145054,
       "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
@@ -2292,7 +2562,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T11:21:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.664Z",
+    "fetched_at": "2026-07-10T19:09:56.972Z",
     "raw": {
       "id": 145072,
       "url": "https://jobicy.com/jobs/145072-senior-sales-engineer-majors",
@@ -2344,7 +2614,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T10:41:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.665Z",
+    "fetched_at": "2026-07-10T19:09:56.973Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -2391,7 +2661,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T07:43:23+00:00",
-    "fetched_at": "2026-07-10T13:46:35.666Z",
+    "fetched_at": "2026-07-10T19:09:56.974Z",
     "raw": {
       "id": 148357,
       "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
@@ -2438,7 +2708,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:41:06+00:00",
-    "fetched_at": "2026-07-10T13:46:35.667Z",
+    "fetched_at": "2026-07-10T19:09:56.976Z",
     "raw": {
       "id": 148338,
       "url": "https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term",
@@ -2487,7 +2757,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T04:07:36+00:00",
-    "fetched_at": "2026-07-10T13:46:35.668Z",
+    "fetched_at": "2026-07-10T19:09:56.977Z",
     "raw": {
       "id": 148327,
       "url": "https://jobicy.com/jobs/148327-cost-engineer",
@@ -2538,7 +2808,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-02T03:52:51+00:00",
-    "fetched_at": "2026-07-10T13:46:35.670Z",
+    "fetched_at": "2026-07-10T19:09:56.979Z",
     "raw": {
       "id": 148319,
       "url": "https://jobicy.com/jobs/148319-senior-software-engineer-customer-experience-platform",
@@ -2584,7 +2854,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T11:11:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.670Z",
+    "fetched_at": "2026-07-10T19:09:56.979Z",
     "raw": {
       "id": 145122,
       "url": "https://jobicy.com/jobs/145122-middle-strong-general-qa-with-ai",
@@ -2632,7 +2902,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T10:51:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.671Z",
+    "fetched_at": "2026-07-10T19:09:56.980Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -2694,7 +2964,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T10:46:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.673Z",
+    "fetched_at": "2026-07-10T19:09:56.982Z",
     "raw": {
       "id": 145145,
       "url": "https://jobicy.com/jobs/145145-mts-cloud-test",
@@ -2745,7 +3015,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T06:30:52+00:00",
-    "fetched_at": "2026-07-10T13:46:35.674Z",
+    "fetched_at": "2026-07-10T19:09:56.983Z",
     "raw": {
       "id": 148224,
       "url": "https://jobicy.com/jobs/148224-senior-platform-engineer",
@@ -2794,7 +3064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T02:13:33+00:00",
-    "fetched_at": "2026-07-10T13:46:35.676Z",
+    "fetched_at": "2026-07-10T19:09:56.985Z",
     "raw": {
       "id": 148199,
       "url": "https://jobicy.com/jobs/148199-data-engineer-engineering-operations",
@@ -2852,7 +3122,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-01T02:13:30+00:00",
-    "fetched_at": "2026-07-10T13:46:35.677Z",
+    "fetched_at": "2026-07-10T19:09:56.986Z",
     "raw": {
       "id": 148197,
       "url": "https://jobicy.com/jobs/148197-software-engineer-unity",
@@ -2905,7 +3175,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-30T17:21:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.677Z",
+    "fetched_at": "2026-07-10T19:09:56.987Z",
     "raw": {
       "id": 144087,
       "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
@@ -2953,7 +3223,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:22+00:00",
-    "fetched_at": "2026-07-10T13:46:35.679Z",
+    "fetched_at": "2026-07-10T19:09:56.988Z",
     "raw": {
       "id": 148145,
       "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
@@ -3008,7 +3278,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:20+00:00",
-    "fetched_at": "2026-07-10T13:46:35.681Z",
+    "fetched_at": "2026-07-10T19:09:56.990Z",
     "raw": {
       "id": 148144,
       "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
@@ -3064,7 +3334,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:19+00:00",
-    "fetched_at": "2026-07-10T13:46:35.682Z",
+    "fetched_at": "2026-07-10T19:09:56.991Z",
     "raw": {
       "id": 148143,
       "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
@@ -3121,7 +3391,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T12:01:15+00:00",
-    "fetched_at": "2026-07-10T13:46:35.683Z",
+    "fetched_at": "2026-07-10T19:09:56.993Z",
     "raw": {
       "id": 148141,
       "url": "https://jobicy.com/jobs/148141-demo-engineer",
@@ -3176,7 +3446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T04:41:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.684Z",
+    "fetched_at": "2026-07-10T19:09:56.994Z",
     "raw": {
       "id": 143126,
       "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
@@ -3221,7 +3491,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T03:46:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.686Z",
+    "fetched_at": "2026-07-10T19:09:56.996Z",
     "raw": {
       "id": 143221,
       "url": "https://jobicy.com/jobs/143221-staff-ai-architect-family-ai-lab",
@@ -3281,7 +3551,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-30T02:33:57+00:00",
-    "fetched_at": "2026-07-10T13:46:35.688Z",
+    "fetched_at": "2026-07-10T19:09:56.998Z",
     "raw": {
       "id": 148118,
       "url": "https://jobicy.com/jobs/148118-senior-backend-engineer-elixir-2",
@@ -3337,7 +3607,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:51:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.690Z",
+    "fetched_at": "2026-07-10T19:09:57.000Z",
     "raw": {
       "id": 144874,
       "url": "https://jobicy.com/jobs/144874-senior-ai-engineer-4",
@@ -3384,7 +3654,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T13:11:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.691Z",
+    "fetched_at": "2026-07-10T19:09:57.001Z",
     "raw": {
       "id": 144970,
       "url": "https://jobicy.com/jobs/144970-sap-btp-integration-developer-m-f-d",
@@ -3430,7 +3700,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:21:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.692Z",
+    "fetched_at": "2026-07-10T19:09:57.003Z",
     "raw": {
       "id": 145005,
       "url": "https://jobicy.com/jobs/145005-software-engineer-ii-network-operations",
@@ -3495,7 +3765,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:10+00:00",
-    "fetched_at": "2026-07-10T13:46:35.694Z",
+    "fetched_at": "2026-07-10T19:09:57.005Z",
     "raw": {
       "id": 148065,
       "url": "https://jobicy.com/jobs/148065-senior-backend-engineer",
@@ -3546,7 +3816,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-29T12:12:08+00:00",
-    "fetched_at": "2026-07-10T13:46:35.695Z",
+    "fetched_at": "2026-07-10T19:09:57.006Z",
     "raw": {
       "id": 148064,
       "url": "https://jobicy.com/jobs/148064-engineering-team-leader-2",
@@ -3599,7 +3869,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-29T12:11:45+00:00",
-    "fetched_at": "2026-07-10T13:46:35.696Z",
+    "fetched_at": "2026-07-10T19:09:57.007Z",
     "raw": {
       "id": 148051,
       "url": "https://jobicy.com/jobs/148051-backend-php-developer",
@@ -3648,7 +3918,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T19:01:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.698Z",
+    "fetched_at": "2026-07-10T19:09:57.009Z",
     "raw": {
       "id": 144909,
       "url": "https://jobicy.com/jobs/144909-senior-android-engineer-2",
@@ -3702,7 +3972,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T18:36:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.700Z",
+    "fetched_at": "2026-07-10T19:09:57.012Z",
     "raw": {
       "id": 144932,
       "url": "https://jobicy.com/jobs/144932-senior-security-engineer-grc-automation",
@@ -3760,7 +4030,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:21+00:00",
-    "fetched_at": "2026-07-10T13:46:35.700Z",
+    "fetched_at": "2026-07-10T19:09:57.012Z",
     "raw": {
       "id": 147980,
       "url": "https://jobicy.com/jobs/147980-node-js-react-tech-lead-latam-remote",
@@ -3812,7 +4082,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:11+00:00",
-    "fetched_at": "2026-07-10T13:46:35.701Z",
+    "fetched_at": "2026-07-10T19:09:57.012Z",
     "raw": {
       "id": 147975,
       "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
@@ -3867,7 +4137,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-28T12:46:09+00:00",
-    "fetched_at": "2026-07-10T13:46:35.701Z",
+    "fetched_at": "2026-07-10T19:09:57.013Z",
     "raw": {
       "id": 147974,
       "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
@@ -3910,7 +4180,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T21:21:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.702Z",
+    "fetched_at": "2026-07-10T19:09:57.014Z",
     "raw": {
       "id": 147705,
       "url": "https://jobicy.com/jobs/147705-cpq-architect",
@@ -3953,7 +4223,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T19:11:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.703Z",
+    "fetched_at": "2026-07-10T19:09:57.015Z",
     "raw": {
       "id": 142065,
       "url": "https://jobicy.com/jobs/142065-senior-model-based-system-engineer",
@@ -4008,7 +4278,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T17:31:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.704Z",
+    "fetched_at": "2026-07-10T19:09:57.016Z",
     "raw": {
       "id": 142111,
       "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
@@ -4060,7 +4330,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T17:21:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.705Z",
+    "fetched_at": "2026-07-10T19:09:57.017Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -4113,7 +4383,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T15:46:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.706Z",
+    "fetched_at": "2026-07-10T19:09:57.018Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -4156,7 +4426,7 @@
       "Programming"
     ],
     "posted_at": "2026-06-27T14:11:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.707Z",
+    "fetched_at": "2026-07-10T19:09:57.019Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -4214,7 +4484,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T10:56:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.709Z",
+    "fetched_at": "2026-07-10T19:09:57.021Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -4257,7 +4527,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T09:11:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.710Z",
+    "fetched_at": "2026-07-10T19:09:57.022Z",
     "raw": {
       "id": 142671,
       "url": "https://jobicy.com/jobs/142671-electrical-field-engineer-power-systems-engineer",
@@ -4313,7 +4583,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:41:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.712Z",
+    "fetched_at": "2026-07-10T19:09:57.024Z",
     "raw": {
       "id": 142760,
       "url": "https://jobicy.com/jobs/142760-software-engineer-video",
@@ -4367,7 +4637,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T07:31:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.713Z",
+    "fetched_at": "2026-07-10T19:09:57.026Z",
     "raw": {
       "id": 142770,
       "url": "https://jobicy.com/jobs/142770-senior-software-engineer-ai-applications",
@@ -4414,7 +4684,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:36:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.714Z",
+    "fetched_at": "2026-07-10T19:09:57.027Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -4472,7 +4742,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-27T05:31:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.716Z",
+    "fetched_at": "2026-07-10T19:09:57.029Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -4519,7 +4789,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T22:26:45+00:00",
-    "fetched_at": "2026-07-10T13:46:35.717Z",
+    "fetched_at": "2026-07-10T19:09:57.030Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -4564,7 +4834,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:26+00:00",
-    "fetched_at": "2026-07-10T13:46:35.718Z",
+    "fetched_at": "2026-07-10T19:09:57.031Z",
     "raw": {
       "id": 147871,
       "url": "https://jobicy.com/jobs/147871-senior-associate-automation-engineer",
@@ -4613,7 +4883,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:23+00:00",
-    "fetched_at": "2026-07-10T13:46:35.719Z",
+    "fetched_at": "2026-07-10T19:09:57.033Z",
     "raw": {
       "id": 147869,
       "url": "https://jobicy.com/jobs/147869-associate-automation-engineer",
@@ -4662,7 +4932,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-26T06:28:11+00:00",
-    "fetched_at": "2026-07-10T13:46:35.721Z",
+    "fetched_at": "2026-07-10T19:09:57.034Z",
     "raw": {
       "id": 147862,
       "url": "https://jobicy.com/jobs/147862-staff-software-engineer-media-experiences",
@@ -4721,7 +4991,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.724Z",
+    "fetched_at": "2026-07-10T19:09:57.038Z",
     "raw": {
       "id": 142467,
       "url": "https://jobicy.com/jobs/142467-staff-software-engineer-product-engineering-eu",
@@ -4780,7 +5050,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:16:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.727Z",
+    "fetched_at": "2026-07-10T19:09:57.041Z",
     "raw": {
       "id": 142468,
       "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
@@ -4835,7 +5105,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-06-25T17:01:41+00:00",
-    "fetched_at": "2026-07-10T13:46:35.729Z",
+    "fetched_at": "2026-07-10T19:09:57.043Z",
     "raw": {
       "id": 142478,
       "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
@@ -4854,258 +5124,6 @@
       "jobExcerpt": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.Our dedication to remote-first work, and strong culture of connection and global inclusion means that no matter your location, you’re&hellip;",
       "jobDescription": "<p><strong>Who we are </strong></p><p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a href=\"https://customers.twilio.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\"> hundreds of thousands of businesses </a>and empower millions of developers worldwide to craft personalized customer experiences.</p><p>Our dedication to <a href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" rel=\"nofollow ugc noopener\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br />We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!</p><p>.</p><p><strong>See yourself at Twilio</strong></p><p>Join the team as Twilio’s next Senior Cloud Software Engineer.</p><p><strong>About the job</strong></p><p>This position is needed to help out the Edge Services team. The team that is responsible for the ingestion of Twilio’s Web Console and API traffic, and its supporting services. As part of the Edge Platform organization, we provide building blocks for all Twilio customers and engineers alike, with high-availability and low-latency requirements, in order to effectively enable over billions of inbound requests every day. We take great pride in wearing customer’s shoes and making decisions inclusively. It is extremely important for us to build services with exceptionally high uptime, availability, and success rates.</p><p><strong>Responsibilities</strong></p><p>In this role, you’ll:</p><ul>\n<li><strong>Lead the execution end-to-end:</strong> Design and lead the implementation of scalable, high-availability cloud infrastructure, moving beyond feature work to drive long-term platform strategy while championing Twilio’s \"progress over perfection\" mindset to deliver continuous, high-impact shipments.</li>\n<li><strong>Operational Excellence:</strong> Own the reliability of services handling billions of weekly requests, setting the standard for operational best practices and incident response.</li>\n<li><strong>Infrastructure Strategy:</strong> Drive the evolution of our Infrastructure as Code (IaC) patterns using Terraform, ensuring modularity, security, and reusability across the organization. Always aim for a self -service approach such that it keeps the team’s TOIL at minimum.</li>\n<li><strong>Continuous optimization:</strong> Continuously looks for optimizations in our pipelines/releases/deliveries that balance rapid deployment with rigorous safety checks.</li>\n<li><strong>Technical Mentorship and Reviews:</strong> Actively mentor L1 and L2 engineers as well as help with code reviews, design docs, and pair programming to foster a culture of technical excellence.</li>\n<li><strong>Cross-Functional Influence:</strong> Collaborate with Cross teams, Product and Engineering leadership to align technical roadmap, debt reduction and new feature deliveries.</li>\n<li><strong>Continuous Innovation:</strong> Be an owner and continuously research and prototype to optimise Twilio’s API infrastructure to provide best in class service to the customers</li>\n</ul><p><strong>Qualifications </strong></p><p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p><p><strong>*Required:</strong></p><ul>\n<li>5+ years of professional experience in Cloud, DevOps, or Site Reliability Engineering (SRE), with deep proficiency in Python, Java, Go or another other language of choice.</li>\n<li>Architectural Depth: Proven track record of designing and deploying complex AWS cloud-native solutions (e.g., CloudFront, Multitenancies, DNS, Caching strategies, WAF, Lambda, S3, developing hosting solutions, etc) at scale.</li>\n<li>IaC Expert: Advanced experience with Terraform, including writing custom providers or managing state at scale across multiple environments.</li>\n<li>System Reliability: Deep understanding of SLIs, SLOs, Golden signals, Error Budgets and establishing monitoring strategies; in depth experience using Datadog, Grafana, or Athena to drive data-informed engineering decisions.</li>\n<li>Strong background in microservices architecture, specifically regarding traffic routing, rate limiting, and service discovery.</li>\n<li>Demonstrated ability to lead technical projects from conception to completion, navigating trade-offs and communicating complex technical concepts to non-technical stakeholders.</li>\n</ul><p><strong>Desired</strong>:</p><ul>\n<li>Experience implementing security-at-scale, including WAF management, DDoS mitigation, and Zero Trust architectures.</li>\n<li>Platform Engineering previous experience, passion for building \"Internal Developer Platforms\" that abstract infrastructure complexity for product teams.</li>\n<li>A proven track record of contributing to the cloud-native or networking ecosystem, also has contributions to public Terraform providers or similar open-source initiatives</li>\n</ul><p><strong>Location</strong></p><p>This role will be remote, and based in Spain.</p><p><strong>Travel </strong></p><p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p><p><strong>What We Offer</strong></p><p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p><p><strong>Twilio thinks big. Do you?</strong></p><p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\" rel=\"nofollow ugc noopener\" target=\"_blank\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\" rel=\"nofollow ugc noopener\" target=\"_blank\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p><p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\" rel=\"nofollow ugc noopener\" target=\"_blank\">please consider other open positions.</a></p><p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p>",
       "pubDate": "2026-06-25T17:01:41+00:00"
-    }
-  },
-  {
-    "id": "jobicy:142515",
-    "platform": "jobicy",
-    "external_id": "142515",
-    "title": "SAP Integration Developer",
-    "company": "ManTech",
-    "description": "General information Requisition # R67235 Locations USA-Remote Work Posting Date 04/23/2026 Security Clearance Required Public Trust/Suitability Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH! MANTECH seeks a motivated, career and customer-oriented SAP (Systems Analysis Program) Integration Developer to join our team. This is a remote position. The Defense Commissary Agency (DeCA) uses the ABAP development stack to develop end user business applications, and you would be responsible for the technical design, development, testing, deployment, and post release support of SAP Integration solution architecture. Responsibilities include but are not limited to: Modifying software systems based upon detailed software specifications and designs. Using sound software engineering principles to develop and test incremental code that is modifiable, efficient, reliable, and understandable. Designing, coding, and testing functional components of information systems according to project specifications. Developing project documentation and user training materials according to program specifications. Producing database extracts to support system data requirements and reporting. Working with all stakeholders to ensure complete and functioning systems that meet all requirements. Recommending, and when approved, implementing process and policy improvements. Minimum Qualifications: A bachelor’s degree and least 3 years’ experience in incorporating a combination of SAP S/4HANA PI/PO skills and modern API framework to enable system-to-system, communication, data exchange, and integration is required. Significant experience modifying software based upon complex software specifications and technical designs. Proven experience using sound software engineering principles to develop and test incremental code for reliability and efficiency. Experience designing code and testing functional components of information systems according to specific project requirements. Experience developing technical project documentation and comprehensive user training materials. Experience producing database extracts and maintaining system baselines and configuration management items. Experience working across a large team to drive a technical agenda and working with complex, intertwined systems and data flows Willing to travel up to 10% of the time. Preferred Qualifications: Experience creating, maintaining, and communicating complex information technology documentation. Good knowledge of user interfaces, SAP development tools, UI frameworks aand SAP Business Technology Platform. SAP and Profressional Certifications desired Clearance Requirements: Must be a US Citizen and be willing and able to undergo a Tier 2 Investigation with favorable results prior to starting this position. Physical Requirements: The person in this position frequently communicates with co-workers, management and customers, which may involve delivering presentations; must be able to exchange accurate information in these situations. The person in this position will need to be able to operate a computer and other office productivity machinery, such as a calculator, copy machine and computer printer. The projected compensation range for this position is $75,800.00-$127,000.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation. If you need a reasonable accommodation to apply for a position with MANTECH, please email us at careers@mantech.com and provide your name and contact information.",
-    "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Programming"
-    ],
-    "posted_at": "2026-06-25T16:16:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.730Z",
-    "raw": {
-      "id": 142515,
-      "url": "https://jobicy.com/jobs/142515-sap-integration-developer",
-      "jobSlug": "142515-sap-integration-developer",
-      "jobTitle": "SAP Integration Developer",
-      "companyName": "ManTech",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/265c7fe8-221-1.png",
-      "jobIndustry": [
-        "Programming"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "General information Requisition # R67235 Locations USA-Remote Work Posting Date 04/23/2026 Security Clearance Required Public Trust/Suitability Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner&hellip;",
-      "jobDescription": "<h2> General information </h2><p> Requisition # R67235 Locations USA-Remote Work Posting Date 04/23/2026 Security Clearance Required Public Trust/Suitability Remote Type Fully Remote Time Type Full time </p><h2> Description &amp; Requirements </h2><p> Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with MANTECH!</p><p><b>MANTECH </b>seeks a motivated, career and customer-oriented <b>SAP</b><b> (Systems Analysis Program) </b><b>Integration Developer </b>to join our team. This is a <b>remote</b> position.</p><p>The Defense Commissary Agency (DeCA) uses the ABAP development stack to develop end user business applications, and you would be responsible for the technical design, development, testing, deployment, and post release support of SAP Integration solution architecture. </p><p><b>Responsibilities include but are not limited to:</b></p><ul><li>Modifying software systems based upon detailed software specifications and designs.</li><li>Using sound software engineering principles to develop and test incremental code that is modifiable, efficient, reliable, and understandable.</li><li>Designing, coding, and testing functional components of information systems according to project specifications.</li><li>Developing project documentation and user training materials according to program specifications.</li><li>Producing database extracts to support system data requirements and reporting.</li><li>Working with all stakeholders to ensure complete and functioning systems that meet all requirements.</li><li>Recommending, and when approved, implementing process and policy improvements.</li></ul><p><b>Minimum Qualifications:</b></p><ul><li>A bachelor’s degree and least 3 years’ experience in incorporating a combination of SAP S/4HANA PI/PO skills and modern API framework to enable system-to-system, communication, data exchange, and integration is required.</li><li>Significant experience modifying software based upon complex software specifications and technical designs.</li><li>Proven experience using sound software engineering principles to develop and test incremental code for reliability and efficiency.</li><li>Experience designing code and testing functional components of information systems according to specific project requirements.</li><li>Experience developing technical project documentation and comprehensive user training materials.</li><li>Experience producing database extracts and maintaining system baselines and configuration management items.</li><li>Experience working across a large team to drive a technical agenda and working with complex, intertwined systems and data flows Willing to travel up to 10% of the time.</li></ul><p><b>Preferred Qualifications:</b></p><ul><li>Experience creating, maintaining, and communicating complex information technology documentation.</li><li>Good knowledge of user interfaces, SAP development tools, UI frameworks aand SAP Business Technology Platform.</li><li>SAP and Profressional Certifications desired</li></ul><p><b>Clearance Requirements:</b></p><ul><li>Must be a US Citizen and be willing and able to undergo a Tier 2 Investigation with favorable results prior to starting this position.</li></ul><p><b>Physical Requirements:</b></p><ul><li>The person in this position frequently communicates with co-workers, management and customers, which may involve delivering presentations; must be able to exchange accurate information in these situations. The person in this position will need to be able to operate a computer and other office productivity machinery, such as a calculator, copy machine and computer printer.</li></ul><p>\nThe projected compensation range for this position is $75,800.00-$127,000.00. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, MANTECH invests in its employees beyond just compensation. MANTECH’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short-term and long-term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections. <br>\n<em>MANTECH considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.<br />If you need a reasonable accommodation to apply for a position with MANTECH, please email us at <a href=\"mailto:careers@mantech.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers@mantech.com</a> and provide your name and contact information.</em></p>",
-      "pubDate": "2026-06-25T16:16:43+00:00",
-      "salaryMin": 75800,
-      "salaryMax": 127000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:142527",
-    "platform": "jobicy",
-    "external_id": "142527",
-    "title": "Software Engineer II, Full-Stack (Marketplace Performance)",
-    "company": "Affirm",
-    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. The Marketplace Performance team in the Direct to Consumer org builds the discovery platforms behind Affirm’s deals feed, affiliates, payment attribution and merchandising systems. Our mission is to help shoppers find the right merchant and financing for their needs. As a member of our team, you’ll ship features that make it faster and easier for shoppers to find the right merchant and financing for their needs. You’ll partner closely with Product, Design, and other engineering teams to scope work, write clean and well-tested code, review PRs, and ship new functionality iteratively. We value curiosity, ownership, and empathy for our customers. Join us to grow your impact while building dependable features for our Marketplace. What You'll Do With the support of your team’s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will support the operations and availability of your team’s artifacts by creating and monitoring metrics, escalating when needed, and supporting “keep the lights on” &amp; on-call efforts. You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process. What We Look For You have a total of 1.5+ years of experience as a software engineer. You have experience shipping web apps using declarative UI frameworks like React or Vue. You have experience designing, developing and launching APIs at scale using languages like Python or Kotlin. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews. Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders. You have strong verbal and written communication skills that support effective collaboration with our global engineering team. This position requires either equivalent practical experience or a Bachelor’s degree in a related field. Pay Grade - L Equity Grade - 5 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company). CAN base pay range per year: $125,000 - $175,000 This posting is for an existing vacancy. #LI-Remote Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities. We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process. [For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.",
-    "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CAD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Canada",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "kotlin",
-      "react",
-      "vue"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-25T15:51:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.731Z",
-    "raw": {
-      "id": 142527,
-      "url": "https://jobicy.com/jobs/142527-software-engineer-ii-full-stack-marketplace-performance",
-      "jobSlug": "142527-software-engineer-ii-full-stack-marketplace-performance",
-      "jobTitle": "Software Engineer II, Full-Stack (Marketplace Performance)",
-      "companyName": "Affirm",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fac7714c-221-1.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Canada",
-      "jobLevel": "Midweight",
-      "jobExcerpt": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.The Marketplace Performance team in the Direct to Consumer org builds the discovery platforms behind Affirm’s deals feed, affiliates, payment attribution and merchandising systems. Our mission is to&hellip;",
-      "jobDescription": "<p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p><p>The Marketplace Performance team in the Direct to Consumer org builds the discovery platforms behind Affirm’s deals feed, affiliates, payment attribution and merchandising systems. Our mission is to help shoppers find the right merchant and financing for their needs. As a member of our team, you’ll ship features that make it faster and easier for shoppers to find the right merchant and financing for their needs. You’ll partner closely with Product, Design, and other engineering teams to scope work, write clean and well-tested code, review PRs, and ship new functionality iteratively. We value curiosity, ownership, and empathy for our customers. Join us to grow your impact while building dependable features for our Marketplace.</p><h2>What You'll Do</h2><ul>\n<li>With the support of your team’s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work.</li>\n<li>You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design &amp; analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.</li>\n<li>You will support the operations and availability of your team’s artifacts by creating and monitoring metrics, escalating when needed, and supporting “keep the lights on” &amp; on-call efforts.</li>\n<li>You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process.<br /></li>\n</ul><h2>What We Look For</h2><ul>\n<li>You have a total of 1.5+ years of experience as a software engineer.</li>\n<li>You have experience shipping web apps using declarative UI frameworks like React or Vue.</li>\n<li>You have experience designing, developing and launching APIs at scale using languages like Python or Kotlin.</li>\n<li>You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.</li>\n<li>You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.</li>\n<li>Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.</li>\n<li>You have strong verbal and written communication skills that support effective collaboration with our global engineering team.</li>\n<li>This position requires either equivalent practical experience or a Bachelor’s degree in a related field.</li>\n</ul><p><strong>Pay Grade - L</strong><br><strong>Equity Grade - 5</strong><br />Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.<br />Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).<br />CAN base pay range per year: $125,000 - $175,000<br />This posting is for an existing vacancy.<br />#LI-Remote</p><p>Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.</p><p>We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: </p><ul>\n<li>Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents </li>\n<li>Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses</li>\n<li>Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge</li>\n<li>ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount</li>\n</ul><p>We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.</p><p>[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.</p><p>By clicking \"Submit Application,\" you acknowledge that you have read Affirm's <a href=\"https://www.affirm.com/global-candidate-privacy-notice\" target=\"_blank\" rel=\"nofollow ugc noopener\">Global Candidate Privacy Notice</a> and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.</p>",
-      "pubDate": "2026-06-25T15:51:42+00:00",
-      "salaryMin": 125000,
-      "salaryMax": 175000,
-      "salaryCurrency": "CAD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:142566",
-    "platform": "jobicy",
-    "external_id": "142566",
-    "title": "Sr Systems Engineer - Federal/DOD (Remote: DC/MD/VA)",
-    "company": "Veeam Software",
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands. About the Role: The Sr. Systems Engineer is responsible for working closely with the federal sales department and engineering management to help inform, educate and influence partners, resellers and end users of our product offerings. Responsibilities excellent presentation skills and present Veeam messaging to varying numbers and levels of decision makers within DoD. You will be responsible for the creation of content and delivery of demonstrations to support Veeam Federal messaging. The successful candidate will be a self-motivated, technically competent Veeam Systems Engineer with an ability to partner with other groups within the sales and support organization to close sales. The role requires strengths and a background in defining architectural strategies to guide customers toward the adoption of Veeam technologies. **Due to business need, candidates need to reside in the DC/MD/VA area** What you’ll do: Conduct live and virtual customer meeting presentations and demonstrations Implement and manage POCs to technical closure Support lead generation activities such as events, webinars, user groups, etc. Collaborate with the customer/partner to establish and translate business objectives into technical requirements Independently consult with customer base to provide technical expertise on data protection Work closely with the sales department to secure new partners and customers Work closely with Product Management to provide customer feedback Providing pre-sales support to customers as they evaluate Veeam software Ability to travel 50 – 75% What you’ll bring: Active - Top Secret Clearance Federal mission/program experience (DoD/IC) Proficiency in key technologies, including VMware vSphere, Microsoft Hyper-V, AHV, RHV, Windows Server, Microsoft SQL Server, Microsoft 365, AWS, Azure and Google Cloud Platforms (govt cloud) as well as other enterprise applications Expert knowledge of backup/DR strategies Expert knowledge of both virtual production and backup storage NIST 800, STIG, AI Platforms (Varonis/BIG ID) Knowledge of FedRAMP and ATO process Demonstrated solution sales and/or technical presales experience preferred Industry-based experience with experience with data protection technologies Experience working with monitoring tools and frameworks Experience in data life-cycle management with IT audit requirements Federal System Integrators Ability to work independently with limited direction in a fast-paced environment; must be a high-energy, motivated self-starter and be able to learn new technologies quickly Ability to adapt to changes in roles and responsibilities Excellent time management skills required Deployment of software solutions into complex environments Deep level understanding of Veeam and/or similar technologies Excellent verbal and written communication skills; must be able to present to groups Industry relevant professional certifications is desirable What we offer: Unlimited paid time off, plus 3 global VeeaMe Days for self-care Paid parental leave: 8 weeks for all parents, 16 weeks for birthing parents Medical, dental, and vision coverage from day one Mental health support, therapy sessions, and digital wellness tools via SupportLinc EAP 401(k) retirement plan with matching contributions up to annual limits Fertility, adoption, and surrogacy support through Maven, plus paid volunteer time AirVet: 24/7 virtual veterinary care at no cost Legal services, identity protection, and supplemental health insurance options Tax-advantaged spending accounts for healthcare, dependent care, and commuting Professional training and education, including courses and workshops, internal meetups, and unlimited access to our online learning platforms (LinkedIn Learning, Athena, O’Reilly) and mentoring through our MentorLab program #LI-KS2 What you'll get Unlimited paid time off, 12 paid holidays, plus 4 extra global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares Paid parental leave: 8 weeks for all parents, 16 weeks for birthing parents Medical, dental, and vision coverage starting on your first day Mental health support, therapy sessions, and digital wellness tools via our Employee Assistance Program 401(k) retirement plan with company matching contributions Fertility, adoption, and surrogacy support through Maven, plus paid volunteer time AirVet: 24/7 virtual veterinary care at no cost Legal services, identity protection, and supplemental health insurance options Tax-advantaged spending accounts for healthcare, dependent care, and commuting Opportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning Compensation Transparency Veeam is committed to pay transparency and equitable compensation. For this role, the compensation range below reflects the expected total target compensation (TTC), inclusive of base pay and a competitive performance-based bonus. For roles with a commission plan, the compensation range represents On Target Earnings (OTE), which includes base salary plus variable commission. When determining compensation, Veeam takes into consideration factors such as experience, education, skills, and geographic zone. Offers are typically made below the midpoint of the range. In addition to compensation, Veeam provides a comprehensive benefits package, including health coverage, retirement plans, and unlimited time off. U.S. Geographic Zones &amp; Compensation Ranges (TTC / OTE) Zone 1: San Francisco Bay Area, New York City Boroughs$202,000—$375,100 USDZone 2: Washington, California (excluding San Francisco Bay Area)$185,100—$343,800 USDZone 3: Texas, Illinois, North Carolina, Colorado, Massachusetts, Pennsylvania, Virginia, Oregon, Nevada, Hawaii, New York (excluding NYC boroughs); Sales roles located in Georgia, Ohio, and Arizona$168,300—$312,600 USDZone 4: All other US locations$146,400—$271,900 USD Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential. Please note that any personal data collected from you during the recruitment process will be processed in accordance with our Recruiting Privacy Notice . The Privacy Notice sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us in connection with our recruitment processes. By applying for this position, you consent to the processing of your personal data in accordance with our Recruiting Privacy Notice . By submitting your application, you acknowledge that the information provided in your job application and any supporting documents is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification of information may result in disqualification from consideration for employment or, if discovered after employment begins, termination of employment.",
-    "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "sqlserver",
-      "aws",
-      "gcp",
-      "azure"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-25T15:36:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.735Z",
-    "raw": {
-      "id": 142566,
-      "url": "https://jobicy.com/jobs/142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
-      "jobSlug": "142566-sr-systems-engineer-federal-dod-remote-dc-md-va",
-      "jobTitle": "Sr Systems Engineer - Federal/DOD (Remote: DC/MD/VA)",
-      "companyName": "Veeam Software",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/f7716b71-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-      "jobDescription": "<p>Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.</p><p><strong>About the Role:</strong></p><p>The Sr. Systems Engineer is responsible for working closely with the federal sales department and engineering management to help inform, educate and influence partners, resellers and end users of our product offerings. Responsibilities excellent presentation skills and present Veeam messaging to varying numbers and levels of decision makers within DoD. You will be responsible for the creation of content and delivery of demonstrations to support Veeam Federal messaging. The successful candidate will be a self-motivated, technically competent Veeam Systems Engineer with an ability to partner with other groups within the sales and support organization to close sales. The role requires strengths and a background in defining architectural strategies to guide customers toward the adoption of Veeam technologies. </p><p><strong>**Due to business need, candidates need to reside in the DC/MD/VA area**</strong></p><p><strong>What you’ll do:</strong></p><ul>\n<li>Conduct live and virtual customer meeting presentations and demonstrations</li>\n<li>Implement and manage POCs to technical closure</li>\n<li>Support lead generation activities such as events, webinars, user groups, etc.</li>\n<li>Collaborate with the customer/partner to establish and translate business objectives into technical requirements</li>\n<li>Independently consult with customer base to provide technical expertise on data protection</li>\n<li>Work closely with the sales department to secure new partners and customers</li>\n<li>Work closely with Product Management to provide customer feedback</li>\n<li>Providing pre-sales support to customers as they evaluate Veeam software</li>\n<li>Ability to travel 50 – 75%</li>\n</ul><p><strong>What you’ll bring:</strong></p><ul>\n<li>Active - Top Secret Clearance</li>\n<li>Federal mission/program experience (DoD/IC)</li>\n<li>Proficiency in key technologies, including VMware vSphere, Microsoft Hyper-V, AHV, RHV, Windows Server, Microsoft SQL Server, Microsoft 365, AWS, Azure and Google Cloud Platforms (govt cloud) as well as other enterprise applications</li>\n<li>Expert knowledge of backup/DR strategies</li>\n<li>Expert knowledge of both virtual production and backup storage</li>\n<li>NIST 800, STIG, AI Platforms (Varonis/BIG ID)</li>\n<li>Knowledge of FedRAMP and ATO process</li>\n<li>Demonstrated solution sales and/or technical presales experience preferred</li>\n<li>Industry-based experience with experience with data protection technologies</li>\n<li>Experience working with monitoring tools and frameworks</li>\n<li>Experience in data life-cycle management with IT audit requirements</li>\n<li>Federal System Integrators</li>\n<li>Ability to work independently with limited direction in a fast-paced environment; must be a high-energy, motivated self-starter and be able to learn new technologies quickly</li>\n<li>Ability to adapt to changes in roles and responsibilities</li>\n<li>Excellent time management skills required</li>\n<li>Deployment of software solutions into complex environments</li>\n<li>Deep level understanding of Veeam and/or similar technologies</li>\n<li>Excellent verbal and written communication skills; must be able to present to groups Industry relevant professional certifications is desirable</li>\n</ul><p><strong> </strong><strong>What we offer:</strong></p><ul>\n<li>Unlimited paid time off, plus 3 global VeeaMe Days for self-care</li>\n<li>Paid parental leave: 8 weeks for all parents, 16 weeks for birthing parents</li>\n<li>Medical, dental, and vision coverage from day one</li>\n<li>Mental health support, therapy sessions, and digital wellness tools via SupportLinc EAP</li>\n<li>401(k) retirement plan with matching contributions up to annual limits</li>\n<li>Fertility, adoption, and surrogacy support through Maven, plus paid volunteer time</li>\n<li>AirVet: 24/7 virtual veterinary care at no cost</li>\n<li>Legal services, identity protection, and supplemental health insurance options</li>\n<li>Tax-advantaged spending accounts for healthcare, dependent care, and commuting</li>\n<li>Professional training and education, including courses and workshops, internal meetups, and unlimited access to our online learning platforms (LinkedIn Learning, Athena, O’Reilly) and mentoring through our MentorLab program</li>\n</ul><p>#LI-KS2</p><p><strong>What you'll get</strong></p><ul>\n<li>Unlimited paid time off, 12 paid holidays, plus 4 extra global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares</li>\n<li>Paid parental leave: 8 weeks for all parents, 16 weeks for birthing parents</li>\n<li>Medical, dental, and vision coverage starting on your first day</li>\n<li>Mental health support, therapy sessions, and digital wellness tools via our Employee Assistance Program</li>\n<li>401(k) retirement plan with company matching contributions</li>\n<li>Fertility, adoption, and surrogacy support through Maven, plus paid volunteer time</li>\n<li>AirVet: 24/7 virtual veterinary care at no cost</li>\n<li>Legal services, identity protection, and supplemental health insurance options</li>\n<li>Tax-advantaged spending accounts for healthcare, dependent care, and commuting</li>\n<li>Opportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning</li>\n</ul><p><strong>Compensation Transparency</strong></p><p>Veeam is committed to pay transparency and equitable compensation. For this role, the compensation range below reflects the expected total target compensation (TTC), inclusive of base pay and a competitive performance-based bonus. For roles with a commission plan, the compensation range represents On Target Earnings (OTE), which includes base salary plus variable commission. When determining compensation, Veeam takes into consideration factors such as experience, education, skills, and geographic zone. Offers are typically made below the midpoint of the range.</p><p>In addition to compensation, Veeam provides a comprehensive benefits package, including health coverage, retirement plans, and unlimited time off.</p><strong>U.S. Geographic Zones &amp; Compensation Ranges (TTC / OTE)</strong><p>Zone 1: San Francisco Bay Area, New York City Boroughs$202,000—$375,100 USDZone 2: Washington, California (excluding San Francisco Bay Area)$185,100—$343,800 USDZone 3: Texas, Illinois, North Carolina, Colorado, Massachusetts, Pennsylvania, Virginia, Oregon, Nevada, Hawaii, New York (excluding NYC boroughs); Sales roles located in Georgia, Ohio, and Arizona$168,300—$312,600 USDZone 4: All other US locations$146,400—$271,900 USD\n<strong>Veeam Software is an equal opportunity employer</strong> and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential. </p><p>Please note that any personal data collected from you during the recruitment process will be processed in accordance with our <a href=\"https://www.veeam.com/recruiting-privacy-notice.html\" rel=\"nofollow ugc noopener\" target=\"_blank\">Recruiting Privacy Notice</a>. </p><p>The Privacy Notice sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us in connection with our recruitment processes. </p><p>By applying for this position, you consent to the processing of your personal data in accordance with our <a href=\"https://www.veeam.com/recruiting-privacy-notice.html\" rel=\"nofollow ugc noopener\" target=\"_blank\">Recruiting Privacy Notice</a>.<br /><strong>By submitting your application, you acknowledge that the information provided in your job application and any supporting documents is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification of information may result in disqualification from consideration for employment or, if discovered after employment begins, termination of employment.</strong></p>",
-      "pubDate": "2026-06-25T15:36:43+00:00",
-      "salaryMin": 146400,
-      "salaryMax": 375100,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:142662",
-    "platform": "jobicy",
-    "external_id": "142662",
-    "title": "Full stack developer (AI Solutions)",
-    "company": "PSI CRO",
-    "description": "Company Description PSI is a leading Contract Research Organization (CRO) with 30 years of experience in the pharmaceutical industry. Originated in Switzerland, PSI is a privately owned, full-service CRO with a global reach, supporting clinical trials across multiple countries and continents. Our reputation for being highly selective about the projects we undertake highlights our commitment to delivering high-quality, timely services across a broad spectrum of therapeutic indications. At PSI, we foster an environment where a diverse range of colleagues feel welcomed and valued. Our inclusive culture is a cornerstone of our success, enabling us to attract and retain top talent globally. We are not just about conducting clinical trials; we are about building a community where every team member has the opportunity to thrive and contribute to groundbreaking advancements in the pharmaceutical industry. Job Description As a Full stack Developer, you will be involved in development of projects for internal clients and will provide quality coding to support PSI business processes and operations with the focus on AI solutions. Full-time employment based in Lithuania You will: Architect, develop and maintain business applications Process user requests for developing of new and support for existing IT systems Prepare documentation related to development and maintenance of business applications Execute and implement software tests, participate in code reviews Follow the development standards applied within the department Track the development, maintenance and related tasks in the tracking system used within the team Follow the progress of systems development technologies and advance professional skills as necessary Qualifications Must have: BSc/BA in computer science, software engineering or relevant discipline Full working proficiency in English Knowledge of web technologies including JS(ES+) Knowledge of C# language, Microsoft .NET frameworks, technologies and best practices Knowledge of Transact SQL, MS SQL functions, stored procedures and other SQL objects Good to have: Experience with Machine Learning, Deep Learning, Neural Networks (CNNs, RNNs, Transformers), Natural Language Processing (NLP), Computer Vision Python development experience Experience with Blazor Additional Information Stable, privately-owned company, organically growing since 1995 Opportunity to work remotely in Lithuania Intensive induction program, technical and industry-related trainings for an optimal start and continuous development Diverse projects that include but are not limited to web and desktop apps, ERP system, BPM system, document management system, AI initiatives and more Friendly and supportive atmosphere in a committed team International environment, with colleagues around the world Opportunities to quickly see the results of your work Gross salary range for Middle Developer: 3200-5000 EUR monthly (based your overall experience and qualifications) Corporate benefits: performance-based bonus, supplementary health insurance, annual team events",
-    "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Lithuania",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "python",
-      "machine-learning"
-    ],
-    "tags": [
-      "Programming"
-    ],
-    "posted_at": "2026-06-25T14:41:42+00:00",
-    "fetched_at": "2026-07-10T13:46:35.736Z",
-    "raw": {
-      "id": 142662,
-      "url": "https://jobicy.com/jobs/142662-full-stack-developer-ai-solutions",
-      "jobSlug": "142662-full-stack-developer-ai-solutions",
-      "jobTitle": "Full stack developer (AI Solutions)",
-      "companyName": "PSI CRO",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/ee9775c6-221.jpg",
-      "jobIndustry": [
-        "Programming"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Lithuania",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Company DescriptionPSI is a leading Contract Research Organization (CRO) with 30 years of experience in the pharmaceutical industry. Originated in Switzerland, PSI is a privately owned, full-service CRO with a global reach, supporting clinical trials across multiple countries and continents. Our reputation for being highly selective about the projects we undertake highlights our commitment to&hellip;",
-      "jobDescription": "<h2>Company Description</h2><p>PSI is a leading Contract Research Organization (CRO) with 30 years of experience in the pharmaceutical industry. Originated in Switzerland, PSI is a privately owned, full-service CRO with a global reach, supporting clinical trials across multiple countries and continents. Our reputation for being highly selective about the projects we undertake highlights our commitment to delivering high-quality, timely services across a broad spectrum of therapeutic indications.</p><p>At PSI, we foster an environment where a diverse range of colleagues feel welcomed and valued. Our inclusive culture is a cornerstone of our success, enabling us to attract and retain top talent globally.</p><p>We are not just about conducting clinical trials; we are about building a community where every team member has the opportunity to thrive and contribute to groundbreaking advancements in the pharmaceutical industry.</p><h2>Job Description</h2><p>As a Full stack Developer, you will be involved in development of projects for internal clients and will provide quality coding to support PSI business processes and operations with the focus on AI solutions.</p><p><u>Full-time employment based in Lithuania</u></p><p><strong>You will:</strong></p><ul><li>Architect, develop and maintain business applications</li><li>Process user requests for developing of new and support for existing IT systems</li><li>Prepare documentation related to development and maintenance of business applications</li><li>Execute and implement software tests, participate in code reviews</li><li>Follow the development standards applied within the department</li><li>Track the development, maintenance and related tasks in the tracking system used within the team</li><li>Follow the progress of systems development technologies and advance professional skills as necessary</li></ul><h2>Qualifications</h2><p>Must have:</p><ul><li>BSc/BA in computer science, software engineering or relevant discipline</li><li>Full working proficiency in English</li><li>Knowledge of web technologies including JS(ES+)</li><li>Knowledge of C# language, Microsoft .NET frameworks, technologies and best practices</li><li>Knowledge of Transact SQL, MS SQL functions, stored procedures and other SQL objects</li></ul><p>Good to have:</p><ul><li>Experience with Machine Learning, Deep Learning, Neural Networks (CNNs, RNNs, Transformers), Natural Language Processing (NLP), Computer Vision</li><li>Python development experience</li><li>Experience with Blazor</li></ul><h2>Additional Information</h2><ul><li>Stable, privately-owned company, organically growing since 1995</li><li>Opportunity to work remotely in Lithuania</li><li>Intensive induction program, technical and industry-related trainings for an optimal start and continuous development</li><li>Diverse projects that include but are not limited to web and desktop apps, ERP system, BPM system, document management system, AI initiatives and more</li><li>Friendly and supportive atmosphere in a committed team</li><li>International environment, with colleagues around the world</li><li>Opportunities to quickly see the results of your work</li><li>Gross salary range for Middle Developer: 3200-5000 EUR monthly (based your overall experience and qualifications)</li><li>Corporate benefits: performance-based bonus, supplementary health insurance, annual team events</li></ul>",
-      "pubDate": "2026-06-25T14:41:42+00:00",
-      "salaryMin": 38400,
-      "salaryMax": 60000,
-      "salaryCurrency": "EUR",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:142756",
-    "platform": "jobicy",
-    "external_id": "142756",
-    "title": "Distributed Systems Engineer",
-    "company": "MLabs",
-    "description": "Location: Remote - Flexible work location (Preference is North America) Remote | Full-time Compensation: $180K - $300K We are hiring on behalf of our client who is an innovative organization building the next generation of market infrastructure to redefine how value is discovered, priced, and distributed in real time. The mission centers on bringing structure, transparency, and efficiency to systems where value is currently fragmented and opaque. Operating at the intersection of distributed systems, market structure, and applied cryptography, the firm is defining a new category for MEV distribution that merges economic efficiency with emerging regulatory frameworks. Based in New York and San Francisco, the organization consists of a high-leverage team focused on building systems that impact real-world economic flows. The successful candidate will design and build core systems from first principles. This is an opportunity to turn ambiguous problems into production-grade infrastructure, defining architecture and making critical tradeoffs in a fast-moving environment. The role involves working across the full stack of real-time distributed systems, including data ingestion, low-latency execution, and auction mechanisms. Key Responsibilities System Architecture: Design and implement the core system architecture for a real-time, high-stakes distributed platform. End-to-End Ownership: Own systems from initial concept and design through implementation and production deployment. Technical Problem Solving: Translate ambiguous, high-level objectives into concrete, scalable technical solutions. Performance Optimization: Identify and resolve performance bottlenecks, latency constraints, and complex system failures. Technical Leadership: Drive technical direction across various components and services while establishing engineering best practices and code quality standards. Collaboration: Work closely with product and business functions to ensure technical decisions align with intended economic outcomes. Cultural Impact: Define engineering standards, influence future hiring, and set the cultural bar for the engineering organization. Requirements Systems Programming: Advanced proficiency in Rust and strong systems programming experience. Distributed Systems: Extensive experience building or operating distributed systems with real-world constraints regarding latency, scale, and fault tolerance. Architecture &amp; Design: A proven ability to design complex systems from scratch, demonstrating a strong intuition for tradeoffs between performance, complexity, and reliability. Autonomy: A track record of taking end-to-end ownership of products or systems in ambiguous environments with minimal structure. Modern Workflows: Experience leveraging AI tools and agent-based workflows to accelerate the development lifecycle. Preferred Qualifications Background in systems where both correctness and low latency are mission-critical. Experience with blockchain consensus internals, validator client architecture, or low-level protocol development. Familiarity with virtual machines or low-level execution environments. Benefits Competitive Compensation: Competitive base salary commensurate with experience. Equity: Significant equity stake as an early member of the engineering team. High Impact: Opportunity to shape the foundational engineering culture and build systems that mediate real economic flows. Interview Process The following stages outline the evaluation process for this role: Initial Interview: A discussion with the Founder/CEO to align on vision and role expectations. Technical Assignment: A take-home assignment designed to evaluate practical problem-solving and architectural skills. Technical Review: A deep-dive interview focused on the review of the take-home assignment and broader technical expertise. Due to the high volume of applications we anticipate, we regret that we are unable to provide individual feedback to all candidates. If you do not hear back from us within 4 weeks of your application, please assume that you have not been successful on this occasion. We genuinely appreciate your interest and wish you the best in your job search. Commitment to Equality and Accessibility: At MLabs, we are committed to offer equal opportunities to all candidates. We ensure no discrimination, accessible job adverts, and providing information in accessible formats. Our goal is to foster a diverse, inclusive workplace with equal opportunities for all. If you need any reasonable adjustments during any part of the hiring process or you would like to see the job-advert in an accessible format please let us know at the earliest opportunity by emailing human-resources@mlabs.city. MLabs Ltd collects and processes the personal information you provide such as your contact details, work history, resume, and other relevant data for recruitment purposes only. This information is managed securely in accordance with MLabs Ltd’s Privacy Policy and Information Security Policy, and in compliance with applicable data protection laws. Your data may be shared only with clients and trusted partners where necessary for recruitment purposes. You may request the deletion of your data or withdraw your consent at any time by contacting legal@mlabs.city.",
-    "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "rust",
-      "blockchain"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-06-25T12:46:43+00:00",
-    "fetched_at": "2026-07-10T13:46:35.737Z",
-    "raw": {
-      "id": 142756,
-      "url": "https://jobicy.com/jobs/142756-distributed-systems-engineer",
-      "jobSlug": "142756-distributed-systems-engineer",
-      "jobTitle": "Distributed Systems Engineer",
-      "companyName": "MLabs",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/635fcb8b-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Location: Remote - Flexible work location (Preference is North America)Remote | Full-timeCompensation: $180K - $300KWe are hiring on behalf of our client who is an innovative organization building the next generation of market infrastructure to redefine how value is discovered, priced, and distributed in real time. The mission centers on bringing structure, transparency, and efficiency to systems where&hellip;",
-      "jobDescription": "<p><strong>Location: </strong>Remote - Flexible work location (Preference is North America)</p><p><strong>Remote | Full-time</strong></p><p><strong>Compensation: </strong>$180K - $300K</p><p>We are hiring on behalf of our client who is an innovative organization building the next generation of market infrastructure to redefine how value is discovered, priced, and distributed in real time. The mission centers on bringing structure, transparency, and efficiency to systems where value is currently fragmented and opaque.</p><p>Operating at the intersection of distributed systems, market structure, and applied cryptography, the firm is defining a new category for MEV distribution that merges economic efficiency with emerging regulatory frameworks. Based in New York and San Francisco, the organization consists of a high-leverage team focused on building systems that impact real-world economic flows.</p><p>The successful candidate will design and build core systems from first principles. This is an opportunity to turn ambiguous problems into production-grade infrastructure, defining architecture and making critical tradeoffs in a fast-moving environment. The role involves working across the full stack of real-time distributed systems, including data ingestion, low-latency execution, and auction mechanisms.</p><p><strong>Key Responsibilities</strong></p><ul><li><strong>System Architecture:</strong> Design and implement the core system architecture for a real-time, high-stakes distributed platform.</li><li><strong>End-to-End Ownership:</strong> Own systems from initial concept and design through implementation and production deployment.</li><li><strong>Technical Problem Solving:</strong> Translate ambiguous, high-level objectives into concrete, scalable technical solutions.</li><li><strong>Performance Optimization:</strong> Identify and resolve performance bottlenecks, latency constraints, and complex system failures.</li><li><strong>Technical Leadership:</strong> Drive technical direction across various components and services while establishing engineering best practices and code quality standards.</li><li><strong>Collaboration:</strong> Work closely with product and business functions to ensure technical decisions align with intended economic outcomes.</li><li><strong>Cultural Impact:</strong> Define engineering standards, influence future hiring, and set the cultural bar for the engineering organization.</li></ul><p><strong>Requirements</strong></p><ul><li><strong>Systems Programming:</strong> Advanced proficiency in Rust and strong systems programming experience.</li><li><strong>Distributed Systems:</strong> Extensive experience building or operating distributed systems with real-world constraints regarding latency, scale, and fault tolerance.</li><li><strong>Architecture &amp; Design:</strong> A proven ability to design complex systems from scratch, demonstrating a strong intuition for tradeoffs between performance, complexity, and reliability.</li><li><strong>Autonomy:</strong> A track record of taking end-to-end ownership of products or systems in ambiguous environments with minimal structure.</li><li><strong>Modern Workflows:</strong> Experience leveraging AI tools and agent-based workflows to accelerate the development lifecycle.</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Background in systems where both correctness and low latency are mission-critical.</li><li>Experience with blockchain consensus internals, validator client architecture, or low-level protocol development.</li><li>Familiarity with virtual machines or low-level execution environments.</li></ul><p><strong>Benefits</strong></p><ul><li><strong>Competitive Compensation:</strong> Competitive base salary commensurate with experience.</li><li><strong>Equity:</strong> Significant equity stake as an early member of the engineering team.</li><li><strong>High Impact:</strong> Opportunity to shape the foundational engineering culture and build systems that mediate real economic flows.</li></ul><p><strong>Interview Process</strong></p><p>The following stages outline the evaluation process for this role:</p><ol><li><strong>Initial Interview:</strong> A discussion with the Founder/CEO to align on vision and role expectations.</li><li><strong>Technical Assignment:</strong> A take-home assignment designed to evaluate practical problem-solving and architectural skills.</li><li><strong>Technical Review:</strong> A deep-dive interview focused on the review of the take-home assignment and broader technical expertise.</li></ol><p></p><p><strong>Due to the high volume of applications we anticipate, we regret that we are unable to provide individual feedback to all candidates. If you do not hear back from us within 4 weeks of your application, please assume that you have not been successful on this occasion. We genuinely appreciate your interest and wish you the best in your job search.</strong></p><p><strong>Commitment to Equality and Accessibility:</strong></p><p>At MLabs, we are committed to offer equal opportunities to all candidates. We ensure no discrimination, accessible job adverts, and providing information in accessible formats. Our goal is to foster a diverse, inclusive workplace with equal opportunities for all. If you need any reasonable adjustments during any part of the hiring process or you would like to see the job-advert in an accessible format please let us know at the earliest opportunity by emailing human-resources@mlabs.city.</p><p>MLabs Ltd collects and processes the personal information you provide such as your contact details, work history, resume, and other relevant data for recruitment purposes only. This information is managed securely in accordance with MLabs Ltd’s Privacy Policy and Information Security Policy, and in compliance with applicable data protection laws. Your data may be shared only with clients and trusted partners where necessary for recruitment purposes. You may request the deletion of your data or withdraw your consent at any time by contacting legal@mlabs.city.</p>",
-      "pubDate": "2026-06-25T12:46:43+00:00",
-      "salaryMin": 180000,
-      "salaryMax": 300000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
     }
   }
 ]
