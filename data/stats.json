@@ -1,14 +1,13 @@
 {
-  "totalJobs": 835,
+  "totalJobs": 833,
   "bySource": {
-    "arbeitnow": 66,
+    "arbeitnow": 67,
     "jobicy": 97,
     "remoteok": 96,
     "workingnomads": 21,
-    "remotive": 40,
+    "remotive": 38,
     "wwr": 41,
-    "hn": 473,
-    "himalayas": 1
+    "hn": 473
   },
   "byTechStack": {
     "llm": 62,
@@ -16,7 +15,7 @@
     "figma": 10,
     "javascript": 135,
     "typescript": 101,
-    "react": 185,
+    "react": 184,
     "aws": 140,
     "gcp": 44,
     "docker": 63,
@@ -31,19 +30,19 @@
     "mocha": 2,
     "java": 69,
     "apache": 11,
-    "python": 153,
+    "python": 154,
     "elixir": 16,
     "erlang": 3,
-    "postgresql": 88,
-    "kubernetes": 84,
-    "terraform": 43,
+    "postgresql": 87,
+    "kubernetes": 83,
+    "terraform": 42,
     "helm": 5,
     "datadog": 23,
     "airflow": 22,
     "dbt": 16,
     "snowflake": 7,
     "kafka": 18,
-    "nestjs": 4,
+    "nestjs": 3,
     "prisma": 1,
     "angular": 24,
     "sqlserver": 8,
@@ -64,6 +63,7 @@
     "bash": 15,
     "nextjs": 21,
     "vercel": 3,
+    "express": 9,
     "rust": 25,
     "pulumi": 1,
     "grafana": 12,
@@ -126,11 +126,10 @@
     "oauth": 1,
     "saml": 1,
     "ansible": 22,
-    "vite": 3,
+    "vite": 2,
     "scikit": 1,
     "numpy": 3,
     "solidity": 2,
-    "express": 8,
     "sqlite": 3,
     "netlify": 1,
     "fly": 1,
@@ -168,32 +167,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 674,
-    "freelance": 6,
+    "freelance": 7,
+    "full-time": 672,
     "part-time": 5,
-    "contract": 8
+    "contract": 7
   },
   "byRemoteType": {
-    "remote": 478,
+    "remote": 476,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 133,
+    "under50k": 132,
     "50k-100k": 8,
     "100k-150k": 19,
     "150k-200k": 10,
     "over200k": 8,
-    "unknown": 657
+    "unknown": 656
   },
-  "lastUpdated": "2026-07-12T07:51:37.766Z",
+  "lastUpdated": "2026-07-12T12:43:48.397Z",
   "jobsLast7Days": [
     7,
-    9,
-    45,
+    7,
+    44,
     43,
-    88,
-    9,
-    21
+    89,
+    11,
+    22
   ]
 }
