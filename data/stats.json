@@ -1,26 +1,27 @@
 {
-  "totalJobs": 858,
+  "totalJobs": 859,
   "bySource": {
-    "arbeitnow": 92,
+    "arbeitnow": 91,
     "jobicy": 97,
-    "remoteok": 97,
+    "remoteok": 98,
     "remotive": 37,
     "workingnomads": 21,
     "wwr": 41,
-    "hn": 473
+    "hn": 473,
+    "himalayas": 1
   },
   "byTechStack": {
+    "javascript": 138,
+    "python": 161,
+    "php": 37,
+    "llm": 65,
+    "rest": 20,
+    "git": 35,
     "java": 67,
     "kotlin": 19,
     "ios": 52,
     "android": 49,
-    "llm": 65,
-    "python": 161,
     "supabase": 4,
-    "javascript": 138,
-    "php": 37,
-    "rest": 20,
-    "git": 35,
     "segment": 19,
     "spark": 17,
     "typescript": 108,
@@ -47,7 +48,7 @@
     "kafka": 24,
     "rust": 24,
     "backbone": 4,
-    "go": 33,
+    "go": 30,
     "terraform": 41,
     "github-actions": 33,
     "vercel": 4,
@@ -72,7 +73,7 @@
     "gitlab": 17,
     "rabbitmq": 11,
     "sentry": 16,
-    "linux": 36,
+    "linux": 35,
     "gin": 1,
     "elasticsearch": 13,
     "neo4j": 4,
@@ -87,7 +88,7 @@
     "foundry": 4,
     "dart": 4,
     "huggingface": 4,
-    "figma": 15,
+    "figma": 14,
     "snowflake": 7,
     "databricks": 7,
     "clickhouse": 3,
@@ -166,32 +167,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 680,
-    "contract": 12,
+    "full-time": 679,
+    "contract": 13,
     "freelance": 7,
     "part-time": 5
   },
   "byRemoteType": {
-    "remote": 484,
+    "remote": 486,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 134,
+    "under50k": 135,
     "50k-100k": 7,
     "100k-150k": 18,
     "150k-200k": 9,
-    "over200k": 7,
-    "unknown": 683
+    "over200k": 8,
+    "unknown": 682
   },
-  "lastUpdated": "2026-07-14T01:06:18.424Z",
+  "lastUpdated": "2026-07-14T07:30:13.960Z",
   "jobsLast7Days": [
     8,
-    36,
-    44,
-    24,
+    25,
+    45,
+    25,
     52,
-    98,
-    0
+    104,
+    3
   ]
 }
