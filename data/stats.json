@@ -1,7 +1,7 @@
 {
-  "totalJobs": 860,
+  "totalJobs": 866,
   "bySource": {
-    "arbeitnow": 90,
+    "arbeitnow": 96,
     "jobicy": 97,
     "remoteok": 100,
     "remotive": 38,
@@ -10,6 +10,10 @@
     "hn": 473
   },
   "byTechStack": {
+    "express": 12,
+    "spark": 19,
+    "segment": 19,
+    "figma": 16,
     "javascript": 137,
     "typescript": 103,
     "react": 189,
@@ -21,7 +25,6 @@
     "aws": 141,
     "terraform": 47,
     "flutter": 12,
-    "figma": 16,
     "java": 70,
     "postgresql": 82,
     "mysql": 22,
@@ -31,12 +34,10 @@
     "azure": 49,
     "databricks": 12,
     "llm": 62,
-    "segment": 19,
     "scala": 22,
     "dynamodb": 5,
     "kubernetes": 84,
     "apache": 14,
-    "spark": 18,
     "airflow": 22,
     "sqs": 3,
     "oracle": 9,
@@ -68,7 +69,7 @@
     "ruby": 57,
     "django": 26,
     "rails": 41,
-    "go": 27,
+    "go": 25,
     "dbt": 17,
     "angular": 27,
     "mongodb": 18,
@@ -82,7 +83,6 @@
     "erlang": 4,
     "vue": 33,
     "svelte": 9,
-    "express": 11,
     "fastify": 1,
     "hono": 1,
     "c#": 13,
@@ -92,7 +92,7 @@
     "stripe": 7,
     "kotlin": 19,
     "supabase": 3,
-    "backbone": 4,
+    "backbone": 5,
     "clickhouse": 4,
     "ansible": 22,
     "gitlab": 17,
@@ -168,10 +168,10 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 682,
-    "freelance": 11,
-    "contract": 11,
-    "part-time": 4
+    "freelance": 12,
+    "part-time": 5,
+    "full-time": 685,
+    "contract": 11
   },
   "byRemoteType": {
     "remote": 491,
@@ -184,16 +184,16 @@
     "100k-150k": 19,
     "150k-200k": 8,
     "over200k": 8,
-    "unknown": 680
+    "unknown": 686
   },
-  "lastUpdated": "2026-07-14T18:54:48.986Z",
+  "lastUpdated": "2026-07-15T01:03:19.783Z",
   "jobsLast7Days": [
-    8,
     20,
-    36,
-    25,
-    53,
     31,
-    109
+    26,
+    52,
+    36,
+    115,
+    0
   ]
 }
