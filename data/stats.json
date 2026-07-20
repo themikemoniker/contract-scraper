@@ -1,5 +1,5 @@
 {
-  "totalJobs": 850,
+  "totalJobs": 851,
   "bySource": {
     "arbeitnow": 79,
     "jobicy": 97,
@@ -7,12 +7,16 @@
     "workingnomads": 21,
     "wwr": 40,
     "remotive": 40,
-    "hn": 473
+    "hn": 473,
+    "himalayas": 1
   },
   "byTechStack": {
+    "javascript": 138,
+    "typescript": 105,
+    "python": 150,
+    "docker": 70,
+    "git": 35,
     "express": 13,
-    "javascript": 137,
-    "typescript": 104,
     "react": 191,
     "nodejs": 67,
     "aws": 148,
@@ -21,7 +25,6 @@
     "android": 51,
     "graphql": 34,
     "stripe": 7,
-    "python": 149,
     "gcp": 47,
     "apache": 15,
     "airflow": 22,
@@ -33,26 +36,24 @@
     "machine-learning": 93,
     "pytorch": 6,
     "tensorflow": 6,
+    "figma": 14,
     "java": 69,
     "angular": 30,
     "jenkins": 19,
     "spark": 24,
     "selenium": 5,
     "pytest": 3,
-    "postgresql": 81,
+    "postgresql": 80,
     "grafana": 11,
     "grpc": 7,
-    "figma": 13,
     "github-actions": 34,
     "rest": 17,
     "php": 39,
     "jquery": 4,
     "laravel": 29,
     "mysql": 19,
-    "git": 35,
     "segment": 16,
     "flask": 10,
-    "docker": 69,
     "terraform": 48,
     "gitlab": 18,
     "datadog": 23,
@@ -73,7 +74,7 @@
     "dynamodb": 6,
     "vue": 35,
     "spring": 21,
-    "linux": 34,
+    "linux": 33,
     "ray": 1,
     "bash": 19,
     "rust": 20,
@@ -168,32 +169,32 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 682,
+    "full-time": 684,
     "contract": 10,
-    "part-time": 6,
+    "part-time": 7,
     "freelance": 6
   },
   "byRemoteType": {
-    "remote": 483,
+    "remote": 486,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
     "under50k": 136,
     "50k-100k": 9,
-    "100k-150k": 21,
+    "100k-150k": 22,
     "150k-200k": 9,
     "over200k": 7,
     "unknown": 668
   },
-  "lastUpdated": "2026-07-19T18:42:53.355Z",
+  "lastUpdated": "2026-07-20T01:16:34.542Z",
   "jobsLast7Days": [
-    7,
     19,
     8,
-    56,
-    104,
-    41,
-    14
+    51,
+    101,
+    44,
+    19,
+    0
   ]
 }
