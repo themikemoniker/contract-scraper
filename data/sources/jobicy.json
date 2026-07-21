@@ -1,5 +1,97 @@
 [
   {
+    "id": "jobicy:144256",
+    "platform": "jobicy",
+    "external_id": "144256",
+    "title": "VP of Engineering",
+    "company": "Crystal Intelligence",
+    "description": "About Crystal Crystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability risk and transaction intelligence that powers operational decisions. Crystal is entering the most consequential platform shift in its history: a full migration from our current data architecture to a new, AI-native data pipeline that will define the company's next decade of scale, speed, and product capability. This is the role that owns it. Role summary Crystal's engineering organization has grown organically. The current architecture serves a large and loyal customer base, but it is reaching the limits of what feature-driven growth can sustain. In parallel, we have built a new data pipeline architecture led by a dedicated platform team. The strategic priority for 2026 is to migrate Crystal end-to-end from the legacy stack to the new pipeline - without disrupting customer SLAs, while continuing to ship the product roadmap, and while rebuilding engineering management discipline. The VP of Engineering will own this migration. The mission is concrete: deliver the new pipeline into production behind every Crystal product, restore platform-grade latency and reliability, and convert the existing organization into one that ships predictably and uses AI as a productivity multiplier. What You’ll Do Own the platform migration end-to-end Lead the integration of the new data pipeline into all Crystal products: Crystal Expert, Crystal Foresight, Monitor, Risk Check API, Data Intelligence, and Crystal Light Sequence the migration to preserve revenue and customer trust: no SLA regressions, no rollback drama, no surprise downtime Drive the architectural decisions and trade-offs that the legacy-to-new transition requires, including data model alignment, service-by-service cutover, and parallel-run validation Hold engineering, product, and customer success aligned on a single migration roadmap with clear customer-impact gates Restore platform foundations Bring API and core platform latency back to target: 1,000 RPS at sub-two-second latency, scaling toward 10k RPS Reduce database load, fix stability regressions exposed by recent releases, raise release velocity to multiple deployments per week Lead the multi-chain platform with discipline across 100+ chains: predictable integration timelines, accountable squad ownership, clear SLAs to commercial partners Rebuild the engineering management layer Partner with the existing engineering leadership to establish clear accountability across squad leads, engineering managers, and platform teams Set the standard for what good engineering management looks like at Crystal: predictable delivery, transparent planning, technical depth, people development Make the hiring, performance, and structural decisions required to bring the organization to the level the platform demands Drive AI into engineering as a productivity lever Build shared infrastructure for AI-assisted engineering: code generation, automated testing, agent-based migration tooling, internal knowledge systems Move Crystal from individual AI tool usage to organization-wide AI productivity, with measurable impact on delivery throughput Reduce OpEx-to-revenue through architectural improvements, automation, and reduction of manual operational load Partner with the business Work directly with product, GTM, customer success, and finance to translate engineering investments into customer outcomes and revenue Communicate trade-offs, risks, and progress clearly to the executive team and board Own the engineering budget, hiring plan, and vendor decisions What Success Looks Like (12 Months) New data pipeline architecture is in production powering Crystal's core products Customer SLAs are met or exceeded throughout the migration; no customer churn attributable to platform instability Latency restored and improved; release cadence shifted from monthly to weekly or faster Engineering management layer operating with clear accountability and predictable delivery AI-assisted engineering infrastructure deployed and measurable productivity gains realized OpEx-to-revenue ratio meaningfully reduced toward target Requirements 10+ years engineering experience, with 5+ years leading platform, data, or infrastructure organizations as VP Engineering, Head of Engineering, or equivalent Led at least one major platform migration or large-scale rebuild, with continuous customer service maintained throughout Operated low-latency, high-availability distributed systems with multi-tenant SaaS workloads at production scale Production experience integrating AI into engineering workflows, including agent-assisted development and AI-driven automation Strong product partnership instincts - you have shaped what gets built and how it ships Track record of building accountable, high-ownership engineering organizations Direct experience in one or more relevant domains: blockchain or crypto, fintech, payments, fraud or risk platforms, regulatory technology, or large-scale data platforms",
+    "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "blockchain"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-21T11:30:12+00:00",
+    "fetched_at": "2026-07-21T18:58:39.926Z",
+    "raw": {
+      "id": 144256,
+      "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
+      "jobSlug": "144256-vp-of-engineering",
+      "jobTitle": "VP of Engineering",
+      "companyName": "Crystal Intelligence",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/d21a424f-221.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Director",
+      "jobExcerpt": "About CrystalCrystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability risk and transaction intelligence that powers operational decisions.Crystal is entering the most consequential platform shift in its history: a full migration from our current data&hellip;",
+      "jobDescription": "<p><strong>About Crystal</strong></p><p>Crystal Intelligence is a blockchain analytics and compliance intelligence company serving exchanges, financial institutions, regulators, and law enforcement across 100+ blockchains. Our customers depend on us for low-latency, high-availability risk and transaction intelligence that powers operational decisions.</p><p>Crystal is entering the most consequential platform shift in its history: a full migration from our current data architecture to a new, AI-native data pipeline that will define the company's next decade of scale, speed, and product capability. This is the role that owns it.</p><p><strong>Role summary</strong></p><p>Crystal's engineering organization has grown organically. The current architecture serves a large and loyal customer base, but it is reaching the limits of what feature-driven growth can sustain. In parallel, we have built a new data pipeline architecture led by a dedicated platform team.</p><p>The strategic priority for 2026 is to migrate Crystal end-to-end from the legacy stack to the new pipeline - without disrupting customer SLAs, while continuing to ship the product roadmap, and while rebuilding engineering management discipline. The VP of Engineering will own this migration.</p><p>The mission is concrete: deliver the new pipeline into production behind every Crystal product, restore platform-grade latency and reliability, and convert the existing organization into one that ships predictably and uses AI as a productivity multiplier.</p><p><strong>What You’ll Do</strong></p><p><strong>Own the platform migration end-to-end</strong></p><ul><li><p>Lead the integration of the new data pipeline into all Crystal products: Crystal Expert, Crystal Foresight, Monitor, Risk Check API, Data Intelligence, and Crystal Light</p></li><li><p>Sequence the migration to preserve revenue and customer trust: no SLA regressions, no rollback drama, no surprise downtime</p></li><li><p>Drive the architectural decisions and trade-offs that the legacy-to-new transition requires, including data model alignment, service-by-service cutover, and parallel-run validation</p></li><li><p>Hold engineering, product, and customer success aligned on a single migration roadmap with clear customer-impact gates</p></li></ul><p><strong>Restore platform foundations</strong></p><ul><li><p>Bring API and core platform latency back to target: 1,000 RPS at sub-two-second latency, scaling toward 10k RPS</p></li><li><p>Reduce database load, fix stability regressions exposed by recent releases, raise release velocity to multiple deployments per week</p></li><li><p>Lead the multi-chain platform with discipline across 100+ chains: predictable integration timelines, accountable squad ownership, clear SLAs to commercial partners</p></li></ul><p><strong>Rebuild the engineering management layer</strong></p><ul><li><p>Partner with the existing engineering leadership to establish clear accountability across squad leads, engineering managers, and platform teams</p></li><li><p>Set the standard for what good engineering management looks like at Crystal: predictable delivery, transparent planning, technical depth, people development</p></li><li><p>Make the hiring, performance, and structural decisions required to bring the organization to the level the platform demands</p></li></ul><p><strong>Drive AI into engineering as a productivity lever</strong></p><ul><li><p>Build shared infrastructure for AI-assisted engineering: code generation, automated testing, agent-based migration tooling, internal knowledge systems</p></li><li><p>Move Crystal from individual AI tool usage to organization-wide AI productivity, with measurable impact on delivery throughput</p></li><li><p>Reduce OpEx-to-revenue through architectural improvements, automation, and reduction of manual operational load</p></li></ul><p><strong>Partner with the business</strong></p><ul><li><p>Work directly with product, GTM, customer success, and finance to translate engineering investments into customer outcomes and revenue</p></li><li><p>Communicate trade-offs, risks, and progress clearly to the executive team and board</p></li><li><p>Own the engineering budget, hiring plan, and vendor decisions</p></li></ul><p><strong>What Success Looks Like (12 Months)</strong></p><ul><li><p>New data pipeline architecture is in production powering Crystal's core products</p></li><li><p>Customer SLAs are met or exceeded throughout the migration; no customer churn attributable to platform instability</p></li><li><p>Latency restored and improved; release cadence shifted from monthly to weekly or faster</p></li><li><p>Engineering management layer operating with clear accountability and predictable delivery</p></li><li><p>AI-assisted engineering infrastructure deployed and measurable productivity gains realized</p></li><li><p>OpEx-to-revenue ratio meaningfully reduced toward target</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>10+ years engineering experience, with 5+ years leading platform, data, or infrastructure organizations as VP Engineering, Head of Engineering, or equivalent</p></li><li><p>Led at least one major platform migration or large-scale rebuild, with continuous customer service maintained throughout</p></li><li><p>Operated low-latency, high-availability distributed systems with multi-tenant SaaS workloads at production scale</p></li><li><p>Production experience integrating AI into engineering workflows, including agent-assisted development and AI-driven automation</p></li><li><p>Strong product partnership instincts - you have shaped what gets built and how it ships</p></li><li><p>Track record of building accountable, high-ownership engineering organizations</p></li><li><p>Direct experience in one or more relevant domains: blockchain or crypto, fintech, payments, fraud or risk platforms, regulatory technology, or large-scale data platforms</p></li></ul>",
+      "pubDate": "2026-07-21T11:30:12+00:00"
+    }
+  },
+  {
+    "id": "jobicy:144246",
+    "platform": "jobicy",
+    "external_id": "144246",
+    "title": "AI Engineer (Latam, Remote)",
+    "company": "Kubikware",
+    "description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a AI Engineer , located in Latin America. As we are currently working with multiple companies on many different products, we have quite a few projects where someone like you could make a difference. We are looking for: 4+ years of experience in Software Engineering, AI Integrations, Automation, or Backend Development Strong hands-on experience with: Open AI Whisper API for transcription and speech processing Claude AI and LLM integrations n8n for workflow automation and orchestration Replit for rapid app/web development and prototyping Supabase for database management, authentication, and backend services Experience building AI-driven workflows and integrating third-party APIs Strong understanding of prompt engineering and AI tool orchestration Experience developing lightweight web applications and internal tools Ability to work independently and move quickly in a fast-paced environment Strong communication skills and experience collaborating with distributed teams We offer: Fully remote position (LATAM) Part-time engagement with flexibility Opportunity to work on cutting-edge AI initiatives and real-world implementations Collaboration with U.S.-based teams High level of ownership and autonomy Compensation in U.S. Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch!Please, no agencies or C2C.",
+    "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "part-time",
+    "experience_level": "senior",
+    "location": "LATAM",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "supabase",
+      "llm",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-21T11:30:09+00:00",
+    "fetched_at": "2026-07-21T18:58:39.927Z",
+    "raw": {
+      "id": 144246,
+      "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
+      "jobSlug": "144246-ai-engineer-latam-remote",
+      "jobTitle": "AI Engineer (Latam, Remote)",
+      "companyName": "Kubikware",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/e55f1c3e-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Part-Time"
+      ],
+      "jobGeo": "LATAM",
+      "jobLevel": "Senior",
+      "jobExcerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
+      "jobDescription": "<strong>We are Kubikware™</strong><p>, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time <em>Inc. 5000 Fastest Growing Companies in America</em> honoree.<br>We are looking to expand our amazing roster with a <strong>AI Engineer</strong>, located in Latin America. </p><p>As we are currently working with multiple companies on many different products, we have quite a few projects where someone like you could make a difference.</p><br><strong>We are looking for:</strong><ul><li>4+ years of experience in Software Engineering, AI Integrations, Automation, or Backend Development</li><li>Strong hands-on experience with:<ul><li>Open AI Whisper API for transcription and speech processing</li><li>Claude AI and LLM integrations</li><li>n8n for workflow automation and orchestration</li><li>Replit for rapid app/web development and prototyping</li><li>Supabase for database management, authentication, and backend services</li></ul></li><li>Experience building AI-driven workflows and integrating third-party APIs</li><li>Strong understanding of prompt engineering and AI tool orchestration</li><li>Experience developing lightweight web applications and internal tools</li><li>Ability to work independently and move quickly in a fast-paced environment</li><li>Strong communication skills and experience collaborating with distributed teams</li></ul><br><strong>We offer:</strong><ul><li>Fully remote position (LATAM)</li><li>Part-time engagement with flexibility</li><li>Opportunity to work on cutting-edge AI initiatives and real-world implementations</li><li>Collaboration with U.S.-based teams</li><li>High level of ownership and autonomy</li><li>Compensation in U.S. Dollars</li></ul><p>If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch!Please, no agencies or C2C.</p>",
+      "pubDate": "2026-07-21T11:30:09+00:00"
+    }
+  },
+  {
     "id": "jobicy:149503",
     "platform": "jobicy",
     "external_id": "149503",
@@ -31,7 +123,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T09:20:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.445Z",
+    "fetched_at": "2026-07-21T18:58:39.928Z",
     "raw": {
       "id": 149503,
       "url": "https://jobicy.com/jobs/149503-partner-solutions-architect",
@@ -81,7 +173,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T09:19:58+00:00",
-    "fetched_at": "2026-07-21T13:06:38.447Z",
+    "fetched_at": "2026-07-21T18:58:39.930Z",
     "raw": {
       "id": 149499,
       "url": "https://jobicy.com/jobs/149499-software-engineer-data",
@@ -131,7 +223,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T09:19:56+00:00",
-    "fetched_at": "2026-07-21T13:06:38.448Z",
+    "fetched_at": "2026-07-21T18:58:39.931Z",
     "raw": {
       "id": 149498,
       "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
@@ -182,7 +274,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T09:19:54+00:00",
-    "fetched_at": "2026-07-21T13:06:38.449Z",
+    "fetched_at": "2026-07-21T18:58:39.933Z",
     "raw": {
       "id": 149497,
       "url": "https://jobicy.com/jobs/149497-software-engineer-connect-platform",
@@ -227,7 +319,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T20:20:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.450Z",
+    "fetched_at": "2026-07-21T18:58:39.933Z",
     "raw": {
       "id": 144481,
       "url": "https://jobicy.com/jobs/144481-solutions-architect-scaled-operations-ai-accelerator-team",
@@ -272,7 +364,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-20T17:11:22+00:00",
-    "fetched_at": "2026-07-21T13:06:38.451Z",
+    "fetched_at": "2026-07-21T18:58:39.934Z",
     "raw": {
       "id": 149468,
       "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
@@ -320,7 +412,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-20T17:11:18+00:00",
-    "fetched_at": "2026-07-21T13:06:38.452Z",
+    "fetched_at": "2026-07-21T18:58:39.935Z",
     "raw": {
       "id": 149466,
       "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
@@ -370,7 +462,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T14:39:55+00:00",
-    "fetched_at": "2026-07-21T13:06:38.453Z",
+    "fetched_at": "2026-07-21T18:58:39.936Z",
     "raw": {
       "id": 149453,
       "url": "https://jobicy.com/jobs/149453-customer-success-engineer-spanish-required",
@@ -413,7 +505,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T14:39:50+00:00",
-    "fetched_at": "2026-07-21T13:06:38.455Z",
+    "fetched_at": "2026-07-21T18:58:39.938Z",
     "raw": {
       "id": 149450,
       "url": "https://jobicy.com/jobs/149450-customer-solution-engineer-ai-native-consumption-quote-to-cash",
@@ -460,7 +552,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T03:35:08+00:00",
-    "fetched_at": "2026-07-21T13:06:38.456Z",
+    "fetched_at": "2026-07-21T18:58:39.939Z",
     "raw": {
       "id": 144098,
       "url": "https://jobicy.com/jobs/144098-senior-software-engineer-full-remote-france-or-hybrid-2",
@@ -505,7 +597,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T03:20:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.457Z",
+    "fetched_at": "2026-07-21T18:58:39.940Z",
     "raw": {
       "id": 147186,
       "url": "https://jobicy.com/jobs/147186-system-developer",
@@ -562,7 +654,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T03:10:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.458Z",
+    "fetched_at": "2026-07-21T18:58:39.941Z",
     "raw": {
       "id": 144179,
       "url": "https://jobicy.com/jobs/144179-golang-engineer",
@@ -623,7 +715,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T03:05:09+00:00",
-    "fetched_at": "2026-07-21T13:06:38.460Z",
+    "fetched_at": "2026-07-21T18:58:39.942Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -666,7 +758,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T10:45:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.461Z",
+    "fetched_at": "2026-07-21T18:58:39.943Z",
     "raw": {
       "id": 147112,
       "url": "https://jobicy.com/jobs/147112-principal-geotechnical-engineer",
@@ -717,7 +809,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T10:05:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.462Z",
+    "fetched_at": "2026-07-21T18:58:39.944Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -767,7 +859,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T09:55:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.463Z",
+    "fetched_at": "2026-07-21T18:58:39.945Z",
     "raw": {
       "id": 143906,
       "url": "https://jobicy.com/jobs/143906-senior-software-engineer-13",
@@ -819,7 +911,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T09:45:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.465Z",
+    "fetched_at": "2026-07-21T18:58:39.947Z",
     "raw": {
       "id": 147190,
       "url": "https://jobicy.com/jobs/147190-ai-soc-hardware-architect",
@@ -865,7 +957,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T09:45:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.466Z",
+    "fetched_at": "2026-07-21T18:58:39.948Z",
     "raw": {
       "id": 147189,
       "url": "https://jobicy.com/jobs/147189-ai-compiler-engineer",
@@ -921,7 +1013,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-18T19:40:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.468Z",
+    "fetched_at": "2026-07-21T18:58:39.949Z",
     "raw": {
       "id": 146800,
       "url": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl",
@@ -964,7 +1056,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T19:10:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.469Z",
+    "fetched_at": "2026-07-21T18:58:39.951Z",
     "raw": {
       "id": 146984,
       "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
@@ -1016,7 +1108,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T19:10:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.470Z",
+    "fetched_at": "2026-07-21T18:58:39.952Z",
     "raw": {
       "id": 146976,
       "url": "https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes",
@@ -1062,7 +1154,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T18:40:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.475Z",
+    "fetched_at": "2026-07-21T18:58:39.953Z",
     "raw": {
       "id": 147066,
       "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
@@ -1109,7 +1201,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-18T02:55:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.476Z",
+    "fetched_at": "2026-07-21T18:58:39.954Z",
     "raw": {
       "id": 146760,
       "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
@@ -1156,7 +1248,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-18T02:55:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.477Z",
+    "fetched_at": "2026-07-21T18:58:39.955Z",
     "raw": {
       "id": 146761,
       "url": "https://jobicy.com/jobs/146761-danish-tech-linguistic-tester",
@@ -1201,7 +1293,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T02:05:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.478Z",
+    "fetched_at": "2026-07-21T18:58:39.956Z",
     "raw": {
       "id": 147000,
       "url": "https://jobicy.com/jobs/147000-experienced-information-systems-architect",
@@ -1257,7 +1349,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-18T01:55:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.479Z",
+    "fetched_at": "2026-07-21T18:58:39.957Z",
     "raw": {
       "id": 147013,
       "url": "https://jobicy.com/jobs/147013-ios-developer-remote-anywhere-in-mexico",
@@ -1305,7 +1397,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T01:45:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.480Z",
+    "fetched_at": "2026-07-21T18:58:39.958Z",
     "raw": {
       "id": 147050,
       "url": "https://jobicy.com/jobs/147050-ai-systems-engineering-expert",
@@ -1352,7 +1444,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T01:40:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.481Z",
+    "fetched_at": "2026-07-21T18:58:39.959Z",
     "raw": {
       "id": 147065,
       "url": "https://jobicy.com/jobs/147065-staff-design-engineer",
@@ -1399,7 +1491,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-17T12:50:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.483Z",
+    "fetched_at": "2026-07-21T18:58:39.961Z",
     "raw": {
       "id": 145933,
       "url": "https://jobicy.com/jobs/145933-sales-engineer-mid-market-mexico",
@@ -1442,7 +1534,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-17T09:25:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.484Z",
+    "fetched_at": "2026-07-21T18:58:39.962Z",
     "raw": {
       "id": 146657,
       "url": "https://jobicy.com/jobs/146657-associate-application-engineer",
@@ -1489,7 +1581,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-17T08:55:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.485Z",
+    "fetched_at": "2026-07-21T18:58:39.963Z",
     "raw": {
       "id": 146757,
       "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
@@ -1536,7 +1628,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-17T08:45:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.486Z",
+    "fetched_at": "2026-07-21T18:58:39.964Z",
     "raw": {
       "id": 146790,
       "url": "https://jobicy.com/jobs/146790-senior-qa-automation-engineer-3",
@@ -1579,7 +1671,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-17T08:30:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.487Z",
+    "fetched_at": "2026-07-21T18:58:39.965Z",
     "raw": {
       "id": 146848,
       "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
@@ -1622,7 +1714,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-17T02:24:54+00:00",
-    "fetched_at": "2026-07-21T13:06:38.489Z",
+    "fetched_at": "2026-07-21T18:58:39.967Z",
     "raw": {
       "id": 149398,
       "url": "https://jobicy.com/jobs/149398-electrical-engineer-bess-focus",
@@ -1667,7 +1759,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T20:30:11+00:00",
-    "fetched_at": "2026-07-21T13:06:38.490Z",
+    "fetched_at": "2026-07-21T18:58:39.967Z",
     "raw": {
       "id": 146611,
       "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
@@ -1717,7 +1809,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T20:30:10+00:00",
-    "fetched_at": "2026-07-21T13:06:38.491Z",
+    "fetched_at": "2026-07-21T18:58:39.969Z",
     "raw": {
       "id": 146613,
       "url": "https://jobicy.com/jobs/146613-senior-software-engineer-sustaining-automation-2",
@@ -1770,7 +1862,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T20:30:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.493Z",
+    "fetched_at": "2026-07-21T18:58:39.970Z",
     "raw": {
       "id": 146614,
       "url": "https://jobicy.com/jobs/146614-database-engineer",
@@ -1820,7 +1912,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T15:00:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.493Z",
+    "fetched_at": "2026-07-21T18:58:39.971Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -1867,7 +1959,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T12:35:53+00:00",
-    "fetched_at": "2026-07-21T13:06:38.495Z",
+    "fetched_at": "2026-07-21T18:58:39.973Z",
     "raw": {
       "id": 149386,
       "url": "https://jobicy.com/jobs/149386-sales-systems-engineer-commercial",
@@ -1922,7 +2014,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T05:15:01+00:00",
-    "fetched_at": "2026-07-21T13:06:38.497Z",
+    "fetched_at": "2026-07-21T18:58:39.974Z",
     "raw": {
       "id": 148144,
       "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
@@ -1972,7 +2064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-15T20:25:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.498Z",
+    "fetched_at": "2026-07-21T18:58:39.975Z",
     "raw": {
       "id": 146191,
       "url": "https://jobicy.com/jobs/146191-network-engineer",
@@ -2023,7 +2115,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-15T20:20:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.500Z",
+    "fetched_at": "2026-07-21T18:58:39.977Z",
     "raw": {
       "id": 146203,
       "url": "https://jobicy.com/jobs/146203-advisory-engineer-hardware-hpsc",
@@ -2074,7 +2166,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-15T19:55:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.501Z",
+    "fetched_at": "2026-07-21T18:58:39.978Z",
     "raw": {
       "id": 146290,
       "url": "https://jobicy.com/jobs/146290-hands-on-tech-lead-proptech-real-estate-media",
@@ -2131,7 +2223,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T14:25:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.503Z",
+    "fetched_at": "2026-07-21T18:58:39.980Z",
     "raw": {
       "id": 145935,
       "url": "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2",
@@ -2188,7 +2280,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T14:10:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.505Z",
+    "fetched_at": "2026-07-21T18:58:39.982Z",
     "raw": {
       "id": 145996,
       "url": "https://jobicy.com/jobs/145996-customer-solutions-architect-2",
@@ -2237,7 +2329,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T13:25:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.506Z",
+    "fetched_at": "2026-07-21T18:58:39.983Z",
     "raw": {
       "id": 146085,
       "url": "https://jobicy.com/jobs/146085-staff-software-developer-2",
@@ -2290,7 +2382,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-14T12:55:07+00:00",
-    "fetched_at": "2026-07-21T13:06:38.507Z",
+    "fetched_at": "2026-07-21T18:58:39.984Z",
     "raw": {
       "id": 146122,
       "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
@@ -2340,7 +2432,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:35:08+00:00",
-    "fetched_at": "2026-07-21T13:06:38.508Z",
+    "fetched_at": "2026-07-21T18:58:39.985Z",
     "raw": {
       "id": 146200,
       "url": "https://jobicy.com/jobs/146200-sr-solutions-architect-agencies",
@@ -2395,7 +2487,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:20:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.509Z",
+    "fetched_at": "2026-07-21T18:58:39.986Z",
     "raw": {
       "id": 146232,
       "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
@@ -2457,7 +2549,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:10:09+00:00",
-    "fetched_at": "2026-07-21T13:06:38.511Z",
+    "fetched_at": "2026-07-21T18:58:39.988Z",
     "raw": {
       "id": 146260,
       "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
@@ -2513,7 +2605,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:10:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.512Z",
+    "fetched_at": "2026-07-21T18:58:39.989Z",
     "raw": {
       "id": 146259,
       "url": "https://jobicy.com/jobs/146259-net-developer",
@@ -2560,7 +2652,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-14T12:05:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.513Z",
+    "fetched_at": "2026-07-21T18:58:39.990Z",
     "raw": {
       "id": 146269,
       "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
@@ -2608,7 +2700,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:00:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.514Z",
+    "fetched_at": "2026-07-21T18:58:39.991Z",
     "raw": {
       "id": 146276,
       "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
@@ -2666,7 +2758,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T11:50:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.515Z",
+    "fetched_at": "2026-07-21T18:58:39.992Z",
     "raw": {
       "id": 146294,
       "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
@@ -2720,7 +2812,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T11:50:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.516Z",
+    "fetched_at": "2026-07-21T18:58:39.993Z",
     "raw": {
       "id": 146293,
       "url": "https://jobicy.com/jobs/146293-senior-full-stack-engineer-net-angular-asp-net-focus-govtech-hr-software-latam",
@@ -2763,7 +2855,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-14T10:42:36+00:00",
-    "fetched_at": "2026-07-21T13:06:38.517Z",
+    "fetched_at": "2026-07-21T18:58:39.993Z",
     "raw": {
       "id": 149301,
       "url": "https://jobicy.com/jobs/149301-garment-manufacturing-qc-specialist-freelance-ai-trainer-project",
@@ -2812,7 +2904,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T10:37:25+00:00",
-    "fetched_at": "2026-07-21T13:06:38.518Z",
+    "fetched_at": "2026-07-21T18:58:39.995Z",
     "raw": {
       "id": 149297,
       "url": "https://jobicy.com/jobs/149297-technical-operations-engineer-payments",
@@ -2867,7 +2959,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T10:37:18+00:00",
-    "fetched_at": "2026-07-21T13:06:38.520Z",
+    "fetched_at": "2026-07-21T18:58:39.996Z",
     "raw": {
       "id": 149293,
       "url": "https://jobicy.com/jobs/149293-staff-software-engineer-backend-lake-analytics-platform",
@@ -2914,7 +3006,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-14T10:37:12+00:00",
-    "fetched_at": "2026-07-21T13:06:38.521Z",
+    "fetched_at": "2026-07-21T18:58:39.998Z",
     "raw": {
       "id": 149289,
       "url": "https://jobicy.com/jobs/149289-sq-engineer-iv",
@@ -2961,7 +3053,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T10:37:10+00:00",
-    "fetched_at": "2026-07-21T13:06:38.522Z",
+    "fetched_at": "2026-07-21T18:58:39.999Z",
     "raw": {
       "id": 149288,
       "url": "https://jobicy.com/jobs/149288-protection-controls-lead",
@@ -3012,7 +3104,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-13T14:26:36+00:00",
-    "fetched_at": "2026-07-21T13:06:38.524Z",
+    "fetched_at": "2026-07-21T18:58:40.000Z",
     "raw": {
       "id": 149262,
       "url": "https://jobicy.com/jobs/149262-head-of-ai",
@@ -3059,7 +3151,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-13T14:26:34+00:00",
-    "fetched_at": "2026-07-21T13:06:38.526Z",
+    "fetched_at": "2026-07-21T18:58:40.002Z",
     "raw": {
       "id": 149261,
       "url": "https://jobicy.com/jobs/149261-technical-lead-ikc",
@@ -3117,7 +3209,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-13T14:26:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.527Z",
+    "fetched_at": "2026-07-21T18:58:40.003Z",
     "raw": {
       "id": 149243,
       "url": "https://jobicy.com/jobs/149243-freelance-mobile-app-developer-ios-android-2",
@@ -3174,7 +3266,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-13T14:26:01+00:00",
-    "fetched_at": "2026-07-21T13:06:38.529Z",
+    "fetched_at": "2026-07-21T18:58:40.005Z",
     "raw": {
       "id": 149241,
       "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
@@ -3223,7 +3315,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-13T14:25:58+00:00",
-    "fetched_at": "2026-07-21T13:06:38.532Z",
+    "fetched_at": "2026-07-21T18:58:40.007Z",
     "raw": {
       "id": 149239,
       "url": "https://jobicy.com/jobs/149239-principal-cloud-application-engineer-2",
@@ -3276,7 +3368,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-13T14:25:54+00:00",
-    "fetched_at": "2026-07-21T13:06:38.534Z",
+    "fetched_at": "2026-07-21T18:58:40.010Z",
     "raw": {
       "id": 149237,
       "url": "https://jobicy.com/jobs/149237-principal-cloud-application-engineer",
@@ -3330,7 +3422,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T13:05:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.536Z",
+    "fetched_at": "2026-07-21T18:58:40.011Z",
     "raw": {
       "id": 145788,
       "url": "https://jobicy.com/jobs/145788-staff-software-engineer-full-remote-or-hybrid-m-f-d",
@@ -3381,7 +3473,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T12:40:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.537Z",
+    "fetched_at": "2026-07-21T18:58:40.012Z",
     "raw": {
       "id": 145861,
       "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
@@ -3428,7 +3520,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T12:25:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.538Z",
+    "fetched_at": "2026-07-21T18:58:40.013Z",
     "raw": {
       "id": 145918,
       "url": "https://jobicy.com/jobs/145918-partner-solution-architect-gsi",
@@ -3480,7 +3572,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T12:25:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.540Z",
+    "fetched_at": "2026-07-21T18:58:40.015Z",
     "raw": {
       "id": 145920,
       "url": "https://jobicy.com/jobs/145920-solution-engineer",
@@ -3528,7 +3620,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T12:20:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.542Z",
+    "fetched_at": "2026-07-21T18:58:40.017Z",
     "raw": {
       "id": 145932,
       "url": "https://jobicy.com/jobs/145932-enterprise-core-sales-engineer",
@@ -3579,7 +3671,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T12:15:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.544Z",
+    "fetched_at": "2026-07-21T18:58:40.019Z",
     "raw": {
       "id": 145939,
       "url": "https://jobicy.com/jobs/145939-senior-staff-software-engineer-stce",
@@ -3636,7 +3728,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T12:15:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.546Z",
+    "fetched_at": "2026-07-21T18:58:40.020Z",
     "raw": {
       "id": 145940,
       "url": "https://jobicy.com/jobs/145940-genai-engineer",
@@ -3687,7 +3779,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-12T11:55:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.547Z",
+    "fetched_at": "2026-07-21T18:58:40.021Z",
     "raw": {
       "id": 145995,
       "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
@@ -3741,7 +3833,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T11:20:03+00:00",
-    "fetched_at": "2026-07-21T13:06:38.549Z",
+    "fetched_at": "2026-07-21T18:58:40.023Z",
     "raw": {
       "id": 146058,
       "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
@@ -3793,7 +3885,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T11:00:05+00:00",
-    "fetched_at": "2026-07-21T13:06:38.550Z",
+    "fetched_at": "2026-07-21T18:58:40.024Z",
     "raw": {
       "id": 146081,
       "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
@@ -3848,7 +3940,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-12T10:05:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.551Z",
+    "fetched_at": "2026-07-21T18:58:40.025Z",
     "raw": {
       "id": 146187,
       "url": "https://jobicy.com/jobs/146187-senior-qa-engineer-%e5%8c%ba%e5%9d%97%e9%93%be%e6%b5%8b%e8%af%95%e5%b7%a5%e7%a8%8b%e5%b8%88",
@@ -3891,7 +3983,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:28:11+00:00",
-    "fetched_at": "2026-07-21T13:06:38.552Z",
+    "fetched_at": "2026-07-21T18:58:40.026Z",
     "raw": {
       "id": 149206,
       "url": "https://jobicy.com/jobs/149206-customer-solution-engineer-early-career",
@@ -3936,7 +4028,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:28:01+00:00",
-    "fetched_at": "2026-07-21T13:06:38.554Z",
+    "fetched_at": "2026-07-21T18:58:40.029Z",
     "raw": {
       "id": 149199,
       "url": "https://jobicy.com/jobs/149199-customer-solutions-engineer-payments",
@@ -3985,7 +4077,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:12:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.555Z",
+    "fetched_at": "2026-07-21T18:58:40.030Z",
     "raw": {
       "id": 149184,
       "url": "https://jobicy.com/jobs/149184-forward-deployed-engineer-ai-creative-transformation-marketing",
@@ -4030,7 +4122,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:12:01+00:00",
-    "fetched_at": "2026-07-21T13:06:38.557Z",
+    "fetched_at": "2026-07-21T18:58:40.032Z",
     "raw": {
       "id": 149183,
       "url": "https://jobicy.com/jobs/149183-forward-deployed-engineer-ai-business-transformation-technology-creative-network",
@@ -4089,7 +4181,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-12T03:11:57+00:00",
-    "fetched_at": "2026-07-21T13:06:38.558Z",
+    "fetched_at": "2026-07-21T18:58:40.033Z",
     "raw": {
       "id": 149180,
       "url": "https://jobicy.com/jobs/149180-senior-software-development-engineer-in-test-sdet-ecommerce-latam",
@@ -4136,7 +4228,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:44+00:00",
-    "fetched_at": "2026-07-21T13:06:38.559Z",
+    "fetched_at": "2026-07-21T18:58:40.034Z",
     "raw": {
       "id": 149172,
       "url": "https://jobicy.com/jobs/149172-senior-lead-aem-developer-digital-agency",
@@ -4194,7 +4286,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:38+00:00",
-    "fetched_at": "2026-07-21T13:06:38.561Z",
+    "fetched_at": "2026-07-21T18:58:40.035Z",
     "raw": {
       "id": 149168,
       "url": "https://jobicy.com/jobs/149168-senior-data-platform-engineer-veterinary-technology",
@@ -4242,7 +4334,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:35+00:00",
-    "fetched_at": "2026-07-21T13:06:38.562Z",
+    "fetched_at": "2026-07-21T18:58:40.036Z",
     "raw": {
       "id": 149166,
       "url": "https://jobicy.com/jobs/149166-senior-fullstack-engineer",
@@ -4298,7 +4390,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:32+00:00",
-    "fetched_at": "2026-07-21T13:06:38.563Z",
+    "fetched_at": "2026-07-21T18:58:40.037Z",
     "raw": {
       "id": 149164,
       "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
@@ -4354,7 +4446,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:28+00:00",
-    "fetched_at": "2026-07-21T13:06:38.565Z",
+    "fetched_at": "2026-07-21T18:58:40.038Z",
     "raw": {
       "id": 149161,
       "url": "https://jobicy.com/jobs/149161-senior-integrations-engineer",
@@ -4405,7 +4497,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:23+00:00",
-    "fetched_at": "2026-07-21T13:06:38.566Z",
+    "fetched_at": "2026-07-21T18:58:40.039Z",
     "raw": {
       "id": 149158,
       "url": "https://jobicy.com/jobs/149158-senior-fullstack-engineer-net-react-umbraco-cms-digital-agency",
@@ -4453,7 +4545,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:20+00:00",
-    "fetched_at": "2026-07-21T13:06:38.567Z",
+    "fetched_at": "2026-07-21T18:58:40.040Z",
     "raw": {
       "id": 149156,
       "url": "https://jobicy.com/jobs/149156-senior-full-stack-engineer-python-react-advertising",
@@ -4505,7 +4597,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:18+00:00",
-    "fetched_at": "2026-07-21T13:06:38.568Z",
+    "fetched_at": "2026-07-21T18:58:40.041Z",
     "raw": {
       "id": 149155,
       "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
@@ -4551,7 +4643,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-12T03:11:11+00:00",
-    "fetched_at": "2026-07-21T13:06:38.569Z",
+    "fetched_at": "2026-07-21T18:58:40.042Z",
     "raw": {
       "id": 149151,
       "url": "https://jobicy.com/jobs/149151-senior-quality-analyst-advertising-technology",
@@ -4602,7 +4694,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:04+00:00",
-    "fetched_at": "2026-07-21T13:06:38.570Z",
+    "fetched_at": "2026-07-21T18:58:40.043Z",
     "raw": {
       "id": 149146,
       "url": "https://jobicy.com/jobs/149146-lead-platform-engineer",
@@ -4653,7 +4745,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-12T03:11:01+00:00",
-    "fetched_at": "2026-07-21T13:06:38.571Z",
+    "fetched_at": "2026-07-21T18:58:40.044Z",
     "raw": {
       "id": 149144,
       "url": "https://jobicy.com/jobs/149144-adobe-multi-solutions-architect-digital-agency-latam",
@@ -4704,7 +4796,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-10T14:23:24+00:00",
-    "fetched_at": "2026-07-21T13:06:38.573Z",
+    "fetched_at": "2026-07-21T18:58:40.046Z",
     "raw": {
       "id": 149111,
       "url": "https://jobicy.com/jobs/149111-director-of-engineering-cloud-reliability",
@@ -4764,7 +4856,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-10T14:23:21+00:00",
-    "fetched_at": "2026-07-21T13:06:38.575Z",
+    "fetched_at": "2026-07-21T18:58:40.048Z",
     "raw": {
       "id": 149109,
       "url": "https://jobicy.com/jobs/149109-software-engineer-unsecured-installments",
@@ -4824,7 +4916,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-10T14:23:20+00:00",
-    "fetched_at": "2026-07-21T13:06:38.577Z",
+    "fetched_at": "2026-07-21T18:58:40.049Z",
     "raw": {
       "id": 149108,
       "url": "https://jobicy.com/jobs/149108-senior-software-engineer-unsecured-installments",
@@ -4880,7 +4972,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-10T14:23:09+00:00",
-    "fetched_at": "2026-07-21T13:06:38.579Z",
+    "fetched_at": "2026-07-21T18:58:40.051Z",
     "raw": {
       "id": 149101,
       "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
@@ -4923,7 +5015,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-10T14:23:02+00:00",
-    "fetched_at": "2026-07-21T13:06:38.580Z",
+    "fetched_at": "2026-07-21T18:58:40.051Z",
     "raw": {
       "id": 149097,
       "url": "https://jobicy.com/jobs/149097-application-engineer-digital-solutions",
@@ -4942,101 +5034,6 @@
       "jobExcerpt": "Are you passionate about bridging the gap between cutting-edge digital technology and real-world customer success in water management? Then join us in our mission to pioneer smarter solutions for moving and transforming water, reducing energy consumption, and enhancing quality of life for people.   As our new Application Engineer – Digital Solutions, you will be&hellip;",
       "jobDescription": "<div><div><div><h2></h2>\n</div><div><p><strong>Are you passionate about bridging the gap between cutting-edge digital technology and real-world customer success in water management? </strong>Then join us in our mission to pioneer smarter solutions for moving and transforming water, reducing energy consumption, and enhancing quality of life for people.</p>\n<p> </p>\n<p>As our new Application Engineer – Digital Solutions, you will be serving as the technical expert for our digital solutions portfolio — combining software, hardware, and IoT expertise to ensure customers successfully onboard, adopt, and expand their use of Grundfos digital offerings across global markets. You'll be part of a diverse, supportive and inclusive culture, that celebrates our differences and puts people first by fostering growth, well-being, and a sense of belonging.</p>\n<p> </p>\n<p>This position reports to the Digital Customer Success Regional Manager, part of the WU sales organization. It will operate on a hybrid schedule from our facility in Monterrey, NL, Mexico. Relocation for this position cannot be supported and qualified candidates must be authorized to work in Mexico without support now or in the future.</p>\n<p><br><strong>What you will be doing</strong></p>\n<p> </p>\n<p>As a key part of the Digital Customer Success team, you'll create impact by Driving measurable customer outcomes by ensuring the continuous, reliable operation of digital solutions that help manage the world's most vital resource — water.</p>\n<p>Your main responsibilities include:</p>\n<ul>\n<li>Build and maintain deep technical expertise across our digital solutions, the applications they serve, and the Grundfos components they integrate with.</li>\n<li>Provide proactive technical support for active subscriptions — configuring solution apps, delivering customer outcome reports, and identifying opportunities for improvement.</li>\n<li>Resolve incidents escalated by local sales, service teams, or customers directly, collaborating with 2nd-level support to ensure timely case closure and customer satisfaction.</li>\n<li>Contribute to continuous improvement by creating documentation, tools, and scripts that enhance support processes and team efficiency.</li>\n<li>Build trusted partnerships with customers using our digital solutions — identifying champions, generating success stories, and fostering a community of engaged digital users.</li>\n</ul></div></div><div><div><h2></h2>\n</div><div><p><strong>What makes you a great fit</strong></p>\n<p> </p>\n<p>Above all, you are a technically sharp, customer-centric professional with hands-on experience in IoT, remote monitoring, or digital platforms, combined with a strong troubleshooting mindset and the communication skills to build trust with global stakeholders. We would also imagine that you have:</p>\n<ul>\n<li>Bachelor's degree in Engineering, Computer Science, Electronics, Mechanical or Environmental Engineering, or equivalent practical experience.</li>\n<li>Knowledge of or experience with electronic monitoring systems, SCADA, telemetry, IoT devices, or software-based data management and analytics platforms.</li>\n<li>Experience implementing customer support processes including onboarding, training, and hypercare.</li>\n<li>Fluent in English (verbal and written).</li>\n</ul>\n<p> </p>\n<p>It is a plus if you also have:</p>\n<ul>\n<li>Experience in water utility or building services applications.</li>\n<li>Proficiency in additional languages beyond English.</li>\n<li>Familiarity with customer success methodologies, adoption metrics, or subscription-based service models.</li>\n</ul></div></div><div><div><h2></h2>\n</div><div><p><strong>Why you will love working here</strong></p>\n<p> </p>\n<p>We care! Day to day, you can look forward to:</p>\n<ul>\n<li>A working environment built around your needs, with hybrid working opportunities.</li>\n<li>Annual bonuses, health insurance and a strong focus on well-being activities.</li>\n<li>Three days' additional paid leave for volunteering in your community.</li>\n<li>Access to on-demand training and learning sessions and carefully structured programes to pursue personal and professional development opportunities.</li>\n</ul>\n<p> </p>\n<p>We are inclusive! Celebrating and valuing our differences helps us see possibilities where others can't. We therefore welcome and encourage applications from all abilities, experiences, and backgrounds.</p>\n<p> </p>\n<p>Are you ready to unlock possibilities at Grundfos? Apply today!</p>\n<p>To get to know us better, follow us on LinkedIn or visit grundfos.com</p></div></div></div>",
       "pubDate": "2026-07-10T14:23:02+00:00"
-    }
-  },
-  {
-    "id": "jobicy:149068",
-    "platform": "jobicy",
-    "external_id": "149068",
-    "title": "Senior Customer Solution Engineer — AI Native/Consumption Quote to Cash",
-    "company": "Zuora",
-    "description": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue. We’ve led the Subscription Economy for more than a decade. Now we’re evolving again by building the definitive platform for quote to cash and helping companies monetize their products and services with an adaptable, AI-ready foundation. The Opportunity A technical SaaS sales engineer who captures the technical win on complex billing and quote-to-cash opportunities — with real fluency in consumption/usage-based monetization and AI-native environments. You'll scope, sell and build the QTC solution, not just demo it. Telecom experience is a strong plus. This is a hands-on Solutions Engineer role. Additionally, you’ll also stay close to your accounts post-sale — protecting technical health and surfacing expansion. In this role, you will: Own the technical win. Partner with AEs through complex enterprise cycles — discovery, technical strategy, objection handling, and clear differentiation — to secure the technical decision. Scope, sell, and build quote-to-cash solutions. Translate messy customer requirements across CPQ, billing, and revenue into a defensible QTC architecture — including consumption and usage-based billing models (metering, rating, mediation, invoice presentation, and downstream rev rec implications). Build and manage the lifecycle of proofs of concept as a primary mechanism (think forward deployed engineer) Go deep on consumption and AI-native monetization. Design and demonstrate how customers monetize usage- and AI-driven products — event/usage capture, rating at scale, and the billing and revenue implications of consumption pricing. Build tailored, end-to-end demos and POCs aligned to each customer's strategic objectives — hands-on with APIs, data, and integrations, not slideware. Lead technical presentations for senior stakeholders, including C-level, translating architecture and pricing-model tradeoffs into business value. Build strong technical relationships with customers and prospects — understanding their goals, constraints, systems of record, and operating models. Protect technical health and adoption on your accounts — ensure customers realize value against agreed outcomes, and identify expansion across business units, cross-sell, and add-ons. Influence roadmap by feeding structured customer and market signal to Product and Solutions teams. Coordinate technical resources across Zuora and partners; contribute to RFPs/RFIs, field events, and customer references; support escalations cross-functionally. Travel within your territory as needed. About You You are an experienced presales or solutions professional with a strong track record of owning technical wins in complex enterprise environments. You likely bring: 7+ years in Sales Engineering, Presales, or Solution Architecture — with demonstrated, hands-on ownership of technical wins on complex enterprise deals. Direct billing / quote-to-cash experience — you've scoped, sold, and/or built solutions spanning CPQ, billing, and revenue (not just adjacent SaaS). Consumption / usage-based billing fluency — metering, rating, mediation, and the revenue implications of consumption pricing Comfort in AI-native environments — you understand how AI-driven and usage-based products get monetized, and can architect for that. Technical depth — APIs, integration patterns, data/reconciliation, and modern application architecture. You can debug a failing integration under time pressure, not just describe one. Telecom experience is a strong plus — high-volume mediation, rating, and complex usage models. Excellent executive communication — you shift registers between engineers, controllers, and C-level without losing precision. Structured sales methodology experience (e.g., MEDDIC, Value Selling). Bachelor's degree and/or relevant FinTech / enterprise software background. A strong plus: Telecom experience, especially with high-volume mediation, rating, and complex usage models About the Team You will be part of a team focused on winning and expanding complex enterprise quote-to-cash opportunities by combining technical depth, business acumen, and customer partnership. This team works closely across Account Executives, Product, Solutions, partners, and customer stakeholders to: Solve complex monetization and billing challenges Deliver tailored technical strategies, demos, and proofs of concept Support customers from pre-sales through post-sale technical health and adoption Surface customer insight that shapes roadmap and solution direction Help customers scale modern consumption and AI-native business models This is a highly collaborative environment for someone who wants to go beyond standard demos and play a meaningful role in shaping solution architecture, customer outcomes, and long-term growth. Benefits Zuora offers a comprehensive total rewards package designed to support ZEOs’ wellbeing, growth, and flexibility. While specific offerings may vary by country, we typically provide: Competitive compensation, variable bonus and performance-based reward opportunities, and retirement programs Medical, dental, and vision insurance Generous, flexible time off, plus paid holidays, wellness days, and a company-wide year-end break Paid parental leave (including fully paid leave for eligible ZEOs, subject to local policy) Learning &amp; development stipend to support ongoing growth Opportunities to volunteer and give back, including charitable donation matching where available Mental wellbeing resources and support *Benefits may vary by location; details will be shared during the interview process #ZEOLife at Zuora ZEOs (our employees) are empowered to take ownership, challenge the status quo, and make a real impact. We: Collaborate deeply across teams and regions Learn constantly and iterate often Build an inclusive, high-performance culture where people feel inspired, connected, and valued Our Commitment to an Inclusive Workplace Think, be and do you. At Zuora, different perspectives, experiences, and contributions matter — everyone counts. Zuora is proud to be an Equal Opportunity Employer committed to creating an inclusive environment for all. We do not discriminate on the basis of, and consider individuals seeking employment with Zuora without regard to, race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance@zuora.com (or local equivalent, where applicable). The base pay details represent the annualized salary range for the posted position. While we share a comprehensive range, a candidate’s final base salary will fall within these guidelines and will be determined based on multiple factors including but not limited to: qualifications of the candidate, job related knowledge, prior related experience, specific and unique skills, the location of the role, internal equity and internal budget. Base pay is only one element of Zuora’s Total Rewards Package. Additional elements may also include bonus/variable compensation, equity and comprehensive benefits, more details found here . Base Pay Details $136,800—$177,100 USD",
-    "url": "https://jobicy.com/jobs/149068-senior-customer-solution-engineer-ai-native-consumption-quote-to-cash",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-07-09T12:54:16+00:00",
-    "fetched_at": "2026-07-21T13:06:38.581Z",
-    "raw": {
-      "id": 149068,
-      "url": "https://jobicy.com/jobs/149068-senior-customer-solution-engineer-ai-native-consumption-quote-to-cash",
-      "jobSlug": "149068-senior-customer-solution-engineer-ai-native-consumption-quote-to-cash",
-      "jobTitle": "Senior Customer Solution Engineer — AI Native/Consumption Quote to Cash",
-      "companyName": "Zuora",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/43baa0bd-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About ZuoraAt Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue.We’ve led the Subscription Economy for more than a decade. Now we’re evolving again&hellip;",
-      "jobDescription": "<h2><strong>About Zuora</strong></h2><p>At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue.</p><p>We’ve led the Subscription Economy for more than a decade. Now we’re evolving again by building the definitive platform for quote to cash and helping companies monetize their products and services with an adaptable, AI-ready foundation.</p><p> </p><h2><strong>The Opportunity<br></strong></h2><p>A technical SaaS sales engineer who captures the technical win on complex billing and quote-to-cash opportunities — with real fluency in consumption/usage-based monetization and AI-native environments. You'll scope, sell and build the QTC solution, not just demo it. Telecom experience is a strong plus.</p><p>This is a hands-on Solutions Engineer role. Additionally, you’ll also stay close to your accounts post-sale — protecting technical health and surfacing expansion.</p><p>In this role, you will:</p><ul>\n<li>Own the technical win. Partner with AEs through complex enterprise cycles — discovery, technical strategy, objection handling, and clear differentiation — to secure the technical decision.</li>\n<li>Scope, sell, and build quote-to-cash solutions. Translate messy customer requirements across CPQ, billing, and revenue into a defensible QTC architecture — including consumption and usage-based billing models (metering, rating, mediation, invoice presentation, and downstream rev rec implications).</li>\n<li>Build and manage the lifecycle of proofs of concept as a primary mechanism (think forward deployed engineer)</li>\n<li>Go deep on consumption and AI-native monetization. Design and demonstrate how customers monetize usage- and AI-driven products — event/usage capture, rating at scale, and the billing and revenue implications of consumption pricing.</li>\n<li>Build tailored, end-to-end demos and POCs aligned to each customer's strategic objectives — hands-on with APIs, data, and integrations, not slideware.</li>\n<li>Lead technical presentations for senior stakeholders, including C-level, translating architecture and pricing-model tradeoffs into business value.</li>\n<li>Build strong technical relationships with customers and prospects — understanding their goals, constraints, systems of record, and operating models.</li>\n<li>Protect technical health and adoption on your accounts — ensure customers realize value against agreed outcomes, and identify expansion across business units, cross-sell, and add-ons.</li>\n<li>Influence roadmap by feeding structured customer and market signal to Product and Solutions teams.</li>\n<li>Coordinate technical resources across Zuora and partners; contribute to RFPs/RFIs, field events, and customer references; support escalations cross-functionally.</li>\n<li>Travel within your territory as needed.</li>\n</ul><h2><strong> </strong></h2><h2><strong>About You</strong></h2><p>You are an experienced presales or solutions professional with a strong track record of owning technical wins in complex enterprise environments.</p><p>You likely bring:</p><ul>\n<li>7+ years in Sales Engineering, Presales, or Solution Architecture — with demonstrated, hands-on ownership of technical wins on complex enterprise deals.</li>\n<li>Direct billing / quote-to-cash experience — you've scoped, sold, and/or built solutions spanning CPQ, billing, and revenue (not just adjacent SaaS).</li>\n<li>Consumption / usage-based billing fluency — metering, rating, mediation, and the revenue implications of consumption pricing</li>\n<li>Comfort in AI-native environments — you understand how AI-driven and usage-based products get monetized, and can architect for that.</li>\n<li>Technical depth — APIs, integration patterns, data/reconciliation, and modern application architecture. You can debug a failing integration under time pressure, not just describe one.</li>\n<li>Telecom experience is a strong plus — high-volume mediation, rating, and complex usage models.</li>\n<li>Excellent executive communication — you shift registers between engineers, controllers, and C-level without losing precision.</li>\n<li>Structured sales methodology experience (e.g., MEDDIC, Value Selling).</li>\n<li>Bachelor's degree and/or relevant FinTech / enterprise software background.</li>\n</ul><p>A strong plus:</p><ul>\n<li>Telecom experience, especially with high-volume mediation, rating, and complex usage models</li>\n</ul><h2><strong> </strong></h2><h2><strong>About the Team</strong></h2><p>You will be part of a team focused on winning and expanding complex enterprise quote-to-cash opportunities by combining technical depth, business acumen, and customer partnership.</p><p>This team works closely across Account Executives, Product, Solutions, partners, and customer stakeholders to:</p><ul>\n<li>Solve complex monetization and billing challenges</li>\n<li>Deliver tailored technical strategies, demos, and proofs of concept</li>\n<li>Support customers from pre-sales through post-sale technical health and adoption</li>\n<li>Surface customer insight that shapes roadmap and solution direction</li>\n<li>Help customers scale modern consumption and AI-native business models</li>\n</ul><p>This is a highly collaborative environment for someone who wants to go beyond standard demos and play a meaningful role in shaping solution architecture, customer outcomes, and long-term growth.</p><p> </p><h2><strong>Benefits</strong></h2><p>Zuora offers a comprehensive total rewards package designed to support ZEOs’ wellbeing, growth, and flexibility. While specific offerings may vary by country, we typically provide:</p><ul>\n<li>Competitive compensation, variable bonus and performance-based reward opportunities, and retirement programs</li>\n<li>Medical, dental, and vision insurance</li>\n<li>Generous, flexible time off, plus paid holidays, wellness days, and a company-wide year-end break</li>\n<li>Paid parental leave (including fully paid leave for eligible ZEOs, subject to local policy)</li>\n<li>Learning &amp; development stipend to support ongoing growth</li>\n<li>Opportunities to volunteer and give back, including charitable donation matching where available</li>\n<li>Mental wellbeing resources and support</li>\n</ul><p><em>*Benefits may vary by location; details will be shared during the interview process</em></p><p> </p><p>#ZEOLife at Zuora</p><p>ZEOs (our employees) are empowered to take ownership, challenge the status quo, and make a real impact. We:</p><ul>\n<li>Collaborate deeply across teams and regions</li>\n<li>Learn constantly and iterate often</li>\n<li>Build an inclusive, high-performance culture where people feel inspired, connected, and valued</li>\n</ul><h3><strong>Our Commitment to an Inclusive Workplace</strong></h3><p>Think, be and do you.<br>At Zuora, different perspectives, experiences, and contributions matter — everyone counts. </p><p>Zuora is proud to be an Equal Opportunity Employer committed to creating an inclusive environment for all. We do not discriminate on the basis of, and consider individuals seeking employment with Zuora without regard to, race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.</p><p>We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to <strong>assistance@zuora.com</strong> (or local equivalent, where applicable).</p><div><div><div><p>The base pay details represent the annualized salary range for the posted position. While we share a comprehensive range, a candidate’s final base salary will fall within these guidelines and will be determined based on multiple factors including but not limited to: qualifications of the candidate, job related knowledge, prior related experience, specific and unique skills, the location of the role, internal equity and internal budget. Base pay is only one element of Zuora’s Total Rewards Package. Additional elements may also include bonus/variable compensation, equity and comprehensive benefits, more details found <a href=\"https://www.zuora.com/careers-life/\" target=\"_blank\" rel=\"nofollow ugc noopener\">here</a>.</p></div><div>Base Pay Details</div><div>$136,800—$177,100 USD</div></div></div>",
-      "pubDate": "2026-07-09T12:54:16+00:00",
-      "salaryMin": 136800,
-      "salaryMax": 177100,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:149055",
-    "platform": "jobicy",
-    "external_id": "149055",
-    "title": "Lead IOS Engineer",
-    "company": "Ruby Labs",
-    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ About the role As a Lead iOS Engineer , you will own the technical direction of our iOS platform, set engineering standards, and mentor a team of engineers while remaining hands-on with the codebase. You will drive architecture decisions, ensure scalability and performance, and partner with product and cross-functional leadership to shape the mobile roadmap. Key Responsibilities Define and own the technical vision, architecture, and long-term roadmap for the iOS platform. Lead, mentor, and grow a team of iOS engineers; set coding standards and review practices. Make high-impact architectural decisions and drive modularization/scalability across the codebase. Own CI/CD strategy , release management, and deployment reliability. Partner with product and design leadership to translate business goals into technical execution. Establish observability, performance budgets, and quality gates. Remain hands-on : contribute to critical features and complex problem-solving. Qualifications 8+ years of iOS development experience, including 2+ years in a lead or tech-lead capacity. Proven track record shipping and scaling B2C subscription-based apps at significant user volume. Deep expertise in Swift, Swift Concurrency , and advanced language features; ability to set idiomatic standards across a team. Mastery of StoreKit 2, subscription monetization architecture , entitlement/receipt validation at scale, paywall experimentation, and pricing/offer strategy. Strong architectural leadership: large-scale modular architectures, dependency management (SPM), design systems, and cross-team API contracts. Experience owning CI/CD at scale (Xcode Cloud, Fastlane, GitHub Actions/Bitrise), automated release trains, phased rollouts, and code-signing automation. Deep performance engineering: app startup, memory optimization, rendering pipeline, and Instruments-driven diagnosis. Comprehensive testing strategy ownership: unit, UI, snapshot, and contract testing with meaningful coverage goals. Experience integrating AI-driven product features and championing AI-assisted development practices across a team. Strong technical leadership, mentorship, stakeholder communication, and cross-functional collaboration skills. Location Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours. Benefits Discover the perks of being part of our vibrant team! We offer: Remote Work Environment: Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. Unlimited PTO: Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. Paid National Holidays: Celebrate and relax on national holidays with paid time off to unwind and recharge. Company-provided MacBook: Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. Flexible Independent Contractor Agreement: Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth! Interview Process After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps: Recruiter Screening (40 minutes) Technical Interview (90 minutes) Technical Interview (60 min) Final Interview (30 minutes) Life at Ruby Labs At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day. This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen. Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success. #LI-Remote",
-    "url": "https://jobicy.com/jobs/149055-lead-ios-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Europe",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "ruby",
-      "swift",
-      "github-actions",
-      "ios"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-07-09T11:50:06+00:00",
-    "fetched_at": "2026-07-21T13:06:38.583Z",
-    "raw": {
-      "id": 149055,
-      "url": "https://jobicy.com/jobs/149055-lead-ios-engineer",
-      "jobSlug": "149055-lead-ios-engineer",
-      "jobTitle": "Lead IOS Engineer",
-      "companyName": "Ruby Labs",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/0799a7b7-221-1.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Europe",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at:&hellip;",
-      "jobDescription": "<h2><strong>About us</strong></h2><p>Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: <a href=\"https://rubylabs.com/about-us/\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://rubylabs.com/about-us/</a></p><p></p><h2><strong>About the role</strong></h2><p>As a <strong>Lead iOS Engineer</strong>, you will own the technical direction of our iOS platform, set engineering standards, and mentor a team of engineers while remaining hands-on with the codebase. You will drive architecture decisions, ensure scalability and performance, and partner with product and cross-functional leadership to shape the mobile roadmap.</p><p></p><h2><strong>Key Responsibilities</strong></h2><ul><li><p><strong>Define and own</strong> the technical vision, architecture, and long-term roadmap for the iOS platform.</p></li><li><p><strong>Lead, mentor, and grow</strong> a team of iOS engineers; set coding standards and review practices.</p></li><li><p><strong>Make high-impact </strong>architectural decisions and drive modularization/scalability across the codebase.</p></li><li><p><strong>Own CI/CD strategy</strong>, release management, and deployment reliability.</p></li><li><p><strong>Partner with product and design leadership</strong> to translate business goals into technical execution.</p></li><li><p><strong>Establish </strong>observability, performance budgets, and quality gates.</p></li><li><p><strong>Remain hands-on</strong>: contribute to critical features and complex problem-solving.</p></li></ul><p></p><h2><strong>Qualifications</strong></h2><ul><li><p><strong>8+ years of iOS development experience, including 2+ years in a lead</strong> or tech-lead capacity.</p></li><li><p>Proven track record shipping and scaling<strong> B2C subscription-based apps</strong> at significant user volume.</p></li><li><p>Deep expertise in <strong>Swift, Swift Concurrency</strong>, and advanced language features; ability to set idiomatic standards across a team.</p></li><li><p>Mastery of <strong>StoreKit 2,</strong> <strong>subscription monetization architecture</strong>, entitlement/receipt validation at scale, paywall experimentation, and pricing/offer strategy.</p></li><li><p><strong>Strong architectural leadership:</strong> large-scale modular architectures, dependency management (SPM), design systems, and cross-team API contracts.</p></li><li><p><strong>Experience owning CI/CD</strong> at scale (Xcode Cloud, Fastlane, GitHub Actions/Bitrise), automated release trains, phased rollouts, and code-signing automation.</p></li><li><p><strong>Deep performance engineering:</strong> app startup, memory optimization, rendering pipeline, and Instruments-driven diagnosis.</p></li><li><p><strong>Comprehensive testing strategy ownership: </strong>unit, UI, snapshot, and contract testing with meaningful coverage goals.</p></li><li><p><strong>Experience integrating AI-driven product features </strong>and championing AI-assisted development practices across a team.</p></li><li><p>Strong technical leadership, mentorship, stakeholder communication, and cross-functional collaboration skills.</p></li></ul><p></p><h2><strong>Location</strong></h2><p>Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.</p><p></p><h2><strong>Benefits</strong></h2><p>Discover the perks of being part of our vibrant team! We offer:</p><ul><li><p><strong>Remote Work Environment:</strong> Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. </p></li><li><p><strong>Unlimited PTO:</strong> Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. </p></li><li><p><strong>Paid National Holidays:</strong> Celebrate and relax on national holidays with paid time off to unwind and recharge. </p></li><li><p><strong>Company-provided MacBook:</strong> Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. </p></li><li><p><strong>Flexible Independent Contractor Agreement:</strong> Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: <a href=\"https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt</a></p></li></ul><p>Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!</p><p></p><h2><strong>Interview Process</strong></h2><p>After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:</p><ul><li><p>Recruiter Screening (40 minutes)</p></li><li><p>Technical Interview (90 minutes)</p></li><li><p>Technical Interview (60 min)</p></li><li><p>Final Interview (30 minutes)</p></li></ul><p></p><h2><strong>Life at Ruby Labs</strong></h2><p>At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day.</p><p>This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen.</p><p>Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success.</p><p></p><p>#LI-Remote</p>",
-      "pubDate": "2026-07-09T11:50:06+00:00"
     }
   }
 ]
