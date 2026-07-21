@@ -1,7 +1,7 @@
 {
-  "totalJobs": 857,
+  "totalJobs": 854,
   "bySource": {
-    "arbeitnow": 88,
+    "arbeitnow": 85,
     "jobicy": 96,
     "remoteok": 99,
     "workingnomads": 21,
@@ -10,18 +10,19 @@
     "hn": 473
   },
   "byTechStack": {
-    "python": 151,
+    "kotlin": 20,
+    "ios": 56,
+    "android": 57,
+    "jetpack": 3,
+    "python": 149,
     "gcp": 50,
     "docker": 70,
     "terraform": 48,
     "vercel": 6,
-    "ios": 55,
-    "android": 56,
     "linux": 34,
     "bash": 19,
     "stripe": 10,
     "java": 70,
-    "kotlin": 19,
     "typescript": 102,
     "nodejs": 67,
     "aws": 146,
@@ -39,8 +40,8 @@
     "figma": 16,
     "segment": 16,
     "rag": 12,
-    "javascript": 128,
-    "react": 187,
+    "javascript": 127,
+    "react": 186,
     "mysql": 18,
     "mariadb": 1,
     "sqlserver": 11,
@@ -53,7 +54,8 @@
     "kafka": 18,
     "rabbitmq": 9,
     "react-native": 49,
-    "go": 27,
+    "go": 28,
+    "swift": 20,
     "grpc": 8,
     "django": 24,
     "flask": 10,
@@ -71,7 +73,6 @@
     "pytest": 2,
     "grafana": 10,
     "github-actions": 32,
-    "swift": 19,
     "git": 30,
     "ruby": 54,
     "rails": 41,
@@ -117,7 +118,6 @@
     "aspnet": 7,
     "supabase": 2,
     "swiftui": 2,
-    "jetpack": 2,
     "oauth": 1,
     "saml": 1,
     "remix": 1,
@@ -170,7 +170,7 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 689,
+    "full-time": 687,
     "freelance": 11,
     "part-time": 10,
     "contract": 8
@@ -186,16 +186,16 @@
     "100k-150k": 21,
     "150k-200k": 7,
     "over200k": 6,
-    "unknown": 681
+    "unknown": 678
   },
-  "lastUpdated": "2026-07-21T01:13:38.100Z",
+  "lastUpdated": "2026-07-21T08:00:44.594Z",
   "jobsLast7Days": [
     8,
-    34,
+    27,
     51,
     28,
-    20,
-    99,
-    0
+    21,
+    98,
+    4
   ]
 }
