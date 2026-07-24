@@ -1,5 +1,110 @@
 [
   {
+    "id": "jobicy:149690",
+    "platform": "jobicy",
+    "external_id": "149690",
+    "title": "Senior Software Engineer (Storage) - remote in the US",
+    "company": "Mirantis",
+    "description": "Company Description About Mirantis Mirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud, at the edge, or in sovereign data centers. As enterprises navigate the growing complexity of AI-driven workloads, Mirantis delivers the automation, GPU orchestration, and policy-driven control needed to manage infrastructure with confidence and agility. Committed to open standards and freedom from lock-in, Mirantis ensures that customers retain full control of their infrastructure strategy. Job Description Overview Design and build the software that provisions, integrates, and operates high-performance storage for GPU-accelerated compute and AI platforms. You will develop the control-plane services, drivers, and tooling that connect enterprise and scale-out storage systems to Kubernetes-based workloads across hybrid, edge, and air-gapped deployments built on the Mirantis K0rdent stack. About the Role We are looking for a software engineer who thinks in systems and data paths — someone who can reason about throughput, latency, consistency, and failure across a storage stack, then express that understanding as clean, testable Go. The right candidate has built production software against real storage systems (whether enterprise NAS, scale-out, or object), understands what makes storage fast and reliable at scale, and prefers declarative automation over manual operations. You should be self-directed, comfortable owning ambiguous problems end to end, and effective communicating technical decisions across teams. Responsibilities 1. Storage Software &amp; Integration Design and build control-plane services, drivers (e.g., CSI), and tooling that provision, configure, and operate storage for Kubernetes-based AI/compute workloads. Integrate high-performance storage platforms — Dell PowerScale, VAST, and comparable systems — into automated, declarative provisioning workflows. Build data-path, telemetry, and observability tooling to diagnose and resolve performance, reliability, and scaling issues. 2. Software &amp; Automation Write production-quality software — primarily in Go — with strong testing, code review, and operational rigor. Deliver infrastructure-as-code (Terraform/OpenTofu) and GitOps-driven pipelines (ArgoCD or Flux) for storage configuration and lifecycle. Support bare-metal and hybrid provisioning where storage intersects host and cluster bring-up. 3. Platform &amp; Hybrid Delivery Deliver storage integration for k0s-based Kubernetes via Cluster API (CAPI) and K0rdent management/child cluster topologies. Architect storage software for fully disconnected (air-gapped) environments, including local artifact/mirror connectivity (Harbor) and PKI/TLS considerations. Qualifications 5+ years of software development, including production systems, with Go as a primary language. 5+ years building or integrating storage systems (distributed, scale-out, NAS, or object) at scale. Hands-on experience with high-performance storage platforms such as Dell PowerScale, VAST, or comparable technologies. Solid understanding of storage fundamentals: file/block/object models, throughput and latency behavior, caching, consistency, and failure modes. Experience with Kubernetes storage (CSI, persistent volumes, storage classes) and infrastructure-as-code. Strong written and verbal communication with technical audiences. Preferred Proficiency in Python and/or Rust in addition to Go. Experience with the Mirantis K0rdent stack (K0rdent Enterprise, K0rdent AI, k0s, MKE) and Cluster API. Experience developing storage for GPU/AI workloads (high-throughput data pipelines, GPUDirect Storage). Proven experience in sovereign or high-security air-gapped environments. Additional Information What does Mirantis offer you? - Work with an established Silicon Valley leader in the cloud infrastructure industry; - Work with exceptionally passionate, talented and engaging colleagues, helping Fortune 500 and Global 2000 customers implement next-generation cloud technologies; - Be a part of cutting-edge, open-source innovation; - Thrive in the high-energy environment of a young company where openness, collaboration, risk-taking, and continuous growth are valued; - Professional development and training; - Attend conferences and working groups; - Company outings, happy hours, hackathons, and tech talks; - Receive a competitive compensation package with a strong benefits plan. It is understood that Mirantis, Inc. may use automated decision-making technology (ADMT) for specific employment-related decisions. Opting out of ADMT use is requested for decisions about evaluation and review connected with the specific employment decision for the position applied for. You also have the right to appeal any decisions made by ADMT by sending your request to isamoylova@mirantis.com By submitting your resume, you consent to the processing and storage of your personal data in accordance with applicable data protection laws, for the purposes of considering your application for current and future job opportunities. We are a Leader for Container Management in G2 (#2 after AWS)!",
+    "url": "https://jobicy.com/jobs/149690-senior-software-engineer-storage-remote-in-the-us",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "rust",
+      "express",
+      "aws",
+      "kubernetes",
+      "terraform",
+      "argocd",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-24T07:39:48+00:00",
+    "fetched_at": "2026-07-24T13:08:30.728Z",
+    "raw": {
+      "id": 149690,
+      "url": "https://jobicy.com/jobs/149690-senior-software-engineer-storage-remote-in-the-us",
+      "jobSlug": "149690-senior-software-engineer-storage-remote-in-the-us",
+      "jobTitle": "Senior Software Engineer (Storage) - remote in the US",
+      "companyName": "Mirantis",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/a5526a1a-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Company DescriptionAbout MirantisMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the&hellip;",
+      "jobDescription": "<h2>Company Description</h2><p><strong>About Mirantis</strong></p><p>Mirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud, at the edge, or in sovereign data centers. As enterprises navigate the growing complexity of AI-driven workloads, Mirantis delivers the automation, GPU orchestration, and policy-driven control needed to manage infrastructure with confidence and agility. Committed to open standards and freedom from lock-in, Mirantis ensures that customers retain full control of their infrastructure strategy.</p><h2>Job Description</h2><p><strong>Overview</strong></p><p>Design and build the software that provisions, integrates, and operates high-performance storage for GPU-accelerated compute and AI platforms. You will develop the control-plane services, drivers, and tooling that connect enterprise and scale-out storage systems to Kubernetes-based workloads across hybrid, edge, and air-gapped deployments built on the Mirantis K0rdent stack.</p><p><strong>About the Role</strong></p><p>We are looking for a software engineer who thinks in systems and data paths — someone who can reason about throughput, latency, consistency, and failure across a storage stack, then express that understanding as clean, testable Go. The right candidate has built production software against real storage systems (whether enterprise NAS, scale-out, or object), understands what makes storage fast and reliable at scale, and prefers declarative automation over manual operations. You should be self-directed, comfortable owning ambiguous problems end to end, and effective communicating technical decisions across teams.</p><p><strong>Responsibilities</strong></p><p><strong>1. Storage Software &amp; Integration</strong></p><ul><li><p>Design and build control-plane services, drivers (e.g., CSI), and tooling that provision, configure, and operate storage for Kubernetes-based AI/compute workloads.</p></li><li><p>Integrate high-performance storage platforms — Dell PowerScale, VAST, and comparable systems — into automated, declarative provisioning workflows.</p></li><li><p>Build data-path, telemetry, and observability tooling to diagnose and resolve performance, reliability, and scaling issues.</p></li></ul><p><strong>2. Software &amp; Automation</strong></p><ul><li><p>Write production-quality software — primarily in Go — with strong testing, code review, and operational rigor.</p></li><li><p>Deliver infrastructure-as-code (Terraform/OpenTofu) and GitOps-driven pipelines (ArgoCD or Flux) for storage configuration and lifecycle.</p></li><li><p>Support bare-metal and hybrid provisioning where storage intersects host and cluster bring-up.</p></li></ul><p><strong>3. Platform &amp; Hybrid Delivery</strong></p><ul><li><p>Deliver storage integration for k0s-based Kubernetes via Cluster API (CAPI) and K0rdent management/child cluster topologies.</p></li><li><p>Architect storage software for fully disconnected (air-gapped) environments, including local artifact/mirror connectivity (Harbor) and PKI/TLS considerations.</p></li></ul><h2>Qualifications</h2><ul><li><p>5+ years of software development, including production systems, with Go as a primary language.</p></li><li><p>5+ years building or integrating storage systems (distributed, scale-out, NAS, or object) at scale.</p></li><li><p>Hands-on experience with high-performance storage platforms such as Dell PowerScale, VAST, or comparable technologies.</p></li><li><p>Solid understanding of storage fundamentals: file/block/object models, throughput and latency behavior, caching, consistency, and failure modes.</p></li><li><p>Experience with Kubernetes storage (CSI, persistent volumes, storage classes) and infrastructure-as-code.</p></li><li><p>Strong written and verbal communication with technical audiences.</p></li></ul><p><strong>Preferred</strong></p><ul><li><p>Proficiency in Python and/or Rust in addition to Go.</p></li><li><p>Experience with the Mirantis K0rdent stack (K0rdent Enterprise, K0rdent AI, k0s, MKE) and Cluster API.</p></li><li><p>Experience developing storage for GPU/AI workloads (high-throughput data pipelines, GPUDirect Storage).</p></li><li><p>Proven experience in sovereign or high-security air-gapped environments.</p></li></ul><h2>Additional Information</h2><p><strong>What does Mirantis offer you?</strong><br />- Work with an established Silicon Valley leader in the cloud infrastructure industry;<br>\n- Work with exceptionally passionate, talented and engaging colleagues, helping Fortune 500 and Global 2000 customers implement next-generation cloud technologies;<br>\n- Be a part of cutting-edge, open-source innovation;<br>\n- Thrive in the high-energy environment of a young company where openness, collaboration, risk-taking, and continuous growth are valued;<br>\n- Professional development and training;<br>\n- Attend conferences and working groups;<br>\n- Company outings, happy hours, hackathons, and tech talks;<br>\n- Receive a competitive compensation package with a strong benefits plan.</p><p><br>\n<strong>It is understood that Mirantis, Inc. may use automated decision-making technology (ADMT) for specific employment-related decisions. Opting out of ADMT use is requested for decisions about evaluation and review connected with the specific employment decision for the position applied for. You also have the right to appeal any decisions made by ADMT by sending your request to isamoylova@mirantis.com</strong><br />By submitting your resume, you consent to the processing and storage of your personal data in accordance with applicable data protection laws, for the purposes of considering your application for current and future job opportunities.</p><div></div><p>We are a <a href=\"https://www.g2.com/reports/grid-report-for-container-management-spring-2022.embed?featured=mirantis-kubernetes-engine-formerly-docker-enterprise&amp;secure%5Bgated_consumer%5D=7ed17484-74e3-4ce8-8ad6-b48b395fbf56&amp;secure%5Btoken%5D=f4b909a5c1a2d1aa71dee93761486db5732a5b82abd47aa75f3353da41e3b92c&amp;utm_campaign=gate-817340\" rel=\"nofollow ugc noopener\" target=\"_blank\">Leader for Container Management</a> in G2 (#2 after AWS)!</p>",
+      "pubDate": "2026-07-24T07:39:48+00:00"
+    }
+  },
+  {
+    "id": "jobicy:149683",
+    "platform": "jobicy",
+    "external_id": "149683",
+    "title": "Senior Frontend Engineer, Ads Creative",
+    "company": "Reddit",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Team Description The Ads Creative &amp; Recommendations team makes it easier for advertisers to maximize performance on Reddit through relevant creative and actionable recommendations. We own the advertiser-facing workflows where creative, recommendations, and campaign creation come together. Our goal is to reduce blank-canvas work and help advertisers move from an idea to an effective campaign with less friction. We build unified experiences that give advertisers useful context, evidence-backed guidance, and the ability to refine the system’s suggestions. Role Description We’re looking for a senior frontend engineer with deep JavaScript, TypeScript, and React experience to help shape the next generation of Reddit’s advertiser tools. You’ll independently own complex and sometimes ambiguous areas of the product, from technical design through launch and iteration. You’ll work closely with product, design, data science, machine learning, and backend engineering to turn sophisticated capabilities into workflows that feel simple and dependable. This role is a strong fit for someone who cares about both the architecture behind a frontend system and the details that make a product intuitive, fast, accessible, and maintainable. Responsibilities Own the technical design and delivery of complex frontend features across Ads Manager’s creative and recommendation workflows. Translate AI-backed capabilities into interfaces that advertisers can understand, steer, and refine. Partner with product and design to work through ambiguous requirements and make sound product and engineering tradeoffs. Develop reusable frontend patterns and components that support a unified campaign creation experience. Instrument experiences, evaluate results, and use experiments and product data to guide iteration. Raise the quality of the codebase through thoughtful architecture, testing, observability, performance work, and accessibility. Provide high-quality code reviews and technical guidance, and help other engineers grow. Collaborate across frontend, backend, data, and machine learning systems to deliver reliable end-to-end experiences. Required Qualifications 5+ years of experience building production web applications with JavaScript, TypeScript, and React. Comfort using Codex, Cursor, Claude, or comparable agentic coding tools in day-to-day software development. A track record of independently delivering complex frontend projects from technical design through launch and iteration. Sound judgment in frontend architecture, state management, component design, testing, and API integration. Experience building polished user interfaces with close attention to usability, performance, accessibility, and maintainability. Ability to work effectively through ambiguous product and technical problems. Strong communication and collaboration skills across engineering, product, design, and data disciplines. Experience using instrumentation, experimentation, or product metrics to understand and improve user experiences. A habit of improving engineering quality through code reviews, documentation, and technical mentorship. Bonus points Experience building advertising, campaign management, creative tooling, or other complex business applications. Experience designing interfaces for generative AI, machine learning, or recommendation systems. Familiarity with asset management, media upload, image editing, creative versioning, or content generation workflows. Experience building or contributing to shared component libraries and design systems. Experience improving large frontend codebases through architecture, performance, testing, or accessibility work. Technologies used on the team include JavaScript TypeScript React Modern frontend testing, experimentation, and observability tools Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k Match Family Planning Support Gender-Affirming Care Mental Health &amp; Coaching Benefits Flexible Vacation &amp; Reddit Global Days Off Generous paid Parental Leave Paid Volunteer time off #li-remote Pay Transparency: This job posting may span more than one career level. In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/ . To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below. The base salary range for this position is: $190,800—$267,100 USD In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews. During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors . Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.",
+    "url": "https://jobicy.com/jobs/149683-senior-frontend-engineer-ads-creative",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "react",
+      "llm",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-07-24T07:39:36+00:00",
+    "fetched_at": "2026-07-24T13:08:30.730Z",
+    "raw": {
+      "id": 149683,
+      "url": "https://jobicy.com/jobs/149683-senior-frontend-engineer-ads-creative",
+      "jobSlug": "149683-senior-frontend-engineer-ads-creative",
+      "jobTitle": "Senior Frontend Engineer, Ads Creative",
+      "companyName": "Reddit",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/Reddit.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
+      "jobDescription": "<div><div>\n<div>\n<div>\n<div>\n<div>\n<div>Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a href=\"http://www.redditinc.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">www.redditinc.com</a>.</div>\n</div>\n</div>\n</div>\n</div>\n</div></div><h2>Team Description</h2><p>The Ads Creative &amp; Recommendations team makes it easier for advertisers to maximize performance on Reddit through relevant creative and actionable recommendations.</p><p>We own the advertiser-facing workflows where creative, recommendations, and campaign creation come together.</p><p>Our goal is to reduce blank-canvas work and help advertisers move from an idea to an effective campaign with less friction. We build unified experiences that give advertisers useful context, evidence-backed guidance, and the ability to refine the system’s suggestions.</p><h2>Role Description</h2><p>We’re looking for a senior frontend engineer with deep JavaScript, TypeScript, and React experience to help shape the next generation of Reddit’s advertiser tools.</p><p>You’ll independently own complex and sometimes ambiguous areas of the product, from technical design through launch and iteration. You’ll work closely with product, design, data science, machine learning, and backend engineering to turn sophisticated capabilities into workflows that feel simple and dependable.</p><p>This role is a strong fit for someone who cares about both the architecture behind a frontend system and the details that make a product intuitive, fast, accessible, and maintainable.</p><h2>Responsibilities</h2><ul>\n<li>Own the technical design and delivery of complex frontend features across Ads Manager’s creative and recommendation workflows.</li>\n<li>Translate AI-backed capabilities into interfaces that advertisers can understand, steer, and refine.</li>\n<li>Partner with product and design to work through ambiguous requirements and make sound product and engineering tradeoffs.</li>\n<li>Develop reusable frontend patterns and components that support a unified campaign creation experience.</li>\n<li>Instrument experiences, evaluate results, and use experiments and product data to guide iteration.</li>\n<li>Raise the quality of the codebase through thoughtful architecture, testing, observability, performance work, and accessibility.</li>\n<li>Provide high-quality code reviews and technical guidance, and help other engineers grow.</li>\n<li>Collaborate across frontend, backend, data, and machine learning systems to deliver reliable end-to-end experiences.</li>\n</ul><h2>Required Qualifications</h2><ul>\n<li>5+ years of experience building production web applications with JavaScript, TypeScript, and React.</li>\n<li>Comfort using Codex, Cursor, Claude, or comparable agentic coding tools in day-to-day software development.</li>\n<li>A track record of independently delivering complex frontend projects from technical design through launch and iteration.</li>\n<li>Sound judgment in frontend architecture, state management, component design, testing, and API integration.</li>\n<li>Experience building polished user interfaces with close attention to usability, performance, accessibility, and maintainability.</li>\n<li>Ability to work effectively through ambiguous product and technical problems.</li>\n<li>Strong communication and collaboration skills across engineering, product, design, and data disciplines.</li>\n<li>Experience using instrumentation, experimentation, or product metrics to understand and improve user experiences.</li>\n<li>A habit of improving engineering quality through code reviews, documentation, and technical mentorship.</li>\n</ul><h2>Bonus points</h2><ul>\n<li>Experience building advertising, campaign management, creative tooling, or other complex business applications.</li>\n<li>Experience designing interfaces for generative AI, machine learning, or recommendation systems.</li>\n<li>Familiarity with asset management, media upload, image editing, creative versioning, or content generation workflows.</li>\n<li>Experience building or contributing to shared component libraries and design systems.</li>\n<li>Experience improving large frontend codebases through architecture, performance, testing, or accessibility work.</li>\n</ul><h2>Technologies used on the team include</h2><ul>\n<li>JavaScript</li>\n<li>TypeScript</li>\n<li>React</li>\n<li>Modern frontend testing, experimentation, and observability tools</li>\n</ul><p>Benefits: </p><ul>\n<li>Comprehensive Healthcare Benefits and Income Replacement Programs</li>\n<li>401k Match</li>\n<li>Family Planning Support</li>\n<li>Gender-Affirming Care</li>\n<li>Mental Health &amp; Coaching Benefits</li>\n<li>Flexible Vacation &amp; Reddit Global Days Off</li>\n<li>Generous paid Parental Leave </li>\n<li>Paid Volunteer time off</li>\n</ul><p><br>#li-remote</p><div><div><div><p><strong>Pay Transparency:</strong></p>\n<p>This job posting may span more than one career level.</p>\n<p>In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit <a href=\"https://www.redditinc.com/careers/\" target=\"_blank\" rel=\"nofollow ugc noopener\">https://www.redditinc.com/careers/</a>.</p>\n<p>To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.</p></div><div>The base salary range for this position is:</div><div>$190,800—$267,100 USD</div></div></div><div><p>In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.</p>\n<p>During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our <a href=\"https://redditinc.com/policies/candidate-privacy-policy\" rel=\"nofollow ugc noopener\" target=\"_blank\">Candidate Privacy Policy for Potential Employees and Contractors</a>.</p>\n<p><em>Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.</em></p></div>",
+      "pubDate": "2026-07-24T07:39:36+00:00",
+      "salaryMin": 190800,
+      "salaryMax": 267100,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:149289",
     "platform": "jobicy",
     "external_id": "149289",
@@ -21,7 +126,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-24T01:38:26+00:00",
-    "fetched_at": "2026-07-24T08:00:35.980Z",
+    "fetched_at": "2026-07-24T13:08:30.732Z",
     "raw": {
       "id": 149289,
       "url": "https://jobicy.com/jobs/149289-sq-engineer-iv",
@@ -76,7 +181,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-23T20:20:07+00:00",
-    "fetched_at": "2026-07-24T08:00:35.982Z",
+    "fetched_at": "2026-07-24T13:08:30.734Z",
     "raw": {
       "id": 147333,
       "url": "https://jobicy.com/jobs/147333-sr-software-engineer-ii-catalog",
@@ -127,7 +232,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-23T19:54:55+00:00",
-    "fetched_at": "2026-07-24T08:00:35.983Z",
+    "fetched_at": "2026-07-24T13:08:30.735Z",
     "raw": {
       "id": 147410,
       "url": "https://jobicy.com/jobs/147410-staff-backend-engineer-tech-lead-manager",
@@ -177,7 +282,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-23T19:54:53+00:00",
-    "fetched_at": "2026-07-24T08:00:35.983Z",
+    "fetched_at": "2026-07-24T13:08:30.736Z",
     "raw": {
       "id": 147408,
       "url": "https://jobicy.com/jobs/147408-senior-backend-software-engineer-observability",
@@ -229,7 +334,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-23T19:13:32+00:00",
-    "fetched_at": "2026-07-24T08:00:35.985Z",
+    "fetched_at": "2026-07-24T13:08:30.737Z",
     "raw": {
       "id": 147581,
       "url": "https://jobicy.com/jobs/147581-forward-deployed-engineer-3",
@@ -276,7 +381,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-23T11:23:13+00:00",
-    "fetched_at": "2026-07-24T08:00:35.986Z",
+    "fetched_at": "2026-07-24T13:08:30.739Z",
     "raw": {
       "id": 149665,
       "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager",
@@ -323,7 +428,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T18:40:10+00:00",
-    "fetched_at": "2026-07-24T08:00:35.987Z",
+    "fetched_at": "2026-07-24T13:08:30.740Z",
     "raw": {
       "id": 144336,
       "url": "https://jobicy.com/jobs/144336-staff-security-architect",
@@ -371,7 +476,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T18:30:13+00:00",
-    "fetched_at": "2026-07-24T08:00:35.989Z",
+    "fetched_at": "2026-07-24T13:08:30.742Z",
     "raw": {
       "id": 147336,
       "url": "https://jobicy.com/jobs/147336-principal-engineer-catalog",
@@ -426,7 +531,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T18:30:10+00:00",
-    "fetched_at": "2026-07-24T08:00:35.991Z",
+    "fetched_at": "2026-07-24T13:08:30.745Z",
     "raw": {
       "id": 147335,
       "url": "https://jobicy.com/jobs/147335-principal-engineer-mobile",
@@ -480,7 +585,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T18:30:08+00:00",
-    "fetched_at": "2026-07-24T08:00:35.993Z",
+    "fetched_at": "2026-07-24T13:08:30.748Z",
     "raw": {
       "id": 147334,
       "url": "https://jobicy.com/jobs/147334-sr-software-engineer-ii-ai",
@@ -533,7 +638,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T18:30:07+00:00",
-    "fetched_at": "2026-07-24T08:00:35.994Z",
+    "fetched_at": "2026-07-24T13:08:30.751Z",
     "raw": {
       "id": 147337,
       "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
@@ -592,7 +697,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T16:45:03+00:00",
-    "fetched_at": "2026-07-24T08:00:35.996Z",
+    "fetched_at": "2026-07-24T13:08:30.752Z",
     "raw": {
       "id": 143685,
       "url": "https://jobicy.com/jobs/143685-senior-software-engineer-12",
@@ -641,7 +746,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T04:44:05+00:00",
-    "fetched_at": "2026-07-24T08:00:35.997Z",
+    "fetched_at": "2026-07-24T13:08:30.754Z",
     "raw": {
       "id": 149603,
       "url": "https://jobicy.com/jobs/149603-senior-software-engineer-compute-temporal-cloud",
@@ -693,7 +798,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T04:44:03+00:00",
-    "fetched_at": "2026-07-24T08:00:35.998Z",
+    "fetched_at": "2026-07-24T13:08:30.755Z",
     "raw": {
       "id": 149602,
       "url": "https://jobicy.com/jobs/149602-engineering-manager-i-applications",
@@ -754,7 +859,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T04:44:00+00:00",
-    "fetched_at": "2026-07-24T08:00:35.999Z",
+    "fetched_at": "2026-07-24T13:08:30.756Z",
     "raw": {
       "id": 149600,
       "url": "https://jobicy.com/jobs/149600-software-engineer-2",
@@ -808,7 +913,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T04:43:55+00:00",
-    "fetched_at": "2026-07-24T08:00:36.001Z",
+    "fetched_at": "2026-07-24T13:08:30.758Z",
     "raw": {
       "id": 149597,
       "url": "https://jobicy.com/jobs/149597-vice-president-software-engineering",
@@ -853,7 +958,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T04:43:52+00:00",
-    "fetched_at": "2026-07-24T08:00:36.002Z",
+    "fetched_at": "2026-07-24T13:08:30.760Z",
     "raw": {
       "id": 149595,
       "url": "https://jobicy.com/jobs/149595-senior-workday-platform-engineer",
@@ -911,7 +1016,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-22T04:43:37+00:00",
-    "fetched_at": "2026-07-24T08:00:36.004Z",
+    "fetched_at": "2026-07-24T13:08:30.762Z",
     "raw": {
       "id": 149586,
       "url": "https://jobicy.com/jobs/149586-lead-machine-learning-engineer-2",
@@ -967,7 +1072,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:21:06+00:00",
-    "fetched_at": "2026-07-24T08:00:36.005Z",
+    "fetched_at": "2026-07-24T13:08:30.763Z",
     "raw": {
       "id": 149581,
       "url": "https://jobicy.com/jobs/149581-graduate-software-engineer-open-source-and-linux-canonical-ubuntu",
@@ -1019,7 +1124,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:56+00:00",
-    "fetched_at": "2026-07-24T08:00:36.007Z",
+    "fetched_at": "2026-07-24T13:08:30.765Z",
     "raw": {
       "id": 149576,
       "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
@@ -1067,7 +1172,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:51+00:00",
-    "fetched_at": "2026-07-24T08:00:36.008Z",
+    "fetched_at": "2026-07-24T13:08:30.768Z",
     "raw": {
       "id": 149574,
       "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
@@ -1114,7 +1219,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:40+00:00",
-    "fetched_at": "2026-07-24T08:00:36.009Z",
+    "fetched_at": "2026-07-24T13:08:30.769Z",
     "raw": {
       "id": 149567,
       "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
@@ -1163,7 +1268,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:38+00:00",
-    "fetched_at": "2026-07-24T08:00:36.010Z",
+    "fetched_at": "2026-07-24T13:08:30.770Z",
     "raw": {
       "id": 149566,
       "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
@@ -1220,7 +1325,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:33+00:00",
-    "fetched_at": "2026-07-24T08:00:36.011Z",
+    "fetched_at": "2026-07-24T13:08:30.771Z",
     "raw": {
       "id": 149563,
       "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
@@ -1269,7 +1374,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:31+00:00",
-    "fetched_at": "2026-07-24T08:00:36.012Z",
+    "fetched_at": "2026-07-24T13:08:30.773Z",
     "raw": {
       "id": 149562,
       "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
@@ -1318,7 +1423,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:28+00:00",
-    "fetched_at": "2026-07-24T08:00:36.013Z",
+    "fetched_at": "2026-07-24T13:08:30.774Z",
     "raw": {
       "id": 149560,
       "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
@@ -1367,7 +1472,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:25+00:00",
-    "fetched_at": "2026-07-24T08:00:36.015Z",
+    "fetched_at": "2026-07-24T13:08:30.775Z",
     "raw": {
       "id": 149558,
       "url": "https://jobicy.com/jobs/149558-microservices-engineer",
@@ -1414,7 +1519,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:15+00:00",
-    "fetched_at": "2026-07-24T08:00:36.016Z",
+    "fetched_at": "2026-07-24T13:08:30.776Z",
     "raw": {
       "id": 149552,
       "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
@@ -1467,7 +1572,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:20:12+00:00",
-    "fetched_at": "2026-07-24T08:00:36.019Z",
+    "fetched_at": "2026-07-24T13:08:30.778Z",
     "raw": {
       "id": 149551,
       "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
@@ -1519,7 +1624,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:57+00:00",
-    "fetched_at": "2026-07-24T08:00:36.020Z",
+    "fetched_at": "2026-07-24T13:08:30.780Z",
     "raw": {
       "id": 149543,
       "url": "https://jobicy.com/jobs/149543-python-engineer",
@@ -1569,7 +1674,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:49+00:00",
-    "fetched_at": "2026-07-24T08:00:36.022Z",
+    "fetched_at": "2026-07-24T13:08:30.781Z",
     "raw": {
       "id": 149538,
       "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
@@ -1617,7 +1722,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:48+00:00",
-    "fetched_at": "2026-07-24T08:00:36.023Z",
+    "fetched_at": "2026-07-24T13:08:30.782Z",
     "raw": {
       "id": 149537,
       "url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
@@ -1665,7 +1770,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:44+00:00",
-    "fetched_at": "2026-07-24T08:00:36.024Z",
+    "fetched_at": "2026-07-24T13:08:30.784Z",
     "raw": {
       "id": 149535,
       "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
@@ -1723,7 +1828,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:43+00:00",
-    "fetched_at": "2026-07-24T08:00:36.025Z",
+    "fetched_at": "2026-07-24T13:08:30.785Z",
     "raw": {
       "id": 149534,
       "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
@@ -1771,7 +1876,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:41+00:00",
-    "fetched_at": "2026-07-24T08:00:36.026Z",
+    "fetched_at": "2026-07-24T13:08:30.786Z",
     "raw": {
       "id": 149533,
       "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
@@ -1822,7 +1927,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:39+00:00",
-    "fetched_at": "2026-07-24T08:00:36.027Z",
+    "fetched_at": "2026-07-24T13:08:30.787Z",
     "raw": {
       "id": 149532,
       "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
@@ -1874,7 +1979,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:31+00:00",
-    "fetched_at": "2026-07-24T08:00:36.028Z",
+    "fetched_at": "2026-07-24T13:08:30.789Z",
     "raw": {
       "id": 149527,
       "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
@@ -1929,7 +2034,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:26+00:00",
-    "fetched_at": "2026-07-24T08:00:36.030Z",
+    "fetched_at": "2026-07-24T13:08:30.790Z",
     "raw": {
       "id": 149524,
       "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
@@ -1980,7 +2085,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:24+00:00",
-    "fetched_at": "2026-07-24T08:00:36.030Z",
+    "fetched_at": "2026-07-24T13:08:30.791Z",
     "raw": {
       "id": 149523,
       "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
@@ -2033,7 +2138,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:22+00:00",
-    "fetched_at": "2026-07-24T08:00:36.032Z",
+    "fetched_at": "2026-07-24T13:08:30.792Z",
     "raw": {
       "id": 149522,
       "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
@@ -2082,7 +2187,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T16:19:19+00:00",
-    "fetched_at": "2026-07-24T08:00:36.033Z",
+    "fetched_at": "2026-07-24T13:08:30.793Z",
     "raw": {
       "id": 149520,
       "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
@@ -2127,7 +2232,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T11:30:12+00:00",
-    "fetched_at": "2026-07-24T08:00:36.034Z",
+    "fetched_at": "2026-07-24T13:08:30.795Z",
     "raw": {
       "id": 144256,
       "url": "https://jobicy.com/jobs/144256-vp-of-engineering",
@@ -2174,7 +2279,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T11:30:09+00:00",
-    "fetched_at": "2026-07-24T08:00:36.034Z",
+    "fetched_at": "2026-07-24T13:08:30.795Z",
     "raw": {
       "id": 144246,
       "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote",
@@ -2227,7 +2332,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T09:20:04+00:00",
-    "fetched_at": "2026-07-24T08:00:36.035Z",
+    "fetched_at": "2026-07-24T13:08:30.796Z",
     "raw": {
       "id": 149503,
       "url": "https://jobicy.com/jobs/149503-partner-solutions-architect",
@@ -2277,7 +2382,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T09:19:58+00:00",
-    "fetched_at": "2026-07-24T08:00:36.036Z",
+    "fetched_at": "2026-07-24T13:08:30.797Z",
     "raw": {
       "id": 149499,
       "url": "https://jobicy.com/jobs/149499-software-engineer-data",
@@ -2327,7 +2432,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T09:19:56+00:00",
-    "fetched_at": "2026-07-24T08:00:36.037Z",
+    "fetched_at": "2026-07-24T13:08:30.800Z",
     "raw": {
       "id": 149498,
       "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
@@ -2378,7 +2483,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-21T09:19:54+00:00",
-    "fetched_at": "2026-07-24T08:00:36.038Z",
+    "fetched_at": "2026-07-24T13:08:30.801Z",
     "raw": {
       "id": 149497,
       "url": "https://jobicy.com/jobs/149497-software-engineer-connect-platform",
@@ -2423,7 +2528,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T20:20:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.039Z",
+    "fetched_at": "2026-07-24T13:08:30.802Z",
     "raw": {
       "id": 144481,
       "url": "https://jobicy.com/jobs/144481-solutions-architect-scaled-operations-ai-accelerator-team",
@@ -2468,7 +2573,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-20T17:11:22+00:00",
-    "fetched_at": "2026-07-24T08:00:36.040Z",
+    "fetched_at": "2026-07-24T13:08:30.802Z",
     "raw": {
       "id": 149468,
       "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
@@ -2516,7 +2621,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-20T17:11:18+00:00",
-    "fetched_at": "2026-07-24T08:00:36.040Z",
+    "fetched_at": "2026-07-24T13:08:30.803Z",
     "raw": {
       "id": 149466,
       "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
@@ -2566,7 +2671,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T14:39:55+00:00",
-    "fetched_at": "2026-07-24T08:00:36.041Z",
+    "fetched_at": "2026-07-24T13:08:30.804Z",
     "raw": {
       "id": 149453,
       "url": "https://jobicy.com/jobs/149453-customer-success-engineer-spanish-required",
@@ -2609,7 +2714,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T14:39:50+00:00",
-    "fetched_at": "2026-07-24T08:00:36.043Z",
+    "fetched_at": "2026-07-24T13:08:30.806Z",
     "raw": {
       "id": 149450,
       "url": "https://jobicy.com/jobs/149450-customer-solution-engineer-ai-native-consumption-quote-to-cash",
@@ -2656,7 +2761,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T03:35:08+00:00",
-    "fetched_at": "2026-07-24T08:00:36.044Z",
+    "fetched_at": "2026-07-24T13:08:30.807Z",
     "raw": {
       "id": 144098,
       "url": "https://jobicy.com/jobs/144098-senior-software-engineer-full-remote-france-or-hybrid-2",
@@ -2701,7 +2806,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T03:20:06+00:00",
-    "fetched_at": "2026-07-24T08:00:36.045Z",
+    "fetched_at": "2026-07-24T13:08:30.809Z",
     "raw": {
       "id": 147186,
       "url": "https://jobicy.com/jobs/147186-system-developer",
@@ -2758,7 +2863,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T03:10:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.046Z",
+    "fetched_at": "2026-07-24T13:08:30.812Z",
     "raw": {
       "id": 144179,
       "url": "https://jobicy.com/jobs/144179-golang-engineer",
@@ -2819,7 +2924,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-20T03:05:09+00:00",
-    "fetched_at": "2026-07-24T08:00:36.047Z",
+    "fetched_at": "2026-07-24T13:08:30.814Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -2862,7 +2967,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T10:45:03+00:00",
-    "fetched_at": "2026-07-24T08:00:36.048Z",
+    "fetched_at": "2026-07-24T13:08:30.815Z",
     "raw": {
       "id": 147112,
       "url": "https://jobicy.com/jobs/147112-principal-geotechnical-engineer",
@@ -2913,7 +3018,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T10:05:03+00:00",
-    "fetched_at": "2026-07-24T08:00:36.049Z",
+    "fetched_at": "2026-07-24T13:08:30.816Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -2965,7 +3070,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T09:45:04+00:00",
-    "fetched_at": "2026-07-24T08:00:36.051Z",
+    "fetched_at": "2026-07-24T13:08:30.818Z",
     "raw": {
       "id": 147190,
       "url": "https://jobicy.com/jobs/147190-ai-soc-hardware-architect",
@@ -3011,7 +3116,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-19T09:45:02+00:00",
-    "fetched_at": "2026-07-24T08:00:36.052Z",
+    "fetched_at": "2026-07-24T13:08:30.819Z",
     "raw": {
       "id": 147189,
       "url": "https://jobicy.com/jobs/147189-ai-compiler-engineer",
@@ -3067,7 +3172,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-18T19:40:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.053Z",
+    "fetched_at": "2026-07-24T13:08:30.820Z",
     "raw": {
       "id": 146800,
       "url": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl",
@@ -3110,7 +3215,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T19:10:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.055Z",
+    "fetched_at": "2026-07-24T13:08:30.822Z",
     "raw": {
       "id": 146984,
       "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
@@ -3162,7 +3267,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T19:10:03+00:00",
-    "fetched_at": "2026-07-24T08:00:36.055Z",
+    "fetched_at": "2026-07-24T13:08:30.823Z",
     "raw": {
       "id": 146976,
       "url": "https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes",
@@ -3208,7 +3313,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T18:40:02+00:00",
-    "fetched_at": "2026-07-24T08:00:36.057Z",
+    "fetched_at": "2026-07-24T13:08:30.825Z",
     "raw": {
       "id": 147066,
       "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
@@ -3255,7 +3360,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-18T02:55:03+00:00",
-    "fetched_at": "2026-07-24T08:00:36.058Z",
+    "fetched_at": "2026-07-24T13:08:30.826Z",
     "raw": {
       "id": 146760,
       "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
@@ -3302,7 +3407,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-18T02:55:02+00:00",
-    "fetched_at": "2026-07-24T08:00:36.059Z",
+    "fetched_at": "2026-07-24T13:08:30.827Z",
     "raw": {
       "id": 146761,
       "url": "https://jobicy.com/jobs/146761-danish-tech-linguistic-tester",
@@ -3347,7 +3452,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T02:05:06+00:00",
-    "fetched_at": "2026-07-24T08:00:36.060Z",
+    "fetched_at": "2026-07-24T13:08:30.828Z",
     "raw": {
       "id": 147000,
       "url": "https://jobicy.com/jobs/147000-experienced-information-systems-architect",
@@ -3403,7 +3508,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-18T01:55:03+00:00",
-    "fetched_at": "2026-07-24T08:00:36.061Z",
+    "fetched_at": "2026-07-24T13:08:30.829Z",
     "raw": {
       "id": 147013,
       "url": "https://jobicy.com/jobs/147013-ios-developer-remote-anywhere-in-mexico",
@@ -3451,7 +3556,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T01:45:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.061Z",
+    "fetched_at": "2026-07-24T13:08:30.830Z",
     "raw": {
       "id": 147050,
       "url": "https://jobicy.com/jobs/147050-ai-systems-engineering-expert",
@@ -3498,7 +3603,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-18T01:40:03+00:00",
-    "fetched_at": "2026-07-24T08:00:36.063Z",
+    "fetched_at": "2026-07-24T13:08:30.832Z",
     "raw": {
       "id": 147065,
       "url": "https://jobicy.com/jobs/147065-staff-design-engineer",
@@ -3545,7 +3650,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-17T12:50:02+00:00",
-    "fetched_at": "2026-07-24T08:00:36.064Z",
+    "fetched_at": "2026-07-24T13:08:30.834Z",
     "raw": {
       "id": 145933,
       "url": "https://jobicy.com/jobs/145933-sales-engineer-mid-market-mexico",
@@ -3588,7 +3693,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-17T09:25:02+00:00",
-    "fetched_at": "2026-07-24T08:00:36.065Z",
+    "fetched_at": "2026-07-24T13:08:30.835Z",
     "raw": {
       "id": 146657,
       "url": "https://jobicy.com/jobs/146657-associate-application-engineer",
@@ -3635,7 +3740,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-17T08:55:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.066Z",
+    "fetched_at": "2026-07-24T13:08:30.836Z",
     "raw": {
       "id": 146757,
       "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
@@ -3682,7 +3787,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-17T08:45:06+00:00",
-    "fetched_at": "2026-07-24T08:00:36.067Z",
+    "fetched_at": "2026-07-24T13:08:30.837Z",
     "raw": {
       "id": 146790,
       "url": "https://jobicy.com/jobs/146790-senior-qa-automation-engineer-3",
@@ -3725,7 +3830,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-17T08:30:04+00:00",
-    "fetched_at": "2026-07-24T08:00:36.068Z",
+    "fetched_at": "2026-07-24T13:08:30.838Z",
     "raw": {
       "id": 146848,
       "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
@@ -3768,7 +3873,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-17T02:24:54+00:00",
-    "fetched_at": "2026-07-24T08:00:36.069Z",
+    "fetched_at": "2026-07-24T13:08:30.840Z",
     "raw": {
       "id": 149398,
       "url": "https://jobicy.com/jobs/149398-electrical-engineer-bess-focus",
@@ -3813,7 +3918,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T20:30:11+00:00",
-    "fetched_at": "2026-07-24T08:00:36.070Z",
+    "fetched_at": "2026-07-24T13:08:30.841Z",
     "raw": {
       "id": 146611,
       "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
@@ -3862,7 +3967,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T20:30:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.072Z",
+    "fetched_at": "2026-07-24T13:08:30.842Z",
     "raw": {
       "id": 146614,
       "url": "https://jobicy.com/jobs/146614-database-engineer",
@@ -3912,7 +4017,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T15:00:03+00:00",
-    "fetched_at": "2026-07-24T08:00:36.072Z",
+    "fetched_at": "2026-07-24T13:08:30.843Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -3959,7 +4064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T12:35:53+00:00",
-    "fetched_at": "2026-07-24T08:00:36.074Z",
+    "fetched_at": "2026-07-24T13:08:30.845Z",
     "raw": {
       "id": 149386,
       "url": "https://jobicy.com/jobs/149386-sales-systems-engineer-commercial",
@@ -4014,7 +4119,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-16T05:15:01+00:00",
-    "fetched_at": "2026-07-24T08:00:36.075Z",
+    "fetched_at": "2026-07-24T13:08:30.847Z",
     "raw": {
       "id": 148144,
       "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
@@ -4064,7 +4169,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-15T20:25:04+00:00",
-    "fetched_at": "2026-07-24T08:00:36.076Z",
+    "fetched_at": "2026-07-24T13:08:30.848Z",
     "raw": {
       "id": 146191,
       "url": "https://jobicy.com/jobs/146191-network-engineer",
@@ -4115,7 +4220,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-15T20:20:06+00:00",
-    "fetched_at": "2026-07-24T08:00:36.078Z",
+    "fetched_at": "2026-07-24T13:08:30.850Z",
     "raw": {
       "id": 146203,
       "url": "https://jobicy.com/jobs/146203-advisory-engineer-hardware-hpsc",
@@ -4166,7 +4271,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-15T19:55:02+00:00",
-    "fetched_at": "2026-07-24T08:00:36.079Z",
+    "fetched_at": "2026-07-24T13:08:30.851Z",
     "raw": {
       "id": 146290,
       "url": "https://jobicy.com/jobs/146290-hands-on-tech-lead-proptech-real-estate-media",
@@ -4223,7 +4328,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T14:25:06+00:00",
-    "fetched_at": "2026-07-24T08:00:36.081Z",
+    "fetched_at": "2026-07-24T13:08:30.853Z",
     "raw": {
       "id": 145935,
       "url": "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2",
@@ -4280,7 +4385,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T14:10:04+00:00",
-    "fetched_at": "2026-07-24T08:00:36.082Z",
+    "fetched_at": "2026-07-24T13:08:30.855Z",
     "raw": {
       "id": 145996,
       "url": "https://jobicy.com/jobs/145996-customer-solutions-architect-2",
@@ -4329,7 +4434,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T13:25:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.084Z",
+    "fetched_at": "2026-07-24T13:08:30.857Z",
     "raw": {
       "id": 146085,
       "url": "https://jobicy.com/jobs/146085-staff-software-developer-2",
@@ -4382,7 +4487,7 @@
       "Programming"
     ],
     "posted_at": "2026-07-14T12:55:07+00:00",
-    "fetched_at": "2026-07-24T08:00:36.084Z",
+    "fetched_at": "2026-07-24T13:08:30.857Z",
     "raw": {
       "id": 146122,
       "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
@@ -4432,7 +4537,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:35:08+00:00",
-    "fetched_at": "2026-07-24T08:00:36.085Z",
+    "fetched_at": "2026-07-24T13:08:30.859Z",
     "raw": {
       "id": 146200,
       "url": "https://jobicy.com/jobs/146200-sr-solutions-architect-agencies",
@@ -4487,7 +4592,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:20:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.086Z",
+    "fetched_at": "2026-07-24T13:08:30.860Z",
     "raw": {
       "id": 146232,
       "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
@@ -4549,7 +4654,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:10:09+00:00",
-    "fetched_at": "2026-07-24T08:00:36.088Z",
+    "fetched_at": "2026-07-24T13:08:30.862Z",
     "raw": {
       "id": 146260,
       "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
@@ -4605,7 +4710,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:10:06+00:00",
-    "fetched_at": "2026-07-24T08:00:36.089Z",
+    "fetched_at": "2026-07-24T13:08:30.863Z",
     "raw": {
       "id": 146259,
       "url": "https://jobicy.com/jobs/146259-net-developer",
@@ -4652,7 +4757,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-14T12:05:03+00:00",
-    "fetched_at": "2026-07-24T08:00:36.090Z",
+    "fetched_at": "2026-07-24T13:08:30.864Z",
     "raw": {
       "id": 146269,
       "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
@@ -4700,7 +4805,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T12:00:04+00:00",
-    "fetched_at": "2026-07-24T08:00:36.090Z",
+    "fetched_at": "2026-07-24T13:08:30.865Z",
     "raw": {
       "id": 146276,
       "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
@@ -4758,7 +4863,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T11:50:05+00:00",
-    "fetched_at": "2026-07-24T08:00:36.091Z",
+    "fetched_at": "2026-07-24T13:08:30.866Z",
     "raw": {
       "id": 146294,
       "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
@@ -4812,7 +4917,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T11:50:04+00:00",
-    "fetched_at": "2026-07-24T08:00:36.092Z",
+    "fetched_at": "2026-07-24T13:08:30.867Z",
     "raw": {
       "id": 146293,
       "url": "https://jobicy.com/jobs/146293-senior-full-stack-engineer-net-angular-asp-net-focus-govtech-hr-software-latam",
@@ -4855,7 +4960,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-07-14T10:42:36+00:00",
-    "fetched_at": "2026-07-24T08:00:36.093Z",
+    "fetched_at": "2026-07-24T13:08:30.868Z",
     "raw": {
       "id": 149301,
       "url": "https://jobicy.com/jobs/149301-garment-manufacturing-qc-specialist-freelance-ai-trainer-project",
@@ -4904,7 +5009,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-14T10:37:25+00:00",
-    "fetched_at": "2026-07-24T08:00:36.094Z",
+    "fetched_at": "2026-07-24T13:08:30.869Z",
     "raw": {
       "id": 149297,
       "url": "https://jobicy.com/jobs/149297-technical-operations-engineer-payments",
@@ -4925,108 +5030,6 @@
       "pubDate": "2026-07-14T10:37:25+00:00",
       "salaryMin": 109100,
       "salaryMax": 163700,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:149293",
-    "platform": "jobicy",
-    "external_id": "149293",
-    "title": "Staff Software Engineer, Backend (Lake Analytics Platform)",
-    "company": "Affirm",
-    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Affirm’s engineering team is building a large-scale, highly available, and global infrastructure that is shared across multiple financial products. Ensuring that our infrastructure is accessible to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of engaging in thorough technical design review, operational excellence, and capable incident response and analysis. The Data and Storage Services team is responsible for Affirm’s data infrastructure across OLTP and OLAP systems, spanning critical online checkout databases, batch orchestration, streaming infrastructure, event-driven frameworks, BI, analytics tooling, large-scale data platforms, and agentic data tools such as semantic layers and internal platform data applications. Our mission is to provide trustworthy, intuitive, and cost-efficient solutions for Affirmers to secure, store, analyze, and transform data at exceptional scale. This role will focus on Affirm’s Lakehouse Platform , including Apache Iceberg as a foundational technology for scalable analytical data storage, table management, schema evolution, and interoperability across compute engines such as Spark and Snowflake. What You’ll Do Influence technical strategy: Define and drive the long-term technical roadmap for Affirm’s Lakehouse Platform across Apache Iceberg, Spark, Snowflake, and cloud-native storage, balancing scalability, reliability, governance, performance, and cost. Design and develop: Architect and implement platform capabilities that make analytical data secure, trustworthy, discoverable, and easy to use across Affirm’s engineering, analytics, machine learning, and business teams. Strengthen governance and access controls: Design and operate secure, auditable data access capabilities across Snowflake and the lakehouse platform, including RBAC, dynamic data masking, cataloging, lineage, classification, and privacy policy enforcement. Improve analytics engineering foundations: Partner with Analytics Engineering to evolve data modeling, transformation pipelines, testing frameworks, documentation standards, and data quality practices that enable trustworthy self-service analytics. Operate at scale: Establish best practices for lakehouse operations, including schema evolution, table maintenance, partitioning, compaction, observability, incident response, production support, and readiness for on-call operations. Optimize performance and cost: Identify and execute improvements across analytical compute and storage, including Snowflake warehouse tuning, query optimization, storage layout, lifecycle management, cost attribution, and operational efficiency. Collaborate cross-functionally: Partner with Infrastructure, Lakehouse Analytics, Analytics Engineering, Machine Learning, BI, Product Engineering, and SRE to translate stakeholder needs into durable platform architecture. Innovate: Stay ahead of industry trends in lakehouse architecture, open table formats, analytical compute engines, data governance, privacy engineering, semantic layers, agentic data tools, and AI-ready data infrastructure. Build teams: Mentor engineers, raise technical quality, and foster an inclusive culture of design rigor, operational excellence, and continuous learning. What We Look For Lakehouse Platform Expertise: Proven experience architecting, building, launching, and operating large-scale OLAP systems, lakehouse platforms, or analytical data infrastructure using technologies such as Apache Iceberg, Spark, Snowflake, and cloud-native storage. Snowflake Platform Expertise: Hands-on experience with Snowflake or comparable analytical data warehouses, including RBAC, dynamic data masking, warehouse optimization, query profiling, clustering, and cost management. Data Platform Architecture: Strong understanding of table formats, schema evolution, partitioning, compaction, query performance, data lifecycle management, observability, and cost optimization for analytical systems. Governance and Trust: Experience designing secure, reliable, and governed data platforms, including RBAC/ABAC, data quality, lineage, classification, privacy controls, policy enforcement, and operational compliance. Analytics Engineering Foundations: Experience with dbt or similar transformation frameworks, data modeling best practices, testing, documentation, CI/CD, and data quality practices for analytical pipelines. Agentic Data Tools: Experience building or shaping semantic layers, self-service analytics platforms, internal data applications, or AI-enabled data tools that improve data accessibility and usability. Technical Leadership: Demonstrated ability to set technical direction, lead ambiguous platform initiatives, mentor engineers, and influence roadmaps across teams while staying close to implementation details. Collaboration: Strong ability to partner with engineering, analytics, machine learning, BI, product, and infrastructure teams to translate business needs into durable technical solutions. Communication Skills: Excellent communication skills, with the ability to clearly articulate technical concepts, tradeoffs, and recommendations to technical and non-technical stakeholders. Qualifications Experience: 8+ years of experience in software engineering, data infrastructure, or data platform engineering, with 2+ years of technical leadership responsibilities. Hands-on Leadership: Hands-on experience leading teams to build critical data infrastructure. Snowflake / Analytical Warehouses: Hands-on experience with Snowflake or comparable analytical data warehouses, including access control, data masking, query optimization, and cost management. Lakehouse and Big Data: Strong experience with Apache Iceberg, Spark, and cloud-native data lake architectures. Analytics Engineering: Experience with dbt or equivalent transformation frameworks, including data modeling, testing, documentation, and CI/CD practices. Programming Skills: Proficiency in Python, SQL, or JVM-based languages, with a strong emphasis on clean, maintainable, production-quality systems. Infrastructure as Code: Familiarity with Terraform or similar automation tools for managing data infrastructure. Education: This position requires equivalent practical experience or a Bachelor’s degree in a related field. Base Pay Grade - P Equity Grade - 13 Employees new to Affirm typically come in at the start of the pay range . Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) USA base pay range (CA, WA, NY, NJ, CT) per year: $230,000 - $290,000 USA base pay range (all other U.S. states) per year: $204,000 - $264,000 #LI-Remote Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities. We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process. [For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records. By clicking \"Submit Application,\" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.",
-    "url": "https://jobicy.com/jobs/149293-staff-software-engineer-backend-lake-analytics-platform",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "terraform",
-      "apache",
-      "machine-learning",
-      "spark",
-      "dbt",
-      "snowflake"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-07-14T10:37:18+00:00",
-    "fetched_at": "2026-07-24T08:00:36.095Z",
-    "raw": {
-      "id": 149293,
-      "url": "https://jobicy.com/jobs/149293-staff-software-engineer-backend-lake-analytics-platform",
-      "jobSlug": "149293-staff-software-engineer-backend-lake-analytics-platform",
-      "jobTitle": "Staff Software Engineer, Backend (Lake Analytics Platform)",
-      "companyName": "Affirm",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fac7714c-221-1.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.&hellip;",
-      "jobDescription": "<div><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Affirm’s engineering team is building a large-scale, highly available, and global infrastructure that is shared across multiple financial products. Ensuring that our infrastructure is accessible to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of engaging in thorough technical design review, operational excellence, and capable incident response and analysis.</p><p>The Data and Storage Services team is responsible for Affirm’s data infrastructure across OLTP and OLAP systems, spanning critical online checkout databases, batch orchestration, streaming infrastructure, event-driven frameworks, BI, analytics tooling, large-scale data platforms, and agentic data tools such as semantic layers and internal platform data applications. Our mission is to provide trustworthy, intuitive, and cost-efficient solutions for Affirmers to secure, store, analyze, and transform data at exceptional scale.</p><p>This role will focus on Affirm’s <strong>Lakehouse Platform</strong>, including Apache Iceberg as a foundational technology for scalable analytical data storage, table management, schema evolution, and interoperability across compute engines such as Spark and Snowflake.</p><h2>What You’ll Do</h2><ul>\n<li><strong>Influence technical strategy:</strong> Define and drive the long-term technical roadmap for Affirm’s Lakehouse Platform across Apache Iceberg, Spark, Snowflake, and cloud-native storage, balancing scalability, reliability, governance, performance, and cost.</li>\n<li><strong>Design and develop:</strong> Architect and implement platform capabilities that make analytical data secure, trustworthy, discoverable, and easy to use across Affirm’s engineering, analytics, machine learning, and business teams.</li>\n<li><strong>Strengthen governance and access controls:</strong> Design and operate secure, auditable data access capabilities across Snowflake and the lakehouse platform, including RBAC, dynamic data masking, cataloging, lineage, classification, and privacy policy enforcement.</li>\n<li><strong>Improve analytics engineering foundations:</strong> Partner with Analytics Engineering to evolve data modeling, transformation pipelines, testing frameworks, documentation standards, and data quality practices that enable trustworthy self-service analytics.</li>\n<li><strong>Operate at scale:</strong> Establish best practices for lakehouse operations, including schema evolution, table maintenance, partitioning, compaction, observability, incident response, production support, and readiness for on-call operations.</li>\n<li><strong>Optimize performance and cost:</strong> Identify and execute improvements across analytical compute and storage, including Snowflake warehouse tuning, query optimization, storage layout, lifecycle management, cost attribution, and operational efficiency.</li>\n<li><strong>Collaborate cross-functionally:</strong> Partner with Infrastructure, Lakehouse Analytics, Analytics Engineering, Machine Learning, BI, Product Engineering, and SRE to translate stakeholder needs into durable platform architecture.</li>\n<li><strong>Innovate:</strong> Stay ahead of industry trends in lakehouse architecture, open table formats, analytical compute engines, data governance, privacy engineering, semantic layers, agentic data tools, and AI-ready data infrastructure.</li>\n<li><strong>Build teams:</strong> Mentor engineers, raise technical quality, and foster an inclusive culture of design rigor, operational excellence, and continuous learning.</li>\n</ul><h2>What We Look For</h2><ul>\n<li><strong>Lakehouse Platform Expertise:</strong> Proven experience architecting, building, launching, and operating large-scale OLAP systems, lakehouse platforms, or analytical data infrastructure using technologies such as Apache Iceberg, Spark, Snowflake, and cloud-native storage.</li>\n<li><strong>Snowflake Platform Expertise:</strong> Hands-on experience with Snowflake or comparable analytical data warehouses, including RBAC, dynamic data masking, warehouse optimization, query profiling, clustering, and cost management.</li>\n<li><strong>Data Platform Architecture:</strong> Strong understanding of table formats, schema evolution, partitioning, compaction, query performance, data lifecycle management, observability, and cost optimization for analytical systems.</li>\n<li><strong>Governance and Trust:</strong> Experience designing secure, reliable, and governed data platforms, including RBAC/ABAC, data quality, lineage, classification, privacy controls, policy enforcement, and operational compliance.</li>\n<li><strong>Analytics Engineering Foundations:</strong> Experience with dbt or similar transformation frameworks, data modeling best practices, testing, documentation, CI/CD, and data quality practices for analytical pipelines.</li>\n<li><strong>Agentic Data Tools:</strong> Experience building or shaping semantic layers, self-service analytics platforms, internal data applications, or AI-enabled data tools that improve data accessibility and usability.</li>\n<li><strong>Technical Leadership:</strong> Demonstrated ability to set technical direction, lead ambiguous platform initiatives, mentor engineers, and influence roadmaps across teams while staying close to implementation details.</li>\n<li><strong>Collaboration:</strong> Strong ability to partner with engineering, analytics, machine learning, BI, product, and infrastructure teams to translate business needs into durable technical solutions.</li>\n<li><strong>Communication Skills:</strong> Excellent communication skills, with the ability to clearly articulate technical concepts, tradeoffs, and recommendations to technical and non-technical stakeholders.</li>\n</ul><h2>Qualifications</h2><ul>\n<li><strong>Experience:</strong> 8+ years of experience in software engineering, data infrastructure, or data platform engineering, with 2+ years of technical leadership responsibilities.</li>\n<li><strong>Hands-on Leadership:</strong> Hands-on experience leading teams to build critical data infrastructure.</li>\n<li><strong>Snowflake / Analytical Warehouses:</strong> Hands-on experience with Snowflake or comparable analytical data warehouses, including access control, data masking, query optimization, and cost management.</li>\n<li><strong>Lakehouse and Big Data:</strong> Strong experience with Apache Iceberg, Spark, and cloud-native data lake architectures.</li>\n<li><strong>Analytics Engineering:</strong> Experience with dbt or equivalent transformation frameworks, including data modeling, testing, documentation, and CI/CD practices.</li>\n<li><strong>Programming Skills:</strong> Proficiency in Python, SQL, or JVM-based languages, with a strong emphasis on clean, maintainable, production-quality systems.</li>\n<li><strong>Infrastructure as Code:</strong> Familiarity with Terraform or similar automation tools for managing data infrastructure.</li>\n<li><strong>Education:</strong> This position requires equivalent practical experience or a Bachelor’s degree in a related field.<br /></li>\n</ul><p><strong>Base Pay Grade - P</strong></p><p><strong>Equity Grade - 13</strong></p><p>Employees new to Affirm <em>typically come in at the start of the pay range</em>. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.</p><p>Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)</p><p>USA base pay range (CA, WA, NY, NJ, CT) per year: $230,000 - $290,000<br>USA base pay range (all other U.S. states) per year: $204,000 - $264,000</p><p> #LI-Remote</p><p> </p><div><div>\n<p>Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.</p>\n<p>We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: </p>\n<ul>\n<li>Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents </li>\n<li>Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses</li>\n<li>Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge</li>\n<li>ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount</li>\n</ul>\n<p>We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.</p>\n<p>[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.</p>\n</div>\n<div>\n<p>By clicking \"Submit Application,\" you acknowledge that you have read Affirm's <a href=\"https://www.affirm.com/global-candidate-privacy-notice\" target=\"_blank\" rel=\"nofollow ugc noopener\">Global Candidate Privacy Notice</a> and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.</p>\n</div></div>",
-      "pubDate": "2026-07-14T10:37:18+00:00",
-      "salaryMin": 204000,
-      "salaryMax": 290000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:149288",
-    "platform": "jobicy",
-    "external_id": "149288",
-    "title": "Protection, Controls Lead",
-    "company": "ENGIE",
-    "description": "What You Can Expect As the Protection and Controls Specialist you will oversee and support the operation, testing, and maintenance of substation protection and control systems across our portfolio of renewable energy projects. Reporting to the Operations Director, this role involves: Troubleshooting electrical control systems, analyzing protection zones, and interpreting trip event files. Ensuring the performance of protective relays and associated equipment. Creating and executing relay test plans, maintaining compliance with NETA, IEEE, NFPA, and NERC PRC-005-6C standards. Develop and implement detailed relay test plans using advanced test equipment, such as Doble, Omicron, Manta, or Megger relay test sets. Troubleshoot and resolve issues in protection and control systems, focusing on protection zones and analyzing trip event files to identify root causes. Commission and maintain the performance of substation protection and control systems in compliance with industry standards and protocols. Coordinate with project teams and contractors to support commissioning, maintenance, and system upgrades. Maintain detailed records of all testing, troubleshooting, and system configurations to ensure regulatory compliance and support future operational improvements, including updating CMMS (Computerized Maintenance Management Systems). Support additional responsibilities of a Protection and Controls Specialist, including monitoring system reliability, assisting with system upgrades, and ensuring physical and cyber security compliance for protection systems. What You’ll Bring Minimum high school diploma or technical certificate Minimum of 5 years in substation protection and control systems, relay testing, and electrical system troubleshooting Advanced experience with safety protocols, including comprehensive knowledge of LOTO (Lockout/Tagout) procedures and compliance with NFPA 70E safety standards Comprehensive knowledge of protection and control systems, including SEL relays, RTAC (Real-Time Automation Controller) applications, and substation integration Skilled in interpreting and troubleshooting complex schematics to address system mis-operations. Advanced understanding of SCADA systems and communication protocols (e.g., DNP3, Modbus, IEC 61850) with experience in configuration and troubleshooting Proficiency in relay testing, protection zone analysis, and electrical control system troubleshooting, including interpreting schematics to address mis-operations Hands-on experience with meter testing, including installation, calibration, and diagnostics Proven experience in commissioning protection and control systems in compliance with NETA-ATS-2021, NETA-ECS-2020, and manufacturer recommendations Demonstrated ability to train and mentor specialists in protection and control systems, testing procedures, and troubleshooting methodologies Additional Details Must be available to travel domestically 75% of the time Must possess a valid U.S. driver’s license/clean driving record Must be willing and able to comply with all ENGIE ethics and safety policies; Compensation Hourly Range: $42.69 – $65.00 USD hourly This represents the average expected pay range for a qualified candidate. ENGIE complies with all federal, state, and local minimum wage laws. Actual salary offered may vary depending on geography, experience, education, internal pay alignment, or other bona fide factors. In addition to base pay, this position is eligible for a competitive bonus / incentive plan. Your Talent Acquisition Partner can share more specific information regarding the benefits or the salary for the position based on the work location. At ENGIE, we take your well-being seriously. Our comprehensive benefits package includes options for medical, dental, vision, life insurance, employer-paid short-term and long-term disability insurance, ESPP, generous paid time off including wellness days, holidays and leave programs. We also help you plan for retirement by offering a 401(k) Retirement Savings Plan with a company match. But that's not all – we're dedicated to the health and happiness of your entire family, offering supplemental benefits for full time employees that enhance emotional and physical well-being through all stages of life from family forming to caregiver benefits. Explore our benefits package to see how we can support you. Learn more . Why ENGIE? ENGIE North America isn’t just participating in the Zero-Carbon Transition, we’re leading it! Join us as we develop energy that is renewable, efficient, and accessible to everyone. At ENGIE, every talent has a role to play in the adventure of the century. Make a difference and enjoy a fulfilling professional experience. Take on exciting challenges and build a career path that reflects who you are. Join us and be part of the adventure! ENGIE is proud to be an equal opportunity workplace, and we are firmly committed to creating an inclusive workplace for all employees. We are committed to providing employees with a work environment free of discrimination and harassment. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, or other legally protected status. If you need assistance with this application or a reasonable accommodation due to a disability, you may contact us at ENGIENA-ENGIEHR@engie.com. This email address is reserved for individuals with disabilities in need of assistance and is not a means of inquiry regarding positions or application status. We are unable to sponsor or take over sponsorship of an employment visa for this role at any time. The safety of our employees is our number one priority. All employees at ENGIE have both a duty and the authority to STOP WORK if unsafe acts are observed.",
-    "url": "https://jobicy.com/jobs/149288-protection-controls-lead",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-07-14T10:37:10+00:00",
-    "fetched_at": "2026-07-24T08:00:36.097Z",
-    "raw": {
-      "id": 149288,
-      "url": "https://jobicy.com/jobs/149288-protection-controls-lead",
-      "jobSlug": "149288-protection-controls-lead",
-      "jobTitle": "Protection, Controls Lead",
-      "companyName": "ENGIE",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/09/1d6956aa-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "What You Can ExpectAs the Protection and Controls Specialist you will oversee and support the operation, testing, and maintenance of substation protection and control systems across our portfolio of renewable energy projects. Reporting to the Operations Director, this role involves: Troubleshooting electrical control systems, analyzing protection zones, and interpreting trip event files. Ensuring the performance of&hellip;",
-      "jobDescription": "<p><strong>What You Can Expect</strong></p><p>As the Protection and Controls Specialist you will oversee and support the operation, testing, and maintenance of substation protection and control systems across our portfolio of renewable energy projects.</p><p> </p><p>Reporting to the Operations Director, this role involves:</p><ul>\n<li>Troubleshooting electrical control systems, analyzing protection zones, and interpreting trip event files.</li>\n<li>Ensuring the performance of protective relays and associated equipment.</li>\n<li>Creating and executing relay test plans, maintaining compliance with NETA, IEEE, NFPA, and NERC PRC-005-6C standards.</li>\n<li>Develop and implement detailed relay test plans using advanced test equipment, such as Doble, Omicron, Manta, or Megger relay test sets.</li>\n<li>Troubleshoot and resolve issues in protection and control systems, focusing on protection zones and analyzing trip event files to identify root causes.</li>\n<li>Commission and maintain the performance of substation protection and control systems in compliance with industry standards and protocols.</li>\n<li>Coordinate with project teams and contractors to support commissioning, maintenance, and system upgrades.</li>\n<li>Maintain detailed records of all testing, troubleshooting, and system configurations to ensure regulatory compliance and support future operational improvements, including updating CMMS (Computerized Maintenance Management Systems).</li>\n<li>Support additional responsibilities of a Protection and Controls Specialist, including monitoring system reliability, assisting with system upgrades, and ensuring physical and cyber security compliance for protection systems.</li>\n</ul><p> </p><p><strong>What You’ll Bring</strong></p><ul>\n<li><a rel=\"nofollow ugc noopener\" target=\"_blank\"></a><a rel=\"nofollow ugc noopener\" target=\"_blank\"></a>Minimum high school diploma or technical certificate</li>\n<li>Minimum of 5 years in substation protection and control systems, relay testing, and electrical system troubleshooting</li>\n<li>Advanced experience with safety protocols, including comprehensive knowledge of LOTO (Lockout/Tagout) procedures and compliance with NFPA 70E safety standards</li>\n<li>Comprehensive knowledge of protection and control systems, including SEL relays, RTAC (Real-Time Automation Controller) applications, and substation integration</li>\n<li>Skilled in interpreting and troubleshooting complex schematics to address system mis-operations.</li>\n<li>Advanced understanding of SCADA systems and communication protocols (e.g., DNP3, Modbus, IEC 61850) with experience in configuration and troubleshooting</li>\n<li>Proficiency in relay testing, protection zone analysis, and electrical control system troubleshooting, including interpreting schematics to address mis-operations</li>\n<li>Hands-on experience with meter testing, including installation, calibration, and diagnostics</li>\n<li>Proven experience in commissioning protection and control systems in compliance with NETA-ATS-2021, NETA-ECS-2020, and manufacturer recommendations</li>\n<li>Demonstrated ability to train and mentor specialists in protection and control systems, testing procedures, and troubleshooting methodologies</li>\n</ul><p> </p><p><strong>Additional Details</strong></p><ul>\n<li>Must be available to travel domestically 75% of the time </li>\n<li>Must possess a valid U.S. driver’s license/clean driving record </li>\n<li>Must be willing and able to comply with all ENGIE ethics and safety policies;</li>\n</ul><p> </p><p><strong>Compensation</strong></p><p><strong>Hourly Range:</strong> $42.69 – $65.00 USD hourly </p><p> </p><p>This represents the average expected pay range for a qualified candidate. </p><p> </p><p>ENGIE complies with all federal, state, and local minimum wage laws. Actual salary offered may vary depending on geography, experience, education, internal pay alignment, or other bona fide factors. </p><p> </p><p>In addition to base pay, this position is eligible for a competitive bonus / incentive plan.</p><p> </p><p>Your Talent Acquisition Partner can share more specific information regarding the benefits or the salary for the position based on the work location.</p><p> </p><p>At ENGIE, we take your well-being seriously. Our comprehensive benefits package includes options for medical, dental, vision, life insurance, employer-paid short-term and long-term disability insurance, ESPP, generous paid time off including wellness days, holidays and leave programs. We also help you plan for retirement by offering a 401(k) Retirement Savings Plan with a company match. But that's not all – we're dedicated to the health and happiness of your entire family, offering supplemental benefits for full time employees that enhance emotional and physical well-being through all stages of life from family forming to caregiver benefits. Explore our benefits package to see how we can support you. <a href=\"https://www.engie-na.com/culture-and-careers/benefits/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Learn more</a>.</p><p> </p><p><strong>Why ENGIE?</strong></p><p><a rel=\"nofollow ugc noopener\" target=\"_blank\"></a>ENGIE North America isn’t just participating in the Zero-Carbon Transition, we’re leading it! Join us as we develop energy that is renewable, efficient, and accessible to everyone. </p><p> </p><p>At ENGIE, every talent has a role to play in the adventure of the century. Make a difference and enjoy a fulfilling professional experience. Take on exciting challenges and build a career path that reflects who you are.</p><p><strong> </strong></p><p><strong>Join us and be part of the adventure!</strong></p><p> </p><p>ENGIE is proud to be an equal opportunity workplace, and we are firmly committed to creating an inclusive workplace for all employees. We are committed to providing employees with a work environment free of discrimination and harassment. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, or other legally protected status.</p><p> </p><p>If you need assistance with this application or a reasonable accommodation due to a disability, you may contact us at ENGIENA-ENGIEHR@engie.com. This email address is reserved for individuals with disabilities in need of assistance and is not a means of inquiry regarding positions or application status. </p><p> </p><p>We are unable to sponsor or take over sponsorship of an employment visa for this role at any time.</p><p> </p><p>The safety of our employees is our number one priority. All employees at ENGIE have both a duty and the authority to STOP WORK if unsafe acts are observed.</p>",
-      "pubDate": "2026-07-14T10:37:10+00:00",
-      "salaryMin": 84000,
-      "salaryMax": 130000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
