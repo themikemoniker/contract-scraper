@@ -1,5 +1,5 @@
 {
-  "totalJobs": 889,
+  "totalJobs": 888,
   "bySource": {
     "arbeitnow": 93,
     "jobicy": 99,
@@ -7,12 +7,11 @@
     "workingnomads": 21,
     "remotive": 36,
     "wwr": 68,
-    "hn": 472,
-    "himalayas": 1
+    "hn": 472
   },
   "byTechStack": {
     "typescript": 100,
-    "python": 186,
+    "python": 184,
     "llm": 60,
     "pandas": 5,
     "javascript": 140,
@@ -26,7 +25,8 @@
     "azure": 58,
     "sentry": 13,
     "machine-learning": 105,
-    "spark": 23,
+    "spark": 24,
+    "go": 68,
     "pytorch": 10,
     "huggingface": 4,
     "langchain": 8,
@@ -35,7 +35,6 @@
     "nodejs": 65,
     "ios": 52,
     "android": 51,
-    "go": 65,
     "kotlin": 16,
     "elixir": 14,
     "aws": 150,
@@ -43,10 +42,11 @@
     "kubernetes": 108,
     "grafana": 13,
     "kafka": 13,
+    "ray": 2,
     "ansible": 29,
     "git": 42,
     "linux": 63,
-    "figma": 13,
+    "figma": 12,
     "java": 83,
     "spring": 19,
     "phoenix": 8,
@@ -77,7 +77,6 @@
     "selenium": 4,
     "rest": 19,
     "airflow": 21,
-    "ray": 1,
     "cypress": 3,
     "express": 9,
     "argocd": 3,
@@ -157,10 +156,10 @@
     "sendgrid": 1
   },
   "byContractType": {
-    "full-time": 703,
+    "full-time": 702,
     "contract": 10,
-    "part-time": 7,
-    "freelance": 9
+    "freelance": 10,
+    "part-time": 8
   },
   "byRemoteType": {
     "remote": 506,
@@ -173,16 +172,16 @@
     "100k-150k": 26,
     "150k-200k": 13,
     "over200k": 8,
-    "unknown": 700
+    "unknown": 699
   },
-  "lastUpdated": "2026-07-25T18:43:20.358Z",
+  "lastUpdated": "2026-07-26T01:19:08.303Z",
   "jobsLast7Days": [
-    4,
     8,
     33,
-    61,
+    47,
     65,
-    115,
-    18
+    127,
+    20,
+    0
   ]
 }
