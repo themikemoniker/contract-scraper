@@ -1,5 +1,199 @@
 [
   {
+    "id": "jobicy:143125",
+    "platform": "jobicy",
+    "external_id": "143125",
+    "title": "Senior Machine Learning Engineer, GenAI Security",
+    "company": "Reddit",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . The GenAI Security team within Reddit’s Security, Privacy, Assurance, and Corporate Engineering organization protects Reddit’s GenAI usage across employee tools, internal agents, and production user-facing systems. Our mission is to secure and protect Reddit’s AI traffic and GenAI adoption by default. We are building zero-trust, defense-in-depth systems that verify identity, permissions, data access, and semantic intent across AI workflows. A core part of this work is developing practical, high-quality ML models that detect and prevent security risks such as prompt injection, jailbreak attempts, sensitive data exfiltration, unsafe model behavior, anomalous usage, and unauthorized agent actions. We are looking for a Senior Machine Learning Engineer to lead model development for GenAI Security and help establish strong ML practices across SPACE. This role owns the full machine learning lifecycle: problem definition, data ETL, feature engineering, model training, model evaluation, deployment, experimentation, prediction, monitoring, debugging, and retraining. What You’ll Do Build and improve security-focused ML models for Reddit’s GenAI traffic, including guardrail models, semantic classifiers, anomaly detection models, and other neural network based security signals. Own model development end to end: define the security problem, assemble and label datasets, build ETL pipelines, engineer features, train models, evaluate quality, deploy to production, monitor performance, and retrain from production feedback. Use modern deep learning architectures, including neural networks, transformers, sequence models, embeddings, and model distillation where they are the right practical fit. Design rigorous evaluation suites for adversarial examples, hard negatives, long-context inputs, structured payloads, tool calls, multi-turn workflows, and real production traffic. Improve model precision, recall, latency, cost, calibration, and operational reliability for high-impact production surfaces. Build repeatable MLOps workflows for SPACE, including training pipelines, model lineage, artifact management, holdout evaluation, dashboards, rollback paths, and retraining loops. Partner closely with ML Infrastructure, LLM Gateway, DevX, Ads, Answers, Safety, Privacy, Compliance, and other Security teams to bring security models into real production workflows. Work pragmatically with Reddit’s evolving ML platform, using existing infrastructure where possible and building focused tooling when needed to keep model iteration moving. Translate security goals into measurable model outcomes and help partners understand tradeoffs between risk reduction, latency, false positives, and product impact. Provide technical direction to other engineers and serve as a go-to ML expert for GenAI Security and broader SPACE model needs. Who You Might Be 5+ years of experience building, training, evaluating, and deploying production ML or deep learning models. Hands-on experience with modern ML frameworks such as PyTorch, TensorFlow, or similar. Strong practical understanding of the full ML lifecycle: problem definition, data ETL, feature engineering, training, evaluation, deployment, monitoring, debugging, and retraining. Experience building data pipelines and working with large-scale datasets. Experience designing rigorous model evaluations, including precision/recall/F1, false positive analysis, threshold tuning, calibration, holdout sets, regression tests, and production-quality validation. Experience shipping production-quality software, preferably in Python and/or Go. Strong communication skills and ability to explain model behavior, risk tradeoffs, and technical decisions to cross-functional partners. BS degree in Computer Science, Machine Learning, a related technical field, or equivalent practical experience. Experience in the following areas is a plus: Applying ML to security, privacy, trust and safety, abuse prevention, adversarial ML, or GenAI security problems. Training or fine-tuning neural text models for complex inputs such as long-context prompts, structured payloads, code-like content, multi-turn interactions, or tool calls. Production MLOps or model serving systems such as Airflow, Ray, MLflow, Triton, ONNX, Kubernetes, or similar. Improving model quality through labeling strategy, hard-negative mining, synthetic data generation, distillation, or active learning. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support Family Planning Support Gender-Affirming Care Mental Health &amp; Coaching Benefits Flexible Vacation &amp; Paid Volunteer Time Off Generous Paid Parental Leave #LI-remote Pay Transparency: This job posting may span more than one career level. In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/ . To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below. The base salary range for this position is:$216,700—$303,400 USD In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews. During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors . Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.",
+    "url": "https://jobicy.com/jobs/143125-senior-machine-learning-engineer-genai-security",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "kubernetes",
+      "pytorch",
+      "tensorflow",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "airflow",
+      "ray"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-08-06T07:20:03+00:00",
+    "fetched_at": "2026-08-06T13:24:56.189Z",
+    "raw": {
+      "id": 143125,
+      "url": "https://jobicy.com/jobs/143125-senior-machine-learning-engineer-genai-security",
+      "jobSlug": "143125-senior-machine-learning-engineer-genai-security",
+      "jobTitle": "Senior Machine Learning Engineer, GenAI Security",
+      "companyName": "Reddit",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/Reddit.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
+      "jobDescription": "<p>Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a href=\"http://www.redditinc.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">www.redditinc.com</a>. </p><p>The GenAI Security team within Reddit’s Security, Privacy, Assurance, and Corporate Engineering organization protects Reddit’s GenAI usage across employee tools, internal agents, and production user-facing systems. Our mission is to secure and protect Reddit’s AI traffic and GenAI adoption by default.</p><p>We are building zero-trust, defense-in-depth systems that verify identity, permissions, data access, and semantic intent across AI workflows. A core part of this work is developing practical, high-quality ML models that detect and prevent security risks such as prompt injection, jailbreak attempts, sensitive data exfiltration, unsafe model behavior, anomalous usage, and unauthorized agent actions.</p><p>We are looking for a Senior Machine Learning Engineer to lead model development for GenAI Security and help establish strong ML practices across SPACE. This role owns the full machine learning lifecycle: problem definition, data ETL, feature engineering, model training, model evaluation, deployment, experimentation, prediction, monitoring, debugging, and retraining.</p><h2>What You’ll Do</h2><ul>\r\n<li>Build and improve security-focused ML models for Reddit’s GenAI traffic, including guardrail models, semantic classifiers, anomaly detection models, and other neural network based security signals.</li>\r\n<li>Own model development end to end: define the security problem, assemble and label datasets, build ETL pipelines, engineer features, train models, evaluate quality, deploy to production, monitor performance, and retrain from production feedback.</li>\r\n<li>Use modern deep learning architectures, including neural networks, transformers, sequence models, embeddings, and model distillation where they are the right practical fit.</li>\r\n<li>Design rigorous evaluation suites for adversarial examples, hard negatives, long-context inputs, structured payloads, tool calls, multi-turn workflows, and real production traffic.</li>\r\n<li>Improve model precision, recall, latency, cost, calibration, and operational reliability for high-impact production surfaces.</li>\r\n<li>Build repeatable MLOps workflows for SPACE, including training pipelines, model lineage, artifact management, holdout evaluation, dashboards, rollback paths, and retraining loops.</li>\r\n<li>Partner closely with ML Infrastructure, LLM Gateway, DevX, Ads, Answers, Safety, Privacy, Compliance, and other Security teams to bring security models into real production workflows.</li>\r\n<li>Work pragmatically with Reddit’s evolving ML platform, using existing infrastructure where possible and building focused tooling when needed to keep model iteration moving.</li>\r\n<li>Translate security goals into measurable model outcomes and help partners understand tradeoffs between risk reduction, latency, false positives, and product impact.</li>\r\n<li>Provide technical direction to other engineers and serve as a go-to ML expert for GenAI Security and broader SPACE model needs.</li>\r\n</ul><h2>Who You Might Be</h2><ul>\r\n<li>5+ years of experience building, training, evaluating, and deploying production ML or deep learning models.</li>\r\n<li>Hands-on experience with modern ML frameworks such as PyTorch, TensorFlow, or similar.</li>\r\n<li>Strong practical understanding of the full ML lifecycle: problem definition, data ETL, feature engineering, training, evaluation, deployment, monitoring, debugging, and retraining.</li>\r\n<li>Experience building data pipelines and working with large-scale datasets.</li>\r\n<li>Experience designing rigorous model evaluations, including precision/recall/F1, false positive analysis, threshold tuning, calibration, holdout sets, regression tests, and production-quality validation.</li>\r\n<li>Experience shipping production-quality software, preferably in Python and/or Go.</li>\r\n<li>Strong communication skills and ability to explain model behavior, risk tradeoffs, and technical decisions to cross-functional partners.</li>\r\n<li>BS degree in Computer Science, Machine Learning, a related technical field, or equivalent practical experience.</li>\r\n<li>Experience in the following areas is a plus:\r\n<ul>\r\n<li>Applying ML to security, privacy, trust and safety, abuse prevention, adversarial ML, or GenAI security problems.</li>\r\n<li>Training or fine-tuning neural text models for complex inputs such as long-context prompts, structured payloads, code-like content, multi-turn interactions, or tool calls.</li>\r\n<li>Production MLOps or model serving systems such as Airflow, Ray, MLflow, Triton, ONNX, Kubernetes, or similar.</li>\r\n<li>Improving model quality through labeling strategy, hard-negative mining, synthetic data generation, distillation, or active learning.</li>\r\n</ul>\r\n</li>\r\n</ul><p><strong>Benefits:</strong></p><ul>\r\n<li>Comprehensive Healthcare Benefits and Income Replacement Programs</li>\r\n<li>401k with Employer Match</li>\r\n<li>Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support</li>\r\n<li>Family Planning Support</li>\r\n<li>Gender-Affirming Care</li>\r\n<li>Mental Health &amp; Coaching Benefits</li>\r\n<li>Flexible Vacation &amp; Paid Volunteer Time Off</li>\r\n<li>Generous Paid Parental Leave </li>\r\n</ul><p>#LI-remote</p><p><strong>Pay Transparency:</strong></p><p>This job posting may span more than one career level.</p><p>In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit <a href=\"https://www.redditinc.com/careers/\" target=\"_blank\" rel=\"nofollow ugc noopener\">https://www.redditinc.com/careers/</a>.</p><p>To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.</p><p>The base salary range for this position is:$216,700—$303,400 USD</p><p>In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.</p><p>During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our <a href=\"https://redditinc.com/policies/candidate-privacy-policy\" rel=\"nofollow ugc noopener\" target=\"_blank\">Candidate Privacy Policy for Potential Employees and Contractors</a>.</p><p><em>Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.</em></p>",
+      "pubDate": "2026-08-06T07:20:03+00:00",
+      "salaryMin": 216700,
+      "salaryMax": 303400,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:145290",
+    "platform": "jobicy",
+    "external_id": "145290",
+    "title": "Senior Software Engineer - REDAPL Graph Engine",
+    "company": "Datadog",
+    "description": "We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data Platform, to the next level. REDAPL is Datadog's main platform for tracking our customers' infrastructure resources and relationships. The platform enables products where customers can understand, keep track of, and gain insights into their infrastructure related to performance, cost, security, and more. Many Datadog products use REDAPL today such Cloud Security Posture Management, Resource Catalog, Cloud Cost Management, and Service Catalog and others - REDAPL ingests more than 4.5mil updates/second. As a Senior Engineer, you will drive, lead and collaborate on projects both inside and outside the platform. You can expect to contribute to key technical decisions relating to our data ingestion, processing, and query pipelines. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Build a query engine that supports efficient relationship traversals for our most demanding workloads. Contribute to design and drive high-priority, high-visibility projects to increase the platform's value, resilience, and scalability across multiple teams. Lead and guide other engineers through architectural platform decisions Identify potential system risks and trends in reliability and design solutions to address them Provide input on prioritizing engineering-led initiatives in short- and long-term planning and roadmaps Collaborate with internal product teams to understand their requirements and how we plan for their product growth as they integrate and depend on REDAPL Who You Are: You have a BS/MS/PhD in a Computer Science, Engineering or related scientific field or equivalent experience You have worked extensively with multiple types of data stores. You have contributed to initiatives in a platform or infrastructure-focused environment for several years You have led impactful technical initiatives in an environment where performance, cost efficiency, ease of use, and resilience/operability are first-order concerns You have significant back-end engineering experience and have built, and operated distributed systems to solve problems at a high scale Bonus points: You have experience working with Graph Databases such as Neo4j, Memgraph, JanusGraph, ArangoDB, Amazon Neptune or PuppyGraph. You have production-grade experience with Apache Iceberg You have a solid grasp of query planning or better yet - contributed to a production-grade query engines or related projects (e.g. Trino, Calcite, Substrait, DataFusion, etc) ideally demonstrated through open-source contributions or PMC membership on projects. Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply. Benefits and Growth: Get to build tools for software engineers, just like yourself. And use the tools we build to accelerate our development. Have a lot of influence on product direction and impact on the business . Work with skilled, knowledgeable, and kind teammates who are happy to teach and learn Competitive global benefits Continuous professional development Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog. #LI-Remote About Datadog: Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on Instagram , LinkedIn, and Datadog Learning Center. Equal Opportunity at Datadog: Datadog is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our Candidate Legal Notices for your reference. Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete this form . This form is for accommodation requests only and cannot be used to inquire about the status of applications. Privacy and AI Guidelines: Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s Applicant and Candidate Privacy Notice . For information on our AI policy, please visit Interviewing at Datadog AI Guidelines .",
+    "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "France,  Germany,  Italy,  Spain,  Switzerland,  UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "neo4j",
+      "datadog",
+      "apache"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-08-06T07:10:03+00:00",
+    "fetched_at": "2026-08-06T13:24:56.189Z",
+    "raw": {
+      "id": 145290,
+      "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
+      "jobSlug": "145290-senior-software-engineer-redapl-graph-engine",
+      "jobTitle": "Senior Software Engineer - REDAPL Graph Engine",
+      "companyName": "Datadog",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/c1654fc7-221.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "France,  Germany,  Italy,  Spain,  Switzerland,  UK",
+      "jobLevel": "Senior",
+      "jobExcerpt": "We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data Platform, to the next level. REDAPL is Datadog's main platform for tracking our customers' infrastructure resources and relationships. The platform enables products where customers can understand, keep track of, and gain insights into their infrastructure related to performance, cost,&hellip;",
+      "jobDescription": "<p>We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data Platform, to the next level. REDAPL is Datadog's main platform for tracking our customers' infrastructure resources and relationships. The platform enables products where customers can understand, keep track of, and gain insights into their infrastructure related to performance, cost, security, and more.</p><p>Many Datadog products use REDAPL today such Cloud Security Posture Management, Resource Catalog, Cloud Cost Management, and Service Catalog and others - REDAPL ingests more than 4.5mil updates/second.</p><p>As a Senior Engineer, you will drive, lead and collaborate on projects both inside and outside the platform. You can expect to contribute to key technical decisions relating to our data ingestion, processing, and query pipelines.</p><p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p><p><strong>What You’ll Do:</strong></p><ul>\r\n<li>Build a query engine that supports efficient relationship traversals for our most demanding workloads.</li>\r\n<li>Contribute to design and drive high-priority, high-visibility projects to increase the platform's value, resilience, and scalability across multiple teams.</li>\r\n<li>Lead and guide other engineers through architectural platform decisions</li>\r\n<li>Identify potential system risks and trends in reliability and design solutions to address them</li>\r\n<li>Provide input on prioritizing engineering-led initiatives in short- and long-term planning and roadmaps</li>\r\n<li>Collaborate with internal product teams to understand their requirements and how we plan for their product growth as they integrate and depend on REDAPL</li>\r\n</ul><p><strong>Who You Are:</strong></p><ul>\r\n<li>You have a BS/MS/PhD in a Computer Science, Engineering or related scientific field or equivalent experience</li>\r\n<li>You have worked extensively with multiple types of data stores. </li>\r\n<li>You have contributed to initiatives in a platform or infrastructure-focused environment for several years</li>\r\n<li>You have led impactful technical initiatives in an environment where performance, cost efficiency, ease of use, and resilience/operability are first-order concerns</li>\r\n<li>You have significant back-end engineering experience and have built, and operated distributed systems to solve problems at a high scale</li>\r\n</ul><p><strong>Bonus points:</strong></p><ul>\r\n<li>You have experience working with Graph Databases such as Neo4j, Memgraph, JanusGraph, ArangoDB, Amazon Neptune or PuppyGraph.</li>\r\n<li>You have production-grade experience with Apache Iceberg</li>\r\n<li>You have a solid grasp of query planning or better yet - contributed to a production-grade query engines or related projects (e.g. Trino, Calcite, Substrait, DataFusion, etc) ideally demonstrated through open-source contributions or PMC membership on projects.</li>\r\n</ul><p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.</em></p><p><strong>Benefits and Growth:</strong></p><ul>\r\n<li>Get to build tools for software engineers, just like yourself. And use the tools we build to accelerate our development.</li>\r\n<li>Have a lot of influence on product direction and impact on the business .</li>\r\n<li>Work with skilled, knowledgeable, and kind teammates who are happy to teach and learn</li>\r\n<li>Competitive global benefits</li>\r\n<li>Continuous professional development</li>\r\n</ul><p><em>Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.</em></p><p>#LI-Remote</p><div>\r\n<p><strong>About Datadog: </strong></p>\r\n<p>Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on <a href=\"https://www.instagram.com/datadoghq/?hl=en\" target=\"_blank\" rel=\"nofollow ugc noopener\">Instagram</a>, <a href=\"https://www.linkedin.com/company/datadog\" target=\"_blank\" rel=\"nofollow ugc noopener\">LinkedIn,</a> and <a href=\"https://learn.datadoghq.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">Datadog Learning Center. </a></p> <p><strong>Equal Opportunity at Datadog:</strong></p>\r\n<p>Datadog is proud to offer <a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\" target=\"_blank\" rel=\"nofollow ugc noopener\">equal employment opportunity</a> to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our <a href=\"https://www.datadoghq.com/legal/candidate-legal-notices/\" target=\"_blank\" rel=\"nofollow ugc noopener\">Candidate Legal Notices</a> for your reference. </p>\r\n<p>Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform\" target=\"_blank\" rel=\"nofollow ugc noopener\">this form</a>. This form is for accommodation requests only and cannot be used to inquire about the status of applications. </p>\r\n<p><strong>Privacy and AI Guidelines:</strong></p>\r\n<p>Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s <a href=\"https://www.datadoghq.com/legal/applicant-candidate-privacy/\" target=\"_blank\" rel=\"nofollow ugc noopener\">Applicant and Candidate Privacy Notice</a>. For information on our AI policy, please visit <a href=\"https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/\" target=\"_blank\" rel=\"nofollow ugc noopener\">Interviewing at Datadog AI Guidelines</a>.</p></div>",
+      "pubDate": "2026-08-06T07:10:03+00:00"
+    }
+  },
+  {
+    "id": "jobicy:148747",
+    "platform": "jobicy",
+    "external_id": "148747",
+    "title": "Engineering Manager, Geo for Self-Managed Customers",
+    "company": "GitLab",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. We're looking for a technical engineering manager to lead a team building and operating large-scale distributed systems. The ideal candidate combines deep technical expertise with strong operational instincts and a passion for building high-performing teams. You will lead the Geo for Self-Managed Customers team, which owns the Geo product end to end. Geo is tenant-to-tenant replication that sits between raw infrastructure replication and single-object transfer, and it is the foundation customers rely on for their disaster recovery strategies. What you'll bring: Proven track record building and owning large-scale distributed services, with the technical depth to dive into architecture and guide the team on technical strategy Experience in driving operational excellence and you've owned services running at four-nines (99.99%) SLOs and know what it takes to keep them there Experience leveraging AI tooling to boost team productivity, with real lessons learned from both wins and missteps A history of building and managing high-performing, accountable team cultures, including managing out when necessary Comfort driving complex projects to completion without relying on a dedicated TPM Experience leading distributed and remote teams effectively Key Responsibilities: Lead the roadmap and execution for the Geo product serving Self-Managed customers, setting clear direction in close partnership with the team’s Product Manager. Hire and develop a high-performing engineering team where members can thrive and deliver with quality and speed; the team is India-anchored, with EMEA backend/fullstack hiring to improve timezone overlap. Own the reliability, correctness, and performance of Geo replication as the core layer underpinning disaster recovery for Self-Managed deployments. Deliver bug fixes, API extensions, and new capabilities to the shared Geo codebase, maintaining relationships with the Geo SMEs embedded in the Dedicated Migrations and Resilience teams so day-to-day commits resolve quickly. Build and maintain runbooks, guardrails, and reviews so the team operates with rigor; ensure high-quality, timely responses to Geo-related escalations from Support and internal partners. Define, track, and report on delivery and operational metrics, using them to drive continuous improvement. Participate in the Incident Management on-call rotation to help ensure availability goals for Geo are met, working with reliability engineers and development team members. How GitLab Supports Full-Time Employees Benefits to support your health, finances, and well-being Flexible Paid Time Off Team Member Resource Groups Equity Compensation &amp; Employee Stock Purchase Plan Growth and Development Fund Parental Leave Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from underrepresented groups are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application. Country Hiring Guidelines: GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process. Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us. GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law . If you have a disability or special need that requires accommodation , please let us know during the recruiting process .",
+    "url": "https://jobicy.com/jobs/148747-engineering-manager-geo-for-self-managed-customers",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "gitlab"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-08-06T06:44:33+00:00",
+    "fetched_at": "2026-08-06T13:24:56.190Z",
+    "raw": {
+      "id": 148747,
+      "url": "https://jobicy.com/jobs/148747-engineering-manager-geo-for-self-managed-customers",
+      "jobSlug": "148747-engineering-manager-geo-for-self-managed-customers",
+      "jobTitle": "Engineering Manager, Geo for Self-Managed Customers",
+      "companyName": "GitLab",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/12/WRILS-201207055737-109952.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "UK",
+      "jobLevel": "Midweight",
+      "jobExcerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "jobDescription": "<div><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>\n<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\" rel=\"nofollow ugc noopener\" target=\"_blank\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>\n<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><p>We're looking for a technical engineering manager to lead a team building and operating large-scale distributed systems. The ideal candidate combines deep technical expertise with strong operational instincts and a passion for building high-performing teams.</p><p>You will lead the Geo for Self-Managed Customers team, which owns the Geo product end to end. Geo is tenant-to-tenant replication that sits between raw infrastructure replication and single-object transfer, and it is the foundation customers rely on for their disaster recovery strategies. </p><p><strong>What you'll bring:</strong></p><ul>\n<li>Proven track record building and owning large-scale distributed services, with the technical depth to dive into architecture and guide the team on technical strategy</li>\n<li>Experience in driving operational excellence and you've owned services running at four-nines (99.99%) SLOs and know what it takes to keep them there</li>\n<li>Experience leveraging AI tooling to boost team productivity, with real lessons learned from both wins and missteps</li>\n<li>A history of building and managing high-performing, accountable team cultures, including managing out when necessary</li>\n<li>Comfort driving complex projects to completion without relying on a dedicated TPM</li>\n<li>Experience leading distributed and remote teams effectively</li>\n</ul><p><strong>Key Responsibilities:</strong></p><ul>\n<li>Lead the roadmap and execution for the Geo product serving Self-Managed customers, setting clear direction in close partnership with the team’s Product Manager.</li>\n<li>Hire and develop a high-performing engineering team where members can thrive and deliver with quality and speed; the team is India-anchored, with EMEA backend/fullstack hiring to improve timezone overlap.</li>\n<li>Own the reliability, correctness, and performance of Geo replication as the core layer underpinning disaster recovery for Self-Managed deployments.</li>\n<li>Deliver bug fixes, API extensions, and new capabilities to the shared Geo codebase, maintaining relationships with the Geo SMEs embedded in the Dedicated Migrations and Resilience teams so day-to-day commits resolve quickly.</li>\n<li>Build and maintain runbooks, guardrails, and reviews so the team operates with rigor; ensure high-quality, timely responses to Geo-related escalations from Support and internal partners.</li>\n<li>Define, track, and report on delivery and operational metrics, using them to drive continuous improvement.</li>\n<li>Participate in the Incident Management on-call rotation to help ensure availability goals for Geo are met, working with reliability engineers and development team members.</li>\n</ul><div><h3><strong>How GitLab Supports Full-Time Employees</strong></h3>\n<ul>\n<li><a href=\"https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Benefits to support your health, finances, and well-being</a></li>\n<li><a href=\"https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto\" rel=\"nofollow ugc noopener\" target=\"_blank\">Flexible Paid Time Off </a></li>\n<li><a href=\"https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Team Member Resource Groups</a></li>\n<li><a href=\"https://handbook.gitlab.com/handbook/total-rewards/stock-options/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>\n<li><a href=\"https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Growth and Development Fund</a></li>\n<li><a href=\"https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave\" rel=\"nofollow ugc noopener\" target=\"_blank\">Parental Leave</a> </li>\n</ul>\n<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href=\"https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups\" rel=\"nofollow ugc noopener\" target=\"_blank\">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p> <p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process. </p>\n<p><strong>Privacy Policy: </strong>Please review our <a href=\"https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/\" target=\"_blank\" rel=\"nofollow ugc noopener\">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>\n<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also <a href=\"https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy\" target=\"_blank\" rel=\"nofollow ugc noopener\">GitLab’s EEO Policy</a> and <a href=\"https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices\" target=\"_blank\" rel=\"nofollow ugc noopener\">EEO is the Law</a>. If you have a disability or special need that requires <a href=\"https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation\" target=\"_blank\" rel=\"nofollow ugc noopener\">accommodation</a>, please let us know during the <a href=\"https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process\" target=\"_blank\" rel=\"nofollow ugc noopener\">recruiting process</a>.</p></div>",
+      "pubDate": "2026-08-06T06:44:33+00:00"
+    }
+  },
+  {
+    "id": "jobicy:148702",
+    "platform": "jobicy",
+    "external_id": "148702",
+    "title": "Engineering Manager - Linux Hardware Enablement",
+    "company": "Canonical Ltd.",
+    "description": "Lead an engineering team that partners with the Linux engineers of a major silicon company, and works across the full Linux stack from kernel to GUI, to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon. The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware. As a Partner Engineering Manager at Canonical your role is to manage relationships with our key technology partners by ensuring timely delivery on agreed project milestones. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution. What you’ll do Lead a team of distributed engineers to design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks Engage with commercial partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms Develop your team through coaching, mentoring, leading by example, and feedback Oversee commercial engagements and support timely delivery on agreed project milestones Ensure an ongoing commitment to strict quality and reliability standards Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps Work from home with global travel up to twice a year for up to two weeks Who you are You have worked with Linux distributions, debian packaging and high performance, server-class hardware You have experience working directly with customers, resolving their technical issues, interpreting their business challenges and effectively communicating how your solution will meet their needs You have demonstrated experience managing or leading a team of software engineers You have understanding of agile software development methodologies You collaborate effectively across multiple internal teams, building trust and delivering results You have effective communications skills in English, both written and oral You have a bachelor’s (or equivalent university level) degree, preferably in a technology field What Canonical offers Learning and Development opportunities Annual Compensation Review Recognition Rewards Annual Leave Priority Pass for travel We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration #LI-remote",
+    "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "linux"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-08-06T05:20:02+00:00",
+    "fetched_at": "2026-08-06T13:24:56.191Z",
+    "raw": {
+      "id": 148702,
+      "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
+      "jobSlug": "148702-engineering-manager-linux-hardware-enablement",
+      "jobTitle": "Engineering Manager - Linux Hardware Enablement",
+      "companyName": "Canonical Ltd.",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "APAC,  EMEA,  LATAM,  Canada,  USA",
+      "jobLevel": "Midweight",
+      "jobExcerpt": "Lead an engineering team that partners with the Linux engineers of a major silicon company, and works across the full Linux stack from kernel to GUI, to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right&hellip;",
+      "jobDescription": "<p>Lead an engineering team that partners with the Linux engineers of a major silicon company, and works across the full Linux stack from kernel to GUI, to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.</p><p>The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.</p><p>As a Partner Engineering Manager at Canonical your role is to manage relationships with our key technology partners by ensuring timely delivery on agreed project milestones. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution. </p><h2>What you’ll do</h2><ul>\n<li>Lead a team of distributed engineers to design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks</li>\n<li>Engage with commercial partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>\n<li>Develop your team through coaching, mentoring, leading by example, and feedback</li>\n<li>Oversee commercial engagements and support timely delivery on agreed project milestones</li>\n<li>Ensure an ongoing commitment to strict quality and reliability standards</li>\n<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>\n<li>Work from home with global travel up to twice a year for up to two weeks</li>\n</ul><h2>Who you are</h2><ul>\n<li>You have worked with Linux distributions, debian packaging and high performance, server-class hardware</li>\n<li>You have experience working directly with customers, resolving their technical issues, interpreting their business challenges and effectively communicating how your solution will meet their needs</li>\n<li>You have demonstrated experience managing or leading a team of software engineers</li>\n<li>You have understanding of agile software development methodologies</li>\n<li>You collaborate effectively across multiple internal teams, building trust and delivering results</li>\n<li>You have effective communications skills in English, both written and oral</li>\n<li>You have a bachelor’s (or equivalent university level) degree, preferably in a technology field</li>\n</ul><h2>What Canonical offers</h2><ul>\n<li>Learning and Development opportunities</li>\n<li>Annual Compensation Review</li>\n<li>Recognition Rewards</li>\n<li>Annual Leave</li>\n<li>Priority Pass for travel</li>\n</ul><p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href=\"https://canonical.com/careers/diversity/identity\" target=\"_blank\" rel=\"nofollow ugc noopener\">Whatever your identity</a> we will give your application fair consideration</em></p><p><em> </em>#LI-remote</p>",
+      "pubDate": "2026-08-06T05:20:02+00:00"
+    }
+  },
+  {
     "id": "jobicy:145141",
     "platform": "jobicy",
     "external_id": "145141",
@@ -26,7 +220,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T07:15:05+00:00",
-    "fetched_at": "2026-08-06T08:07:58.350Z",
+    "fetched_at": "2026-08-06T13:24:56.192Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -81,7 +275,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T07:05:05+00:00",
-    "fetched_at": "2026-08-06T08:07:58.351Z",
+    "fetched_at": "2026-08-06T13:24:56.192Z",
     "raw": {
       "id": 148224,
       "url": "https://jobicy.com/jobs/148224-senior-platform-engineer",
@@ -135,7 +329,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T07:05:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.352Z",
+    "fetched_at": "2026-08-06T13:24:56.193Z",
     "raw": {
       "id": 148197,
       "url": "https://jobicy.com/jobs/148197-software-engineer-unity",
@@ -189,7 +383,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T06:40:09+00:00",
-    "fetched_at": "2026-08-06T08:07:58.353Z",
+    "fetched_at": "2026-08-06T13:24:56.194Z",
     "raw": {
       "id": 145054,
       "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
@@ -237,7 +431,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T06:40:06+00:00",
-    "fetched_at": "2026-08-06T08:07:58.354Z",
+    "fetched_at": "2026-08-06T13:24:56.195Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -288,7 +482,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T06:25:06+00:00",
-    "fetched_at": "2026-08-06T08:07:58.356Z",
+    "fetched_at": "2026-08-06T13:24:56.196Z",
     "raw": {
       "id": 148338,
       "url": "https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term",
@@ -335,7 +529,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T06:20:07+00:00",
-    "fetched_at": "2026-08-06T08:07:58.357Z",
+    "fetched_at": "2026-08-06T13:24:56.197Z",
     "raw": {
       "id": 148357,
       "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
@@ -386,7 +580,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T05:55:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.358Z",
+    "fetched_at": "2026-08-06T13:24:56.198Z",
     "raw": {
       "id": 148319,
       "url": "https://jobicy.com/jobs/148319-senior-software-engineer-customer-experience-platform",
@@ -444,7 +638,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T05:45:07+00:00",
-    "fetched_at": "2026-08-06T08:07:58.359Z",
+    "fetched_at": "2026-08-06T13:24:56.199Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -494,7 +688,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T05:30:06+00:00",
-    "fetched_at": "2026-08-06T08:07:58.360Z",
+    "fetched_at": "2026-08-06T13:24:56.200Z",
     "raw": {
       "id": 145309,
       "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
@@ -541,7 +735,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T05:25:06+00:00",
-    "fetched_at": "2026-08-06T08:07:58.361Z",
+    "fetched_at": "2026-08-06T13:24:56.201Z",
     "raw": {
       "id": 145335,
       "url": "https://jobicy.com/jobs/145335-engineering-manager-advanced-signals-swe",
@@ -590,7 +784,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:45:07+00:00",
-    "fetched_at": "2026-08-06T08:07:58.362Z",
+    "fetched_at": "2026-08-06T13:24:56.201Z",
     "raw": {
       "id": 145503,
       "url": "https://jobicy.com/jobs/145503-senior-quantum-systems-engineer-quantum-computing",
@@ -635,7 +829,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:45:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.362Z",
+    "fetched_at": "2026-08-06T13:24:56.202Z",
     "raw": {
       "id": 145493,
       "url": "https://jobicy.com/jobs/145493-senior-linux-embedded-developer-yocto",
@@ -678,7 +872,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:40:05+00:00",
-    "fetched_at": "2026-08-06T08:07:58.364Z",
+    "fetched_at": "2026-08-06T13:24:56.204Z",
     "raw": {
       "id": 148658,
       "url": "https://jobicy.com/jobs/148658-customer-solutions-engineer",
@@ -728,7 +922,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:40:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.365Z",
+    "fetched_at": "2026-08-06T13:24:56.205Z",
     "raw": {
       "id": 148652,
       "url": "https://jobicy.com/jobs/148652-senior-react-native-developer",
@@ -782,7 +976,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:35:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.366Z",
+    "fetched_at": "2026-08-06T13:24:56.206Z",
     "raw": {
       "id": 148664,
       "url": "https://jobicy.com/jobs/148664-senior-cloud-engineer-product-metrics",
@@ -830,7 +1024,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:30:02+00:00",
-    "fetched_at": "2026-08-06T08:07:58.367Z",
+    "fetched_at": "2026-08-06T13:24:56.206Z",
     "raw": {
       "id": 148667,
       "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
@@ -882,7 +1076,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-04T17:44:39+00:00",
-    "fetched_at": "2026-08-06T08:07:58.368Z",
+    "fetched_at": "2026-08-06T13:24:56.207Z",
     "raw": {
       "id": 150239,
       "url": "https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu",
@@ -927,7 +1121,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-04T13:01:06+00:00",
-    "fetched_at": "2026-08-06T08:07:58.368Z",
+    "fetched_at": "2026-08-06T13:24:56.208Z",
     "raw": {
       "id": 150208,
       "url": "https://jobicy.com/jobs/150208-freelance-software-tester-infinitum-telcel-users",
@@ -975,7 +1169,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T18:44:45+00:00",
-    "fetched_at": "2026-08-06T08:07:58.370Z",
+    "fetched_at": "2026-08-06T13:24:56.209Z",
     "raw": {
       "id": 150161,
       "url": "https://jobicy.com/jobs/150161-senior-accident-reconstruction-engineer",
@@ -1030,7 +1224,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:44:59+00:00",
-    "fetched_at": "2026-08-06T08:07:58.371Z",
+    "fetched_at": "2026-08-06T13:24:56.210Z",
     "raw": {
       "id": 150147,
       "url": "https://jobicy.com/jobs/150147-founding-solutions-engineer-singapore",
@@ -1083,7 +1277,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-03T10:44:52+00:00",
-    "fetched_at": "2026-08-06T08:07:58.372Z",
+    "fetched_at": "2026-08-06T13:24:56.210Z",
     "raw": {
       "id": 150143,
       "url": "https://jobicy.com/jobs/150143-freelance-agent-evaluation-engineer-3",
@@ -1133,7 +1327,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:26:07+00:00",
-    "fetched_at": "2026-08-06T08:07:58.373Z",
+    "fetched_at": "2026-08-06T13:24:56.211Z",
     "raw": {
       "id": 150137,
       "url": "https://jobicy.com/jobs/150137-senior-hypervisor-engineer",
@@ -1179,7 +1373,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:25:58+00:00",
-    "fetched_at": "2026-08-06T08:07:58.374Z",
+    "fetched_at": "2026-08-06T13:24:56.211Z",
     "raw": {
       "id": 150131,
       "url": "https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure",
@@ -1226,7 +1420,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:21:36+00:00",
-    "fetched_at": "2026-08-06T08:07:58.374Z",
+    "fetched_at": "2026-08-06T13:24:56.212Z",
     "raw": {
       "id": 150128,
       "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
@@ -1274,7 +1468,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:21:34+00:00",
-    "fetched_at": "2026-08-06T08:07:58.375Z",
+    "fetched_at": "2026-08-06T13:24:56.213Z",
     "raw": {
       "id": 150127,
       "url": "https://jobicy.com/jobs/150127-senior-software-engineer-maas",
@@ -1321,7 +1515,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:21:31+00:00",
-    "fetched_at": "2026-08-06T08:07:58.376Z",
+    "fetched_at": "2026-08-06T13:24:56.214Z",
     "raw": {
       "id": 150125,
       "url": "https://jobicy.com/jobs/150125-senior-software-engineer-backend",
@@ -1369,7 +1563,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:21:27+00:00",
-    "fetched_at": "2026-08-06T08:07:58.378Z",
+    "fetched_at": "2026-08-06T13:24:56.215Z",
     "raw": {
       "id": 150123,
       "url": "https://jobicy.com/jobs/150123-senior-web-engineer",
@@ -1421,7 +1615,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T04:40:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.379Z",
+    "fetched_at": "2026-08-06T13:24:56.215Z",
     "raw": {
       "id": 148143,
       "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
@@ -1473,7 +1667,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T04:40:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.380Z",
+    "fetched_at": "2026-08-06T13:24:56.217Z",
     "raw": {
       "id": 148145,
       "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
@@ -1526,7 +1720,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T04:30:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.381Z",
+    "fetched_at": "2026-08-06T13:24:56.217Z",
     "raw": {
       "id": 144087,
       "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
@@ -1576,7 +1770,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:29:50+00:00",
-    "fetched_at": "2026-08-06T08:07:58.381Z",
+    "fetched_at": "2026-08-06T13:24:56.218Z",
     "raw": {
       "id": 150065,
       "url": "https://jobicy.com/jobs/150065-data-java-engineer-ai-llm-chatbot-customer-service",
@@ -1639,7 +1833,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:29:49+00:00",
-    "fetched_at": "2026-08-06T08:07:58.382Z",
+    "fetched_at": "2026-08-06T13:24:56.218Z",
     "raw": {
       "id": 150064,
       "url": "https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus",
@@ -1693,7 +1887,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:29:44+00:00",
-    "fetched_at": "2026-08-06T08:07:58.384Z",
+    "fetched_at": "2026-08-06T13:24:56.219Z",
     "raw": {
       "id": 150061,
       "url": "https://jobicy.com/jobs/150061-senior-backend-engineer-ai-engineering-chat",
@@ -1736,7 +1930,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:25:01+00:00",
-    "fetched_at": "2026-08-06T08:07:58.384Z",
+    "fetched_at": "2026-08-06T13:24:56.220Z",
     "raw": {
       "id": 150052,
       "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
@@ -1779,7 +1973,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:22:20+00:00",
-    "fetched_at": "2026-08-06T08:07:58.386Z",
+    "fetched_at": "2026-08-06T13:24:56.221Z",
     "raw": {
       "id": 150048,
       "url": "https://jobicy.com/jobs/150048-principal-hardware-design-engineer-computing-products",
@@ -1832,7 +2026,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:21:58+00:00",
-    "fetched_at": "2026-08-06T08:07:58.387Z",
+    "fetched_at": "2026-08-06T13:24:56.222Z",
     "raw": {
       "id": 150024,
       "url": "https://jobicy.com/jobs/150024-lead-ai-solutions-architect-customer-success",
@@ -1875,7 +2069,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:12:19+00:00",
-    "fetched_at": "2026-08-06T08:07:58.388Z",
+    "fetched_at": "2026-08-06T13:24:56.223Z",
     "raw": {
       "id": 150013,
       "url": "https://jobicy.com/jobs/150013-project-engineer-m-f-d-service-sales",
@@ -1921,7 +2115,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:27+00:00",
-    "fetched_at": "2026-08-06T08:07:58.389Z",
+    "fetched_at": "2026-08-06T13:24:56.223Z",
     "raw": {
       "id": 149996,
       "url": "https://jobicy.com/jobs/149996-ubuntu-core-software-engineer",
@@ -1969,7 +2163,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:24+00:00",
-    "fetched_at": "2026-08-06T08:07:58.390Z",
+    "fetched_at": "2026-08-06T13:24:56.224Z",
     "raw": {
       "id": 149994,
       "url": "https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch",
@@ -2014,7 +2208,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:23+00:00",
-    "fetched_at": "2026-08-06T08:07:58.391Z",
+    "fetched_at": "2026-08-06T13:24:56.225Z",
     "raw": {
       "id": 149993,
       "url": "https://jobicy.com/jobs/149993-developer-relations-engineer",
@@ -2061,7 +2255,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:16+00:00",
-    "fetched_at": "2026-08-06T08:07:58.392Z",
+    "fetched_at": "2026-08-06T13:24:56.227Z",
     "raw": {
       "id": 149989,
       "url": "https://jobicy.com/jobs/149989-python-engineering-manager-commercial-systems",
@@ -2116,7 +2310,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:15+00:00",
-    "fetched_at": "2026-08-06T08:07:58.393Z",
+    "fetched_at": "2026-08-06T13:24:56.227Z",
     "raw": {
       "id": 149988,
       "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka",
@@ -2165,7 +2359,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:11+00:00",
-    "fetched_at": "2026-08-06T08:07:58.394Z",
+    "fetched_at": "2026-08-06T13:24:56.228Z",
     "raw": {
       "id": 149985,
       "url": "https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang",
@@ -2213,7 +2407,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:09+00:00",
-    "fetched_at": "2026-08-06T08:07:58.395Z",
+    "fetched_at": "2026-08-06T13:24:56.229Z",
     "raw": {
       "id": 149984,
       "url": "https://jobicy.com/jobs/149984-golang-engineering-manager-commercial-systems",
@@ -2260,7 +2454,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.396Z",
+    "fetched_at": "2026-08-06T13:24:56.230Z",
     "raw": {
       "id": 149981,
       "url": "https://jobicy.com/jobs/149981-software-architect-containers-virtualisation",
@@ -2307,7 +2501,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.397Z",
+    "fetched_at": "2026-08-06T13:24:56.231Z",
     "raw": {
       "id": 149980,
       "url": "https://jobicy.com/jobs/149980-engineering-manager-for-iam-identity-and-access-management",
@@ -2356,7 +2550,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:04:00+00:00",
-    "fetched_at": "2026-08-06T08:07:58.398Z",
+    "fetched_at": "2026-08-06T13:24:56.232Z",
     "raw": {
       "id": 149978,
       "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
@@ -2407,7 +2601,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:57+00:00",
-    "fetched_at": "2026-08-06T08:07:58.399Z",
+    "fetched_at": "2026-08-06T13:24:56.232Z",
     "raw": {
       "id": 149976,
       "url": "https://jobicy.com/jobs/149976-engineering-manager-web",
@@ -2454,7 +2648,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:56+00:00",
-    "fetched_at": "2026-08-06T08:07:58.400Z",
+    "fetched_at": "2026-08-06T13:24:56.233Z",
     "raw": {
       "id": 149975,
       "url": "https://jobicy.com/jobs/149975-senior-ubuntu-embedded-iot-system-engineer",
@@ -2502,7 +2696,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:54+00:00",
-    "fetched_at": "2026-08-06T08:07:58.401Z",
+    "fetched_at": "2026-08-06T13:24:56.234Z",
     "raw": {
       "id": 149974,
       "url": "https://jobicy.com/jobs/149974-senior-software-engineer-python-mongodb",
@@ -2548,7 +2742,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:53+00:00",
-    "fetched_at": "2026-08-06T08:07:58.402Z",
+    "fetched_at": "2026-08-06T13:24:56.234Z",
     "raw": {
       "id": 149973,
       "url": "https://jobicy.com/jobs/149973-software-engineering-manager-container-and-virtualisation-infrastructure",
@@ -2596,7 +2790,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:51+00:00",
-    "fetched_at": "2026-08-06T08:07:58.403Z",
+    "fetched_at": "2026-08-06T13:24:56.235Z",
     "raw": {
       "id": 149972,
       "url": "https://jobicy.com/jobs/149972-software-engineer-ceph-distributed-storage",
@@ -2648,7 +2842,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:49+00:00",
-    "fetched_at": "2026-08-06T08:07:58.404Z",
+    "fetched_at": "2026-08-06T13:24:56.236Z",
     "raw": {
       "id": 149971,
       "url": "https://jobicy.com/jobs/149971-software-engineer-data-infrastructure",
@@ -2694,7 +2888,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:48+00:00",
-    "fetched_at": "2026-08-06T08:07:58.405Z",
+    "fetched_at": "2026-08-06T13:24:56.237Z",
     "raw": {
       "id": 149970,
       "url": "https://jobicy.com/jobs/149970-engineering-manager-ceph-distributed-storage",
@@ -2741,7 +2935,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:46+00:00",
-    "fetched_at": "2026-08-06T08:07:58.406Z",
+    "fetched_at": "2026-08-06T13:24:56.237Z",
     "raw": {
       "id": 149969,
       "url": "https://jobicy.com/jobs/149969-linux-devices-software-engineer-snapd",
@@ -2786,7 +2980,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:22+00:00",
-    "fetched_at": "2026-08-06T08:07:58.406Z",
+    "fetched_at": "2026-08-06T13:24:56.238Z",
     "raw": {
       "id": 149953,
       "url": "https://jobicy.com/jobs/149953-solution-architect-2",
@@ -2831,7 +3025,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:03:15+00:00",
-    "fetched_at": "2026-08-06T08:07:58.408Z",
+    "fetched_at": "2026-08-06T13:24:56.239Z",
     "raw": {
       "id": 149949,
       "url": "https://jobicy.com/jobs/149949-staff-solutions-architect",
@@ -2877,7 +3071,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:00:45+00:00",
-    "fetched_at": "2026-08-06T08:07:58.409Z",
+    "fetched_at": "2026-08-06T13:24:56.240Z",
     "raw": {
       "id": 149948,
       "url": "https://jobicy.com/jobs/149948-senior-software-engineer-golang",
@@ -2922,7 +3116,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:00:43+00:00",
-    "fetched_at": "2026-08-06T08:07:58.410Z",
+    "fetched_at": "2026-08-06T13:24:56.241Z",
     "raw": {
       "id": 149947,
       "url": "https://jobicy.com/jobs/149947-electrical-engineer-data-centers",
@@ -2967,7 +3161,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T03:00:41+00:00",
-    "fetched_at": "2026-08-06T08:07:58.412Z",
+    "fetched_at": "2026-08-06T13:24:56.243Z",
     "raw": {
       "id": 149946,
       "url": "https://jobicy.com/jobs/149946-mep-engineer",
@@ -3015,7 +3209,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-01T02:48:44+00:00",
-    "fetched_at": "2026-08-06T08:07:58.413Z",
+    "fetched_at": "2026-08-06T13:24:56.243Z",
     "raw": {
       "id": 149940,
       "url": "https://jobicy.com/jobs/149940-ubuntu-linux-kernel-engineer-bios-firmware",
@@ -3058,7 +3252,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-31T14:46:17+00:00",
-    "fetched_at": "2026-08-06T08:07:58.414Z",
+    "fetched_at": "2026-08-06T13:24:56.244Z",
     "raw": {
       "id": 149908,
       "url": "https://jobicy.com/jobs/149908-electrical-engineer-2",
@@ -3105,7 +3299,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-31T14:46:16+00:00",
-    "fetched_at": "2026-08-06T08:07:58.415Z",
+    "fetched_at": "2026-08-06T13:24:56.245Z",
     "raw": {
       "id": 149907,
       "url": "https://jobicy.com/jobs/149907-systems-analyst",
@@ -3164,7 +3358,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T19:45:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.415Z",
+    "fetched_at": "2026-08-06T13:24:56.245Z",
     "raw": {
       "id": 147974,
       "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
@@ -3216,7 +3410,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T19:45:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.415Z",
+    "fetched_at": "2026-08-06T13:24:56.245Z",
     "raw": {
       "id": 147975,
       "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
@@ -3259,7 +3453,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T19:10:06+00:00",
-    "fetched_at": "2026-08-06T08:07:58.416Z",
+    "fetched_at": "2026-08-06T13:24:56.246Z",
     "raw": {
       "id": 144970,
       "url": "https://jobicy.com/jobs/144970-sap-btp-integration-developer-m-f-d",
@@ -3310,7 +3504,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T14:40:27+00:00",
-    "fetched_at": "2026-08-06T08:07:58.418Z",
+    "fetched_at": "2026-08-06T13:24:56.247Z",
     "raw": {
       "id": 149876,
       "url": "https://jobicy.com/jobs/149876-software-engineer-connect-platform-2",
@@ -3368,7 +3562,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T14:40:15+00:00",
-    "fetched_at": "2026-08-06T08:07:58.418Z",
+    "fetched_at": "2026-08-06T13:24:56.247Z",
     "raw": {
       "id": 149869,
       "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
@@ -3416,7 +3610,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T14:40:09+00:00",
-    "fetched_at": "2026-08-06T08:07:58.419Z",
+    "fetched_at": "2026-08-06T13:24:56.248Z",
     "raw": {
       "id": 149865,
       "url": "https://jobicy.com/jobs/149865-solutions-architect",
@@ -3474,7 +3668,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T14:40:06+00:00",
-    "fetched_at": "2026-08-06T08:07:58.421Z",
+    "fetched_at": "2026-08-06T13:24:56.250Z",
     "raw": {
       "id": 149863,
       "url": "https://jobicy.com/jobs/149863-senior-ai-research-engineer",
@@ -3525,7 +3719,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T14:39:56+00:00",
-    "fetched_at": "2026-08-06T08:07:58.422Z",
+    "fetched_at": "2026-08-06T13:24:56.250Z",
     "raw": {
       "id": 149857,
       "url": "https://jobicy.com/jobs/149857-generative-ai-pipeline-engineer-tech-lead",
@@ -3576,7 +3770,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T14:39:53+00:00",
-    "fetched_at": "2026-08-06T08:07:58.423Z",
+    "fetched_at": "2026-08-06T13:24:56.251Z",
     "raw": {
       "id": 149855,
       "url": "https://jobicy.com/jobs/149855-senior-software-engineer-ai-cicd",
@@ -3631,7 +3825,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T14:39:51+00:00",
-    "fetched_at": "2026-08-06T08:07:58.424Z",
+    "fetched_at": "2026-08-06T13:24:56.252Z",
     "raw": {
       "id": 149854,
       "url": "https://jobicy.com/jobs/149854-staff-software-engineer-ai-cicd",
@@ -3678,7 +3872,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-30T08:05:01+00:00",
-    "fetched_at": "2026-08-06T08:07:58.425Z",
+    "fetched_at": "2026-08-06T13:24:56.253Z",
     "raw": {
       "id": 149455,
       "url": "https://jobicy.com/jobs/149455-senior-customer-engineer-2",
@@ -3727,7 +3921,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-29T15:05:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.426Z",
+    "fetched_at": "2026-08-06T13:24:56.253Z",
     "raw": {
       "id": 147862,
       "url": "https://jobicy.com/jobs/147862-staff-software-engineer-media-experiences",
@@ -3780,7 +3974,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-29T14:20:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.427Z",
+    "fetched_at": "2026-08-06T13:24:56.254Z",
     "raw": {
       "id": 142184,
       "url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
@@ -3829,7 +4023,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-29T13:50:06+00:00",
-    "fetched_at": "2026-08-06T08:07:58.429Z",
+    "fetched_at": "2026-08-06T13:24:56.255Z",
     "raw": {
       "id": 144909,
       "url": "https://jobicy.com/jobs/144909-senior-android-engineer-2",
@@ -3880,7 +4074,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-29T04:30:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.430Z",
+    "fetched_at": "2026-08-06T13:24:56.257Z",
     "raw": {
       "id": 149290,
       "url": "https://jobicy.com/jobs/149290-senior-software-engineer-fullstack-new-ventures",
@@ -3941,7 +4135,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T15:00:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.431Z",
+    "fetched_at": "2026-08-06T13:24:56.258Z",
     "raw": {
       "id": 147582,
       "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
@@ -3988,7 +4182,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T14:35:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.432Z",
+    "fetched_at": "2026-08-06T13:24:56.259Z",
     "raw": {
       "id": 147700,
       "url": "https://jobicy.com/jobs/147700-principal-software-architect",
@@ -4034,7 +4228,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T13:45:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.434Z",
+    "fetched_at": "2026-08-06T13:24:56.260Z",
     "raw": {
       "id": 143148,
       "url": "https://jobicy.com/jobs/143148-sotif-expert-all-genders",
@@ -4088,7 +4282,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T12:25:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.435Z",
+    "fetched_at": "2026-08-06T13:24:56.261Z",
     "raw": {
       "id": 143131,
       "url": "https://jobicy.com/jobs/143131-staff-machine-learning-engineer",
@@ -4135,7 +4329,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T12:25:02+00:00",
-    "fetched_at": "2026-08-06T08:07:58.438Z",
+    "fetched_at": "2026-08-06T13:24:56.262Z",
     "raw": {
       "id": 143124,
       "url": "https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas",
@@ -4193,7 +4387,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T12:15:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.439Z",
+    "fetched_at": "2026-08-06T13:24:56.263Z",
     "raw": {
       "id": 142499,
       "url": "https://jobicy.com/jobs/142499-senior-consulting-engineer-singapore",
@@ -4236,7 +4430,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T12:10:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.440Z",
+    "fetched_at": "2026-08-06T13:24:56.264Z",
     "raw": {
       "id": 142310,
       "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
@@ -4288,7 +4482,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T12:05:05+00:00",
-    "fetched_at": "2026-08-06T08:07:58.441Z",
+    "fetched_at": "2026-08-06T13:24:56.265Z",
     "raw": {
       "id": 142139,
       "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
@@ -4345,7 +4539,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-28T10:45:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.442Z",
+    "fetched_at": "2026-08-06T13:24:56.266Z",
     "raw": {
       "id": 148325,
       "url": "https://jobicy.com/jobs/148325-senior-backend-software-engineer-usa-remote",
@@ -4398,7 +4592,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-27T10:14:29+00:00",
-    "fetched_at": "2026-08-06T08:07:58.443Z",
+    "fetched_at": "2026-08-06T13:24:56.267Z",
     "raw": {
       "id": 147580,
       "url": "https://jobicy.com/jobs/147580-staff-engineer-builder-enablement",
@@ -4447,7 +4641,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-27T09:40:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.444Z",
+    "fetched_at": "2026-08-06T13:24:56.268Z",
     "raw": {
       "id": 144716,
       "url": "https://jobicy.com/jobs/144716-enterprise-solutions-engineer-germany",
@@ -4500,7 +4694,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-27T09:08:17+00:00",
-    "fetched_at": "2026-08-06T08:07:58.446Z",
+    "fetched_at": "2026-08-06T13:24:56.269Z",
     "raw": {
       "id": 143481,
       "url": "https://jobicy.com/jobs/143481-principal-engineer",
@@ -4543,7 +4737,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-27T08:52:37+00:00",
-    "fetched_at": "2026-08-06T08:07:58.446Z",
+    "fetched_at": "2026-08-06T13:24:56.269Z",
     "raw": {
       "id": 143147,
       "url": "https://jobicy.com/jobs/143147-security-architect-ii",
@@ -4594,7 +4788,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-27T08:50:05+00:00",
-    "fetched_at": "2026-08-06T08:07:58.447Z",
+    "fetched_at": "2026-08-06T13:24:56.270Z",
     "raw": {
       "id": 147747,
       "url": "https://jobicy.com/jobs/147747-senior-software-engineer",
@@ -4641,7 +4835,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-27T07:40:05+00:00",
-    "fetched_at": "2026-08-06T08:07:58.448Z",
+    "fetched_at": "2026-08-06T13:24:56.271Z",
     "raw": {
       "id": 143732,
       "url": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
@@ -4687,7 +4881,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-26T12:50:07+00:00",
-    "fetched_at": "2026-08-06T08:07:58.449Z",
+    "fetched_at": "2026-08-06T13:24:56.272Z",
     "raw": {
       "id": 147487,
       "url": "https://jobicy.com/jobs/147487-engineering-manager-ads-ml-efficiency",
@@ -4743,7 +4937,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-07-26T12:50:04+00:00",
-    "fetched_at": "2026-08-06T08:07:58.450Z",
+    "fetched_at": "2026-08-06T13:24:56.273Z",
     "raw": {
       "id": 144154,
       "url": "https://jobicy.com/jobs/144154-senior-android-sdk-engineer",
@@ -4765,215 +4959,6 @@
       "salaryMin": 227000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:147607",
-    "platform": "jobicy",
-    "external_id": "147607",
-    "title": "Principal Mobile Engineer, Android",
-    "company": "Upstart",
-    "description": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 1,800 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress. We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City (opening Summer 2026), you’ll have the support to work in the way that works best for you. If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you. The Team: Upstart’s Cash Line and Unsecured Installment teams are building and scaling mobile experiences across two important lending product surfaces. This role will help both teams drive Android migration work, strengthen Upstart’s mobile foundation, and support a newly approved Android app launch plan on an aggressive timeline. The work is highly cross-functional and high-visibility, with direct impact on product strategy, engineering execution, and the experience of future Android borrowers. As the Principal Software Engineer, Android at Upstart, you will lead critical Android initiatives across both the Cash Line and Unsecured Installment teams while helping shape the long-term mobile architecture across those product areas. You’ll serve as the senior technical owner for native Android work, partner across both teams to deliver against an ambitious roadmap, and continue as a mobile specialist after launch with enough React Native experience to influence frontend direction, delivery, and engineering quality across the broader stack. This is a high-impact individual contributor role with meaningful technical leadership, cross-team influence, and mentorship responsibility. How you’ll make an impact Lead Android migration and development efforts across Cash Line and Unsecured Installment product surfaces, making thoughtful technical decisions that improve product quality, scalability, and speed of execution. Help deliver against Upstart’s approved Android launch plan, translating aggressive business goals into pragmatic technical milestones and execution plans. Set technical direction for mobile architecture, helping the teams evolve a strong foundation across native Android and React Native surfaces while keeping Android expertise at the core. Partner closely with product, design, and engineering stakeholders across both teams to translate roadmap priorities into durable mobile solutions. Raise the bar for engineering excellence through technical leadership, design reviews, mentorship, and pragmatic execution in ambiguous, high-visibility problem spaces. After launch, continue as a mobile specialist who can support both the Cash Line and Unsecured Installment teams, bringing deep Android expertise alongside enough React Native fluency to contribute across shared mobile surfaces. Minimum Qualifications 8+ years of software engineering experience, including substantial experience building and shipping native Android applications in Kotlin and/or Java. Proven track record leading large, cross-team mobile initiatives, platform migrations, or new mobile product launches in production environments. Experience shipping consumer-facing mobile products at scale with strong attention to performance, reliability, and user experience. Native Android depth in Kotlin and/or Java, plus working experience with React Native and TypeScript to operate effectively across a mixed mobile stack. Demonstrated technical leadership as a senior individual contributor, including architecture ownership, mentorship, and influence across teams. Preferred Qualifications Experience serving as the mobile or frontend technical lead for a product team or business-critical product surface. Breadth across mobile platforms, including familiarity with iOS development, React Native, or cross-platform mobile architecture. Background in fintech, lending, or other consumer financial products with complex user journeys and high quality expectations. Experience helping teams build conviction around new mobile investments through technical proposals, feasibility work, or proof-of-concept execution. Comfort leading through ambiguity in fast-scaling product environments where scope, ownership, and roadmap priorities evolve over time. Experience building alignment across engineering, product, design, and leadership partners in high-visibility, cross-functional organizations. Position Location - This role is available in the following locations: Remote, Burlingame, Columbus, Austin, New York Time Zone Requirements - This team operates across all U.S. time zones. Travel Requirements - This team has regular on-site collaboration sessions. These occur 3 days per quarter at an Upstart office. If you need to travel to make these meetups, Upstart will cover all travel related expenses. #LI-REMOTE #LI-MidSenior --&gt; use for L5, L6 At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k). United States | Remote - Anticipated Base Salary Range $195,300—$270,400 USD At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k). Canada | Remote - Anticipated Base Salary Range $182,800—$230,000 USD What you'll love At Upstart, our benefits are designed to support your health, financial well-being, family, and personal growth. Here’s what you can expect: Competitive compensation, including base pay, bonus opportunities, and annual equity grants that vest quarterly Retirement benefits to help you plan for the future, including a 401(k) or Group Retirement Savings Plan with a company match of $2 for every $1 contributed, up to $15,000 annually (USD in the US, CAD in Canada) Employee Stock Purchase Plan (ESPP) with discounted stock purchase options for eligible employees (US only) Comprehensive health coverage designed to support you and your family, including medical, dental, vision, and wellness resources for US and supplemental health coverage for Canada. Health Savings Account contributions from Upstart for eligible plans (US only) Income protection benefits, including life insurance and disability coverage for added financial security Paid time off, sick leave, and company holidays, in line with local requirements Paid family and parental leave to support caregiving and major life moments (duration varies by country) Family-centered benefits to support fertility, parenthood, and caregiving needs Employee Assistance Program (EAP) offering mental health support and life-centered resources Financial wellness resources, including access to financial planning tools and a financial concierge service (US Only) Annual wellness allowance to support your physical and emotional well-being and personal development, based on what matters most to you Annual productivity allowance to invest in relevant tools and resources you need to do your best work, no matter where you work from Connection and community through team events, all-company updates, and employee resource groups (ERGs) Onsite perks, including catered lunches and fully stocked micro-kitchens when working from one of our offices in the Bay Area, Austin, Columbus, and New York City (opening Summer 2026!) For roles based in Canada, please note that we are not currently able to hire in Quebec. Upstart is a proud Equal Opportunity Employer. Just as we are dedicated to improving access to affordable credit for all, we are committed to inclusive and fair hiring practices. If you require reasonable accommodation in completing an application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please email candidate_accommodations@upstart.com https://www.upstart.com/candidate_privacy_policy",
-    "url": "https://jobicy.com/jobs/147607-principal-mobile-engineer-android",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "java",
-      "kotlin",
-      "react",
-      "spark",
-      "react-native",
-      "ios",
-      "android"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-07-26T12:24:48+00:00",
-    "fetched_at": "2026-08-06T08:07:58.452Z",
-    "raw": {
-      "id": 147607,
-      "url": "https://jobicy.com/jobs/147607-principal-mobile-engineer-android",
-      "jobSlug": "147607-principal-mobile-engineer-android",
-      "jobTitle": "Principal Mobile Engineer, Android",
-      "companyName": "Upstart",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/bc2cfa2b-221-1.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with&hellip;",
-      "jobDescription": "<div><p><strong>About Upstart</strong></p>\n<p>At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.</p>\n<p>As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 1,800 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress.</p>\n<p>We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City (opening Summer 2026), you’ll have the support to work in the way that works best for you.</p>\n<p>If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you.</p></div><p><strong>The Team: </strong></p><p>Upstart’s Cash Line and Unsecured Installment teams are building and scaling mobile experiences across two important lending product surfaces. This role will help both teams drive Android migration work, strengthen Upstart’s mobile foundation, and support a newly approved Android app launch plan on an aggressive timeline. The work is highly cross-functional and high-visibility, with direct impact on product strategy, engineering execution, and the experience of future Android borrowers.</p><p>As the Principal Software Engineer, Android at Upstart, you will lead critical Android initiatives across both the Cash Line and Unsecured Installment teams while helping shape the long-term mobile architecture across those product areas. You’ll serve as the senior technical owner for native Android work, partner across both teams to deliver against an ambitious roadmap, and continue as a mobile specialist after launch with enough React Native experience to influence frontend direction, delivery, and engineering quality across the broader stack. This is a high-impact individual contributor role with meaningful technical leadership, cross-team influence, and mentorship responsibility.</p><p><strong>How you’ll make an impact</strong></p><ul>\n<li>\n<p>Lead Android migration and development efforts across Cash Line and Unsecured Installment product surfaces, making thoughtful technical decisions that improve product quality, scalability, and speed of execution.</p>\n</li>\n<li>\n<p>Help deliver against Upstart’s approved Android launch plan, translating aggressive business goals into pragmatic technical milestones and execution plans.</p>\n</li>\n<li>\n<p>Set technical direction for mobile architecture, helping the teams evolve a strong foundation across native Android and React Native surfaces while keeping Android expertise at the core.</p>\n</li>\n<li>\n<p>Partner closely with product, design, and engineering stakeholders across both teams to translate roadmap priorities into durable mobile solutions.</p>\n</li>\n<li>\n<p>Raise the bar for engineering excellence through technical leadership, design reviews, mentorship, and pragmatic execution in ambiguous, high-visibility problem spaces.</p>\n</li>\n<li>\n<p>After launch, continue as a mobile specialist who can support both the Cash Line and Unsecured Installment teams, bringing deep Android expertise alongside enough React Native fluency to contribute across shared mobile surfaces.</p>\n</li>\n</ul><p><strong>Minimum Qualifications </strong></p><ul>\n<li>\n<p>8+ years of software engineering experience, including substantial experience building and shipping native Android applications in Kotlin and/or Java.</p>\n</li>\n<li>\n<p>Proven track record leading large, cross-team mobile initiatives, platform migrations, or new mobile product launches in production environments.</p>\n</li>\n<li>\n<p>Experience shipping consumer-facing mobile products at scale with strong attention to performance, reliability, and user experience.</p>\n</li>\n<li>\n<p>Native Android depth in Kotlin and/or Java, plus working experience with React Native and TypeScript to operate effectively across a mixed mobile stack.</p>\n</li>\n<li>\n<p>Demonstrated technical leadership as a senior individual contributor, including architecture ownership, mentorship, and influence across teams.</p>\n</li>\n</ul><p><strong>Preferred Qualifications</strong></p><ul>\n<li>\n<p>Experience serving as the mobile or frontend technical lead for a product team or business-critical product surface.</p>\n</li>\n<li>\n<p>Breadth across mobile platforms, including familiarity with iOS development, React Native, or cross-platform mobile architecture.</p>\n</li>\n<li>\n<p>Background in fintech, lending, or other consumer financial products with complex user journeys and high quality expectations.</p>\n</li>\n<li>\n<p>Experience helping teams build conviction around new mobile investments through technical proposals, feasibility work, or proof-of-concept execution.</p>\n</li>\n<li>\n<p>Comfort leading through ambiguity in fast-scaling product environments where scope, ownership, and roadmap priorities evolve over time.</p>\n</li>\n<li>\n<p>Experience building alignment across engineering, product, design, and leadership partners in high-visibility, cross-functional organizations.</p>\n</li>\n</ul><p><strong><em>Position Location - </em></strong>This role is available in the following locations: Remote, Burlingame, Columbus, Austin, New York</p><p><strong><em>Time Zone Requirements -</em></strong> This team operates across all U.S. time zones.</p><p><strong><em>Travel Requirements -</em></strong> This team has regular on-site collaboration sessions. These occur 3 days per quarter at an Upstart office. If you need to travel to make these meetups, Upstart will cover all travel related expenses.</p><p>#LI-REMOTE</p><p>#LI-MidSenior --&gt; use for L5, L6</p><div><div><div><p>At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.</p>\n<p>In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k).</p></div><div>United States | Remote - Anticipated Base Salary Range</div><div>$195,300—$270,400 USD</div></div><div><div><p>At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.</p>\n<p>In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k).</p></div><div>Canada | Remote - Anticipated Base Salary Range</div><div>$182,800—$230,000 USD</div></div></div><div><p><strong>What you'll love</strong></p>\n<p>At Upstart, our benefits are designed to support your health, financial well-being, family, and personal growth. Here’s what you can expect:</p>\n<ul>\n<li>Competitive compensation, including base pay, bonus opportunities, and annual equity grants that vest quarterly </li>\n<li>Retirement benefits to help you plan for the future, including a 401(k) or Group Retirement Savings Plan with a company match of $2 for every $1 contributed, up to $15,000 annually (USD in the US, CAD in Canada)</li>\n<li>Employee Stock Purchase Plan (ESPP) with discounted stock purchase options for eligible employees (US only)</li>\n<li>Comprehensive health coverage designed to support you and your family, including medical, dental, vision, and wellness resources for US and supplemental health coverage for Canada.</li>\n<li>Health Savings Account contributions from Upstart for eligible plans (US only)</li>\n<li>Income protection benefits, including life insurance and disability coverage for added financial security</li>\n<li>Paid time off, sick leave, and company holidays, in line with local requirements</li>\n<li>Paid family and parental leave to support caregiving and major life moments (duration varies by country)</li>\n<li>Family-centered benefits to support fertility, parenthood, and caregiving needs</li>\n<li>Employee Assistance Program (EAP) offering mental health support and life-centered resources</li>\n<li>Financial wellness resources, including access to financial planning tools and a financial concierge service (US Only)</li>\n<li>Annual wellness allowance to support your physical and emotional well-being and personal development, based on what matters most to you</li>\n<li>Annual productivity allowance to invest in relevant tools and resources you need to do your best work, no matter where you work from</li>\n<li>Connection and community through team events, all-company updates, and employee resource groups (ERGs)</li>\n<li>Onsite perks, including catered lunches and fully stocked micro-kitchens when working from one of our offices in the Bay Area, Austin, Columbus, and New York City (opening Summer 2026!)</li>\n</ul>\n<p>For roles based in Canada, please note that we are not currently able to hire in Quebec.</p>\n<p>Upstart is a proud Equal Opportunity Employer. Just as we are dedicated to improving access to affordable credit for all, we are committed to inclusive and fair hiring practices.</p>\n<p><em>If you require reasonable accommodation in completing an application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please email candidate_accommodations@upstart.com</em></p>\n<p><a href=\"https://www.upstart.com/candidate_privacy_policy\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.upstart.com/candidate_privacy_policy</a></p></div>",
-      "pubDate": "2026-07-26T12:24:48+00:00",
-      "salaryMin": 182800,
-      "salaryMax": 270400,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:144689",
-    "platform": "jobicy",
-    "external_id": "144689",
-    "title": "Senior Data Platform Engineer",
-    "company": "1Password",
-    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work. If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future. We are looking for a Senior Data Platform Engineer to help us build the next generation of our data platform, a streaming-first, domain-oriented foundation designed for speed, ownership, and trust. You will work on the infrastructure, tooling, and paved paths that allow data to flow from production systems into a governed medallion architecture, enabling near real-time access for analysts, engineers, AI systems, and business users across the organization. This is a high-impact role at the center of a platform transformation: enabling self-serve data access, moving towards near real time data access, and establishing data as a first-class product surface owned at the source. This is a remote opportunity within Canada and the US. What we're looking for: You have a passion for designing, implementing, and operating stable, scalable, and efficient data systems Deep experience with streaming architectures and event-driven data pipelines Strong focus on schema governance, data quality, and data lifecycle management Proven track record of architecting, building, deploying, and supporting scalable production systems across 7+ years of experience Enjoys leading through individual technical contribution while mentoring and supporting the growth of other data platform engineers Strong commitment to software engineering and data infrastructure best practices Curiosity and interest in emerging AI technologies and applications Prefer BS, MS, or Ph. D. in Computer Science with 7+ years of proven relevant industry experience 5+ years experience working on Cloud Platforms (AWS primarily or GCP) and open-source technologies supporting data infrastructure, platforms &amp; tools 5+ years experience with Big Data query engines &amp; data stores such as Databricks, Snowflake, Redshift, etc. Great communication skills capable of working cross functionally with different teams in Engineering and prioritizing critical needs for Data Platform Experience programming, building and deploying products that rely on large-scale distributed systems in Python, Go, Scala/Java, or other similar languages 5+ years experience with large-scale, distributed systems design and development with an understanding of scaling, replication, consistency, and high availability 5+ years experience with Infrastructure as Code (IaC) tools like Terraform or Ansible. Experience with compute layer like EC2, ECS, EKS or similar Bonus points for: Implementing secure systems/datastores with least privilege access (e.g. IAM) and encryption Experience using streaming technologies like Apache Kafka, Kinesis, Flink, etc. Implementing quality monitoring/alerting using tools like Prometheus, Grafana or Datadog Experience with Dagster or other orchestration tooling Experience with data modelling tooling such as dbt What you can expect: Design, implement, and maintain a streaming-first data platform built on Apache Kafka, Protobuf, and Apache Iceberg, enabling near real-time data availability across the organization Build and operate a hybrid Databricks and Snowflake architecture: leveraging Databricks for data engineering, streaming processing, and AI/ML workloads, and Snowflake as the governed serving layer for analytics and business reporting Own the unified storage layer to ensure all consumers operate on a consistent and governed data foundation Champion platform standards, tooling, and best practices across the data organization USA-based roles only: The annual base salary for this role is between $152,000 USD and $197,500 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs. Canada-based roles only: The annual base salary for this role is between $133,000 CAD and $173,000 CAD , plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs. UK-based roles only: The annual base salary for this role is between £ XX GBP and £ XX GBP, plus immediate participation in 1Password's benefits program (health, dental, pension, and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs. At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set. This posting is for an existing vacancy. Our culture At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is not for everyone . Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. How we work with AI We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password. This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. Our approach to remote work We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events. What we offer We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: Health and wellbeing Maternity and parental leave top-up programs Competitive health benefits Generous PTO policy Growth and future RSU program for most employees Retirement matching program Free 1Password account Community Paid volunteer days Peer-to-peer recognition through Bonusly Remote-first work environment *Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting. You belong here. 1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love. Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs. Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you. Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law. 1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See here for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing this form . For additional information see our Candidate Privacy Notice .",
-    "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Canada,  USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "java",
-      "scala",
-      "oracle",
-      "aws",
-      "gcp",
-      "terraform",
-      "ansible",
-      "prometheus",
-      "grafana",
-      "datadog",
-      "apache",
-      "machine-learning",
-      "dbt",
-      "snowflake",
-      "databricks",
-      "kafka"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-07-26T11:50:03+00:00",
-    "fetched_at": "2026-08-06T08:07:58.454Z",
-    "raw": {
-      "id": 144689,
-      "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
-      "jobSlug": "144689-senior-data-platform-engineer",
-      "jobTitle": "Senior Data Platform Engineer",
-      "companyName": "1Password",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/09/WRILS-200909195848-296323.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Canada,  USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.About 1PasswordAt 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash&hellip;",
-      "jobDescription": "<p><em><strong>1Password is growing.</strong> We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.</em></p><p><strong>About 1Password</strong></p><p><em>At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work.</em></p><p><em>If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future.</em></p><p>We are looking for a <strong>Senior Data Platform Engineer</strong> to help us build the next generation of our data platform, a streaming-first, domain-oriented foundation designed for speed, ownership, and trust. You will work on the infrastructure, tooling, and paved paths that allow data to flow from production systems into a governed medallion architecture, enabling near real-time access for analysts, engineers, AI systems, and business users across the organization.</p><p>This is a high-impact role at the center of a platform transformation: enabling self-serve data access, moving towards near real time data access, and establishing data as a first-class product surface owned at the source.</p><p>This is a remote opportunity within Canada and the US.</p><p><strong>What we're looking for:</strong></p><ul><li><p>You have a passion for designing, implementing, and operating stable, scalable, and efficient data systems</p></li><li><p>Deep experience with streaming architectures and event-driven data pipelines</p></li><li><p>Strong focus on schema governance, data quality, and data lifecycle management</p></li><li><p>Proven track record of architecting, building, deploying, and supporting scalable production systems across 7+ years of experience</p></li><li><p>Enjoys leading through individual technical contribution while mentoring and supporting the growth of other data platform engineers</p></li><li><p>Strong commitment to software engineering and data infrastructure best practices</p></li><li><p>Curiosity and interest in emerging AI technologies and applications</p></li><li><p>Prefer BS, MS, or Ph. D. in Computer Science with 7+ years of proven relevant industry experience</p></li><li><p>5+ years experience working on Cloud Platforms (AWS primarily or GCP) and open-source technologies supporting data infrastructure, platforms &amp; tools</p></li><li><p>5+ years experience with Big Data query engines &amp; data stores such as Databricks, Snowflake, Redshift, etc.</p></li><li><p>Great communication skills capable of working cross functionally with different teams in Engineering and prioritizing critical needs for Data Platform</p></li><li><p>Experience programming, building and deploying products that rely on large-scale distributed systems in Python, Go, Scala/Java, or other similar languages</p></li><li><p>5+ years experience with large-scale, distributed systems design and development with an understanding of scaling, replication, consistency, and high availability</p></li><li><p>5+ years experience with Infrastructure as Code (IaC) tools like Terraform or Ansible.</p></li><li><p>Experience with compute layer like EC2, ECS, EKS or similar</p></li></ul><p><strong>Bonus points for:</strong></p><ul><li><p>Implementing secure systems/datastores with least privilege access (e.g. IAM) and encryption</p></li><li><p>Experience using streaming technologies like Apache Kafka, Kinesis, Flink, etc.</p></li><li><p>Implementing quality monitoring/alerting using tools like Prometheus, Grafana or Datadog</p></li><li><p>Experience with Dagster or other orchestration tooling</p></li><li><p>Experience with data modelling tooling such as dbt</p></li></ul><p><strong>What you can expect:</strong></p><ul><li><p>Design, implement, and maintain a streaming-first data platform built on Apache Kafka, Protobuf, and Apache Iceberg, enabling near real-time data availability across the organization</p></li><li><p>Build and operate a hybrid Databricks and Snowflake architecture: leveraging Databricks for data engineering, streaming processing, and AI/ML workloads, and Snowflake as the governed serving layer for analytics and business reporting</p></li><li><p>Own the unified storage layer to ensure all consumers operate on a consistent and governed data foundation</p></li><li><p>Champion platform standards, tooling, and best practices across the data organization</p></li></ul><p>USA-based roles only: The annual base salary for this role is between $152,000 USD and $197,500 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>Canada-based roles only: The annual base salary for this role is between $133,000 CAD and $173,000 CAD<strong>, </strong>plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>UK-based roles only: The annual base salary for this role is between £<strong>XX</strong> GBP and £<strong>XX </strong>GBP, plus immediate participation in 1Password's benefits program (health, dental, pension, and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.<br /><em>This posting is for an existing vacancy.</em></p><p><strong>Our culture </strong><br>At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. <br />You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, <a href=\"https://blog.1password.com/inside-the-culture-powering-1passwords-next-chapter/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>1Password is not for everyone</em></a>. Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. <br /><strong>How we work with AI</strong><br>We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password.</p><p>This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process.<br /><strong>Our approach to remote work </strong><br>We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events.<br /><strong>What we offer</strong><br>We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: <br /><em>Health and wellbeing</em><br> Maternity and parental leave top-up programs<br> Competitive health benefits<br> Generous PTO policy <br /><em> Growth and future </em><br> RSU program for most employees<br> Retirement matching program<br> Free 1Password account<br /><em>Community </em><br> Paid volunteer days <br> Peer-to-peer recognition through Bonusly<br> Remote-first work environment<br><em>*Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting.</em></p><p><strong>You belong here.</strong></p><p><em>1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love.</em></p><p><em>Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs.</em></p><p><em>Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you.</em></p><p><em>Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law.</em></p><p><em>1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See </em><a href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><u>here</u></em></a><em> for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing </em><a href=\"https://jobs.ashbyhq.com/1password/automation-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><u>this form</u></em></a><em>. For additional information see our </em><a href=\"https://1password.com/files/candidate-privacy-notice.pdf\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><u>Candidate Privacy Notice</u></em></a><em>.</em></p>",
-      "pubDate": "2026-07-26T11:50:03+00:00",
-      "salaryMin": 133000,
-      "salaryMax": 197500,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:143438",
-    "platform": "jobicy",
-    "external_id": "143438",
-    "title": "Overhead Line (OHL) Design engineer",
-    "company": "WSP",
-    "description": "Power Networks provides high quality consultancy services within distribution network (cable and overhead lines) and transmission (cable). We support our clients throughout every stage of the process — from early feasibility studies to design, execution, and project management. Our expertise also includes market, regulatory, and environmental analysis. Today, our work spans overhead lines and underground cables. At Power Networks, we are approximately 30 employees located across our offices in Stockholm, Göteborg, Skellefteå, Linköping, Karlstad, Uppsala, Karlskrona, Kalmar and Jönköping. As an Overhead Line (OHL) Design engineer at WSP, you will experience a great variety in your work, engaging in projects for multiple clients and network owners. Typical projects involve design, construction, and calculations within the overhead line segment, covering voltage levels from 30 kV to 130 kV. Some of your responsibilies will include: Lead or contribute to overhead line design for medium voltage grids. Perform tower spotting, line profiling, and routing studies. Conduct sag and tension calculations according to international or Scandinavian standards. Coordinate with Swedish internal teams. Ensure technical compliance, quality, and design optimization. The team works together closely to achieve project goals while continuously sharing knowledge and experience to foster growth. At WSP, we offer exciting opportunities to work on a diverse range of overhead line projects, both big and small. You have the flexibility to focus on what drives you and supports your professional development. With colleagues spread across Sweden, you will collaborate with highly skilled professionals in various specialties. We strongly encourage close teamwork, even when working remotely. In this role you can be placed at any of WSP’s offices in Sweden or where WSP has offices globally. To succeed in this role, we believe that you have: Bachelor’s degree (minimum) in Electrical, Civil, or Mechanical Engineering. At least three years experience in overhead power line design (33–130 kV). Strong competence in tower spotting or sag/tension calculations. Familiarity with PLS-CADD or similar design tools is a strong advantage. Prior experience working on European or Scandinavian utility projects is a plus. Knowledge of AutoCAD or Microstation. If you have experience in Icetow, AvCAD or similar programs, it is a merit. Previous experience working as a consultant is also considered a plus. Additionally, we consider it a merit if you have familiarity with AMA standards, construction, and workplace safety regulations. We operate in an international environment, so it is important that you are comfortable communicating in English. Swedish is a merit. Contact Omobobola Adetunji People Lead Power Networks, Omobobola.adetunji@wsp.com Sofie Grettve, Senior Talent Acquisition Specialist, sofie.grettve@wsp.com Don’t hesitate to reach out if you have any questions! Application deadline Selection is ongoing, but we would like to receive your application no later than 15th of June.",
-    "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Sweden",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "segment"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-07-26T11:15:12+00:00",
-    "fetched_at": "2026-08-06T08:07:58.455Z",
-    "raw": {
-      "id": 143438,
-      "url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
-      "jobSlug": "143438-overhead-line-ohl-design-engineer",
-      "jobTitle": "Overhead Line (OHL) Design engineer",
-      "companyName": "WSP",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/05/393fad80-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Sweden",
-      "jobLevel": "Director",
-      "jobExcerpt": "Power Networks provides high quality consultancy services within distribution network (cable and overhead lines) and transmission (cable). We support our clients throughout every stage of the process — from early feasibility studies to design, execution, and project management. Our expertise also includes market, regulatory, and environmental analysis. Today, our work spans overhead lines and underground&hellip;",
-      "jobDescription": "<p>Power Networks provides high quality consultancy services within distribution network (cable and overhead lines) and transmission (cable). We support our clients throughout every stage of the process — from early feasibility studies to design, execution, and project management. Our expertise also includes market, regulatory, and environmental analysis. Today, our work spans overhead lines and underground cables.</p><p>At Power Networks, we are approximately 30 employees located across our offices in Stockholm, Göteborg, Skellefteå, Linköping, Karlstad, Uppsala, Karlskrona, Kalmar and Jönköping. </p><p>As an Overhead Line (OHL) Design engineer at WSP, you will experience a great variety in your work, engaging in projects for multiple clients and network owners. Typical projects involve design, construction, and calculations within the overhead line segment, covering voltage levels from 30 kV to 130 kV. </p><p>Some of your responsibilies will include:</p><ul><li>Lead or contribute to overhead line design for medium voltage grids.</li><li>Perform tower spotting, line profiling, and routing studies.</li><li>Conduct sag and tension calculations according to international or Scandinavian standards.</li><li>Coordinate with Swedish internal teams.</li><li>Ensure technical compliance, quality, and design optimization.</li></ul><p>The team works together closely to achieve project goals while continuously sharing knowledge and experience to foster growth.</p><p>At WSP, we offer exciting opportunities to work on a diverse range of overhead line projects, both big and small. You have the flexibility to focus on what drives you and supports your professional development. With colleagues spread across Sweden, you will collaborate with highly skilled professionals in various specialties. We strongly encourage close teamwork, even when working remotely.</p><p>In this role you can be placed at any of WSP’s offices in Sweden or where WSP has offices globally. </p><p>To succeed in this role, we believe that you have:</p><ul><li>Bachelor’s degree (minimum) in Electrical, Civil, or Mechanical Engineering.</li><li>At least three years experience in overhead power line design (33–130 kV).</li><li>Strong competence in tower spotting or sag/tension calculations.</li><li>Familiarity with PLS-CADD or similar design tools is a strong advantage.</li><li>Prior experience working on European or Scandinavian utility projects is a plus.</li><li>Knowledge of AutoCAD or Microstation. If you have experience in Icetow, AvCAD or similar programs, it is a merit. </li><li>Previous experience working as a consultant is also considered a plus. </li></ul><p>Additionally, we consider it a merit if you have familiarity with AMA standards, construction, and workplace safety regulations.</p><p>We operate in an international environment, so it is important that you are comfortable communicating in English. Swedish is a merit. </p><p><strong>Contact</strong></p><p>Omobobola Adetunji People Lead Power Networks, Omobobola.adetunji@wsp.com </p><p>Sofie Grettve, Senior Talent Acquisition Specialist, sofie.grettve@wsp.com </p><p>Don’t hesitate to reach out if you have any questions!</p><p><strong>Application deadline</strong></p><p>Selection is ongoing, but we would like to receive your application no later than 15th of June.</p>",
-      "pubDate": "2026-07-26T11:15:12+00:00"
-    }
-  },
-  {
-    "id": "jobicy:143441",
-    "platform": "jobicy",
-    "external_id": "143441",
-    "title": "Quality Engineer",
-    "company": "Intuitive",
-    "description": "Unternehmensbeschreibung At Intuitive, we are united behind our mission: we believe that minimally invasive care is life-enhancing care. Through ingenuity and intelligent technology, we expand the potential of physicians to heal without constraints. As a pioneer and leading company in the field of robotic-assisted surgery, we strive to foster an inclusive and diverse team, committed to making a difference. For more than 25 years, we have worked with hospitals and care teams around the world to help solve some of healthcare’s hardest challenges and advance what is possible. Intuitive has been built by the efforts of great people from diverse backgrounds. We believe great ideas can come from anywhere—we strive to foster an inclusive culture built around diversity of thought and mutual respect. We lead with inclusion and empower our team members to do their best work as their most authentic selves. Passionate people who want to make a difference drive our culture—our team members are grounded in integrity, have a strong capacity to learn, the energy to get things done, and bring diverse, real-world experiences to help us think in new ways. We actively invest in our team members to support their long-term growth so they can continue to advance our mission and achieve their highest potential. Join a team committed to taking big leaps forward for a global community of healthcare professionals and their patients. Together, let’s advance the world of minimally invasive care. Stellenbeschreibung Primary Function of Position: Intuitive seeks a strong technical contributor who can help define practical, useful quality metrics and specifications, identify key opportunities for product improvement, launch quality initiatives, lead projects to implement these initiatives, and serve as an expert consultant to help solve the most technically challenging quality problems. The ideal candidate possesses a broad base of experience and a high level of technical depth in at least two technical specialties applicable to medical robotics and optics, and is equally at home in the test lab, on the manufacturing shopfloor and providing technical leadership to our team as we develop standard practices of our organization. You will not abide “process red tape”, instead passionately seeking the most efficient way to build in product quality. And you will also coach, mentor, teach, and influence the engineering staff in best quality practices, data analysis, protocol development, and design for quality and reliability methods. Roles and Responsibilities: New Product Development and Sustaining/Manufacturing Support Handle projects of various product and subsystem/component types (electrical, mechanical, optical, etc). Develop measurable goals for quality and lead Quality Table meetings. Ensuring that the essential performance aspects are mitigated in the product quality plans. Identify critical elements of designs. Recommend design processes and methods to meet quality goals: DFX, etc. Provide guidance to other engineers regarding applicable regulatory and statutory requirements and the applicability of these requirements to the ISI products. Plan and create quality standards, quality control, and quality assurance procedures, plans, test methods, fixtures, and processes for incoming materials and finished devices. Ensure process compliance through the design and development of comprehensive procedures including work instructions, flowcharts, forms, templates, checklists, and other product or process related documentation, for recording, evaluating, and reporting quality data. Analyze and disposition of discrepant material. Support manufacturing processes, including failure analysis, documentation review and approval, tooling qualification, inspection method qualification, and defect containments. Support development and execution of process validation and verification test plans, protocols, and reports. Support development and execution of manufacturing line qualification plans, protocols, and reports. Support and drive MVP/R projects. Failure Analysis Provide quality expertise to the quality engineering support team to analyze the product failure. Perform deep technical failure analysis based on the physics of failure. Review and interpret complex data analysis rooted in an understanding of our product hardware and software, the physics of failure, and the use conditions in the clinical / operating room environment. Quality Advocacy and Project Management Create, process and review various types of Quality Notifications and Change Orders. Develop and apply corporate level quality metrics. Lead quality meetings e.g. QDR (Quality Data Review). Lead and project manage quality initiatives in one or more of these focus areas: Product Quality, Data Quality, Process Quality. Perform mock audits and Gemba walks to ensure compliance with ISI QMS. Participate in audits (front/back room). Develop, lead and communicate intercompany Quality Engineering projects. Qualifikationen Required Knowledge, Skills, and Experience: Bachelor’s degree in electrical, mechanical or system engineering, math, or physics. Advanced degree preferred. 5+ years of working experience in Quality Engineering or Process Engineering with quality improvement projects participation, minimum 3 years in medical device design or manufacturing environment. Able to navigate quality and compliance system with minimal oversight on individual projects. Demonstrated understanding of CFR 21 820/ ISO 13485 requirements for making process or design changes. Understands product risk management, experience in generate FMEA and process FMEA. Understands Design Controls, Change Controls, Product, and Engineering Processes. Proficient with generate and execute Qualification and Validation protocols and Quality Assurance Procedures. Experienced in leading product containment and rework activities. Proficient in SPC &amp; Six Sigma methodology and tools. Experienced in typical Excel data analysis operations. Able to create Multi-source report, trends, and interprets data with minimal oversight. Capable of thinking independently and make decision based on limited information. Capable of initiating improvement discussion and lead the team toward the goal. Can present information in various forms and forums, collaborates with peers across functions. Experience in presenting to cross functional mgmt. communications. (e.g. report writing, presentations, QRB presenter). Excellent creative problem-solving skills. Excellent communication and documentation skills in English and German. Zusätzliche Informationen Wir schätzen jede Person in ihrer Individualität – unabhängig von Geschlecht, ethnischer oder sozialer Herkunft, Religion, besonderen Bedürfnissen, Alter oder sexueller Identität. Diskriminierung hat bei uns keinen Platz. Haftungsausschluss für US-Exportkontrollen : In Übereinstimmung mit den U.S. Export Administration Regulations (15 CFR §743.13(b)) können einige Positionen bei Intuitive Surgical US-Exportkontrollen für potenzielle Mitarbeitende unterliegen, die Staatsangehörige von Ländern sind, die derzeit einen Embargo- oder Sanktionsstatus haben. Bestimmte Informationen, die Sie im Rahmen der Bewerbung angeben, werden verwendet, um festzustellen, ob Intuitive Surgical (i) in Ihrem Namen eine Exportlizenz von der US-Regierung einholen muss (das Lizenzierungsverfahren der Regierung kann bis zu sechs Monate dauern) oder (ii) einen Technology Control Plan (TCP) implementieren muss (verlängert den Einstellungsprozess in der Regel um 2 Wochen). Für alle Positionen bei Intuitive, die Exportkontrollen unterliegen, steht ein endgültiges Angebot unter dem Vorbehalt, dass vor dem geplanten Eintrittsdatum eine genehmigte Exportlizenz und/oder ein vollständig ausgeführter Technology Control Plan (TCP) vorliegt. Das Eintrittsdatum kann dabei angepasst werden, sofern der Genehmigungsprozess den Einstellungsbedarf nicht unangemessen beeinträchtigt. Diese Position kann abhängig von den betrieblichen Anforderungen und/oder der Erfahrung der ausgewählten Kandidatin bzw. des ausgewählten Kandidaten auf einer anderen Jobstufe als hier angegeben besetzt werden. Die Vergütung richtet sich nach der Jobstufe sowie der Qualifikationen der Kandidatin bzw. des Kandidaten, selbstverständlich unter Berücksichtigung aller gesetzlichen Vorgaben.",
-    "url": "https://jobicy.com/jobs/143441-quality-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Germany",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-07-26T11:15:07+00:00",
-    "fetched_at": "2026-08-06T08:07:58.456Z",
-    "raw": {
-      "id": 143441,
-      "url": "https://jobicy.com/jobs/143441-quality-engineer",
-      "jobSlug": "143441-quality-engineer",
-      "jobTitle": "Quality Engineer",
-      "companyName": "Intuitive",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/05/deceea09-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Germany",
-      "jobLevel": "Senior",
-      "jobExcerpt": "UnternehmensbeschreibungAt Intuitive, we are united behind our mission: we believe that minimally invasive care is life-enhancing care. Through ingenuity and intelligent technology, we expand the potential of physicians to heal without constraints.As a pioneer and leading company in the field of robotic-assisted surgery, we strive to foster an inclusive and diverse team, committed to making&hellip;",
-      "jobDescription": "<h2>Unternehmensbeschreibung</h2><p>At Intuitive, we are united behind our mission: we believe that minimally invasive care is life-enhancing care. Through ingenuity and intelligent technology, we expand the potential of physicians to heal without constraints.</p><p>As a pioneer and leading company in the field of robotic-assisted surgery, we strive to foster an inclusive and diverse team, committed to making a difference. For more than 25 years, we have worked with hospitals and care teams around the world to help solve some of healthcare’s hardest challenges and advance what is possible.</p><p>Intuitive has been built by the efforts of great people from diverse backgrounds. We believe great ideas can come from anywhere—we strive to foster an inclusive culture built around diversity of thought and mutual respect. We lead with inclusion and empower our team members to do their best work as their most authentic selves.</p><p>Passionate people who want to make a difference drive our culture—our team members are grounded in integrity, have a strong capacity to learn, the energy to get things done, and bring diverse, real-world experiences to help us think in new ways. We actively invest in our team members to support their long-term growth so they can continue to advance our mission and achieve their highest potential. </p><p>Join a team committed to taking big leaps forward for a global community of healthcare professionals and their patients. Together, let’s advance the world of minimally invasive care.</p><h2>Stellenbeschreibung</h2><p><strong><u>Primary Function of Position:</u></strong></p><p>Intuitive seeks a strong technical contributor who can help define practical, useful quality metrics and specifications, identify key opportunities for product improvement, launch quality initiatives, lead projects to implement these initiatives, and serve as an expert consultant to help solve the most technically challenging quality problems. The ideal candidate possesses a broad base of experience and a high level of technical depth in at least two technical specialties applicable to medical robotics and optics, and is equally at home in the test lab, on the manufacturing shopfloor and providing technical leadership to our team as we develop standard practices of our organization. You will not abide “process red tape”, instead passionately seeking the most efficient way to build in product quality. And you will also coach, mentor, teach, and influence the engineering staff in best quality practices, data analysis, protocol development, and design for quality and reliability methods.</p><p><strong><u>Roles and Responsibilities:</u></strong></p><ul><li>New Product Development and Sustaining/Manufacturing Support<ul><li>Handle projects of various product and subsystem/component types (electrical, mechanical, optical, etc).</li><li>Develop measurable goals for quality and lead Quality Table meetings.</li><li>Ensuring that the essential performance aspects are mitigated in the product quality plans.</li><li>Identify critical elements of designs. Recommend design processes and methods to meet quality goals: DFX, etc.</li><li>Provide guidance to other engineers regarding applicable regulatory and statutory requirements and the applicability of these requirements to the ISI products.</li><li>Plan and create quality standards, quality control, and quality assurance procedures, plans, test methods, fixtures, and processes for incoming materials and finished devices.</li><li>Ensure process compliance through the design and development of comprehensive procedures including work instructions, flowcharts, forms, templates, checklists, and other product or process related documentation, for recording, evaluating, and reporting quality data.</li><li>Analyze and disposition of discrepant material.</li><li>Support manufacturing processes, including failure analysis, documentation review and approval, tooling qualification, inspection method qualification, and defect containments.</li><li>Support development and execution of process validation and verification test plans, protocols, and reports.</li><li>Support development and execution of manufacturing line qualification plans, protocols, and reports. Support and drive MVP/R projects.</li></ul></li><li>Failure Analysis<ul><li>Provide quality expertise to the quality engineering support team to analyze the product failure.</li><li>Perform deep technical failure analysis based on the physics of failure.</li><li>Review and interpret complex data analysis rooted in an understanding of our product hardware and software, the physics of failure, and the use conditions in the clinical / operating room environment.</li></ul></li><li>Quality Advocacy and Project Management<ul><li>Create, process and review various types of Quality Notifications and Change Orders.</li><li>Develop and apply corporate level quality metrics. Lead quality meetings e.g. QDR (Quality Data Review).</li><li>Lead and project manage quality initiatives in one or more of these focus areas: Product Quality, Data Quality, Process Quality.</li><li>Perform mock audits and Gemba walks to ensure compliance with ISI QMS.<br>\nParticipate in audits (front/back room).</li></ul></li><li>Develop, lead and communicate intercompany Quality Engineering projects.</li></ul><h2>Qualifikationen</h2><p><strong><u>Required Knowledge, Skills, and Experience:</u></strong></p><ul><li>Bachelor’s degree in electrical, mechanical or system engineering, math, or physics. Advanced degree preferred.</li><li>5+ years of working experience in Quality Engineering or Process Engineering with quality improvement projects participation, minimum 3 years in medical device design or manufacturing environment.</li><li>Able to navigate quality and compliance system with minimal oversight on individual projects.</li><li>Demonstrated understanding of CFR 21 820/ ISO 13485 requirements for making process or design changes.</li><li>Understands product risk management, experience in generate FMEA and process FMEA.</li><li>Understands Design Controls, Change Controls, Product, and Engineering Processes.</li><li>Proficient with generate and execute Qualification and Validation protocols and Quality Assurance Procedures.</li><li>Experienced in leading product containment and rework activities.</li><li>Proficient in SPC &amp; Six Sigma methodology and tools.</li><li>Experienced in typical Excel data analysis operations. Able to create Multi-source report, trends, and interprets data with minimal oversight.</li><li>Capable of thinking independently and make decision based on limited information.</li><li>Capable of initiating improvement discussion and lead the team toward the goal.</li><li>Can present information in various forms and forums, collaborates with peers across functions. Experience in presenting to cross functional mgmt. communications. (e.g. report writing, presentations, QRB presenter).</li><li>Excellent creative problem-solving skills.</li><li>Excellent communication and documentation skills in English and German.</li></ul><h2>Zusätzliche Informationen</h2><p>Wir schätzen jede Person in ihrer Individualität – unabhängig von Geschlecht, ethnischer oder sozialer Herkunft, Religion, besonderen Bedürfnissen, Alter oder sexueller Identität. Diskriminierung hat bei uns keinen Platz.</p><p><strong>Haftungsausschluss für US-Exportkontrollen</strong>: In Übereinstimmung mit den U.S. Export Administration Regulations (15 CFR §743.13(b)) können einige Positionen bei Intuitive Surgical US-Exportkontrollen für potenzielle Mitarbeitende unterliegen, die Staatsangehörige von Ländern sind, die derzeit einen Embargo- oder Sanktionsstatus haben.</p><p>Bestimmte Informationen, die Sie im Rahmen der Bewerbung angeben, werden verwendet, um festzustellen, ob Intuitive Surgical (i) in Ihrem Namen eine Exportlizenz von der US-Regierung einholen muss (das Lizenzierungsverfahren der Regierung kann bis zu sechs Monate dauern) oder (ii) einen Technology Control Plan (TCP) implementieren muss (verlängert den Einstellungsprozess in der Regel um 2 Wochen).</p><p>Für alle Positionen bei Intuitive, die Exportkontrollen unterliegen, steht ein endgültiges Angebot unter dem Vorbehalt, dass vor dem geplanten Eintrittsdatum eine genehmigte Exportlizenz und/oder ein vollständig ausgeführter Technology Control Plan (TCP) vorliegt. Das Eintrittsdatum kann dabei angepasst werden, sofern der Genehmigungsprozess den Einstellungsbedarf nicht unangemessen beeinträchtigt.</p><p>Diese Position kann abhängig von den betrieblichen Anforderungen und/oder der Erfahrung der ausgewählten Kandidatin bzw. des ausgewählten Kandidaten auf einer anderen Jobstufe als hier angegeben besetzt werden. Die Vergütung richtet sich nach der Jobstufe sowie der Qualifikationen der Kandidatin bzw. des Kandidaten, selbstverständlich unter Berücksichtigung aller gesetzlichen Vorgaben.</p>",
-      "pubDate": "2026-07-26T11:15:07+00:00"
     }
   }
 ]
