@@ -1,12 +1,13 @@
 {
-  "totalJobs": 788,
+  "totalJobs": 790,
   "bySource": {
     "jobicy": 98,
-    "remoteok": 98,
+    "remoteok": 99,
     "workingnomads": 19,
     "wwr": 70,
     "remotive": 31,
-    "hn": 472
+    "hn": 472,
+    "himalayas": 1
   },
   "byTechStack": {
     "python": 158,
@@ -78,7 +79,7 @@
     "dbt": 14,
     "snowflake": 7,
     "sqlserver": 4,
-    "go": 54,
+    "go": 53,
     "laravel": 23,
     "ruby": 68,
     "rails": 41,
@@ -174,26 +175,26 @@
     "freelance": 8
   },
   "byRemoteType": {
-    "remote": 494,
+    "remote": 496,
     "onsite": 228,
     "hybrid": 1
   },
   "bySalaryRange": {
-    "under50k": 129,
+    "under50k": 130,
     "50k-100k": 8,
-    "100k-150k": 27,
+    "100k-150k": 28,
     "150k-200k": 11,
     "over200k": 10,
     "unknown": 603
   },
-  "lastUpdated": "2026-08-07T18:33:51.434Z",
+  "lastUpdated": "2026-08-08T00:36:11.409Z",
   "jobsLast7Days": [
-    32,
     1,
     10,
     3,
-    115,
-    20,
-    2
+    109,
+    25,
+    4,
+    0
   ]
 }
