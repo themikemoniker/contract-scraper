@@ -1,5 +1,62 @@
 [
   {
+    "id": "jobicy:150851",
+    "platform": "jobicy",
+    "external_id": "150851",
+    "title": "AI-First Android Engineer",
+    "company": "Grove Collaborative",
+    "description": "Grove Collaborative is a sustainability-focused consumer products company creating household and personal care essentials that are effective, beautifully designed, and healthier for people and the planet. We are a certified B Corp, plastic-neutral, and on a mission to transform the CPG industry for good. THE ROLE Grove is hiring an AI-First Android Engineer — a senior, single-threaded owner of our Android surface who operates as an “engineer-as-a-team.” This isn’t a role where you hand-write every line and lean on AI for autocomplete. This is a role where AI is your primary instrument: you direct fleets of coding agents, generate, review, and refactor at orders of magnitude beyond what a traditional engineer can produce, and take total ownership of features end-to-end — from discovery through production. You will be measured by what ships, what stays up, and what customers feel — not by lines of code or tokens used. You operate in a new-world environment where one well-equipped engineer can deliver the output of a small team. We expect you to compound your own leverage every quarter: better prompts, better evals, better agent harnesses, better guardrails. The bar isn’t “uses AI tools.” The bar is “runs AI like a team you manage.” WHAT YOU’LL OWN Direct multiple AI coding agents in parallel to design, build, test, and ship Android features in Kotlin against the Android SDK. Take total ownership of a slice of the Android app — discovery, scoping, architecture, implementation, QA, release, monitoring, and iteration. Run an “engineer-as-a-team” workflow — spawn agents for spec drafting, codegen, test generation, code review, refactoring, doc writing, and bug triage, then merge, judge, and ship. Develop and defend a strong point of view on what good Android code looks like inside Grove’s architecture (Clean Architecture, multi-module Gradle with base/middleware/data/app, MVVM with DataBinding, Koin for DI, Coroutines/Flow, Moshi) so you can critically review AI output and reject what doesn’t meet our bar. Design prompts, evals, and harnesses that make AI-assisted mobile development repeatable and measurable, not artisanal. Stand up automation that closes the loop: Fastlane lanes, CircleCI checks, AppCenter/Play Console distribution, device test farms, telemetry-driven rollback, and AI-powered review gates. Drive architecture decisions with AI as a research and prototyping partner — explore three options in a day instead of one in a week, including the path to introducing Jetpack Compose into a DataBinding/XML codebase. Collaborate with other engineers on architecture and trade-offs — bring designs for review before you ship them. Solicit business context from PMs, designers, and platform engineers; don’t guess in isolation. Own production health autonomously — monitor Sentry, Datadog, Cloudflare, and Firebase to assess system health, triage incidents, and re-prioritize your own backlog without being asked. You set the queue; you don’t wait for someone to tell you what’s broken. Mentor the Heady contractor team on AI-native workflows and share learnings with mobile peers. Triage Sentry crashes, hotfix, and root-cause incidents with AI-assisted investigation and remediation (we already run Sentry’s auto-fix agent — you’ll push it further). ABOUT YOU 5–8 years of professional Android development experience with a portfolio of shipped consumer apps at scale. Native, demonstrable fluency with modern AI coding tooling (Claude Code, Cursor, Copilot, Codex, agentic workflows) — you can walk us through a feature you shipped where AI did the majority of the coding and you did the orchestration. Strong, opinionated taste in Kotlin and modern Android architecture (Clean Architecture, MVVM, multi-module Gradle, Koin for DI, Coroutines/Flow, Moshi) — and a clear point of view on when MVI or Compose is worth introducing. Comfort working in a DataBinding/XML codebase today, with the judgment to drive a phased Compose migration when and where it’s worth it (not a rewrite-from-scratch reflex). Experience integrating with REST + JSON:API-style backends and the Shopify Buy/Checkout SDKs at consumer scale. A bias toward owning end-to-end outcomes rather than handing off work at team boundaries — paired with the judgment to know when to pull another engineer in for an architecture review or business-context check. Genuinely autonomous in operation: you read Sentry/Datadog/Firebase/Cloudflare dashboards on your own, prioritize your own queue, and don’t need a manager to surface what’s on fire. Comfort writing prompts, evals, and guardrails — you treat AI as a system to be engineered, not a search box. Sharp written communication — specify clearly, review rigorously, and explain decisions to teammates. You’ll drive async standups, design reviews, and Slack debugging sessions with a distributed team. A collaborative, ego-light disposition — orchestrators thrive when they care more about the result than the byline, and welcome a sharp design critique from a peer. EVEN BETTER IF YOU HAVE Experience designing custom agents, MCP tools, or AI-assisted code review pipelines. Experience leading an XML/DataBinding → Jetpack Compose migration on a production app. Strong command of Coroutines, Flow, and structured concurrency patterns. Comfort with the Grove-adjacent stack: Shopify SDK (Buy/Checkout), Stripe, Heap, Braze, AppsFlyer, Sentry, Firebase, Contentful, Constructor.io, Bazaar Voice, WorkManager. Familiarity with Cicerone (or similar) for navigation and Spek/Kluent/Espresso for testing — or a strong opinion on what should replace them. CI/CD for Android: Fastlane, CircleCI, AppCenter, Play Console automation, Gradle build optimization, version catalogs. Subscription / e-commerce mobile experience — selling plans, recurring orders, cart-sidecar contracts, OOS handling at scale. Exposure to feature flags, experimentation platforms, and analytics instrumentation. Experience contributing to a team’s shift toward AI-native development practices. WHAT'S IN IT FOR YOU This full-time, exempt position is remote for candidates based in the following states: California, Maine, Pennsylvania, Nevada, North Carolina, Texas, Colorado, Washington, Illinois, New York, Missouri, and Massachusetts. Competitive benefits - medical, vision, dental Equity - shared success is core to our mission Flexible Paid Time Off - we care most about results Free VIP membership and 50% employee discount Working for a company that believes that a small group of people can change the world for the better by creating products and funding initiatives that help the planet! COMPENSATION The salary range for this role is $175,000-225,000. Our compensation bands are determined based on market-specific cost of living data, meaning that the top of our salary range is reserved for the most experienced candidates in the highest cost of living areas across the country. In addition to the base salary, this role is eligible for an annual incentive target and equity. MORE ABOUT GROVE Grove Collaborative Holdings, Inc. (NYSE: GROV) is the one-stop online destination for everyday essentials that create a healthier home and planet. Explore thousands of thoughtfully vetted products for every room and everyone in your home, including household cleaning, personal care, health and wellness, laundry, clean beauty, kitchen, pantry, kids, baby, pet care, and beyond. Everything Grove sells meets a higher standard — from health to sustainability and performance — so you get a great value without compromising your values. As a B Corp and Public Benefit Corporation, Grove goes beyond selling products: every order is carbon neutral, supports plastic waste cleanup initiatives, and lets you see and track the positive impact of your choices. Shopping with purpose starts at Grove.com . We're building a diverse and inclusive work environment where we learn from each other. We welcome people of diverse backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to Talent@grove.co . For information on our privacy policy, visit this link on our website.",
+    "url": "https://jobicy.com/jobs/150851-ai-first-android-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "kotlin",
+      "circleci",
+      "cloudflare",
+      "datadog",
+      "sentry",
+      "llm",
+      "android",
+      "jetpack",
+      "stripe"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-08-16T16:32:48+00:00",
+    "fetched_at": "2026-08-17T00:24:28.667Z",
+    "raw": {
+      "id": 150851,
+      "url": "https://jobicy.com/jobs/150851-ai-first-android-engineer",
+      "jobSlug": "150851-ai-first-android-engineer",
+      "jobTitle": "AI-First Android Engineer",
+      "companyName": "Grove Collaborative",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/574531d8dd057e68801193a869098c18.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Grove Collaborative is a sustainability-focused consumer products company creating household and personal care essentials that are effective, beautifully designed, and healthier for people and the planet. We are a certified B Corp, plastic-neutral, and on a mission to transform the CPG industry for good. THE ROLE Grove is hiring an AI-First Android Engineer — a&hellip;",
+      "jobDescription": "<p>Grove Collaborative is a sustainability-focused consumer products company creating household and personal care essentials that are effective, beautifully designed, and healthier for people and the planet. We are a certified B Corp, plastic-neutral, and on a mission to transform the CPG industry for good.</p>\n<p><strong>THE ROLE</strong></p>\n<p>Grove is hiring an AI-First Android Engineer — a senior, single-threaded owner of our Android surface who operates as an “engineer-as-a-team.” This isn’t a role where you hand-write every line and lean on AI for autocomplete. This is a role where AI is your primary instrument: you direct fleets of coding agents, generate, review, and refactor at orders of magnitude beyond what a traditional engineer can produce, and take total ownership of features end-to-end — from discovery through production. You will be measured by what ships, what stays up, and what customers feel — not by lines of code or tokens used.</p>\n<p>You operate in a new-world environment where one well-equipped engineer can deliver the output of a small team. We expect you to compound your own leverage every quarter: better prompts, better evals, better agent harnesses, better guardrails. The bar isn’t “uses AI tools.” The bar is “runs AI like a team you manage.”</p>\n<p><strong>WHAT YOU’LL OWN</strong></p>\n<ul>\n<li>Direct multiple AI coding agents in parallel to design, build, test, and ship Android features in Kotlin against the Android SDK.</li>\n<li>Take total ownership of a slice of the Android app — discovery, scoping, architecture, implementation, QA, release, monitoring, and iteration.</li>\n<li>Run an “engineer-as-a-team” workflow — spawn agents for spec drafting, codegen, test generation, code review, refactoring, doc writing, and bug triage, then merge, judge, and ship.</li>\n<li>Develop and defend a strong point of view on what good Android code looks like inside Grove’s architecture (Clean Architecture, multi-module Gradle with base/middleware/data/app, MVVM with DataBinding, Koin for DI, Coroutines/Flow, Moshi) so you can critically review AI output and reject what doesn’t meet our bar.</li>\n<li>Design prompts, evals, and harnesses that make AI-assisted mobile development repeatable and measurable, not artisanal.</li>\n<li>Stand up automation that closes the loop: Fastlane lanes, CircleCI checks, AppCenter/Play Console distribution, device test farms, telemetry-driven rollback, and AI-powered review gates.</li>\n<li>Drive architecture decisions with AI as a research and prototyping partner — explore three options in a day instead of one in a week, including the path to introducing Jetpack Compose into a DataBinding/XML codebase.</li>\n<li>Collaborate with other engineers on architecture and trade-offs — bring designs for review before you ship them. Solicit business context from PMs, designers, and platform engineers; don’t guess in isolation.</li>\n<li>Own production health autonomously — monitor Sentry, Datadog, Cloudflare, and Firebase to assess system health, triage incidents, and re-prioritize your own backlog without being asked. You set the queue; you don’t wait for someone to tell you what’s broken.</li>\n<li>Mentor the Heady contractor team on AI-native workflows and share learnings with mobile peers.</li>\n<li>Triage Sentry crashes, hotfix, and root-cause incidents with AI-assisted investigation and remediation (we already run Sentry’s auto-fix agent — you’ll push it further).</li>\n</ul>\n<p><strong>ABOUT YOU</strong></p>\n<ul>\n<li>5–8 years of professional Android development experience with a portfolio of shipped consumer apps at scale.</li>\n<li>Native, demonstrable fluency with modern AI coding tooling (Claude Code, Cursor, Copilot, Codex, agentic workflows) — you can walk us through a feature you shipped where AI did the majority of the coding and you did the orchestration.</li>\n<li>Strong, opinionated taste in Kotlin and modern Android architecture (Clean Architecture, MVVM, multi-module Gradle, Koin for DI, Coroutines/Flow, Moshi) — and a clear point of view on when MVI or Compose is worth introducing.</li>\n<li>Comfort working in a DataBinding/XML codebase today, with the judgment to drive a phased Compose migration when and where it’s worth it (not a rewrite-from-scratch reflex).</li>\n<li>Experience integrating with REST + JSON:API-style backends and the Shopify Buy/Checkout SDKs at consumer scale.</li>\n<li>A bias toward owning end-to-end outcomes rather than handing off work at team boundaries — paired with the judgment to know when to pull another engineer in for an architecture review or business-context check.</li>\n<li>Genuinely autonomous in operation: you read Sentry/Datadog/Firebase/Cloudflare dashboards on your own, prioritize your own queue, and don’t need a manager to surface what’s on fire.</li>\n<li>Comfort writing prompts, evals, and guardrails — you treat AI as a system to be engineered, not a search box.</li>\n<li>Sharp written communication — specify clearly, review rigorously, and explain decisions to teammates. You’ll drive async standups, design reviews, and Slack debugging sessions with a distributed team.</li>\n<li>A collaborative, ego-light disposition — orchestrators thrive when they care more about the result than the byline, and welcome a sharp design critique from a peer.</li>\n</ul>\n<p><strong>EVEN BETTER IF YOU HAVE</strong></p>\n<ul>\n<li>Experience designing custom agents, MCP tools, or AI-assisted code review pipelines.</li>\n<li>Experience leading an XML/DataBinding → Jetpack Compose migration on a production app.</li>\n<li>Strong command of Coroutines, Flow, and structured concurrency patterns.</li>\n<li>Comfort with the Grove-adjacent stack: Shopify SDK (Buy/Checkout), Stripe, Heap, Braze, AppsFlyer, Sentry, Firebase, Contentful, Constructor.io, Bazaar Voice, WorkManager.</li>\n<li>Familiarity with Cicerone (or similar) for navigation and Spek/Kluent/Espresso for testing — or a strong opinion on what should replace them.</li>\n<li>CI/CD for Android: Fastlane, CircleCI, AppCenter, Play Console automation, Gradle build optimization, version catalogs.</li>\n<li>Subscription / e-commerce mobile experience — selling plans, recurring orders, cart-sidecar contracts, OOS handling at scale.</li>\n<li>Exposure to feature flags, experimentation platforms, and analytics instrumentation.</li>\n<li>Experience contributing to a team’s shift toward AI-native development practices.</li>\n</ul>\n<p><strong>WHAT'S IN IT FOR YOU</strong></p>\n<ul>\n<li>This full-time, exempt position is remote for candidates based in the following states: California, Maine, Pennsylvania, Nevada, North Carolina, Texas, Colorado, Washington, Illinois, New York, Missouri, and Massachusetts.</li>\n<li>Competitive benefits - medical, vision, dental </li>\n<li>Equity - shared success is core to our mission </li>\n<li>Flexible Paid Time Off - we care most about results</li>\n<li>Free VIP membership and 50% employee discount</li>\n<li>Working for a company that believes that a small group of people can change the world for the better by creating products and funding initiatives that help the planet!</li>\n</ul>\n<p><strong>COMPENSATION</strong></p>\n<p>The salary range for this role is <strong>$175,000-225,000. </strong>Our compensation bands are determined based on market-specific cost of living data, meaning that <strong>the top of our salary range is reserved for the most experienced candidates in the highest cost of living areas across the country.</strong> In addition to the base salary, this role is eligible for an annual incentive target and equity.</p>\n<p><strong>MORE ABOUT GROVE</strong></p>\n<p>Grove Collaborative Holdings, Inc. (NYSE: GROV) is the one-stop online destination for everyday essentials that create a healthier home and planet. Explore thousands of thoughtfully vetted products for every room and everyone in your home, including household cleaning, personal care, health and wellness, laundry, clean beauty, kitchen, pantry, kids, baby, pet care, and beyond. Everything Grove sells meets a higher standard — from health to sustainability and performance — so you get a great value without compromising your values. As a B Corp and Public Benefit Corporation, Grove goes beyond selling products: every order is carbon neutral, supports plastic waste cleanup initiatives, and lets you see and track the positive impact of your choices. Shopping with purpose starts at <a href=\"http://grove.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Grove.com</a>.</p>\n<p>We're building a diverse and inclusive work environment where we learn from each other. We welcome people of diverse backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to <a href=\"mailto:Talent@grove.co\" rel=\"nofollow ugc noopener\" target=\"_blank\">Talent@grove.co</a>.</p>\n<p>For information on our privacy policy, visit <a href=\"https://www.grove.co/policies/privacy-policy?srsltid=AfmBOorziG_Let7pnfGS-_BNWxMEhnDkvwfUSAuxZ_8LOcd4bGgvm-wR\" rel=\"nofollow ugc noopener\" target=\"_blank\">this link</a> on our website. </p>",
+      "pubDate": "2026-08-16T16:32:48+00:00",
+      "salaryMin": 175000,
+      "salaryMax": 225000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:150850",
     "platform": "jobicy",
     "external_id": "150850",
@@ -25,7 +82,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:52:01+00:00",
-    "fetched_at": "2026-08-16T18:08:41.129Z",
+    "fetched_at": "2026-08-17T00:24:28.669Z",
     "raw": {
       "id": 150850,
       "url": "https://jobicy.com/jobs/150850-manager-software-engineering-platform",
@@ -76,7 +133,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:59+00:00",
-    "fetched_at": "2026-08-16T18:08:41.131Z",
+    "fetched_at": "2026-08-17T00:24:28.672Z",
     "raw": {
       "id": 150849,
       "url": "https://jobicy.com/jobs/150849-manager-software-engineering-ai-assistant",
@@ -129,7 +186,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:52+00:00",
-    "fetched_at": "2026-08-16T18:08:41.132Z",
+    "fetched_at": "2026-08-17T00:24:28.672Z",
     "raw": {
       "id": 150846,
       "url": "https://jobicy.com/jobs/150846-software-engineer-3",
@@ -194,7 +251,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:50+00:00",
-    "fetched_at": "2026-08-16T18:08:41.133Z",
+    "fetched_at": "2026-08-17T00:24:28.674Z",
     "raw": {
       "id": 150845,
       "url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
@@ -244,7 +301,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:48+00:00",
-    "fetched_at": "2026-08-16T18:08:41.133Z",
+    "fetched_at": "2026-08-17T00:24:28.675Z",
     "raw": {
       "id": 150844,
       "url": "https://jobicy.com/jobs/150844-mid-level-front-end-engineer",
@@ -291,7 +348,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:43+00:00",
-    "fetched_at": "2026-08-16T18:08:41.134Z",
+    "fetched_at": "2026-08-17T00:24:28.676Z",
     "raw": {
       "id": 150842,
       "url": "https://jobicy.com/jobs/150842-e-invoicing-edi-integration-engineer-f-m-d-with-english-and-german-french-italian",
@@ -334,7 +391,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:41+00:00",
-    "fetched_at": "2026-08-16T18:08:41.135Z",
+    "fetched_at": "2026-08-17T00:24:28.677Z",
     "raw": {
       "id": 150841,
       "url": "https://jobicy.com/jobs/150841-edi-mapping-specialist-with-e-invoicing-f-m-d",
@@ -385,7 +442,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T03:41:04+00:00",
-    "fetched_at": "2026-08-16T18:08:41.136Z",
+    "fetched_at": "2026-08-17T00:24:28.679Z",
     "raw": {
       "id": 150832,
       "url": "https://jobicy.com/jobs/150832-chief-technology-officer",
@@ -432,7 +489,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-15T16:20:13+00:00",
-    "fetched_at": "2026-08-16T18:08:41.137Z",
+    "fetched_at": "2026-08-17T00:24:28.681Z",
     "raw": {
       "id": 150817,
       "url": "https://jobicy.com/jobs/150817-senior-software-developer-in-test-quality-platform",
@@ -481,7 +538,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T14:03:24+00:00",
-    "fetched_at": "2026-08-16T18:08:41.139Z",
+    "fetched_at": "2026-08-17T00:24:28.683Z",
     "raw": {
       "id": 150772,
       "url": "https://jobicy.com/jobs/150772-director-of-engineering-leverage",
@@ -534,7 +591,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T13:59:34+00:00",
-    "fetched_at": "2026-08-16T18:08:41.140Z",
+    "fetched_at": "2026-08-17T00:24:28.690Z",
     "raw": {
       "id": 150764,
       "url": "https://jobicy.com/jobs/150764-ai-data-engineer",
@@ -583,7 +640,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T10:58:30+00:00",
-    "fetched_at": "2026-08-16T18:08:41.142Z",
+    "fetched_at": "2026-08-17T00:24:28.692Z",
     "raw": {
       "id": 150741,
       "url": "https://jobicy.com/jobs/150741-senior-firmware-engineer-connectivity",
@@ -637,7 +694,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T05:54:40+00:00",
-    "fetched_at": "2026-08-16T18:08:41.145Z",
+    "fetched_at": "2026-08-17T00:24:28.695Z",
     "raw": {
       "id": 150687,
       "url": "https://jobicy.com/jobs/150687-engineering-manager-eu",
@@ -698,7 +755,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:50:07+00:00",
-    "fetched_at": "2026-08-16T18:08:41.147Z",
+    "fetched_at": "2026-08-17T00:24:28.697Z",
     "raw": {
       "id": 145935,
       "url": "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2",
@@ -755,7 +812,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:45:03+00:00",
-    "fetched_at": "2026-08-16T18:08:41.148Z",
+    "fetched_at": "2026-08-17T00:24:28.698Z",
     "raw": {
       "id": 145996,
       "url": "https://jobicy.com/jobs/145996-customer-solutions-architect-2",
@@ -804,7 +861,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:35:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.150Z",
+    "fetched_at": "2026-08-17T00:24:28.700Z",
     "raw": {
       "id": 146085,
       "url": "https://jobicy.com/jobs/146085-staff-software-developer-2",
@@ -857,7 +914,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:30:02+00:00",
-    "fetched_at": "2026-08-16T18:08:41.150Z",
+    "fetched_at": "2026-08-17T00:24:28.700Z",
     "raw": {
       "id": 146122,
       "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
@@ -908,7 +965,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:25:04+00:00",
-    "fetched_at": "2026-08-16T18:08:41.151Z",
+    "fetched_at": "2026-08-17T00:24:28.701Z",
     "raw": {
       "id": 146232,
       "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
@@ -955,7 +1012,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-15T04:20:11+00:00",
-    "fetched_at": "2026-08-16T18:08:41.152Z",
+    "fetched_at": "2026-08-17T00:24:28.702Z",
     "raw": {
       "id": 146269,
       "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
@@ -1003,7 +1060,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:20:09+00:00",
-    "fetched_at": "2026-08-16T18:08:41.153Z",
+    "fetched_at": "2026-08-17T00:24:28.703Z",
     "raw": {
       "id": 146276,
       "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
@@ -1061,7 +1118,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:15:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.154Z",
+    "fetched_at": "2026-08-17T00:24:28.704Z",
     "raw": {
       "id": 146294,
       "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
@@ -1104,7 +1161,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-15T04:05:03+00:00",
-    "fetched_at": "2026-08-16T18:08:41.155Z",
+    "fetched_at": "2026-08-17T00:24:28.704Z",
     "raw": {
       "id": 149301,
       "url": "https://jobicy.com/jobs/149301-garment-manufacturing-qc-specialist-freelance-ai-trainer-project",
@@ -1155,7 +1212,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T13:01:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.155Z",
+    "fetched_at": "2026-08-17T00:24:28.705Z",
     "raw": {
       "id": 150665,
       "url": "https://jobicy.com/jobs/150665-software-engineer-technical-leadership",
@@ -1204,7 +1261,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T04:45:08+00:00",
-    "fetched_at": "2026-08-16T18:08:41.157Z",
+    "fetched_at": "2026-08-17T00:24:28.707Z",
     "raw": {
       "id": 149239,
       "url": "https://jobicy.com/jobs/149239-principal-cloud-application-engineer-2",
@@ -1257,7 +1314,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T04:45:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.160Z",
+    "fetched_at": "2026-08-17T00:24:28.710Z",
     "raw": {
       "id": 149237,
       "url": "https://jobicy.com/jobs/149237-principal-cloud-application-engineer",
@@ -1315,7 +1372,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T04:45:02+00:00",
-    "fetched_at": "2026-08-16T18:08:41.162Z",
+    "fetched_at": "2026-08-17T00:24:28.712Z",
     "raw": {
       "id": 149241,
       "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
@@ -1362,7 +1419,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T04:40:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.163Z",
+    "fetched_at": "2026-08-17T00:24:28.713Z",
     "raw": {
       "id": 149262,
       "url": "https://jobicy.com/jobs/149262-head-of-ai",
@@ -1411,7 +1468,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T19:15:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.164Z",
+    "fetched_at": "2026-08-17T00:24:28.714Z",
     "raw": {
       "id": 150380,
       "url": "https://jobicy.com/jobs/150380-sr-principle-software-engineer-core-systems-libraries-remote-part-time",
@@ -1465,7 +1522,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T10:05:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.166Z",
+    "fetched_at": "2026-08-17T00:24:28.716Z",
     "raw": {
       "id": 145788,
       "url": "https://jobicy.com/jobs/145788-staff-software-engineer-full-remote-or-hybrid-m-f-d",
@@ -1516,7 +1573,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:58:22+00:00",
-    "fetched_at": "2026-08-16T18:08:41.166Z",
+    "fetched_at": "2026-08-17T00:24:28.716Z",
     "raw": {
       "id": 145861,
       "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
@@ -1573,7 +1630,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:53:37+00:00",
-    "fetched_at": "2026-08-16T18:08:41.168Z",
+    "fetched_at": "2026-08-17T00:24:28.718Z",
     "raw": {
       "id": 145940,
       "url": "https://jobicy.com/jobs/145940-genai-engineer",
@@ -1621,7 +1678,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:53:36+00:00",
-    "fetched_at": "2026-08-16T18:08:41.169Z",
+    "fetched_at": "2026-08-17T00:24:28.719Z",
     "raw": {
       "id": 145920,
       "url": "https://jobicy.com/jobs/145920-solution-engineer",
@@ -1664,7 +1721,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:53:33+00:00",
-    "fetched_at": "2026-08-16T18:08:41.170Z",
+    "fetched_at": "2026-08-17T00:24:28.721Z",
     "raw": {
       "id": 145918,
       "url": "https://jobicy.com/jobs/145918-partner-solution-architect-gsi",
@@ -1719,7 +1776,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-13T09:43:19+00:00",
-    "fetched_at": "2026-08-16T18:08:41.172Z",
+    "fetched_at": "2026-08-17T00:24:28.722Z",
     "raw": {
       "id": 145995,
       "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
@@ -1773,7 +1830,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:26:48+00:00",
-    "fetched_at": "2026-08-16T18:08:41.173Z",
+    "fetched_at": "2026-08-17T00:24:28.723Z",
     "raw": {
       "id": 146058,
       "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
@@ -1825,7 +1882,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:25:10+00:00",
-    "fetched_at": "2026-08-16T18:08:41.174Z",
+    "fetched_at": "2026-08-17T00:24:28.725Z",
     "raw": {
       "id": 146081,
       "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
@@ -1880,7 +1937,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-13T09:15:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.175Z",
+    "fetched_at": "2026-08-17T00:24:28.725Z",
     "raw": {
       "id": 146187,
       "url": "https://jobicy.com/jobs/146187-senior-qa-engineer-%e5%8c%ba%e5%9d%97%e9%93%be%e6%b5%8b%e8%af%95%e5%b7%a5%e7%a8%8b%e5%b8%88",
@@ -1925,7 +1982,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:10:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.176Z",
+    "fetched_at": "2026-08-17T00:24:28.726Z",
     "raw": {
       "id": 149183,
       "url": "https://jobicy.com/jobs/149183-forward-deployed-engineer-ai-business-transformation-technology-creative-network",
@@ -1970,7 +2027,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:10:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.177Z",
+    "fetched_at": "2026-08-17T00:24:28.728Z",
     "raw": {
       "id": 149184,
       "url": "https://jobicy.com/jobs/149184-forward-deployed-engineer-ai-creative-transformation-marketing",
@@ -2015,7 +2072,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:55:02+00:00",
-    "fetched_at": "2026-08-16T18:08:41.179Z",
+    "fetched_at": "2026-08-17T00:24:28.729Z",
     "raw": {
       "id": 149199,
       "url": "https://jobicy.com/jobs/149199-customer-solutions-engineer-payments",
@@ -2062,7 +2119,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:50:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.180Z",
+    "fetched_at": "2026-08-17T00:24:28.731Z",
     "raw": {
       "id": 149206,
       "url": "https://jobicy.com/jobs/149206-customer-solution-engineer-early-career",
@@ -2114,7 +2171,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:35:03+00:00",
-    "fetched_at": "2026-08-16T18:08:41.181Z",
+    "fetched_at": "2026-08-17T00:24:28.732Z",
     "raw": {
       "id": 149155,
       "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
@@ -2165,7 +2222,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:30:04+00:00",
-    "fetched_at": "2026-08-16T18:08:41.182Z",
+    "fetched_at": "2026-08-17T00:24:28.733Z",
     "raw": {
       "id": 149158,
       "url": "https://jobicy.com/jobs/149158-senior-fullstack-engineer-net-react-umbraco-cms-digital-agency",
@@ -2221,7 +2278,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:25:08+00:00",
-    "fetched_at": "2026-08-16T18:08:41.183Z",
+    "fetched_at": "2026-08-17T00:24:28.734Z",
     "raw": {
       "id": 149164,
       "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
@@ -2277,7 +2334,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:25:07+00:00",
-    "fetched_at": "2026-08-16T18:08:41.184Z",
+    "fetched_at": "2026-08-17T00:24:28.735Z",
     "raw": {
       "id": 149161,
       "url": "https://jobicy.com/jobs/149161-senior-integrations-engineer",
@@ -2335,7 +2392,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:25:04+00:00",
-    "fetched_at": "2026-08-16T18:08:41.186Z",
+    "fetched_at": "2026-08-17T00:24:28.737Z",
     "raw": {
       "id": 149168,
       "url": "https://jobicy.com/jobs/149168-senior-data-platform-engineer-veterinary-technology",
@@ -2394,7 +2451,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-13T08:20:02+00:00",
-    "fetched_at": "2026-08-16T18:08:41.187Z",
+    "fetched_at": "2026-08-17T00:24:28.738Z",
     "raw": {
       "id": 149180,
       "url": "https://jobicy.com/jobs/149180-senior-software-development-engineer-in-test-sdet-ecommerce-latam",
@@ -2444,7 +2501,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-12T14:19:54+00:00",
-    "fetched_at": "2026-08-16T18:08:41.188Z",
+    "fetched_at": "2026-08-17T00:24:28.739Z",
     "raw": {
       "id": 150593,
       "url": "https://jobicy.com/jobs/150593-ai-solutions-builder",
@@ -2487,7 +2544,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-12T14:19:48+00:00",
-    "fetched_at": "2026-08-16T18:08:41.188Z",
+    "fetched_at": "2026-08-17T00:24:28.740Z",
     "raw": {
       "id": 150589,
       "url": "https://jobicy.com/jobs/150589-non-linguistic-quality-control-specialists-europe",
@@ -2535,7 +2592,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-12T14:19:46+00:00",
-    "fetched_at": "2026-08-16T18:08:41.190Z",
+    "fetched_at": "2026-08-17T00:24:28.741Z",
     "raw": {
       "id": 150588,
       "url": "https://jobicy.com/jobs/150588-head-of-engineering",
@@ -2587,7 +2644,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-12T14:19:41+00:00",
-    "fetched_at": "2026-08-16T18:08:41.191Z",
+    "fetched_at": "2026-08-17T00:24:28.743Z",
     "raw": {
       "id": 150585,
       "url": "https://jobicy.com/jobs/150585-staff-software-engineer-3",
@@ -2649,7 +2706,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-12T14:19:33+00:00",
-    "fetched_at": "2026-08-16T18:08:41.192Z",
+    "fetched_at": "2026-08-17T00:24:28.744Z",
     "raw": {
       "id": 150580,
       "url": "https://jobicy.com/jobs/150580-senior-ai-software-engineer-2",
@@ -2701,7 +2758,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-11T03:30:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.193Z",
+    "fetched_at": "2026-08-17T00:24:28.745Z",
     "raw": {
       "id": 149101,
       "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
@@ -2757,7 +2814,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-11T03:25:16+00:00",
-    "fetched_at": "2026-08-16T18:08:41.195Z",
+    "fetched_at": "2026-08-17T00:24:28.747Z",
     "raw": {
       "id": 149109,
       "url": "https://jobicy.com/jobs/149109-software-engineer-unsecured-installments",
@@ -2817,7 +2874,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-11T03:25:15+00:00",
-    "fetched_at": "2026-08-16T18:08:41.197Z",
+    "fetched_at": "2026-08-17T00:24:28.749Z",
     "raw": {
       "id": 149108,
       "url": "https://jobicy.com/jobs/149108-senior-software-engineer-unsecured-installments",
@@ -2864,7 +2921,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-11T03:25:09+00:00",
-    "fetched_at": "2026-08-16T18:08:41.198Z",
+    "fetched_at": "2026-08-17T00:24:28.750Z",
     "raw": {
       "id": 149097,
       "url": "https://jobicy.com/jobs/149097-application-engineer-digital-solutions",
@@ -2907,7 +2964,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-10T13:20:04+00:00",
-    "fetched_at": "2026-08-16T18:08:41.200Z",
+    "fetched_at": "2026-08-17T00:24:28.752Z",
     "raw": {
       "id": 149024,
       "url": "https://jobicy.com/jobs/149024-sr-mgr-manufacturing-process-dvl-engineering",
@@ -2958,7 +3015,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-10T04:30:07+00:00",
-    "fetched_at": "2026-08-16T18:08:41.201Z",
+    "fetched_at": "2026-08-17T00:24:28.753Z",
     "raw": {
       "id": 149046,
       "url": "https://jobicy.com/jobs/149046-tech-lead-gn-feature-team",
@@ -3014,7 +3071,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-10T04:25:08+00:00",
-    "fetched_at": "2026-08-16T18:08:41.202Z",
+    "fetched_at": "2026-08-17T00:24:28.754Z",
     "raw": {
       "id": 149048,
       "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
@@ -3066,7 +3123,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-10T04:25:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.203Z",
+    "fetched_at": "2026-08-17T00:24:28.755Z",
     "raw": {
       "id": 149049,
       "url": "https://jobicy.com/jobs/149049-ai-enablement-lead-gn-data-intelligence",
@@ -3116,7 +3173,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-10T04:25:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.205Z",
+    "fetched_at": "2026-08-17T00:24:28.756Z",
     "raw": {
       "id": 149053,
       "url": "https://jobicy.com/jobs/149053-senior-android-engineer",
@@ -3159,7 +3216,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-10T04:20:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.207Z",
+    "fetched_at": "2026-08-17T00:24:28.757Z",
     "raw": {
       "id": 149068,
       "url": "https://jobicy.com/jobs/149068-senior-customer-solution-engineer-ai-native-consumption-quote-to-cash",
@@ -3213,7 +3270,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-09T03:40:07+00:00",
-    "fetched_at": "2026-08-16T18:08:41.209Z",
+    "fetched_at": "2026-08-17T00:24:28.759Z",
     "raw": {
       "id": 142466,
       "url": "https://jobicy.com/jobs/142466-director-security-engineering-remote-in-spain",
@@ -3266,7 +3323,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-09T03:32:34+00:00",
-    "fetched_at": "2026-08-16T18:08:41.210Z",
+    "fetched_at": "2026-08-17T00:24:28.760Z",
     "raw": {
       "id": 150365,
       "url": "https://jobicy.com/jobs/150365-go-golang-software-engineer-developer-tooling-and-containers",
@@ -3316,7 +3373,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-09T03:32:32+00:00",
-    "fetched_at": "2026-08-16T18:08:41.211Z",
+    "fetched_at": "2026-08-17T00:24:28.761Z",
     "raw": {
       "id": 150364,
       "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
@@ -3369,7 +3426,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-09T03:32:31+00:00",
-    "fetched_at": "2026-08-16T18:08:41.213Z",
+    "fetched_at": "2026-08-17T00:24:28.763Z",
     "raw": {
       "id": 150381,
       "url": "https://jobicy.com/jobs/150381-software-architect",
@@ -3417,7 +3474,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-09T03:32:29+00:00",
-    "fetched_at": "2026-08-16T18:08:41.214Z",
+    "fetched_at": "2026-08-17T00:24:28.764Z",
     "raw": {
       "id": 150361,
       "url": "https://jobicy.com/jobs/150361-embedded-linux-consultant-japan",
@@ -3466,7 +3523,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-09T03:32:28+00:00",
-    "fetched_at": "2026-08-16T18:08:41.215Z",
+    "fetched_at": "2026-08-17T00:24:28.765Z",
     "raw": {
       "id": 150360,
       "url": "https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu",
@@ -3523,7 +3580,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-09T03:32:22+00:00",
-    "fetched_at": "2026-08-16T18:08:41.216Z",
+    "fetched_at": "2026-08-17T00:24:28.766Z",
     "raw": {
       "id": 150366,
       "url": "https://jobicy.com/jobs/150366-senior-full-stack-software-engineer",
@@ -3581,7 +3638,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-09T03:30:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.217Z",
+    "fetched_at": "2026-08-17T00:24:28.767Z",
     "raw": {
       "id": 145744,
       "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
@@ -3633,7 +3690,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-07T04:40:08+00:00",
-    "fetched_at": "2026-08-16T18:08:41.218Z",
+    "fetched_at": "2026-08-17T00:24:28.768Z",
     "raw": {
       "id": 145311,
       "url": "https://jobicy.com/jobs/145311-staff-software-engineer-growth-performance-marketing",
@@ -3690,7 +3747,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-07T04:35:08+00:00",
-    "fetched_at": "2026-08-16T18:08:41.218Z",
+    "fetched_at": "2026-08-17T00:24:28.768Z",
     "raw": {
       "id": 145584,
       "url": "https://jobicy.com/jobs/145584-software-development-engineer-in-test",
@@ -3735,7 +3792,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-06T14:10:08+00:00",
-    "fetched_at": "2026-08-16T18:08:41.220Z",
+    "fetched_at": "2026-08-17T00:24:28.770Z",
     "raw": {
       "id": 150274,
       "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
@@ -3780,7 +3837,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-06T14:10:04+00:00",
-    "fetched_at": "2026-08-16T18:08:41.220Z",
+    "fetched_at": "2026-08-17T00:24:28.770Z",
     "raw": {
       "id": 150271,
       "url": "https://jobicy.com/jobs/150271-non-linguistic-qc-china-us-time-zone",
@@ -3833,7 +3890,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-06T07:20:03+00:00",
-    "fetched_at": "2026-08-16T18:08:41.222Z",
+    "fetched_at": "2026-08-17T00:24:28.772Z",
     "raw": {
       "id": 143125,
       "url": "https://jobicy.com/jobs/143125-senior-machine-learning-engineer-genai-security",
@@ -3884,7 +3941,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-06T07:10:03+00:00",
-    "fetched_at": "2026-08-16T18:08:41.223Z",
+    "fetched_at": "2026-08-17T00:24:28.773Z",
     "raw": {
       "id": 145290,
       "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
@@ -3929,7 +3986,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-06T05:20:02+00:00",
-    "fetched_at": "2026-08-16T18:08:41.223Z",
+    "fetched_at": "2026-08-17T00:24:28.773Z",
     "raw": {
       "id": 148702,
       "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
@@ -3977,7 +4034,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T07:15:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.224Z",
+    "fetched_at": "2026-08-17T00:24:28.774Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -4032,7 +4089,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T07:05:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.225Z",
+    "fetched_at": "2026-08-17T00:24:28.775Z",
     "raw": {
       "id": 148224,
       "url": "https://jobicy.com/jobs/148224-senior-platform-engineer",
@@ -4080,7 +4137,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T06:40:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.226Z",
+    "fetched_at": "2026-08-17T00:24:28.776Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -4131,7 +4188,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T06:25:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.227Z",
+    "fetched_at": "2026-08-17T00:24:28.778Z",
     "raw": {
       "id": 148338,
       "url": "https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term",
@@ -4178,7 +4235,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T06:20:07+00:00",
-    "fetched_at": "2026-08-16T18:08:41.228Z",
+    "fetched_at": "2026-08-17T00:24:28.779Z",
     "raw": {
       "id": 148357,
       "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
@@ -4236,7 +4293,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T05:45:07+00:00",
-    "fetched_at": "2026-08-16T18:08:41.229Z",
+    "fetched_at": "2026-08-17T00:24:28.780Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -4286,7 +4343,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T05:30:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.231Z",
+    "fetched_at": "2026-08-17T00:24:28.781Z",
     "raw": {
       "id": 145309,
       "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
@@ -4333,7 +4390,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T05:25:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.232Z",
+    "fetched_at": "2026-08-17T00:24:28.783Z",
     "raw": {
       "id": 145335,
       "url": "https://jobicy.com/jobs/145335-engineering-manager-advanced-signals-swe",
@@ -4382,7 +4439,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:45:07+00:00",
-    "fetched_at": "2026-08-16T18:08:41.232Z",
+    "fetched_at": "2026-08-17T00:24:28.784Z",
     "raw": {
       "id": 145503,
       "url": "https://jobicy.com/jobs/145503-senior-quantum-systems-engineer-quantum-computing",
@@ -4425,7 +4482,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:40:05+00:00",
-    "fetched_at": "2026-08-16T18:08:41.233Z",
+    "fetched_at": "2026-08-17T00:24:28.785Z",
     "raw": {
       "id": 148658,
       "url": "https://jobicy.com/jobs/148658-customer-solutions-engineer",
@@ -4475,7 +4532,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:40:04+00:00",
-    "fetched_at": "2026-08-16T18:08:41.235Z",
+    "fetched_at": "2026-08-17T00:24:28.786Z",
     "raw": {
       "id": 148652,
       "url": "https://jobicy.com/jobs/148652-senior-react-native-developer",
@@ -4529,7 +4586,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:35:03+00:00",
-    "fetched_at": "2026-08-16T18:08:41.236Z",
+    "fetched_at": "2026-08-17T00:24:28.787Z",
     "raw": {
       "id": 148664,
       "url": "https://jobicy.com/jobs/148664-senior-cloud-engineer-product-metrics",
@@ -4577,7 +4634,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-05T04:30:02+00:00",
-    "fetched_at": "2026-08-16T18:08:41.237Z",
+    "fetched_at": "2026-08-17T00:24:28.788Z",
     "raw": {
       "id": 148667,
       "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
@@ -4629,7 +4686,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-04T17:44:39+00:00",
-    "fetched_at": "2026-08-16T18:08:41.238Z",
+    "fetched_at": "2026-08-17T00:24:28.790Z",
     "raw": {
       "id": 150239,
       "url": "https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu",
@@ -4674,7 +4731,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-04T13:01:06+00:00",
-    "fetched_at": "2026-08-16T18:08:41.238Z",
+    "fetched_at": "2026-08-17T00:24:28.790Z",
     "raw": {
       "id": 150208,
       "url": "https://jobicy.com/jobs/150208-freelance-software-tester-infinitum-telcel-users",
@@ -4722,7 +4779,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T18:44:45+00:00",
-    "fetched_at": "2026-08-16T18:08:41.239Z",
+    "fetched_at": "2026-08-17T00:24:28.791Z",
     "raw": {
       "id": 150161,
       "url": "https://jobicy.com/jobs/150161-senior-accident-reconstruction-engineer",
@@ -4772,7 +4829,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:26:07+00:00",
-    "fetched_at": "2026-08-16T18:08:41.240Z",
+    "fetched_at": "2026-08-17T00:24:28.792Z",
     "raw": {
       "id": 150137,
       "url": "https://jobicy.com/jobs/150137-senior-hypervisor-engineer",
@@ -4818,7 +4875,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:25:58+00:00",
-    "fetched_at": "2026-08-16T18:08:41.241Z",
+    "fetched_at": "2026-08-17T00:24:28.793Z",
     "raw": {
       "id": 150131,
       "url": "https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure",
@@ -4865,7 +4922,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:21:36+00:00",
-    "fetched_at": "2026-08-16T18:08:41.242Z",
+    "fetched_at": "2026-08-17T00:24:28.794Z",
     "raw": {
       "id": 150128,
       "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
@@ -4913,7 +4970,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:21:34+00:00",
-    "fetched_at": "2026-08-16T18:08:41.243Z",
+    "fetched_at": "2026-08-17T00:24:28.795Z",
     "raw": {
       "id": 150127,
       "url": "https://jobicy.com/jobs/150127-senior-software-engineer-maas",
@@ -4960,7 +5017,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:21:31+00:00",
-    "fetched_at": "2026-08-16T18:08:41.244Z",
+    "fetched_at": "2026-08-17T00:24:28.797Z",
     "raw": {
       "id": 150125,
       "url": "https://jobicy.com/jobs/150125-senior-software-engineer-backend",
@@ -5008,7 +5065,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-03T10:21:27+00:00",
-    "fetched_at": "2026-08-16T18:08:41.245Z",
+    "fetched_at": "2026-08-17T00:24:28.798Z",
     "raw": {
       "id": 150123,
       "url": "https://jobicy.com/jobs/150123-senior-web-engineer",
@@ -5027,62 +5084,6 @@
       "jobExcerpt": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
       "jobDescription": "<p>Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of globally distributed collaboration, with 1100+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p><p>The company is founder-led, profitable and growing.</p><p>We are hiring a Senior Software Engineer on the Web Engineering team to drive best practices across the team, for all disciplines, bringing great ideas to the table to lead technical conversations. They identify risks and communicate them to relevant stakeholders, asking the right questions to move a project forward. Within the team there are fantastic opportunities to gain deep technical knowledge of complex products in innovative and fast-growing areas of the tech world with space and support to hone your craft. We value transparency, intellectual honesty and teamwork.</p><p>As a Senior Software Engineer at Canonical, you will own the development of large projects. Encourages rigorous and efficient engineering process. Writes specifications and understands risks. Works to reduce complexity. Is capable of taking on technical lead responsibilities to drive an initiative to completion. Follows industry trends and new technologies. Capable of representing their team as a subject matter expert with cross-team credibility. An exemplary engineer who mentors and develops those around them in a structured and systematic manner, sharing this responsibility for their immediate team with their manager.</p><p><strong>Location</strong>: This role will be based remotely in the EMEA region.</p><h2>The role entails</h2><ul>\n<li>Identifying what matters for the team and driving initiatives to improve them</li>\n<li>Design and implement well-tested and documented software</li>\n<li>Debug and fix issues encountered by your users</li>\n<li>Leading in our engineering process through code and architectural reviews</li>\n<li>Contribute to technical documentation to make it the best of its kind</li>\n<li>Seek improvements to engineering and operations practices</li>\n<li>Deploy and operate services developed by the team</li>\n<li>Contribute to the success of your product through technical advocacy</li>\n</ul><h2>What we are looking for in you</h2><ul>\n<li>Curate technical quality standards by designing the architectural approach to support business objectives</li>\n<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>\n<li>An exceptional academic track record from both high school and university</li>\n<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>\n<li>Drive and a track record of going above and beyond expectations</li>\n<li>Well-organised, self-starting and able to deliver to schedule</li>\n<li>Displays competency in researching new technology or approaches, and is able to tastefully and sustainably integrate changes and more modern approaches to technical projects. </li>\n<li>Provides comprehensive and insightful code review on items of any size within the project</li>\n<li>An eye for accessibility and performance</li>\n<li>Professional written and spoken English</li>\n<li>Experience with Linux (Debian or Ubuntu preferred)</li>\n<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>\n<li>Excellent communication and presentation skills</li>\n<li>Result-oriented, with a personal drive to meet commitments</li>\n<li>Ability to travel twice a year, for company events for up to two weeks each</li>\n</ul><h2>Nice-to-have skills</h2><ul>\n<li>Experience with container tech such as LXD, Docker and Kubernetes</li>\n<li>Experience fostering and maintaining a talented team by defining excellence</li>\n<li>REST API design, development and governance</li>\n<li>Drive to deliver performance engineering and security experience</li>\n</ul><h2>What we offer colleagues</h2><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p><ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Employee Assistance Programme</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass, and travel upgrades for long-haul company events</li>\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p><h2>Canonical is an equal-opportunity employer</h2><p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background creates a better work environment and better products.</em><a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em> </em><em>Whatever your identity we will give your application fair consideration</em></a><em>.</em></p><p>#LI-Remote</p>",
       "pubDate": "2026-08-03T10:21:27+00:00"
-    }
-  },
-  {
-    "id": "jobicy:148143",
-    "platform": "jobicy",
-    "external_id": "148143",
-    "title": "Senior Software Engineer, Storage",
-    "company": "Reddit",
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . The Storage Infra team is looking to hire a Senior Software Engineer who is excited to solve large scale storage infrastructure problems. Reddit’s mission is to bring community and belonging to everyone in the world. Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. With more than 50 million people visiting 100,000+ communities daily, it is home to the most open and authentic conversations on the internet. From pets to parenting, skincare to stocks, there’s a community for everybody on Reddit. For more information, visit redditinc.com. Our caching layer serves 100s of millions of queries/second serving 100s of billions of keys.We do this while efficiently storing 100s of Terabytes of data across thousands of machines. As a senior engineer, you will partner closely with your team and our biggest users (ML/AI/Search) to build technical solutions that can scale to Reddit’s product growth. You’ll do this while maintaining an extremely high availability and reliability bar to ensure that Reddit’s users continue to get a great experience across our entire product portfolio. In your day-to-day, you can expect to: Contribute to developing the team and organization’s long term technical strategy. Refine and maintain our data storage infrastructure to support the storage and caching needs of products supporting hundreds of millions of users. Own the infrastructure (managed and self-hosted) that supports data writes, reads and storage along with the necessary tooling and automation to efficiently operate the infrastructure. Mentor other engineers on how to design, build, and evangelize services used by hundreds of engineers across Reddit Who you might be: 5+ years of experience building internet-scale software, preferably with a focus on machine learning storage infrastructure. Software development experience in one or more general purpose programming languages; Golang, Python, C++, Java Hands-on experience implementing features, optimizations, and bug fixes to distributed storage systems. Excellent communication skills to collaborate with stakeholders in engineering, data science, machine learning, and product. Degree in Computer Science or equivalent technical field. Experience working closely with Storage technologies like Postgres, Mysql, Cassandra, Redis, Memcache is a huge plus! Pay Transparency: This job posting may span more than one career level. In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/ . To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below. The base salary range for this position is: $217,000—$303,900 USD In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews. During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors . Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.",
-    "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "go",
-      "java",
-      "postgresql",
-      "mysql",
-      "redis",
-      "cassandra",
-      "machine-learning"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-08-01T04:40:04+00:00",
-    "fetched_at": "2026-08-16T18:08:41.246Z",
-    "raw": {
-      "id": 148143,
-      "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
-      "jobSlug": "148143-senior-software-engineer-storage",
-      "jobTitle": "Senior Software Engineer, Storage",
-      "companyName": "Reddit",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/Reddit.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
-      "jobDescription": "<div><div>\n<div>\n<div>\n<div>\n<div>\n<div>Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a href=\"http://www.redditinc.com/\" target=\"_blank\" rel=\"nofollow ugc noopener\">www.redditinc.com</a>.</div>\n</div>\n</div>\n</div>\n</div>\n</div></div><p>The Storage Infra team is looking to hire a Senior Software Engineer who is excited to solve large scale storage infrastructure problems.</p><p>Reddit’s mission is to bring community and belonging to everyone in the world. Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. With more than 50 million people visiting 100,000+ communities daily, it is home to the most open and authentic conversations on the internet. From pets to parenting, skincare to stocks, there’s a community for everybody on Reddit. For more information, visit redditinc.com.</p><p>Our caching layer serves 100s of millions of queries/second serving 100s of billions of keys.We do this while efficiently storing 100s of Terabytes of data across thousands of machines. As a senior engineer, you will partner closely with your team and our biggest users (ML/AI/Search) to build technical solutions that can scale to Reddit’s product growth. You’ll do this while maintaining an extremely high availability and reliability bar to ensure that Reddit’s users continue to get a great experience across our entire product portfolio.</p><p><strong>In your day-to-day, you can expect to:</strong></p><ul>\n<li>Contribute to developing the team and organization’s long term technical strategy.</li>\n<li>Refine and maintain our data storage infrastructure to support the storage and caching needs of products supporting hundreds of millions of users.</li>\n<li>Own the infrastructure (managed and self-hosted) that supports data writes, reads and storage along with the necessary tooling and automation to efficiently operate the infrastructure.</li>\n<li>Mentor other engineers on how to design, build, and evangelize services used by hundreds of engineers across Reddit</li>\n</ul><p><strong>Who you might be:</strong></p><ul>\n<li>5+ years of experience building internet-scale software, preferably with a focus on machine learning storage infrastructure.</li>\n<li>Software development experience in one or more general purpose programming languages; Golang, Python, C++, Java</li>\n<li>Hands-on experience implementing features, optimizations, and bug fixes to distributed storage systems.</li>\n<li>Excellent communication skills to collaborate with stakeholders in engineering, data science, machine learning, and product.</li>\n<li>Degree in Computer Science or equivalent technical field. </li>\n<li>Experience working closely with Storage technologies like Postgres, Mysql, Cassandra, Redis, Memcache is a huge plus!</li>\n</ul><div><div><div><p><strong>Pay Transparency:</strong></p>\n<p>This job posting may span more than one career level.</p>\n<p>In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit <a href=\"https://www.redditinc.com/careers/\" target=\"_blank\" rel=\"nofollow ugc noopener\">https://www.redditinc.com/careers/</a>.</p>\n<p>To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.</p></div><div>The base salary range for this position is:</div><div>$217,000—$303,900 USD</div></div></div><div><p>In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.</p>\n<p>During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our <a href=\"https://redditinc.com/policies/candidate-privacy-policy\" rel=\"nofollow ugc noopener\" target=\"_blank\">Candidate Privacy Policy for Potential Employees and Contractors</a>.</p>\n<p><em>Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.</em></p></div>",
-      "pubDate": "2026-08-01T04:40:04+00:00",
-      "salaryMin": 217000,
-      "salaryMax": 303900,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
     }
   }
 ]
