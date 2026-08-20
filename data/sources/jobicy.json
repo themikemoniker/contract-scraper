@@ -1,5 +1,54 @@
 [
   {
+    "id": "jobicy:146614",
+    "platform": "jobicy",
+    "external_id": "146614",
+    "title": "Database Engineer",
+    "company": "Ruby Labs",
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ About the role We are building a high-scale payment orchestration system that processes millions of financial transactions every month across multiple payment providers, regions, and products. Our platform operates at the intersection of payments, billing, subscriptions, analytics, and internal CRM tooling, where data correctness, performance, and reliability are mission-critical. As our transaction volume and customer base continue to grow rapidly, our database layer has become one of the most important parts of the system. We are looking for a strong Database Engineer who will own, scale, and evolve our data infrastructure, ensuring it remains fast, reliable, and ready for long-term growth. You will be joining a high-talent, fully remote engineering organization with strong backend, infrastructure, and product teams. We value ownership, technical excellence, and pragmatic decision-making. Engineers at RubyLabs work on real scale, real money, and real impact. As a Database Engineer at RubyLabs, you will be responsible for designing, operating, and optimizing databases in a high-volume payments environment. This role goes far beyond basic CRUD operations — you will work with large datasets, complex queries, performance bottlenecks, migrations on massive tables, and analytics pipelines. You will collaborate closely with backend engineers and product teams to ensure our data layer supports both transactional workloads and analytical use cases, including internal CRM search and observability. Key Responsibilities Database Ownership &amp; Scalability Own and operate AWS Aurora (PostgreSQL) in a high-load production environment Design and evolve schemas for large transactional domains (payments, customers, subscriptions, events) Implement and maintain: Table partitioning strategies (time-based, tenant-based, hybrid) Advanced indexing (B-Tree, GIN, partial indexes) Query optimization and execution-plan tuning Handle databases with millions of new records per month while maintaining predictable performance Performance Optimization Analyze and optimize slow queries and production metrics Identify and resolve: Lock contention Vacuum / autovacuum issues Connection pool saturation Long-running or inefficient queries Proactively prevent performance regressions as data volume grows Search &amp; Internal Tools Design high-performance search solutions for large operational datasets used in internal CRM tools Implement efficient search strategies Balance flexibility, correctness, and performance at scale Analytics &amp; Logging Work with event and log data pipelines, including Tinybird / ClickHouse -based analytics Decide which data belongs in transactional databases vs analytical stores Enable fast, real-time insights for product, finance, and operations teams Reliability &amp; Operations Ensure data integrity and consistency in financial workflows Define and monitor database health metrics (latency, replication lag, storage, IOPS) Plan and execute safe schema changes and migrations on large tables Participate in incident analysis related to data performance or availability Work in backups, replication, and disaster-recovery strategies Qualifications Strong hands-on experience with PostgreSQL in production Experience managing large databases (hundreds of millions of rows or more) Solid understanding of: Indexing strategies Query planners and execution paths Transactions, isolation levels, and locking Experience working with AWS-based infrastructure, ideally AWS Aurora Ability to independently investigate and resolve complex performance issues Strong Plus Experience in payments, billing, fintech, or financial systems Familiarity with analytical databases (ClickHouse, Tinybird, or similar) Familiarity with OpenSearch or similar, including data ingestion from PostgreSQL Experience designing data models for multi-tenant systems Understanding of event-driven architectures and data pipelines AWS certifications (e.g., Solutions Architect, Database Specialty) Location Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours. Benefits Discover the perks of being part of our vibrant team! We offer: Remote Work Environment: Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. Unlimited PTO: Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. Paid National Holidays: Celebrate and relax on national holidays with paid time off to unwind and recharge. Company-provided MacBook: Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. Flexible Independent Contractor Agreement: Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth! Interview Process After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps: Recruiter Screening (40 minutes) Technical Interview (60 minutes) Final Interview (60 minutes) Life at Ruby Labs At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day. This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen. Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success. #LI-Remote",
+    "url": "https://jobicy.com/jobs/146614-database-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Europe,  Türkiye",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "ruby",
+      "gin",
+      "postgresql",
+      "clickhouse",
+      "aws"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-08-20T03:35:03+00:00",
+    "fetched_at": "2026-08-20T12:18:05.354Z",
+    "raw": {
+      "id": 146614,
+      "url": "https://jobicy.com/jobs/146614-database-engineer",
+      "jobSlug": "146614-database-engineer",
+      "jobTitle": "Database Engineer",
+      "companyName": "Ruby Labs",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/0799a7b7-221-1.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe,  Türkiye",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at:&hellip;",
+      "jobDescription": "<h2><strong>About us</strong></h2><p>Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: <a href=\"https://rubylabs.com/about-us/\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://rubylabs.com/about-us/</a></p><h2><strong>About the role</strong></h2><p>We are building a high-scale payment orchestration system that processes millions of financial transactions every month across multiple payment providers, regions, and products.</p><p>Our platform operates at the intersection of payments, billing, subscriptions, analytics, and internal CRM tooling, where data correctness, performance, and reliability are mission-critical. As our transaction volume and customer base continue to grow rapidly, our database layer has become one of the most important parts of the system.</p><p>We are looking for a <strong>strong Database Engineer</strong> who will own, scale, and evolve our data infrastructure, ensuring it remains fast, reliable, and ready for long-term growth.</p><p>You will be joining a high-talent, fully remote engineering organization with strong backend, infrastructure, and product teams. We value ownership, technical excellence, and pragmatic decision-making. Engineers at RubyLabs work on real scale, real money, and real impact.</p><p>As a <strong>Database Engineer</strong> at RubyLabs, you will be responsible for designing, operating, and optimizing databases in a high-volume payments environment. This role goes far beyond basic CRUD operations — you will work with large datasets, complex queries, performance bottlenecks, migrations on massive tables, and analytics pipelines.</p><p>You will collaborate closely with backend engineers and product teams to ensure our data layer supports both transactional workloads and analytical use cases, including internal CRM search and observability.</p><h2><strong>Key Responsibilities</strong></h2><p><strong>Database Ownership &amp; Scalability</strong></p><ul><li><p>Own and operate <strong>AWS Aurora </strong>(PostgreSQL) in a high-load production environment</p></li><li><p>Design and evolve schemas for large transactional domains (payments, customers, subscriptions, events)</p></li><li><p>Implement and maintain:</p><ul><li><p>Table partitioning strategies (time-based, tenant-based, hybrid)</p></li><li><p>Advanced indexing (B-Tree, GIN, partial indexes)</p></li><li><p>Query optimization and execution-plan tuning</p></li></ul></li><li><p>Handle databases with millions of new records per month while maintaining predictable performance</p></li></ul><p><strong>Performance Optimization</strong></p><ul><li><p>Analyze and optimize slow queries and production metrics</p></li><li><p>Identify and resolve:</p><ul><li><p>Lock contention</p></li><li><p>Vacuum / autovacuum issues</p></li><li><p>Connection pool saturation</p></li><li><p>Long-running or inefficient queries</p></li></ul></li><li><p>Proactively prevent performance regressions as data volume grows</p></li></ul><div> </div><p><strong>Search &amp; Internal Tools</strong></p><ul><li><p>Design high-performance search solutions for large operational datasets used in internal CRM tools</p></li><li><p>Implement efficient search strategies</p></li><li><p>Balance flexibility, correctness, and performance at scale</p></li></ul><div> </div><p><strong>Analytics &amp; Logging</strong></p><ul><li><p>Work with event and log data pipelines, including <strong>Tinybird / ClickHouse</strong>-based analytics</p></li><li><p>Decide which data belongs in transactional databases vs analytical stores</p></li><li><p>Enable fast, real-time insights for product, finance, and operations teams</p></li></ul><div> </div><p><strong>Reliability &amp; Operations</strong></p><ul><li><p>Ensure data integrity and consistency in financial workflows</p></li><li><p>Define and monitor database health metrics (latency, replication lag, storage, IOPS)</p></li><li><p>Plan and execute safe schema changes and migrations on large tables</p></li><li><p>Participate in incident analysis related to data performance or availability</p></li><li><p>Work in backups, replication, and disaster-recovery strategies</p></li></ul><h2><strong>Qualifications</strong></h2><ul><li><p>Strong hands-on experience with <strong>PostgreSQL</strong> in production</p></li><li><p>Experience managing <strong>large databases</strong> (hundreds of millions of rows or more)</p></li><li><p>Solid understanding of:</p><ul><li><p>Indexing strategies</p></li><li><p>Query planners and execution paths</p></li><li><p>Transactions, isolation levels, and locking</p></li></ul></li><li><p>Experience working with AWS-based infrastructure, ideally<strong> AWS Aurora</strong></p></li><li><p>Ability to independently investigate and resolve complex performance issues</p></li></ul><div> </div><p><strong>Strong Plus</strong></p><ul><li><p><strong>Experience in payments, billing, fintech, or financial systems</strong></p></li><li><p>Familiarity with analytical databases (ClickHouse, Tinybird, or similar)</p></li><li><p>Familiarity with OpenSearch or similar, including data ingestion from PostgreSQL</p></li><li><p>Experience designing data models for multi-tenant systems</p></li><li><p>Understanding of event-driven architectures and data pipelines</p></li><li><p>AWS certifications (e.g., Solutions Architect, Database Specialty)</p></li></ul><h2><strong>Location</strong></h2><p>Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.</p><h2><strong>Benefits</strong></h2><p>Discover the perks of being part of our vibrant team! We offer:</p><ul><li><p><strong>Remote Work Environment:</strong> Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. </p></li><li><p><strong>Unlimited PTO:</strong> Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. </p></li><li><p><strong>Paid National Holidays:</strong> Celebrate and relax on national holidays with paid time off to unwind and recharge. </p></li><li><p><strong>Company-provided MacBook:</strong> Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. </p></li><li><p><strong>Flexible Independent Contractor Agreement:</strong> Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: <a href=\"https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt</a></p></li></ul><p>Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!</p><h2><strong>Interview Process</strong></h2><p>After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:</p><ul><li><p>Recruiter Screening (40 minutes)</p></li><li><p>Technical Interview (60 minutes)</p></li><li><p>Final Interview (60 minutes)</p></li></ul><h2><strong>Life at Ruby Labs</strong></h2><p>At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day.</p><p>This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen.</p><p>Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success.</p><p>#LI-Remote</p>",
+      "pubDate": "2026-08-20T03:35:03+00:00"
+    }
+  },
+  {
     "id": "jobicy:144040",
     "platform": "jobicy",
     "external_id": "144040",
@@ -25,7 +74,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-20T03:00:13+00:00",
-    "fetched_at": "2026-08-20T06:20:20.223Z",
+    "fetched_at": "2026-08-20T12:18:05.355Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -79,7 +128,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T20:10:11+00:00",
-    "fetched_at": "2026-08-20T06:20:20.224Z",
+    "fetched_at": "2026-08-20T12:18:05.357Z",
     "raw": {
       "id": 151178,
       "url": "https://jobicy.com/jobs/151178-senior-fullstack-engineer-2",
@@ -138,7 +187,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T19:31:00+00:00",
-    "fetched_at": "2026-08-20T06:20:20.225Z",
+    "fetched_at": "2026-08-20T12:18:05.358Z",
     "raw": {
       "id": 151168,
       "url": "https://jobicy.com/jobs/151168-fullstack-engineer",
@@ -194,7 +243,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T19:11:15+00:00",
-    "fetched_at": "2026-08-20T06:20:20.226Z",
+    "fetched_at": "2026-08-20T12:18:05.359Z",
     "raw": {
       "id": 151159,
       "url": "https://jobicy.com/jobs/151159-principal-engineer-platform-data",
@@ -242,7 +291,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T19:11:08+00:00",
-    "fetched_at": "2026-08-20T06:20:20.227Z",
+    "fetched_at": "2026-08-20T12:18:05.360Z",
     "raw": {
       "id": 151156,
       "url": "https://jobicy.com/jobs/151156-senior-research-engineer-voice",
@@ -292,7 +341,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T19:11:04+00:00",
-    "fetched_at": "2026-08-20T06:20:20.228Z",
+    "fetched_at": "2026-08-20T12:18:05.361Z",
     "raw": {
       "id": 151154,
       "url": "https://jobicy.com/jobs/151154-ai-tooling-engineer",
@@ -344,7 +393,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T19:11:02+00:00",
-    "fetched_at": "2026-08-20T06:20:20.229Z",
+    "fetched_at": "2026-08-20T12:18:05.363Z",
     "raw": {
       "id": 151153,
       "url": "https://jobicy.com/jobs/151153-technical-lead",
@@ -393,7 +442,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T19:11:00+00:00",
-    "fetched_at": "2026-08-20T06:20:20.230Z",
+    "fetched_at": "2026-08-20T12:18:05.363Z",
     "raw": {
       "id": 151152,
       "url": "https://jobicy.com/jobs/151152-member-of-the-technical-staff-internal-agent",
@@ -448,7 +497,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T19:10:58+00:00",
-    "fetched_at": "2026-08-20T06:20:20.231Z",
+    "fetched_at": "2026-08-20T12:18:05.365Z",
     "raw": {
       "id": 151151,
       "url": "https://jobicy.com/jobs/151151-senior-applied-research-engineer-video-team",
@@ -491,7 +540,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T14:49:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.231Z",
+    "fetched_at": "2026-08-20T12:18:05.365Z",
     "raw": {
       "id": 151131,
       "url": "https://jobicy.com/jobs/151131-senior-uicc-euicc-esim-engineer",
@@ -542,7 +591,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T14:49:00+00:00",
-    "fetched_at": "2026-08-20T06:20:20.233Z",
+    "fetched_at": "2026-08-20T12:18:05.368Z",
     "raw": {
       "id": 151129,
       "url": "https://jobicy.com/jobs/151129-senior-applied-ai-engineer",
@@ -598,7 +647,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T14:48:58+00:00",
-    "fetched_at": "2026-08-20T06:20:20.234Z",
+    "fetched_at": "2026-08-20T12:18:05.369Z",
     "raw": {
       "id": 151128,
       "url": "https://jobicy.com/jobs/151128-sr-software-engineer",
@@ -641,7 +690,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T14:48:50+00:00",
-    "fetched_at": "2026-08-20T06:20:20.234Z",
+    "fetched_at": "2026-08-20T12:18:05.369Z",
     "raw": {
       "id": 151124,
       "url": "https://jobicy.com/jobs/151124-senior-software-engineer-smartcard-development",
@@ -686,7 +735,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T14:48:45+00:00",
-    "fetched_at": "2026-08-20T06:20:20.236Z",
+    "fetched_at": "2026-08-20T12:18:05.371Z",
     "raw": {
       "id": 151121,
       "url": "https://jobicy.com/jobs/151121-engineering-manager-employee-spend",
@@ -736,7 +785,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T14:48:40+00:00",
-    "fetched_at": "2026-08-20T06:20:20.237Z",
+    "fetched_at": "2026-08-20T12:18:05.372Z",
     "raw": {
       "id": 151119,
       "url": "https://jobicy.com/jobs/151119-full-stack-ruby-on-rails-software-engineer-principal-remote",
@@ -782,7 +831,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-19T14:48:36+00:00",
-    "fetched_at": "2026-08-20T06:20:20.239Z",
+    "fetched_at": "2026-08-20T12:18:05.374Z",
     "raw": {
       "id": 151117,
       "url": "https://jobicy.com/jobs/151117-digital-authentication-associate",
@@ -832,7 +881,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-19T02:20:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.240Z",
+    "fetched_at": "2026-08-20T12:18:05.375Z",
     "raw": {
       "id": 146760,
       "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
@@ -875,7 +924,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T02:09:51+00:00",
-    "fetched_at": "2026-08-20T06:20:20.241Z",
+    "fetched_at": "2026-08-20T12:18:05.377Z",
     "raw": {
       "id": 146984,
       "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
@@ -927,7 +976,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T02:09:48+00:00",
-    "fetched_at": "2026-08-20T06:20:20.242Z",
+    "fetched_at": "2026-08-20T12:18:05.378Z",
     "raw": {
       "id": 146976,
       "url": "https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes",
@@ -972,7 +1021,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T02:05:10+00:00",
-    "fetched_at": "2026-08-20T06:20:20.243Z",
+    "fetched_at": "2026-08-20T12:18:05.379Z",
     "raw": {
       "id": 147000,
       "url": "https://jobicy.com/jobs/147000-experienced-information-systems-architect",
@@ -1024,7 +1073,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T02:05:09+00:00",
-    "fetched_at": "2026-08-20T06:20:20.244Z",
+    "fetched_at": "2026-08-20T12:18:05.380Z",
     "raw": {
       "id": 147050,
       "url": "https://jobicy.com/jobs/147050-ai-systems-engineering-expert",
@@ -1070,7 +1119,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T02:00:04+00:00",
-    "fetched_at": "2026-08-20T06:20:20.246Z",
+    "fetched_at": "2026-08-20T12:18:05.382Z",
     "raw": {
       "id": 147066,
       "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
@@ -1117,7 +1166,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-19T02:00:03+00:00",
-    "fetched_at": "2026-08-20T06:20:20.247Z",
+    "fetched_at": "2026-08-20T12:18:05.384Z",
     "raw": {
       "id": 147065,
       "url": "https://jobicy.com/jobs/147065-staff-design-engineer",
@@ -1164,7 +1213,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-18T17:59:39+00:00",
-    "fetched_at": "2026-08-20T06:20:20.248Z",
+    "fetched_at": "2026-08-20T12:18:05.385Z",
     "raw": {
       "id": 151043,
       "url": "https://jobicy.com/jobs/151043-senior-full-stack-engineer-platform-extensions",
@@ -1217,7 +1266,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-18T17:13:22+00:00",
-    "fetched_at": "2026-08-20T06:20:20.249Z",
+    "fetched_at": "2026-08-20T12:18:05.386Z",
     "raw": {
       "id": 151038,
       "url": "https://jobicy.com/jobs/151038-staff-software-engineer-4",
@@ -1275,7 +1324,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-18T11:11:26+00:00",
-    "fetched_at": "2026-08-20T06:20:20.250Z",
+    "fetched_at": "2026-08-20T12:18:05.387Z",
     "raw": {
       "id": 151013,
       "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
@@ -1321,7 +1370,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-18T11:01:06+00:00",
-    "fetched_at": "2026-08-20T06:20:20.250Z",
+    "fetched_at": "2026-08-20T12:18:05.388Z",
     "raw": {
       "id": 151003,
       "url": "https://jobicy.com/jobs/151003-testing-a-financial-app-for-italian-business-owners",
@@ -1369,7 +1418,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-18T11:00:58+00:00",
-    "fetched_at": "2026-08-20T06:20:20.251Z",
+    "fetched_at": "2026-08-20T12:18:05.388Z",
     "raw": {
       "id": 150998,
       "url": "https://jobicy.com/jobs/150998-uber-driver-for-testing-the-uber-app-remote-in-france",
@@ -1418,7 +1467,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-18T11:00:56+00:00",
-    "fetched_at": "2026-08-20T06:20:20.252Z",
+    "fetched_at": "2026-08-20T12:18:05.389Z",
     "raw": {
       "id": 150997,
       "url": "https://jobicy.com/jobs/150997-uber-driver-for-testing-the-uber-app-remote-in-the-netherlands",
@@ -1467,7 +1516,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-18T11:00:55+00:00",
-    "fetched_at": "2026-08-20T06:20:20.252Z",
+    "fetched_at": "2026-08-20T12:18:05.390Z",
     "raw": {
       "id": 150996,
       "url": "https://jobicy.com/jobs/150996-uber-driver-for-testing-the-uber-app-remote-in-switzerland",
@@ -1523,7 +1572,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-18T11:00:52+00:00",
-    "fetched_at": "2026-08-20T06:20:20.253Z",
+    "fetched_at": "2026-08-20T12:18:05.391Z",
     "raw": {
       "id": 150994,
       "url": "https://jobicy.com/jobs/150994-software-engineer-secure-container-images",
@@ -1566,7 +1615,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-18T11:00:35+00:00",
-    "fetched_at": "2026-08-20T06:20:20.254Z",
+    "fetched_at": "2026-08-20T12:18:05.392Z",
     "raw": {
       "id": 150985,
       "url": "https://jobicy.com/jobs/150985-freelance-payment-tester-apple-pay-google-pay",
@@ -1615,7 +1664,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-18T10:55:13+00:00",
-    "fetched_at": "2026-08-20T06:20:20.255Z",
+    "fetched_at": "2026-08-20T12:18:05.393Z",
     "raw": {
       "id": 150976,
       "url": "https://jobicy.com/jobs/150976-senior-ios-engineer-3",
@@ -1668,7 +1717,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-18T10:55:11+00:00",
-    "fetched_at": "2026-08-20T06:20:20.255Z",
+    "fetched_at": "2026-08-20T12:18:05.394Z",
     "raw": {
       "id": 150975,
       "url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
@@ -1719,7 +1768,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-18T03:00:09+00:00",
-    "fetched_at": "2026-08-20T06:20:20.256Z",
+    "fetched_at": "2026-08-20T12:18:05.395Z",
     "raw": {
       "id": 146757,
       "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
@@ -1762,7 +1811,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-18T02:50:02+00:00",
-    "fetched_at": "2026-08-20T06:20:20.257Z",
+    "fetched_at": "2026-08-20T12:18:05.396Z",
     "raw": {
       "id": 146848,
       "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
@@ -1810,7 +1859,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T14:17:20+00:00",
-    "fetched_at": "2026-08-20T06:20:20.258Z",
+    "fetched_at": "2026-08-20T12:18:05.397Z",
     "raw": {
       "id": 150933,
       "url": "https://jobicy.com/jobs/150933-senior-software-engineer-elixir",
@@ -1859,7 +1908,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T13:04:01+00:00",
-    "fetched_at": "2026-08-20T06:20:20.260Z",
+    "fetched_at": "2026-08-20T12:18:05.398Z",
     "raw": {
       "id": 150907,
       "url": "https://jobicy.com/jobs/150907-director-software-engineering-ai-workflows-ecosystem",
@@ -1912,7 +1961,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T13:03:53+00:00",
-    "fetched_at": "2026-08-20T06:20:20.261Z",
+    "fetched_at": "2026-08-20T12:18:05.400Z",
     "raw": {
       "id": 150904,
       "url": "https://jobicy.com/jobs/150904-software-engineer-manager",
@@ -1965,7 +2014,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T13:03:49+00:00",
-    "fetched_at": "2026-08-20T06:20:20.262Z",
+    "fetched_at": "2026-08-20T12:18:05.401Z",
     "raw": {
       "id": 150902,
       "url": "https://jobicy.com/jobs/150902-software-engineer-4",
@@ -2019,7 +2068,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T13:03:47+00:00",
-    "fetched_at": "2026-08-20T06:20:20.263Z",
+    "fetched_at": "2026-08-20T12:18:05.402Z",
     "raw": {
       "id": 150901,
       "url": "https://jobicy.com/jobs/150901-senior-software-engineer-2",
@@ -2084,7 +2133,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T13:03:38+00:00",
-    "fetched_at": "2026-08-20T06:20:20.264Z",
+    "fetched_at": "2026-08-20T12:18:05.405Z",
     "raw": {
       "id": 150897,
       "url": "https://jobicy.com/jobs/150897-senior-product-engineer-typescirpt",
@@ -2134,7 +2183,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T13:03:36+00:00",
-    "fetched_at": "2026-08-20T06:20:20.265Z",
+    "fetched_at": "2026-08-20T12:18:05.406Z",
     "raw": {
       "id": 150896,
       "url": "https://jobicy.com/jobs/150896-junior-software-engineer",
@@ -2186,7 +2235,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T08:38:09+00:00",
-    "fetched_at": "2026-08-20T06:20:20.266Z",
+    "fetched_at": "2026-08-20T12:18:05.407Z",
     "raw": {
       "id": 150885,
       "url": "https://jobicy.com/jobs/150885-contract-senior-web-engineer",
@@ -2233,7 +2282,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T08:38:04+00:00",
-    "fetched_at": "2026-08-20T06:20:20.267Z",
+    "fetched_at": "2026-08-20T12:18:05.408Z",
     "raw": {
       "id": 150883,
       "url": "https://jobicy.com/jobs/150883-contract-senior-front-end-engineer",
@@ -2278,7 +2327,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T05:40:10+00:00",
-    "fetched_at": "2026-08-20T06:20:20.268Z",
+    "fetched_at": "2026-08-20T12:18:05.409Z",
     "raw": {
       "id": 146611,
       "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
@@ -2328,7 +2377,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-17T05:40:08+00:00",
-    "fetched_at": "2026-08-20T06:20:20.268Z",
+    "fetched_at": "2026-08-20T12:18:05.410Z",
     "raw": {
       "id": 142198,
       "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
@@ -2381,7 +2430,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T16:32:48+00:00",
-    "fetched_at": "2026-08-20T06:20:20.270Z",
+    "fetched_at": "2026-08-20T12:18:05.412Z",
     "raw": {
       "id": 150851,
       "url": "https://jobicy.com/jobs/150851-ai-first-android-engineer",
@@ -2432,7 +2481,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:52:01+00:00",
-    "fetched_at": "2026-08-20T06:20:20.271Z",
+    "fetched_at": "2026-08-20T12:18:05.413Z",
     "raw": {
       "id": 150850,
       "url": "https://jobicy.com/jobs/150850-manager-software-engineering-platform",
@@ -2483,7 +2532,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:59+00:00",
-    "fetched_at": "2026-08-20T06:20:20.273Z",
+    "fetched_at": "2026-08-20T12:18:05.416Z",
     "raw": {
       "id": 150849,
       "url": "https://jobicy.com/jobs/150849-manager-software-engineering-ai-assistant",
@@ -2536,7 +2585,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:52+00:00",
-    "fetched_at": "2026-08-20T06:20:20.274Z",
+    "fetched_at": "2026-08-20T12:18:05.416Z",
     "raw": {
       "id": 150846,
       "url": "https://jobicy.com/jobs/150846-software-engineer-3",
@@ -2590,7 +2639,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:48+00:00",
-    "fetched_at": "2026-08-20T06:20:20.274Z",
+    "fetched_at": "2026-08-20T12:18:05.417Z",
     "raw": {
       "id": 150844,
       "url": "https://jobicy.com/jobs/150844-mid-level-front-end-engineer",
@@ -2637,7 +2686,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T14:51:43+00:00",
-    "fetched_at": "2026-08-20T06:20:20.275Z",
+    "fetched_at": "2026-08-20T12:18:05.418Z",
     "raw": {
       "id": 150842,
       "url": "https://jobicy.com/jobs/150842-e-invoicing-edi-integration-engineer-f-m-d-with-english-and-german-french-italian",
@@ -2685,7 +2734,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-16T03:41:04+00:00",
-    "fetched_at": "2026-08-20T06:20:20.277Z",
+    "fetched_at": "2026-08-20T12:18:05.419Z",
     "raw": {
       "id": 150832,
       "url": "https://jobicy.com/jobs/150832-chief-technology-officer",
@@ -2732,7 +2781,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-15T16:20:13+00:00",
-    "fetched_at": "2026-08-20T06:20:20.278Z",
+    "fetched_at": "2026-08-20T12:18:05.420Z",
     "raw": {
       "id": 150817,
       "url": "https://jobicy.com/jobs/150817-senior-software-developer-in-test-quality-platform",
@@ -2781,7 +2830,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T14:03:24+00:00",
-    "fetched_at": "2026-08-20T06:20:20.279Z",
+    "fetched_at": "2026-08-20T12:18:05.422Z",
     "raw": {
       "id": 150772,
       "url": "https://jobicy.com/jobs/150772-director-of-engineering-leverage",
@@ -2834,7 +2883,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T13:59:34+00:00",
-    "fetched_at": "2026-08-20T06:20:20.280Z",
+    "fetched_at": "2026-08-20T12:18:05.423Z",
     "raw": {
       "id": 150764,
       "url": "https://jobicy.com/jobs/150764-ai-data-engineer",
@@ -2883,7 +2932,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T10:58:30+00:00",
-    "fetched_at": "2026-08-20T06:20:20.282Z",
+    "fetched_at": "2026-08-20T12:18:05.425Z",
     "raw": {
       "id": 150741,
       "url": "https://jobicy.com/jobs/150741-senior-firmware-engineer-connectivity",
@@ -2937,7 +2986,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T05:54:40+00:00",
-    "fetched_at": "2026-08-20T06:20:20.285Z",
+    "fetched_at": "2026-08-20T12:18:05.428Z",
     "raw": {
       "id": 150687,
       "url": "https://jobicy.com/jobs/150687-engineering-manager-eu",
@@ -2998,7 +3047,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:50:07+00:00",
-    "fetched_at": "2026-08-20T06:20:20.287Z",
+    "fetched_at": "2026-08-20T12:18:05.431Z",
     "raw": {
       "id": 145935,
       "url": "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2",
@@ -3055,7 +3104,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:45:03+00:00",
-    "fetched_at": "2026-08-20T06:20:20.288Z",
+    "fetched_at": "2026-08-20T12:18:05.432Z",
     "raw": {
       "id": 145996,
       "url": "https://jobicy.com/jobs/145996-customer-solutions-architect-2",
@@ -3104,7 +3153,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:35:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.290Z",
+    "fetched_at": "2026-08-20T12:18:05.434Z",
     "raw": {
       "id": 146085,
       "url": "https://jobicy.com/jobs/146085-staff-software-developer-2",
@@ -3157,7 +3206,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:30:02+00:00",
-    "fetched_at": "2026-08-20T06:20:20.290Z",
+    "fetched_at": "2026-08-20T12:18:05.434Z",
     "raw": {
       "id": 146122,
       "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
@@ -3208,7 +3257,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:25:04+00:00",
-    "fetched_at": "2026-08-20T06:20:20.291Z",
+    "fetched_at": "2026-08-20T12:18:05.436Z",
     "raw": {
       "id": 146232,
       "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
@@ -3255,7 +3304,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-15T04:20:11+00:00",
-    "fetched_at": "2026-08-20T06:20:20.292Z",
+    "fetched_at": "2026-08-20T12:18:05.437Z",
     "raw": {
       "id": 146269,
       "url": "https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia",
@@ -3303,7 +3352,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:20:09+00:00",
-    "fetched_at": "2026-08-20T06:20:20.293Z",
+    "fetched_at": "2026-08-20T12:18:05.437Z",
     "raw": {
       "id": 146276,
       "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
@@ -3361,7 +3410,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-15T04:15:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.294Z",
+    "fetched_at": "2026-08-20T12:18:05.439Z",
     "raw": {
       "id": 146294,
       "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
@@ -3404,7 +3453,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-15T04:05:03+00:00",
-    "fetched_at": "2026-08-20T06:20:20.294Z",
+    "fetched_at": "2026-08-20T12:18:05.439Z",
     "raw": {
       "id": 149301,
       "url": "https://jobicy.com/jobs/149301-garment-manufacturing-qc-specialist-freelance-ai-trainer-project",
@@ -3455,7 +3504,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T13:01:06+00:00",
-    "fetched_at": "2026-08-20T06:20:20.295Z",
+    "fetched_at": "2026-08-20T12:18:05.440Z",
     "raw": {
       "id": 150665,
       "url": "https://jobicy.com/jobs/150665-software-engineer-technical-leadership",
@@ -3504,7 +3553,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T04:45:08+00:00",
-    "fetched_at": "2026-08-20T06:20:20.297Z",
+    "fetched_at": "2026-08-20T12:18:05.442Z",
     "raw": {
       "id": 149239,
       "url": "https://jobicy.com/jobs/149239-principal-cloud-application-engineer-2",
@@ -3557,7 +3606,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T04:45:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.299Z",
+    "fetched_at": "2026-08-20T12:18:05.445Z",
     "raw": {
       "id": 149237,
       "url": "https://jobicy.com/jobs/149237-principal-cloud-application-engineer",
@@ -3615,7 +3664,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T04:45:02+00:00",
-    "fetched_at": "2026-08-20T06:20:20.301Z",
+    "fetched_at": "2026-08-20T12:18:05.447Z",
     "raw": {
       "id": 149241,
       "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
@@ -3662,7 +3711,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-14T04:40:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.303Z",
+    "fetched_at": "2026-08-20T12:18:05.448Z",
     "raw": {
       "id": 149262,
       "url": "https://jobicy.com/jobs/149262-head-of-ai",
@@ -3716,7 +3765,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T10:05:06+00:00",
-    "fetched_at": "2026-08-20T06:20:20.304Z",
+    "fetched_at": "2026-08-20T12:18:05.450Z",
     "raw": {
       "id": 145788,
       "url": "https://jobicy.com/jobs/145788-staff-software-engineer-full-remote-or-hybrid-m-f-d",
@@ -3767,7 +3816,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:58:22+00:00",
-    "fetched_at": "2026-08-20T06:20:20.304Z",
+    "fetched_at": "2026-08-20T12:18:05.451Z",
     "raw": {
       "id": 145861,
       "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
@@ -3824,7 +3873,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:53:37+00:00",
-    "fetched_at": "2026-08-20T06:20:20.306Z",
+    "fetched_at": "2026-08-20T12:18:05.452Z",
     "raw": {
       "id": 145940,
       "url": "https://jobicy.com/jobs/145940-genai-engineer",
@@ -3872,7 +3921,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:53:36+00:00",
-    "fetched_at": "2026-08-20T06:20:20.307Z",
+    "fetched_at": "2026-08-20T12:18:05.453Z",
     "raw": {
       "id": 145920,
       "url": "https://jobicy.com/jobs/145920-solution-engineer",
@@ -3915,7 +3964,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:53:33+00:00",
-    "fetched_at": "2026-08-20T06:20:20.308Z",
+    "fetched_at": "2026-08-20T12:18:05.455Z",
     "raw": {
       "id": 145918,
       "url": "https://jobicy.com/jobs/145918-partner-solution-architect-gsi",
@@ -3970,7 +4019,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-13T09:43:19+00:00",
-    "fetched_at": "2026-08-20T06:20:20.310Z",
+    "fetched_at": "2026-08-20T12:18:05.456Z",
     "raw": {
       "id": 145995,
       "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
@@ -4024,7 +4073,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:26:48+00:00",
-    "fetched_at": "2026-08-20T06:20:20.311Z",
+    "fetched_at": "2026-08-20T12:18:05.458Z",
     "raw": {
       "id": 146058,
       "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
@@ -4076,7 +4125,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:25:10+00:00",
-    "fetched_at": "2026-08-20T06:20:20.312Z",
+    "fetched_at": "2026-08-20T12:18:05.459Z",
     "raw": {
       "id": 146081,
       "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
@@ -4131,7 +4180,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-13T09:15:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.312Z",
+    "fetched_at": "2026-08-20T12:18:05.460Z",
     "raw": {
       "id": 146187,
       "url": "https://jobicy.com/jobs/146187-senior-qa-engineer-%e5%8c%ba%e5%9d%97%e9%93%be%e6%b5%8b%e8%af%95%e5%b7%a5%e7%a8%8b%e5%b8%88",
@@ -4176,7 +4225,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:10:06+00:00",
-    "fetched_at": "2026-08-20T06:20:20.314Z",
+    "fetched_at": "2026-08-20T12:18:05.461Z",
     "raw": {
       "id": 149183,
       "url": "https://jobicy.com/jobs/149183-forward-deployed-engineer-ai-business-transformation-technology-creative-network",
@@ -4221,7 +4270,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T09:10:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.315Z",
+    "fetched_at": "2026-08-20T12:18:05.463Z",
     "raw": {
       "id": 149184,
       "url": "https://jobicy.com/jobs/149184-forward-deployed-engineer-ai-creative-transformation-marketing",
@@ -4266,7 +4315,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:55:02+00:00",
-    "fetched_at": "2026-08-20T06:20:20.317Z",
+    "fetched_at": "2026-08-20T12:18:05.464Z",
     "raw": {
       "id": 149199,
       "url": "https://jobicy.com/jobs/149199-customer-solutions-engineer-payments",
@@ -4313,7 +4362,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:50:06+00:00",
-    "fetched_at": "2026-08-20T06:20:20.318Z",
+    "fetched_at": "2026-08-20T12:18:05.466Z",
     "raw": {
       "id": 149206,
       "url": "https://jobicy.com/jobs/149206-customer-solution-engineer-early-career",
@@ -4365,7 +4414,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:35:03+00:00",
-    "fetched_at": "2026-08-20T06:20:20.319Z",
+    "fetched_at": "2026-08-20T12:18:05.467Z",
     "raw": {
       "id": 149155,
       "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
@@ -4416,7 +4465,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:30:04+00:00",
-    "fetched_at": "2026-08-20T06:20:20.320Z",
+    "fetched_at": "2026-08-20T12:18:05.468Z",
     "raw": {
       "id": 149158,
       "url": "https://jobicy.com/jobs/149158-senior-fullstack-engineer-net-react-umbraco-cms-digital-agency",
@@ -4472,7 +4521,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:25:08+00:00",
-    "fetched_at": "2026-08-20T06:20:20.321Z",
+    "fetched_at": "2026-08-20T12:18:05.469Z",
     "raw": {
       "id": 149164,
       "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
@@ -4528,7 +4577,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:25:07+00:00",
-    "fetched_at": "2026-08-20T06:20:20.322Z",
+    "fetched_at": "2026-08-20T12:18:05.470Z",
     "raw": {
       "id": 149161,
       "url": "https://jobicy.com/jobs/149161-senior-integrations-engineer",
@@ -4586,7 +4635,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-13T08:25:04+00:00",
-    "fetched_at": "2026-08-20T06:20:20.323Z",
+    "fetched_at": "2026-08-20T12:18:05.472Z",
     "raw": {
       "id": 149168,
       "url": "https://jobicy.com/jobs/149168-senior-data-platform-engineer-veterinary-technology",
@@ -4645,7 +4694,7 @@
       "QA &amp; Testing"
     ],
     "posted_at": "2026-08-13T08:20:02+00:00",
-    "fetched_at": "2026-08-20T06:20:20.324Z",
+    "fetched_at": "2026-08-20T12:18:05.473Z",
     "raw": {
       "id": 149180,
       "url": "https://jobicy.com/jobs/149180-senior-software-development-engineer-in-test-sdet-ecommerce-latam",
@@ -4695,7 +4744,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-12T14:19:54+00:00",
-    "fetched_at": "2026-08-20T06:20:20.326Z",
+    "fetched_at": "2026-08-20T12:18:05.474Z",
     "raw": {
       "id": 150593,
       "url": "https://jobicy.com/jobs/150593-ai-solutions-builder",
@@ -4743,7 +4792,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-12T14:19:46+00:00",
-    "fetched_at": "2026-08-20T06:20:20.327Z",
+    "fetched_at": "2026-08-20T12:18:05.476Z",
     "raw": {
       "id": 150588,
       "url": "https://jobicy.com/jobs/150588-head-of-engineering",
@@ -4795,7 +4844,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-12T14:19:41+00:00",
-    "fetched_at": "2026-08-20T06:20:20.328Z",
+    "fetched_at": "2026-08-20T12:18:05.477Z",
     "raw": {
       "id": 150585,
       "url": "https://jobicy.com/jobs/150585-staff-software-engineer-3",
@@ -4857,7 +4906,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-12T14:19:33+00:00",
-    "fetched_at": "2026-08-20T06:20:20.329Z",
+    "fetched_at": "2026-08-20T12:18:05.478Z",
     "raw": {
       "id": 150580,
       "url": "https://jobicy.com/jobs/150580-senior-ai-software-engineer-2",
@@ -4909,7 +4958,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-11T03:30:05+00:00",
-    "fetched_at": "2026-08-20T06:20:20.330Z",
+    "fetched_at": "2026-08-20T12:18:05.480Z",
     "raw": {
       "id": 149101,
       "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
@@ -4965,7 +5014,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-11T03:25:15+00:00",
-    "fetched_at": "2026-08-20T06:20:20.333Z",
+    "fetched_at": "2026-08-20T12:18:05.482Z",
     "raw": {
       "id": 149108,
       "url": "https://jobicy.com/jobs/149108-senior-software-engineer-unsecured-installments",
@@ -5012,7 +5061,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-08-11T03:25:09+00:00",
-    "fetched_at": "2026-08-20T06:20:20.334Z",
+    "fetched_at": "2026-08-20T12:18:05.483Z",
     "raw": {
       "id": 149097,
       "url": "https://jobicy.com/jobs/149097-application-engineer-digital-solutions",
@@ -5031,53 +5080,6 @@
       "jobExcerpt": "Are you passionate about bridging the gap between cutting-edge digital technology and real-world customer success in water management? Then join us in our mission to pioneer smarter solutions for moving and transforming water, reducing energy consumption, and enhancing quality of life for people.   As our new Application Engineer – Digital Solutions, you will be&hellip;",
       "jobDescription": "<div><div><div><h2></h2>\n</div><div><p><strong>Are you passionate about bridging the gap between cutting-edge digital technology and real-world customer success in water management? </strong>Then join us in our mission to pioneer smarter solutions for moving and transforming water, reducing energy consumption, and enhancing quality of life for people.</p>\n<p> </p>\n<p>As our new Application Engineer – Digital Solutions, you will be serving as the technical expert for our digital solutions portfolio — combining software, hardware, and IoT expertise to ensure customers successfully onboard, adopt, and expand their use of Grundfos digital offerings across global markets. You'll be part of a diverse, supportive and inclusive culture, that celebrates our differences and puts people first by fostering growth, well-being, and a sense of belonging.</p>\n<p> </p>\n<p>This position reports to the Digital Customer Success Regional Manager, part of the WU sales organization. It will operate on a hybrid schedule from our facility in Monterrey, NL, Mexico. Relocation for this position cannot be supported and qualified candidates must be authorized to work in Mexico without support now or in the future.</p>\n<p><br><strong>What you will be doing</strong></p>\n<p> </p>\n<p>As a key part of the Digital Customer Success team, you'll create impact by Driving measurable customer outcomes by ensuring the continuous, reliable operation of digital solutions that help manage the world's most vital resource — water.</p>\n<p>Your main responsibilities include:</p>\n<ul>\n<li>Build and maintain deep technical expertise across our digital solutions, the applications they serve, and the Grundfos components they integrate with.</li>\n<li>Provide proactive technical support for active subscriptions — configuring solution apps, delivering customer outcome reports, and identifying opportunities for improvement.</li>\n<li>Resolve incidents escalated by local sales, service teams, or customers directly, collaborating with 2nd-level support to ensure timely case closure and customer satisfaction.</li>\n<li>Contribute to continuous improvement by creating documentation, tools, and scripts that enhance support processes and team efficiency.</li>\n<li>Build trusted partnerships with customers using our digital solutions — identifying champions, generating success stories, and fostering a community of engaged digital users.</li>\n</ul></div></div><div><div><h2></h2>\n</div><div><p><strong>What makes you a great fit</strong></p>\n<p> </p>\n<p>Above all, you are a technically sharp, customer-centric professional with hands-on experience in IoT, remote monitoring, or digital platforms, combined with a strong troubleshooting mindset and the communication skills to build trust with global stakeholders. We would also imagine that you have:</p>\n<ul>\n<li>Bachelor's degree in Engineering, Computer Science, Electronics, Mechanical or Environmental Engineering, or equivalent practical experience.</li>\n<li>Knowledge of or experience with electronic monitoring systems, SCADA, telemetry, IoT devices, or software-based data management and analytics platforms.</li>\n<li>Experience implementing customer support processes including onboarding, training, and hypercare.</li>\n<li>Fluent in English (verbal and written).</li>\n</ul>\n<p> </p>\n<p>It is a plus if you also have:</p>\n<ul>\n<li>Experience in water utility or building services applications.</li>\n<li>Proficiency in additional languages beyond English.</li>\n<li>Familiarity with customer success methodologies, adoption metrics, or subscription-based service models.</li>\n</ul></div></div><div><div><h2></h2>\n</div><div><p><strong>Why you will love working here</strong></p>\n<p> </p>\n<p>We care! Day to day, you can look forward to:</p>\n<ul>\n<li>A working environment built around your needs, with hybrid working opportunities.</li>\n<li>Annual bonuses, health insurance and a strong focus on well-being activities.</li>\n<li>Three days' additional paid leave for volunteering in your community.</li>\n<li>Access to on-demand training and learning sessions and carefully structured programes to pursue personal and professional development opportunities.</li>\n</ul>\n<p> </p>\n<p>We are inclusive! Celebrating and valuing our differences helps us see possibilities where others can't. We therefore welcome and encourage applications from all abilities, experiences, and backgrounds.</p>\n<p> </p>\n<p>Are you ready to unlock possibilities at Grundfos? Apply today!</p>\n<p>To get to know us better, follow us on LinkedIn or visit grundfos.com</p></div></div></div>",
       "pubDate": "2026-08-11T03:25:09+00:00"
-    }
-  },
-  {
-    "id": "jobicy:149046",
-    "platform": "jobicy",
-    "external_id": "149046",
-    "title": "Tech Lead [gn] Feature Team",
-    "company": "Actian",
-    "description": "We are looking for a highly technical, hands-on Tech Lead to guide a small feature team of 3 to 4 engineers. We are not looking for an administrative manager who just sits in meetings and assigns tasks; we want a builder. In this role, you will lead by doing. You will write exceptional code, architect robust backend systems, and guide your team by example. We love engineers who truly \"feel\" the product—people who understand the business goals, care deeply about the user experience, and proactively do whatever it takes to ship a great product. You will own the technical execution of your team using a modern stack focused on SaaS backend architectures, Scala, Python, and TypeScript. Crucially, you are a modern developer who knows how to leverage AI coding agents to multiply your team's output without compromising on quality. Core Responsibilities: Hands-on Coding &amp; Execution: Spend a significant amount of your time writing high-quality backend code, taking on the most complex technical challenges yourself. Technical Stack Mastery: Guide the technical direction of your team using Scala and Python for robust backend data systems, and TypeScript for full-stack feature delivery. AI-Driven Velocity: Actively use and advocate for AI coding agents (like GitHub Copilot, Cursor, or similar tools) within your daily workflow and teach your team how to use them efficiently to ship code faster. Product-Driven Ownership: Connect deeply with the product vision. You don't just build specs blindly; you understand the goals and optimize your technical choices to deliver the best product value. SaaS Delivery Mastery: Own the entire lifecycle of your team's features, ensuring they are designed for multi-tenant cloud scalability and successfully deployed to production. Mentorship by Example: Coach and unblock your 3-4 engineers through pair programming, deep code reviews, and technical guidance, raising the bar for the entire team. Goal Achievement &amp; Velocity: Focus relentlessly on hitting team milestones, proactively removing blockers, and keeping team performance sharp. Product Collaboration: Partner closely with Product Managers to refine features, challenge assumptions when necessary, and turn ambitious ideas into realistic technical tasks. Production Health: Take pride in what you ship. Ensure your team’s features run smoothly, securely, and efficiently in the cloud, helping to quickly fix issues if they arise. Qualifications &amp; Profile: Technical Background: Deep backend engineering experience building and scaling cloud-native SaaS platforms. Polyglot Developer: Strong, production-proven experience writing code in Scala, but Python or TypeScript are a big plus. Coding Agent Mastery (Must-Have): Deep experience using AI coding agents in your day-to-day work. You know how to prompt them effectively, critically review AI-generated code for security or architectural flaws, and use them to maximize your engineering efficiency. Builder Mindset: You love writing code and building systems. You prefer solving technical puzzles and shipping features over traditional management paperwork. Product Empathy: You care about the \"why\" behind what you build. You are motivated by achieving product goals and making the platform better for the end user. High-Agency Leadership: You take absolute responsibility for your team's output. If something is broken or a deadline is at risk, you jump in and fix it. Communication: Exceptional English skills (written and spoken) to align your small team and collaborate easily with product owners. What We Offer: The chance to be part of an innovative, fast-growing company making a significant impact in the data management space. Collaboration with a passionate and diverse team. Competitive salary and benefits package. Flexible work arrangements (remote or hybrid). Opportunities for professional growth and development. Why Join Us? At Actian, we are passionate about innovation and teamwork. This role is perfect for someone who thrives in a dynamic environment, loves creating an efficient and welcoming workspace, and enjoys working closely with a talented team. Interested? We’d love to hear from you! Let’s discuss how you can contribute to our success while growing your career with us. We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.",
-    "url": "https://jobicy.com/jobs/149046-tech-lead-gn-feature-team",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Europe",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "python",
-      "scala"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-08-10T04:30:07+00:00",
-    "fetched_at": "2026-08-20T06:20:20.335Z",
-    "raw": {
-      "id": 149046,
-      "url": "https://jobicy.com/jobs/149046-tech-lead-gn-feature-team",
-      "jobSlug": "149046-tech-lead-gn-feature-team",
-      "jobTitle": "Tech Lead [gn] Feature Team",
-      "companyName": "Actian",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/0fee3ec4-221.webp",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Europe",
-      "jobLevel": "Senior",
-      "jobExcerpt": "We are looking for a highly technical, hands-on Tech Lead to guide a small feature team of 3 to 4 engineers. We are not looking for an administrative manager who just sits in meetings and assigns tasks; we want a builder. In this role, you will lead by doing. You will write exceptional code, architect&hellip;",
-      "jobDescription": "<div>\n<p>We are looking for a highly technical, hands-on <strong>Tech Lead</strong> to guide a small feature team of 3 to 4 engineers. We are not looking for an administrative manager who just sits in meetings and assigns tasks; <strong>we want a builder.</strong></p>\n<p>In this role, you will lead by doing. You will write exceptional code, architect robust backend systems, and guide your team by example. We love engineers who truly \"feel\" the product—people who understand the business goals, care deeply about the user experience, and proactively do whatever it takes to ship a great product. You will own the technical execution of your team using a modern stack focused on SaaS backend architectures, Scala, Python, and TypeScript. <strong>Crucially, you are a modern developer who knows how to leverage AI coding agents to multiply your team's output without compromising on quality.</strong></p>\n</div><h2>Core Responsibilities:</h2><ul>\n<div>\n<li>\n<p><strong>Hands-on Coding &amp; Execution:</strong> Spend a significant amount of your time writing high-quality backend code, taking on the most complex technical challenges yourself.</p>\n</li>\n<li>\n<p><strong>Technical Stack Mastery:</strong> Guide the technical direction of your team using Scala and Python for robust backend data systems, and TypeScript for full-stack feature delivery.</p>\n</li>\n<li>\n<p><strong>AI-Driven Velocity:</strong> Actively use and advocate for AI coding agents (like GitHub Copilot, Cursor, or similar tools) within your daily workflow and teach your team how to use them efficiently to ship code faster.</p>\n</li>\n<li>\n<p><strong>Product-Driven Ownership:</strong> Connect deeply with the product vision. You don't just build specs blindly; you understand the goals and optimize your technical choices to deliver the best product value.</p>\n</li>\n<li>\n<p><strong>SaaS Delivery Mastery:</strong> Own the entire lifecycle of your team's features, ensuring they are designed for multi-tenant cloud scalability and successfully deployed to production.</p>\n</li>\n<li>\n<p><strong>Mentorship by Example:</strong> Coach and unblock your 3-4 engineers through pair programming, deep code reviews, and technical guidance, raising the bar for the entire team.</p>\n</li>\n<li>\n<p><strong>Goal Achievement &amp; Velocity:</strong> Focus relentlessly on hitting team milestones, proactively removing blockers, and keeping team performance sharp.</p>\n</li>\n<li>\n<p><strong>Product Collaboration:</strong> Partner closely with Product Managers to refine features, challenge assumptions when necessary, and turn ambitious ideas into realistic technical tasks.</p>\n</li>\n<li>\n<p><strong>Production Health:</strong> Take pride in what you ship. Ensure your team’s features run smoothly, securely, and efficiently in the cloud, helping to quickly fix issues if they arise.</p>\n</li>\n</div></ul><h2>Qualifications &amp; Profile:</h2><ul>\n<div>\n<li>\n<p><strong>Technical Background:</strong> Deep backend engineering experience building and scaling cloud-native SaaS platforms.</p>\n</li>\n<li>\n<p><strong>Polyglot Developer:</strong> Strong, production-proven experience writing code in Scala, but Python or TypeScript are a big plus.</p>\n</li>\n<li>\n<p><strong>Coding Agent Mastery (Must-Have):</strong> Deep experience using AI coding agents in your day-to-day work. You know how to prompt them effectively, critically review AI-generated code for security or architectural flaws, and use them to maximize your engineering efficiency.</p>\n</li>\n<li>\n<p><strong>Builder Mindset:</strong> You love writing code and building systems. You prefer solving technical puzzles and shipping features over traditional management paperwork.</p>\n</li>\n<li>\n<p><strong>Product Empathy:</strong> You care about the \"why\" behind what you build. You are motivated by achieving product goals and making the platform better for the end user.</p>\n</li>\n<li>\n<p><strong>High-Agency Leadership:</strong> You take absolute responsibility for your team's output. If something is broken or a deadline is at risk, you jump in and fix it.</p>\n</li>\n<li>\n<p><strong>Communication:</strong> Exceptional English skills (written and spoken) to align your small team and collaborate easily with product owners.</p>\n</li>\n</div></ul><h2>What We Offer:</h2><ul>\n<div>\n<li>The chance to be part of an innovative, fast-growing company making a significant impact in the data management space.</li>\n<li>Collaboration with a passionate and diverse team.</li>\n<li>Competitive salary and benefits package.</li>\n<li>Flexible work arrangements (remote or hybrid).</li>\n<li>Opportunities for professional growth and development.</li>\n</div></ul><div>\n<div><strong>Why Join Us? </strong>At Actian, we are passionate about innovation and teamwork. This role is perfect for someone who thrives in a dynamic environment, loves creating an efficient and welcoming workspace, and enjoys working closely with a talented team.</div>\n<div> </div>\n<div><strong>Interested? </strong>We’d love to hear from you! Let’s discuss how you can contribute to our success while growing your career with us.</div>\n<div> </div>\n<div>We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.</div>\n</div>",
-      "pubDate": "2026-08-10T04:30:07+00:00"
     }
   }
 ]
