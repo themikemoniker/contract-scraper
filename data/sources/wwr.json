@@ -1,5 +1,295 @@
 [
   {
+    "id": "wwr:collaboration-ai-senior-software-engineer",
+    "platform": "wwr",
+    "external_id": "collaboration-ai-senior-software-engineer",
+    "title": "Senior Software Engineer",
+    "company": "Collaboration.Ai",
+    "description": "Headquarters: Minneapolis, MN URL: http://collaboration.ai Who We Are Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs that transform industries, empower communities, and create a more sustainable future. We collaborate with organizations across the defense ecosystem, helping them navigate complex challenges and drive transformative change. Our Products NetworkOS — NetworkOS is an AI-powered platform that aligns people, purpose, ideas, and expertise in real-time, generating actionable insights to propel movements forward. CrowdVector — CrowdVector is an integrated solution marketplace and innovation management platform that rapidly uncovers new ideas and advances breakthroughs to fuel movements. To learn more about us, visit collaboration.ai. About the Role You'll ship product across the full NetworkOS stack — Kotlin/Spring Boot microservices through Next.js/React interfaces — keeping the platform reliable, performant, and architected for 10x growth in regulated enterprise and defense environments. This is a hands-on execution seat on a small, senior team. You'll own complete vertical slices from database schema to UI, with no cross-team handoff gaps and no \"not my layer\" excuses. Your code commits move the roadmap — and your work is visible from day one. Whole-stack ownership. Production every week. Code that moves the roadmap. What You'll Do Deliver features end-to-end — own complete vertical slices (PostgreSQL schema, Kotlin service, GraphQL contract, Next.js UI) and ship production features without waiting on handoffs Own core API and service health — design and maintain GraphQL and REST APIs with clean domain boundaries, keeping latency low and reliability high under growing load Master the data layer — design PostgreSQL schemas, optimize queries for scale, manage zero-downtime migrations with Liquibase, and build effective caching strategies Ship with confidence — comprehensive test suites (unit, integration, contract, UI) at 80%+ coverage, with CI/CD quality gates that catch problems before production Build resilient systems — structured logging, distributed tracing, custom metrics, circuit breakers, and graceful degradation patterns Elevate the team — mentor mid-level and junior engineers through code reviews, architectural discussions, and pair programming Automate with agents — build agentic primitives that make everyday full-stack work faster; AI-native development is how we work, not a side experiment Our Tech Stack Backend: Kotlin, Spring Boot, Ktor, Gradle; GraphQL (Netflix DGS); REST/OpenAPI Frontend: Next.js (App Router), React, TypeScript; Turborepo; Tailwind CSS + shadcn/ui Data Layer: PostgreSQL, Liquibase, Kafka, DynamoDB, Amazon S3 AI Integration: Python, FastAPI (LLM-powered service touchpoints) Infrastructure: Docker, Kubernetes (AWS EKS), Helm, ArgoCD CI/CD: GitHub Actions, Codecov, Snyk Observability: DataDog (APM, logs, tracing), OpenTelemetry Security: AWS KMS, AWS Secrets Manager, Auth0 What We're Looking For Must-Haves 5+ years of professional software engineering experience, backend-weighted with real production frontend contributions Strong proficiency in Kotlin and Spring Boot (or Java/Spring with willingness to adopt Kotlin) Working proficiency in TypeScript and React (Next.js preferred) — able to ship UI features within an established design system Solid experience with Python and modern frameworks (FastAPI preferred) Experience with PostgreSQL, relational database design, and migration management Proven track record in continuous delivery environments with automated testing Hands-on Docker, Kubernetes, and AWS; strong grasp of microservices patterns, API design, and distributed systems AI-native workflows — demonstrated ability to leverage Claude Code/Codex or similar agentic coding tools to accelerate development US citizenship required (DoD contracting — IL4/IL5 environments — and FedRAMP compliance) Nice-to-Haves GraphQL API development and schema design at scale LLM/AI integration patterns (structured outputs, LLM workflow orchestration) Security-conscious development and compliance frameworks (SOC 2, NIST 800-171/800-53) Depth in AWS services (EKS, RDS, S3, Secrets Manager) and DataDog observability Greater Twin Cities, MN based Open-source contributions or active technical community involvement Why Join Collaboration AI? Work that matters. We build AI-powered solutions for defense, public sector, and regulated industries — SOC 2 and NIST compliance, FedRAMP readiness, and customers whose missions demand the most trustworthy software. AI-native by default. We build with AI, not just for AI. Agentic coding tools (Claude Code/Codex/etc.), agent SDKs and harnesses, MCP servers, and Agent Skills standards are how we work daily. You'll push the boundaries of what AI tooling can do across the full stack. Real ownership. High-autonomy culture on a small, senior team. You'll own outcomes end-to-end — and your work will be seen, used, and valued. Modern stack, no legacy drag. Cloud-native Kubernetes infrastructure, Kotlin and Next.js, continuous delivery — built for growth, not maintenance mode. &nbsp; To apply: https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "java",
+      "kotlin",
+      "react",
+      "nextjs",
+      "fastapi",
+      "spring",
+      "postgresql",
+      "dynamodb",
+      "aws",
+      "docker",
+      "kubernetes",
+      "github-actions",
+      "helm",
+      "argocd",
+      "datadog",
+      "llm",
+      "kafka",
+      "graphql",
+      "turbo"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-08-17T11:51:08.000Z",
+    "fetched_at": "2026-09-04T01:27:09.946Z",
+    "raw": {
+      "media:content": {
+        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6205/logo.gif",
+        "@_type": "image/png"
+      },
+      "title": "Collaboration.Ai: Senior Software Engineer",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6205/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Minneapolis, MN\n    <br /><strong>URL:</strong> <a href=\"http://collaboration.ai\">http://collaboration.ai</a>\n</p>\n\n<h1>Who We Are</h1>\n<p>Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs that transform industries, empower communities, and create a more sustainable future. We collaborate with organizations across the defense ecosystem, helping them navigate complex challenges and drive transformative change.</p>\n<h1>Our Products</h1>\n<p>NetworkOS — NetworkOS is an AI-powered platform that aligns people, purpose, ideas, and expertise in real-time, generating actionable insights to propel movements forward.</p>\n<p>CrowdVector — CrowdVector is an integrated solution marketplace and innovation management platform that rapidly uncovers new ideas and advances breakthroughs to fuel movements.</p>\n<p>To learn more about us, visit collaboration.ai.</p>\n<h1>About the Role</h1>\n<p>You'll ship product across the full NetworkOS stack — Kotlin/Spring Boot microservices through Next.js/React interfaces — keeping the platform reliable, performant, and architected for 10x growth in regulated enterprise and defense environments.</p>\n<p>This is a hands-on execution seat on a small, senior team. You'll own complete vertical slices from database schema to UI, with no cross-team handoff gaps and no \"not my layer\" excuses. Your code commits move the roadmap — and your work is visible from day one.</p>\n<p>Whole-stack ownership. Production every week. Code that moves the roadmap.</p>\n<h1>What You'll Do</h1>\n<ul>\n<li>\n<p>Deliver features end-to-end — own complete vertical slices (PostgreSQL schema, Kotlin service, GraphQL contract, Next.js UI) and ship production features without waiting on handoffs</p>\n</li>\n<li>\n<p>Own core API and service health — design and maintain GraphQL and REST APIs with clean domain boundaries, keeping latency low and reliability high under growing load</p>\n</li>\n<li>\n<p>Master the data layer — design PostgreSQL schemas, optimize queries for scale, manage zero-downtime migrations with Liquibase, and build effective caching strategies</p>\n</li>\n<li>\n<p>Ship with confidence — comprehensive test suites (unit, integration, contract, UI) at 80%+ coverage, with CI/CD quality gates that catch problems before production</p>\n</li>\n<li>\n<p>Build resilient systems — structured logging, distributed tracing, custom metrics, circuit breakers, and graceful degradation patterns</p>\n</li>\n<li>\n<p>Elevate the team — mentor mid-level and junior engineers through code reviews, architectural discussions, and pair programming</p>\n</li>\n<li>\n<p>Automate with agents — build agentic primitives that make everyday full-stack work faster; AI-native development is how we work, not a side experiment</p>\n</li>\n</ul>\n<h1>Our Tech Stack</h1>\n<ul>\n<li>\n<p>Backend: Kotlin, Spring Boot, Ktor, Gradle; GraphQL (Netflix DGS); REST/OpenAPI</p>\n</li>\n<li>\n<p>Frontend: Next.js (App Router), React, TypeScript; Turborepo; Tailwind CSS + shadcn/ui</p>\n</li>\n<li>\n<p>Data Layer: PostgreSQL, Liquibase, Kafka, DynamoDB, Amazon S3</p>\n</li>\n<li>\n<p>AI Integration: Python, FastAPI (LLM-powered service touchpoints)</p>\n</li>\n<li>\n<p>Infrastructure: Docker, Kubernetes (AWS EKS), Helm, ArgoCD</p>\n</li>\n<li>\n<p>CI/CD: GitHub Actions, Codecov, Snyk</p>\n</li>\n<li>\n<p>Observability: DataDog (APM, logs, tracing), OpenTelemetry</p>\n</li>\n<li>\n<p>Security: AWS KMS, AWS Secrets Manager, Auth0</p>\n</li>\n</ul>\n<h1>What We're Looking For</h1>\n<h2>Must-Haves</h2>\n<ul>\n<li>\n<p>5+ years of professional software engineering experience, backend-weighted with real production frontend contributions</p>\n</li>\n<li>\n<p>Strong proficiency in Kotlin and Spring Boot (or Java/Spring with willingness to adopt Kotlin)</p>\n</li>\n<li>\n<p>Working proficiency in TypeScript and React (Next.js preferred) — able to ship UI features within an established design system</p>\n</li>\n<li>\n<p>Solid experience with Python and modern frameworks (FastAPI preferred)</p>\n</li>\n<li>\n<p>Experience with PostgreSQL, relational database design, and migration management</p>\n</li>\n<li>\n<p>Proven track record in continuous delivery environments with automated testing</p>\n</li>\n<li>\n<p>Hands-on Docker, Kubernetes, and AWS; strong grasp of microservices patterns, API design, and distributed systems</p>\n</li>\n<li>\n<p>AI-native workflows — demonstrated ability to leverage Claude Code/Codex or similar agentic coding tools to accelerate development</p>\n</li>\n<li>\n<p>US citizenship required (DoD contracting — IL4/IL5 environments — and FedRAMP compliance)</p>\n</li>\n</ul>\n<h2>Nice-to-Haves</h2>\n<ul>\n<li>\n<p>GraphQL API development and schema design at scale</p>\n</li>\n<li>\n<p>LLM/AI integration patterns (structured outputs, LLM workflow orchestration)</p>\n</li>\n<li>\n<p>Security-conscious development and compliance frameworks (SOC 2, NIST 800-171/800-53)</p>\n</li>\n<li>\n<p>Depth in AWS services (EKS, RDS, S3, Secrets Manager) and DataDog observability</p>\n</li>\n<li>\n<p>Greater Twin Cities, MN based</p>\n</li>\n<li>\n<p>Open-source contributions or active technical community involvement</p>\n</li>\n</ul>\n<h1>Why Join Collaboration AI?</h1>\n<p>Work that matters. We build AI-powered solutions for defense, public sector, and regulated industries — SOC 2 and NIST compliance, FedRAMP readiness, and customers whose missions demand the most trustworthy software.</p>\n<p>AI-native by default. We build with AI, not just for AI. Agentic coding tools (Claude Code/Codex/etc.), agent SDKs and harnesses, MCP servers, and Agent Skills standards are how we work daily. You'll push the boundaries of what AI tooling can do across the full stack.</p>\n<p>Real ownership. High-autonomy culture on a small, senior team. You'll own outcomes end-to-end — and your work will be seen, used, and valued.</p>\n<p>Modern stack, no legacy drag. Cloud-native Kubernetes infrastructure, Kotlin and Next.js, continuous delivery — built for growth, not maintenance mode.</p>\n<p>&nbsp;</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer\">https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer</a></p>",
+      "pubDate": "Mon, 17 Aug 2026 11:51:08 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer"
+    }
+  },
+  {
+    "id": "wwr:vercel-member-of-the-technical-staff-internal-agent",
+    "platform": "wwr",
+    "external_id": "vercel-member-of-the-technical-staff-internal-agent",
+    "title": "Member of the Technical Staff, Internal Agent",
+    "company": "Vercel",
+    "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience. Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents. We are building the platform for that future, trusted by companies like&nbsp; OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide . Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next. About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience. Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents. We are building the platform for that future, trusted by companies like&nbsp; OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide . Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next. What You Will Do: Design and build V as the primary agentic interface for getting work done across Vercel, from answering questions and analyzing data to executing complex, multi-system workflows. Build the agent architecture that allows V to understand intent, plan work, select the right skills and tools, recover from failures, and complete long-running tasks reliably. Ship polished experiences across Slack, web, and other surfaces, combining natural-language interaction with rich, interactive interfaces when chat alone is not enough. Develop evaluation, observability, and feedback systems that measure whether V’s answers and actions are accurate, useful, efficient, and trustworthy. Establish primitives that make it easy for teams across Vercel to contribute new capabilities without creating fragmented agents or inconsistent user experiences. Help define what it means for a company to be operated through an agent and turn what we learn building V into ideas and infrastructure that can eventually benefit Vercel’s customers. About the Role: You have 7+ years of full-time software engineering experience and strong TypeScript proficiency. You are comfortable working across product surfaces and system boundaries, from conversational UI and interactive data experiences to APIs, queues, databases, permissions, and production infrastructure. You care about the quality of AI interactions: context selection, tool use, memory, latency, generated interfaces, uncertainty, and how the system communicates progress and asks for help. You have a track record of openness and adaptability. You have moved into unfamiliar technologies, domains, or responsibilities and learned quickly. This space is changing too quickly for fixed expertise to matter more than curiosity and judgment. Experience with using and building agent harnesses (OpenClaw, Hermes, Pi, etc) is a plus but not required Benefits: Competitive compensation package, including equity. Inclusive Healthcare Package. Learn and Grow - we provide mentorship and send you to events that help you build your network and skills. Flexible Time Off. We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed. The San Francisco, CA base pay range for this role is $208,000 - $312,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.&nbsp; Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description. &nbsp; To apply: https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "nextjs",
+      "vercel",
+      "llm"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-08-16T07:30:41.000Z",
+    "fetched_at": "2026-09-04T01:27:09.947Z",
+    "raw": {
+      "title": "Vercel: Member of the Technical Staff, Internal Agent",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote - United States\n</p>\n\n<div class=\"content-intro\"><h2>About Vercel:</h2>\n<p><span>Vercel is the agentic infrastructure company. We free people and agents to ship what’s next.</span></p>\n<p><span>For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience.</span></p>\n<p><span>Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents.</span></p>\n<p><span>We are building the platform for that future, trusted by companies like&nbsp;<strong>OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide</strong>. Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next.</span></p></div><h2 class=\"text-heading-24 md:text-heading-32 mb-6\">About Vercel:</h2>\n<p class=\"text-copy-16 text-gray-900 [&amp;_b]:text-gray-1000 my-6 [&amp;_b]:font-semibold [&amp;_i]:not-italic\">Vercel is the agentic infrastructure company. We free people and agents to ship what’s next.</p>\n<p class=\"text-copy-16 text-gray-900 [&amp;_b]:text-gray-1000 my-6 [&amp;_b]:font-semibold [&amp;_i]:not-italic\">For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience.</p>\n<p class=\"text-copy-16 text-gray-900 [&amp;_b]:text-gray-1000 my-6 [&amp;_b]:font-semibold [&amp;_i]:not-italic\">Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents.</p>\n<p class=\"text-copy-16 text-gray-900 [&amp;_b]:text-gray-1000 my-6 [&amp;_b]:font-semibold [&amp;_i]:not-italic\">We are building the platform for that future, trusted by companies like&nbsp;<strong>OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide</strong>. Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next.</p>\n<h2>What You Will Do:</h2>\n<ul>\n<li>Design and build V as the primary agentic interface for getting work done across Vercel, from answering questions and analyzing data to executing complex, multi-system workflows.</li>\n<li>Build the agent architecture that allows V to understand intent, plan work, select the right skills and tools, recover from failures, and complete long-running tasks reliably.</li>\n<li>Ship polished experiences across Slack, web, and other surfaces, combining natural-language interaction with rich, interactive interfaces when chat alone is not enough.</li>\n<li>Develop evaluation, observability, and feedback systems that measure whether V’s answers and actions are accurate, useful, efficient, and trustworthy.</li>\n<li>Establish primitives that make it easy for teams across Vercel to contribute new capabilities without creating fragmented agents or inconsistent user experiences.</li>\n<li>Help define what it means for a company to be operated through an agent and turn what we learn building V into ideas and infrastructure that can eventually benefit Vercel’s customers.</li>\n</ul>\n<h2>About the Role:</h2>\n<ul>\n<li>You have 7+ years of full-time software engineering experience and strong TypeScript proficiency.</li>\n<li>You are comfortable working across product surfaces and system boundaries, from conversational UI and interactive data experiences to APIs, queues, databases, permissions, and production infrastructure.</li>\n<li>You care about the quality of AI interactions: context selection, tool use, memory, latency, generated interfaces, uncertainty, and how the system communicates progress and asks for help.</li>\n<li>You have a track record of openness and adaptability. You have moved into unfamiliar technologies, domains, or responsibilities and learned quickly. This space is changing too quickly for fixed expertise to matter more than curiosity and judgment.</li>\n<li>Experience with using and building agent harnesses (OpenClaw, Hermes, Pi, etc) is a plus but not required</li>\n</ul>\n<h2>Benefits:</h2>\n<ul>\n<li>Competitive compensation package, including equity.</li>\n<li>Inclusive Healthcare Package.</li>\n<li>Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.</li>\n<li>Flexible Time Off.</li>\n<li>We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.</li>\n</ul>\n<p><span>The San Francisco, CA base pay range for this role is $208,000 - $312,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.&nbsp;</span></p>\n<p>Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.</p>\n<p>&nbsp;</p>\n<div></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent\">https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent</a></p>",
+      "pubDate": "Sun, 16 Aug 2026 07:30:41 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent",
+      "link": "https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent"
+    }
+  },
+  {
+    "id": "wwr:vercel-grc-analyst",
+    "platform": "wwr",
+    "external_id": "vercel-grc-analyst",
+    "title": "GRC Analyst",
+    "company": "Vercel",
+    "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience. Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents. We are building the platform for that future, trusted by companies like&nbsp; OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide . Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next. About the role: We are looking for a GRC Analyst to join our Governance, Risk &amp; Compliance (GRC) team. You will have the opportunity to manage and maintain ongoing compliance with security and privacy frameworks, policies, procedures, and commercial assessments, including ISO 27001, SOC 2, HIPAA, PCI DSS, and more. Your role will be instrumental in ensuring that our company operates ethically, responsibly, and in accordance with regulatory requirements. You will collaborate with cross-functional teams to promote a culture of accountability and integrity throughout the organization and foster an environment where everyone understands the importance of adhering to established guidelines and ethical practices. You will report to the Head of GRC and will be located ((remote, onsite, hybrid)). Think you may not have all the skills and are hesitant to apply? There is no “perfect” candidate and encourage you to apply if you think that you can bring value to our team and are passionate and committed to upholding the highest standards of compliance and ethics. If you’re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday, even if the role is listed as remote. For location-specific details, please connect with our recruiting team. What you will do: Collaborate with internal teams to maintain an effective suite of internal controls and driving remediation efforts to completion with clear documentation of progress. Build strong working relationships across the business so compliance accountability is shared and stakeholders are informed. Streamline annual audits by managing audit deliverables, developing treatment plans, and coordinating across teams to document and track completion to ensure audit success. Monitor and improve controls , processes, and evidence management practices, identify opportunities to automate and streamline GRC operations, and contribute to controls maturity scoring and reporting Enable go-to-market teams and accelerate deal cycles by supporting security questionnaires, addressing compliance inquiries, and maintaining clear, customer-facing documentation on Vercel’s security and compliance posture. Design and manage company training and enhance visibility on compliance-specific topics for internal stakeholders to ensure an understanding of compliance, ethics, and regulatory requirements within the organization. About you: At least 3 years of relevant experience in supporting the audit lifecycle in a cloud-centric environment (SOC 2, ISO 27001, PCI, HIPAA, etc.), with strong organizational skills to be flexible and proactive in a high-growth, start-up environment. Experience collaborating closely with internal partners to seamlessly incorporate policies and technical controls into the SDLC. Strong project management skills and sense of ownership with the ability to communicate and collaborate effectively, and execute projects across various business units and levels. Bonus if you have : Strong experience with cloud infrastructure (e.g., Azure, AWS) Familiarity with compliance or software development tools and systems (e.g., Drata, Linear, Datadog, etc.) Experience with frontend development and open source components Relevant industry certifications (i.e., CISM, CISSP, CCEP) is a plus, but not required Benefits: Competitive compensation package, including equity. Inclusive Healthcare Package. Learn and Grow - we provide mentorship and send you to events that help you build your network and skills. Flexible Time Off. We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed. The San Francisco, CA base pay range for this role is $134,000-$202,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process. &nbsp; To apply: https://weworkremotely.com/remote-jobs/vercel-grc-analyst",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-grc-analyst",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "nextjs",
+      "aws",
+      "azure",
+      "vercel",
+      "datadog",
+      "llm"
+    ],
+    "tags": [
+      "programming",
+      "Front-End Programming"
+    ],
+    "posted_at": "2026-08-16T07:30:32.000Z",
+    "fetched_at": "2026-09-04T01:27:09.948Z",
+    "raw": {
+      "title": "Vercel: GRC Analyst",
+      "region": "Anywhere in the World",
+      "category": "Front-End Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote - United States\n</p>\n\n<div class=\"content-intro\"><h2>About Vercel:</h2>\n<p><span>Vercel is the agentic infrastructure company. We free people and agents to ship what’s next.</span></p>\n<p><span>For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience.</span></p>\n<p><span>Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents.</span></p>\n<p><span>We are building the platform for that future, trusted by companies like&nbsp;<strong>OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide</strong>. Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next.</span></p></div><h2>About the role:</h2>\n<p>We are looking for a GRC Analyst to join our Governance, Risk &amp; Compliance (GRC) team. You will have the opportunity to manage and maintain ongoing compliance with security and privacy frameworks, policies, procedures, and commercial assessments, including ISO 27001, SOC 2, HIPAA, PCI DSS, and more. Your role will be instrumental in ensuring that our company operates ethically, responsibly, and in accordance with regulatory requirements.</p>\n<p>You will collaborate with cross-functional teams to promote a culture of accountability and integrity throughout the organization and foster an environment where everyone understands the importance of adhering to established guidelines and ethical practices. You will report to the Head of GRC and will be located ((remote, onsite, hybrid)).</p>\n<p>Think you may not have all the skills and are hesitant to apply? There is no “perfect” candidate and encourage you to apply if you think that you can bring value to our team and are passionate and committed to upholding the highest standards of compliance and ethics.</p>\n<p>If you’re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday, even if the role is listed as remote. For location-specific details, please connect with our recruiting team.</p>\n<h2>What you will do:</h2>\n<ul>\n<li><strong>Collaborate with internal teams</strong> to maintain an effective suite of internal controls and driving remediation efforts to completion with clear documentation of progress.</li>\n<li><strong>Build strong working relationships</strong> across the business so compliance accountability is shared and stakeholders are informed.</li>\n<li><strong>Streamline annual audits</strong> by managing audit deliverables, developing treatment plans, and coordinating across teams to document and track completion to ensure audit success.</li>\n<li><strong>Monitor and improve controls</strong>, processes, and evidence management practices, identify opportunities to automate and streamline GRC operations, and contribute to controls maturity scoring and reporting</li>\n<li><strong>Enable go-to-market teams and accelerate deal cycles</strong> by supporting security questionnaires, addressing compliance inquiries, and maintaining clear, customer-facing documentation on Vercel’s security and compliance posture.</li>\n<li><strong>Design and manage company training</strong> and enhance visibility on compliance-specific topics for internal stakeholders to ensure an understanding of compliance, ethics, and regulatory requirements within the organization.</li>\n</ul>\n<h2>About you:</h2>\n<ul>\n<li>At least 3 years of relevant experience in supporting the audit lifecycle in a cloud-centric environment (SOC 2, ISO 27001, PCI, HIPAA, etc.), with strong organizational skills to be flexible and proactive in a high-growth, start-up environment.</li>\n<li>Experience collaborating closely with internal partners to seamlessly incorporate policies and technical controls into the SDLC.</li>\n<li>Strong project management skills and sense of ownership with the ability to communicate and collaborate effectively, and execute projects across various business units and levels.</li>\n</ul>\n<h2>Bonus if you have :</h2>\n<ul>\n<li>Strong experience with cloud infrastructure (e.g., Azure, AWS)</li>\n<li>Familiarity with compliance or software development tools and systems (e.g., Drata, Linear, Datadog, etc.)</li>\n<li>Experience with frontend development and open source components</li>\n<li>Relevant industry certifications (i.e., CISM, CISSP, CCEP) is a plus, but not required</li>\n</ul>\n<h2><strong>Benefits:</strong></h2>\n<ul>\n<li>Competitive compensation package, including equity.</li>\n<li>Inclusive Healthcare Package.</li>\n<li>Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.</li>\n<li>Flexible Time Off.</li>\n<li>We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.</li>\n</ul>\n<p>The San Francisco, CA base pay range for this role is $134,000-$202,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.</p>\n<p>&nbsp;</p>\n<div></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/vercel-grc-analyst\">https://weworkremotely.com/remote-jobs/vercel-grc-analyst</a></p>",
+      "pubDate": "Sun, 16 Aug 2026 07:30:32 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/vercel-grc-analyst",
+      "link": "https://weworkremotely.com/remote-jobs/vercel-grc-analyst"
+    }
+  },
+  {
+    "id": "wwr:hightouch-application-security-lead",
+    "platform": "wwr",
+    "external_id": "hightouch-application-security-lead",
+    "title": "Application Security Lead",
+    "company": "Hightouch",
+    "description": "Headquarters: Remote (North America) About Hightouch Hightouch is an Agentic Marketing Platform powered by the industry-leading Composable CDP. With complete brand context, customer data, and performance history in one place, every marketer finally has the power to build and ship end-to-end campaigns themselves. Teams move faster, stay on brand, and get AI marketing that actually works. Founded in 2019 and headquartered in San Francisco, Hightouch enables marketing teams to analyze performance, brainstorm ideas, and generate creative at a speed and quality that wasn't previously possible. Named a Leader in the 2026 Gartner® Magic Quadrant™ for Customer Data Platforms, Hightouch is trusted by leading enterprises like Domino's, Spotify, Aritzia, Cars.com, Ramp, and PetSmart. At Hightouch, our mission is to help our customers leverage data and AI to grow their businesses. The team is ambitious, impact-driven, efficient — and we believe humility, kindness, and compassion are essential to our success. If you're energized by velocity, obsessed with raising the bar, and want to build alongside people who care deeply about each other and our customers, we'd love to meet you. About the Role This is our first dedicated security hire, and it's a rare chance to define the function from the ground up. You'll own Hightouch's application security posture end-to-end. We have strong engineering fundamentals and a solid foundation; now you'll shape what security looks like here as we scale from 70 to 140+ engineers. This is a hands-on, high-autonomy role. You'll spend most of your time in the codebase, not in meetings. You’ll be solving hard problems at the intersection of security and distributed systems: Multi-tenant isolation on a system running ~1M data syncs per day and ingesting 100K+ events/sec Sub-tenant access control - for multi-team and multi-brand use cases, requiring differentiated access to configuration and data Security architecture - Build and refine our frameworks for compute isolation and perform threat modeling and hardening of new products Internet-facing APIs - Our high-throughput, internet-facing architecture services customer data at scale. You’ll improve our rate limiting, abuse detection, and granularity of access control Multi-Region and Multi-Cloud - &nbsp;Supporting our multi-region and multi-cloud backend, including extending it to launch Hightouch on in new regions to support data residency requirements of our global customer base You'll own your roadmap. We're not looking for someone to run a checklist — we're looking for someone who can look at our architecture, identify the highest-leverage problems, and go fix them. We are looking for talented, intellectually curious, and motivated individuals who are interested in tackling the problems above. This is a senior role, but we focus on impact and potential for growth more than years of experience. The salary range for this position is $180,000 - $400,000 USD per year, which is location independent in accordance with our remote-first policy. We also offer meaningful equity compensation in the form of ISO options, and offer early exercise and a 10 year post-termination exercise window. About You You’ve been an early security hire at a SaaS company before and moved the needle on how they approach security. You can read application code, threat model a distributed system, and ship production fixes. You have significant distributed systems expertise so that you can understand and influence what is being built by the product teams and influence from a place of trust. Experience that's relevant: Being an early security hire (first 1-3) at a SaaS or data infrastructure company Securing multi-tenant platforms: tenant isolation, authorization models, etc Cloud security on systems that span more than one cloud and operate against customer-owned accounts Design and build of data infrastructure as an early engineer, not just a user. You helped secure it from early design or during major redesigns. You understand how it scales and how it’s secured Privacy-adjacent security (PII handling, data residency, GDPR/CCPA technical controls) We don't care about certifications. We care about what you've built. Interview Process Recruiter Screen [30m] - Introductory mutual fit assessment Security Architecture Interview [60m] - Threat model discussion of a real-ish system, followed by a systems design exercise Core interview [90m] - deep dive on distributed systems knowledge Hiring Manager Interview [60m] - What you've built in the past, how you work Security Program Interview [60m] with Head of Engineering — How you've run security programs in practice: bug bounty, pentest engagements, working with external researchers, and partnering across engineering to drive adoption. E-Verify Statement Hightouch participates in E-Verify. After you join the team, we'll verify your eligibility to work in the U.S. by submitting information from your Form I-9 to the Social Security Administration and, if needed, the Department of Homeland Security. This process happens post-hire only — we never use E-Verify to pre-screen applicants. E-Verify Notice E-Verify Notice (Spanish) Right to Work Notice Right to Work Notice (Spanish) To apply: https://weworkremotely.com/remote-jobs/hightouch-application-security-lead",
+    "url": "https://weworkremotely.com/remote-jobs/hightouch-application-security-lead",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-08-16T07:30:32.000Z",
+    "fetched_at": "2026-09-04T01:27:09.949Z",
+    "raw": {
+      "title": "Hightouch: Application Security Lead",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote (North America)\n</p>\n\n<div class=\"content-intro\"><h2>About Hightouch</h2>\n<p>Hightouch is an Agentic Marketing Platform powered by the industry-leading Composable CDP. With complete brand context, customer data, and performance history in one place, every marketer finally has the power to build and ship end-to-end campaigns themselves. Teams move faster, stay on brand, and get AI marketing that actually works.</p>\n<p>Founded in 2019 and headquartered in San Francisco, Hightouch enables marketing teams to analyze performance, brainstorm ideas, and generate creative at a speed and quality that wasn't previously possible.</p>\n<p>Named a Leader in the 2026 Gartner® Magic Quadrant™ for Customer Data Platforms, Hightouch is trusted by leading enterprises like Domino's, Spotify, Aritzia, Cars.com, Ramp, and PetSmart.</p>\n<p>At Hightouch, our mission is to help our customers leverage data and AI to grow their businesses. The team is ambitious, impact-driven, efficient — and we believe humility, kindness, and compassion are essential to our success. If you're energized by velocity, obsessed with raising the bar, and want to build alongside people who care deeply about each other and our customers, we'd love to meet you.</p></div><h2><strong>About</strong> <strong>the</strong> <strong>Role</strong></h2>\n<p>This is our first dedicated security hire, and it's a rare chance to define the function from the ground up. You'll own Hightouch's application security posture end-to-end. We have strong engineering fundamentals and a solid foundation; now you'll shape what security looks like here as we scale from 70 to 140+ engineers.</p>\n<p>This is a hands-on, high-autonomy role. You'll spend most of your time in the codebase, not in meetings. You’ll be solving hard problems at the intersection of security and distributed systems:</p>\n<ul>\n<li><strong>Multi-tenant</strong> <strong>isolation</strong> on a system running ~1M data syncs per day and ingesting 100K+ events/sec</li>\n<li><strong>Sub-tenant access control</strong> - for multi-team and multi-brand use cases, requiring differentiated access to configuration and data</li>\n<li><strong>Security</strong> <strong>architecture</strong> - Build and refine our frameworks for compute isolation and perform threat modeling and hardening of new products</li>\n<li><strong>Internet-facing APIs</strong> - Our high-throughput, internet-facing architecture services customer data at scale. You’ll improve our rate limiting, abuse detection, and granularity of access control</li>\n<li><strong>Multi-Region and Multi-Cloud -</strong>&nbsp;Supporting our multi-region and multi-cloud backend, including extending it to launch Hightouch on in new regions to support data residency requirements of our global customer base</li>\n</ul>\n<p>You'll own your roadmap. We're not looking for someone to run a checklist — we're looking for someone who can look at our architecture, identify the highest-leverage problems, and go fix them.</p>\n<p>We are looking for talented, intellectually curious, and motivated individuals who are interested in tackling the problems above. This is a senior role, but we focus on impact and potential for growth more than years of experience. The salary range for this position is $180,000 - $400,000 USD per year, which is location independent in accordance with our remote-first policy. We also offer meaningful equity compensation in the form of ISO options, and offer early exercise and a 10 year post-termination exercise window.</p>\n<h2><strong>About</strong> <strong>You</strong></h2>\n<p>You’ve been an early security hire at a SaaS company before and moved the needle on how they approach security. You can read application code, threat model a distributed system, and ship production fixes. You have significant distributed systems expertise so that you can understand and influence what is being built by the product teams and influence from a place of trust.</p>\n<p>Experience that's relevant:</p>\n<ul>\n<li>Being an early security hire (first 1-3) at a SaaS or data infrastructure company</li>\n<li>Securing multi-tenant platforms: tenant isolation, authorization models, etc</li>\n<li>Cloud security on systems that span more than one cloud and operate against customer-owned accounts</li>\n<li>Design and build of data infrastructure as an early engineer, not just a user. You helped secure it from early design or during major redesigns. You understand how it scales and how it’s secured</li>\n<li>Privacy-adjacent security (PII handling, data residency, GDPR/CCPA technical controls)</li>\n</ul>\n<p>We don't care about certifications. We care about what you've built.</p>\n<h2><strong>Interview</strong> <strong>Process</strong></h2>\n<ol>\n<li>\n<p><strong>Recruiter</strong> <strong>Screen</strong> <strong>[30m]</strong> - Introductory mutual fit assessment</p>\n</li>\n<li>\n<p><strong>Security Architecture Interview</strong> <strong>[60m]</strong> - Threat model discussion of a real-ish system, followed by a systems design exercise</p>\n</li>\n<li>\n<p><strong>Core interview [90m]</strong> - deep dive on distributed systems knowledge</p>\n</li>\n<li>\n<p><strong>Hiring</strong> <strong>Manager</strong> <strong>Interview</strong> <strong>[60m]</strong> - What you've built in the past, how you work</p>\n</li>\n<li>\n<p><strong>Security Program Interview [60m]</strong> with Head of Engineering — How you've run security programs in practice: bug bounty, pentest engagements, working with external researchers, and partnering across engineering to drive adoption.</p>\n</li>\n</ol><div class=\"content-conclusion\"><p><strong>E-Verify Statement</strong></p>\n<p><em>Hightouch participates in E-Verify. After you join the team, we'll verify your eligibility to work in the U.S. by submitting information from your Form I-9 to the Social Security Administration and, if needed, the Department of Homeland Security. This process happens post-hire only — we never use E-Verify to pre-screen applicants.</em></p>\n<p><em><br></em><a href=\"https://www.rhoworld.com/wp-content/uploads/E-Verify_Participation_Poster-1.pdf\"><em>E-Verify Notice</em><em><br></em></a><a href=\"https://www.rhoworld.com/wp-content/uploads/E-Verify_Participation_Poster_ES-1.pdf\"><em>E-Verify Notice (Spanish)</em><em><br></em></a><a href=\"https://www.rhoworld.com/wp-content/uploads/ier_poster_final.pdf\"><em>Right to Work Notice</em><em><br></em></a><a href=\"https://www.rhoworld.com/wp-content/uploads/spanish_ier_poster_final.pdf\"><em>Right to Work Notice (Spanish)</em></a></p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/hightouch-application-security-lead\">https://weworkremotely.com/remote-jobs/hightouch-application-security-lead</a></p>",
+      "pubDate": "Sun, 16 Aug 2026 07:30:32 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/hightouch-application-security-lead",
+      "link": "https://weworkremotely.com/remote-jobs/hightouch-application-security-lead"
+    }
+  },
+  {
+    "id": "wwr:okx-affiliate-bd-manager-taiwan",
+    "platform": "wwr",
+    "external_id": "okx-affiliate-bd-manager-taiwan",
+    "title": "Affiliate BD Manager (Taiwan)",
+    "company": "OKX",
+    "description": "Headquarters: Taiwan (Remote) Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. &nbsp; OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps).&nbsp;OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves.&nbsp; &nbsp; Across our multiple offices globally, we are united by our core principles: We Before Me , Do the Right Thing , and Get Things Done . These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. &nbsp; OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more. About The Opportunity What You’ll Be Doing&nbsp; Develop, manage, and optimize affiliate campaigns; Develop new affiliate network and improve the performance of existing affiliates. Mainly focus on expanding the influencer resources in local market, which could bring trading users and income to the platform. Devise creative ways to identify potential affiliates. Optimize the strategy of business develop and plan corresponding actions to ensure the conversion rate. Analyze user habits and user behavior, and judge the trend of business development. What We Look For In You&nbsp; Bachelor degree or above. 3+ years of affiliate marketing/ business development experience in the Cryptocurrency space. Experience in building large affiliate networks from start to finish. Experience with analytical tools and reporting such as Google Analytics and Amplitude. Understanding of fundamental affiliate customer acquisition KPIs and optimization methods to improve performance through data analysis and segmentation. Fluency in Mandarin. Perks &amp; Benefits&nbsp; Competitive total compensation package L&amp;D programs and education subsidy for employees' growth and development Various team building programs and company events More that we love to tell you along the process! Notice: All official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website. Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to&nbsp; OKX 's Candidate Privacy Notice . To apply: https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan",
+    "url": "https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "blockchain",
+      "amplitude"
+    ],
+    "tags": [
+      "programming",
+      "Front-End Programming"
+    ],
+    "posted_at": "2026-08-15T07:31:27.000Z",
+    "fetched_at": "2026-09-04T01:27:09.950Z",
+    "raw": {
+      "title": "OKX: Affiliate BD Manager (Taiwan)",
+      "region": "Anywhere in the World",
+      "category": "Front-End Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Taiwan (Remote)\n</p>\n\n<div class=\"ace-line ace-line old-record-id-doxuseysYUio6Qia64JLLAwE7dh\">\n<div>\n<div class=\"ace-line ace-line old-record-id-doxusaUYeCmu82WSkkm5KDd00db\">\n<div>\n<div class=\"ace-line ace-line old-record-id-OqGZdUPi6oJlXzxlmNiu3gAmsVg\">\n<div>\n<div>\n<div class=\"ace-line ace-line old-record-id-doxuseysYUio6Qia64JLLAwE7dh\">\n<div>\n<div class=\"ace-line ace-line old-record-id-doxusaUYeCmu82WSkkm5KDd00db\">\n<div>\n<h2><strong>Who We Are</strong></h2>\n<div class=\"ace-line ace-line old-record-id-doxustOiFVk8C3Uy4rotl5Nem5f\">\n<div>\n<div class=\"ace-line ace-line old-record-id-Q479dQIlZozY6cxcPNFuoY1rsxe\">\n<div>\n<div class=\"rich-text-paragraph\">\n<div class=\"ace-line ace-line old-record-id-Y9usd0Vc5oLuEZxvabeuEyXOsih\">\n<div>\n<div class=\"ace-line ace-line old-record-id-Cfb8dvi9voxFkWxhNcmuJX50sZb\">At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom.</div>\n<div class=\"ace-line ace-line old-record-id-Cfb8dvi9voxFkWxhNcmuJX50sZb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Cfb8dvi9voxFkWxhNcmuJX50sZb\">OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps).&nbsp;OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves.&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Cfb8dvi9voxFkWxhNcmuJX50sZb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Cfb8dvi9voxFkWxhNcmuJX50sZb\">Across our multiple offices globally, we are united by our core principles: <em>We Before Me</em>, <em>Do the Right Thing</em>, and <em>Get Things Done</em>. These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er.</div>\n<div class=\"ace-line ace-line old-record-id-Cfb8dvi9voxFkWxhNcmuJX50sZb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Cfb8dvi9voxFkWxhNcmuJX50sZb\">OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<h2 class=\"heading-2 ace-line old-record-id-doxus9qcafz8J9vhi3nwZgrckWg\"><strong>About The Opportunity</strong></h2>\n<h3 class=\"heading-2 ace-line old-record-id-doxushHxPgvpIV0pJrijghkWDWe\"><strong>What You’ll Be Doing&nbsp;</strong></h3>\n<div>\n<ul>\n<li>Develop, manage, and optimize affiliate campaigns; Develop new affiliate network and improve the performance of existing affiliates.</li>\n<li>Mainly focus on expanding the influencer resources in local market, which could bring trading users and income to the platform.</li>\n<li>Devise creative ways to identify potential affiliates.</li>\n<li>Optimize the strategy of business develop and plan corresponding actions to ensure the conversion rate.</li>\n<li>Analyze user habits and user behavior, and judge the trend of business development.</li>\n</ul>\n</div>\n<h3 class=\"heading-2 ace-line old-record-id-doxusWnZPeJsdMU53QGew90VQeh\"><strong>What We Look For In You&nbsp;</strong></h3>\n<div>\n<ul>\n<li>Bachelor degree or above.</li>\n<li>3+ years of affiliate marketing/ business development experience in the Cryptocurrency space.</li>\n<li>Experience in building large affiliate networks from start to finish.</li>\n<li>Experience with analytical tools and reporting such as Google Analytics and Amplitude.</li>\n<li>Understanding of fundamental affiliate customer acquisition KPIs and optimization methods to improve performance through data analysis and segmentation.</li>\n<li>Fluency in Mandarin.</li>\n</ul>\n</div>\n<h2><strong>Perks &amp; Benefits&nbsp;</strong></h2>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-Gb04dtjtMoHmldxfAjXuI6P4snC\">\n<div>Competitive total compensation package</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-Gb04dtjtMoHmldxfAjXuI6P4snC\">L&amp;D programs and education subsidy for employees' growth and development</li>\n<li class=\"ace-line ace-line old-record-id-doxusfCPfNQIPMLDddcFHLcCJRC\">\n<div>Various team building programs and company events</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxusfCPfNQIPMLDddcFHLcCJRC\">More that we love to tell you along the process!</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div><div class=\"content-conclusion\"><div><span class=\"text-only\"><span class=\"text-only\"><span class=\"text-only\">Notice:<br></span></span></span>\n<div><span class=\"text-only\"><span class=\"text-only\">All official </span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline\">OKX</span><span class=\"text-only\"> vacancies are published on this website.</span></span> <span class=\"text-only\"><span class=\"text-only\">While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. </span></span><strong><span class=\"text-only\"><span class=\"text-only\">If in doubt, please apply directly through our official careers website.</span></span></strong></div>\n</div>\n<div><span class=\"text-only\"><span class=\"text-only\">Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to&nbsp;</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline\">OKX</span><span class=\"text-only\">'s </span></span><a class=\"link rich-text-anchor __anchor-intercept-flag__ text-content-link\" href=\"https://www.okx.com/en-eu/help/okx-candidate-privacy-notice\">Candidate Privacy Notice</a><span class=\"text-only\"><span class=\"text-only\">.</span></span></div></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan\">https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan</a></p>",
+      "pubDate": "Sat, 15 Aug 2026 07:31:27 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan",
+      "link": "https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan"
+    }
+  },
+  {
+    "id": "wwr:zoominfo-technologies-llc-principal-business-intelligence-analyst",
+    "platform": "wwr",
+    "external_id": "zoominfo-technologies-llc-principal-business-intelligence-analyst",
+    "title": "Principal Business Intelligence Analyst",
+    "company": "ZoomInfo Technologies LLC",
+    "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. Overview We are seeking a Principal Product Analyst to own ZoomInfo's PLG measurement system - the framework that defines how the company evaluates customer adoption, monetization, retention, and growth across its product portfolio. &nbsp; This is not a traditional reporting or dashboarding role. It is a strategic leadership role responsible for defining how the organization measures PLG success, identifying the behaviors that drive business outcomes, and generating the insights that shape product investments and growth strategy. &nbsp; The ideal candidate combines strong analytical depth with operational rigor and a builder mentality. They are comfortable operating in ambiguity, leading investigations from scratch, and influencing decisions across Product, Engineering, Go-To-Market, and Leadership teams. They also embrace AI-native ways of working, leveraging automation and emerging technologies to fundamentally improve how analytics is performed and scaled. PLG experience is a plus but not required.&nbsp; &nbsp; What You'll Do Product Growth Measurement &amp; Operating System Define and own the measurement framework for ZoomInfo’s PLG motion, including acquisition, activation, engagement, monetization, retention, and expansion. Establish the company’s source of truth for PLG performance, including KPI definitions, scorecards, executive reporting, and performance benchmarks. Define leading indicators that predict customer activation, product adoption, conversion, retention, and expansion outcomes. Ensure measurement consistency across products, teams, and business units, enabling a unified view of customer growth and product performance. Develop scalable frameworks that connect customer behavior to business outcomes and investment decisions. Customer Journey Analytics &amp; Growth Diagnostics: Own analytical understanding of the end-to-end customer journey, from acquisition and onboarding through monetization and long-term retention. Identify behavioral patterns, friction points, and conversion barriers that impact activation, adoption, retention, and expansion. Develop customer segmentation frameworks that reveal differences in growth outcomes across personas, customer segments, and product experiences. Lead investigations into significant changes in PLG performance, diagnosing root causes and quantifying business impact. Identify the behaviors and product experiences most strongly associated with successful customer outcomes and long-term value creation. Product Strategy &amp; Growth Insights Influence product investment and roadmap decisions by quantifying opportunity size, identifying high-leverage growth opportunities, and evaluating tradeoffs across competing initiatives. Serve as a strategic advisor to Product, Growth, and GTM leadership on customer behavior trends, adoption patterns, and monetization opportunities. Build analytical frameworks that help teams prioritize investments across onboarding, activation, engagement, monetization, retention, and expansion. Define measurement strategies for major product initiatives and ensure business impact is accurately assessed. Guide experimentation efforts across the PLG funnel, helping teams prioritize, evaluate, and scale growth opportunities. Deliver executive-level insights that inform product strategy, growth planning, and resource allocation. AI-Native Analytics &amp; Operational Excellence Redesign analytics workflows around AI-first operating principles rather than traditional manual processes. Build automated systems that continuously monitor product performance, surface anomalies, and identify growth opportunities at scale. Develop AI-assisted investigation workflows that accelerate root-cause analysis and reduce time-to-insight. Establish scalable reporting and monitoring infrastructure that minimizes manual effort while maintaining analytical rigor. Continuously evaluate emerging AI capabilities and incorporate them into the analytics operating model. Improve self-service analytics capabilities while maintaining governance, consistency, and trust in data. Cross-Functional Leadership Act as a trusted strategic partner to Product, Engineering, Product Marketing, Sales, Customer Success, and Executive Leadership. Align teams around a shared understanding of PLG performance, customer behavior, and growth priorities. Lead cross-functional initiatives from opportunity identification through execution, measurement, and business impact assessment. Elevate analytical standards and foster a culture of data-informed decision making across the organization. &nbsp; About You You think in customer journeys, growth loops, and behavioral systems rather than isolated metrics. You enjoy solving ambiguous business problems and creating structure where none exists. You are naturally curious about why customers adopt, convert, expand, or churn. You balance strategic thinking with hands-on analytical execution. You are comfortable influencing senior stakeholders through data, storytelling, and business context. You actively leverage AI tools such as Claude, Claude Code, or similar technologies to automate workflows, accelerate investigations, and improve analytical output. What You Bring 8+ years of experience in Product Analytics, Growth Analytics, Data Science, Business Intelligence, Customer Analytics, Strategy, or related fields. Demonstrated ability to independently lead large-scale analytical initiatives with measurable business impact. Advanced SQL, Python skills and strong analytical foundations. Experience conducting deep-dive analyses into customer behavior, product performance, and business outcomes. Strong statistical and experimentation knowledge. Experience translating complex data into actionable business recommendations. Proven ability to influence senior stakeholders and drive decisions through data. Strong project management and prioritization skills. Experience building scalable reporting, monitoring, and operational processes. &nbsp; Preferred Qualifications Experience supporting Product-Led Growth or self-service SaaS organizations. Experience with SaaS business models and customer lifecycle analytics. Experience leveraging AI tools to improve analytical workflows and operational efficiency. &nbsp; Success in This Role Means ZoomInfo has a clear and consistent framework for measuring PLG success across products and teams. Product and business leaders understand the behavioral drivers of activation, adoption, retention, and expansion. Growth opportunities and performance risks are identified proactively rather than reactively. Product investments are prioritized using measurable customer and business impact. Analytics workflows scale efficiently through automation and AI-enabled processes. Cross-functional teams view analytics as a strategic partner that shapes business decisions, not just a reporting function. Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive. In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits here . Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply. $136,500 — $214,500 USD About us: &nbsp; ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller. ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant Privacy Notice for more details on how we handle your personal information. ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available here . ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements. For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location. To apply: https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
+    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "llm"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-08-15T07:31:27.000Z",
+    "fetched_at": "2026-09-04T01:27:09.952Z",
+    "raw": {
+      "title": "ZoomInfo Technologies LLC: Principal Business Intelligence Analyst",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote\n</p>\n\n<div class=\"content-intro\"><p>ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.</p></div><h1>Overview</h1>\n<p>We are seeking a Principal Product Analyst to own ZoomInfo's PLG measurement system - the framework that defines how the company evaluates customer adoption, monetization, retention, and growth across its product portfolio.</p>\n<p>&nbsp;</p>\n<p>This is not a traditional reporting or dashboarding role. It is a strategic leadership role responsible for defining how the organization measures PLG success, identifying the behaviors that drive business outcomes, and generating the insights that shape product investments and growth strategy.</p>\n<p>&nbsp;</p>\n<p>The ideal candidate combines strong analytical depth with operational rigor and a builder mentality. They are comfortable operating in ambiguity, leading investigations from scratch, and influencing decisions across Product, Engineering, Go-To-Market, and Leadership teams. They also embrace AI-native ways of working, leveraging automation and emerging technologies to fundamentally improve how analytics is performed and scaled. PLG experience is a plus but not required.&nbsp;</p>\n<p>&nbsp;</p>\n<h1>What You'll Do</h1>\n<h3>Product Growth Measurement &amp; Operating System</h3>\n<ul>\n<li>Define and own the measurement framework for ZoomInfo’s PLG motion, including acquisition, activation, engagement, monetization, retention, and expansion.</li>\n<li>Establish the company’s source of truth for PLG performance, including KPI definitions, scorecards, executive reporting, and performance benchmarks.</li>\n<li>Define leading indicators that predict customer activation, product adoption, conversion, retention, and expansion outcomes.</li>\n<li>Ensure measurement consistency across products, teams, and business units, enabling a unified view of customer growth and product performance.</li>\n<li>Develop scalable frameworks that connect customer behavior to business outcomes and investment decisions.</li>\n</ul>\n<h3>Customer Journey Analytics &amp; Growth Diagnostics:</h3>\n<ul>\n<li>Own analytical understanding of the end-to-end customer journey, from acquisition and onboarding through monetization and long-term retention.</li>\n<li>Identify behavioral patterns, friction points, and conversion barriers that impact activation, adoption, retention, and expansion.</li>\n<li>Develop customer segmentation frameworks that reveal differences in growth outcomes across personas, customer segments, and product experiences.</li>\n<li>Lead investigations into significant changes in PLG performance, diagnosing root causes and quantifying business impact.</li>\n<li>Identify the behaviors and product experiences most strongly associated with successful customer outcomes and long-term value creation.</li>\n</ul>\n<h3>Product Strategy &amp; Growth Insights</h3>\n<ul>\n<li>Influence product investment and roadmap decisions by quantifying opportunity size, identifying high-leverage growth opportunities, and evaluating tradeoffs across competing initiatives.</li>\n<li>Serve as a strategic advisor to Product, Growth, and GTM leadership on customer behavior trends, adoption patterns, and monetization opportunities.</li>\n<li>Build analytical frameworks that help teams prioritize investments across onboarding, activation, engagement, monetization, retention, and expansion.</li>\n<li>Define measurement strategies for major product initiatives and ensure business impact is accurately assessed.</li>\n<li>Guide experimentation efforts across the PLG funnel, helping teams prioritize, evaluate, and scale growth opportunities.</li>\n<li>Deliver executive-level insights that inform product strategy, growth planning, and resource allocation.</li>\n</ul>\n<h3>AI-Native Analytics &amp; Operational Excellence</h3>\n<ul>\n<li>Redesign analytics workflows around AI-first operating principles rather than traditional manual processes.</li>\n<li>Build automated systems that continuously monitor product performance, surface anomalies, and identify growth opportunities at scale.</li>\n<li>Develop AI-assisted investigation workflows that accelerate root-cause analysis and reduce time-to-insight.</li>\n<li>Establish scalable reporting and monitoring infrastructure that minimizes manual effort while maintaining analytical rigor.</li>\n<li>Continuously evaluate emerging AI capabilities and incorporate them into the analytics operating model.</li>\n<li>Improve self-service analytics capabilities while maintaining governance, consistency, and trust in data.</li>\n</ul>\n<h3>Cross-Functional Leadership</h3>\n<ul>\n<li>Act as a trusted strategic partner to Product, Engineering, Product Marketing, Sales, Customer Success, and Executive Leadership.</li>\n<li>Align teams around a shared understanding of PLG performance, customer behavior, and growth priorities.</li>\n<li>Lead cross-functional initiatives from opportunity identification through execution, measurement, and business impact assessment.</li>\n<li>Elevate analytical standards and foster a culture of data-informed decision making across the organization.</li>\n</ul>\n<p>&nbsp;</p>\n<h1>About You</h1>\n<ul>\n<li>You think in customer journeys, growth loops, and behavioral systems rather than isolated metrics.</li>\n<li>You enjoy solving ambiguous business problems and creating structure where none exists.</li>\n<li>You are naturally curious about why customers adopt, convert, expand, or churn.</li>\n<li>You balance strategic thinking with hands-on analytical execution.</li>\n<li>You are comfortable influencing senior stakeholders through data, storytelling, and business context.</li>\n<li>You actively leverage AI tools such as Claude, Claude Code, or similar technologies to automate workflows, accelerate investigations, and improve analytical output.</li>\n</ul>\n<p><br><br></p>\n<h1>What You Bring</h1>\n<ul>\n<li>8+ years of experience in Product Analytics, Growth Analytics, Data Science, Business Intelligence, Customer Analytics, Strategy, or related fields.</li>\n<li>Demonstrated ability to independently lead large-scale analytical initiatives with measurable business impact.</li>\n<li>Advanced SQL, Python skills and strong analytical foundations.</li>\n<li>Experience conducting deep-dive analyses into customer behavior, product performance, and business outcomes.</li>\n<li>Strong statistical and experimentation knowledge.</li>\n<li>Experience translating complex data into actionable business recommendations.</li>\n<li>Proven ability to influence senior stakeholders and drive decisions through data.</li>\n<li>Strong project management and prioritization skills.</li>\n<li>Experience building scalable reporting, monitoring, and operational processes.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Preferred Qualifications</p>\n<ul>\n<li>Experience supporting Product-Led Growth or self-service SaaS organizations.</li>\n<li>Experience with SaaS business models and customer lifecycle analytics.</li>\n<li>Experience leveraging AI tools to improve analytical workflows and operational efficiency.</li>\n</ul>\n<p>&nbsp;</p>\n<h1>Success in This Role Means</h1>\n<ul>\n<li>ZoomInfo has a clear and consistent framework for measuring PLG success across products and teams.</li>\n<li>Product and business leaders understand the behavioral drivers of activation, adoption, retention, and expansion.</li>\n<li>Growth opportunities and performance risks are identified proactively rather than reactively.</li>\n<li>Product investments are prioritized using measurable customer and business impact.</li>\n<li>Analytics workflows scale efficiently through automation and AI-enabled processes.</li>\n<li>Cross-functional teams view analytics as a strategic partner that shapes business decisions, not just a reporting function.</li>\n</ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.</p>\n<p>In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits <a class=\"c-link\" href=\"https://www.zoominfo.com/careers#benefits\">here</a>.</p></div><div class=\"title\">Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.</div><div class=\"pay-range\"><span>$136,500</span><span class=\"divider\">—</span><span>$214,500 USD</span></div></div></div><div class=\"content-conclusion\"><p><strong>About us:</strong>&nbsp;</p>\n<p>ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.</p>\n<p>ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant <a href=\"https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link\">Privacy Notice</a> for more details on how we handle your personal information.</p>\n<p>ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available <a href=\"https://www.zoominfo.com/legal/nyc-local-law-144-notice\">here</a>.</p>\n<p>ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.</p>\n<p>For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst\">https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst</a></p>",
+      "pubDate": "Sat, 15 Aug 2026 07:31:27 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
+      "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst"
+    }
+  },
+  {
+    "id": "wwr:proxify-ab-senior-fullstack-developer-react-js-node-js-3",
+    "platform": "wwr",
+    "external_id": "proxify-ab-senior-fullstack-developer-react-js-node-js-3",
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "company": "Proxify AB",
+    "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: &nbsp; 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English &nbsp; Nice-to-have:&nbsp; Located in CET timezone (+/- 3 hours). Database Architecture knowledge. &nbsp; Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing applications. Capacity to effectively collaborate with other team members and stakeholders remotely. Ability to implement data protection systems. Competence in data storage solutions. &nbsp; What we offer: &nbsp; Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify. To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "react",
+      "nodejs",
+      "mongodb"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-08-14T10:14:53.000Z",
+    "fetched_at": "2026-09-04T01:27:09.953Z",
+    "raw": {
+      "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Sweden\n    <br /><strong>URL:</strong> <a href=\"http://career.proxify.io\">http://career.proxify.io</a>\n</p>\n\n<h3><strong>The Role:</strong></h3>\n<p><strong>&nbsp;</strong></p>\n<p>We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.</p>\n<p><strong>&nbsp;</strong></p>\n<h3>What we are looking for:</h3>\n<p><strong>&nbsp;</strong></p>\n<ul>\n<li>\n<p>5+ years experience as a Fullstack Developer.</p>\n</li>\n<li>\n<p>Backend experience with:</p>\n</li>\n<ul>\n<li>\n<p>Node.js</p>\n</li>\n<li>\n<p>Microservices architecture</p>\n</li>\n</ul>\n<li>\n<p>Database experience with:</p>\n</li>\n<ul>\n<li>\n<p>SQL</p>\n</li>\n<li>\n<p>MongoDB</p>\n</li>\n</ul>\n<li>\n<p>Intermediate-advanced English</p>\n</li>\n</ul>\n<p><strong>&nbsp;</strong></p>\n<h4>Nice-to-have:&nbsp;</h4>\n<ul>\n<li>\n<p>Located in CET timezone (+/- 3 hours).</p>\n</li>\n<li>\n<p>Database Architecture knowledge.</p>\n</li>\n</ul>\n<p>&nbsp;</p>\n<h4>Responsibilities:</h4>\n<ul>\n<li>\n<p>Ability to build libraries and frameworks of reusable efficient code.</p>\n</li>\n<li>\n<p>Competence in designing and implementing low-latency, stable and performing applications.</p>\n</li>\n<li>\n<p>Capacity to effectively collaborate with other team members and stakeholders remotely.</p>\n</li>\n<li>\n<p>Ability to implement data protection systems.</p>\n</li>\n<li>\n<p>Competence in data storage solutions.</p>\n</li>\n</ul>\n<h4>&nbsp;</h4>\n<h4><strong>What we offer:<br></strong></h4>\n<div>&nbsp;</div>\n<div><strong>Get paid, not played</strong></div>\n<div>No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.<br><br></div>\n<div><strong><br>Predictable project hours</strong></div>\n<div>Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.<br><br></div>\n<div><br><strong>Flex days, so you can recharge</strong></div>\n<div>Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.<br><br></div>\n<div><br><strong>Career-accelerating positions at cutting-edge companies</strong></div>\n<div>Discover exclusive long-term remote positions at the world's most exciting companies.<br><br></div>\n<div><br><strong>Hand-picked opportunities just for you</strong></div>\n<div>Skip the typical recruitment roadblocks and biases with personally matched positions.<br><br></div>\n<div><br><strong>One seamless process, multiple opportunities</strong></div>\n<div>A one-time contracting process for endless opportunities, with no extra assessments.<br><br></div>\n<div><br><strong>Compensation</strong></div>\n<div>Enjoy the same pay, every month with positions landed through Proxify.</div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3\">https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3</a></p>",
+      "pubDate": "Fri, 14 Aug 2026 10:14:53 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3",
+      "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3"
+    }
+  },
+  {
     "id": "wwr:proxify-ab-senior-ruby-on-rails-developer-ai-augmented-engineering",
     "platform": "wwr",
     "external_id": "proxify-ab-senior-ruby-on-rails-developer-ai-augmented-engineering",
@@ -32,7 +322,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-08-14T10:13:03.000Z",
-    "fetched_at": "2026-09-03T20:10:13.499Z",
+    "fetched_at": "2026-09-04T01:27:09.953Z",
     "raw": {
       "title": "Proxify AB: Senior Ruby on Rails Developer (AI-Augmented Engineering)",
       "region": "Anywhere in the World",
@@ -74,7 +364,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-08-14T10:07:01.000Z",
-    "fetched_at": "2026-09-03T20:10:13.500Z",
+    "fetched_at": "2026-09-04T01:27:09.954Z",
     "raw": {
       "title": "Proxify AB: Senior Backend Developer (Python)",
       "region": "Anywhere in the World",
@@ -118,7 +408,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-12T18:38:32.000Z",
-    "fetched_at": "2026-09-03T20:10:13.501Z",
+    "fetched_at": "2026-09-04T01:27:09.955Z",
     "raw": {
       "title": "Toptal: Python Backend Development Talent with RAG and Agentic AI Experience",
       "region": "Asia Only",
@@ -161,7 +451,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-12T12:18:51.000Z",
-    "fetched_at": "2026-09-03T20:10:13.502Z",
+    "fetched_at": "2026-09-04T01:27:09.956Z",
     "raw": {
       "title": "Toptal: Senior Software Engineer for AI-Powered Banking Platform",
       "region": "North America Only",
@@ -202,7 +492,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-14T09:14:28.000Z",
-    "fetched_at": "2026-09-03T20:10:13.503Z",
+    "fetched_at": "2026-09-04T01:27:09.956Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9370/logo.gif",
@@ -242,7 +532,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-08-12T07:30:59.000Z",
-    "fetched_at": "2026-09-03T20:10:13.505Z",
+    "fetched_at": "2026-09-04T01:27:09.958Z",
     "raw": {
       "title": "Mercury: Counsel, Product & Regulatory - Payments & AML",
       "region": "Anywhere in the World",
@@ -282,7 +572,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-11T12:58:39.000Z",
-    "fetched_at": "2026-09-03T20:10:13.506Z",
+    "fetched_at": "2026-09-04T01:27:09.959Z",
     "raw": {
       "title": "Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company",
       "region": "Anywhere in the World",
@@ -319,7 +609,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-11T12:40:35.000Z",
-    "fetched_at": "2026-09-03T20:10:13.507Z",
+    "fetched_at": "2026-09-04T01:27:09.960Z",
     "raw": {
       "title": "Toptal: Data Scientist for Top Cosmetic firm",
       "region": "Anywhere in the World",
@@ -358,7 +648,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-09T07:30:40.000Z",
-    "fetched_at": "2026-09-03T20:10:13.509Z",
+    "fetched_at": "2026-09-04T01:27:09.962Z",
     "raw": {
       "title": "Gusto, Inc.: Staff Software Engineer, Time and Scheduling",
       "region": "Anywhere in the World",
@@ -396,7 +686,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-09T07:30:40.000Z",
-    "fetched_at": "2026-09-03T20:10:13.511Z",
+    "fetched_at": "2026-09-04T01:27:09.964Z",
     "raw": {
       "title": "Amwell: Manager, Government Compliance & Authorization",
       "region": "Anywhere in the World",
@@ -432,7 +722,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-07-09T17:03:38.000Z",
-    "fetched_at": "2026-09-03T20:10:13.511Z",
+    "fetched_at": "2026-09-04T01:27:09.964Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5766/logo.gif",
@@ -472,7 +762,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-08T07:30:54.000Z",
-    "fetched_at": "2026-09-03T20:10:13.513Z",
+    "fetched_at": "2026-09-04T01:27:09.966Z",
     "raw": {
       "title": "Lattice: Engineering Manager, AI",
       "region": "Anywhere in the World",
@@ -508,7 +798,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-08T07:30:46.000Z",
-    "fetched_at": "2026-09-03T20:10:13.514Z",
+    "fetched_at": "2026-09-04T01:27:09.967Z",
     "raw": {
       "title": "Lattice: Engineering Manager, AI",
       "region": "Anywhere in the World",
@@ -542,7 +832,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-07T15:54:26.000Z",
-    "fetched_at": "2026-09-03T20:10:13.516Z",
+    "fetched_at": "2026-09-04T01:27:09.969Z",
     "raw": {
       "title": "Toptal: Stibo Sr. Architect/Platform Owner for Global Fortune 500",
       "region": "Anywhere in the World",
@@ -580,7 +870,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T18:08:52.000Z",
-    "fetched_at": "2026-09-03T20:10:13.517Z",
+    "fetched_at": "2026-09-04T01:27:09.970Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif",
@@ -618,7 +908,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-09-03T20:10:13.517Z",
+    "fetched_at": "2026-09-04T01:27:09.970Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
@@ -690,7 +980,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-08-05T08:23:41.000Z",
-    "fetched_at": "2026-09-03T20:10:13.518Z",
+    "fetched_at": "2026-09-04T01:27:09.971Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6136/logo.gif",
@@ -740,7 +1030,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-05T05:52:46.000Z",
-    "fetched_at": "2026-09-03T20:10:13.519Z",
+    "fetched_at": "2026-09-04T01:27:09.972Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0161/6774/logo.gif",
@@ -753,316 +1043,6 @@
       "pubDate": "Wed, 05 Aug 2026 05:52:46 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
       "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1"
-    }
-  },
-  {
-    "id": "wwr:thehivecareers-co-web-developer-remote-1",
-    "platform": "wwr",
-    "external_id": "thehivecareers-co-web-developer-remote-1",
-    "title": "Web Developer (Remote)",
-    "company": "thehivecareers.co",
-    "description": "Headquarters: Bridgetown, Saint Michael, Barbados URL: http://thehivecareers.co Job Description: Title:&nbsp; Web Developer Job Level: Full-Time/Remote Location: Barbados Position Overview: We are seeking an experienced and motivated C# Web Developer with 5+ years of professional experience to join our dynamic development team. The ideal candidate will be responsible for designing, developing, and maintaining robust web applications while collaborating closely with cross-functional teams. A strong proficiency in C#, ASP.NET, and related technologies is essential, along with a proven track record of delivering scalable and high-performing web solutions. Key Skills: Strong problem-solving and analytical skills. Excellent written and verbal communication abilities. Excellent UX design. Ability to work both independently and as part of a collaborative team. Attention to detail and commitment to delivering high-quality code. Banking experience is an asset. To apply: https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1",
-    "url": "https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "c#",
-      "aspnet"
-    ],
-    "tags": [
-      "programming",
-      "Front-End Programming"
-    ],
-    "posted_at": "2026-08-04T22:13:00.000Z",
-    "fetched_at": "2026-09-03T20:10:13.519Z",
-    "raw": {
-      "title": "thehivecareers.co: Web Developer (Remote)",
-      "region": "Anywhere in the World",
-      "category": "Front-End Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> Bridgetown, Saint Michael, Barbados\n    <br /><strong>URL:</strong> <a href=\"http://thehivecareers.co\">http://thehivecareers.co</a>\n</p>\n\n<div class=\"mt-5\">\n\n<div class=\"redactor-styles\">\n<p><strong>Job Description:</strong></p>\n<p><strong>Title:&nbsp;</strong>Web Developer</p>\n<p><strong>Job Level:</strong> Full-Time/Remote</p>\n<p><strong>Location:</strong> Barbados</p>\n<p><strong>Position Overview:</strong> We are seeking an experienced and motivated C# Web Developer with 5+ years of professional experience to join our dynamic development team. The ideal candidate will be responsible for designing, developing, and maintaining robust web applications while collaborating closely with cross-functional teams. A strong proficiency in C#, ASP.NET, and related technologies is essential, along with a proven track record of delivering scalable and high-performing web solutions.</p>\n<p><strong>Key Skills:</strong></p>\n<ul><li>Strong problem-solving and analytical skills.</li><li>Excellent written and verbal communication abilities.</li><li>Excellent UX design.</li><li>Ability to work both independently and as part of a collaborative team.</li><li>Attention to detail and commitment to delivering high-quality code.</li><li>Banking experience is an asset.</li></ul>\n</div>\n\n</div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1\">https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1</a></p>",
-      "pubDate": "Tue, 04 Aug 2026 22:13:00 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1",
-      "link": "https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1"
-    }
-  },
-  {
-    "id": "wwr:charles-technology-africa-web-developer",
-    "platform": "wwr",
-    "external_id": "charles-technology-africa-web-developer",
-    "title": "Web Developer",
-    "company": "Charles Technology Africa",
-    "description": "Headquarters: Accra, Remote, Ghana URL: http://meisterpiece.com JOB DESCRIPTION Charles Technology Africa seeks to hire a Web Developer to independently design, develop, and maintain both external and internal Websites and applications that leverage the WordPress Content management system. &nbsp; Minimum Qualifications Required: Strong HTML, CSS, PHP and Java Script skills Expert level Wordpress experience and capabilities Ability to integrate WP websites with other applications Experience with Cpanel or other managed hosting platforms Proficiency with client-side scripting and JavaScript frameworks Working knowledge of Apache, Linux Ubuntu, MySQL Understanding of web accessibility Ability to work well in a team structure A passion for quality design and a drive for innovation Ability to take a concept from sketch or wireframe to final implementation Strong oral and written communication skills Multitasking and problem-solving skills Analytical, organized and proactive attitude Ability to work under tight deadlines and switch quickly and comfortably between projects as determined by supervisor, clients or other circumstances Experience developing custom WP themes and plugins a plus To apply: https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
-    "url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": null,
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "php",
-      "mysql",
-      "apache",
-      "linux"
-    ],
-    "tags": [
-      "programming",
-      "Front-End Programming"
-    ],
-    "posted_at": "2026-08-04T22:13:00.000Z",
-    "fetched_at": "2026-09-03T20:10:13.520Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6131/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Charles Technology Africa: Web Developer",
-      "region": "Remote",
-      "category": "Front-End Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6131/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Accra, Remote, Ghana\n    <br /><strong>URL:</strong> <a href=\"http://meisterpiece.com\">http://meisterpiece.com</a>\n</p>\n\n<p><strong>JOB DESCRIPTION</strong><br><br>Charles Technology Africa seeks to hire a Web Developer to independently design, develop, and maintain both external and internal Websites and applications that leverage the WordPress Content management system.</p><p>&nbsp;</p><p><strong>Minimum Qualifications Required:</strong></p><p>Strong HTML, CSS, PHP and Java Script skills</p><p>Expert level Wordpress experience and capabilities</p><p>Ability to integrate WP websites with other applications</p><p>Experience with Cpanel or other managed hosting platforms</p><p>Proficiency with client-side scripting and JavaScript frameworks</p><p>Working knowledge of Apache, Linux Ubuntu, MySQL</p><p>Understanding of web accessibility</p><p>Ability to work well in a team structure</p><p>A passion for quality design and a drive for innovation</p><p>Ability to take a concept from sketch or wireframe to final implementation</p><p>Strong oral and written communication skills</p><p>Multitasking and problem-solving skills</p><p>Analytical, organized and proactive attitude</p><p>Ability to work under tight deadlines and switch quickly and comfortably between projects as determined by supervisor, clients or other circumstances</p><p>Experience developing custom WP themes and plugins a plus</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer\">https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer</a></p>",
-      "pubDate": "Tue, 04 Aug 2026 22:13:00 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
-      "link": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer"
-    }
-  },
-  {
-    "id": "wwr:azumo-technical-leader-latin-america",
-    "platform": "wwr",
-    "external_id": "azumo-technical-leader-latin-america",
-    "title": "Technical Leader - Latin America",
-    "company": "Azumo",
-    "description": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is looking for a highly motivated Technical Leader to develop and enhance high-performing and scalable software solutions in Python, .NET, Machine Learning Engineering, Data Science, Data Engineering, JavaScript, and Java, among other technological challenges. We will only be considering candidates based in Latin America, as most of our engineers are based there. This position will give you the opportunity to collaborate with a growing team and bright engineering minds in software development, data, and AI. You will enjoy the role if you love designing and developing scalable, high-performance software solutions using Python, .NET, Java, JavaScript, and modern data technologies, and connecting applications to modern cloud-based technologies. Technical leaders take charge of technical teams. They typically ensure the smooth functioning of technical operations, monitor and evaluate staff progress, assist with training and recruitment, set goals, and ensure overall client satisfaction. Responsibilities: Define the architecture, deliverables, and timelines Lead your team through the scrum process to deliver valuable software solutions Create end goals for your team Delegate work and assignments to team members Collaborate with your team to identify and fix technical problems Supervise system modifications Conduct security audits to identify areas of improvement Liaise with team members, management, and clients to ensure projects are completed to standard Write progress reports and deliver presentations to stakeholders Hire and train technical personnel Requirements BS or Master’s degree in Computer Science, related degree, or equivalent experience 10+ years of experience with software development in Java, Python, .NET, JavaScript/NodeJS, or data technologies 7+ years of experience leading development teams Professional English proficiency (C1/C2) Deep expertise with Linux and hosted cloud environments (Heroku, AWS, App Engine, or others) Practical experience with open-source technologies, including SQL and NoSQL databases Experience integrating solutions with 3rd-party APIs (RESTful, OAuth, JSON) Self-driven and motivated, with a strong work ethic and a passion for problem-solving Strong experience with backend development, data systems, or scalable software architecture Benefits Company benefits include: Paid Time Off Mentored Career Development U.S. Holidays USD Remuneration Profit Sharing Maternity Coverage 100% Remote About Azumo Based in San Francisco, California, Azumo is an innovative software development firm specializing in AI software development services . We help companies of all sizes build intelligent applications by combining expertise in data, cloud, and AI . Our talented AI developers are trusted to deliver Top AI Development services in Generative AI , intelligent automation, and custom machine learning solutions. At Azumo , we believe in professional and personal growth. As a recognized AI Development company , we support our engineers in mastering the latest technologies and delivering Top AI Development services worldwide. Our culture emphasizes collaboration, continuous learning, and solving complex problems with modern AI solutions. We believe in giving back to our community and will volunteer our time to philanthropy, open-source initiatives and sharing our knowledge. If you are qualified for the opportunity and looking for a challenge please apply online at Azumo/join-our-team or connect with us at people@azumo.co To apply: https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
-    "url": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "python",
-      "java",
-      "nodejs",
-      "aws",
-      "heroku",
-      "machine-learning",
-      "rest",
-      "linux",
-      "oauth"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-08-04T22:12:17.000Z",
-    "fetched_at": "2026-09-03T20:10:13.520Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6127/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Azumo: Technical Leader - Latin America",
-      "region": "Buenos Aires",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6127/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Buenos Aires, Argentina\n    <br /><strong>URL:</strong> <a href=\"http://azumo.com\">http://azumo.com</a>\n</p>\n\n<strong>Description</strong><br><p><a class=\"external\" href=\"mailto:people@azumo.co\"></a><strong>Azumo is looking for a highly motivated Technical Leader to develop and enhance high-performing and scalable software solutions in Python, .NET, Machine Learning Engineering, Data Science, Data Engineering, JavaScript, and Java, among other technological challenges.</strong></p><p>We will only be considering candidates based in Latin America, as most of our engineers are based there.</p><p>This position will give you the opportunity to collaborate with a growing team and bright engineering minds in software development, data, and AI. You will enjoy the role if you love designing and developing scalable, high-performance software solutions using Python, .NET, Java, JavaScript, and modern data technologies, and connecting applications to modern cloud-based technologies.</p><p>Technical leaders take charge of technical teams. They typically ensure the smooth functioning of technical operations, monitor and evaluate staff progress, assist with training and recruitment, set goals, and ensure overall client satisfaction.</p><p><strong>Responsibilities:</strong></p><ul><li>Define the architecture, deliverables, and timelines</li><li>Lead your team through the scrum process to deliver valuable software solutions</li><li>Create end goals for your team</li><li>Delegate work and assignments to team members</li><li>Collaborate with your team to identify and fix technical problems</li><li>Supervise system modifications</li><li>Conduct security audits to identify areas of improvement</li><li>Liaise with team members, management, and clients to ensure projects are completed to standard</li><li>Write progress reports and deliver presentations to stakeholders</li><li>Hire and train technical personnel</li></ul><br><br><strong>Requirements</strong><br><ul><li>BS or Master’s degree in Computer Science, related degree, or equivalent experience</li><li><strong>10+ years of experience with software development in Java, Python, .NET, JavaScript/NodeJS, or data technologies</strong></li><li>7+ years of experience leading development teams</li><li>Professional English proficiency (C1/C2)</li><li>Deep expertise with Linux and hosted cloud environments (Heroku, AWS, App Engine, or others)</li><li>Practical experience with open-source technologies, including SQL and NoSQL databases</li><li>Experience integrating solutions with 3rd-party APIs (RESTful, OAuth, JSON)</li><li>Self-driven and motivated, with a strong work ethic and a passion for problem-solving</li><li><strong>Strong experience with backend development, data systems, or scalable software architecture</strong></li></ul><br><br><strong>Benefits</strong><br><p><strong>Company benefits include:</strong></p><ul><li>Paid Time Off</li><li>Mentored Career Development</li><li>U.S. Holidays</li><li>USD Remuneration</li><li>Profit Sharing</li><li>Maternity Coverage</li><li>100% Remote </li></ul><p></p><p><a class=\"external\" href=\"mailto:people@azumo.co\"></a><strong>About Azumo</strong></p><p>Based in San Francisco, California, <strong>Azumo</strong> is an innovative software development firm specializing in <strong>AI software development services</strong>. We help companies of all sizes build intelligent applications by combining expertise in data, cloud, and <strong>AI</strong>. Our talented <strong>AI developers</strong> are trusted to deliver <strong>Top AI Development services</strong> in <strong>Generative AI</strong>, intelligent automation, and custom machine learning solutions.</p><p>At <strong>Azumo</strong>, we believe in professional and personal growth. As a recognized <strong>AI Development company</strong>, we support our engineers in mastering the latest technologies and delivering <strong>Top AI Development services</strong> worldwide. Our culture emphasizes collaboration, continuous learning, and solving complex problems with modern <strong>AI</strong> solutions. We believe in giving back to our community and will volunteer our time to philanthropy, open-source initiatives and sharing our knowledge.</p><p>If you are qualified for the opportunity and looking for a challenge please apply online at Azumo/join-our-team or connect with us at people@azumo.co</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america\">https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america</a></p>",
-      "pubDate": "Tue, 04 Aug 2026 22:12:17 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
-      "link": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america"
-    }
-  },
-  {
-    "id": "wwr:azumo-data-engineer-latin-america",
-    "platform": "wwr",
-    "external_id": "azumo-data-engineer-latin-america",
-    "title": "Data Engineer - Latin America",
-    "company": "Azumo",
-    "description": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This position will give you the opportunity to collaborate with a growing team and bright engineering minds in big data computing. You will enjoy the role if you love designing and developing scalable, high performant big data infrastructure using Spark, Kafka, Snowflake or any similar frameworks , both on premise and in the cloud. Experience in building data pipelines, data services, data warehouses, BI and ML platforms is what we are looking for. At Azumo we strive for excellence and strongly believe in professional and personal growth. We want each individual to be successful and pledge to help each achieve their goals while at Azumo and beyond. Challenging ourselves and learning new technologies is at the core of what we do. We believe in giving back to our community and will volunteer our time to philanthropy, open source initiatives and sharing our knowledge. Requirements The Data Engineer will be based remotely. Compensation commensurate with experience and candidate potential. Basic Qualifications: BS or Master’s degree in Computer Science, related degree, or equivalent experience 5+ years experience with data-related and data management responsibilities Deep expertise in designing and building data warehouses and big data analytics systems Practical experience manipulating, analyzing and visualizing data Self-driven and motivated, with a strong work ethic and a passion for problem solving Professional English proficiency (B2/C1) Preferred Qualifications: Experience with cloud-based managed services like Airflow, Glue, Elastic stack, Amazon Redshift, Snowflake, BigQuery, Azure SQL Db, EMR, Azure, Databricks, Altiscale or Qubole Prior experience with notebooks using Jupyter, Google Collab, or similar. Benefits Company benefits include: Paid Time Off Mentored Career Development U.S. Holidays USD Remuneration Profit Sharing Maternity Coverage 100% Remote About Azumo Based in San Francisco, California, Azumo is an innovative software development firm specializing in AI software development services . We help companies of all sizes build intelligent applications by combining expertise in data, cloud, and AI . Our talented AI developers are trusted to deliver Top AI Development services in Generative AI , intelligent automation, and custom machine learning solutions. At Azumo , we believe in professional and personal growth. As a recognized AI Development company , we support our engineers in mastering the latest technologies and delivering Top AI Development services worldwide. Our culture emphasizes collaboration, continuous learning, and solving complex problems with modern AI solutions. We believe in giving back to our community and will volunteer our time to philanthropy, open-source initiatives and sharing our knowledge. If you are qualified for the opportunity and looking for a challenge please apply online at Azumo/join-our-team or connect with us at people@azumo.co To apply: https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
-    "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "azure",
-      "machine-learning",
-      "jupyter",
-      "spark",
-      "airflow",
-      "snowflake",
-      "databricks",
-      "kafka"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-08-04T22:12:17.000Z",
-    "fetched_at": "2026-09-03T20:10:13.521Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6125/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Azumo: Data Engineer - Latin America",
-      "region": "Buenos Aires",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6125/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Buenos Aires, Argentina\n    <br /><strong>URL:</strong> <a href=\"http://azumo.com\">http://azumo.com</a>\n</p>\n\n<strong>Description</strong><br><p>Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is <strong>FULLY REMOTE based in Latin America</strong>.</p><p>This position will give you the opportunity to collaborate with a growing team and bright engineering minds in big data computing. You will enjoy the role if you love designing and developing scalable, high performant big data infrastructure using <strong>Spark, Kafka, Snowflake or any similar frameworks</strong>, both on premise and in the cloud. Experience in building data pipelines, data services, data warehouses, BI and ML platforms is what we are looking for.</p><p>At <strong>Azumo </strong>we strive for excellence and strongly believe in professional and personal growth. We want each individual to be successful and pledge to help each achieve their goals while at <strong>Azumo </strong>and beyond. Challenging ourselves and learning new technologies is at the core of what we do. We believe in giving back to our community and will volunteer our time to philanthropy, open source initiatives and sharing our knowledge.</p><br><br><strong>Requirements</strong><br><p><strong>The Data Engineer will be based remotely. Compensation commensurate with experience and candidate potential.</strong></p><p><strong>Basic Qualifications:</strong></p><ul><li>BS or Master’s degree in Computer Science, related degree, or equivalent experience</li><li>5+ years experience with data-related and data management responsibilities</li><li>Deep expertise in designing and building data warehouses and big data analytics systems</li><li>Practical experience manipulating, analyzing and visualizing data</li><li>Self-driven and motivated, with a strong work ethic and a passion for problem solving</li><li>Professional English proficiency (B2/C1)</li></ul><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience with cloud-based managed services like Airflow, Glue, Elastic stack, Amazon Redshift, Snowflake, BigQuery, Azure SQL Db, EMR, Azure, Databricks, Altiscale or Qubole</li><li>Prior experience with notebooks using Jupyter, Google Collab, or similar.</li></ul><br><br><strong>Benefits</strong><br><p><strong>Company benefits include:</strong></p><ul><li>Paid Time Off</li><li>Mentored Career Development</li><li>U.S. Holidays</li><li>USD Remuneration</li><li>Profit Sharing</li><li>Maternity Coverage</li><li>100% Remote </li></ul><p></p><p><a class=\"external\" href=\"mailto:people@azumo.co\"></a><strong>About Azumo</strong></p><p>Based in San Francisco, California, <strong>Azumo</strong> is an innovative software development firm specializing in <strong>AI software development services</strong>. We help companies of all sizes build intelligent applications by combining expertise in data, cloud, and <strong>AI</strong>. Our talented <strong>AI developers</strong> are trusted to deliver <strong>Top AI Development services</strong> in <strong>Generative AI</strong>, intelligent automation, and custom machine learning solutions.</p><p>At <strong>Azumo</strong>, we believe in professional and personal growth. As a recognized <strong>AI Development company</strong>, we support our engineers in mastering the latest technologies and delivering <strong>Top AI Development services</strong> worldwide. Our culture emphasizes collaboration, continuous learning, and solving complex problems with modern <strong>AI</strong> solutions. We believe in giving back to our community and will volunteer our time to philanthropy, open-source initiatives and sharing our knowledge.</p><p>If you are qualified for the opportunity and looking for a challenge please apply online at Azumo/join-our-team or connect with us at people@azumo.co</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america\">https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america</a></p>",
-      "pubDate": "Tue, 04 Aug 2026 22:12:17 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
-      "link": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america"
-    }
-  },
-  {
-    "id": "wwr:azumo-java-engineer-latin-america",
-    "platform": "wwr",
-    "external_id": "azumo-java-engineer-latin-america",
-    "title": "Java Engineer - Latin America",
-    "company": "Azumo",
-    "description": "Headquarters: Dominican Republic URL: http://azumo.com Description Azumo is currently looking for highly motivated Java Senior Engineers to develop and enhance high performing and scalable backend infrastructure used by millions of users. The position is fully remote based in Latin America . We will only be considering candidates based in Latin America, as most of our engineers are based there. This position will give you the opportunity to collaborate with a growing team and bright engineering minds. You will enjoy the role if you love designing and developing scalable, high performant backend infrastructure using enterprise class frameworks. Responsibilities: Design, develop and test robust Java APIs Evaluate multiple approaches and technologies to solving a problem Understand data pipeline needs and work with product managers to find solutions Compensation commensurate with experience and candidate potential. Requirements 4+ years experience with enterprise class frameworks (such as Spring Boot, Hibernate, Spring or any other Java enterprise class frameworks) Deep expertise in designing and building robust APIs Practical experience with open source technologies and products Self-driven and motivated, with a strong work ethic and a passion for problem solving Professional English proficiency (B2/C1) Benefits Company benefits include: Paid Time Off Mentored Career Development U.S. Holidays USD Remuneration Profit Sharing Maternity Coverage 100% Remote About Azumo Based in San Francisco, California, Azumo is an innovative software development firm specializing in AI software development services . We help companies of all sizes build intelligent applications by combining expertise in data, cloud, and AI . Our talented AI developers are trusted to deliver Top AI Development services in Generative AI , intelligent automation, and custom machine learning solutions. At Azumo , we believe in professional and personal growth. As a recognized AI Development company , we support our engineers in mastering the latest technologies and delivering Top AI Development services worldwide. Our culture emphasizes collaboration, continuous learning, and solving complex problems with modern AI solutions. We believe in giving back to our community and will volunteer our time to philanthropy, open-source initiatives and sharing our knowledge. If you are qualified for the opportunity and looking for a challenge please apply online at Azumo/join-our-team or connect with us at people@azumo.co To apply: https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
-    "url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "java",
-      "spring",
-      "machine-learning"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-08-04T22:12:17.000Z",
-    "fetched_at": "2026-09-03T20:10:13.522Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6126/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Azumo: Java Engineer - Latin America",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6126/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Dominican Republic\n    <br /><strong>URL:</strong> <a href=\"http://azumo.com\">http://azumo.com</a>\n</p>\n\n<strong>Description</strong><br><p>Azumo is currently looking for highly motivated <strong>Java Senior Engineers</strong> to develop and enhance high performing and scalable backend infrastructure used by millions of users. </p><p>The position is<strong> fully remote based in Latin America</strong>. We will only be considering candidates based in Latin America, as most of our engineers are based there.<br></p><p>This position will give you the opportunity to collaborate with a growing team and bright engineering minds. You will enjoy the role if you love designing and developing scalable, high performant backend infrastructure using enterprise class frameworks.</p><p><br>Responsibilities:</p><ul><li>Design, develop and test robust Java APIs</li><li>Evaluate multiple approaches and technologies to solving a problem</li><li>Understand data pipeline needs and work with product managers to find solutions</li></ul><p>Compensation commensurate with experience and candidate potential.</p><br><br><strong>Requirements</strong><br><ul><li>4+ years experience with enterprise class frameworks (such as Spring Boot, Hibernate, Spring or any other Java enterprise class frameworks)</li><li>Deep expertise in designing and building robust APIs</li><li>Practical experience with open source technologies and products</li><li>Self-driven and motivated, with a strong work ethic and a passion for problem solving</li><li>Professional English proficiency (B2/C1)</li></ul><br><br><strong>Benefits</strong><br><p>Company benefits include:</p><ul><li>Paid Time Off</li><li>Mentored Career Development</li><li>U.S. Holidays</li><li>USD Remuneration</li><li>Profit Sharing</li><li>Maternity Coverage</li><li>100% Remote </li></ul><p></p><p><a class=\"external\" href=\"mailto:people@azumo.co\"></a><strong>About Azumo</strong></p><p>Based in San Francisco, California, <strong>Azumo</strong> is an innovative software development firm specializing in <strong>AI software development services</strong>. We help companies of all sizes build intelligent applications by combining expertise in data, cloud, and <strong>AI</strong>. Our talented <strong>AI developers</strong> are trusted to deliver <strong>Top AI Development services</strong> in <strong>Generative AI</strong>, intelligent automation, and custom machine learning solutions.</p><p>At <strong>Azumo</strong>, we believe in professional and personal growth. As a recognized <strong>AI Development company</strong>, we support our engineers in mastering the latest technologies and delivering <strong>Top AI Development services</strong> worldwide. Our culture emphasizes collaboration, continuous learning, and solving complex problems with modern <strong>AI</strong> solutions. We believe in giving back to our community and will volunteer our time to philanthropy, open-source initiatives and sharing our knowledge.</p><p>If you are qualified for the opportunity and looking for a challenge please apply online at Azumo/join-our-team or connect with us at people@azumo.co</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america\">https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america</a></p>",
-      "pubDate": "Tue, 04 Aug 2026 22:12:17 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
-      "link": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america"
-    }
-  },
-  {
-    "id": "wwr:lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
-    "platform": "wwr",
-    "external_id": "lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
-    "title": "AI-Assisted Software Engineer, Web Applications",
-    "company": "LMG Staffing Solutions",
-    "description": "Headquarters: Medellín, Medellin, Colombia URL: http://logicalmediagroup.com Description Overview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver high-quality, maintainable solutions using a Next.js front end and a Django back end, while actively using AI tools and Model Context Protocols (MCPs) to accelerate development and enforce clean architecture. What Success Looks Like Seamless integration between the Next.js front end and Django back end, maintaining high performance and security. Proactive use of AI coding assistants and MCPs to accelerate development cycles and improve code quality, rather than relying on them as a crutch. Code is clean, modular, thoroughly tested, and ready for production with minimal technical debt. Effective collaboration and clear communication with cross-functional teams to align technical solutions with business needs. Requirements Core Responsibilities Next.js Front End: Develop fast, responsive, and intuitive user interfaces using React and Next.js. Django Back End: Architect and build secure, scalable APIs and core business logic using Python and Django. Integration &amp; Architecture: Design clean, modular systems that seamlessly connect internal tools, databases, and third-party platforms. AI-Assisted Development &amp; MCPs: Leverage AI coding assistants in your daily workflow and build or integrate Model Context Protocols (MCPs) to expand the capabilities of our AI agents. Quality Practices: Champion clean code principles, write comprehensive automated tests, and participate in code reviews to ensure system reliability. Requirements Strong proficiency in Python and the Django framework. Strong proficiency in JavaScript/TypeScript, React, and Next.js. Proven experience in robust API design and third-party integrations. A strong commitment to automated testing, clean architecture, and modern QA practices. Familiarity with cloud basics, containerization (Docker), and version control (Git). Excellent communication skills and the ability to collaborate effectively across teams. Nice-to-Have Skills Direct experience building or interacting with Model Context Protocols (MCPs) or AI agents. Familiarity with CI/CD pipelines (like GitHub Actions) and automated deployments. Experience managing agile workflows in tools like Asana or Jira. Experience with Google Cloud Platform (GCP). Benefits Option to work completely remote Logical is an Equal Opportunity Employer. We strongly encourage candidates of all different backgrounds and identities to apply. Each new hire is an opportunity for us to bring in a different perspective, and we are always eager to further diversify our company. To apply: https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
-    "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "python",
-      "react",
-      "nextjs",
-      "django",
-      "gcp",
-      "docker",
-      "github-actions",
-      "git"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-08-04T22:12:17.000Z",
-    "fetched_at": "2026-09-03T20:10:13.522Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6124/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "LMG Staffing Solutions: AI-Assisted Software Engineer, Web Applications",
-      "region": "Medellin",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6124/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Medellín, Medellin, Colombia\n    <br /><strong>URL:</strong> <a href=\"http://logicalmediagroup.com\">http://logicalmediagroup.com</a>\n</p>\n\n<strong>Description</strong><br><p></p><p>Overview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver high-quality, maintainable solutions using a Next.js front end and a Django back end, while actively using AI tools and Model Context Protocols (MCPs) to accelerate development and enforce clean architecture.</p><p></p><p>What Success Looks Like</p><p></p><ul><li>Seamless integration between the Next.js front end and Django back end, maintaining high performance and security.</li><li>Proactive use of AI coding assistants and MCPs to accelerate development cycles and improve code quality, rather than relying on them as a crutch.</li><li>Code is clean, modular, thoroughly tested, and ready for production with minimal technical debt.</li><li>Effective collaboration and clear communication with cross-functional teams to align technical solutions with business needs.</li></ul><br><br><strong>Requirements</strong><br><p></p><p>Core Responsibilities</p><p></p><ul><li>Next.js Front End: Develop fast, responsive, and intuitive user interfaces using React and Next.js.</li><li>Django Back End: Architect and build secure, scalable APIs and core business logic using Python and Django.</li><li>Integration &amp; Architecture: Design clean, modular systems that seamlessly connect internal tools, databases, and third-party platforms.</li><li>AI-Assisted Development &amp; MCPs: Leverage AI coding assistants in your daily workflow and build or integrate Model Context Protocols (MCPs) to expand the capabilities of our AI agents.</li><li>Quality Practices: Champion clean code principles, write comprehensive automated tests, and participate in code reviews to ensure system reliability.</li></ul><p></p><p>Requirements</p><p></p><ul><li>Strong proficiency in Python and the Django framework.</li><li>Strong proficiency in JavaScript/TypeScript, React, and Next.js.</li><li>Proven experience in robust API design and third-party integrations.</li><li>A strong commitment to automated testing, clean architecture, and modern QA practices.</li><li>Familiarity with cloud basics, containerization (Docker), and version control (Git).</li><li>Excellent communication skills and the ability to collaborate effectively across teams.</li></ul><p></p><p>Nice-to-Have Skills</p><p></p><ul><li>Direct experience building or interacting with Model Context Protocols (MCPs) or AI agents.</li><li>Familiarity with CI/CD pipelines (like GitHub Actions) and automated deployments.</li><li>Experience managing agile workflows in tools like Asana or Jira.</li><li>Experience with Google Cloud Platform (GCP).</li></ul><br><br><strong>Benefits</strong><br><ul><li>Option to work completely remote</li></ul><p></p><p>Logical is an Equal Opportunity Employer. We strongly encourage candidates of all different backgrounds and identities to apply. Each new hire is an opportunity for us to bring in a different perspective, and we are always eager to further diversify our company.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications\">https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications</a></p>",
-      "pubDate": "Tue, 04 Aug 2026 22:12:17 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
-      "link": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications"
-    }
-  },
-  {
-    "id": "wwr:azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
-    "platform": "wwr",
-    "external_id": "azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
-    "title": "Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America",
-    "company": "Azumo",
-    "description": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This role will focus on building scalable, reliable, and governed data systems that power analytics, live operations, player insights, publishing intelligence, and business decision-making across gaming ecosystem. The ideal candidate has strong hands-on experience with Databricks , DBT , AWS , scalable ETL pipelines, data governance, and modern analytics engineering practices. Experience supporting gaming, telemetry, live operations, or high-scale analytics environments is strongly preferred. Requirements The Data Engineer will be based remotely. Compensation commensurate with experience and candidate potential. Responsibilities: Design, build, and maintain scalable ETL/ELT pipelines using Databricks and AWS Improve ingestion pipeline quality, reliability, scalability, and governance Develop and optimize core data models and foundational data tables Build analytics-ready datasets to support player insights, publishing analytics, esports analytics, and operational reporting Implement data governance, data quality, lineage, and observability practices Collaborate with product, analytics, engineering, and business stakeholders to support data-driven decision-making Optimize large-scale data processing workflows for performance and cost efficiency Support centralized player data models, viewer analytics, publishing activity systems, and operational metrics Contribute to the unification of fragmented data ecosystems across multiple game teams and organizations Build and maintain reliable orchestration workflows and scheduling systems Participate in architectural discussions around scalability, governance, and data platform modernization Required Skills: Strong experience with Databricks Strong SQL and Python programming experience Experience building scalable ETL/ELT pipelines Experience with AWS data ecosystem and cloud-native architectures Experience with DBT, Apache Airflow or similar orchestration tools Strong understanding of data modeling and analytics engineering Experience working with large-scale structured and semi-structured datasets Experience implementing data governance and data quality practices Experience optimizing pipeline performance and scalability Strong communication and collaboration skills Ability to work independently within distributed engineering teams Nice to Have: Gaming industry experience LiveOps or telemetry pipeline experience Experience supporting analytics for player behavior, engagement, monetization, or publishing systems Experience with real-time or streaming data systems Experience with viewer analytics or esports data ecosystems Experience with KPI reporting and operational dashboards Familiarity with cost optimization and cloud infrastructure analytics Experience working in fast-paced product engineering organizations Basic Qualifications: BS or Master’s degree in Computer Science, related degree, or equivalent experience 5+ years experience with data-related and data management responsibilities Deep expertise in designing and building data warehouses and big data analytics systems Practical experience manipulating, analyzing and visualizing data Self-driven and motivated, with a strong work ethic and a passion for problem solving Professional English proficiency (B2/C1) Benefits Company benefits include: Paid Time Off Mentored Career Development U.S. Holidays USD Remuneration Profit Sharing Maternity Coverage 100% Remote About Azumo Based in San Francisco, California, Azumo is an innovative software development firm specializing in AI software development services . We help companies of all sizes build intelligent applications by combining expertise in data, cloud, and AI . Our talented AI developers are trusted to deliver Top AI Development services in Generative AI , intelligent automation, and custom machine learning solutions. At Azumo , we believe in professional and personal growth. As a recognized AI Development company , we support our engineers in mastering the latest technologies and delivering Top AI Development services worldwide. Our culture emphasizes collaboration, continuous learning, and solving complex problems with modern AI solutions. We believe in giving back to our community and will volunteer our time to philanthropy, open-source initiatives and sharing our knowledge. If you are qualified for the opportunity and looking for a challenge please apply online at Azumo/join-our-team or connect with us at people@azumo.co To apply: https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
-    "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "aws",
-      "apache",
-      "machine-learning",
-      "airflow",
-      "dbt",
-      "databricks"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-08-04T22:12:17.000Z",
-    "fetched_at": "2026-09-03T20:10:13.524Z",
-    "raw": {
-      "title": "Azumo: Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America",
-      "region": "Buenos Aires",
-      "category": "Full-Stack Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> Buenos Aires, Argentina\n    <br /><strong>URL:</strong> <a href=\"http://azumo.com\">http://azumo.com</a>\n</p>\n\n<strong>Description</strong><br><p>Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is <strong>FULLY REMOTE based in Latin America</strong>.</p><p></p><p>This role will focus on building scalable, reliable, and governed data systems that power analytics, live operations, player insights, publishing intelligence, and business decision-making across gaming ecosystem.</p><p>The ideal candidate has strong hands-on experience with <strong>Databricks</strong>, <strong>DBT</strong>, <strong>AWS</strong>, scalable <strong>ETL </strong>pipelines, data governance, and modern analytics engineering practices.</p><p>Experience supporting gaming, telemetry, live operations, or high-scale analytics environments is strongly preferred.</p><p></p><br><br><strong>Requirements</strong><br><p><strong>The Data Engineer will be based remotely. Compensation commensurate with experience and candidate potential.</strong></p><p><strong>Responsibilities:</strong></p><p>Design, build, and maintain scalable ETL/ELT pipelines using Databricks and AWS</p><ul><li>Improve ingestion pipeline quality, reliability, scalability, and governance</li><li>Develop and optimize core data models and foundational data tables</li><li>Build analytics-ready datasets to support player insights, publishing analytics, esports analytics, and operational reporting</li><li>Implement data governance, data quality, lineage, and observability practices</li><li>Collaborate with product, analytics, engineering, and business stakeholders to support data-driven decision-making</li><li>Optimize large-scale data processing workflows for performance and cost efficiency</li><li>Support centralized player data models, viewer analytics, publishing activity systems, and operational metrics</li><li>Contribute to the unification of fragmented data ecosystems across multiple game teams and organizations</li><li>Build and maintain reliable orchestration workflows and scheduling systems</li><li>Participate in architectural discussions around scalability, governance, and data platform modernization</li></ul><p></p><p><strong>Required Skills:</strong></p><p>Strong experience with Databricks</p><ul><li>Strong SQL and Python programming experience</li><li>Experience building scalable ETL/ELT pipelines</li><li>Experience with AWS data ecosystem and cloud-native architectures</li><li>Experience with DBT, Apache Airflow or similar orchestration tools</li><li>Strong understanding of data modeling and analytics engineering</li><li>Experience working with large-scale structured and semi-structured datasets</li><li>Experience implementing data governance and data quality practices</li><li>Experience optimizing pipeline performance and scalability</li><li>Strong communication and collaboration skills</li><li>Ability to work independently within distributed engineering teams</li></ul><p></p><p><strong>Nice to Have:</strong></p><ul><li>Gaming industry experience</li><li>LiveOps or telemetry pipeline experience</li><li>Experience supporting analytics for player behavior, engagement, monetization, or publishing systems</li><li>Experience with real-time or streaming data systems</li><li>Experience with viewer analytics or esports data ecosystems</li><li>Experience with KPI reporting and operational dashboards</li><li>Familiarity with cost optimization and cloud infrastructure analytics</li><li>Experience working in fast-paced product engineering organizations</li></ul><p></p><p></p><p><strong>Basic Qualifications:</strong></p><ul><li>BS or Master’s degree in Computer Science, related degree, or equivalent experience</li><li>5+ years experience with data-related and data management responsibilities</li><li>Deep expertise in designing and building data warehouses and big data analytics systems</li><li>Practical experience manipulating, analyzing and visualizing data</li><li>Self-driven and motivated, with a strong work ethic and a passion for problem solving</li><li>Professional English proficiency (B2/C1)</li></ul><p></p><br><br><strong>Benefits</strong><br><p><strong>Company benefits include:</strong></p><ul><li>Paid Time Off</li><li>Mentored Career Development</li><li>U.S. Holidays</li><li>USD Remuneration</li><li>Profit Sharing</li><li>Maternity Coverage</li><li>100% Remote </li></ul><p></p><p><a class=\"external\" href=\"mailto:people@azumo.co\"></a><strong>About Azumo</strong></p><p>Based in San Francisco, California, <strong>Azumo</strong> is an innovative software development firm specializing in <strong>AI software development services</strong>. We help companies of all sizes build intelligent applications by combining expertise in data, cloud, and <strong>AI</strong>. Our talented <strong>AI developers</strong> are trusted to deliver <strong>Top AI Development services</strong> in <strong>Generative AI</strong>, intelligent automation, and custom machine learning solutions.</p><p>At <strong>Azumo</strong>, we believe in professional and personal growth. As a recognized <strong>AI Development company</strong>, we support our engineers in mastering the latest technologies and delivering <strong>Top AI Development services</strong> worldwide. Our culture emphasizes collaboration, continuous learning, and solving complex problems with modern <strong>AI</strong> solutions. We believe in giving back to our community and will volunteer our time to philanthropy, open-source initiatives and sharing our knowledge.</p><p>If you are qualified for the opportunity and looking for a challenge please apply online at Azumo/join-our-team or connect with us at people@azumo.co</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america\">https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america</a></p>",
-      "pubDate": "Tue, 04 Aug 2026 22:12:17 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
-      "link": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america"
     }
   },
   {
@@ -1094,7 +1074,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-31T07:30:46.000Z",
-    "fetched_at": "2026-09-03T20:10:13.615Z",
+    "fetched_at": "2026-09-04T01:27:10.246Z",
     "raw": {
       "title": "CircleCI: Senior Software Engineer",
       "region": "Anywhere in the World",
@@ -1135,7 +1115,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-31T07:30:46.000Z",
-    "fetched_at": "2026-09-03T20:10:13.617Z",
+    "fetched_at": "2026-09-04T01:27:10.247Z",
     "raw": {
       "title": "Databricks: Cyber Security GTM Leader",
       "region": "Anywhere in the World",
@@ -1174,7 +1154,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-30T07:30:43.000Z",
-    "fetched_at": "2026-09-03T20:10:13.618Z",
+    "fetched_at": "2026-09-04T01:27:10.249Z",
     "raw": {
       "title": "Huntress: Manager, Security Operations Center - EMEA",
       "region": "Anywhere in the World",
@@ -1213,7 +1193,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-30T07:30:35.000Z",
-    "fetched_at": "2026-09-03T20:10:13.620Z",
+    "fetched_at": "2026-09-04T01:27:10.250Z",
     "raw": {
       "title": "Huntress: Evergreen - Sales Development Representative",
       "region": "Anywhere in the World",
@@ -1254,7 +1234,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-26T07:30:47.000Z",
-    "fetched_at": "2026-09-03T20:10:13.622Z",
+    "fetched_at": "2026-09-04T01:27:10.253Z",
     "raw": {
       "title": "Keeper Security: Associate Account Manager, SLED",
       "region": "Anywhere in the World",
@@ -1295,7 +1275,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-26T07:30:39.000Z",
-    "fetched_at": "2026-09-03T20:10:13.625Z",
+    "fetched_at": "2026-09-04T01:27:10.255Z",
     "raw": {
       "title": "Keeper Security: Associate Account Manager",
       "region": "Anywhere in the World",
@@ -1368,7 +1348,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-24T11:52:38.000Z",
-    "fetched_at": "2026-09-03T20:10:13.626Z",
+    "fetched_at": "2026-09-04T01:27:10.256Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6268/logo.gif",
@@ -1419,7 +1399,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-24T07:30:47.000Z",
-    "fetched_at": "2026-09-03T20:10:13.627Z",
+    "fetched_at": "2026-09-04T01:27:10.257Z",
     "raw": {
       "title": "Abnormal: Application Security Engineer II",
       "region": "Anywhere in the World",
@@ -1458,7 +1438,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-24T07:30:47.000Z",
-    "fetched_at": "2026-09-03T20:10:13.628Z",
+    "fetched_at": "2026-09-04T01:27:10.258Z",
     "raw": {
       "title": "Abnormal: Critical Situation Manager",
       "region": "Anywhere in the World",
@@ -1497,7 +1477,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-22T07:31:03.000Z",
-    "fetched_at": "2026-09-03T20:10:13.629Z",
+    "fetched_at": "2026-09-04T01:27:10.259Z",
     "raw": {
       "title": "BeyondTrust: Associate Instructor",
       "region": "Anywhere in the World",
@@ -1539,7 +1519,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-22T07:31:03.000Z",
-    "fetched_at": "2026-09-03T20:10:13.630Z",
+    "fetched_at": "2026-09-04T01:27:10.261Z",
     "raw": {
       "title": "Temporal Technologies: Senior Application Security Engineer",
       "region": "Anywhere in the World",
@@ -1592,7 +1572,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-18T20:34:31.000Z",
-    "fetched_at": "2026-09-03T20:10:13.633Z",
+    "fetched_at": "2026-09-04T01:27:10.263Z",
     "raw": {
       "title": "Zenara Health: DevOps & Security Engineer - AI-Native Healthcare SaaS",
       "region": "Anywhere in the World",
@@ -1643,7 +1623,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-08-06T07:30:49.000Z",
-    "fetched_at": "2026-09-03T20:10:13.634Z",
+    "fetched_at": "2026-09-04T01:27:10.265Z",
     "raw": {
       "title": "Jumio: DevOps Engineer IV (Obs)",
       "region": "Anywhere in the World",
@@ -1685,7 +1665,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-05-28T07:25:37.000Z",
-    "fetched_at": "2026-09-03T20:10:13.636Z",
+    "fetched_at": "2026-09-04T01:27:10.267Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5346/logo.gif",
