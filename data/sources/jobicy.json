@@ -1,5 +1,104 @@
 [
   {
+    "id": "jobicy:153338",
+    "platform": "jobicy",
+    "external_id": "153338",
+    "title": "Staff Software Engineer, AI-Native Systems",
+    "company": "Wheel",
+    "description": "Staff Software Engineer, AI-Native Systems (Tech Lead) Location: Remote (US) We are Virtual care only works if the infrastructure behind it does. Wheel builds that infrastructure — the systems that let telehealth run at scale for the patients, clinicians, and companies depending on it. We're not bolting AI onto old workflows; we're rebuilding them from the ground up. Our mission to put great healthcare in everyone's reach means replacing manual, ad-hoc processes with intelligent, agent-powered systems that carry real operational load. We're innovating in a live, regulated healthcare environment where getting it right matters. This is the next architecture of virtual care, and we're building it now. You are A staff-level engineer who sets technical direction for agentic systems and then leads the work to ship them. You've built and operated agents in production, you know where they break, and you have opinions — held loosely, argued well — about how to build them so they hold up in a regulated environment. You operate with the scope of a domain owner, not a task owner. You take a problem that isn't yet well-formed, define it, sequence it, and lead a group of engineers to a shipped and measured outcome. Your impact shows up in other people's work as much as your own: the patterns they reuse, the design decisions they don't have to relitigate, the ambiguity you removed before it cost the team a quarter. You treat AI two ways at once — as a product capability you build with judgment, and as a development multiplier you use fluently — and you're the person who raises the org's bar on both. The Work Technical Leadership &amp; Direction Own the technical direction for a significant AI-native domain: agent architecture, platform abstractions, or evaluation and guardrail infrastructure. Act as tech lead for a squad or a cross-team initiative — decomposing ambiguous problems, sequencing delivery, identifying and clearing blockers, and keeping the team pointed at the outcome rather than the ticket. Write and review design docs; make and document the load-bearing architectural calls, including the ones where the answer is \"not yet\" or \"buy, don't build.\" Establish clear technical ownership where it's currently diffuse, so decisions have a named owner and reviews don't stall. Agent Architecture &amp; Engineering Design and build production AI agents incorporating retrieval, orchestration, policy-based routing, tool invocation, evaluation harnesses, and lifecycle observability. Set the standards for what \"production-ready agent\" means here — testability, rollback safety, cost ceilings, failure modes, human-in-the-loop boundaries — and hold the bar in review. Take on the hardest parts of the build yourself. This is a hands-on role; you are expected to be in the code. AI Platform Foundations Build and extend the abstraction layers that let teams integrate AI capabilities cleanly and safely across our services. Define the shared libraries, patterns, and guardrails other teams build on, and drive their adoption — a pattern nobody uses isn't a pattern. Treat responsible use of AI on sensitive data as a hard engineering requirement, and translate privacy, security, and compliance constraints into concrete architecture rather than deferring them. Cloud-Native Engineering Own full-stack delivery in TypeScript/Node.js and Python: service and API layers, data-processing jobs, and the internal interfaces on top of them. Leverage modern cloud infrastructure, event-driven patterns, CI/CD, and observability to deliver scalable AI-native systems. Own deployment, monitoring, and troubleshooting in production, including on-call, and improve the operational posture of what you inherit. Stakeholder Engagement &amp; Advisory Partner directly with product, operations, clinical operations, and business leaders as both technologist and trusted advisor — helping define which use cases are worth building and which aren't. Lead design sessions, proofs of concept, and build-with sessions alongside the people who'll use the workflows, building trust and adoption as you go. Communicate trade-offs, risks, and recommendations clearly to technical and non-technical audiences, up to and including the executive team. Influence roadmap and prioritization with a clear-eyed read of technical risk, sequencing, and cost. Measure &amp; Improve Own the evaluation strategy for your domain: define the metrics, test harnesses, and evaluation plans that measure agent accuracy, latency, safety, and cost-effectiveness. Instrument the systems so their behavior is legible after the fact, not just at demo time. Iterate rapidly on data, feedback, and changing requirements — and kill approaches that aren't working, early and visibly. Growing the Org Mentor and grow engineers through code review, design review, pairing, and direct feedback; make the people around you measurably better. Craft reusable patterns, documentation, and best practices that raise the engineering bar beyond your own team. Anchor our internal community of practice around AI-native and agentic engineering. What success looks like First 90 days: you have a working map of our AI platform surface area, have shipped something real, and have a point of view on where the leverage is. First 6 months: you own a domain outright, are leading a team's technical direction within it, and there's an evaluation story for the agents you've shipped. First year: patterns you established are in use by teams you don't sit on, and engineers point to you as the reason their work got better. What we're looking for 8+ years building and operating production software, with meaningful full-stack depth across a TypeScript/Node.js backend and at least one other language (Python strongly preferred). A track record of technical leadership as an individual contributor: owning a domain, leading multi-engineer efforts to completion, and driving decisions across team boundaries without positional authority. Hands-on experience designing and deploying agentic systems in production — retrieval, orchestration, tool/function calling, and evaluation — with a clear-eyed view of where LLMs and agents work and where they don't. Demonstrated ability to take a loosely defined problem and drive it to a shipped, measured, agent-powered workflow. A working practice of using AI development tools as a force multiplier, with judgment about when to trust, verify, or override them. Strong cloud-native engineering fundamentals; comfort with CI/CD, observability, and running what you build. Fluency with relational data and SQL. Clear written and verbal communication, including the ability to write a design doc that changes minds. This is a remote, cross-functional role. Comfort with ambiguity and a bias toward shipping measurable results. Strongly desired Experience with agent frameworks and multi-agent architectures at production scale. Model evaluation and guardrail infrastructure — measuring output quality, catching regressions, keeping agents inside safe bounds. Experience building platform capabilities consumed by other engineering teams. Background in workflow automation, forecasting-driven products, or supply-demand matching. Prior work in a regulated environment (healthcare/HIPAA, fintech, etc.) and an instinct for the constraints that come with using AI on sensitive data. Experience mentoring engineers or acting as a formal tech lead. How we work Remote-first (US), fast-moving, tight loops between engineering, product, and the business. We're an AI-forward engineering org — we expect AI in the toolchain and in the product, and we measure outcomes over activity. We handle sensitive healthcare data under strict controls; privacy, security, and responsible use of AI are engineering requirements here, not afterthoughts. Salary and Perks Pay Range: $185,725-$264,500 USD Final offer amounts are determined by multiple factors including, but not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations. As an employee of Wheel, you’ll enjoy our Total Rewards Program to help secure your financial future and preserve your health and well-being, including: Medical, Dental and Vision Ancillary: Life, Short and Long Term Disability 401K match Flexible PTO Parental Leave Stock options Additional programs and perks Wheel is committed to equal employment opportunities for all team members. Every decision we make regarding employment is solely based on merit, competence, and performance. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. Research shows that underrepresented groups typically apply only if they meet 100% of the criteria listed. At Wheel, we encourage women, people of color, and LGBTQ+ job seekers to apply for positions even if they don’t check every box for the role.",
+    "url": "https://jobicy.com/jobs/153338-staff-software-engineer-ai-native-systems",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "python",
+      "nodejs"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-15T15:38:56+00:00",
+    "fetched_at": "2026-09-15T20:29:08.572Z",
+    "raw": {
+      "id": 153338,
+      "url": "https://jobicy.com/jobs/153338-staff-software-engineer-ai-native-systems",
+      "jobSlug": "153338-staff-software-engineer-ai-native-systems",
+      "jobTitle": "Staff Software Engineer, AI-Native Systems",
+      "companyName": "Wheel",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/01/WRILS-210112005722-210970.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Director",
+      "jobExcerpt": "Staff Software Engineer, AI-Native Systems (Tech Lead) Location: Remote (US) We are Virtual care only works if the infrastructure behind it does. Wheel builds that infrastructure — the systems that let telehealth run at scale for the patients, clinicians, and companies depending on it. We're not bolting AI onto old workflows; we're rebuilding them from&hellip;",
+      "jobDescription": "<h3><strong>Staff Software Engineer, AI-Native Systems (Tech Lead)</strong></h3>\n<p><strong>Location:</strong> Remote (US)</p>\n</p>\n<h3><strong>We are</strong></h3>\n<p>Virtual care only works if the infrastructure behind it does. Wheel builds that infrastructure — the systems that let telehealth run at scale for the patients, clinicians, and companies depending on it. We're not bolting AI onto old workflows; we're rebuilding them from the ground up. Our mission to put great healthcare in everyone's reach means replacing manual, ad-hoc processes with intelligent, agent-powered systems that carry real operational load. We're innovating in a live, regulated healthcare environment where getting it right matters. This is the next architecture of virtual care, and we're building it now.</p>\n</p>\n<h3><strong>You are</strong></h3>\n<p>A staff-level engineer who sets technical direction for agentic systems and then leads the work to ship them. You've built and operated agents in production, you know where they break, and you have opinions — held loosely, argued well — about how to build them so they hold up in a regulated environment.</p>\n<p>You operate with the scope of a domain owner, not a task owner. You take a problem that isn't yet well-formed, define it, sequence it, and lead a group of engineers to a shipped and measured outcome. Your impact shows up in other people's work as much as your own: the patterns they reuse, the design decisions they don't have to relitigate, the ambiguity you removed before it cost the team a quarter.</p>\n<p>You treat AI two ways at once — as a product capability you build with judgment, and as a development multiplier you use fluently — and you're the person who raises the org's bar on both.</p>\n</p>\n<h3><strong>The Work</strong></h3>\n<h3><strong>Technical Leadership &amp; Direction</strong></h3>\n<ul>\n<li>\n<p>Own the technical direction for a significant AI-native domain: agent architecture, platform abstractions, or evaluation and guardrail infrastructure.</p>\n</li>\n<li>\n<p>Act as tech lead for a squad or a cross-team initiative — decomposing ambiguous problems, sequencing delivery, identifying and clearing blockers, and keeping the team pointed at the outcome rather than the ticket.</p>\n</li>\n<li>\n<p>Write and review design docs; make and document the load-bearing architectural calls, including the ones where the answer is \"not yet\" or \"buy, don't build.\"</p>\n</li>\n<li>\n<p>Establish clear technical ownership where it's currently diffuse, so decisions have a named owner and reviews don't stall.</p>\n</li>\n</ul>\n<h3><strong>Agent Architecture &amp; Engineering</strong></h3>\n<ul>\n<li>\n<p>Design and build production AI agents incorporating retrieval, orchestration, policy-based routing, tool invocation, evaluation harnesses, and lifecycle observability.</p>\n</li>\n<li>\n<p>Set the standards for what \"production-ready agent\" means here — testability, rollback safety, cost ceilings, failure modes, human-in-the-loop boundaries — and hold the bar in review.</p>\n</li>\n<li>\n<p>Take on the hardest parts of the build yourself. This is a hands-on role; you are expected to be in the code.</p>\n</li>\n</ul>\n<h3><strong>AI Platform Foundations</strong></h3>\n<ul>\n<li>\n<p>Build and extend the abstraction layers that let teams integrate AI capabilities cleanly and safely across our services.</p>\n</li>\n<li>\n<p>Define the shared libraries, patterns, and guardrails other teams build on, and drive their adoption — a pattern nobody uses isn't a pattern.</p>\n</li>\n<li>\n<p>Treat responsible use of AI on sensitive data as a hard engineering requirement, and translate privacy, security, and compliance constraints into concrete architecture rather than deferring them.</p>\n</li>\n</ul>\n<h3><strong>Cloud-Native Engineering</strong></h3>\n<ul>\n<li>\n<p>Own full-stack delivery in TypeScript/Node.js and Python: service and API layers, data-processing jobs, and the internal interfaces on top of them.</p>\n</li>\n<li>\n<p>Leverage modern cloud infrastructure, event-driven patterns, CI/CD, and observability to deliver scalable AI-native systems.</p>\n</li>\n<li>\n<p>Own deployment, monitoring, and troubleshooting in production, including on-call, and improve the operational posture of what you inherit.</p>\n</li>\n</ul>\n<h3><strong>Stakeholder Engagement &amp; Advisory</strong></h3>\n<ul>\n<li>\n<p>Partner directly with product, operations, clinical operations, and business leaders as both technologist and trusted advisor — helping define which use cases are worth building and which aren't.</p>\n</li>\n<li>\n<p>Lead design sessions, proofs of concept, and build-with sessions alongside the people who'll use the workflows, building trust and adoption as you go.</p>\n</li>\n<li>\n<p>Communicate trade-offs, risks, and recommendations clearly to technical and non-technical audiences, up to and including the executive team.</p>\n</li>\n<li>\n<p>Influence roadmap and prioritization with a clear-eyed read of technical risk, sequencing, and cost.</p>\n</li>\n</ul>\n<h3><strong>Measure &amp; Improve</strong></h3>\n<ul>\n<li>\n<p>Own the evaluation strategy for your domain: define the metrics, test harnesses, and evaluation plans that measure agent accuracy, latency, safety, and cost-effectiveness.</p>\n</li>\n<li>\n<p>Instrument the systems so their behavior is legible after the fact, not just at demo time.</p>\n</li>\n<li>\n<p>Iterate rapidly on data, feedback, and changing requirements — and kill approaches that aren't working, early and visibly.</p>\n</li>\n</ul>\n<h3><strong>Growing the Org</strong></h3>\n<ul>\n<li>\n<p>Mentor and grow engineers through code review, design review, pairing, and direct feedback; make the people around you measurably better.</p>\n</li>\n<li>\n<p>Craft reusable patterns, documentation, and best practices that raise the engineering bar beyond your own team.</p>\n</li>\n<li>\n<p>Anchor our internal community of practice around AI-native and agentic engineering.</p>\n</p>\n</li>\n</ul>\n<h3><strong>What success looks like</strong></h3>\n<ul>\n<li>\n<p><strong>First 90 days:</strong> you have a working map of our AI platform surface area, have shipped something real, and have a point of view on where the leverage is.</p>\n</li>\n<li>\n<p><strong>First 6 months:</strong> you own a domain outright, are leading a team's technical direction within it, and there's an evaluation story for the agents you've shipped.</p>\n</li>\n<li>\n<p><strong>First year:</strong> patterns you established are in use by teams you don't sit on, and engineers point to you as the reason their work got better.</p>\n</p>\n</li>\n</ul>\n<h3><strong>What we're looking for</strong></h3>\n<ul>\n<li>\n<p>8+ years building and operating production software, with meaningful full-stack depth across a TypeScript/Node.js backend and at least one other language (Python strongly preferred).</p>\n</li>\n<li>\n<p>A track record of technical leadership as an individual contributor: owning a domain, leading multi-engineer efforts to completion, and driving decisions across team boundaries without positional authority.</p>\n</li>\n<li>\n<p>Hands-on experience designing and deploying agentic systems in production — retrieval, orchestration, tool/function calling, and evaluation — with a clear-eyed view of where LLMs and agents work and where they don't.</p>\n</li>\n<li>\n<p>Demonstrated ability to take a loosely defined problem and drive it to a shipped, measured, agent-powered workflow.</p>\n</li>\n<li>\n<p>A working practice of using AI development tools as a force multiplier, with judgment about when to trust, verify, or override them.</p>\n</li>\n<li>\n<p>Strong cloud-native engineering fundamentals; comfort with CI/CD, observability, and running what you build.</p>\n</li>\n<li>\n<p>Fluency with relational data and SQL.</p>\n</li>\n<li>\n<p>Clear written and verbal communication, including the ability to write a design doc that changes minds. This is a remote, cross-functional role.</p>\n</li>\n<li>\n<p>Comfort with ambiguity and a bias toward shipping measurable results.</p>\n</p>\n</li>\n</ul>\n<h3><strong>Strongly desired</strong></h3>\n<ul>\n<li>\n<p>Experience with agent frameworks and multi-agent architectures at production scale.</p>\n</li>\n<li>\n<p>Model evaluation and guardrail infrastructure — measuring output quality, catching regressions, keeping agents inside safe bounds.</p>\n</li>\n<li>\n<p>Experience building platform capabilities consumed by other engineering teams.</p>\n</li>\n<li>\n<p>Background in workflow automation, forecasting-driven products, or supply-demand matching.</p>\n</li>\n<li>\n<p>Prior work in a regulated environment (healthcare/HIPAA, fintech, etc.) and an instinct for the constraints that come with using AI on sensitive data.</p>\n</li>\n<li>\n<p>Experience mentoring engineers or acting as a formal tech lead.</p>\n</p>\n</li>\n</ul>\n<h3><strong>How we work</strong></h3>\n<p>Remote-first (US), fast-moving, tight loops between engineering, product, and the business. We're an AI-forward engineering org — we expect AI in the toolchain and in the product, and we measure outcomes over activity. We handle sensitive healthcare data under strict controls; privacy, security, and responsible use of AI are engineering requirements here, not afterthoughts.</p>\n</p>\n<h3><strong>Salary and Perks</strong></h3>\n<p>Pay Range: $185,725-$264,500 USD</p>\n<p><em>Final offer amounts are determined by multiple factors including, but not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.</em></p>\n<p>As an employee of Wheel, you’ll enjoy our Total Rewards Program to help secure your financial future and preserve your health and well-being, including:</p>\n<ul>\n<li>\n<p>Medical, Dental and Vision</p>\n</li>\n<li>\n<p>Ancillary: Life, Short and Long Term Disability</p>\n</li>\n<li>\n<p>401K match</p>\n</li>\n<li>\n<p>Flexible PTO</p>\n</li>\n<li>\n<p>Parental Leave</p>\n</li>\n<li>\n<p>Stock options</p>\n</li>\n<li>\n<p>Additional programs and perks</p>\n</p>\n</li>\n</ul>\n<p><em>Wheel is committed to equal employment opportunities for all team members. Every decision we make regarding employment is solely based on merit, competence, and performance. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills.</em></p>\n<p><em>Research shows that underrepresented groups typically apply only if they meet 100% of the criteria listed. At Wheel, we encourage women, people of color, and LGBTQ+ job seekers to apply for positions even if they don’t check every box for the role.</em></p>",
+      "pubDate": "2026-09-15T15:38:56+00:00",
+      "salaryMin": 185725,
+      "salaryMax": 264500,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:153321",
+    "platform": "jobicy",
+    "external_id": "153321",
+    "title": "Postgres Engineer",
+    "company": "Supabase",
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Senior Postgres Engineer to join our Postgres Team and help maintain and expand the stability and functionality of our hosted Postgres offering . You’ll work closely with customers, partners, product, engineering, support and success, helping us maintain a secure, stable, performant, and functional Postgres foundation. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions. What you'll own: Build and maintain PostgreSQL extensions in C and Rust, with a deep understanding of internals — parser, planner, WAL mechanics, and MVCC Diagnose and resolve issues in managed PostgreSQL deployments, including custom extension failures, core dump analysis, and performance bottlenecks Own idempotent deployment pipelines across thousands of running PostgreSQL instances, including testing and rollout strategies Manage complex extension ecosystems — compatibility, upgrade paths, and conflict resolution Work with PostgreSQL's background worker framework, shared memory management, and hook system to build reliable, scalable functionality Collaborate closely with customers, partners, product, engineering, support, and success teams to maintain a secure, stable, and performant Postgres foundation What you bring: Deep expertise in PostgreSQL internals - query planner, executor, and storage engine mechanics Proven experience building PostgreSQL extensions in both C and Rust Strong knowledge of PostgreSQL's permission model : RLS, roles, and grant systems Experience troubleshooting production issues in managed PostgreSQL environments, including custom extension issues, performance bottlenecks, and resource contention Comfortable building, testing, and owning idempotent deployments across thousands of running Postgres instances Ability to read and navigate PostgreSQL source code confidently Experience with multi-tenant database architectures Experience running PostgreSQL at scale What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
+    "url": "https://jobicy.com/jobs/153321-postgres-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Anywhere",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "rust",
+      "postgresql",
+      "supabase"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-15T14:25:05+00:00",
+    "fetched_at": "2026-09-15T20:29:08.573Z",
+    "raw": {
+      "id": 153321,
+      "url": "https://jobicy.com/jobs/153321-postgres-engineer",
+      "jobSlug": "153321-postgres-engineer",
+      "jobTitle": "Postgres Engineer",
+      "companyName": "Supabase",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/611d3bfa-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Anywhere",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Senior Postgres Engineer to join our Postgres Team and help maintain and&hellip;",
+      "jobDescription": "<p>Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.</p>\n</p>\n<h3><strong>About the Role</strong></h3>\n<p>We’re looking for a Senior Postgres Engineer to join our Postgres Team and help maintain and expand the stability and functionality of our hosted Postgres offering . You’ll work closely with customers, partners, product, engineering, support and success, helping us maintain a secure, stable, performant, and functional Postgres foundation.</p>\n<p>This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions.</p>\n</p>\n<h3><strong>What you'll own:</strong></h3>\n<ul>\n<li>\n<p>Build and maintain PostgreSQL extensions in C and Rust, with a deep understanding of internals — parser, planner, WAL mechanics, and MVCC</p>\n</li>\n<li>\n<p>Diagnose and resolve issues in managed PostgreSQL deployments, including custom extension failures, core dump analysis, and performance bottlenecks</p>\n</li>\n<li>\n<p>Own idempotent deployment pipelines across thousands of running PostgreSQL instances, including testing and rollout strategies</p>\n</li>\n<li>\n<p>Manage complex extension ecosystems — compatibility, upgrade paths, and conflict resolution</p>\n</li>\n<li>\n<p>Work with PostgreSQL's background worker framework, shared memory management, and hook system to build reliable, scalable functionality</p>\n</li>\n<li>\n<p>Collaborate closely with customers, partners, product, engineering, support, and success teams to maintain a secure, stable, and performant Postgres foundation</p>\n</li>\n</ul>\n<h3><strong>What you bring:</strong></h3>\n<ul>\n<li>\n<p>Deep expertise in <strong>PostgreSQL internals</strong> - query planner, executor, and storage engine mechanics</p>\n</li>\n<li>\n<p>Proven experience building PostgreSQL extensions in both <strong>C</strong> and <strong>Rust</strong></p>\n</li>\n<li>\n<p>Strong knowledge of <strong>PostgreSQL's permission model</strong>: RLS, roles, and grant systems</p>\n</li>\n<li>\n<p>Experience troubleshooting production issues in managed PostgreSQL environments, including custom extension issues, performance bottlenecks, and resource contention</p>\n</li>\n<li>\n<p>Comfortable building, testing, and owning idempotent deployments across thousands of running Postgres instances</p>\n</li>\n<li>\n<p>Ability to read and navigate PostgreSQL source code confidently</p>\n</li>\n<li>\n<p>Experience with multi-tenant database architectures</p>\n</li>\n<li>\n<p>Experience running PostgreSQL at scale</p>\n</li>\n</ul>\n<h3><strong>What We Offer</strong></h3>\n<ul>\n<li>\n<p><strong>Fully Remote</strong></p>\n<p>We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.</p>\n</li>\n<li>\n<p><strong>ESOP</strong></p>\n<p>Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.</p>\n</li>\n<li>\n<p><strong>Tech Allowance</strong></p>\n<p>Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.</p>\n</li>\n<li>\n<p><strong>Health Benefits</strong></p>\n<p>Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.</p>\n</li>\n<li>\n<p><strong>Annual Off-Sites</strong></p>\n<p>Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.</p>\n</li>\n<li>\n<p><strong>Flexible Work</strong></p>\n<p>We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.</p>\n</li>\n<li>\n<p><strong>Professional Development</strong></p>\n<p>Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.</p>\n</p>\n</li>\n</ul>\n<h3><strong>About the Team</strong></h3>\n<p>Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.</p>\n<ul>\n<li>\n<p>~400 team members</p>\n</li>\n<li>\n<p>60+ countries</p>\n</li>\n<li>\n<p>20+ languages spoken</p>\n</li>\n<li>\n<p>Over $1B raised (including our $500M Series F)</p>\n</li>\n<li>\n<p>540,000+ community members</p>\n</li>\n</ul>\n<p>We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.</p>",
+      "pubDate": "2026-09-15T14:25:05+00:00"
+    }
+  },
+  {
     "id": "jobicy:153308",
     "platform": "jobicy",
     "external_id": "153308",
@@ -23,7 +122,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-15T06:03:01+00:00",
-    "fetched_at": "2026-09-15T15:43:57.347Z",
+    "fetched_at": "2026-09-15T20:29:08.575Z",
     "raw": {
       "id": 153308,
       "url": "https://jobicy.com/jobs/153308-chief-technology-officer-3",
@@ -68,7 +167,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-15T04:54:04+00:00",
-    "fetched_at": "2026-09-15T15:43:57.348Z",
+    "fetched_at": "2026-09-15T20:29:08.576Z",
     "raw": {
       "id": 149199,
       "url": "https://jobicy.com/jobs/149199-customer-solutions-engineer-payments",
@@ -121,7 +220,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-15T04:45:17+00:00",
-    "fetched_at": "2026-09-15T15:43:57.349Z",
+    "fetched_at": "2026-09-15T20:29:08.578Z",
     "raw": {
       "id": 150772,
       "url": "https://jobicy.com/jobs/150772-director-of-engineering-leverage",
@@ -168,7 +267,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-15T04:40:14+00:00",
-    "fetched_at": "2026-09-15T15:43:57.352Z",
+    "fetched_at": "2026-09-15T20:29:08.578Z",
     "raw": {
       "id": 150665,
       "url": "https://jobicy.com/jobs/150665-software-engineer-technical-leadership",
@@ -219,7 +318,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-15T04:35:18+00:00",
-    "fetched_at": "2026-09-15T15:43:57.354Z",
+    "fetched_at": "2026-09-15T20:29:08.581Z",
     "raw": {
       "id": 150687,
       "url": "https://jobicy.com/jobs/150687-engineering-manager-eu",
@@ -277,7 +376,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-15T04:30:27+00:00",
-    "fetched_at": "2026-09-15T15:43:57.356Z",
+    "fetched_at": "2026-09-15T20:29:08.583Z",
     "raw": {
       "id": 149241,
       "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
@@ -324,7 +423,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-15T04:30:14+00:00",
-    "fetched_at": "2026-09-15T15:43:57.357Z",
+    "fetched_at": "2026-09-15T20:29:08.584Z",
     "raw": {
       "id": 149262,
       "url": "https://jobicy.com/jobs/149262-head-of-ai",
@@ -381,7 +480,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T14:32:26+00:00",
-    "fetched_at": "2026-09-15T15:43:57.358Z",
+    "fetched_at": "2026-09-15T20:29:08.585Z",
     "raw": {
       "id": 153297,
       "url": "https://jobicy.com/jobs/153297-senior-frontend-software-engineer-ai-receptionist",
@@ -427,7 +526,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T14:12:10+00:00",
-    "fetched_at": "2026-09-15T15:43:57.359Z",
+    "fetched_at": "2026-09-15T20:29:08.587Z",
     "raw": {
       "id": 153275,
       "url": "https://jobicy.com/jobs/153275-manager-gtm-engineering",
@@ -472,7 +571,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T14:05:10+00:00",
-    "fetched_at": "2026-09-15T15:43:57.360Z",
+    "fetched_at": "2026-09-15T20:29:08.588Z",
     "raw": {
       "id": 153250,
       "url": "https://jobicy.com/jobs/153250-backend-engineer-2",
@@ -518,7 +617,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T14:02:28+00:00",
-    "fetched_at": "2026-09-15T15:43:57.361Z",
+    "fetched_at": "2026-09-15T20:29:08.589Z",
     "raw": {
       "id": 153241,
       "url": "https://jobicy.com/jobs/153241-member-of-technical-staff-robotics",
@@ -579,7 +678,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T06:17:07+00:00",
-    "fetched_at": "2026-09-15T15:43:57.362Z",
+    "fetched_at": "2026-09-15T20:29:08.589Z",
     "raw": {
       "id": 153227,
       "url": "https://jobicy.com/jobs/153227-senior-backend-engineer-boosters",
@@ -627,7 +726,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T06:10:51+00:00",
-    "fetched_at": "2026-09-15T15:43:57.362Z",
+    "fetched_at": "2026-09-15T20:29:08.590Z",
     "raw": {
       "id": 153205,
       "url": "https://jobicy.com/jobs/153205-senior-backend-software-engineer-canada",
@@ -690,7 +789,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T06:10:33+00:00",
-    "fetched_at": "2026-09-15T15:43:57.364Z",
+    "fetched_at": "2026-09-15T20:29:08.592Z",
     "raw": {
       "id": 153194,
       "url": "https://jobicy.com/jobs/153194-sr-product-engineer",
@@ -712,6 +811,62 @@
       "salaryMin": 162000,
       "salaryMax": 182000,
       "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:153195",
+    "platform": "jobicy",
+    "external_id": "153195",
+    "title": "Senior+ Backend Software Engineer - Asia",
+    "company": "Palmstreet",
+    "description": "About Palmstreet: Palmstreet is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into new categories to better serve our fast-growing audience. Our vision is to become the “World’s Online Main Street,” bringing the charm of in-person shopping to engaging, social online experiences. Backed by top Silicon Valley VCs and powered by a nimble, empathetic team, we’ve grown our GMV by 500x in the last 18 months. As we continue shaping the future of social commerce, we’re looking for talented individuals who are excited to grow with us and join our mission. The Opportunity: Palmstreet is looking for a Senior Software Engineer to join the team. As a Senior Software Engineer, you will lead the team on key architectural decisions, work on core user experiences like instant bidding and live interactions, develop scalable architecture to handle millions of users, innovate core features like live streaming and checkout processes, and maintain a reliable deployment pipeline. Responsibilities: Build and maintain robust backend services and APIs that power both web and mobile applications using Node.js Work closely with PM and design to build scalable products and services Establish self as an owner of a particular component, feature, or system with expert end-to-end understanding Successfully complete projects at large scope while maintaining a consistently high level of productivity Take active ownership of DevOps responsibilities including CI/CD pipelines, infrastructure management, deployment automation, and system reliability Leverage AI coding tools (Cursor, Codex, Claude Code) to accelerate development velocity and improve code quality Qualifications: BS (or higher) in Computer Science Bilingual proficiency in English and Mandarin 5+ years experience building highly scalable and reliable infrastructure Payment system experience preferred Hands-on DevOps experience: CI/CD, infrastructure as code, containerization (Kubernetes, Docker), and cloud platforms (GCP/AWS) Proficiency with AI-assisted development tools (Cursor, Codex, Claude Code) preferred Experience building high-concurrency systems preferred Preferred Qualifications: Experience creating web interfaces using React, HTML, CSS, and JavaScript to integrate with backend services Your Location: Remote - Anywhere in the China Compensation: Salary range: 600k - 1M RMB / year. 5 insurances + 1 housing fund(五险一金) included Equity grants will also be provided as part of the total compensation package. Why Join Us? Shape the future of live shopping : Be part of a dynamic team revolutionizing the online shopping experience, combining creativity and technology to create immersive, interactive platforms for sellers and buyers alike. Collaborate with industry pioneers : Work alongside a nimble, innovative team, backed by some of the most prestigious VCs in Silicon Valley, with opportunities to influence the product direction. Solving complex challenges: You'll take on complex problems that others haven't yet been able to solve, driving innovation and pushing boundaries in your work. Thrive in a flat, startup environment: Take full ownership of your projects while working alongside a supportive team that values collaboration and mutual respect. Our Commitment to Diversity and Inclusion: Palmstreet is proud to be an equal opportunity employer. We celebrate diversity and encourage applications from everyone—especially those whose identities are traditionally underrepresented in tech. We do not discriminate on race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. For roles in Canada, we also comply with the Employment Equity Act. Application Process: We’re excited to review your application! If your experience aligns with what we’re looking for, our hiring team will reach out to schedule an initial screening call and walk you through the next steps of our interview process. While we try our best to respond to everyone, the high volume of applications may mean we’re unable to provide individual updates if we decide not to move forward. To stay connected and explore future opportunities, follow us on LinkedIn or visit us at https://palmstreet.app/careers .",
+    "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CNY",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "China",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "react",
+      "nodejs",
+      "aws",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "llm"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-14T06:10:32+00:00",
+    "fetched_at": "2026-09-15T20:29:08.593Z",
+    "raw": {
+      "id": 153195,
+      "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
+      "jobSlug": "153195-senior-backend-software-engineer-asia",
+      "jobTitle": "Senior+ Backend Software Engineer - Asia",
+      "companyName": "Palmstreet",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fa38ec7c-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "China",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Palmstreet: Palmstreet is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into&hellip;",
+      "jobDescription": "<p><strong>About Palmstreet:</strong></p>\n<p><a href=\"http://palmstreet.app/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Palmstreet</a> is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into new categories to better serve our fast-growing audience.</p>\n<p>Our vision is to become the “World’s Online Main Street,” bringing the charm of in-person shopping to engaging, social online experiences. Backed by top Silicon Valley VCs and powered by a nimble, empathetic team, we’ve grown our GMV by 500x in the last 18 months.</p>\n<p>As we continue shaping the future of social commerce, we’re looking for talented individuals who are excited to grow with us and join our mission.</p>\n</p>\n<p><strong>The Opportunity:</strong></p>\n<p>Palmstreet is looking for a Senior Software Engineer to join the team. As a Senior Software Engineer, you will lead the team on key architectural decisions, work on core user experiences like instant bidding and live interactions, develop scalable architecture to handle millions of users, innovate core features like live streaming and checkout processes, and maintain a reliable deployment pipeline.</p>\n</p>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n<li>\n<p>Build and maintain robust backend services and APIs that power both web and mobile applications using Node.js</p>\n</li>\n<li>\n<p>Work closely with PM and design to build scalable products and services</p>\n</li>\n<li>\n<p>Establish self as an owner of a particular component, feature, or system with expert end-to-end understanding</p>\n</li>\n<li>\n<p>Successfully complete projects at large scope while maintaining a consistently high level of productivity</p>\n</li>\n<li>\n<p>Take active ownership of DevOps responsibilities including CI/CD pipelines, infrastructure management, deployment automation, and system reliability</p>\n</li>\n<li>\n<p>Leverage AI coding tools (Cursor, Codex, Claude Code) to accelerate development velocity and improve code quality</p>\n</li>\n</ul>\n<p><strong>Qualifications:</strong></p>\n<ul>\n<li>\n<p>BS (or higher) in Computer Science</p>\n</li>\n<li>\n<p>Bilingual proficiency in English and Mandarin</p>\n</li>\n<li>\n<p>5+ years experience building highly scalable and reliable infrastructure</p>\n</li>\n<li>\n<p>Payment system experience preferred</p>\n</li>\n<li>\n<p>Hands-on DevOps experience: CI/CD, infrastructure as code, containerization (Kubernetes, Docker), and cloud platforms (GCP/AWS)</p>\n</li>\n<li>\n<p>Proficiency with AI-assisted development tools (Cursor, Codex, Claude Code) preferred</p>\n</li>\n<li>\n<p>Experience building high-concurrency systems preferred</p>\n</li>\n</ul>\n<p><strong>Preferred Qualifications:</strong></p>\n<ul>\n<li>\n<p>Experience creating web interfaces using <strong>React, HTML, CSS, and JavaScript</strong> to integrate with backend services</p>\n</li>\n</ul>\n<p><strong>Your Location:</strong></p>\n<ul>\n<li>\n<p>Remote - Anywhere in the China</p>\n</li>\n</ul>\n<p><strong>Compensation:</strong></p>\n<ul>\n<li>\n<p>Salary range: 600k - 1M RMB / year.</p>\n</li>\n<li>\n<p>5 insurances + 1 housing fund(五险一金) included</p>\n</li>\n<li>\n<p>Equity grants will also be provided as part of the total compensation package.</p>\n</li>\n</ul>\n<p><strong>Why Join Us?</strong></p>\n<ul>\n<li>\n<p><strong>Shape the future of live shopping</strong>: Be part of a dynamic team revolutionizing the online shopping experience, combining creativity and technology to create immersive, interactive platforms for sellers and buyers alike.</p>\n</li>\n<li>\n<p><strong>Collaborate with industry pioneers</strong>: Work alongside a nimble, innovative team, backed by some of the most prestigious VCs in Silicon Valley, with opportunities to influence the product direction.</p>\n</li>\n<li>\n<p><strong>Solving complex challenges:</strong> You'll take on complex problems that others haven't yet been able to solve, driving innovation and pushing boundaries in your work.</p>\n</li>\n<li>\n<p><strong>Thrive in a flat, startup environment:</strong> Take full ownership of your projects while working alongside a supportive team that values collaboration and mutual respect.</p>\n</li>\n</ul>\n<p><strong>Our Commitment to Diversity and Inclusion:</strong></p>\n<p>Palmstreet is proud to be an equal opportunity employer. We celebrate diversity and encourage applications from everyone—especially those whose identities are traditionally underrepresented in tech. We do not discriminate on race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law.</p>\n<p>For roles in Canada, we also comply with the Employment Equity Act.</p>\n<p><strong>Application Process:</strong></p>\n<p>We’re excited to review your application! If your experience aligns with what we’re looking for, our hiring team will reach out to schedule an initial screening call and walk you through the next steps of our interview process.</p>\n<p>While we try our best to respond to everyone, the high volume of applications may mean we’re unable to provide individual updates if we decide not to move forward.</p>\n<p>To stay connected and explore future opportunities, follow us on <a href=\"https://www.linkedin.com/company/palmstreet/\" rel=\"nofollow ugc noopener\" target=\"_blank\">LinkedIn</a> or visit us at <a href=\"https://palmstreet.app/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://palmstreet.app/careers</a>.</p>",
+      "pubDate": "2026-09-14T06:10:32+00:00",
+      "salaryMin": 600000,
+      "salaryMax": 1000000,
+      "salaryCurrency": "CNY",
       "salaryPeriod": "yearly"
     }
   },
@@ -752,7 +907,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T06:10:32+00:00",
-    "fetched_at": "2026-09-15T15:43:57.366Z",
+    "fetched_at": "2026-09-15T20:29:08.595Z",
     "raw": {
       "id": 153199,
       "url": "https://jobicy.com/jobs/153199-mid-sr-product-engineer-intelligence",
@@ -774,62 +929,6 @@
       "salaryMin": 131000,
       "salaryMax": 175000,
       "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:153195",
-    "platform": "jobicy",
-    "external_id": "153195",
-    "title": "Senior+ Backend Software Engineer - Asia",
-    "company": "Palmstreet",
-    "description": "About Palmstreet: Palmstreet is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into new categories to better serve our fast-growing audience. Our vision is to become the “World’s Online Main Street,” bringing the charm of in-person shopping to engaging, social online experiences. Backed by top Silicon Valley VCs and powered by a nimble, empathetic team, we’ve grown our GMV by 500x in the last 18 months. As we continue shaping the future of social commerce, we’re looking for talented individuals who are excited to grow with us and join our mission. The Opportunity: Palmstreet is looking for a Senior Software Engineer to join the team. As a Senior Software Engineer, you will lead the team on key architectural decisions, work on core user experiences like instant bidding and live interactions, develop scalable architecture to handle millions of users, innovate core features like live streaming and checkout processes, and maintain a reliable deployment pipeline. Responsibilities: Build and maintain robust backend services and APIs that power both web and mobile applications using Node.js Work closely with PM and design to build scalable products and services Establish self as an owner of a particular component, feature, or system with expert end-to-end understanding Successfully complete projects at large scope while maintaining a consistently high level of productivity Take active ownership of DevOps responsibilities including CI/CD pipelines, infrastructure management, deployment automation, and system reliability Leverage AI coding tools (Cursor, Codex, Claude Code) to accelerate development velocity and improve code quality Qualifications: BS (or higher) in Computer Science Bilingual proficiency in English and Mandarin 5+ years experience building highly scalable and reliable infrastructure Payment system experience preferred Hands-on DevOps experience: CI/CD, infrastructure as code, containerization (Kubernetes, Docker), and cloud platforms (GCP/AWS) Proficiency with AI-assisted development tools (Cursor, Codex, Claude Code) preferred Experience building high-concurrency systems preferred Preferred Qualifications: Experience creating web interfaces using React, HTML, CSS, and JavaScript to integrate with backend services Your Location: Remote - Anywhere in the China Compensation: Salary range: 600k - 1M RMB / year. 5 insurances + 1 housing fund(五险一金) included Equity grants will also be provided as part of the total compensation package. Why Join Us? Shape the future of live shopping : Be part of a dynamic team revolutionizing the online shopping experience, combining creativity and technology to create immersive, interactive platforms for sellers and buyers alike. Collaborate with industry pioneers : Work alongside a nimble, innovative team, backed by some of the most prestigious VCs in Silicon Valley, with opportunities to influence the product direction. Solving complex challenges: You'll take on complex problems that others haven't yet been able to solve, driving innovation and pushing boundaries in your work. Thrive in a flat, startup environment: Take full ownership of your projects while working alongside a supportive team that values collaboration and mutual respect. Our Commitment to Diversity and Inclusion: Palmstreet is proud to be an equal opportunity employer. We celebrate diversity and encourage applications from everyone—especially those whose identities are traditionally underrepresented in tech. We do not discriminate on race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. For roles in Canada, we also comply with the Employment Equity Act. Application Process: We’re excited to review your application! If your experience aligns with what we’re looking for, our hiring team will reach out to schedule an initial screening call and walk you through the next steps of our interview process. While we try our best to respond to everyone, the high volume of applications may mean we’re unable to provide individual updates if we decide not to move forward. To stay connected and explore future opportunities, follow us on LinkedIn or visit us at https://palmstreet.app/careers .",
-    "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CNY",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "China",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "react",
-      "nodejs",
-      "aws",
-      "gcp",
-      "docker",
-      "kubernetes",
-      "llm"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-14T06:10:32+00:00",
-    "fetched_at": "2026-09-15T15:43:57.367Z",
-    "raw": {
-      "id": 153195,
-      "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
-      "jobSlug": "153195-senior-backend-software-engineer-asia",
-      "jobTitle": "Senior+ Backend Software Engineer - Asia",
-      "companyName": "Palmstreet",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fa38ec7c-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "China",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About Palmstreet: Palmstreet is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into&hellip;",
-      "jobDescription": "<p><strong>About Palmstreet:</strong></p>\n<p><a href=\"http://palmstreet.app/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Palmstreet</a> is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into new categories to better serve our fast-growing audience.</p>\n<p>Our vision is to become the “World’s Online Main Street,” bringing the charm of in-person shopping to engaging, social online experiences. Backed by top Silicon Valley VCs and powered by a nimble, empathetic team, we’ve grown our GMV by 500x in the last 18 months.</p>\n<p>As we continue shaping the future of social commerce, we’re looking for talented individuals who are excited to grow with us and join our mission.</p>\n</p>\n<p><strong>The Opportunity:</strong></p>\n<p>Palmstreet is looking for a Senior Software Engineer to join the team. As a Senior Software Engineer, you will lead the team on key architectural decisions, work on core user experiences like instant bidding and live interactions, develop scalable architecture to handle millions of users, innovate core features like live streaming and checkout processes, and maintain a reliable deployment pipeline.</p>\n</p>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n<li>\n<p>Build and maintain robust backend services and APIs that power both web and mobile applications using Node.js</p>\n</li>\n<li>\n<p>Work closely with PM and design to build scalable products and services</p>\n</li>\n<li>\n<p>Establish self as an owner of a particular component, feature, or system with expert end-to-end understanding</p>\n</li>\n<li>\n<p>Successfully complete projects at large scope while maintaining a consistently high level of productivity</p>\n</li>\n<li>\n<p>Take active ownership of DevOps responsibilities including CI/CD pipelines, infrastructure management, deployment automation, and system reliability</p>\n</li>\n<li>\n<p>Leverage AI coding tools (Cursor, Codex, Claude Code) to accelerate development velocity and improve code quality</p>\n</li>\n</ul>\n<p><strong>Qualifications:</strong></p>\n<ul>\n<li>\n<p>BS (or higher) in Computer Science</p>\n</li>\n<li>\n<p>Bilingual proficiency in English and Mandarin</p>\n</li>\n<li>\n<p>5+ years experience building highly scalable and reliable infrastructure</p>\n</li>\n<li>\n<p>Payment system experience preferred</p>\n</li>\n<li>\n<p>Hands-on DevOps experience: CI/CD, infrastructure as code, containerization (Kubernetes, Docker), and cloud platforms (GCP/AWS)</p>\n</li>\n<li>\n<p>Proficiency with AI-assisted development tools (Cursor, Codex, Claude Code) preferred</p>\n</li>\n<li>\n<p>Experience building high-concurrency systems preferred</p>\n</li>\n</ul>\n<p><strong>Preferred Qualifications:</strong></p>\n<ul>\n<li>\n<p>Experience creating web interfaces using <strong>React, HTML, CSS, and JavaScript</strong> to integrate with backend services</p>\n</li>\n</ul>\n<p><strong>Your Location:</strong></p>\n<ul>\n<li>\n<p>Remote - Anywhere in the China</p>\n</li>\n</ul>\n<p><strong>Compensation:</strong></p>\n<ul>\n<li>\n<p>Salary range: 600k - 1M RMB / year.</p>\n</li>\n<li>\n<p>5 insurances + 1 housing fund(五险一金) included</p>\n</li>\n<li>\n<p>Equity grants will also be provided as part of the total compensation package.</p>\n</li>\n</ul>\n<p><strong>Why Join Us?</strong></p>\n<ul>\n<li>\n<p><strong>Shape the future of live shopping</strong>: Be part of a dynamic team revolutionizing the online shopping experience, combining creativity and technology to create immersive, interactive platforms for sellers and buyers alike.</p>\n</li>\n<li>\n<p><strong>Collaborate with industry pioneers</strong>: Work alongside a nimble, innovative team, backed by some of the most prestigious VCs in Silicon Valley, with opportunities to influence the product direction.</p>\n</li>\n<li>\n<p><strong>Solving complex challenges:</strong> You'll take on complex problems that others haven't yet been able to solve, driving innovation and pushing boundaries in your work.</p>\n</li>\n<li>\n<p><strong>Thrive in a flat, startup environment:</strong> Take full ownership of your projects while working alongside a supportive team that values collaboration and mutual respect.</p>\n</li>\n</ul>\n<p><strong>Our Commitment to Diversity and Inclusion:</strong></p>\n<p>Palmstreet is proud to be an equal opportunity employer. We celebrate diversity and encourage applications from everyone—especially those whose identities are traditionally underrepresented in tech. We do not discriminate on race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law.</p>\n<p>For roles in Canada, we also comply with the Employment Equity Act.</p>\n<p><strong>Application Process:</strong></p>\n<p>We’re excited to review your application! If your experience aligns with what we’re looking for, our hiring team will reach out to schedule an initial screening call and walk you through the next steps of our interview process.</p>\n<p>While we try our best to respond to everyone, the high volume of applications may mean we’re unable to provide individual updates if we decide not to move forward.</p>\n<p>To stay connected and explore future opportunities, follow us on <a href=\"https://www.linkedin.com/company/palmstreet/\" rel=\"nofollow ugc noopener\" target=\"_blank\">LinkedIn</a> or visit us at <a href=\"https://palmstreet.app/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://palmstreet.app/careers</a>.</p>",
-      "pubDate": "2026-09-14T06:10:32+00:00",
-      "salaryMin": 600000,
-      "salaryMax": 1000000,
-      "salaryCurrency": "CNY",
       "salaryPeriod": "yearly"
     }
   },
@@ -860,7 +959,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:20:20+00:00",
-    "fetched_at": "2026-09-15T15:43:57.368Z",
+    "fetched_at": "2026-09-15T20:29:08.596Z",
     "raw": {
       "id": 150588,
       "url": "https://jobicy.com/jobs/150588-head-of-engineering",
@@ -912,7 +1011,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:20:18+00:00",
-    "fetched_at": "2026-09-15T15:43:57.370Z",
+    "fetched_at": "2026-09-15T20:29:08.597Z",
     "raw": {
       "id": 150585,
       "url": "https://jobicy.com/jobs/150585-staff-software-engineer-3",
@@ -963,7 +1062,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:20:14+00:00",
-    "fetched_at": "2026-09-15T15:43:57.370Z",
+    "fetched_at": "2026-09-15T20:29:08.598Z",
     "raw": {
       "id": 145861,
       "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
@@ -1018,7 +1117,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-14T05:12:44+00:00",
-    "fetched_at": "2026-09-15T15:43:57.371Z",
+    "fetched_at": "2026-09-15T20:29:08.599Z",
     "raw": {
       "id": 145995,
       "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer",
@@ -1072,7 +1171,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:08:23+00:00",
-    "fetched_at": "2026-09-15T15:43:57.372Z",
+    "fetched_at": "2026-09-15T20:29:08.601Z",
     "raw": {
       "id": 146058,
       "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
@@ -1124,7 +1223,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:08:16+00:00",
-    "fetched_at": "2026-09-15T15:43:57.373Z",
+    "fetched_at": "2026-09-15T20:29:08.602Z",
     "raw": {
       "id": 146081,
       "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
@@ -1182,7 +1281,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:05:25+00:00",
-    "fetched_at": "2026-09-15T15:43:57.374Z",
+    "fetched_at": "2026-09-15T20:29:08.603Z",
     "raw": {
       "id": 149168,
       "url": "https://jobicy.com/jobs/149168-senior-data-platform-engineer-veterinary-technology",
@@ -1238,7 +1337,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:05:21+00:00",
-    "fetched_at": "2026-09-15T15:43:57.375Z",
+    "fetched_at": "2026-09-15T20:29:08.604Z",
     "raw": {
       "id": 149161,
       "url": "https://jobicy.com/jobs/149161-senior-integrations-engineer",
@@ -1290,7 +1389,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:05:15+00:00",
-    "fetched_at": "2026-09-15T15:43:57.375Z",
+    "fetched_at": "2026-09-15T20:29:08.605Z",
     "raw": {
       "id": 149155,
       "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
@@ -1335,7 +1434,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:05:12+00:00",
-    "fetched_at": "2026-09-15T15:43:57.376Z",
+    "fetched_at": "2026-09-15T20:29:08.607Z",
     "raw": {
       "id": 149184,
       "url": "https://jobicy.com/jobs/149184-forward-deployed-engineer-ai-creative-transformation-marketing",
@@ -1380,7 +1479,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:05:11+00:00",
-    "fetched_at": "2026-09-15T15:43:57.377Z",
+    "fetched_at": "2026-09-15T20:29:08.608Z",
     "raw": {
       "id": 149183,
       "url": "https://jobicy.com/jobs/149183-forward-deployed-engineer-ai-business-transformation-technology-creative-network",
@@ -1436,7 +1535,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-14T05:05:08+00:00",
-    "fetched_at": "2026-09-15T15:43:57.378Z",
+    "fetched_at": "2026-09-15T20:29:08.609Z",
     "raw": {
       "id": 149164,
       "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
@@ -1479,7 +1578,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-13T11:54:41+00:00",
-    "fetched_at": "2026-09-15T15:43:57.379Z",
+    "fetched_at": "2026-09-15T20:29:08.610Z",
     "raw": {
       "id": 153171,
       "url": "https://jobicy.com/jobs/153171-qa-manual-test-engineer",
@@ -1531,7 +1630,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-13T11:53:09+00:00",
-    "fetched_at": "2026-09-15T15:43:57.380Z",
+    "fetched_at": "2026-09-15T20:29:08.611Z",
     "raw": {
       "id": 153163,
       "url": "https://jobicy.com/jobs/153163-senior-software-engineer-trust",
@@ -1581,7 +1680,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-13T11:53:06+00:00",
-    "fetched_at": "2026-09-15T15:43:57.380Z",
+    "fetched_at": "2026-09-15T20:29:08.612Z",
     "raw": {
       "id": 153164,
       "url": "https://jobicy.com/jobs/153164-junior-software-engineer-2",
@@ -1626,7 +1725,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T16:50:10+00:00",
-    "fetched_at": "2026-09-15T15:43:57.382Z",
+    "fetched_at": "2026-09-15T20:29:08.614Z",
     "raw": {
       "id": 153122,
       "url": "https://jobicy.com/jobs/153122-chief-technology-officer-2",
@@ -1677,7 +1776,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:45:29+00:00",
-    "fetched_at": "2026-09-15T15:43:57.382Z",
+    "fetched_at": "2026-09-15T20:29:08.615Z",
     "raw": {
       "id": 149046,
       "url": "https://jobicy.com/jobs/149046-tech-lead-gn-feature-team",
@@ -1733,7 +1832,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-12T13:45:23+00:00",
-    "fetched_at": "2026-09-15T15:43:57.383Z",
+    "fetched_at": "2026-09-15T20:29:08.616Z",
     "raw": {
       "id": 149048,
       "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
@@ -1785,7 +1884,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:45:08+00:00",
-    "fetched_at": "2026-09-15T15:43:57.384Z",
+    "fetched_at": "2026-09-15T20:29:08.617Z",
     "raw": {
       "id": 149049,
       "url": "https://jobicy.com/jobs/149049-ai-enablement-lead-gn-data-intelligence",
@@ -1837,7 +1936,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:30:07+00:00",
-    "fetched_at": "2026-09-15T15:43:57.385Z",
+    "fetched_at": "2026-09-15T20:29:08.618Z",
     "raw": {
       "id": 149101,
       "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
@@ -1893,7 +1992,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:25:11+00:00",
-    "fetched_at": "2026-09-15T15:43:57.386Z",
+    "fetched_at": "2026-09-15T20:29:08.620Z",
     "raw": {
       "id": 149108,
       "url": "https://jobicy.com/jobs/149108-senior-software-engineer-unsecured-installments",
@@ -1940,7 +2039,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:17:14+00:00",
-    "fetched_at": "2026-09-15T15:43:57.387Z",
+    "fetched_at": "2026-09-15T20:29:08.621Z",
     "raw": {
       "id": 153110,
       "url": "https://jobicy.com/jobs/153110-senior-manager-engineering",
@@ -1992,7 +2091,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:17:14+00:00",
-    "fetched_at": "2026-09-15T15:43:57.388Z",
+    "fetched_at": "2026-09-15T20:29:08.623Z",
     "raw": {
       "id": 153108,
       "url": "https://jobicy.com/jobs/153108-senior-gen-ai-software-engineer",
@@ -2045,7 +2144,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:17:11+00:00",
-    "fetched_at": "2026-09-15T15:43:57.389Z",
+    "fetched_at": "2026-09-15T20:29:08.623Z",
     "raw": {
       "id": 153109,
       "url": "https://jobicy.com/jobs/153109-senior-software-engineer-i",
@@ -2095,7 +2194,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:16:58+00:00",
-    "fetched_at": "2026-09-15T15:43:57.390Z",
+    "fetched_at": "2026-09-15T20:29:08.625Z",
     "raw": {
       "id": 153101,
       "url": "https://jobicy.com/jobs/153101-senior-forward-deployed-engineer",
@@ -2144,7 +2243,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:16:58+00:00",
-    "fetched_at": "2026-09-15T15:43:57.392Z",
+    "fetched_at": "2026-09-15T20:29:08.626Z",
     "raw": {
       "id": 153097,
       "url": "https://jobicy.com/jobs/153097-staff-backend-engineer-commerce",
@@ -2194,7 +2293,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:16:43+00:00",
-    "fetched_at": "2026-09-15T15:43:57.392Z",
+    "fetched_at": "2026-09-15T20:29:08.627Z",
     "raw": {
       "id": 153093,
       "url": "https://jobicy.com/jobs/153093-team-lead-software-engineer",
@@ -2250,7 +2349,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-12T13:16:42+00:00",
-    "fetched_at": "2026-09-15T15:43:57.393Z",
+    "fetched_at": "2026-09-15T20:29:08.628Z",
     "raw": {
       "id": 153088,
       "url": "https://jobicy.com/jobs/153088-senior-software-engineer-8",
@@ -2310,7 +2409,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T17:39:38+00:00",
-    "fetched_at": "2026-09-15T15:43:57.394Z",
+    "fetched_at": "2026-09-15T20:29:08.629Z",
     "raw": {
       "id": 153075,
       "url": "https://jobicy.com/jobs/153075-senior-software-engineer-full-stack-merchants",
@@ -2364,7 +2463,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T13:21:11+00:00",
-    "fetched_at": "2026-09-15T15:43:57.394Z",
+    "fetched_at": "2026-09-15T20:29:08.630Z",
     "raw": {
       "id": 153066,
       "url": "https://jobicy.com/jobs/153066-lead-software-engineer",
@@ -2425,7 +2524,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T13:15:29+00:00",
-    "fetched_at": "2026-09-15T15:43:57.396Z",
+    "fetched_at": "2026-09-15T20:29:08.632Z",
     "raw": {
       "id": 153047,
       "url": "https://jobicy.com/jobs/153047-senior-software-engineer-front-end-full-stack",
@@ -2478,7 +2577,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T13:15:09+00:00",
-    "fetched_at": "2026-09-15T15:43:57.396Z",
+    "fetched_at": "2026-09-15T20:29:08.633Z",
     "raw": {
       "id": 153044,
       "url": "https://jobicy.com/jobs/153044-associate-software-engineer-marketplace",
@@ -2527,7 +2626,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T13:13:09+00:00",
-    "fetched_at": "2026-09-15T15:43:57.397Z",
+    "fetched_at": "2026-09-15T20:29:08.634Z",
     "raw": {
       "id": 153037,
       "url": "https://jobicy.com/jobs/153037-ai-senior-engineer-graph",
@@ -2585,7 +2684,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T13:04:30+00:00",
-    "fetched_at": "2026-09-15T15:43:57.398Z",
+    "fetched_at": "2026-09-15T20:29:08.635Z",
     "raw": {
       "id": 153029,
       "url": "https://jobicy.com/jobs/153029-software-engineer-iii-ai-ml",
@@ -2638,7 +2737,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T13:01:08+00:00",
-    "fetched_at": "2026-09-15T15:43:57.399Z",
+    "fetched_at": "2026-09-15T20:29:08.637Z",
     "raw": {
       "id": 153019,
       "url": "https://jobicy.com/jobs/153019-salesforce-developer-iii",
@@ -2661,74 +2760,6 @@
       "salaryMax": 149000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:153015",
-    "platform": "jobicy",
-    "external_id": "153015",
-    "title": "R&D Talent Community",
-    "company": "ExtraHop",
-    "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running. Our mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place you’d like to spend the next chapter of your career, we’d love to hear from you. Submit your resume here to express interest. We review general engineering applicants regularly and will reach out as relevant roles become available. Our engineering organization builds the foundation, services, and capabilities that power ExtraHop’s industry leading products. Engineers at ExtraHop work across a wide range of challenges that include systems level development, performance optimization, distributed services, network data processing, and user facing features. We offer an engaging and collaborative environment where engineers are encouraged to design thoughtfully, communicate clearly, and deliver high quality solutions. We value curiosity, ownership, and a willingness to dive deep into complex technologies while contributing to a positive, inclusive culture. General Key Responsibilities Design, build, and maintain high quality software components that contribute to ExtraHop’s core platform and product capabilities. Collaborate closely with engineering peers, product management, UX, QA, and other partners to define requirements, architecture, and implementation details. Participate in code reviews, technical discussions, and architectural planning to ensure quality, stability, scalability, and long term maintainability. Debug, troubleshoot, and improve software running in real world customer environments. Support performance, scalability, and reliability initiatives through measurement, analysis, and optimization. Contribute to test automation, CI/CD processes, and modern engineering practices. Participate in agile development methodologies and help continuously improve team processes. Demonstrate ownership, technical curiosity, and a commitment to continuous learning. Model ExtraHop’s core engineering values which include collaboration, kindness, customer focus, and building technology that matters. Often Required Qualifications Bachelor’s degree in Computer Science, Engineering, or equivalent practical experience. Strong programming skills in one or more of the following languages: Go, Python, C, C++, Rust, JavaScript, or TypeScript. Experience developing software on Linux or Unix environments, including debugging, tooling, and common developer workflows. Understanding of networking fundamentals and common Layer 2 through Layer 7 protocols. Familiarity with secure development concepts including encryption fundamentals and modern authentication ideas such as TLS, SAML, or OIDC. Ability to design and implement software with an emphasis on code quality, maintainability, and reliability. Strong problem solving skills, clear communication, and the ability to work both independently and collaboratively. Demonstrated ability to learn new technologies and navigate large or complex systems. General Preferred Qualifications Experience with cloud providers such as AWS, GCP, or Azure. Familiarity with containers and orchestration technologies such as Docker and Kubernetes. Experience with Infrastructure as Code tools including Terraform or Ansible. Experience with databases such as PostgreSQL, MySQL, Redis, or other distributed storage technologies. Exposure to observability or monitoring tools including Prometheus, Grafana, Elastic, or similar systems. Experience working with CI/CD tools such as GitLab CI, GitHub Actions, or Jenkins. Experience building or supporting software at enterprise scale with considerations around throughput, latency, memory, and resource constraints. Awareness of cybersecurity practices, packet analysis tools such as Wireshark or tcpdump, or general familiarity with detection concepts. Ability to mentor others and contribute to a positive, collaborative engineering culture. ABOUT EXTRAHOP ExtraHop is reinventing Network Detection and Response (NDR) to offer enterprises unparalleled visibility, context, and control against emerging threats. The platform integrates NDR with Network Performance Management (NPM), Intrusion Detection Systems (IDS), and forensics, providing a single, comprehensive solution. By decrypting and analyzing complete packet-level data at wire speed and leveraging cloud-scale machine learning, ExtraHop empowers Security Operations Centers (SOCs) to detect, investigate, and remediate modern cyber risks in real time across their entire hybrid infrastructure, including data center, cloud, and SASE environments. This comprehensive approach and market innovation have earned ExtraHop unique recognition as the only NDR vendor acknowledged as a leader by all major analyst firms, including the 2025 Gartner® Magic Quadrant for Network Detection and Response™, the 2025 Forrester® Wave for Network Analysis and Visibility, the 2024 IDC® Marketscape for NDR, and the 2025 Gigamon® Radar Report for Network Detection and Response. Since 2007, ExtraHop has consistently helped organizations worldwide extract in-depth network telemetry and contextual insights, affirming its commitment to protecting and empowering the connected enterprise. OUR VALUES Our culture is rooted in our five Values . These set the expectations for how we work individually and collectively as a team. Lead with Purpose: We are driven to deliver results that create a positive impact for our customers, partners, and colleagues. Act with Integrity: We operate with transparency, authenticity, and always in the best interest of the company. Find a Way: We are resourceful, tackle hard problems with a sense of urgency and ownership, and do what it takes to get the job done. Innovate: We listen to customers, partners, and the market, and respectfully push boundaries and challenge the status quo. Share Success: We run together, we win together. We value diverse perspectives, hold space for all voices, and achieve the best results as a team. BENEFITS Employees' wellbeing is top of mind for the ExtraHop team. Employees and their families will have the option to participate in the following benefits: Health, Dental, and Vision Benefits Flexible PTO, Sick Time Prorated Based on Date of Hire, and All Federal Holidays (US Only) + 3 Days of Paid Volunteer Time Non-Commissioned Positions may be eligible to participate in the Annual Discretionary Bonus Plan FSA and Dependent Care Accounts + EAP, where applicable Educational Reimbursement 401k with Employer Match or Pension where applicable Pet Insurance (US Only) Parental Leave (US Only) Hybrid and Remote Work Model Our people are our most important competitive advantage, leading the charge against cyber criminals. Join the fight today! To learn more, visit our website or follow us on LinkedIn . Create a Job Alert Interested in building your career at ExtraHop? Get future opportunities sent straight to your email.",
-    "url": "https://jobicy.com/jobs/153015-rd-talent-community",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "python",
-      "rust",
-      "express",
-      "postgresql",
-      "mysql",
-      "redis",
-      "aws",
-      "gcp",
-      "azure",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "ansible",
-      "jenkins",
-      "github-actions",
-      "gitlab",
-      "prometheus",
-      "grafana",
-      "machine-learning",
-      "linux",
-      "unix",
-      "saml"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-11T12:59:44+00:00",
-    "fetched_at": "2026-09-15T15:43:57.400Z",
-    "raw": {
-      "id": 153015,
-      "url": "https://jobicy.com/jobs/153015-rd-talent-community",
-      "jobSlug": "153015-rd-talent-community",
-      "jobTitle": "R&D Talent Community",
-      "companyName": "ExtraHop",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/4800f505-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
-      "jobDescription": "<p>At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running.</p>\r\n<p>Our mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place you’d like to spend the next chapter of your career, we’d love to hear from you. </p>\r\n<p>Submit your resume here to express interest. We review general engineering applicants regularly and will reach out as relevant roles become available.</p>\r\n<p>Our engineering organization builds the foundation, services, and capabilities that power ExtraHop’s industry leading products. Engineers at ExtraHop work across a wide range of challenges that include systems level development, performance optimization, distributed services, network data processing, and user facing features.</p>\r\n<p>We offer an engaging and collaborative environment where engineers are encouraged to design thoughtfully, communicate clearly, and deliver high quality solutions. We value curiosity, ownership, and a willingness to dive deep into complex technologies while contributing to a positive, inclusive culture.</p>\r\n<h3><strong>General Key Responsibilities</strong></h3>\r\n<ul>\r\n<li>Design, build, and maintain high quality software components that contribute to ExtraHop’s core platform and product capabilities.\r\n</li>\r\n<li>Collaborate closely with engineering peers, product management, UX, QA, and other partners to define requirements, architecture, and implementation details.\r\n</li>\r\n<li>Participate in code reviews, technical discussions, and architectural planning to ensure quality, stability, scalability, and long term maintainability.\r\n</li>\r\n<li>Debug, troubleshoot, and improve software running in real world customer environments.\r\n</li>\r\n<li>Support performance, scalability, and reliability initiatives through measurement, analysis, and optimization.\r\n</li>\r\n<li>Contribute to test automation, CI/CD processes, and modern engineering practices.\r\n</li>\r\n<li>Participate in agile development methodologies and help continuously improve team processes.\r\n</li>\r\n<li>Demonstrate ownership, technical curiosity, and a commitment to continuous learning.\r\n</li>\r\n<li>Model ExtraHop’s core engineering values which include collaboration, kindness, customer focus, and building technology that matters.\r\n</li>\r\n</ul>\r\n<h3><strong>Often Required Qualifications</strong></h3>\r\n<ul>\r\n<li>Bachelor’s degree in Computer Science, Engineering, or equivalent practical experience.\r\n</li>\r\n<li>Strong programming skills in one or more of the following languages: Go, Python, C, C++, Rust, JavaScript, or TypeScript.\r\n</li>\r\n<li>Experience developing software on Linux or Unix environments, including debugging, tooling, and common developer workflows.\r\n</li>\r\n<li>Understanding of networking fundamentals and common Layer 2 through Layer 7 protocols.\r\n</li>\r\n<li>Familiarity with secure development concepts including encryption fundamentals and modern authentication ideas such as TLS, SAML, or OIDC.\r\n</li>\r\n<li>Ability to design and implement software with an emphasis on code quality, maintainability, and reliability.\r\n</li>\r\n<li>Strong problem solving skills, clear communication, and the ability to work both independently and collaboratively.\r\n</li>\r\n<li>Demonstrated ability to learn new technologies and navigate large or complex systems.\r\n</li>\r\n</ul>\r\n<h3><strong>General Preferred Qualifications</strong></h3>\r\n<ul>\r\n<li>Experience with cloud providers such as AWS, GCP, or Azure.\r\n</li>\r\n<li>Familiarity with containers and orchestration technologies such as Docker and Kubernetes.\r\n</li>\r\n<li>Experience with Infrastructure as Code tools including Terraform or Ansible.\r\n</li>\r\n<li>Experience with databases such as PostgreSQL, MySQL, Redis, or other distributed storage technologies.\r\n</li>\r\n<li>Exposure to observability or monitoring tools including Prometheus, Grafana, Elastic, or similar systems.\r\n</li>\r\n<li>Experience working with CI/CD tools such as GitLab CI, GitHub Actions, or Jenkins.\r\n</li>\r\n<li>Experience building or supporting software at enterprise scale with considerations around throughput, latency, memory, and resource constraints.\r\n</li>\r\n<li>Awareness of cybersecurity practices, packet analysis tools such as Wireshark or tcpdump, or general familiarity with detection concepts.\r\n</li>\r\n<li>Ability to mentor others and contribute to a positive, collaborative engineering culture.\r\n</li>\r\n</ul>\r\n<p><strong>ABOUT EXTRAHOP</strong><strong><br /></strong></p>\r\n<p>ExtraHop is reinventing Network Detection and Response (NDR) to offer enterprises unparalleled visibility, context, and control against emerging threats. The platform integrates NDR with Network Performance Management (NPM), Intrusion Detection Systems (IDS), and forensics, providing a single, comprehensive solution. By decrypting and analyzing complete packet-level data at wire speed and leveraging cloud-scale machine learning, ExtraHop empowers Security Operations Centers (SOCs) to detect, investigate, and remediate modern cyber risks in real time across their entire hybrid infrastructure, including data center, cloud, and SASE environments.</p>\r\n<p>This comprehensive approach and market innovation have earned ExtraHop unique recognition as the only NDR vendor acknowledged as a leader by all major analyst firms, including the 2025 Gartner® Magic Quadrant for Network Detection and Response™, the 2025 Forrester® Wave for Network Analysis and Visibility, the 2024 IDC® Marketscape for NDR, and the 2025 Gigamon® Radar Report for Network Detection and Response. Since 2007, ExtraHop has consistently helped organizations worldwide extract in-depth network telemetry and contextual insights, affirming its commitment to protecting and empowering the connected enterprise.</p>\r\n<p><strong>OUR VALUES</strong></p>\r\n<p>Our culture is rooted in our five <strong>Values</strong>. These set the expectations for how we work individually and collectively as a team. </p>\r\n<p><strong>Lead with Purpose:</strong> We are driven to deliver results that create a positive impact for our customers, partners, and colleagues.</p>\r\n<p><strong>Act with Integrity:</strong> We operate with transparency, authenticity, and always in the best interest of the company. </p>\r\n<p><strong>Find a Way:</strong> We are resourceful, tackle hard problems with a sense of urgency and ownership, and do what it takes to get the job done.</p>\r\n<p><strong>Innovate: </strong>We listen to customers, partners, and the market, and respectfully push boundaries and challenge the status quo.</p>\r\n<p><strong>Share Success:</strong> We run together, we win together. We value diverse perspectives, hold space for all voices, and achieve the best results as a team. </p>\r\n<p><strong>BENEFITS</strong></p>\r\n<p><strong>Employees' wellbeing is top of mind for the ExtraHop team.</strong> Employees and their families will have the option to participate in the following benefits:</p>\r\n<ul>\r\n<li>Health, Dental, and Vision Benefits</li>\r\n<li>Flexible PTO, Sick Time Prorated Based on Date of Hire, and All Federal Holidays (US Only) + 3 Days of Paid Volunteer Time</li>\r\n<li>Non-Commissioned Positions may be eligible to participate in the Annual Discretionary Bonus Plan</li>\r\n<li>FSA and Dependent Care Accounts + EAP, where applicable</li>\r\n<li>Educational Reimbursement</li>\r\n<li>401k with Employer Match or Pension where applicable</li>\r\n<li>Pet Insurance (US Only)</li>\r\n<li>Parental Leave (US Only)</li>\r\n<li>Hybrid and Remote Work Model</li>\r\n</ul>\r\n<p>Our people are our most important competitive advantage, leading the charge against cyber criminals. Join the fight today! </p>\r\n<p><strong>To learn more, visit </strong><a href=\"https://www.extrahop.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><strong>our website</strong></a><strong> or follow us on </strong><a href=\"https://www.linkedin.com/company/extrahop-networks/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><strong>LinkedIn</strong></a><strong>. </strong></p>\r\n<p><strong>Create a Job Alert</strong></p>\r\n<p>Interested in building your career at ExtraHop? Get future opportunities sent straight to your email.</p>",
-      "pubDate": "2026-09-11T12:59:44+00:00"
     }
   },
   {
@@ -2762,7 +2793,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T12:59:22+00:00",
-    "fetched_at": "2026-09-15T15:43:57.401Z",
+    "fetched_at": "2026-09-15T20:29:08.638Z",
     "raw": {
       "id": 153014,
       "url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
@@ -2812,7 +2843,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T12:59:01+00:00",
-    "fetched_at": "2026-09-15T15:43:57.402Z",
+    "fetched_at": "2026-09-15T20:29:08.639Z",
     "raw": {
       "id": 153013,
       "url": "https://jobicy.com/jobs/153013-principal-software-engineer-data-science",
@@ -2865,7 +2896,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T12:58:41+00:00",
-    "fetched_at": "2026-09-15T15:43:57.402Z",
+    "fetched_at": "2026-09-15T20:29:08.639Z",
     "raw": {
       "id": 153012,
       "url": "https://jobicy.com/jobs/153012-binance-accelerator-program-ai-intelligence-efficiency-engineer",
@@ -2908,7 +2939,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-11T12:30:08+00:00",
-    "fetched_at": "2026-09-15T15:43:57.403Z",
+    "fetched_at": "2026-09-15T20:29:08.641Z",
     "raw": {
       "id": 149068,
       "url": "https://jobicy.com/jobs/149068-senior-customer-solution-engineer-ai-native-consumption-quote-to-cash",
@@ -2958,7 +2989,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T19:39:25+00:00",
-    "fetched_at": "2026-09-15T15:43:57.404Z",
+    "fetched_at": "2026-09-15T20:29:08.643Z",
     "raw": {
       "id": 152985,
       "url": "https://jobicy.com/jobs/152985-senior-engineering-manager-growth",
@@ -3017,7 +3048,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T05:10:07+00:00",
-    "fetched_at": "2026-09-15T15:43:57.404Z",
+    "fetched_at": "2026-09-15T20:29:08.644Z",
     "raw": {
       "id": 151935,
       "url": "https://jobicy.com/jobs/151935-ai-engineer-fde-forward-deployed-engineer-2",
@@ -3075,7 +3106,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T04:30:27+00:00",
-    "fetched_at": "2026-09-15T15:43:57.405Z",
+    "fetched_at": "2026-09-15T20:29:08.645Z",
     "raw": {
       "id": 145744,
       "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
@@ -3132,7 +3163,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T04:25:36+00:00",
-    "fetched_at": "2026-09-15T15:43:57.406Z",
+    "fetched_at": "2026-09-15T20:29:08.647Z",
     "raw": {
       "id": 150381,
       "url": "https://jobicy.com/jobs/150381-software-architect",
@@ -3189,7 +3220,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T04:25:34+00:00",
-    "fetched_at": "2026-09-15T15:43:57.407Z",
+    "fetched_at": "2026-09-15T20:29:08.648Z",
     "raw": {
       "id": 150366,
       "url": "https://jobicy.com/jobs/150366-senior-full-stack-software-engineer",
@@ -3238,7 +3269,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T04:25:32+00:00",
-    "fetched_at": "2026-09-15T15:43:57.407Z",
+    "fetched_at": "2026-09-15T20:29:08.649Z",
     "raw": {
       "id": 150365,
       "url": "https://jobicy.com/jobs/150365-go-golang-software-engineer-developer-tooling-and-containers",
@@ -3287,7 +3318,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T04:25:27+00:00",
-    "fetched_at": "2026-09-15T15:43:57.408Z",
+    "fetched_at": "2026-09-15T20:29:08.650Z",
     "raw": {
       "id": 150360,
       "url": "https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu",
@@ -3337,7 +3368,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T04:25:18+00:00",
-    "fetched_at": "2026-09-15T15:43:57.409Z",
+    "fetched_at": "2026-09-15T20:29:08.651Z",
     "raw": {
       "id": 150364,
       "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
@@ -3385,7 +3416,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-10T04:25:04+00:00",
-    "fetched_at": "2026-09-15T15:43:57.410Z",
+    "fetched_at": "2026-09-15T20:29:08.652Z",
     "raw": {
       "id": 150361,
       "url": "https://jobicy.com/jobs/150361-embedded-linux-consultant-japan",
@@ -3441,7 +3472,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T17:23:14+00:00",
-    "fetched_at": "2026-09-15T15:43:57.411Z",
+    "fetched_at": "2026-09-15T20:29:08.653Z",
     "raw": {
       "id": 152938,
       "url": "https://jobicy.com/jobs/152938-software-engineer-backend",
@@ -3498,7 +3529,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T17:19:37+00:00",
-    "fetched_at": "2026-09-15T15:43:57.411Z",
+    "fetched_at": "2026-09-15T20:29:08.654Z",
     "raw": {
       "id": 152928,
       "url": "https://jobicy.com/jobs/152928-senior-product-engineer",
@@ -3554,7 +3585,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T16:37:38+00:00",
-    "fetched_at": "2026-09-15T15:43:57.413Z",
+    "fetched_at": "2026-09-15T20:29:08.656Z",
     "raw": {
       "id": 152920,
       "url": "https://jobicy.com/jobs/152920-backend-engineer-platform-stacks-uk-remote",
@@ -3608,7 +3639,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T16:37:19+00:00",
-    "fetched_at": "2026-09-15T15:43:57.414Z",
+    "fetched_at": "2026-09-15T20:29:08.657Z",
     "raw": {
       "id": 152919,
       "url": "https://jobicy.com/jobs/152919-staff-software-engineer-data",
@@ -3658,7 +3689,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T16:31:55+00:00",
-    "fetched_at": "2026-09-15T15:43:57.415Z",
+    "fetched_at": "2026-09-15T20:29:08.658Z",
     "raw": {
       "id": 152912,
       "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
@@ -3708,7 +3739,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T16:31:15+00:00",
-    "fetched_at": "2026-09-15T15:43:57.415Z",
+    "fetched_at": "2026-09-15T20:29:08.659Z",
     "raw": {
       "id": 152910,
       "url": "https://jobicy.com/jobs/152910-staff-software-engineer-experimentation-platform",
@@ -3760,7 +3791,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T16:28:42+00:00",
-    "fetched_at": "2026-09-15T15:43:57.416Z",
+    "fetched_at": "2026-09-15T20:29:08.660Z",
     "raw": {
       "id": 152903,
       "url": "https://jobicy.com/jobs/152903-senior-developer",
@@ -3813,7 +3844,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T16:25:30+00:00",
-    "fetched_at": "2026-09-15T15:43:57.417Z",
+    "fetched_at": "2026-09-15T20:29:08.661Z",
     "raw": {
       "id": 152894,
       "url": "https://jobicy.com/jobs/152894-fractional-revops-gtm-engineer-part-time-contract",
@@ -3865,7 +3896,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T16:22:51+00:00",
-    "fetched_at": "2026-09-15T15:43:57.418Z",
+    "fetched_at": "2026-09-15T20:29:08.662Z",
     "raw": {
       "id": 152887,
       "url": "https://jobicy.com/jobs/152887-backend-engineer-net-f-m-d",
@@ -3908,7 +3939,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T16:22:27+00:00",
-    "fetched_at": "2026-09-15T15:43:57.419Z",
+    "fetched_at": "2026-09-15T20:29:08.663Z",
     "raw": {
       "id": 152886,
       "url": "https://jobicy.com/jobs/152886-creative-technologist-contract",
@@ -3962,7 +3993,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T07:01:20+00:00",
-    "fetched_at": "2026-09-15T15:43:57.419Z",
+    "fetched_at": "2026-09-15T20:29:08.664Z",
     "raw": {
       "id": 152855,
       "url": "https://jobicy.com/jobs/152855-engineering-manager-7",
@@ -4014,7 +4045,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-09T06:30:10+00:00",
-    "fetched_at": "2026-09-15T15:43:57.420Z",
+    "fetched_at": "2026-09-15T20:29:08.665Z",
     "raw": {
       "id": 145311,
       "url": "https://jobicy.com/jobs/145311-staff-software-engineer-growth-performance-marketing",
@@ -4066,7 +4097,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-08T18:48:25+00:00",
-    "fetched_at": "2026-09-15T15:43:57.421Z",
+    "fetched_at": "2026-09-15T20:29:08.666Z",
     "raw": {
       "id": 152833,
       "url": "https://jobicy.com/jobs/152833-senior-android-engineer-3",
@@ -4120,7 +4151,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-08T18:41:43+00:00",
-    "fetched_at": "2026-09-15T15:43:57.422Z",
+    "fetched_at": "2026-09-15T20:29:08.667Z",
     "raw": {
       "id": 152819,
       "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
@@ -4169,7 +4200,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-08T17:27:35+00:00",
-    "fetched_at": "2026-09-15T15:43:57.422Z",
+    "fetched_at": "2026-09-15T20:29:08.669Z",
     "raw": {
       "id": 152815,
       "url": "https://jobicy.com/jobs/152815-backend-software-engineer-pdp-experience",
@@ -4223,7 +4254,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-08T17:27:12+00:00",
-    "fetched_at": "2026-09-15T15:43:57.424Z",
+    "fetched_at": "2026-09-15T20:29:08.670Z",
     "raw": {
       "id": 152814,
       "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
@@ -4274,7 +4305,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-08T17:25:41+00:00",
-    "fetched_at": "2026-09-15T15:43:57.425Z",
+    "fetched_at": "2026-09-15T20:29:08.672Z",
     "raw": {
       "id": 152810,
       "url": "https://jobicy.com/jobs/152810-ads-conversion-modeling-machine-learning-engineering-manager",
@@ -4329,7 +4360,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-08T14:25:58+00:00",
-    "fetched_at": "2026-09-15T15:43:57.426Z",
+    "fetched_at": "2026-09-15T20:29:08.673Z",
     "raw": {
       "id": 152795,
       "url": "https://jobicy.com/jobs/152795-sr-software-engineer-ruby-on-rails",
@@ -4380,7 +4411,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T19:38:55+00:00",
-    "fetched_at": "2026-09-15T15:43:57.426Z",
+    "fetched_at": "2026-09-15T20:29:08.673Z",
     "raw": {
       "id": 152767,
       "url": "https://jobicy.com/jobs/152767-member-of-technical-staff-gpu-performance-engineer",
@@ -4425,7 +4456,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T19:37:55+00:00",
-    "fetched_at": "2026-09-15T15:43:57.426Z",
+    "fetched_at": "2026-09-15T20:29:08.674Z",
     "raw": {
       "id": 152763,
       "url": "https://jobicy.com/jobs/152763-member-of-technical-staff-applied-ai",
@@ -4479,7 +4510,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T16:39:52+00:00",
-    "fetched_at": "2026-09-15T15:43:57.427Z",
+    "fetched_at": "2026-09-15T20:29:08.675Z",
     "raw": {
       "id": 152754,
       "url": "https://jobicy.com/jobs/152754-senior-backend-engineer-4",
@@ -4544,7 +4575,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T16:39:17+00:00",
-    "fetched_at": "2026-09-15T15:43:57.428Z",
+    "fetched_at": "2026-09-15T20:29:08.676Z",
     "raw": {
       "id": 152752,
       "url": "https://jobicy.com/jobs/152752-senior-backend-engineer-core-team",
@@ -4604,7 +4635,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T16:38:43+00:00",
-    "fetched_at": "2026-09-15T15:43:57.429Z",
+    "fetched_at": "2026-09-15T20:29:08.677Z",
     "raw": {
       "id": 152750,
       "url": "https://jobicy.com/jobs/152750-software-engineer-ii-mobile-developer-android-kotlin-mobile-app-growth",
@@ -4651,7 +4682,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-07T14:35:44+00:00",
-    "fetched_at": "2026-09-15T15:43:57.429Z",
+    "fetched_at": "2026-09-15T20:29:08.678Z",
     "raw": {
       "id": 152737,
       "url": "https://jobicy.com/jobs/152737-test-a-streaming-platform-in-france",
@@ -4715,7 +4746,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T14:04:40+00:00",
-    "fetched_at": "2026-09-15T15:43:57.430Z",
+    "fetched_at": "2026-09-15T20:29:08.679Z",
     "raw": {
       "id": 152712,
       "url": "https://jobicy.com/jobs/152712-engineering-manager-supportx",
@@ -4767,7 +4798,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T14:03:37+00:00",
-    "fetched_at": "2026-09-15T15:43:57.431Z",
+    "fetched_at": "2026-09-15T20:29:08.680Z",
     "raw": {
       "id": 152709,
       "url": "https://jobicy.com/jobs/152709-engineering-manager-payments",
@@ -4832,7 +4863,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T14:03:01+00:00",
-    "fetched_at": "2026-09-15T15:43:57.432Z",
+    "fetched_at": "2026-09-15T20:29:08.681Z",
     "raw": {
       "id": 152707,
       "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
@@ -4884,7 +4915,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T11:17:09+00:00",
-    "fetched_at": "2026-09-15T15:43:57.433Z",
+    "fetched_at": "2026-09-15T20:29:08.682Z",
     "raw": {
       "id": 151461,
       "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
@@ -4945,7 +4976,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T08:46:33+00:00",
-    "fetched_at": "2026-09-15T15:43:57.434Z",
+    "fetched_at": "2026-09-15T20:29:08.684Z",
     "raw": {
       "id": 152699,
       "url": "https://jobicy.com/jobs/152699-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector",
@@ -4996,7 +5027,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T07:15:07+00:00",
-    "fetched_at": "2026-09-15T15:43:57.435Z",
+    "fetched_at": "2026-09-15T20:29:08.685Z",
     "raw": {
       "id": 145290,
       "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
@@ -5041,7 +5072,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T07:07:15+00:00",
-    "fetched_at": "2026-09-15T15:43:57.435Z",
+    "fetched_at": "2026-09-15T20:29:08.685Z",
     "raw": {
       "id": 148702,
       "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
@@ -5086,7 +5117,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-07T07:05:13+00:00",
-    "fetched_at": "2026-09-15T15:43:57.436Z",
+    "fetched_at": "2026-09-15T20:29:08.686Z",
     "raw": {
       "id": 150274,
       "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
@@ -5140,7 +5171,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-06T11:05:32+00:00",
-    "fetched_at": "2026-09-15T15:43:57.437Z",
+    "fetched_at": "2026-09-15T20:29:08.688Z",
     "raw": {
       "id": 152675,
       "url": "https://jobicy.com/jobs/152675-senior-software-engineer-java-microservices",
@@ -5197,7 +5228,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-06T11:03:31+00:00",
-    "fetched_at": "2026-09-15T15:43:57.438Z",
+    "fetched_at": "2026-09-15T20:29:08.689Z",
     "raw": {
       "id": 152666,
       "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
@@ -5218,56 +5249,6 @@
       "pubDate": "2026-09-06T11:03:31+00:00",
       "salaryMin": 102500,
       "salaryMax": 136500,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:152648",
-    "platform": "jobicy",
-    "external_id": "152648",
-    "title": "Senior AI Engineer, Voice Platform",
-    "company": "ClickUp",
-    "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. Role Overview You'll own and evolve the AI systems behind ClickUp's voice platform: real-time streaming transcription, intelligent reformatting, context-aware mention detection, and voice-to-action pipelines. This is a high-impact, hands-on role where you'll push the boundaries of what voice interfaces can do inside a productivity tool used by millions. Key Responsibilities Design, build, and optimize real-time speech-to-text pipelines (streaming ASR, VAD, audio processing) Improve transcription accuracy through context injection (user names, teams, custom vocabulary, language detection) Develop and maintain LLM-powered post-processing (grammar correction, filler removal, mention resolution, formatting) Build voice-to-action systems that parse natural language into structured workspace commands Evaluate, benchmark, and integrate ASR models (Whisper, AssemblyAI, Fireworks, etc.) for cost, latency, and accuracy Collaborate with product and platform teams to ship voice features across MAX Desktop, Mobile, Web, and Browser Extension Explore multimodal AI capabilities (screen + voice + text) for next-gen assistant experiences Equal Opportunity Employer ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. Privacy Notice ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our Global Candidate Privacy Notice. If you are a Philippine Job Applicant, please also see our Philippine Data Privacy Notice for further details. Visa Sponsorship Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions. Fraud Alert ClickUp Talent Acquisition will only initiate contact via an @ clickup.com email or through our official careers portal on clickup.com . We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com. AI Processing Notice ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.",
-    "url": "https://jobicy.com/jobs/152648-senior-ai-engineer-voice-platform",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "llm",
-      "machine-learning"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-06T10:54:26+00:00",
-    "fetched_at": "2026-09-15T15:43:57.439Z",
-    "raw": {
-      "id": 152648,
-      "url": "https://jobicy.com/jobs/152648-senior-ai-engineer-voice-platform",
-      "jobSlug": "152648-senior-ai-engineer-voice-platform",
-      "jobTitle": "Senior AI Engineer, Voice Platform",
-      "companyName": "ClickUp",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cd5be0ef-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "jobDescription": "<p>At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. </p>\n</p>\n<h3>Role Overview</h3>\n<p>You'll own and evolve the AI systems behind ClickUp's voice platform: real-time streaming transcription, intelligent reformatting, context-aware mention detection, and voice-to-action pipelines. This is a high-impact, hands-on role where you'll push the boundaries of what voice interfaces can do inside a productivity tool used by millions.</p>\n<h3>Key Responsibilities</h3>\n<ul>\n<li>\n<p>Design, build, and optimize real-time speech-to-text pipelines (streaming ASR, VAD, audio processing)</p>\n</li>\n<li>\n<p>Improve transcription accuracy through context injection (user names, teams, custom vocabulary, language detection)</p>\n</li>\n<li>\n<p>Develop and maintain LLM-powered post-processing (grammar correction, filler removal, mention resolution, formatting)</p>\n</li>\n<li>\n<p>Build voice-to-action systems that parse natural language into structured workspace commands</p>\n</li>\n<li>\n<p>Evaluate, benchmark, and integrate ASR models (Whisper, AssemblyAI, Fireworks, etc.) for cost, latency, and accuracy</p>\n</li>\n<li>\n<p>Collaborate with product and platform teams to ship voice features across MAX Desktop, Mobile, Web, and Browser Extension</p>\n</li>\n<li>\n<p>Explore multimodal AI capabilities (screen + voice + text) for next-gen assistant experiences</p>\n</li>\n</ul>\n<p><strong>Equal Opportunity Employer </strong></p>\n<p><em>ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.</em></p>\n</p>\n<p><strong>Privacy Notice</strong></p>\n<p><em>ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our </em><a href=\"https://clickup.com/careers-terms/candidate-privacy-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>Global Candidate Privacy Notice.</em></a></p>\n<p><em>If you are a Philippine Job Applicant, please also see our </em><a href=\"https://t333.s.clickup-attachments-stg.com/t333/d9a53ce2-6d2c-48cd-84b1-ed4e525f9613/Philippine%20Data%20Privacy%20Notice_2024.pdf?view=open\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>Philippine Data Privacy Notice</em></a><em> for further details.</em></p>\n</p>\n<p><strong>Visa Sponsorship</strong></p>\n<p><em>Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions.</em></p>\n</p>\n<p><strong>Fraud Alert</strong></p>\n<p><em>ClickUp Talent Acquisition will only initiate contact via an <strong>@</strong></em><a href=\"http://clickup.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><strong>clickup.com</strong></em></a><em> email or through our official careers portal on </em><a href=\"http://clickup.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>clickup.com</em></a><em>. We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com.</em></p>\n</p>\n<p><strong>AI Processing Notice</strong></p>\n<p><em>ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.</em></p>",
-      "pubDate": "2026-09-06T10:54:26+00:00",
-      "salaryMin": 200000,
-      "salaryMax": 250000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
