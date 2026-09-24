@@ -1,5 +1,258 @@
 [
   {
+    "id": "jobicy:154034",
+    "platform": "jobicy",
+    "external_id": "154034",
+    "title": "Contract Staff Front End Engineer (Web Conference/Screen Sharing)",
+    "company": "Mozilla",
+    "description": "About the team and role Mozilla 's Web Conferencing team owns the media capture and sharing features that make Firefox work for video calls: screen, window, and tab capture, and the interface users interact with when they share content in Google Meet, Zoom, or Jitsi. We're bringing a set of screensharing improvements to Firefox. The backend work is complete and the UX has been designed and approved. We're looking for a front-end engineer on a fixed-term contract to implement it and ship it. What you'll do Implement approved UX designs for Firefox's screen, window, and tab sharing experience, and see them through to release Build browser UI that holds up in a large, widely used codebase: tested, accessible, and localizable Work with UX on the cases a design didn't anticipate, and with QA on validating the result Support partner testing against major web conferencing services Land your work in mozilla-central through public code review on Phabricator What you'll bring 4+ years building production user interfaces with JavaScript, HTML, and CSS Experience implementing an approved design faithfully, plus the judgment to flag it when the design meets a case it didn't anticipate Ability to get productive quickly in a large, mature codebase you didn't write Experience writing automated tests for user interfaces Strong asynchronous written communication, since the team is distributed across timezones Comfort working in public, since Bugzilla and Phabricator are open Bonus qualifications Prior contributions to Firefox or another open-source browser Familiarity with Firefox front-end architecture: browser/, custom elements, XUL, Fluent localization Experience with WebRTC or getDisplayMedia Accessibility experience with modal dialogs and list navigation Experience with Mozilla's test frameworks (browser-chrome, mochitest) Experience using AI tooling effectively in front-end development Open source environment experience Hiring Ranges: Canada Tier 1 Locations $145,000—$170,800 CAD Canada Tier 2 Locations $154,000—$168,000 USD",
+    "url": "https://jobicy.com/jobs/154034-contract-staff-front-end-engineer-web-conference-screen-sharing",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CAD",
+    "salary_type": "yearly",
+    "contract_type": "contract",
+    "experience_level": "senior",
+    "location": "Canada",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-24T15:33:12+00:00",
+    "fetched_at": "2026-09-24T20:48:50.280Z",
+    "raw": {
+      "id": 154034,
+      "url": "https://jobicy.com/jobs/154034-contract-staff-front-end-engineer-web-conference-screen-sharing",
+      "jobSlug": "154034-contract-staff-front-end-engineer-web-conference-screen-sharing",
+      "jobTitle": "Contract Staff Front End Engineer (Web Conference/Screen Sharing)",
+      "companyName": "Mozilla",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/mozilla.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Contract"
+      ],
+      "jobGeo": "Canada",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About the team and role Mozilla's Web Conferencing team owns the media capture and sharing features that make Firefox work for video calls: screen, window, and tab capture, and the interface users interact with when they share content in Google Meet, Zoom, or Jitsi. We're bringing a set of screensharing improvements to Firefox. The backend&hellip;",
+      "jobDescription": "<p><strong>About the team and role</strong></p>\n\n<p><a href=\"https://jobicy.com/company/mozilla\" target=\"_blank\" rel=\"noopener\">Mozilla</a>'s Web Conferencing team owns the media capture and sharing features that make Firefox work for video calls: screen, window, and tab capture, and the interface users interact with when they share content in Google Meet, Zoom, or Jitsi.</p>\n\n<p>We're bringing a set of screensharing improvements to Firefox. The backend work is complete and the UX has been designed and approved. We're looking for a front-end engineer on a fixed-term contract to implement it and ship it.</p>\n<p><strong>What you'll do</strong></p>\n<ul>\n<li>Implement approved UX designs for Firefox's screen, window, and tab sharing experience, and see them through to release</li>\n<li>Build browser UI that holds up in a large, widely used codebase: tested, accessible, and localizable</li>\n<li>Work with UX on the cases a design didn't anticipate, and with QA on validating the result</li>\n<li>Support partner testing against major web conferencing services</li>\n<li>Land your work in mozilla-central through public code review on Phabricator</li>\n</ul>\n<p><strong>What you'll bring</strong></p>\n<ul>\n<li>4+ years building production user interfaces with JavaScript, HTML, and CSS</li>\n<li>Experience implementing an approved design faithfully, plus the judgment to flag it when the design meets a case it didn't anticipate</li>\n<li>Ability to get productive quickly in a large, mature codebase you didn't write</li>\n<li>Experience writing automated tests for user interfaces</li>\n<li>Strong asynchronous written communication, since the team is distributed across timezones</li>\n<li>Comfort working in public, since Bugzilla and Phabricator are open</li>\n</ul>\n<p><strong>Bonus qualifications</strong></p>\n<ul>\n<li>Prior contributions to Firefox or another open-source browser</li>\n<li>Familiarity with Firefox front-end architecture: browser/, custom elements, XUL, Fluent localization</li>\n<li>Experience with WebRTC or getDisplayMedia</li>\n<li>Accessibility experience with modal dialogs and list navigation</li>\n<li>Experience with Mozilla's test frameworks (browser-chrome, mochitest)</li>\n<li>Experience using AI tooling effectively in front-end development</li>\n<li>Open source environment experience</li>\n</ul>\n<p><strong>Hiring Ranges:</strong></p>\n<p>Canada Tier 1 Locations</p>\n<p>$145,000—$170,800 CAD</p>\n<p>Canada Tier 2 Locations</p>\n<p>$154,000—$168,000 USD</p>",
+      "pubDate": "2026-09-24T15:33:12+00:00",
+      "salaryMin": 145000,
+      "salaryMax": 170800,
+      "salaryCurrency": "CAD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:154028",
+    "platform": "jobicy",
+    "external_id": "154028",
+    "title": "Contract Software Engineer - DOM Core Firefox/Gecko",
+    "company": "Mozilla",
+    "description": "The role You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness. Responsibilities Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed Fix the problems and pass the tests to improve the Gecko correctness Work through code review with the relevant Gecko module owners and iterate to landing Definition of done Improved Session History test coverage and code correctness in Gecko, measured by passed test cases, allowing the team’s senior engineers to focus on security, performance and strategic projects. Required qualifications Substantial experience in a browser-engine codebase or in automating for a browser-engine, ideally Firefox/Gecko. Solid Javascript and applying that language skill to write automated tests. Proficiency in and experience developing software in C++. Strong debugging skills in a mature larget codebase. Comfort working in the open: public bugs, code review, and upstream landing. Preferred Prior contributions to Gecko or another major browser engine. Familiarity with web standards and Web Platform Tests.",
+    "url": "https://jobicy.com/jobs/154028-contract-software-engineer-dom-core-firefox-gecko",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "contract",
+    "experience_level": "senior",
+    "location": "France,  Germany,  UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-24T15:33:10+00:00",
+    "fetched_at": "2026-09-24T20:48:50.280Z",
+    "raw": {
+      "id": 154028,
+      "url": "https://jobicy.com/jobs/154028-contract-software-engineer-dom-core-firefox-gecko",
+      "jobSlug": "154028-contract-software-engineer-dom-core-firefox-gecko",
+      "jobTitle": "Contract Software Engineer - DOM Core Firefox/Gecko",
+      "companyName": "Mozilla",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/mozilla.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Contract"
+      ],
+      "jobGeo": "France,  Germany,  UK",
+      "jobLevel": "Senior",
+      "jobExcerpt": "The role You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness. Responsibilities Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed Fix the problems and pass&hellip;",
+      "jobDescription": "<h3><strong>The role</strong></h3>\n<p>You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed </li>\n<li>Fix the problems and pass the tests to improve the Gecko correctness</li>\n<li>Work through code review with the relevant Gecko module owners and iterate to landing</li>\n</ul>\n<h3><strong>Definition of done</strong></h3>\n<p>Improved Session History test coverage and code correctness in Gecko, measured by passed test cases, allowing the team’s senior engineers to focus on security, performance and strategic projects.</p>\n<h3><strong>Required qualifications</strong></h3>\n<ul>\n<li>Substantial experience in a browser-engine codebase or in automating for a browser-engine, ideally Firefox/Gecko.</li>\n<li>Solid Javascript and applying that language skill to write automated tests.</li>\n<li>Proficiency in and experience developing software in C++.</li>\n<li>Strong debugging skills in a mature larget codebase.</li>\n<li>Comfort working in the open: public bugs, code review, and upstream landing.</li>\n</ul>\n<h3><strong>Preferred</strong></h3>\n<ul>\n<li>Prior contributions to Gecko or another major browser engine.</li>\n<li>Familiarity with web standards and Web Platform Tests.</li>\n</ul>",
+      "pubDate": "2026-09-24T15:33:10+00:00"
+    }
+  },
+  {
+    "id": "jobicy:154027",
+    "platform": "jobicy",
+    "external_id": "154027",
+    "title": "Lead Automation Engineer",
+    "company": "Capital on Tap",
+    "description": "We’re Capital on Tap Capital on Tap started because small businesses were underserved. Big banks were slow, their products weren't fit for purpose, and small business owners often couldn't access what they needed. We set out to fix that. Today we're a financial platform - not just a credit card company. We offer a best-in-class business credit card, SME-focused spend management platform, a savings product that hit £1 billion in funds within its first year, and a growing suite of tools and financial products that make running a small business easier. 1,000+ employees, £20bn in annual card spend, 200,000+ customers, 17,000+ Trustpilot reviews averaging 4.7 stars, and we're profitable. We’ve done a pretty good job so far, but we’re just getting started! The role starts out fully remote. Once our Lisbon office is open, it will move to a hybrid set-up of two days a week on site. Salary: €65,000 - €75,000 Quality Engineering at Capital on Tap Quality Engineering is embedded across our mission teams, partnering with Engineering, Product, and UX to champion quality at every stage of the software lifecycle. We build quality in from the start - not bolt it on at the end. The Lead Automation Engineer is a critical, hands-on role embedded within a Mission team. Reporting functionally to your mission team’s Lead, you will be the quality champion for your specific feature set. You will leverage standardised automation tooling to maximise test coverage, accelerate delivery velocity, and maintain the highest quality standards for our products. What You'll Be Doing ️ Mission Team Quality Ownership &amp; Strategy Define and own the comprehensive testing strategy for your domain (e.g., payments, banking, onboarding), ensuring end-to-end quality and compliance in partnership with the QA Team Lead. Act as the primary contributor for automation; design, develop, and maintain robust automated tests (API, UI, Mobile). Champion a \"Shift-Left\" mindset, working with Product Owners and Developers from the refinement stage to ensure quality is engineered in from the start. Directly manage the mission team’s automation targets and use data-driven insights (MTTD/MTTR, defect escape rates) to predict high-risk areas. Technical Leadership &amp; Tooling Adoption Serve as the mission team's expert on central automation frameworks, driving consistent adoption of CI/CD processes and quality gates. Identify team-specific gaps and collaborate with the central Tooling Team to develop custom helpers or data generators that enhance the core framework. Ensure automated test suites are fully integrated into CI/CD pipelines to enable rapid, reliable deployment and a \"fail fast\" mechanism. Coordinate complex technical testing, including microservices, security (OWASP ZAP), and performance testing. Collaboration, Coaching &amp; AI Innovation Coach and upskill developers and junior QA engineers on automation best practices and test design patterns. Champion the use of AI tools (Claude, GitHub Copilot) for complex tasks like architecture exploration, incident investigation, and test generation. Leverage component testing, service virtualization, and contract testing to reduce dependencies and enable independent team testing. Define test data strategies and environment requirements to support both automated and exploratory testing. Our Values &amp; Culture Just Pilot: We never settle for “good enough”. We pilot new ideas fast, ask questions to figure it out, and scale quickly. Why Not Today? Fast is as slow as we go - speed and simplicity gives us a competitive advantage. Be a Buddy: We tap in from day one to help the team, we do the right thing even if it’s hard. Owners and Dates: We don’t chase people. If you own a task and agree to a date, the expectation is that it gets done. Feedback: We want our employees to flourish, so we regularly provide direct and constructive feedback. We’re Looking For Experience: 5+ years in QA Automation/SDET roles with proven success leading quality within an Agile team. Programming: Strong proficiency in modern languages essential for automation, specifically C# or JavaScript/TypeScript. Fintech Expertise: Experience testing complex financial systems (card issuing, transaction processing, or credit risk). Automation Mastery: Hands-on experience with tools for UI (Playwright, Cypress) and API (REST Assured, Other API testing frameworks). Cloud &amp; CI/CD: Familiarity with Azure, Git, and integrating automated testing into deployment workflows. Leadership: Ability to influence without authority, encouraging developers and POs to prioritise automation and quality. Even if you don’t have all of the necessary skills, we still encourage you to apply. Interview Process First stage: 30-minute intro, CV review, and values with Talent Partner Second stage: 45-minute “Tech Chat” with Team Manager Final stage: 60-minute Code Pairing + 30-minute Stakeholder Interview with Engineering &amp; Product Diversity &amp; Inclusion We welcome, consider and encourage applications from anyone who shares our commitment to inclusivity. Join us in creating a space where authenticity thrives, and everyone can do their best work. Great Work Deserves Great Perks Check out our benefits: Private Healthcare through AdvanceCare Anniversary Rewards (€280, €570, €860, 4-week fully paid sabbatical) Paid Car Parking ️ 36 days holiday (inclusive of public holidays with public holidays carried over if they fall on a weekend) Annual Learning and Wellbeing Budget 6 free therapy sessions per year Free drinks and snacks in our offices Other Info Check out our ‘Top Tips’ for interviewing. ✔️Keep updated on new job opportunities by following us on Linkedin . Email careers@capitalontap.com if you have any questions. Excited to work here? Apply! If you’d like to progress your career within our fast growing, profitable fintech then click apply and we will aim to get back to you within 3 working days (during busy periods this could take up to 5 working days.)",
+    "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Portugal",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "azure",
+      "llm",
+      "cypress",
+      "playwright",
+      "git"
+    ],
+    "tags": [
+      "QA & Testing"
+    ],
+    "posted_at": "2026-09-24T15:33:09+00:00",
+    "fetched_at": "2026-09-24T20:48:50.281Z",
+    "raw": {
+      "id": 154027,
+      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
+      "jobSlug": "154027-lead-automation-engineer",
+      "jobTitle": "Lead Automation Engineer",
+      "companyName": "Capital on Tap",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/88542615-221.jpeg",
+      "jobIndustry": [
+        "QA & Testing"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Portugal",
+      "jobLevel": "Senior",
+      "jobExcerpt": "We’re Capital on Tap  Capital on Tap started because small businesses were underserved. Big banks were slow, their products weren't fit for purpose, and small business owners often couldn't access what they needed. We set out to fix that. Today we're a financial platform - not just a credit card company. We offer a&hellip;",
+      "jobDescription": "<p><strong>We’re <a href=\"https://jobicy.com/company/capital-on-tap\" target=\"_blank\" rel=\"noopener\">Capital on Tap</a> <br></strong> Capital on Tap started because small businesses were underserved. Big banks were slow, their products weren't fit for purpose, and small business owners often couldn't access what they needed. We set out to fix that.</p>\n<p>Today we're a financial platform - not just a credit card company. We offer a best-in-class business credit card, SME-focused spend management platform, a savings product that hit £1 billion in funds within its first year, and a growing suite of tools and financial products that make running a small business easier. </p>\n<p>1,000+ employees, £20bn in annual card spend, 200,000+ customers, 17,000+ Trustpilot reviews averaging 4.7 stars, and we're profitable. We’ve done a pretty good job so far, but we’re just getting started! </p>\n\n<p> The role starts out fully remote. Once our Lisbon office is open, it will move to a hybrid set-up of two days a week on site.</p>\n<p>Salary: €65,000 - €75,000</p>\n<h3><strong>Quality Engineering at Capital on Tap </strong></h3>\n<p>Quality Engineering is embedded across our mission teams, partnering with Engineering, Product, and UX to champion quality at every stage of the software lifecycle. We build quality in from the start - not bolt it on at the end.</p>\n<p>The Lead Automation Engineer is a critical, hands-on role embedded within a Mission team. Reporting functionally to your mission team’s Lead, you will be the quality champion for your specific feature set. You will leverage standardised automation tooling to maximise test coverage, accelerate delivery velocity, and maintain the highest quality standards for our products.</p>\n<p><strong>What You'll Be Doing ️</strong></p>\n<p><strong>Mission Team Quality Ownership &amp; Strategy</strong></p>\n<ul>\n<li>Define and own the comprehensive testing strategy for your domain (e.g., payments, banking, onboarding), ensuring end-to-end quality and compliance in partnership with the QA Team Lead.</li>\n<li>Act as the primary contributor for automation; design, develop, and maintain robust automated tests (API, UI, Mobile).</li>\n<li>Champion a \"Shift-Left\" mindset, working with Product Owners and Developers from the refinement stage to ensure quality is engineered in from the start.</li>\n<li>Directly manage the mission team’s automation targets and use data-driven insights (MTTD/MTTR, defect escape rates) to predict high-risk areas.</li>\n</ul>\n<p><strong>Technical Leadership &amp; Tooling Adoption </strong></p>\n<ul>\n<li>Serve as the mission team's expert on central automation frameworks, driving consistent adoption of CI/CD processes and quality gates.</li>\n<li>Identify team-specific gaps and collaborate with the central Tooling Team to develop custom helpers or data generators that enhance the core framework.</li>\n<li>Ensure automated test suites are fully integrated into CI/CD pipelines to enable rapid, reliable deployment and a \"fail fast\" mechanism.</li>\n<li>Coordinate complex technical testing, including microservices, security (OWASP ZAP), and performance testing.</li>\n</ul>\n<p><strong>Collaboration, Coaching &amp; AI Innovation </strong></p>\n<ul>\n<li>Coach and upskill developers and junior QA engineers on automation best practices and test design patterns.</li>\n<li>Champion the use of AI tools (Claude, GitHub Copilot) for complex tasks like architecture exploration, incident investigation, and test generation.</li>\n<li>Leverage component testing, service virtualization, and contract testing to reduce dependencies and enable independent team testing.</li>\n<li>Define test data strategies and environment requirements to support both automated and exploratory testing.</li>\n</ul>\n<p><strong>Our Values &amp; Culture </strong></p>\n<ul>\n<li><strong>Just Pilot:</strong> We never settle for “good enough”. We pilot new ideas fast, ask questions to figure it out, and scale quickly.</li>\n<li><strong>Why Not Today? </strong>Fast is as slow as we go - speed and simplicity gives us a competitive advantage.</li>\n<li><strong>Be a Buddy:</strong> We tap in from day one to help the team, we do the right thing even if it’s hard.</li>\n<li><strong>Owners and Dates:</strong> We don’t chase people. If you own a task and agree to a date, the expectation is that it gets done.</li>\n<li><strong>Feedback: </strong>We want our employees to flourish, so we regularly provide direct and constructive feedback.</li>\n</ul>\n<p><strong>We’re Looking For </strong></p>\n<ul>\n<li><strong>Experience:</strong> 5+ years in QA Automation/SDET roles with proven success leading quality within an Agile team.</li>\n<li><strong>Programming:</strong> Strong proficiency in modern languages essential for automation, specifically C# or JavaScript/TypeScript.</li>\n<li><strong>Fintech Expertise:</strong> Experience testing complex financial systems (card issuing, transaction processing, or credit risk).</li>\n<li><strong>Automation Mastery:</strong> Hands-on experience with tools for UI (Playwright, Cypress) and API (REST Assured, Other API testing frameworks).</li>\n<li><strong>Cloud &amp; CI/CD:</strong> Familiarity with Azure, Git, and integrating automated testing into deployment workflows.</li>\n<li><strong>Leadership:</strong> Ability to influence without authority, encouraging developers and POs to prioritise automation and quality.</li>\n</ul>\n<p><em>Even if you don’t have all of the necessary skills, we still encourage you to apply.</em></p>\n<p><strong>Interview Process </strong><strong> </strong></p>\n<ul>\n<li>First stage: 30-minute intro, CV review, and values with Talent Partner</li>\n<li>Second stage: 45-minute “Tech Chat” with Team Manager</li>\n<li>Final stage: 60-minute Code Pairing + 30-minute Stakeholder Interview with Engineering &amp; Product</li>\n</ul>\n<p><strong>Diversity &amp; Inclusion</strong> <br>We welcome, consider and encourage applications from anyone who shares our commitment to inclusivity. Join us in creating a space where authenticity thrives, and everyone can do their best work.</p>\n<p><strong>Great Work Deserves Great Perks</strong></p>\n<p>Check out our benefits:</p>\n<p> Private Healthcare through AdvanceCare<br> Anniversary Rewards (€280, €570, €860, 4-week fully paid sabbatical)<br> Paid Car Parking<br>️ 36 days holiday (inclusive of public holidays with public holidays carried over if they fall on a weekend)<br> Annual Learning and Wellbeing Budget<br> 6 free therapy sessions per year<br> Free drinks and snacks in our offices</p>\n\n<p><strong>Other Info<br></strong>Check out our <a href=\"https://www.capitalontap.com/en/blog/posts/acing-your-interviews-with-capital-on-tap/\" rel=\"nofollow ugc noopener\" target=\"_blank\">‘Top Tips’ for interviewing.</a><br>✔️Keep updated on new job opportunities by following us on <a href=\"https://www.linkedin.com/company/capital-on-tap\" rel=\"nofollow ugc noopener\" target=\"_blank\">Linkedin</a>.<br>Email <a href=\"mailto:careers@capitalontap.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers@capitalontap.com</a> if you have any questions.</p>\n<p><strong>Excited to work here? Apply!<br></strong>If you’d like to progress your career within our fast growing, profitable fintech then click apply and we will aim to get back to you within 3 working days (during busy periods this could take up to 5 working days.)</p>",
+      "pubDate": "2026-09-24T15:33:09+00:00",
+      "salaryMin": 65000,
+      "salaryMax": 75000,
+      "salaryCurrency": "EUR",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:154031",
+    "platform": "jobicy",
+    "external_id": "154031",
+    "title": "Software Engineer",
+    "company": "Capital on Tap",
+    "description": "We’re Capital on Tap Capital on Tap started because small businesses were underserved. Big banks were slow, their products weren't fit for purpose, and small business owners often couldn't access what they needed. We set out to fix that. Today we're a financial platform - not just a credit card company. We offer a best-in-class business credit card, SME-focused spend management platform, a savings product that hit £1 billion in funds within its first year, and a growing suite of tools and financial products that make running a small business easier. 1,000+ employees, £20bn in annual card spend, 200,000+ customers, 17,000+ Trustpilot reviews averaging 4.7 stars, and we're profitable. We’ve done a pretty good job so far, but we’re just getting started! We opened our first Portuguese office in Porto in autumn 2025, and in less than a year it has grown to a team of 50. Lisbon is the next step. We're opening our first office in the city and looking for engineers to join as founding members of the team, helping shape how we build, hire and work here from day one. The role starts out fully remote. Once our Lisbon office is open, it will move to a hybrid set-up of two days a week on site. Salary: €40,000-55,000 This is a multiple-headcount role, so please don't be put off if you've seen it advertised for a while. What You’ll Be Doing We’re looking for Full stack Engineers to help us build the best credit card and payment products for small businesses. If you’re looking for an environment where you’re given the freedom to make empowered decisions, research new technologies, and learn/share knowledge with your peers. Then keep on reading! You’ll build robust and scalable solutions using .Net technology From the first line of code to production, monitoring, and continuous improvement - you’ll own the SDLC You’ll craft slick, responsive user interfaces with modern JavaScript frameworks (React), making sure our products don’t just work, they feel great to use Teamwork makes the dream work - you’ll partner with Product Managers, QA’s, and fellow Software Engineers You’ll build bulletproof unit and integration tests to keep our software sharp and our users happy Bugs happen. When they do, you’ll be ready to troubleshoot and tweak as needed You’ll bridge the gap between tech speak and business goals, ensuring everyone’s on the same page and moving forward together We’re Looking For Required skills: A minimum of 3+ years hands-on experience in C#, .Net Core, SQL Server, ideally JavaScript and React also! Good testing practices, in both Unit and Integration testing Good understanding of database technologies Experience in using Agile development practices A passion for learning new skills and technologies A proactive, supportive, and collaborative team player Our Tech Stack Backend: C#, .Net, .Net Core Frontend: React, JavaScript Mobile: Flutter, Dart Databases: SQL Server, MongoDB Cloud: Azure &amp; GCP Interview Process First stage: 30-minute intro, CV review, and values with a Talent Partner Second stage: 45-minute “Tech Chat” with a Team Manager Final stage: 90-minute Code Pairing + 30-minute Values Interview Diversity &amp; Inclusion We welcome, consider and encourage applications from anyone who shares our commitment to inclusivity. Join us in creating a space where authenticity thrives, and everyone can do their best work. Great Work Deserves Great Perks Check out our benefits: Private Healthcare through AdvanceCare Anniversary Rewards (€280, €570, €860, 4-week fully paid sabbatical) ️ 36 days holiday (inclusive of public holidays with public holidays carried over if they fall on a weekend) Annual Learning and Wellbeing Budget 6 free therapy sessions per year Free drinks and snacks in our offices Other Info Check out our ‘Top Tips’ for interviewing. ✔️Keep updated on new job opportunities by following us on Linkedin . Email careers@capitalontap.com if you have any questions. Excited to work here? Apply! If you’d like to progress your career within our fast growing, profitable fintech then click apply and we will aim to get back to you within 3 working days (during busy periods this could take up to 5 working days.)",
+    "url": "https://jobicy.com/jobs/154031-software-engineer-11",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Portugal",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "dart",
+      "react",
+      "mongodb",
+      "sqlserver",
+      "gcp",
+      "azure",
+      "flutter"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-24T15:33:08+00:00",
+    "fetched_at": "2026-09-24T20:48:50.282Z",
+    "raw": {
+      "id": 154031,
+      "url": "https://jobicy.com/jobs/154031-software-engineer-11",
+      "jobSlug": "154031-software-engineer-11",
+      "jobTitle": "Software Engineer",
+      "companyName": "Capital on Tap",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/88542615-221.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Portugal",
+      "jobLevel": "Any",
+      "jobExcerpt": "We’re Capital on Tap  Capital on Tap started because small businesses were underserved. Big banks were slow, their products weren't fit for purpose, and small business owners often couldn't access what they needed. We set out to fix that. Today we're a financial platform - not just a credit card company. We offer a&hellip;",
+      "jobDescription": "<p><strong>We’re <a href=\"https://jobicy.com/company/capital-on-tap\" target=\"_blank\" rel=\"noopener\">Capital on Tap</a> <br></strong> Capital on Tap started because small businesses were underserved. Big banks were slow, their products weren't fit for purpose, and small business owners often couldn't access what they needed. We set out to fix that.</p>\n<p>Today we're a financial platform - not just a credit card company. We offer a best-in-class business credit card, SME-focused spend management platform, a savings product that hit £1 billion in funds within its first year, and a growing suite of tools and financial products that make running a small business easier. </p>\n<p>1,000+ employees, £20bn in annual card spend, 200,000+ customers, 17,000+ Trustpilot reviews averaging 4.7 stars, and we're profitable. We’ve done a pretty good job so far, but we’re just getting started! </p>\n\n<p>We opened our first Portuguese office in Porto in autumn 2025, and in less than a year it has grown to a team of 50. Lisbon is the next step. We're opening our first office in the city and looking for engineers to join as founding members of the team, helping shape how we build, hire and work here from day one.</p>\n<p> The role starts out fully remote. Once our Lisbon office is open, it will move to a hybrid set-up of two days a week on site.</p>\n\n<p>Salary: €40,000-55,000</p>\n<p>This is a multiple-headcount role, so please don't be put off if you've seen it advertised for a while.</p>\n<p><strong>What You’ll Be Doing</strong><br>We’re looking for Full stack Engineers to help us build the best credit card and payment products for small businesses. If you’re looking for an environment where you’re given the freedom to make empowered decisions, research new technologies, and learn/share knowledge with your peers. Then keep on reading!</p>\n<ul>\n<li>You’ll build robust and scalable solutions using .Net technology</li>\n<li>From the first line of code to production, monitoring, and continuous improvement - you’ll own the SDLC</li>\n<li>You’ll craft slick, responsive user interfaces with modern JavaScript frameworks (React), making sure our products don’t just work, they <em>feel</em> great to use</li>\n<li>Teamwork makes the dream work - you’ll partner with Product Managers, QA’s, and fellow Software Engineers</li>\n<li>You’ll build bulletproof unit and integration tests to keep our software sharp and our users happy</li>\n<li>Bugs happen. When they do, you’ll be ready to troubleshoot and tweak as needed</li>\n<li>You’ll bridge the gap between tech speak and business goals, ensuring everyone’s on the same page and moving forward together</li>\n</ul>\n<p><strong>We’re Looking For </strong><strong><br></strong>Required skills:</p>\n<ul>\n<li>A minimum of 3+ years hands-on experience in C#, .Net Core, SQL Server, ideally JavaScript and React also!</li>\n<li>Good testing practices, in both Unit and Integration testing</li>\n<li>Good understanding of database technologies</li>\n<li>Experience in using Agile development practices</li>\n<li>A passion for learning new skills and technologies</li>\n<li>A proactive, supportive, and collaborative team player</li>\n</ul>\n<p><strong>Our Tech Stack</strong></p>\n<ul>\n<li>Backend: C#, .Net, .Net Core</li>\n<li>Frontend: React, JavaScript</li>\n<li>Mobile: Flutter, Dart</li>\n<li>Databases: SQL Server, MongoDB</li>\n<li>Cloud: Azure &amp; GCP</li>\n</ul>\n<p><strong>Interview Process </strong></p>\n<ul>\n<li>First stage: 30-minute intro, CV review, and values with a Talent Partner</li>\n<li>Second stage: 45-minute “Tech Chat” with a Team Manager</li>\n<li>Final stage: 90-minute Code Pairing + 30-minute Values Interview</li>\n</ul>\n<p><strong>Diversity &amp; Inclusion </strong><strong><br></strong>We welcome, consider and encourage applications from anyone who shares our commitment to inclusivity. Join us in creating a space where authenticity thrives, and everyone can do their best work.</p>\n<p><strong>Great Work Deserves Great Perks</strong></p>\n<p>Check out our benefits:</p>\n<p> Private Healthcare through AdvanceCare<br> Anniversary Rewards (€280, €570, €860, 4-week fully paid sabbatical)</p>\n<p>️ 36 days holiday (inclusive of public holidays with public holidays carried over if they fall on a weekend)<br> Annual Learning and Wellbeing Budget<br> 6 free therapy sessions per year<br> Free drinks and snacks in our offices</p>\n\n<p><strong>Other Info<br></strong>Check out our <a href=\"https://www.capitalontap.com/en/blog/posts/acing-your-interviews-with-capital-on-tap/\" rel=\"nofollow ugc noopener\" target=\"_blank\">‘Top Tips’ for interviewing.</a><br>✔️Keep updated on new job opportunities by following us on <a href=\"https://www.linkedin.com/company/capital-on-tap\" rel=\"nofollow ugc noopener\" target=\"_blank\">Linkedin</a>.<br>Email <a href=\"mailto:careers@capitalontap.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">careers@capitalontap.com</a> if you have any questions.</p>\n<p><strong>Excited to work here? Apply!<br></strong>If you’d like to progress your career within our fast growing, profitable fintech then click apply and we will aim to get back to you within 3 working days (during busy periods this could take up to 5 working days.)</p>",
+      "pubDate": "2026-09-24T15:33:08+00:00",
+      "salaryMin": 40000,
+      "salaryMax": 55000,
+      "salaryCurrency": "EUR",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:154032",
+    "platform": "jobicy",
+    "external_id": "154032",
+    "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+    "company": "Mozilla",
+    "description": "The role You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven. Responsibilities Build and improve WebCompat dashboards (triage, reporting, and metrics). Improve the broken-site-report screenshot capture and pipeline. Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling. Required qualifications Solid web development (JavaScript, HTML, CSS, Python &amp; Django) and experience building dashboards / data views. Comfort with tooling, automation, and web services. Self-directed, with good written communication. Preferred Familiarity with WebCompat workflows and Bugzilla. Experience with screenshot / automation pipelines. Experience with Machine Learning",
+    "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "contract",
+    "experience_level": null,
+    "location": "Canada,  France,  Germany,  UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "django",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-24T15:33:08+00:00",
+    "fetched_at": "2026-09-24T20:48:50.282Z",
+    "raw": {
+      "id": 154032,
+      "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+      "jobSlug": "154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+      "jobTitle": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+      "companyName": "Mozilla",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/mozilla.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Contract"
+      ],
+      "jobGeo": "Canada,  France,  Germany,  UK",
+      "jobLevel": "Any",
+      "jobExcerpt": "The role You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven. Responsibilities Build and improve WebCompat dashboards (triage, reporting, and metrics). Improve&hellip;",
+      "jobDescription": "<h3><strong>The role</strong></h3>\n<p>You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Build and improve WebCompat dashboards (triage, reporting, and metrics).</li>\n<li>Improve the broken-site-report screenshot capture and pipeline.</li>\n<li>Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling.</li>\n</ul>\n<h3><strong>Required qualifications</strong></h3>\n<ul>\n<li>Solid web development (JavaScript, HTML, CSS, Python &amp; Django) and experience building dashboards / data views.</li>\n<li>Comfort with tooling, automation, and web services.</li>\n<li>Self-directed, with good written communication.</li>\n</ul>\n<h3><strong>Preferred</strong></h3>\n<ul>\n<li>Familiarity with WebCompat workflows and Bugzilla.</li>\n<li>Experience with screenshot / automation pipelines.</li>\n<li>Experience with Machine Learning</li>\n</ul>",
+      "pubDate": "2026-09-24T15:33:08+00:00"
+    }
+  },
+  {
     "id": "jobicy:154020",
     "platform": "jobicy",
     "external_id": "154020",
@@ -24,7 +277,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T12:27:05+00:00",
-    "fetched_at": "2026-09-24T15:57:11.098Z",
+    "fetched_at": "2026-09-24T20:48:50.283Z",
     "raw": {
       "id": 154020,
       "url": "https://jobicy.com/jobs/154020-full-stack-engineer-front-end-leaning",
@@ -71,7 +324,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T12:27:03+00:00",
-    "fetched_at": "2026-09-24T15:57:11.099Z",
+    "fetched_at": "2026-09-24T20:48:50.284Z",
     "raw": {
       "id": 154018,
       "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
@@ -118,7 +371,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T12:27:01+00:00",
-    "fetched_at": "2026-09-24T15:57:11.102Z",
+    "fetched_at": "2026-09-24T20:48:50.285Z",
     "raw": {
       "id": 154022,
       "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
@@ -171,7 +424,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T12:25:13+00:00",
-    "fetched_at": "2026-09-24T15:57:11.104Z",
+    "fetched_at": "2026-09-24T20:48:50.286Z",
     "raw": {
       "id": 154014,
       "url": "https://jobicy.com/jobs/154014-platform-product-engineer",
@@ -219,7 +472,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-24T11:38:32+00:00",
-    "fetched_at": "2026-09-24T15:57:11.106Z",
+    "fetched_at": "2026-09-24T20:48:50.287Z",
     "raw": {
       "id": 153999,
       "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
@@ -272,7 +525,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:55:08+00:00",
-    "fetched_at": "2026-09-24T15:57:11.108Z",
+    "fetched_at": "2026-09-24T20:48:50.288Z",
     "raw": {
       "id": 149520,
       "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
@@ -326,7 +579,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:28+00:00",
-    "fetched_at": "2026-09-24T15:57:11.109Z",
+    "fetched_at": "2026-09-24T20:48:50.289Z",
     "raw": {
       "id": 151493,
       "url": "https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest",
@@ -374,7 +627,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:24+00:00",
-    "fetched_at": "2026-09-24T15:57:11.110Z",
+    "fetched_at": "2026-09-24T20:48:50.290Z",
     "raw": {
       "id": 151507,
       "url": "https://jobicy.com/jobs/151507-senior-ai-solutions-engineer-python-aws-bedrock",
@@ -420,7 +673,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-24T04:40:23+00:00",
-    "fetched_at": "2026-09-24T15:57:11.112Z",
+    "fetched_at": "2026-09-24T20:48:50.291Z",
     "raw": {
       "id": 151503,
       "url": "https://jobicy.com/jobs/151503-sdet-regression-automation-engineer",
@@ -465,7 +718,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:20+00:00",
-    "fetched_at": "2026-09-24T15:57:11.114Z",
+    "fetched_at": "2026-09-24T20:48:50.292Z",
     "raw": {
       "id": 149595,
       "url": "https://jobicy.com/jobs/149595-senior-workday-platform-engineer",
@@ -517,7 +770,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:19+00:00",
-    "fetched_at": "2026-09-24T15:57:11.116Z",
+    "fetched_at": "2026-09-24T20:48:50.293Z",
     "raw": {
       "id": 151496,
       "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
@@ -564,7 +817,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:12+00:00",
-    "fetched_at": "2026-09-24T15:57:11.118Z",
+    "fetched_at": "2026-09-24T20:48:50.294Z",
     "raw": {
       "id": 151502,
       "url": "https://jobicy.com/jobs/151502-front-end-engineering-manager-firefox-desktop",
@@ -615,7 +868,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:09+00:00",
-    "fetched_at": "2026-09-24T15:57:11.119Z",
+    "fetched_at": "2026-09-24T20:48:50.295Z",
     "raw": {
       "id": 144336,
       "url": "https://jobicy.com/jobs/144336-staff-security-architect",
@@ -661,7 +914,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:35:22+00:00",
-    "fetched_at": "2026-09-24T15:57:11.121Z",
+    "fetched_at": "2026-09-24T20:48:50.296Z",
     "raw": {
       "id": 151472,
       "url": "https://jobicy.com/jobs/151472-software-engineer-8",
@@ -704,7 +957,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-23T15:19:30+00:00",
-    "fetched_at": "2026-09-24T15:57:11.122Z",
+    "fetched_at": "2026-09-24T20:48:50.297Z",
     "raw": {
       "id": 153979,
       "url": "https://jobicy.com/jobs/153979-ads-quality-rater-farsi-turkey",
@@ -757,7 +1010,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T15:19:30+00:00",
-    "fetched_at": "2026-09-24T15:57:11.125Z",
+    "fetched_at": "2026-09-24T20:48:50.298Z",
     "raw": {
       "id": 153974,
       "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
@@ -804,7 +1057,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-23T15:19:27+00:00",
-    "fetched_at": "2026-09-24T15:57:11.126Z",
+    "fetched_at": "2026-09-24T20:48:50.299Z",
     "raw": {
       "id": 153976,
       "url": "https://jobicy.com/jobs/153976-ads-quality-rater-cantonese-hong-kong",
@@ -866,7 +1119,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:35:04+00:00",
-    "fetched_at": "2026-09-24T15:57:11.127Z",
+    "fetched_at": "2026-09-24T20:48:50.299Z",
     "raw": {
       "id": 151168,
       "url": "https://jobicy.com/jobs/151168-fullstack-engineer",
@@ -915,7 +1168,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:02:16+00:00",
-    "fetched_at": "2026-09-24T15:57:11.129Z",
+    "fetched_at": "2026-09-24T20:48:50.301Z",
     "raw": {
       "id": 149558,
       "url": "https://jobicy.com/jobs/149558-microservices-engineer",
@@ -961,7 +1214,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:02:07+00:00",
-    "fetched_at": "2026-09-24T15:57:11.131Z",
+    "fetched_at": "2026-09-24T20:48:50.302Z",
     "raw": {
       "id": 151420,
       "url": "https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems",
@@ -1010,7 +1263,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:37+00:00",
-    "fetched_at": "2026-09-24T15:57:11.132Z",
+    "fetched_at": "2026-09-24T20:48:50.303Z",
     "raw": {
       "id": 149566,
       "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
@@ -1058,7 +1311,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:33+00:00",
-    "fetched_at": "2026-09-24T15:57:11.134Z",
+    "fetched_at": "2026-09-24T20:48:50.304Z",
     "raw": {
       "id": 149574,
       "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
@@ -1105,7 +1358,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:25+00:00",
-    "fetched_at": "2026-09-24T15:57:11.135Z",
+    "fetched_at": "2026-09-24T20:48:50.305Z",
     "raw": {
       "id": 149567,
       "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
@@ -1157,7 +1410,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:19+00:00",
-    "fetched_at": "2026-09-24T15:57:11.137Z",
+    "fetched_at": "2026-09-24T20:48:50.306Z",
     "raw": {
       "id": 149576,
       "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
@@ -1206,7 +1459,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:18+00:00",
-    "fetched_at": "2026-09-24T15:57:11.138Z",
+    "fetched_at": "2026-09-24T20:48:50.307Z",
     "raw": {
       "id": 149560,
       "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
@@ -1263,7 +1516,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:14+00:00",
-    "fetched_at": "2026-09-24T15:57:11.139Z",
+    "fetched_at": "2026-09-24T20:48:50.308Z",
     "raw": {
       "id": 149563,
       "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
@@ -1312,7 +1565,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:05+00:00",
-    "fetched_at": "2026-09-24T15:57:11.141Z",
+    "fetched_at": "2026-09-24T20:48:50.309Z",
     "raw": {
       "id": 149562,
       "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
@@ -1360,7 +1613,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:29+00:00",
-    "fetched_at": "2026-09-24T15:57:11.142Z",
+    "fetched_at": "2026-09-24T20:48:50.310Z",
     "raw": {
       "id": 149535,
       "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
@@ -1411,7 +1664,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:27+00:00",
-    "fetched_at": "2026-09-24T15:57:11.143Z",
+    "fetched_at": "2026-09-24T20:48:50.311Z",
     "raw": {
       "id": 149532,
       "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
@@ -1462,7 +1715,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:25+00:00",
-    "fetched_at": "2026-09-24T15:57:11.144Z",
+    "fetched_at": "2026-09-24T20:48:50.312Z",
     "raw": {
       "id": 149523,
       "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
@@ -1510,7 +1763,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:20+00:00",
-    "fetched_at": "2026-09-24T15:57:11.145Z",
+    "fetched_at": "2026-09-24T20:48:50.313Z",
     "raw": {
       "id": 149533,
       "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
@@ -1568,7 +1821,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:18+00:00",
-    "fetched_at": "2026-09-24T15:57:11.146Z",
+    "fetched_at": "2026-09-24T20:48:50.314Z",
     "raw": {
       "id": 149534,
       "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
@@ -1619,7 +1872,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:13+00:00",
-    "fetched_at": "2026-09-24T15:57:11.147Z",
+    "fetched_at": "2026-09-24T20:48:50.315Z",
     "raw": {
       "id": 149524,
       "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
@@ -1672,7 +1925,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:12+00:00",
-    "fetched_at": "2026-09-24T15:57:11.149Z",
+    "fetched_at": "2026-09-24T20:48:50.316Z",
     "raw": {
       "id": 149522,
       "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
@@ -1724,7 +1977,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:10+00:00",
-    "fetched_at": "2026-09-24T15:57:11.150Z",
+    "fetched_at": "2026-09-24T20:48:50.317Z",
     "raw": {
       "id": 149527,
       "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
@@ -1780,7 +2033,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:28+00:00",
-    "fetched_at": "2026-09-24T15:57:11.151Z",
+    "fetched_at": "2026-09-24T20:48:50.318Z",
     "raw": {
       "id": 149543,
       "url": "https://jobicy.com/jobs/149543-python-engineer",
@@ -1828,7 +2081,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:15+00:00",
-    "fetched_at": "2026-09-24T15:57:11.152Z",
+    "fetched_at": "2026-09-24T20:48:50.320Z",
     "raw": {
       "id": 149537,
       "url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
@@ -1878,7 +2131,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:14+00:00",
-    "fetched_at": "2026-09-24T15:57:11.154Z",
+    "fetched_at": "2026-09-24T20:48:50.321Z",
     "raw": {
       "id": 149498,
       "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
@@ -1928,7 +2181,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:13+00:00",
-    "fetched_at": "2026-09-24T15:57:11.155Z",
+    "fetched_at": "2026-09-24T20:48:50.322Z",
     "raw": {
       "id": 149538,
       "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
@@ -1978,7 +2231,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:10+00:00",
-    "fetched_at": "2026-09-24T15:57:11.156Z",
+    "fetched_at": "2026-09-24T20:48:50.323Z",
     "raw": {
       "id": 149499,
       "url": "https://jobicy.com/jobs/149499-software-engineer-data",
@@ -2031,7 +2284,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:06+00:00",
-    "fetched_at": "2026-09-24T15:57:11.157Z",
+    "fetched_at": "2026-09-24T20:48:50.323Z",
     "raw": {
       "id": 149503,
       "url": "https://jobicy.com/jobs/149503-partner-solutions-architect",
@@ -2084,7 +2337,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:45:15+00:00",
-    "fetched_at": "2026-09-24T15:57:11.159Z",
+    "fetched_at": "2026-09-24T20:48:50.325Z",
     "raw": {
       "id": 149551,
       "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
@@ -2131,7 +2384,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:45:07+00:00",
-    "fetched_at": "2026-09-24T15:57:11.160Z",
+    "fetched_at": "2026-09-24T20:48:50.326Z",
     "raw": {
       "id": 149552,
       "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
@@ -2185,7 +2438,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T16:46:01+00:00",
-    "fetched_at": "2026-09-24T15:57:11.162Z",
+    "fetched_at": "2026-09-24T20:48:50.327Z",
     "raw": {
       "id": 153924,
       "url": "https://jobicy.com/jobs/153924-senior-software-engineer-build-loop",
@@ -2237,7 +2490,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T16:45:57+00:00",
-    "fetched_at": "2026-09-24T15:57:11.163Z",
+    "fetched_at": "2026-09-24T20:48:50.328Z",
     "raw": {
       "id": 153922,
       "url": "https://jobicy.com/jobs/153922-engineering-manager-8",
@@ -2286,7 +2539,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:51:58+00:00",
-    "fetched_at": "2026-09-24T15:57:11.164Z",
+    "fetched_at": "2026-09-24T20:48:50.329Z",
     "raw": {
       "id": 153905,
       "url": "https://jobicy.com/jobs/153905-backend-engineer-control-plane",
@@ -2341,7 +2594,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:50:06+00:00",
-    "fetched_at": "2026-09-24T15:57:11.166Z",
+    "fetched_at": "2026-09-24T20:48:50.331Z",
     "raw": {
       "id": 153899,
       "url": "https://jobicy.com/jobs/153899-senior-software-engineer-add-ons",
@@ -2388,7 +2641,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:10:16+00:00",
-    "fetched_at": "2026-09-24T15:57:11.167Z",
+    "fetched_at": "2026-09-24T20:48:50.331Z",
     "raw": {
       "id": 153882,
       "url": "https://jobicy.com/jobs/153882-senior-manager-solution-engineering-docv",
@@ -2437,7 +2690,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:10:14+00:00",
-    "fetched_at": "2026-09-24T15:57:11.168Z",
+    "fetched_at": "2026-09-24T20:48:50.333Z",
     "raw": {
       "id": 153888,
       "url": "https://jobicy.com/jobs/153888-chief-technology-officer-us-based",
@@ -2480,7 +2733,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:10:14+00:00",
-    "fetched_at": "2026-09-24T15:57:11.169Z",
+    "fetched_at": "2026-09-24T20:48:50.334Z",
     "raw": {
       "id": 153889,
       "url": "https://jobicy.com/jobs/153889-staff-backend-engineer-3",
@@ -2527,7 +2780,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T13:32:44+00:00",
-    "fetched_at": "2026-09-24T15:57:11.170Z",
+    "fetched_at": "2026-09-24T20:48:50.335Z",
     "raw": {
       "id": 153869,
       "url": "https://jobicy.com/jobs/153869-director-of-engineering-enterprise-product",
@@ -2585,7 +2838,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T13:29:52+00:00",
-    "fetched_at": "2026-09-24T15:57:11.172Z",
+    "fetched_at": "2026-09-24T20:48:50.336Z",
     "raw": {
       "id": 153865,
       "url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform",
@@ -2635,7 +2888,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:45:06+00:00",
-    "fetched_at": "2026-09-24T15:57:11.172Z",
+    "fetched_at": "2026-09-24T20:48:50.337Z",
     "raw": {
       "id": 153647,
       "url": "https://jobicy.com/jobs/153647-staff-software-backend-engineer-tech-lead-foundations",
@@ -2684,7 +2937,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:39:27+00:00",
-    "fetched_at": "2026-09-24T15:57:11.174Z",
+    "fetched_at": "2026-09-24T20:48:50.338Z",
     "raw": {
       "id": 151412,
       "url": "https://jobicy.com/jobs/151412-developer-advocate",
@@ -2736,7 +2989,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:39:26+00:00",
-    "fetched_at": "2026-09-24T15:57:11.175Z",
+    "fetched_at": "2026-09-24T20:48:50.339Z",
     "raw": {
       "id": 151415,
       "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
@@ -2793,7 +3046,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:35:19+00:00",
-    "fetched_at": "2026-09-24T15:57:11.179Z",
+    "fetched_at": "2026-09-24T20:48:50.343Z",
     "raw": {
       "id": 151374,
       "url": "https://jobicy.com/jobs/151374-chief-architect",
@@ -2843,7 +3096,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:35:17+00:00",
-    "fetched_at": "2026-09-24T15:57:11.180Z",
+    "fetched_at": "2026-09-24T20:48:50.344Z",
     "raw": {
       "id": 151366,
       "url": "https://jobicy.com/jobs/151366-senior-staff-software-engineer-c",
@@ -2906,7 +3159,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:35:16+00:00",
-    "fetched_at": "2026-09-24T15:57:11.182Z",
+    "fetched_at": "2026-09-24T20:48:50.345Z",
     "raw": {
       "id": 151369,
       "url": "https://jobicy.com/jobs/151369-staff-product-engineer-2",
@@ -2961,7 +3214,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:35:03+00:00",
-    "fetched_at": "2026-09-24T15:57:11.183Z",
+    "fetched_at": "2026-09-24T20:48:50.346Z",
     "raw": {
       "id": 151365,
       "url": "https://jobicy.com/jobs/151365-fullstack-engineer-2",
@@ -3006,7 +3259,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-22T03:30:23+00:00",
-    "fetched_at": "2026-09-24T15:57:11.184Z",
+    "fetched_at": "2026-09-24T20:48:50.347Z",
     "raw": {
       "id": 149468,
       "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
@@ -3054,7 +3307,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-22T03:30:22+00:00",
-    "fetched_at": "2026-09-24T15:57:11.185Z",
+    "fetched_at": "2026-09-24T20:48:50.348Z",
     "raw": {
       "id": 149466,
       "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
@@ -3101,7 +3354,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:30:11+00:00",
-    "fetched_at": "2026-09-24T15:57:11.186Z",
+    "fetched_at": "2026-09-24T20:48:50.349Z",
     "raw": {
       "id": 149450,
       "url": "https://jobicy.com/jobs/149450-customer-solution-engineer-ai-native-consumption-quote-to-cash",
@@ -3166,7 +3419,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:30:08+00:00",
-    "fetched_at": "2026-09-24T15:57:11.188Z",
+    "fetched_at": "2026-09-24T20:48:50.351Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -3213,7 +3466,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T16:31:45+00:00",
-    "fetched_at": "2026-09-24T15:57:11.189Z",
+    "fetched_at": "2026-09-24T20:48:50.351Z",
     "raw": {
       "id": 153844,
       "url": "https://jobicy.com/jobs/153844-principal-ai-engineer",
@@ -3256,7 +3509,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T16:31:44+00:00",
-    "fetched_at": "2026-09-24T15:57:11.190Z",
+    "fetched_at": "2026-09-24T20:48:50.353Z",
     "raw": {
       "id": 153842,
       "url": "https://jobicy.com/jobs/153842-director-ai-solutions",
@@ -3312,7 +3565,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T15:32:07+00:00",
-    "fetched_at": "2026-09-24T15:57:11.191Z",
+    "fetched_at": "2026-09-24T20:48:50.353Z",
     "raw": {
       "id": 153829,
       "url": "https://jobicy.com/jobs/153829-design-engineer-site",
@@ -3365,7 +3618,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T15:32:03+00:00",
-    "fetched_at": "2026-09-24T15:57:11.191Z",
+    "fetched_at": "2026-09-24T20:48:50.354Z",
     "raw": {
       "id": 153825,
       "url": "https://jobicy.com/jobs/153825-ai-agent-engineer",
@@ -3419,7 +3672,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T15:03:15+00:00",
-    "fetched_at": "2026-09-24T15:57:11.193Z",
+    "fetched_at": "2026-09-24T20:48:50.354Z",
     "raw": {
       "id": 153823,
       "url": "https://jobicy.com/jobs/153823-ai-software-engineer",
@@ -3469,7 +3722,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T11:48:02+00:00",
-    "fetched_at": "2026-09-24T15:57:11.194Z",
+    "fetched_at": "2026-09-24T20:48:50.355Z",
     "raw": {
       "id": 153799,
       "url": "https://jobicy.com/jobs/153799-software-engineer-10",
@@ -3519,7 +3772,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T11:48:01+00:00",
-    "fetched_at": "2026-09-24T15:57:11.195Z",
+    "fetched_at": "2026-09-24T20:48:50.356Z",
     "raw": {
       "id": 153804,
       "url": "https://jobicy.com/jobs/153804-senior-software-engineer-5",
@@ -3562,7 +3815,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-21T09:55:13+00:00",
-    "fetched_at": "2026-09-24T15:57:11.195Z",
+    "fetched_at": "2026-09-24T20:48:50.357Z",
     "raw": {
       "id": 151333,
       "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
@@ -3608,7 +3861,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:55:09+00:00",
-    "fetched_at": "2026-09-24T15:57:11.197Z",
+    "fetched_at": "2026-09-24T20:48:50.358Z",
     "raw": {
       "id": 151329,
       "url": "https://jobicy.com/jobs/151329-engineering-manager-product-engineering",
@@ -3655,7 +3908,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-21T09:50:20+00:00",
-    "fetched_at": "2026-09-24T15:57:11.197Z",
+    "fetched_at": "2026-09-24T20:48:50.358Z",
     "raw": {
       "id": 151338,
       "url": "https://jobicy.com/jobs/151338-scout-junior-quality-coordinator-spanish-mexico",
@@ -3706,7 +3959,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:50:12+00:00",
-    "fetched_at": "2026-09-24T15:57:11.198Z",
+    "fetched_at": "2026-09-24T20:48:50.360Z",
     "raw": {
       "id": 151337,
       "url": "https://jobicy.com/jobs/151337-technical-lead-manager",
@@ -3758,7 +4011,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:50:08+00:00",
-    "fetched_at": "2026-09-24T15:57:11.199Z",
+    "fetched_at": "2026-09-24T20:48:50.360Z",
     "raw": {
       "id": 151290,
       "url": "https://jobicy.com/jobs/151290-senior-software-engineer-3",
@@ -3811,7 +4064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:45:30+00:00",
-    "fetched_at": "2026-09-24T15:57:11.201Z",
+    "fetched_at": "2026-09-24T20:48:50.362Z",
     "raw": {
       "id": 151326,
       "url": "https://jobicy.com/jobs/151326-director-of-engineering-data",
@@ -3880,7 +4133,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:45:19+00:00",
-    "fetched_at": "2026-09-24T15:57:11.202Z",
+    "fetched_at": "2026-09-24T20:48:50.363Z",
     "raw": {
       "id": 151313,
       "url": "https://jobicy.com/jobs/151313-senior-frontend-engineer-growth-usa-only-100-remote",
@@ -3942,7 +4195,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:45:17+00:00",
-    "fetched_at": "2026-09-24T15:57:11.204Z",
+    "fetched_at": "2026-09-24T20:48:50.364Z",
     "raw": {
       "id": 151308,
       "url": "https://jobicy.com/jobs/151308-senior-software-engineer-backend-usa-only-100-remote",
@@ -3987,7 +4240,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:35:22+00:00",
-    "fetched_at": "2026-09-24T15:57:11.205Z",
+    "fetched_at": "2026-09-24T20:48:50.365Z",
     "raw": {
       "id": 153783,
       "url": "https://jobicy.com/jobs/153783-senior-full-stack-engineer-3",
@@ -4038,7 +4291,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T03:10:14+00:00",
-    "fetched_at": "2026-09-24T15:57:11.206Z",
+    "fetched_at": "2026-09-24T20:48:50.366Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -4089,7 +4342,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T03:10:11+00:00",
-    "fetched_at": "2026-09-24T15:57:11.207Z",
+    "fetched_at": "2026-09-24T20:48:50.367Z",
     "raw": {
       "id": 151197,
       "url": "https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir",
@@ -4136,7 +4389,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:30:31+00:00",
-    "fetched_at": "2026-09-24T15:57:11.208Z",
+    "fetched_at": "2026-09-24T20:48:50.368Z",
     "raw": {
       "id": 153758,
       "url": "https://jobicy.com/jobs/153758-electrical-engineer-3",
@@ -4187,7 +4440,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:27:49+00:00",
-    "fetched_at": "2026-09-24T15:57:11.210Z",
+    "fetched_at": "2026-09-24T20:48:50.369Z",
     "raw": {
       "id": 153752,
       "url": "https://jobicy.com/jobs/153752-senior-software-engineer-edge-security",
@@ -4240,7 +4493,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:23:35+00:00",
-    "fetched_at": "2026-09-24T15:57:11.211Z",
+    "fetched_at": "2026-09-24T20:48:50.370Z",
     "raw": {
       "id": 153740,
       "url": "https://jobicy.com/jobs/153740-ai-senior-engineer-vision",
@@ -4302,7 +4555,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:23:33+00:00",
-    "fetched_at": "2026-09-24T15:57:11.212Z",
+    "fetched_at": "2026-09-24T20:48:50.371Z",
     "raw": {
       "id": 153741,
       "url": "https://jobicy.com/jobs/153741-senior-software-enginner-full-stack-node-react",
@@ -4349,7 +4602,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:08:26+00:00",
-    "fetched_at": "2026-09-24T15:57:11.212Z",
+    "fetched_at": "2026-09-24T20:48:50.372Z",
     "raw": {
       "id": 153712,
       "url": "https://jobicy.com/jobs/153712-founding-forward-deployed-engineer",
@@ -4400,7 +4653,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:08:26+00:00",
-    "fetched_at": "2026-09-24T15:57:11.213Z",
+    "fetched_at": "2026-09-24T20:48:50.372Z",
     "raw": {
       "id": 153716,
       "url": "https://jobicy.com/jobs/153716-senior-frontend-engineer-react",
@@ -4450,7 +4703,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:06:25+00:00",
-    "fetched_at": "2026-09-24T15:57:11.215Z",
+    "fetched_at": "2026-09-24T20:48:50.374Z",
     "raw": {
       "id": 153707,
       "url": "https://jobicy.com/jobs/153707-senior-net-developer-saas-manager",
@@ -4497,7 +4750,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:06:23+00:00",
-    "fetched_at": "2026-09-24T15:57:11.217Z",
+    "fetched_at": "2026-09-24T20:48:50.376Z",
     "raw": {
       "id": 153701,
       "url": "https://jobicy.com/jobs/153701-full-stack-growth-engineer",
@@ -4554,7 +4807,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:04:48+00:00",
-    "fetched_at": "2026-09-24T15:57:11.219Z",
+    "fetched_at": "2026-09-24T20:48:50.377Z",
     "raw": {
       "id": 153692,
       "url": "https://jobicy.com/jobs/153692-senior-software-engineer-data-platform-services",
@@ -4603,7 +4856,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:04:48+00:00",
-    "fetched_at": "2026-09-24T15:57:11.221Z",
+    "fetched_at": "2026-09-24T20:48:50.379Z",
     "raw": {
       "id": 153697,
       "url": "https://jobicy.com/jobs/153697-staff-software-engineer-6",
@@ -4655,7 +4908,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T05:00:12+00:00",
-    "fetched_at": "2026-09-24T15:57:11.222Z",
+    "fetched_at": "2026-09-24T20:48:50.380Z",
     "raw": {
       "id": 151260,
       "url": "https://jobicy.com/jobs/151260-generative-media-engineer-ai-social-us",
@@ -4707,7 +4960,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T05:00:09+00:00",
-    "fetched_at": "2026-09-24T15:57:11.223Z",
+    "fetched_at": "2026-09-24T20:48:50.381Z",
     "raw": {
       "id": 151258,
       "url": "https://jobicy.com/jobs/151258-generative-media-engineer-ai-social-canada",
@@ -4767,7 +5020,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T04:55:14+00:00",
-    "fetched_at": "2026-09-24T15:57:11.224Z",
+    "fetched_at": "2026-09-24T20:48:50.382Z",
     "raw": {
       "id": 151239,
       "url": "https://jobicy.com/jobs/151239-staff-backend-engineer-hierarchy",
@@ -4821,7 +5074,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T04:55:05+00:00",
-    "fetched_at": "2026-09-24T15:57:11.225Z",
+    "fetched_at": "2026-09-24T20:48:50.383Z",
     "raw": {
       "id": 151229,
       "url": "https://jobicy.com/jobs/151229-principal-engineer-tl-m-software-development-paas",
@@ -4842,264 +5095,6 @@
       "pubDate": "2026-09-20T04:55:05+00:00",
       "salaryMin": 249019,
       "salaryMax": 292963,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:151251",
-    "platform": "jobicy",
-    "external_id": "151251",
-    "title": "Engineering Manager, Maps & Search - US",
-    "company": "Luxury Presence",
-    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business. The Opportunity We don't just use AI. We build with it, ship with it, and think with it. With a generous budget for tokens, our engineers use AI agents to write, review, and ship production code every day. We are building toward a world where humans design systems and AI builds them, and we are already far along that path. We are hiring a hands-on Engineering Manager to lead Maps &amp; Search . This team owns the home search experience across web and mobile. It's one of the most visible, highest-traffic surfaces–the search service alone handles a billion requests every month . This is a role for a manager who leads from the front: someone who still lives in their terminal with AI, has strong opinions about how AI changes the SDLC, and wants to amplify what a small, senior, AI-augmented team can accomplish. You will set technical direction, stay close to the code, and help the team produce consistent impact. What You'll Do Lead and grow the Maps &amp; Search team. Own hiring, onboarding, coaching, 1:1s, direct feedback, and career development. Treat management as a craft and build a healthy, high-performing team that ships impactful changes. Stay hands-on. Contribute directly — code and design reviews, architecture, thorny debugging— and stay technical enough to make smart calls on trade-offs. Own and scale a high-throughput search platform. Drive the architecture, relevance, latency, and reliability of a real estate search system handling ~1B monthly requests and hundreds of millions of listings. Deliver a world-class home search experience. Own the core home discovery experience across web and mobile — improving engagement, lead conversion, and agent workflows while keeping interactions fast and responsive at scale. Push forward AI-powered discovery. Partner across teams to bring LLMs and intelligent ranking into search and user workflows, improving how buyers and agents discover, filter, and engage with listings. Shape the roadmap with product and design. Define what we build and why , not just focusing on the how . Translate user needs and business goals into a clear technical plan, and own delivery end to end — planning, quality, reliability, and incident response. What We're Looking For Attributes You lead from the front. You're still close to the code and technically respected, and you treat management as a craft — growing engineers, giving clear feedback, and building a team that ships. You already build with AI daily. You use AI as a core part of your workflow, not as a novelty — and you expect your team to as well. You have strong opinions, loosely held , about how AI changes software architecture, team structure, and engineering culture. You think in systems. You connect technical decisions to customer outcomes and business value. You communicate clearly and directly. You can explain complex tradeoffs to product, design, and executive stakeholders. You're energized by ambiguity and speed. You thrive in a fast-growing company where the roadmap evolves and ownership is real. You like to have fun at work. We take our craft seriously, but we don't take ourselves too seriously. We celebrate wins, crack jokes, and genuinely enjoy building together. Skills and Experience 8+ years of professional software engineering experience with meaningful senior or staff-level time, plus 2+ years managing engineering teams. Search experience — you've worked on search, relevance, ranking, or retrieval systems. It doesn't have to be OpenSearch or Elasticsearch specifically, but you understand how search works and how to make it better. Deep expertise in TypeScript, Node.js, and React, with the full-stack fluency to reason about the whole request path from UI to data. Experience designing and operating scalable microservice architectures in cloud-native environments (AWS preferred). Strong understanding of GraphQL, event-driven systems (Kafka), and databases (PostgreSQL, OpenSearch). A proven track record operating high-traffic, low-latency production systems at scale — SLOs, incident response, and capacity planning are second nature. Experience leading high-impact initiatives from concept through production in a SaaS environment. Tech Stack Frontend: React, Tailwind, Apollo Backend: Node.js / TypeScript microservices Data: PostgreSQL, OpenSearch Infrastructure: AWS, Kubernetes, Lambda Messaging: Kafka, Redis Compensation Additional Information Join us in shaping the future of real estate The real estate industry is in the midst of a seismic shift, and the future belongs to those who break new ground. As one of the fastest-growing companies in the proptech and marketing sectors, Luxury Presence challenges the status quo of what technology can do for real estate agents, leaders, and brokerages. We're a team of agile and tenacious innovators working collaboratively to drive the industry forward. Together, we build game-changing products that empower modern real estate entrepreneurs to dominate their markets. From award-winning web design to agile SEO solutions to cutting-edge AI tools, we deliver tech that anticipates market shifts and keeps our clients ahead of their competition. Founded in 2016 by Stanford Business School alum Malte Kramer, Luxury Presence has grown to a global team ranked on the Inc. 5000 fastest-growing companies list three years in a row. We're backed by world-class investors, including Bessemer Venture Partners, NextEquity Partners, Toba Capital, and Switch Ventures, and have raised $89 million to date. More than 18,000 real estate businesses rely on our platform, including 30% of the Wall Street Journal RealTrends top agents and teams. Additionally, many of the industry's most powerful brokerages rely on Luxury Presence as a trusted business partner. Every year since 2020, Luxury Presence has ranked on BuiltIn's Best Place to Work lists. HousingWire named our founder and CEO a 2024 Tech Trendsetter, we've received several Tech100 Awards, and we just scored an Inman Innovation Award for Best AI-Powered Platform. Luxury Presence is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.",
-    "url": "https://jobicy.com/jobs/151251-engineering-manager-maps-search-us",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "react",
-      "nodejs",
-      "postgresql",
-      "redis",
-      "elasticsearch",
-      "aws",
-      "kubernetes",
-      "kafka",
-      "graphql"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-20T04:50:28+00:00",
-    "fetched_at": "2026-09-24T15:57:11.226Z",
-    "raw": {
-      "id": 151251,
-      "url": "https://jobicy.com/jobs/151251-engineering-manager-maps-search-us",
-      "jobSlug": "151251-engineering-manager-maps-search-us",
-      "jobTitle": "Engineering Manager, Maps & Search - US",
-      "companyName": "Luxury Presence",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Director",
-      "jobExcerpt": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-      "jobDescription": "<p><strong><a href=\"https://jobicy.com/company/luxury-presence\" target=\"_blank\" rel=\"noopener\">Luxury Presence</a> </strong>is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.</p>\n\n<h3><strong>The Opportunity</strong></h3>\n<p>We don't just use AI. We build with it, ship with it, and think with it. With a generous budget for tokens, our engineers use AI agents to write, review, and ship production code every day. We are building toward a world where humans design systems and AI builds them, and we are already far along that path.</p>\n<p>We are hiring a hands-on <strong>Engineering Manager</strong> to lead <strong>Maps &amp; Search</strong>. This team owns the home search experience across web and mobile. It's one of the most visible, highest-traffic surfaces–the search service alone handles <strong>a billion requests every month</strong>.</p>\n<p>This is a role for a manager who leads from the front: someone who still lives in their terminal with AI, has strong opinions about how AI changes the SDLC, and wants to amplify what a small, senior, AI-augmented team can accomplish. You will set technical direction, stay close to the code, and help the team produce consistent impact.</p>\n<h3><strong>What You'll Do</strong></h3>\n<p><strong>Lead and grow the Maps &amp; Search team.</strong> Own hiring, onboarding, coaching, 1:1s, direct feedback, and career development. Treat management as a craft and build a healthy, high-performing team that ships impactful changes.</p>\n<p><strong>Stay hands-on.</strong> Contribute directly — code and design reviews, architecture, thorny debugging— and stay technical enough to make smart calls on trade-offs.</p>\n<p><strong>Own and scale a high-throughput search platform.</strong> Drive the architecture, relevance, latency, and reliability of a real estate search system handling ~1B monthly requests and hundreds of millions of listings.</p>\n<p><strong>Deliver a world-class home search experience.</strong> Own the core home discovery experience across web and mobile — improving engagement, lead conversion, and agent workflows while keeping interactions fast and responsive at scale.</p>\n<p><strong>Push forward AI-powered discovery.</strong> Partner across teams to bring LLMs and intelligent ranking into search and user workflows, improving how buyers and agents discover, filter, and engage with listings.</p>\n<p><strong>Shape the roadmap with product and design.</strong> Define <em>what</em> we build and <em>why</em>, not just focusing on the <em>how</em>. Translate user needs and business goals into a clear technical plan, and own delivery end to end — planning, quality, reliability, and incident response.</p>\n<h3> </h3>\n<h3><strong>What We're Looking For</strong></h3>\n<h3><strong>Attributes</strong></h3>\n<ul>\n<li>\n<p><strong>You lead from the front.</strong> You're still close to the code and technically respected, and you treat management as a craft — growing engineers, giving clear feedback, and building a team that ships.</p>\n</li>\n<li>\n<p><strong>You already build with AI daily.</strong> You use AI as a core part of your workflow, not as a novelty — and you expect your team to as well.</p>\n</li>\n<li>\n<p><strong>You have strong opinions, loosely held</strong>, about how AI changes software architecture, team structure, and engineering culture.</p>\n</li>\n<li>\n<p><strong>You think in systems.</strong> You connect technical decisions to customer outcomes and business value.</p>\n</li>\n<li>\n<p><strong>You communicate clearly and directly.</strong> You can explain complex tradeoffs to product, design, and executive stakeholders.</p>\n</li>\n<li>\n<p><strong>You're energized by ambiguity and speed.</strong> You thrive in a fast-growing company where the roadmap evolves and ownership is real.</p>\n</li>\n<li>\n<p><strong>You like to have fun at work.</strong> We take our craft seriously, but we don't take ourselves too seriously. We celebrate wins, crack jokes, and genuinely enjoy building together.</p>\n</li>\n</ul>\n<h3><strong>Skills and Experience</strong></h3>\n<ul>\n<li>\n<p>8+ years of professional software engineering experience with meaningful senior or staff-level time, plus 2+ years managing engineering teams.</p>\n</li>\n<li>\n<p><strong>Search experience</strong> — you've worked on search, relevance, ranking, or retrieval systems. It doesn't have to be OpenSearch or Elasticsearch specifically, but you understand how search works and how to make it better.</p>\n</li>\n<li>\n<p>Deep expertise in TypeScript, Node.js, and React, with the full-stack fluency to reason about the whole request path from UI to data.</p>\n</li>\n<li>\n<p>Experience designing and operating scalable microservice architectures in cloud-native environments (AWS preferred).</p>\n</li>\n<li>\n<p>Strong understanding of GraphQL, event-driven systems (Kafka), and databases (PostgreSQL, OpenSearch).</p>\n</li>\n<li>\n<p>A proven track record operating high-traffic, low-latency production systems at scale — SLOs, incident response, and capacity planning are second nature.</p>\n</li>\n<li>\n<p>Experience leading high-impact initiatives from concept through production in a SaaS environment.</p>\n</li>\n</ul>\n<h3><strong>Tech Stack</strong></h3>\n<ul>\n<li>\n<p><strong>Frontend:</strong> React, Tailwind, Apollo</p>\n</li>\n<li>\n<p><strong>Backend:</strong> Node.js / TypeScript microservices</p>\n</li>\n<li>\n<p><strong>Data:</strong> PostgreSQL, OpenSearch</p>\n</li>\n<li>\n<p><strong>Infrastructure:</strong> AWS, Kubernetes, Lambda</p>\n</li>\n<li>\n<p><strong>Messaging:</strong> Kafka, Redis</p>\n</li>\n</ul>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>\n<p><strong>Join us in shaping the future of real estate</strong></p>\n<p>The real estate industry is in the midst of a seismic shift, and the future belongs to those who break new ground. As one of the fastest-growing companies in the proptech and marketing sectors, Luxury Presence challenges the status quo of what technology can do for real estate agents, leaders, and brokerages.</p>\n<p>We're a team of agile and tenacious innovators working collaboratively to drive the industry forward. Together, we build game-changing products that empower modern real estate entrepreneurs to dominate their markets. From award-winning web design to agile SEO solutions to cutting-edge AI tools, we deliver tech that anticipates market shifts and keeps our clients ahead of their competition.</p>\n<p>Founded in 2016 by Stanford Business School alum Malte Kramer, Luxury Presence has grown to a global team ranked on the Inc. 5000 fastest-growing companies list three years in a row. We're backed by world-class investors, including Bessemer Venture Partners, NextEquity Partners, Toba Capital, and Switch Ventures, and have raised $89 million to date.</p>\n<p>More than 18,000 real estate businesses rely on our platform, including 30% of the Wall Street Journal RealTrends top agents and teams. Additionally, many of the industry's most powerful brokerages rely on Luxury Presence as a trusted business partner.</p>\n<p>Every year since 2020, Luxury Presence has ranked on BuiltIn's Best Place to Work lists. HousingWire named our founder and CEO a 2024 Tech Trendsetter, we've received several Tech100 Awards, and we just scored an Inman Innovation Award for Best AI-Powered Platform.</p>\n<p><strong>Luxury Presence is an Equal Opportunity Employer.</strong> All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.</p>",
-      "pubDate": "2026-09-20T04:50:28+00:00"
-    }
-  },
-  {
-    "id": "jobicy:151246",
-    "platform": "jobicy",
-    "external_id": "151246",
-    "title": "Engineering Manager, Maps & Search - CANADA",
-    "company": "Luxury Presence",
-    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business. The Opportunity We don't just use AI. We build with it, ship with it, and think with it. With a generous budget for tokens, our engineers use AI agents to write, review, and ship production code every day. We are building toward a world where humans design systems and AI builds them, and we are already far along that path. We are hiring a hands-on Engineering Manager to lead Maps &amp; Search . This team owns the home search experience across web and mobile. It's one of the most visible, highest-traffic surfaces–the search service alone handles a billion requests every month . This is a role for a manager who leads from the front: someone who still lives in their terminal with AI, has strong opinions about how AI changes the SDLC, and wants to amplify what a small, senior, AI-augmented team can accomplish. You will set technical direction, stay close to the code, and help the team produce consistent impact. What You'll Do Lead and grow the Maps &amp; Search team. Own hiring, onboarding, coaching, 1:1s, direct feedback, and career development. Treat management as a craft and build a healthy, high-performing team that ships impactful changes. Stay hands-on. Contribute directly — code and design reviews, architecture, thorny debugging— and stay technical enough to make smart calls on trade-offs. Own and scale a high-throughput search platform. Drive the architecture, relevance, latency, and reliability of a real estate search system handling ~1B monthly requests and hundreds of millions of listings. Deliver a world-class home search experience. Own the core home discovery experience across web and mobile — improving engagement, lead conversion, and agent workflows while keeping interactions fast and responsive at scale. Push forward AI-powered discovery. Partner across teams to bring LLMs and intelligent ranking into search and user workflows, improving how buyers and agents discover, filter, and engage with listings. Shape the roadmap with product and design. Define what we build and why , not just focusing on the how . Translate user needs and business goals into a clear technical plan, and own delivery end to end — planning, quality, reliability, and incident response. What We're Looking For Attributes You lead from the front. You're still close to the code and technically respected, and you treat management as a craft — growing engineers, giving clear feedback, and building a team that ships. You already build with AI daily. You use AI as a core part of your workflow, not as a novelty — and you expect your team to as well. You have strong opinions, loosely held , about how AI changes software architecture, team structure, and engineering culture. You think in systems. You connect technical decisions to customer outcomes and business value. You communicate clearly and directly. You can explain complex tradeoffs to product, design, and executive stakeholders. You're energized by ambiguity and speed. You thrive in a fast-growing company where the roadmap evolves and ownership is real. You like to have fun at work. We take our craft seriously, but we don't take ourselves too seriously. We celebrate wins, crack jokes, and genuinely enjoy building together. Skills and Experience 8+ years of professional software engineering experience with meaningful senior or staff-level time, plus 2+ years managing engineering teams. Search experience — you've worked on search, relevance, ranking, or retrieval systems. It doesn't have to be OpenSearch or Elasticsearch specifically, but you understand how search works and how to make it better. Deep expertise in TypeScript, Node.js, and React, with the full-stack fluency to reason about the whole request path from UI to data. Experience designing and operating scalable microservice architectures in cloud-native environments (AWS preferred). Strong understanding of GraphQL, event-driven systems (Kafka), and databases (PostgreSQL, OpenSearch). A proven track record operating high-traffic, low-latency production systems at scale — SLOs, incident response, and capacity planning are second nature. Experience leading high-impact initiatives from concept through production in a SaaS environment. Tech Stack Frontend: React, Tailwind, Apollo Backend: Node.js / TypeScript microservices Data: PostgreSQL, OpenSearch Infrastructure: AWS, Kubernetes, Lambda Messaging: Kafka, Redis Compensation Additional Information Join us in shaping the future of real estate The real estate industry is in the midst of a seismic shift, and the future belongs to those who break new ground. As one of the fastest-growing companies in the proptech and marketing sectors, Luxury Presence challenges the status quo of what technology can do for real estate agents, leaders, and brokerages. We're a team of agile and tenacious innovators working collaboratively to drive the industry forward. Together, we build game-changing products that empower modern real estate entrepreneurs to dominate their markets. From award-winning web design to agile SEO solutions to cutting-edge AI tools, we deliver tech that anticipates market shifts and keeps our clients ahead of their competition. Founded in 2016 by Stanford Business School alum Malte Kramer, Luxury Presence has grown to a global team ranked on the Inc. 5000 fastest-growing companies list three years in a row. We're backed by world-class investors, including Bessemer Venture Partners, NextEquity Partners, Toba Capital, and Switch Ventures, and have raised $89 million to date. More than 18,000 real estate businesses rely on our platform, including 30% of the Wall Street Journal RealTrends top agents and teams. Additionally, many of the industry's most powerful brokerages rely on Luxury Presence as a trusted business partner. Every year since 2020, Luxury Presence has ranked on BuiltIn's Best Place to Work lists. HousingWire named our founder and CEO a 2024 Tech Trendsetter, we've received several Tech100 Awards, and we just scored an Inman Innovation Award for Best AI-Powered Platform. Luxury Presence is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.",
-    "url": "https://jobicy.com/jobs/151246-engineering-manager-maps-search-canada",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Canada",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "react",
-      "nodejs",
-      "postgresql",
-      "redis",
-      "elasticsearch",
-      "aws",
-      "kubernetes",
-      "kafka",
-      "graphql"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-20T04:50:27+00:00",
-    "fetched_at": "2026-09-24T15:57:11.228Z",
-    "raw": {
-      "id": 151246,
-      "url": "https://jobicy.com/jobs/151246-engineering-manager-maps-search-canada",
-      "jobSlug": "151246-engineering-manager-maps-search-canada",
-      "jobTitle": "Engineering Manager, Maps & Search - CANADA",
-      "companyName": "Luxury Presence",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Canada",
-      "jobLevel": "Director",
-      "jobExcerpt": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-      "jobDescription": "<p><strong><a href=\"https://jobicy.com/company/luxury-presence\" target=\"_blank\" rel=\"noopener\">Luxury Presence</a> </strong>is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.</p>\n\n<h3><strong>The Opportunity</strong></h3>\n<p>We don't just use AI. We build with it, ship with it, and think with it. With a generous budget for tokens, our engineers use AI agents to write, review, and ship production code every day. We are building toward a world where humans design systems and AI builds them, and we are already far along that path.</p>\n<p>We are hiring a hands-on <strong>Engineering Manager</strong> to lead <strong>Maps &amp; Search</strong>. This team owns the home search experience across web and mobile. It's one of the most visible, highest-traffic surfaces–the search service alone handles <strong>a billion requests every month</strong>.</p>\n<p>This is a role for a manager who leads from the front: someone who still lives in their terminal with AI, has strong opinions about how AI changes the SDLC, and wants to amplify what a small, senior, AI-augmented team can accomplish. You will set technical direction, stay close to the code, and help the team produce consistent impact.</p>\n<h3><strong>What You'll Do</strong></h3>\n<p><strong>Lead and grow the Maps &amp; Search team.</strong> Own hiring, onboarding, coaching, 1:1s, direct feedback, and career development. Treat management as a craft and build a healthy, high-performing team that ships impactful changes.</p>\n<p><strong>Stay hands-on.</strong> Contribute directly — code and design reviews, architecture, thorny debugging— and stay technical enough to make smart calls on trade-offs.</p>\n<p><strong>Own and scale a high-throughput search platform.</strong> Drive the architecture, relevance, latency, and reliability of a real estate search system handling ~1B monthly requests and hundreds of millions of listings.</p>\n<p><strong>Deliver a world-class home search experience.</strong> Own the core home discovery experience across web and mobile — improving engagement, lead conversion, and agent workflows while keeping interactions fast and responsive at scale.</p>\n<p><strong>Push forward AI-powered discovery.</strong> Partner across teams to bring LLMs and intelligent ranking into search and user workflows, improving how buyers and agents discover, filter, and engage with listings.</p>\n<p><strong>Shape the roadmap with product and design.</strong> Define <em>what</em> we build and <em>why</em>, not just focusing on the <em>how</em>. Translate user needs and business goals into a clear technical plan, and own delivery end to end — planning, quality, reliability, and incident response.</p>\n<h3> </h3>\n<h3><strong>What We're Looking For</strong></h3>\n<h3><strong>Attributes</strong></h3>\n<ul>\n<li>\n<p><strong>You lead from the front.</strong> You're still close to the code and technically respected, and you treat management as a craft — growing engineers, giving clear feedback, and building a team that ships.</p>\n</li>\n<li>\n<p><strong>You already build with AI daily.</strong> You use AI as a core part of your workflow, not as a novelty — and you expect your team to as well.</p>\n</li>\n<li>\n<p><strong>You have strong opinions, loosely held</strong>, about how AI changes software architecture, team structure, and engineering culture.</p>\n</li>\n<li>\n<p><strong>You think in systems.</strong> You connect technical decisions to customer outcomes and business value.</p>\n</li>\n<li>\n<p><strong>You communicate clearly and directly.</strong> You can explain complex tradeoffs to product, design, and executive stakeholders.</p>\n</li>\n<li>\n<p><strong>You're energized by ambiguity and speed.</strong> You thrive in a fast-growing company where the roadmap evolves and ownership is real.</p>\n</li>\n<li>\n<p><strong>You like to have fun at work.</strong> We take our craft seriously, but we don't take ourselves too seriously. We celebrate wins, crack jokes, and genuinely enjoy building together.</p>\n</li>\n</ul>\n<h3><strong>Skills and Experience</strong></h3>\n<ul>\n<li>\n<p>8+ years of professional software engineering experience with meaningful senior or staff-level time, plus 2+ years managing engineering teams.</p>\n</li>\n<li>\n<p><strong>Search experience</strong> — you've worked on search, relevance, ranking, or retrieval systems. It doesn't have to be OpenSearch or Elasticsearch specifically, but you understand how search works and how to make it better.</p>\n</li>\n<li>\n<p>Deep expertise in TypeScript, Node.js, and React, with the full-stack fluency to reason about the whole request path from UI to data.</p>\n</li>\n<li>\n<p>Experience designing and operating scalable microservice architectures in cloud-native environments (AWS preferred).</p>\n</li>\n<li>\n<p>Strong understanding of GraphQL, event-driven systems (Kafka), and databases (PostgreSQL, OpenSearch).</p>\n</li>\n<li>\n<p>A proven track record operating high-traffic, low-latency production systems at scale — SLOs, incident response, and capacity planning are second nature.</p>\n</li>\n<li>\n<p>Experience leading high-impact initiatives from concept through production in a SaaS environment.</p>\n</li>\n</ul>\n<h3><strong>Tech Stack</strong></h3>\n<ul>\n<li>\n<p><strong>Frontend:</strong> React, Tailwind, Apollo</p>\n</li>\n<li>\n<p><strong>Backend:</strong> Node.js / TypeScript microservices</p>\n</li>\n<li>\n<p><strong>Data:</strong> PostgreSQL, OpenSearch</p>\n</li>\n<li>\n<p><strong>Infrastructure:</strong> AWS, Kubernetes, Lambda</p>\n</li>\n<li>\n<p><strong>Messaging:</strong> Kafka, Redis</p>\n</li>\n</ul>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>\n<p><strong>Join us in shaping the future of real estate</strong></p>\n<p>The real estate industry is in the midst of a seismic shift, and the future belongs to those who break new ground. As one of the fastest-growing companies in the proptech and marketing sectors, Luxury Presence challenges the status quo of what technology can do for real estate agents, leaders, and brokerages.</p>\n<p>We're a team of agile and tenacious innovators working collaboratively to drive the industry forward. Together, we build game-changing products that empower modern real estate entrepreneurs to dominate their markets. From award-winning web design to agile SEO solutions to cutting-edge AI tools, we deliver tech that anticipates market shifts and keeps our clients ahead of their competition.</p>\n<p>Founded in 2016 by Stanford Business School alum Malte Kramer, Luxury Presence has grown to a global team ranked on the Inc. 5000 fastest-growing companies list three years in a row. We're backed by world-class investors, including Bessemer Venture Partners, NextEquity Partners, Toba Capital, and Switch Ventures, and have raised $89 million to date.</p>\n<p>More than 18,000 real estate businesses rely on our platform, including 30% of the Wall Street Journal RealTrends top agents and teams. Additionally, many of the industry's most powerful brokerages rely on Luxury Presence as a trusted business partner.</p>\n<p>Every year since 2020, Luxury Presence has ranked on BuiltIn's Best Place to Work lists. HousingWire named our founder and CEO a 2024 Tech Trendsetter, we've received several Tech100 Awards, and we just scored an Inman Innovation Award for Best AI-Powered Platform.</p>\n<p><strong>Luxury Presence is an Equal Opportunity Employer.</strong> All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.</p>",
-      "pubDate": "2026-09-20T04:50:27+00:00"
-    }
-  },
-  {
-    "id": "jobicy:146760",
-    "platform": "jobicy",
-    "external_id": "146760",
-    "title": "Norwegian Tech Linguistic Tester",
-    "company": "Welo Global",
-    "description": "As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual content transformation services in translation, localization, and adaptation for over 250 languages with a growing network of over 400,000 in-country linguistic resources. Driving innovation in language services, Welocalize delivers high-quality training data transformation solutions for NLP-enabled machine learning by blending technology and human intelligence to collect, annotate, and evaluate all content types. Our team works across locations in North America, Europe, and Asia serving our global clients in the markets that matter to them. www.welocalize.com To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. OVERVIEW MAIN PURPOSE OF THE JOB We are looking for a Tech Linguistic Tester, you will primarily be proofreading and editing content already localized to your native language, making sure you catch any errors in the content, such as: grammar, typos, syntax, punctuation, capitalization, political incorrectness, inconsistencies, and extra spaces between words or characters. You will sometimes be translating content from English to your native language. You will also be checking UIs for functional issues. Responsibilities: Write and report relevant bugs and errors using best practices through internal database system. Ability to undertake and prioritize tasks and issues quickly and efficiently. Native language skills and cultural awareness of native country. Good oral and written communication. Highly organized with attention to detail and a commitment to quality. QA various products in by accurately following testing instructions and test cases Discover and report defects (bugs) using client specific bug tracking tools Evaluate translations in the context of software, mobile apps and documentation. Be a subject matter expert for linguistic issues in the target language; be able to research and resolve linguistic questions Adhere to project-specific quality standards, trademarks, style guides and client-preferred checklists and glossaries Troubleshoot basic problems; be able to communicate effectively and escalate testing issues Complete assigned tasks in a timely manner and of high quality. Requirements: Education: Bachelor's degree (B. A.) from a college or university in related field, or equivalent combination of education and experience. Experience: Native-level or fully bilingual fluency (both spoken and written language) in required language(s) Up-to-date awareness of current and common technical language usage in the target language Strong English skills, both written and verbal Experience with MS applications (Outlook, Word, Excel, PowerPoint); Ability to navigate networks and websites with different browsers Basic knowledge of PC-hardware (desktop and laptop) Basic knowledge of smart phones (iPhone or Android) Familiarity with Android and iOS operating systems. 3+ years professional translation &amp; localization experience. Familiarity with native culture and trends. Avid user of social media with familiarity with Facebook Family of Apps. Experience with consumer devices that provide utility like messaging, health, fitness, calendar, organization. Key competencies: Strong Company &amp; Industry Awareness Can establish &amp; Develop Processes and procedures as part of a client program. Strong Problem-Solving skills as to arrive at optimal solution. Shows excellent Time Management skills A Plan-Do-Check-Act cycle approach to tasks and workloads Takes Ownership of deliverables Other Skills: Be organized and able to work in a fast-paced environment Candidates with Localization/QA/translation experience or with advanced computer skills are preferred When you join Welocalize, you have the opportunity to bring your career to the next level: ... receive steady volume of work and long-term partnership {where this applies} ... professional development: work on exciting projects that will empower you keep learning and growing ... work with multicultural, international team with a great variety of documents and content types ... 24-hour 6-day a week support from our community team. If this opportunity sounds appealing to you, apply below. Job Reference: #LI-JC1",
-    "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "junior",
-    "location": "Anywhere",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "machine-learning",
-      "ios",
-      "android"
-    ],
-    "tags": [
-      "QA & Testing"
-    ],
-    "posted_at": "2026-09-20T04:50:25+00:00",
-    "fetched_at": "2026-09-24T15:57:11.229Z",
-    "raw": {
-      "id": 146760,
-      "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
-      "jobSlug": "146760-norwegian-tech-linguistic-tester",
-      "jobTitle": "Norwegian Tech Linguistic Tester",
-      "companyName": "Welo Global",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/83c40f94-221.webp",
-      "jobIndustry": [
-        "QA & Testing"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Anywhere",
-      "jobLevel": "Entry-Level, Junior",
-      "jobExcerpt": "As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual content transformation services in translation, localization, and adaptation for over 250 languages with a growing network of over 400,000 in-country linguistic resources. Driving innovation in language services, Welocalize&hellip;",
-      "jobDescription": "<div>As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual content transformation services in translation, localization, and adaptation for over 250 languages with a growing network of over 400,000 in-country linguistic resources. Driving innovation in language services, Welocalize delivers high-quality training data transformation solutions for NLP-enabled machine learning by blending technology and human intelligence to collect, annotate, and evaluate all content types. Our team works across locations in North America, Europe, and Asia serving our global clients in the markets that matter to them. <a href=\"http://www.welocalize.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">www.welocalize.com</a></div><div> </div><div>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</div><div> </div><div><strong>OVERVIEW</strong></div><div> </div><div><strong>MAIN PURPOSE OF THE JOB</strong></div><div> </div><div>We are looking for a Tech Linguistic Tester, you will primarily be proofreading and editing content already localized to your native language, making sure you catch any errors in the content, such as: grammar, typos, syntax, punctuation, capitalization, political incorrectness, inconsistencies, and extra spaces between words or characters. You will sometimes be translating content from English to your native language. You will also be checking UIs for functional issues.</div><div> </div><h2>Responsibilities:</h2><ul>\r\n<div>\r\n<li>Write and report relevant bugs and errors using best practices through internal database system.</li>\r\n<li>Ability to undertake and prioritize tasks and issues quickly and efficiently.</li>\r\n<li>Native language skills and cultural awareness of native country.</li>\r\n<li>Good oral and written communication.</li>\r\n<li>Highly organized with attention to detail and a commitment to quality.</li>\r\n<li>QA various products in by accurately following testing instructions and test cases</li>\r\n<li>Discover and report defects (bugs) using client specific bug tracking tools</li>\r\n<li>Evaluate translations in the context of software, mobile apps and documentation.</li>\r\n<li>Be a subject matter expert for linguistic issues in the target language; be able to research and resolve linguistic questions</li>\r\n<li>Adhere to project-specific quality standards, trademarks, style guides and client-preferred checklists and glossaries</li>\r\n<li>Troubleshoot basic problems; be able to communicate effectively and escalate testing issues</li>\r\n<li>Complete assigned tasks in a timely manner and of high quality.</li>\r\n</div></ul><h2>Requirements:</h2><ul>\r\n<div>\r\n<p>Education:</p>\r\n<li>Bachelor's degree (B. A.) from a college or university in related field, or equivalent combination of education and experience.</li>\r\n<p>Experience:</p>\r\n<li>Native-level or fully bilingual fluency (both spoken and written language) in required language(s)</li>\r\n<li>Up-to-date awareness of current and common technical language usage in the target language</li>\r\n<li>Strong English skills, both written and verbal</li>\r\n<li>Experience with MS applications (Outlook, Word, Excel, PowerPoint);</li>\r\n<li>Ability to navigate networks and websites with different browsers</li>\r\n<li>Basic knowledge of PC-hardware (desktop and laptop)</li>\r\n<li>Basic knowledge of smart phones (iPhone or Android)</li>\r\n<li>Familiarity with Android and iOS operating systems.</li>\r\n<li>3+ years professional translation &amp; localization experience.</li>\r\n<li>Familiarity with native culture and trends.</li>\r\n<li>Avid user of social media with familiarity with Facebook Family of Apps.</li>\r\n<li>Experience with consumer devices that provide utility like messaging, health, fitness, calendar, organization.</li>\r\n<div>\r\n<p>Key competencies:</p>\r\n<li>Strong Company &amp; Industry Awareness</li>\r\n<li>Can establish &amp; Develop Processes and procedures as part of a client program.</li>\r\n<li>Strong Problem-Solving skills as to arrive at optimal solution.</li>\r\n<li>Shows excellent Time Management skills</li>\r\n<li>A Plan-Do-Check-Act cycle approach to tasks and workloads</li>\r\n<li>Takes Ownership of deliverables</li>\r\n<div>\r\n<p>Other Skills:</p>\r\n<li>Be organized and able to work in a fast-paced environment</li>\r\n<li>Candidates with Localization/QA/translation experience or with advanced computer skills are preferred</li>\r\n</div>\r\n<div> </div>\r\n</div>\r\n</div></ul><div>\r\n<div>When you join Welocalize, you have the opportunity to bring your career to the next level:</div>\r\n<div>... receive steady volume of work and long-term partnership {where this applies} </div>\r\n<div>... professional development: work on exciting projects that will empower you keep learning and growing</div>\r\n<div>... work with multicultural, international team with a great variety of documents and content types </div>\r\n<div>... 24-hour 6-day a week support from our community team.</div>\r\n<div> </div>\r\n<div>If this opportunity sounds appealing to you, apply below. </div>\r\n<div><strong>Job Reference: #LI-JC1</strong></div>\r\n</div>",
-      "pubDate": "2026-09-20T04:50:25+00:00"
-    }
-  },
-  {
-    "id": "jobicy:151253",
-    "platform": "jobicy",
-    "external_id": "151253",
-    "title": "Senior Backend Engineer",
-    "company": "ClickUp",
-    "description": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. ClickUp is on the lookout for talented backend engineers to join the Fields squad at ClickUp! Fields is the heart and soul behind our custom task data - think dynamic schemas, high-volume updates, and the flexibility that lets users tailor ClickUp to their individual workflows. We’re building scalable, high-throughput, low-latency services that handle millions of requests daily. If wrangling distributed systems, fine-tuning performance, and designing robust APIs sounds like your idea of fun, let’s chat. Role: Build features and systems with attention to detail and performance. Own end-to-end development, from conception to production. Work closely with cross-functional stakeholders to deliver a world-class product. Identify and implement improvements to our existing systems. Help establish a fun, fulfilling, world-class engineering culture. Qualifications: Bachelor’s degree in Computer Science or equivalent major. 5+ years of experience engineering performant and high-throughput systems (ideally on Node.js). You write high quality code (ideally in TypeScript) and are uniquely productive. You have a track record of building performant, high-throughput systems. You have experience writing and debugging sql queries at scale. You have experience developing event based systems. You have experience with major cloud services (ideally AWS). You are an empathetic communicator. You are comfortable with ambiguity and have consistently delivered projects with little direction. You are product-minded and have a good intuition on what a great user experience looks like. #LI-REMOTE #LI-MAV Equal Opportunity Employer ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. Privacy Notice ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our Global Candidate Privacy Notice. If you are a Philippine Job Applicant, please also see our Philippine Data Privacy Notice for further details. Visa Sponsorship Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions. Fraud Alert ClickUp Talent Acquisition will only initiate contact via an @ clickup.com email or through our official careers portal on clickup.com . We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com. AI Processing Notice ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.",
-    "url": "https://jobicy.com/jobs/151253-senior-backend-engineer-2",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Czechia,  Hungary,  Ukraine",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "nodejs",
-      "aws",
-      "machine-learning"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-20T04:50:10+00:00",
-    "fetched_at": "2026-09-24T15:57:11.229Z",
-    "raw": {
-      "id": 151253,
-      "url": "https://jobicy.com/jobs/151253-senior-backend-engineer-2",
-      "jobSlug": "151253-senior-backend-engineer-2",
-      "jobTitle": "Senior Backend Engineer",
-      "companyName": "ClickUp",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cd5be0ef-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Czechia,  Hungary,  Ukraine",
-      "jobLevel": "Senior",
-      "jobExcerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "jobDescription": "<p>At <a href=\"https://jobicy.com/company/clickup\" target=\"_blank\" rel=\"noopener\">ClickUp</a>, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. </p>\n\n<p>ClickUp is on the lookout for talented backend engineers to join the Fields squad at ClickUp! Fields is the heart and soul behind our custom task data - think dynamic schemas, high-volume updates, and the flexibility that lets users tailor ClickUp to <em>their</em> individual workflows. We’re building scalable, high-throughput, low-latency services that handle millions of requests daily. If wrangling distributed systems, fine-tuning performance, and designing robust APIs sounds like your idea of fun, let’s chat.</p>\n<p><strong>Role:</strong></p>\n<ul>\n<li>\n<p>Build features and systems with attention to detail and performance.</p>\n</li>\n<li>\n<p>Own end-to-end development, from conception to production.</p>\n</li>\n<li>\n<p>Work closely with cross-functional stakeholders to deliver a world-class product.</p>\n</li>\n<li>\n<p>Identify and implement improvements to our existing systems.</p>\n</li>\n<li>\n<p>Help establish a fun, fulfilling, world-class engineering culture.</p>\n</li>\n</ul>\n<p><strong>Qualifications:</strong></p>\n<ul>\n<li>\n<p>Bachelor’s degree in Computer Science or equivalent major.</p>\n</li>\n<li>\n<p>5+ years of experience engineering performant and high-throughput systems (ideally on Node.js).</p>\n</li>\n<li>\n<p>You write high quality code (ideally in TypeScript) and are uniquely productive.</p>\n</li>\n<li>\n<p>You have a track record of building performant, high-throughput systems.</p>\n</li>\n<li>\n<p>You have experience writing and debugging sql queries at scale.</p>\n</li>\n<li>\n<p>You have experience developing event based systems.</p>\n</li>\n<li>\n<p>You have experience with major cloud services (ideally AWS).</p>\n</li>\n<li>\n<p>You are an empathetic communicator.</p>\n</li>\n<li>\n<p>You are comfortable with ambiguity and have consistently delivered projects with little direction.</p>\n</li>\n<li>\n<p>You are product-minded and have a good intuition on what a great user experience looks like.</p>\n</li>\n</ul>\n<p>#LI-REMOTE</p>\n<p>#LI-MAV</p>\n<p><strong>Equal Opportunity Employer </strong></p>\n<p><em>ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.</em></p>\n\n<p><strong>Privacy Notice</strong></p>\n<p><em>ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our </em><a href=\"https://clickup.com/careers-terms/candidate-privacy-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>Global Candidate Privacy Notice.</em></a></p>\n<p><em>If you are a Philippine Job Applicant, please also see our </em><a href=\"https://t333.s.clickup-attachments-stg.com/t333/d9a53ce2-6d2c-48cd-84b1-ed4e525f9613/Philippine%20Data%20Privacy%20Notice_2024.pdf?view=open\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>Philippine Data Privacy Notice</em></a><em> for further details.</em></p>\n\n<p><strong>Visa Sponsorship</strong></p>\n<p><em>Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions.</em></p>\n\n<p><strong>Fraud Alert</strong></p>\n<p><em>ClickUp Talent Acquisition will only initiate contact via an <strong>@</strong></em><a href=\"http://clickup.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><strong>clickup.com</strong></em></a><em> email or through our official careers portal on </em><a href=\"http://clickup.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>clickup.com</em></a><em>. We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com.</em></p>\n\n<p><strong>AI Processing Notice</strong></p>\n<p><em>ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.</em></p>",
-      "pubDate": "2026-09-20T04:50:10+00:00"
-    }
-  },
-  {
-    "id": "jobicy:151249",
-    "platform": "jobicy",
-    "external_id": "151249",
-    "title": "Engineering Manager (Frontend)",
-    "company": "ClickUp",
-    "description": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. We are seeking a highly technical and experienced Engineering Manager to one of our business critical engineering team. This role is ideal for a hands-on leader who thrives in a fast-paced environment, has a deep understanding of collaborative document editing technologies, and is passionate about building scalable, high-performance software. As the Manager, you will oversee the development and delivery of innovative features, ensure technical excellence, and mentor a team of talented engineers. The Role: Technical Leadership : Provide hands-on technical guidance to the team, ensuring best practices in software development, architecture, and design. Team Management : Lead, mentor, and grow a team of engineers, fostering a culture of collaboration, innovation, and continuous improvement. Product Development : Drive the development of new features and enhancements, ensuring high performance, scalability, and reliability. Collaboration : Work closely with product managers, designers, and other engineering teams to align on goals, prioritize initiatives, and deliver exceptional user experiences. Code Quality : Oversee code reviews, ensure adherence to coding standards, and advocate for clean, maintainable, and testable code. Innovation : Stay up-to-date with the latest trends and technologies in collaborative editing, cloud infrastructure, and web development, and apply them to improve our product. Operational Excellence : Ensure the stability and performance of the Docs platform, proactively addressing technical debt and optimizing system architecture. Qualifications: Technical Expertise : Proficiency in Node.js, relational databases, and at least one modern frontend framework. Experience with AWS cloud services and infrastructure. Leadership Experience : Proven track record of managing and scaling engineering teams. Strong ability to mentor and develop technical talent. Problem-Solving Skills : Ability to tackle complex technical challenges and make data-driven decisions. Communication : Excellent verbal and written communication skills, with the ability to articulate technical concepts to non-technical stakeholders. Education &amp; Experience : Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, or equivalent industry experience. 7+ years of software engineering experience, with at least 1 year in a leadership role. #LI-Remote #LI-MAV Equal Opportunity Employer ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. Privacy Notice ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our Global Candidate Privacy Notice. If you are a Philippine Job Applicant, please also see our Philippine Data Privacy Notice for further details. Visa Sponsorship Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions. Fraud Alert ClickUp Talent Acquisition will only initiate contact via an @ clickup.com email or through our official careers portal on clickup.com . We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com. AI Processing Notice ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.",
-    "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "nodejs",
-      "aws",
-      "machine-learning"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-20T04:50:08+00:00",
-    "fetched_at": "2026-09-24T15:57:11.230Z",
-    "raw": {
-      "id": 151249,
-      "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
-      "jobSlug": "151249-engineering-manager-frontend",
-      "jobTitle": "Engineering Manager (Frontend)",
-      "companyName": "ClickUp",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cd5be0ef-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "jobDescription": "<p>At <a href=\"https://jobicy.com/company/clickup\" target=\"_blank\" rel=\"noopener\">ClickUp</a>, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. </p>\n\n<p>We are seeking a highly technical and experienced Engineering Manager to one of our business critical engineering team. This role is ideal for a hands-on leader who thrives in a fast-paced environment, has a deep understanding of collaborative document editing technologies, and is passionate about building scalable, high-performance software. As the Manager, you will oversee the development and delivery of innovative features, ensure technical excellence, and mentor a team of talented engineers.</p>\n\n<p><strong><u>The Role:</u></strong></p>\n<ul>\n<li>\n<p><strong>Technical Leadership</strong>: Provide hands-on technical guidance to the team, ensuring best practices in software development, architecture, and design.</p>\n</li>\n<li>\n<p><strong>Team Management</strong>: Lead, mentor, and grow a team of engineers, fostering a culture of collaboration, innovation, and continuous improvement.</p>\n</li>\n<li>\n<p><strong>Product Development</strong>: Drive the development of new features and enhancements, ensuring high performance, scalability, and reliability.</p>\n</li>\n<li>\n<p><strong>Collaboration</strong>: Work closely with product managers, designers, and other engineering teams to align on goals, prioritize initiatives, and deliver exceptional user experiences.</p>\n</li>\n<li>\n<p><strong>Code Quality</strong>: Oversee code reviews, ensure adherence to coding standards, and advocate for clean, maintainable, and testable code.</p>\n</li>\n<li>\n<p><strong>Innovation</strong>: Stay up-to-date with the latest trends and technologies in collaborative editing, cloud infrastructure, and web development, and apply them to improve our product.</p>\n</li>\n<li>\n<p><strong>Operational Excellence</strong>: Ensure the stability and performance of the Docs platform, proactively addressing technical debt and optimizing system architecture.</p>\n</li>\n</ul>\n<p><strong><u>Qualifications:</u></strong></p>\n<ul>\n<li>\n<p><strong>Technical Expertise</strong>:</p>\n<ul>\n<li>\n<p>Proficiency in Node.js, relational databases, and at least one modern frontend framework.</p>\n</li>\n<li>\n<p>Experience with AWS cloud services and infrastructure.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Leadership Experience</strong>:</p>\n<ul>\n<li>\n<p>Proven track record of managing and scaling engineering teams.</p>\n</li>\n<li>\n<p>Strong ability to mentor and develop technical talent.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Problem-Solving Skills</strong>:</p>\n<ul>\n<li>\n<p>Ability to tackle complex technical challenges and make data-driven decisions.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Communication</strong>:</p>\n<ul>\n<li>\n<p>Excellent verbal and written communication skills, with the ability to articulate technical concepts to non-technical stakeholders.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Education &amp; Experience</strong>:</p>\n<ul>\n<li>\n<p>Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, or equivalent industry experience.</p>\n</li>\n<li>\n<p>7+ years of software engineering experience, with at least 1 year in a leadership role.</p>\n</li>\n</ul>\n</li>\n</ul>\n<p>#LI-Remote</p>\n<p>#LI-MAV</p>\n<p><strong>Equal Opportunity Employer </strong></p>\n<p><em>ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.</em></p>\n\n<p><strong>Privacy Notice</strong></p>\n<p><em>ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our </em><a href=\"https://clickup.com/careers-terms/candidate-privacy-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>Global Candidate Privacy Notice.</em></a></p>\n<p><em>If you are a Philippine Job Applicant, please also see our </em><a href=\"https://t333.s.clickup-attachments-stg.com/t333/d9a53ce2-6d2c-48cd-84b1-ed4e525f9613/Philippine%20Data%20Privacy%20Notice_2024.pdf?view=open\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>Philippine Data Privacy Notice</em></a><em> for further details.</em></p>\n\n<p><strong>Visa Sponsorship</strong></p>\n<p><em>Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions.</em></p>\n\n<p><strong>Fraud Alert</strong></p>\n<p><em>ClickUp Talent Acquisition will only initiate contact via an <strong>@</strong></em><a href=\"http://clickup.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><strong>clickup.com</strong></em></a><em> email or through our official careers portal on </em><a href=\"http://clickup.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>clickup.com</em></a><em>. We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com.</em></p>\n\n<p><strong>AI Processing Notice</strong></p>\n<p><em>ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.</em></p>",
-      "pubDate": "2026-09-20T04:50:08+00:00",
-      "salaryMin": 200000,
-      "salaryMax": 250000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
