@@ -1,5 +1,58 @@
 [
   {
+    "id": "jobicy:154051",
+    "platform": "jobicy",
+    "external_id": "154051",
+    "title": "Staff Software Engineer - Curated Data",
+    "company": "Dune",
+    "description": "About Dune Dune's mission is to make onchain finance observable. We're the industry standard for onchain data: a blockchain data and intelligence provider that institutions, protocols, and analysts trust to understand the onchain world and the frontiers of finance. We deliver structured datasets, spanning stablecoins, RWAs, tokens, lending, trading, and more, from 130+ chains and counting, to 1,000+ industry leaders including Visa, WisdomTree, FINRA, the IMF, Bloomberg, Standard Chartered, Coinbase, Forbes, and the Financial Times. We're a tight knit team of ~50 hard working people, spread across Europe and eastern US timezones ️, having an outsized impact on the industry. We take pride in being ambitious and doing world class work while staying humble and lighthearted. We believe in building open, verifiable data that lets individuals and institutions do deep research into ecosystems like Ethereum, Solana, Robinhood and many more. We're backed by some of the world's best investors. In February 2022, we announced our Series B funding round led by Coatue and Union Square Ventures, an important milestone that let us double down on our mission. If you like being challenged and want to work together with a brilliant team on an important mission, come join us. Learn more about us: Dune's Vision https://dune.com/blog/dune-vision Values and working at Dune https://dune.com/careers About the role Data Products builds and owns datasets end to end: from raw chain data through decoding to the 3000+ models and 4 petabytes we curate, share directly with customers, and replicate into their warehouses. The role will focus on the lifecycle of building high quality data: orchestrating thousands of interdependent models, propagating schema changes without breaking downstream consumers, propagating corrections. That is a software architecture problem in a data domain. This role is a hybrid: a backend engineer who thinks in systems and contracts, working on data. You will be the engineer we hand ambiguous product requirements to, and will come back with a design, a sequence, and work the team can pick up, while building the hardest parts yourself. In this role you will Design and build the control plane for our curated data lifecycle: dependency-aware orchestration, backfills, restatements, retries, partial failure, and recovery Decide, dataset by dataset, whether the answer is a model, a service or a job, and own that architecture through production Design the contracts between ingestion and curation so a dataset can be reasoned about end to end Build alerting and data quality signals that catch real problems and stay quiet otherwise, so on-call is about incidents rather than noise Work across Go, Kotlin, Rust, Python and SQL, choosing the right tool rather than the familiar one Break large problems into work other engineers can own, and sequence it so we ship something useful early You might be a great fit if You are a backend engineer who has gone deep on data systems, or a data engineer who became a strong software engineer. You ship production services, not only pipelines You have built or materially extended orchestration and scheduling systems, and can explain precisely what breaks at scale and why You have handled schema evolution and data correctness in a system with real consumers downstream, where a breaking change has a cost You have built or operated stateful stream processing in production (Flink,Kafka Streams, Spark Structured Streaming, RisingWave, Materialize, Feldera) You have strong SQL and modeling skills on large datasets, and an interest in how the query engine underneath actually executes your work You have solid computer science fundamentals and distributed systems understanding You debug independently and drive root cause analysis to a fix that holds You use AI tools well enough that they have changed how you work, you understand their failure modes and dislike ai-slop. You communicate clearly in writing and get the best out of a distributed team Not required, but a plus Deep experience with a transformation framework such as dbt or SQLMesh: specifically, having hit its limits and built beyond them Data lake formats such as Parquet, Iceberg or Deltalog Stateful stream processing in production (Flink, Kafka Streams, Spark Structured Streaming) Experience at a company where the data is the product Perks &amp; Benefits A competitive salary and equity package . Both salary and equity is top 25% of companies in the space Our employee equity scheme has world-class employee-friendly terms with a heavily discounted strike price (~90%) and a 10-year exercise window 5 weeks PTO + local public holidays (that can be swapped to suit you) A fully remote-first approach ‍ within a distributed team with flexible working hours; you structure your own day Say goodbye to meeting overload! We believe in a healthy mix of async and sync work, so you can focus on what truly matters—no more wasted time on endless meetings! Good health is important, so we offer private medical insurance, dental &amp; vision as standard We believe in paid parental leave to help you celebrate this important milestone, transition to your new life, and bond with your new baby. We offer 16 weeks to primary and 6 weeks to secondary caregivers, fully paid. Plus a 2-week part-time phased return at full pay to help you get used to your new (and slightly more complex!) schedule Quarterly offsites in various exciting locations as a company or team to connect, work together and have fun (so far in Tuscany Berlin Austria and Athens ). On top of this each person gets a yearly travel allowance to connect and co-work with someone or a team of people for a few days. An allowance for your at-home setup, to ensure you are happy, comfortable and productive. If you prefer a local co-working space, we’ll pay for your desk. Work with some of the best people you’ll ever get to meet! And of course, you get some awesome Dune swag ! ✌️ ------------------------------------------------------------------------------------------ We are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role but your experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles. #LI-Remote",
+    "url": "https://jobicy.com/jobs/154051-staff-software-engineer-curated-data",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Europe,  USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "rust",
+      "kotlin",
+      "spark",
+      "dbt",
+      "ethereum",
+      "blockchain",
+      "solana",
+      "kafka"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-24T18:46:46+00:00",
+    "fetched_at": "2026-09-25T01:59:04.626Z",
+    "raw": {
+      "id": 154051,
+      "url": "https://jobicy.com/jobs/154051-staff-software-engineer-curated-data",
+      "jobSlug": "154051-staff-software-engineer-curated-data",
+      "jobTitle": "Staff Software Engineer - Curated Data",
+      "companyName": "Dune",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/9fd6085e-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe,  USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Dune Dune's mission is to make onchain finance observable. We're the industry standard for onchain data: a blockchain data and intelligence provider that institutions, protocols, and analysts trust to understand the onchain world and the frontiers of finance. We deliver structured datasets, spanning stablecoins, RWAs, tokens, lending, trading, and more, from 130+ chains and&hellip;",
+      "jobDescription": "<p><strong>About <a href=\"https://jobicy.com/company/dune\" target=\"_blank\" rel=\"noopener\">Dune</a></strong></p>\n<p>Dune's mission is to make onchain finance observable. We're the industry standard for onchain data: a blockchain data and intelligence provider that institutions, protocols, and analysts trust to understand the onchain world and the frontiers of finance. We deliver structured datasets, spanning stablecoins, RWAs, tokens, lending, trading, and more, from 130+ chains and counting, to 1,000+ industry leaders including Visa, WisdomTree, FINRA, the IMF, Bloomberg, Standard Chartered, Coinbase, Forbes, and the Financial Times.</p>\n<p>We're a tight knit team of ~50 hard working people, spread across Europe and eastern US timezones ️, having an outsized impact on the industry. We take pride in being ambitious and doing world class work while staying humble and lighthearted. We believe in building open, verifiable data that lets individuals and institutions do deep research into ecosystems like Ethereum, Solana, Robinhood and many more.</p>\n<p>We're backed by some of the world's best investors. In February 2022, we announced our Series B funding round led by Coatue and Union Square Ventures, an important milestone that let us double down on our mission.</p>\n<p>If you like being challenged and want to work together with a brilliant team on an important mission, come join us.</p>\n<p><strong>Learn more about us:</strong></p>\n<p>Dune's Vision</p>\n<p><a href=\"https://dune.com/blog/dune-vision\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://dune.com/blog/dune-vision</a></p>\n<p>Values and working at Dune</p>\n<p><a href=\"https://dune.com/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://dune.com/careers</a></p>\n\n<h3>About the role</h3>\n<p>Data Products builds and owns datasets end to end: from raw chain data through decoding to the 3000+ models and 4 petabytes we curate, share directly with customers, and replicate into their warehouses.</p>\n<p>The role will focus on the lifecycle of building high quality data: orchestrating thousands of interdependent models, propagating schema changes without breaking downstream consumers, propagating corrections. <br>That is a software architecture problem in a data domain. This role is a hybrid: a backend engineer who thinks in systems and contracts, working on data.</p>\n<p>You will be the engineer we hand ambiguous product requirements to, and will come back with a design, a sequence, and work the team can pick up, while building the hardest parts yourself.</p>\n\n<h3>In this role you will</h3>\n<ul>\n<li>\n<p>Design and build the control plane for our curated data lifecycle: dependency-aware orchestration, backfills, restatements, retries, partial failure, and recovery</p>\n</li>\n<li>\n<p>Decide, dataset by dataset, whether the answer is a model, a service or a job, and own that architecture through production</p>\n</li>\n<li>\n<p>Design the contracts between ingestion and curation so a dataset can be reasoned about end to end</p>\n</li>\n<li>\n<p>Build alerting and data quality signals that catch real problems and stay quiet otherwise, so on-call is about incidents rather than noise</p>\n</li>\n<li>\n<p>Work across Go, Kotlin, Rust, Python and SQL, choosing the right tool rather than the familiar one</p>\n</li>\n<li>\n<p>Break large problems into work other engineers can own, and sequence it so we ship something useful early</p>\n</li>\n</ul>\n<h3>You might be a great fit if</h3>\n<ul>\n<li>\n<p>You are a backend engineer who has gone deep on data systems, or a data engineer who became a strong software engineer. You ship production services, not only pipelines</p>\n</li>\n<li>\n<p>You have built or materially extended orchestration and scheduling systems, and can explain precisely what breaks at scale and why</p>\n</li>\n<li>\n<p>You have handled schema evolution and data correctness in a system with real consumers downstream, where a breaking change has a cost</p>\n</li>\n<li>\n<p>You have built or operated stateful stream processing in production (Flink,Kafka Streams, Spark Structured Streaming, RisingWave, Materialize, Feldera)</p>\n</li>\n<li>\n<p>You have strong SQL and modeling skills on large datasets, and an interest in how the query engine underneath actually executes your work</p>\n</li>\n<li>\n<p>You have solid computer science fundamentals and distributed systems understanding</p>\n</li>\n<li>\n<p>You debug independently and drive root cause analysis to a fix that holds</p>\n</li>\n<li>\n<p>You use AI tools well enough that they have changed how you work, you understand their failure modes and dislike ai-slop.</p>\n</li>\n<li>\n<p>You communicate clearly in writing and get the best out of a distributed team</p>\n</li>\n</ul>\n<h3>Not required, but a plus</h3>\n<ul>\n<li>\n<p>Deep experience with a transformation framework such as dbt or SQLMesh: specifically, having hit its limits and built beyond them</p>\n</li>\n<li>\n<p>Data lake formats such as Parquet, Iceberg or Deltalog</p>\n</li>\n<li>\n<p>Stateful stream processing in production (Flink, Kafka Streams, Spark Structured Streaming)</p>\n</li>\n<li>\n<p>Experience at a company where the data is the product</p>\n</li>\n</ul>\n<h3>\n</h3><p><strong>Perks &amp; Benefits</strong>\n</p><ul>\n<li>\n<p>A competitive salary and equity package . Both salary and equity is<a href=\"https://notion.so/Careers-at-Dune-Doing-the-best-work-of-your-life-f25e0b5e1f624d2aaf3ef2c81558ea96#7f745f5112394686bd7c127c720f2024\" rel=\"nofollow ugc noopener\" target=\"_blank\"> <u>top 25% of companies</u></a> in the space</p>\n</li>\n<li>\n<p>Our employee equity scheme has world-class employee-friendly terms with a heavily discounted strike price (~90%) and a 10-year exercise window</p>\n</li>\n<li>\n<p>5 weeks PTO + local public holidays (that can be swapped to suit you) </p>\n</li>\n<li>\n<p>A fully remote-first approach ‍ within a distributed team with flexible working hours; you structure your own day </p>\n</li>\n<li>\n<p>Say goodbye to meeting overload! We believe in a healthy mix of async and sync work, so you can focus on what truly matters—no more wasted time on endless meetings!</p>\n</li>\n<li>\n<p>Good health is important, so we offer private medical insurance, dental &amp; vision as standard<em> </em></p>\n</li>\n<li>\n<p>We believe in paid parental leave  to help you celebrate this important milestone, transition to your new life, and bond with your new baby. We offer 16 weeks to primary and 6 weeks to secondary caregivers, fully paid. Plus a 2-week part-time phased return at full pay to help you get used to your new (and slightly more complex!) schedule</p>\n</li>\n<li>\n<p>Quarterly offsites in various exciting locations as a company or team to connect, work together and have fun (so far in Tuscany  Berlin  Austria  and Athens ).</p>\n</li>\n<li>\n<p>On top of this each person gets a yearly travel allowance to connect and co-work with someone or a team of people for a few days.</p>\n</li>\n<li>\n<p>An allowance for your at-home setup, to ensure you are happy, comfortable and productive. If you prefer a local co-working space, we’ll pay for your desk.</p>\n</li>\n<li>\n<p>Work with some of the best people you’ll ever get to meet!</p>\n</li>\n<li>\n<p>And of course, you get some awesome <a href=\"https://community.dune.com/lookbook\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>Dune swag</u></a>! ✌️</p>\n</li>\n</ul>\n<p>------------------------------------------------------------------------------------------</p>\n<p>We are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role but your experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.</p>\n\n<p>#LI-Remote</p>",
+      "pubDate": "2026-09-24T18:46:46+00:00"
+    }
+  },
+  {
     "id": "jobicy:154034",
     "platform": "jobicy",
     "external_id": "154034",
@@ -23,7 +76,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T15:33:12+00:00",
-    "fetched_at": "2026-09-24T20:48:50.280Z",
+    "fetched_at": "2026-09-25T01:59:04.628Z",
     "raw": {
       "id": 154034,
       "url": "https://jobicy.com/jobs/154034-contract-staff-front-end-engineer-web-conference-screen-sharing",
@@ -72,7 +125,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T15:33:10+00:00",
-    "fetched_at": "2026-09-24T20:48:50.280Z",
+    "fetched_at": "2026-09-25T01:59:04.628Z",
     "raw": {
       "id": 154028,
       "url": "https://jobicy.com/jobs/154028-contract-software-engineer-dom-core-firefox-gecko",
@@ -123,7 +176,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-24T15:33:09+00:00",
-    "fetched_at": "2026-09-24T20:48:50.281Z",
+    "fetched_at": "2026-09-25T01:59:04.629Z",
     "raw": {
       "id": 154027,
       "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
@@ -146,6 +199,54 @@
       "salaryMax": 75000,
       "salaryCurrency": "EUR",
       "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:154032",
+    "platform": "jobicy",
+    "external_id": "154032",
+    "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+    "company": "Mozilla",
+    "description": "The role You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven. Responsibilities Build and improve WebCompat dashboards (triage, reporting, and metrics). Improve the broken-site-report screenshot capture and pipeline. Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling. Required qualifications Solid web development (JavaScript, HTML, CSS, Python &amp; Django) and experience building dashboards / data views. Comfort with tooling, automation, and web services. Self-directed, with good written communication. Preferred Familiarity with WebCompat workflows and Bugzilla. Experience with screenshot / automation pipelines. Experience with Machine Learning",
+    "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "contract",
+    "experience_level": null,
+    "location": "Canada,  France,  Germany,  UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "django",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-24T15:33:08+00:00",
+    "fetched_at": "2026-09-25T01:59:04.630Z",
+    "raw": {
+      "id": 154032,
+      "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+      "jobSlug": "154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+      "jobTitle": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+      "companyName": "Mozilla",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/mozilla.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Contract"
+      ],
+      "jobGeo": "Canada,  France,  Germany,  UK",
+      "jobLevel": "Any",
+      "jobExcerpt": "The role You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven. Responsibilities Build and improve WebCompat dashboards (triage, reporting, and metrics). Improve&hellip;",
+      "jobDescription": "<h3><strong>The role</strong></h3>\n<p>You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Build and improve WebCompat dashboards (triage, reporting, and metrics).</li>\n<li>Improve the broken-site-report screenshot capture and pipeline.</li>\n<li>Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling.</li>\n</ul>\n<h3><strong>Required qualifications</strong></h3>\n<ul>\n<li>Solid web development (JavaScript, HTML, CSS, Python &amp; Django) and experience building dashboards / data views.</li>\n<li>Comfort with tooling, automation, and web services.</li>\n<li>Self-directed, with good written communication.</li>\n</ul>\n<h3><strong>Preferred</strong></h3>\n<ul>\n<li>Familiarity with WebCompat workflows and Bugzilla.</li>\n<li>Experience with screenshot / automation pipelines.</li>\n<li>Experience with Machine Learning</li>\n</ul>",
+      "pubDate": "2026-09-24T15:33:08+00:00"
     }
   },
   {
@@ -179,7 +280,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T15:33:08+00:00",
-    "fetched_at": "2026-09-24T20:48:50.282Z",
+    "fetched_at": "2026-09-25T01:59:04.630Z",
     "raw": {
       "id": 154031,
       "url": "https://jobicy.com/jobs/154031-software-engineer-11",
@@ -202,54 +303,6 @@
       "salaryMax": 55000,
       "salaryCurrency": "EUR",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:154032",
-    "platform": "jobicy",
-    "external_id": "154032",
-    "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
-    "company": "Mozilla",
-    "description": "The role You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven. Responsibilities Build and improve WebCompat dashboards (triage, reporting, and metrics). Improve the broken-site-report screenshot capture and pipeline. Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling. Required qualifications Solid web development (JavaScript, HTML, CSS, Python &amp; Django) and experience building dashboards / data views. Comfort with tooling, automation, and web services. Self-directed, with good written communication. Preferred Familiarity with WebCompat workflows and Bugzilla. Experience with screenshot / automation pipelines. Experience with Machine Learning",
-    "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "contract",
-    "experience_level": null,
-    "location": "Canada,  France,  Germany,  UK",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "python",
-      "django",
-      "machine-learning"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-24T15:33:08+00:00",
-    "fetched_at": "2026-09-24T20:48:50.282Z",
-    "raw": {
-      "id": 154032,
-      "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
-      "jobSlug": "154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
-      "jobTitle": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
-      "companyName": "Mozilla",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/mozilla.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Contract"
-      ],
-      "jobGeo": "Canada,  France,  Germany,  UK",
-      "jobLevel": "Any",
-      "jobExcerpt": "The role You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven. Responsibilities Build and improve WebCompat dashboards (triage, reporting, and metrics). Improve&hellip;",
-      "jobDescription": "<h3><strong>The role</strong></h3>\n<p>You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Build and improve WebCompat dashboards (triage, reporting, and metrics).</li>\n<li>Improve the broken-site-report screenshot capture and pipeline.</li>\n<li>Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling.</li>\n</ul>\n<h3><strong>Required qualifications</strong></h3>\n<ul>\n<li>Solid web development (JavaScript, HTML, CSS, Python &amp; Django) and experience building dashboards / data views.</li>\n<li>Comfort with tooling, automation, and web services.</li>\n<li>Self-directed, with good written communication.</li>\n</ul>\n<h3><strong>Preferred</strong></h3>\n<ul>\n<li>Familiarity with WebCompat workflows and Bugzilla.</li>\n<li>Experience with screenshot / automation pipelines.</li>\n<li>Experience with Machine Learning</li>\n</ul>",
-      "pubDate": "2026-09-24T15:33:08+00:00"
     }
   },
   {
@@ -277,7 +330,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T12:27:05+00:00",
-    "fetched_at": "2026-09-24T20:48:50.283Z",
+    "fetched_at": "2026-09-25T01:59:04.632Z",
     "raw": {
       "id": 154020,
       "url": "https://jobicy.com/jobs/154020-full-stack-engineer-front-end-leaning",
@@ -324,7 +377,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T12:27:03+00:00",
-    "fetched_at": "2026-09-24T20:48:50.284Z",
+    "fetched_at": "2026-09-25T01:59:04.633Z",
     "raw": {
       "id": 154018,
       "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
@@ -371,7 +424,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T12:27:01+00:00",
-    "fetched_at": "2026-09-24T20:48:50.285Z",
+    "fetched_at": "2026-09-25T01:59:04.634Z",
     "raw": {
       "id": 154022,
       "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
@@ -424,7 +477,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T12:25:13+00:00",
-    "fetched_at": "2026-09-24T20:48:50.286Z",
+    "fetched_at": "2026-09-25T01:59:04.636Z",
     "raw": {
       "id": 154014,
       "url": "https://jobicy.com/jobs/154014-platform-product-engineer",
@@ -472,7 +525,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-24T11:38:32+00:00",
-    "fetched_at": "2026-09-24T20:48:50.287Z",
+    "fetched_at": "2026-09-25T01:59:04.637Z",
     "raw": {
       "id": 153999,
       "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
@@ -525,7 +578,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:55:08+00:00",
-    "fetched_at": "2026-09-24T20:48:50.288Z",
+    "fetched_at": "2026-09-25T01:59:04.638Z",
     "raw": {
       "id": 149520,
       "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
@@ -579,7 +632,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:28+00:00",
-    "fetched_at": "2026-09-24T20:48:50.289Z",
+    "fetched_at": "2026-09-25T01:59:04.639Z",
     "raw": {
       "id": 151493,
       "url": "https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest",
@@ -627,7 +680,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:24+00:00",
-    "fetched_at": "2026-09-24T20:48:50.290Z",
+    "fetched_at": "2026-09-25T01:59:04.640Z",
     "raw": {
       "id": 151507,
       "url": "https://jobicy.com/jobs/151507-senior-ai-solutions-engineer-python-aws-bedrock",
@@ -673,7 +726,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-24T04:40:23+00:00",
-    "fetched_at": "2026-09-24T20:48:50.291Z",
+    "fetched_at": "2026-09-25T01:59:04.641Z",
     "raw": {
       "id": 151503,
       "url": "https://jobicy.com/jobs/151503-sdet-regression-automation-engineer",
@@ -718,7 +771,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:20+00:00",
-    "fetched_at": "2026-09-24T20:48:50.292Z",
+    "fetched_at": "2026-09-25T01:59:04.644Z",
     "raw": {
       "id": 149595,
       "url": "https://jobicy.com/jobs/149595-senior-workday-platform-engineer",
@@ -770,7 +823,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:19+00:00",
-    "fetched_at": "2026-09-24T20:48:50.293Z",
+    "fetched_at": "2026-09-25T01:59:04.645Z",
     "raw": {
       "id": 151496,
       "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
@@ -817,7 +870,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:12+00:00",
-    "fetched_at": "2026-09-24T20:48:50.294Z",
+    "fetched_at": "2026-09-25T01:59:04.646Z",
     "raw": {
       "id": 151502,
       "url": "https://jobicy.com/jobs/151502-front-end-engineering-manager-firefox-desktop",
@@ -868,7 +921,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:40:09+00:00",
-    "fetched_at": "2026-09-24T20:48:50.295Z",
+    "fetched_at": "2026-09-25T01:59:04.647Z",
     "raw": {
       "id": 144336,
       "url": "https://jobicy.com/jobs/144336-staff-security-architect",
@@ -914,7 +967,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-24T04:35:22+00:00",
-    "fetched_at": "2026-09-24T20:48:50.296Z",
+    "fetched_at": "2026-09-25T01:59:04.649Z",
     "raw": {
       "id": 151472,
       "url": "https://jobicy.com/jobs/151472-software-engineer-8",
@@ -957,7 +1010,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-23T15:19:30+00:00",
-    "fetched_at": "2026-09-24T20:48:50.297Z",
+    "fetched_at": "2026-09-25T01:59:04.649Z",
     "raw": {
       "id": 153979,
       "url": "https://jobicy.com/jobs/153979-ads-quality-rater-farsi-turkey",
@@ -1010,7 +1063,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T15:19:30+00:00",
-    "fetched_at": "2026-09-24T20:48:50.298Z",
+    "fetched_at": "2026-09-25T01:59:04.651Z",
     "raw": {
       "id": 153974,
       "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
@@ -1057,7 +1110,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-23T15:19:27+00:00",
-    "fetched_at": "2026-09-24T20:48:50.299Z",
+    "fetched_at": "2026-09-25T01:59:04.651Z",
     "raw": {
       "id": 153976,
       "url": "https://jobicy.com/jobs/153976-ads-quality-rater-cantonese-hong-kong",
@@ -1119,7 +1172,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:35:04+00:00",
-    "fetched_at": "2026-09-24T20:48:50.299Z",
+    "fetched_at": "2026-09-25T01:59:04.652Z",
     "raw": {
       "id": 151168,
       "url": "https://jobicy.com/jobs/151168-fullstack-engineer",
@@ -1168,7 +1221,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:02:16+00:00",
-    "fetched_at": "2026-09-24T20:48:50.301Z",
+    "fetched_at": "2026-09-25T01:59:04.653Z",
     "raw": {
       "id": 149558,
       "url": "https://jobicy.com/jobs/149558-microservices-engineer",
@@ -1214,7 +1267,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:02:07+00:00",
-    "fetched_at": "2026-09-24T20:48:50.302Z",
+    "fetched_at": "2026-09-25T01:59:04.654Z",
     "raw": {
       "id": 151420,
       "url": "https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems",
@@ -1263,7 +1316,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:37+00:00",
-    "fetched_at": "2026-09-24T20:48:50.303Z",
+    "fetched_at": "2026-09-25T01:59:04.656Z",
     "raw": {
       "id": 149566,
       "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
@@ -1311,7 +1364,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:33+00:00",
-    "fetched_at": "2026-09-24T20:48:50.304Z",
+    "fetched_at": "2026-09-25T01:59:04.657Z",
     "raw": {
       "id": 149574,
       "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
@@ -1358,7 +1411,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:25+00:00",
-    "fetched_at": "2026-09-24T20:48:50.305Z",
+    "fetched_at": "2026-09-25T01:59:04.658Z",
     "raw": {
       "id": 149567,
       "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
@@ -1410,7 +1463,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:19+00:00",
-    "fetched_at": "2026-09-24T20:48:50.306Z",
+    "fetched_at": "2026-09-25T01:59:04.659Z",
     "raw": {
       "id": 149576,
       "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
@@ -1459,7 +1512,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:18+00:00",
-    "fetched_at": "2026-09-24T20:48:50.307Z",
+    "fetched_at": "2026-09-25T01:59:04.660Z",
     "raw": {
       "id": 149560,
       "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
@@ -1516,7 +1569,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:14+00:00",
-    "fetched_at": "2026-09-24T20:48:50.308Z",
+    "fetched_at": "2026-09-25T01:59:04.661Z",
     "raw": {
       "id": 149563,
       "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
@@ -1565,7 +1618,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T04:00:05+00:00",
-    "fetched_at": "2026-09-24T20:48:50.309Z",
+    "fetched_at": "2026-09-25T01:59:04.662Z",
     "raw": {
       "id": 149562,
       "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
@@ -1613,7 +1666,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:29+00:00",
-    "fetched_at": "2026-09-24T20:48:50.310Z",
+    "fetched_at": "2026-09-25T01:59:04.664Z",
     "raw": {
       "id": 149535,
       "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
@@ -1664,7 +1717,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:27+00:00",
-    "fetched_at": "2026-09-24T20:48:50.311Z",
+    "fetched_at": "2026-09-25T01:59:04.665Z",
     "raw": {
       "id": 149532,
       "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
@@ -1715,7 +1768,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:25+00:00",
-    "fetched_at": "2026-09-24T20:48:50.312Z",
+    "fetched_at": "2026-09-25T01:59:04.666Z",
     "raw": {
       "id": 149523,
       "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
@@ -1763,7 +1816,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:20+00:00",
-    "fetched_at": "2026-09-24T20:48:50.313Z",
+    "fetched_at": "2026-09-25T01:59:04.666Z",
     "raw": {
       "id": 149533,
       "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
@@ -1821,7 +1874,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:18+00:00",
-    "fetched_at": "2026-09-24T20:48:50.314Z",
+    "fetched_at": "2026-09-25T01:59:04.668Z",
     "raw": {
       "id": 149534,
       "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
@@ -1872,7 +1925,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:13+00:00",
-    "fetched_at": "2026-09-24T20:48:50.315Z",
+    "fetched_at": "2026-09-25T01:59:04.669Z",
     "raw": {
       "id": 149524,
       "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
@@ -1925,7 +1978,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:12+00:00",
-    "fetched_at": "2026-09-24T20:48:50.316Z",
+    "fetched_at": "2026-09-25T01:59:04.670Z",
     "raw": {
       "id": 149522,
       "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
@@ -1977,7 +2030,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:55:10+00:00",
-    "fetched_at": "2026-09-24T20:48:50.317Z",
+    "fetched_at": "2026-09-25T01:59:04.671Z",
     "raw": {
       "id": 149527,
       "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
@@ -2033,7 +2086,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:28+00:00",
-    "fetched_at": "2026-09-24T20:48:50.318Z",
+    "fetched_at": "2026-09-25T01:59:04.672Z",
     "raw": {
       "id": 149543,
       "url": "https://jobicy.com/jobs/149543-python-engineer",
@@ -2081,7 +2134,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:15+00:00",
-    "fetched_at": "2026-09-24T20:48:50.320Z",
+    "fetched_at": "2026-09-25T01:59:04.675Z",
     "raw": {
       "id": 149537,
       "url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
@@ -2131,7 +2184,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:14+00:00",
-    "fetched_at": "2026-09-24T20:48:50.321Z",
+    "fetched_at": "2026-09-25T01:59:04.676Z",
     "raw": {
       "id": 149498,
       "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
@@ -2181,7 +2234,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:13+00:00",
-    "fetched_at": "2026-09-24T20:48:50.322Z",
+    "fetched_at": "2026-09-25T01:59:04.677Z",
     "raw": {
       "id": 149538,
       "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
@@ -2231,7 +2284,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:10+00:00",
-    "fetched_at": "2026-09-24T20:48:50.323Z",
+    "fetched_at": "2026-09-25T01:59:04.678Z",
     "raw": {
       "id": 149499,
       "url": "https://jobicy.com/jobs/149499-software-engineer-data",
@@ -2284,7 +2337,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:50:06+00:00",
-    "fetched_at": "2026-09-24T20:48:50.323Z",
+    "fetched_at": "2026-09-25T01:59:04.679Z",
     "raw": {
       "id": 149503,
       "url": "https://jobicy.com/jobs/149503-partner-solutions-architect",
@@ -2337,7 +2390,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:45:15+00:00",
-    "fetched_at": "2026-09-24T20:48:50.325Z",
+    "fetched_at": "2026-09-25T01:59:04.681Z",
     "raw": {
       "id": 149551,
       "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
@@ -2384,7 +2437,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-23T03:45:07+00:00",
-    "fetched_at": "2026-09-24T20:48:50.326Z",
+    "fetched_at": "2026-09-25T01:59:04.682Z",
     "raw": {
       "id": 149552,
       "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
@@ -2438,7 +2491,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T16:46:01+00:00",
-    "fetched_at": "2026-09-24T20:48:50.327Z",
+    "fetched_at": "2026-09-25T01:59:04.683Z",
     "raw": {
       "id": 153924,
       "url": "https://jobicy.com/jobs/153924-senior-software-engineer-build-loop",
@@ -2490,7 +2543,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T16:45:57+00:00",
-    "fetched_at": "2026-09-24T20:48:50.328Z",
+    "fetched_at": "2026-09-25T01:59:04.684Z",
     "raw": {
       "id": 153922,
       "url": "https://jobicy.com/jobs/153922-engineering-manager-8",
@@ -2539,7 +2592,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:51:58+00:00",
-    "fetched_at": "2026-09-24T20:48:50.329Z",
+    "fetched_at": "2026-09-25T01:59:04.685Z",
     "raw": {
       "id": 153905,
       "url": "https://jobicy.com/jobs/153905-backend-engineer-control-plane",
@@ -2594,7 +2647,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:50:06+00:00",
-    "fetched_at": "2026-09-24T20:48:50.331Z",
+    "fetched_at": "2026-09-25T01:59:04.687Z",
     "raw": {
       "id": 153899,
       "url": "https://jobicy.com/jobs/153899-senior-software-engineer-add-ons",
@@ -2641,7 +2694,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:10:16+00:00",
-    "fetched_at": "2026-09-24T20:48:50.331Z",
+    "fetched_at": "2026-09-25T01:59:04.688Z",
     "raw": {
       "id": 153882,
       "url": "https://jobicy.com/jobs/153882-senior-manager-solution-engineering-docv",
@@ -2662,6 +2715,53 @@
       "pubDate": "2026-09-22T14:10:16+00:00",
       "salaryMin": 220000,
       "salaryMax": 250000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:153889",
+    "platform": "jobicy",
+    "external_id": "153889",
+    "title": "Staff Backend Engineer",
+    "company": "Socure",
+    "description": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day. We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading. About the Role Socure is seeking a highly skilled and experienced Staff Backend Engineer to join our dynamic engineering team within the Technology Center of Excellence. In this critical role, you will be a technical leader, driving the design, development, and deployment of innovative software solutions that help eliminate identity fraud. You will work closely with cross-functional teams, mentor junior engineers, and ensure the delivery of high-quality, scalable, and secure products. At Socure, we value teamwork, outcome-driven development, and a commitment to best-in-class technology experiences. What you will do: In this role, you will provide technical leadership by designing and implementing complex core components and distributed systems, while architecting solutions for scalability, security, modularity, and long-term maintainability. You will conduct code and architecture reviews to ensure alignment with Socure’s standards and industry best practices. As a Staff Backend Engineer you will drive the planning, execution, and delivery of large, complex initiatives, coordinating work across a small team of engineers and effectively managing scope, timelines, and resources. You will also play a key role in team collaboration and mentorship by providing technical guidance, supporting system design efforts, and fostering a culture of engineering excellence and continuous improvement. Additionally, you will contribute to innovation and impact by proactively proposing new projects, identifying opportunities to enhance platform performance, reliability, and developer productivity, and helping evolve Socure’s engineering practices and standards. What you bring: Bachelor’s degree in Computer Science or a related field, or equivalent practical experience 8–12 years of professional software engineering experience Proven experience leading complex, large-scale engineering projects Expert-level programming skills and mastery of software engineering principles Strong experience designing and building scalable, distributed systems Ability to develop complex systems while guiding architectural decisions for a team Deep understanding of system design, performance optimization, and reliability Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly. Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly. Follow Us! YouTube | LinkedIn | X (Twitter) | Facebook",
+    "url": "https://jobicy.com/jobs/153889-staff-backend-engineer-3",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-22T14:10:14+00:00",
+    "fetched_at": "2026-09-25T01:59:04.689Z",
+    "raw": {
+      "id": 153889,
+      "url": "https://jobicy.com/jobs/153889-staff-backend-engineer-3",
+      "jobSlug": "153889-staff-backend-engineer-3",
+      "jobTitle": "Staff Backend Engineer",
+      "companyName": "Socure",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/4dd877ff6ea919681d6e790a57ab639c.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Why Socure? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day. We hire people who want&hellip;",
+      "jobDescription": "<h3><strong>Why <a href=\"https://jobicy.com/company/socure\" target=\"_blank\" rel=\"noopener\">Socure</a>?</strong></h3>\n<p>Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.</p>\n<p>We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.</p>\n<h3><strong>About the Role</strong></h3>\n<p>Socure is seeking a highly skilled and experienced Staff Backend Engineer to join our dynamic engineering team within the Technology Center of Excellence. In this critical role, you will be a technical leader, driving the design, development, and deployment of innovative software solutions that help eliminate identity fraud. You will work closely with cross-functional teams, mentor junior engineers, and ensure the delivery of high-quality, scalable, and secure products. At Socure, we value teamwork, outcome-driven development, and a commitment to best-in-class technology experiences.</p>\n\n<h3><strong>What you will do:</strong></h3>\n<p>In this role, you will provide technical leadership by designing and implementing complex core components and distributed systems, while architecting solutions for scalability, security, modularity, and long-term maintainability. You will conduct code and architecture reviews to ensure alignment with Socure’s standards and industry best practices. As a Staff Backend Engineer you will drive the planning, execution, and delivery of large, complex initiatives, coordinating work across a small team of engineers and effectively managing scope, timelines, and resources. You will also play a key role in team collaboration and mentorship by providing technical guidance, supporting system design efforts, and fostering a culture of engineering excellence and continuous improvement. Additionally, you will contribute to innovation and impact by proactively proposing new projects, identifying opportunities to enhance platform performance, reliability, and developer productivity, and helping evolve Socure’s engineering practices and standards.</p>\n\n<h3><strong>What you bring:</strong></h3>\n<ul>\n<li>\n<p>Bachelor’s degree in Computer Science or a related field, or equivalent practical experience</p>\n</li>\n<li>\n<p>8–12 years of professional software engineering experience</p>\n</li>\n<li>\n<p>Proven experience leading complex, large-scale engineering projects</p>\n</li>\n<li>\n<p>Expert-level programming skills and mastery of software engineering principles</p>\n</li>\n<li>\n<p>Strong experience designing and building scalable, distributed systems</p>\n</li>\n<li>\n<p>Ability to develop complex systems while guiding architectural decisions for a team</p>\n</li>\n<li>\n<p>Deep understanding of system design, performance optimization, and reliability</p>\n\n</li>\n</ul>\n<p><em>Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br>If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly.</em></p>\n<p><em>Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br>If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly.</em></p>\n\n<p><strong>Follow Us!</strong></p>\n<p><a href=\"https://www.youtube.com/c/Socure\" rel=\"nofollow ugc noopener\" target=\"_blank\">YouTube</a> | <a href=\"https://www.linkedin.com/company/socure/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>LinkedIn</u></a> | <a href=\"https://x.com/socureme\" rel=\"nofollow ugc noopener\" target=\"_blank\">X (Twitter)</a> | <a href=\"https://www.facebook.com/socure/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Facebook</a></p>",
+      "pubDate": "2026-09-22T14:10:14+00:00",
+      "salaryMin": 225000,
+      "salaryMax": 265000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
     }
@@ -2690,7 +2790,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T14:10:14+00:00",
-    "fetched_at": "2026-09-24T20:48:50.333Z",
+    "fetched_at": "2026-09-25T01:59:04.690Z",
     "raw": {
       "id": 153888,
       "url": "https://jobicy.com/jobs/153888-chief-technology-officer-us-based",
@@ -2709,53 +2809,6 @@
       "jobExcerpt": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
       "jobDescription": "<h3>About <a href=\"https://jobicy.com/company/toptal\" target=\"_blank\" rel=\"noopener\">Toptal</a></h3>\n<p>Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue <strong>and team members based around the globe</strong>, Toptal is the <a href=\"https://www.toptal.com/remote-work-playbook\" rel=\"nofollow ugc noopener\" target=\"_blank\">world’s largest fully remote workforce</a>.</p>\n<p>We take the best elements of virtual teams and combine them with a support structure that encourages innovation, social interaction, and fun. We see no borders, move at a fast pace, and are never afraid to break the mold.</p>\n<h3>Position Description:</h3>\n<p>As Chief Technology Officer, you will drive execution for the product and engineering teams and put AI at the core of everything the company builds. You will own Toptal’s full technical architecture and you will build it AI-first—utilizing best practices for agentic engineering. AI is not a workstream inside the engineer team—its core to it.</p>\n<p>You will create and own the AI architecture and best practices the rest of the company utilizes. You will also own the initiatives that put agents into production. You should know how to build and fine-tune foundation models from the ground up, how to engineer best-in-class harnesses, and how to create best practices for agentic engineering that engineering teams adopt to 10x their productivity—without sacrificing quality. Your mindset will be that of a builder and an architect, someone who solves problems in the system itself. No problem will be too large or too small for you to solve yourself. You will set the technical direction and hold the cadenced meetings that turns technical strategy into working, production-ready outcomes. You will be in the design reviews and in the code, not adjacent to them. You will move fast, and you will ensure our engineering team is never the reason an initiative slows down.</p>\n<p>You are the technical owner of all Toptal’s products. You will collaborate closely with Product to design infrastructure that exposes Toptal’s core business logic through modular interfaces the rest of the business can build on. Alongside a group of hands-on executives, your engineering discipline directly shapes Toptal’s growth, profitability, and operational excellence.</p>\n<p>You will own resourcing and workforce planning as a doer: scoping the work, sizing the teams, planning headcount against it, defining the role and the bar for every seat. None of that is beneath the role, and we are not interested in someone who thinks these tasks can be done properly by handing it off to HR. Hiring is the highest-leverage work you do, and we want someone who is visibly excited about hiring A-players—with a sense of urgency.</p>\n<p>Then, you lead the team. You will set the standards, develop people against those standards, and know exactly who is meeting those standards.</p>\n<p>You will be one of Toptal’s foremost experts on AI, and you will stay ahead of a field that never stops moving. You will coach engineers on agentic best practices, show the executive team what is newly possible with the new AI tooling, and push AI into every function at Toptal.</p>\n<p>This role runs on high-energy execution and attention to detail. You will bring urgency to every part of it and measure yourself on outcomes. We are not looking for someone to oversee this work. We are looking for someone to drive it and get into the details.</p>\n<p>This is a remote position. Resumes and communication must be submitted in English.</p>\n<h3>Responsibilities:</h3>\n<p><em>The following information is intended to describe the general nature and level of work being performed. It is not intended to be an exhaustive list of all duties, responsibilities, or required skills.</em></p>\n<p>One precondition runs through all of it: you conceive the strategy. You will form your own view of where engineering and AI should go, build the case, and bring the CEO a strategy to react to, not a request for direction.</p>\n<p><strong>AI and agentic engineering</strong></p>\n<ul>\n<li>Own Toptal’s AI technology strategy and the architecture beneath it: model selection and fine-tuning, harness design, orchestration, retrieval, context engineering, tool and MCP integration, guardrails, evaluation, and cost control, exposed as primitives every team composes against.</li>\n<li>Deploy agentic engineering at scale against the work that runs this business: matching, vetting, onboarding, delivery, and internal operations. Own the outcomes those agents are accountable for.</li>\n<li>Make AI quality measurable. Own the evals, the regression suites, and the review loops, so quality here is proven rather than claimed.</li>\n<li>Rebuild how the platform gets built and operated, raising output per engineer through AI-assisted development, review, testing, and operations. Engineers have to want this, not comply with it, and creating that pull is on you.</li>\n</ul>\n<p><strong>Team, resourcing, and accountability</strong></p>\n<ul>\n<li>Decide what a team should look like now that the roles have blurred, where the product manager believes they can design and code, the engineer believes they can do product and design, and the designer believes they can code and do product.</li>\n<li>Own resourcing and workforce planning: scope the roadmap into buildable work, plan headcount and sequence, write the specs, and hit time-sensitive hiring commitments.</li>\n<li>Own the bar for the team: assess talent honestly, develop people against the bar, and hold it as the organization grows.</li>\n</ul>\n<p><strong>Platform and execution</strong></p>\n<ul>\n<li>Own the architecture end to end, from services and data flows to interfaces and system boundaries, and hold the standards that keep it coherent as it grows.</li>\n<li>Own throughput, reliability, and the platform layer beneath them, including the AI-dependent paths where latency, drift, and provider outages are real failure modes. Own build-versus-buy, technical debt, secure-by-design architecture, responsible AI, and the engineering and AI cost structure down to inference and token spend.</li>\n</ul>\n<h3>In the first week, expect to:</h3>\n<ul>\n<li>Learn Toptal’s model and platform architecture, and meet the leaders you will depend on across Engineering, Product, Industries, and Services.</li>\n<li>Establish a direct, working rhythm with the CEO.</li>\n</ul>\n<h3>In the first month, expect to:</h3>\n<ul>\n<li>Assess the engineering function honestly, and assess AI maturity with it: what is really in production, what is measured, what is duplicated, and what should be shut down.</li>\n<li>Assess the team against the bar this role requires, and bring the executive team a strategy no one asked you for.</li>\n</ul>\n<h3>In the first three months, expect to:</h3>\n<ul>\n<li>Be executing your own plan, with a review cadence and clear accountability at every level, and your resourcing plan presented.</li>\n<li>Stand up the shared AI architecture and evals, and put one agentic workflow into production with a baseline and a measured result.</li>\n</ul>\n<h3>In the first six months, expect to:</h3>\n<ul>\n<li>Show business impact from agents in production in at least two core workflows, with the evidence behind it.</li>\n<li>Have the leadership team you need, with the bar visibly raised, and throughput and reliability moving on the paths that matter most.</li>\n</ul>\n<h3>In the first year, expect to:</h3>\n<ul>\n<li>Run an engineering organization recognized inside and outside Toptal as one of the most advanced in the industry, with the pull on AI now coming from engineering.</li>\n<li>Have AI leverage embedded in the architecture and the operating model, not living in a portfolio of pilots, and the team you built delivering against plan.</li>\n</ul>\n<h3>Qualifications and Job Requirements:</h3>\n<ul>\n<li>Bachelor’s degree in Computer Science, Engineering, or a related technical field is required, and an advanced degree is strongly preferred.</li>\n<li>15+ years of progressive engineering leadership, including significant time as a CTO or VP of Engineering, or as a direct report to one at meaningful scale.</li>\n<li>Deep, current, hands-on command of modern AI engineering: foundation models, agentic architectures, harness design, retrieval, context engineering, fine-tuning, and evaluation. You have shipped and operated these in production, and you know how to build and fine-tune foundation models from the ground up.</li>\n<li>Agentic systems deployed at scale against real business processes, with measured outcomes on cost, cycle time, quality, or revenue, and a record of retiring what did not work.</li>\n<li>Rigor about evaluation. You can explain precisely how you knew a model, prompt, or agent change was an improvement, and you can show the evidence.</li>\n<li>Command of the economics underneath it: model routing, hosted versus self-hosted, inference capacity, latency and cost budgets, and staying portable across providers.</li>\n<li>Further ahead on AI than the executives around you, able to teach it, and proven at moving an organization to adopt something it was not asking for.</li>\n<li>You create strategy rather than administer it, and you win arguments on evidence rather than authority, including your view on what a team should look like in the age of AI.</li>\n<li>Proven ownership of resourcing and workforce planning, and a hiring track record you can quantify. You have made the hard calls when someone was not clearing the bar.</li>\n<li>Currently hands-on. You read and write code, you can take apart a design document or an eval harness and find the flaw in it, and you command distributed systems, service architecture, data-intensive applications, and cloud infrastructure at scale.</li>\n<li>Experience scaling and modernizing a large existing codebase without stopping the business. You have replaced load-bearing systems in flight, not only built greenfield.</li>\n<li>Experience leading a globally distributed, remote team at a technology or hyper-growth company is required. A high-volume, two-sided marketplace or multi-tenant platform is a significant plus.</li>\n<li>Outstanding written and verbal communication skills.</li>\n<li>Speed, ownership, and quality. You move with urgency, decide without perfect information, and treat everything you deliver as a reflection of yourself.</li>\n<li>You must be a world-class individual contributor to thrive at Toptal. You will not be here just to tell other people what to do.</li>\n</ul>\n<h3>Essential Job Functions</h3>\n<ul>\n<li>Regularly and reliably attend scheduled virtual team meetings on camera.</li>\n<li>Work independently with minimal supervision.</li>\n<li>Use all required digital collaboration tools.</li>\n<li>Prioritize and self-manage workflows and deadlines.</li>\n</ul>\n<h3>US FLSA Classification: Full-Time/Exempt</h3>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>",
       "pubDate": "2026-09-22T14:10:14+00:00"
-    }
-  },
-  {
-    "id": "jobicy:153889",
-    "platform": "jobicy",
-    "external_id": "153889",
-    "title": "Staff Backend Engineer",
-    "company": "Socure",
-    "description": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day. We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading. About the Role Socure is seeking a highly skilled and experienced Staff Backend Engineer to join our dynamic engineering team within the Technology Center of Excellence. In this critical role, you will be a technical leader, driving the design, development, and deployment of innovative software solutions that help eliminate identity fraud. You will work closely with cross-functional teams, mentor junior engineers, and ensure the delivery of high-quality, scalable, and secure products. At Socure, we value teamwork, outcome-driven development, and a commitment to best-in-class technology experiences. What you will do: In this role, you will provide technical leadership by designing and implementing complex core components and distributed systems, while architecting solutions for scalability, security, modularity, and long-term maintainability. You will conduct code and architecture reviews to ensure alignment with Socure’s standards and industry best practices. As a Staff Backend Engineer you will drive the planning, execution, and delivery of large, complex initiatives, coordinating work across a small team of engineers and effectively managing scope, timelines, and resources. You will also play a key role in team collaboration and mentorship by providing technical guidance, supporting system design efforts, and fostering a culture of engineering excellence and continuous improvement. Additionally, you will contribute to innovation and impact by proactively proposing new projects, identifying opportunities to enhance platform performance, reliability, and developer productivity, and helping evolve Socure’s engineering practices and standards. What you bring: Bachelor’s degree in Computer Science or a related field, or equivalent practical experience 8–12 years of professional software engineering experience Proven experience leading complex, large-scale engineering projects Expert-level programming skills and mastery of software engineering principles Strong experience designing and building scalable, distributed systems Ability to develop complex systems while guiding architectural decisions for a team Deep understanding of system design, performance optimization, and reliability Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly. Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly. Follow Us! YouTube | LinkedIn | X (Twitter) | Facebook",
-    "url": "https://jobicy.com/jobs/153889-staff-backend-engineer-3",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-22T14:10:14+00:00",
-    "fetched_at": "2026-09-24T20:48:50.334Z",
-    "raw": {
-      "id": 153889,
-      "url": "https://jobicy.com/jobs/153889-staff-backend-engineer-3",
-      "jobSlug": "153889-staff-backend-engineer-3",
-      "jobTitle": "Staff Backend Engineer",
-      "companyName": "Socure",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/4dd877ff6ea919681d6e790a57ab639c.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Why Socure? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day. We hire people who want&hellip;",
-      "jobDescription": "<h3><strong>Why <a href=\"https://jobicy.com/company/socure\" target=\"_blank\" rel=\"noopener\">Socure</a>?</strong></h3>\n<p>Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.</p>\n<p>We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.</p>\n<h3><strong>About the Role</strong></h3>\n<p>Socure is seeking a highly skilled and experienced Staff Backend Engineer to join our dynamic engineering team within the Technology Center of Excellence. In this critical role, you will be a technical leader, driving the design, development, and deployment of innovative software solutions that help eliminate identity fraud. You will work closely with cross-functional teams, mentor junior engineers, and ensure the delivery of high-quality, scalable, and secure products. At Socure, we value teamwork, outcome-driven development, and a commitment to best-in-class technology experiences.</p>\n\n<h3><strong>What you will do:</strong></h3>\n<p>In this role, you will provide technical leadership by designing and implementing complex core components and distributed systems, while architecting solutions for scalability, security, modularity, and long-term maintainability. You will conduct code and architecture reviews to ensure alignment with Socure’s standards and industry best practices. As a Staff Backend Engineer you will drive the planning, execution, and delivery of large, complex initiatives, coordinating work across a small team of engineers and effectively managing scope, timelines, and resources. You will also play a key role in team collaboration and mentorship by providing technical guidance, supporting system design efforts, and fostering a culture of engineering excellence and continuous improvement. Additionally, you will contribute to innovation and impact by proactively proposing new projects, identifying opportunities to enhance platform performance, reliability, and developer productivity, and helping evolve Socure’s engineering practices and standards.</p>\n\n<h3><strong>What you bring:</strong></h3>\n<ul>\n<li>\n<p>Bachelor’s degree in Computer Science or a related field, or equivalent practical experience</p>\n</li>\n<li>\n<p>8–12 years of professional software engineering experience</p>\n</li>\n<li>\n<p>Proven experience leading complex, large-scale engineering projects</p>\n</li>\n<li>\n<p>Expert-level programming skills and mastery of software engineering principles</p>\n</li>\n<li>\n<p>Strong experience designing and building scalable, distributed systems</p>\n</li>\n<li>\n<p>Ability to develop complex systems while guiding architectural decisions for a team</p>\n</li>\n<li>\n<p>Deep understanding of system design, performance optimization, and reliability</p>\n\n</li>\n</ul>\n<p><em>Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br>If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly.</em></p>\n<p><em>Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br>If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly.</em></p>\n\n<p><strong>Follow Us!</strong></p>\n<p><a href=\"https://www.youtube.com/c/Socure\" rel=\"nofollow ugc noopener\" target=\"_blank\">YouTube</a> | <a href=\"https://www.linkedin.com/company/socure/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>LinkedIn</u></a> | <a href=\"https://x.com/socureme\" rel=\"nofollow ugc noopener\" target=\"_blank\">X (Twitter)</a> | <a href=\"https://www.facebook.com/socure/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Facebook</a></p>",
-      "pubDate": "2026-09-22T14:10:14+00:00",
-      "salaryMin": 225000,
-      "salaryMax": 265000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
     }
   },
   {
@@ -2780,7 +2833,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T13:32:44+00:00",
-    "fetched_at": "2026-09-24T20:48:50.335Z",
+    "fetched_at": "2026-09-25T01:59:04.692Z",
     "raw": {
       "id": 153869,
       "url": "https://jobicy.com/jobs/153869-director-of-engineering-enterprise-product",
@@ -2838,7 +2891,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T13:29:52+00:00",
-    "fetched_at": "2026-09-24T20:48:50.336Z",
+    "fetched_at": "2026-09-25T01:59:04.693Z",
     "raw": {
       "id": 153865,
       "url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform",
@@ -2888,7 +2941,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:45:06+00:00",
-    "fetched_at": "2026-09-24T20:48:50.337Z",
+    "fetched_at": "2026-09-25T01:59:04.693Z",
     "raw": {
       "id": 153647,
       "url": "https://jobicy.com/jobs/153647-staff-software-backend-engineer-tech-lead-foundations",
@@ -2937,7 +2990,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:39:27+00:00",
-    "fetched_at": "2026-09-24T20:48:50.338Z",
+    "fetched_at": "2026-09-25T01:59:04.695Z",
     "raw": {
       "id": 151412,
       "url": "https://jobicy.com/jobs/151412-developer-advocate",
@@ -2989,7 +3042,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:39:26+00:00",
-    "fetched_at": "2026-09-24T20:48:50.339Z",
+    "fetched_at": "2026-09-25T01:59:04.696Z",
     "raw": {
       "id": 151415,
       "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
@@ -3046,7 +3099,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:35:19+00:00",
-    "fetched_at": "2026-09-24T20:48:50.343Z",
+    "fetched_at": "2026-09-25T01:59:04.700Z",
     "raw": {
       "id": 151374,
       "url": "https://jobicy.com/jobs/151374-chief-architect",
@@ -3096,7 +3149,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:35:17+00:00",
-    "fetched_at": "2026-09-24T20:48:50.344Z",
+    "fetched_at": "2026-09-25T01:59:04.701Z",
     "raw": {
       "id": 151366,
       "url": "https://jobicy.com/jobs/151366-senior-staff-software-engineer-c",
@@ -3159,7 +3212,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:35:16+00:00",
-    "fetched_at": "2026-09-24T20:48:50.345Z",
+    "fetched_at": "2026-09-25T01:59:04.704Z",
     "raw": {
       "id": 151369,
       "url": "https://jobicy.com/jobs/151369-staff-product-engineer-2",
@@ -3214,7 +3267,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:35:03+00:00",
-    "fetched_at": "2026-09-24T20:48:50.346Z",
+    "fetched_at": "2026-09-25T01:59:04.705Z",
     "raw": {
       "id": 151365,
       "url": "https://jobicy.com/jobs/151365-fullstack-engineer-2",
@@ -3259,7 +3312,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-22T03:30:23+00:00",
-    "fetched_at": "2026-09-24T20:48:50.347Z",
+    "fetched_at": "2026-09-25T01:59:04.706Z",
     "raw": {
       "id": 149468,
       "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
@@ -3307,7 +3360,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-22T03:30:22+00:00",
-    "fetched_at": "2026-09-24T20:48:50.348Z",
+    "fetched_at": "2026-09-25T01:59:04.707Z",
     "raw": {
       "id": 149466,
       "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
@@ -3354,7 +3407,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:30:11+00:00",
-    "fetched_at": "2026-09-24T20:48:50.349Z",
+    "fetched_at": "2026-09-25T01:59:04.708Z",
     "raw": {
       "id": 149450,
       "url": "https://jobicy.com/jobs/149450-customer-solution-engineer-ai-native-consumption-quote-to-cash",
@@ -3419,7 +3472,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-22T03:30:08+00:00",
-    "fetched_at": "2026-09-24T20:48:50.351Z",
+    "fetched_at": "2026-09-25T01:59:04.710Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -3466,7 +3519,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T16:31:45+00:00",
-    "fetched_at": "2026-09-24T20:48:50.351Z",
+    "fetched_at": "2026-09-25T01:59:04.711Z",
     "raw": {
       "id": 153844,
       "url": "https://jobicy.com/jobs/153844-principal-ai-engineer",
@@ -3509,7 +3562,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T16:31:44+00:00",
-    "fetched_at": "2026-09-24T20:48:50.353Z",
+    "fetched_at": "2026-09-25T01:59:04.712Z",
     "raw": {
       "id": 153842,
       "url": "https://jobicy.com/jobs/153842-director-ai-solutions",
@@ -3565,7 +3618,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T15:32:07+00:00",
-    "fetched_at": "2026-09-24T20:48:50.353Z",
+    "fetched_at": "2026-09-25T01:59:04.713Z",
     "raw": {
       "id": 153829,
       "url": "https://jobicy.com/jobs/153829-design-engineer-site",
@@ -3618,7 +3671,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T15:32:03+00:00",
-    "fetched_at": "2026-09-24T20:48:50.354Z",
+    "fetched_at": "2026-09-25T01:59:04.713Z",
     "raw": {
       "id": 153825,
       "url": "https://jobicy.com/jobs/153825-ai-agent-engineer",
@@ -3672,7 +3725,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T15:03:15+00:00",
-    "fetched_at": "2026-09-24T20:48:50.354Z",
+    "fetched_at": "2026-09-25T01:59:04.715Z",
     "raw": {
       "id": 153823,
       "url": "https://jobicy.com/jobs/153823-ai-software-engineer",
@@ -3722,7 +3775,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T11:48:02+00:00",
-    "fetched_at": "2026-09-24T20:48:50.355Z",
+    "fetched_at": "2026-09-25T01:59:04.715Z",
     "raw": {
       "id": 153799,
       "url": "https://jobicy.com/jobs/153799-software-engineer-10",
@@ -3772,7 +3825,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T11:48:01+00:00",
-    "fetched_at": "2026-09-24T20:48:50.356Z",
+    "fetched_at": "2026-09-25T01:59:04.717Z",
     "raw": {
       "id": 153804,
       "url": "https://jobicy.com/jobs/153804-senior-software-engineer-5",
@@ -3815,7 +3868,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-21T09:55:13+00:00",
-    "fetched_at": "2026-09-24T20:48:50.357Z",
+    "fetched_at": "2026-09-25T01:59:04.717Z",
     "raw": {
       "id": 151333,
       "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
@@ -3861,7 +3914,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:55:09+00:00",
-    "fetched_at": "2026-09-24T20:48:50.358Z",
+    "fetched_at": "2026-09-25T01:59:04.718Z",
     "raw": {
       "id": 151329,
       "url": "https://jobicy.com/jobs/151329-engineering-manager-product-engineering",
@@ -3908,7 +3961,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-09-21T09:50:20+00:00",
-    "fetched_at": "2026-09-24T20:48:50.358Z",
+    "fetched_at": "2026-09-25T01:59:04.719Z",
     "raw": {
       "id": 151338,
       "url": "https://jobicy.com/jobs/151338-scout-junior-quality-coordinator-spanish-mexico",
@@ -3959,7 +4012,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:50:12+00:00",
-    "fetched_at": "2026-09-24T20:48:50.360Z",
+    "fetched_at": "2026-09-25T01:59:04.720Z",
     "raw": {
       "id": 151337,
       "url": "https://jobicy.com/jobs/151337-technical-lead-manager",
@@ -4011,7 +4064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:50:08+00:00",
-    "fetched_at": "2026-09-24T20:48:50.360Z",
+    "fetched_at": "2026-09-25T01:59:04.721Z",
     "raw": {
       "id": 151290,
       "url": "https://jobicy.com/jobs/151290-senior-software-engineer-3",
@@ -4064,7 +4117,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:45:30+00:00",
-    "fetched_at": "2026-09-24T20:48:50.362Z",
+    "fetched_at": "2026-09-25T01:59:04.723Z",
     "raw": {
       "id": 151326,
       "url": "https://jobicy.com/jobs/151326-director-of-engineering-data",
@@ -4133,7 +4186,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:45:19+00:00",
-    "fetched_at": "2026-09-24T20:48:50.363Z",
+    "fetched_at": "2026-09-25T01:59:04.724Z",
     "raw": {
       "id": 151313,
       "url": "https://jobicy.com/jobs/151313-senior-frontend-engineer-growth-usa-only-100-remote",
@@ -4195,7 +4248,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:45:17+00:00",
-    "fetched_at": "2026-09-24T20:48:50.364Z",
+    "fetched_at": "2026-09-25T01:59:04.726Z",
     "raw": {
       "id": 151308,
       "url": "https://jobicy.com/jobs/151308-senior-software-engineer-backend-usa-only-100-remote",
@@ -4240,7 +4293,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T09:35:22+00:00",
-    "fetched_at": "2026-09-24T20:48:50.365Z",
+    "fetched_at": "2026-09-25T01:59:04.727Z",
     "raw": {
       "id": 153783,
       "url": "https://jobicy.com/jobs/153783-senior-full-stack-engineer-3",
@@ -4291,7 +4344,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T03:10:14+00:00",
-    "fetched_at": "2026-09-24T20:48:50.366Z",
+    "fetched_at": "2026-09-25T01:59:04.728Z",
     "raw": {
       "id": 144040,
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -4342,7 +4395,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-21T03:10:11+00:00",
-    "fetched_at": "2026-09-24T20:48:50.367Z",
+    "fetched_at": "2026-09-25T01:59:04.729Z",
     "raw": {
       "id": 151197,
       "url": "https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir",
@@ -4361,57 +4414,6 @@
       "jobExcerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "jobDescription": "<p><a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p><p>The company is founder-led, profitable, and growing.</p><p>We are hiring a <strong>C++/Rust Graphics and Windowing System Software Engineer.</strong></p><p>We build <a href=\"https://mir-server.io/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Mir</a> – a high-performance, high-efficiency technology stack for window managers, display subsystems and solutions built on top of it, like Ubuntu Frame. Leading with vision, we shape the technology stack that empowers communities to realize a world where apps work seamlessly in every graphical environment. </p><p>Our goal is to enable the whole spectrum of graphics from single-purpose screens through edge devices to full desktop environments. We also set the pace for graphics enablement across the Ubuntu certified hardware ecosystem. Our daily drill includes design, development and testing of features as well as working with the community and responding to issues and user inquiries. </p><p>Most of the software is written in C++, with support tooling in scripting languages. We will use Rust as an evolutionary step forward. Thus candidates are required to have strong skills in both Rust and C++. We're growing the team and looking for new colleagues who share our passion for precision, performance and user experience. We are hiring on various career levels with a minimum of 2 years industry experience. We are looking for people who ideally have experience in building window compositing systems or graphics device experience. We're committed to creating an outstanding developer experience, secure foundations, and easy access to today's most used graphics toolkits and libraries.</p><p>This is an excellent opportunity for someone who wants to have a meaningful impact on modern display technologies that will impact millions of developers and users. Canonical offers a fast-paced team environment and a career full of learning and development opportunities across the open source spectrum.</p><p>Location: This role will be based remotely in the EMEA or APAC region.</p><h2>The role entails</h2><ul>\r\n<li>Design and implementation of features across the Mir stack</li>\r\n<li>Assisting in debugging, tracking down and fixing issues</li>\r\n<li>Participating in our engineering process through code and architectural review</li>\r\n<li>Creating and improving tests and performance benchmarks to catch issues early</li>\r\n<li>Creating and maintaining documentation to enhance the developer experience</li>\r\n<li>Engaging with the open source community and commercial partners</li>\r\n<li>Collaborating proactively with a distributed team</li>\r\n</ul><h2>What we are looking for in you</h2><ul>\r\n<li>Excellent Bachelor’s or equivalent degree in Computer Science, STEM or similar and 2+ years of working experience</li>\r\n<li>Excellent modern C++ and excellent Rust programming skills</li>\r\n<li>Familiarity with Linux as a development and deployment platform</li>\r\n<li>Ability to collaborate remotely with a diverse set of team members and remain highly motivated, productive, and organized</li>\r\n<li>Ability to travel internationally twice a year for company events up to two weeks long</li>\r\n</ul><h2>Nice-to-have skills</h2><ul>\r\n<li>You have experience with the Wayland protocol ecosystem and compositors</li>\r\n<li>You are familiar with OpenGL, Vulkan, Flutter and other graphics, toolkits and animation frameworks</li>\r\n<li>You have a solid understanding of asynchronous programming and concurrency patterns</li>\r\n<li>You have proven ability to consistently deliver robust code to production</li>\r\n<li>You have strong written and verbal communication skills to document and present software developed</li>\r\n</ul><h2>What we offer colleagues</h2><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p><ul>\r\n<li>Distributed work environment with twice-yearly team sprints in person</li>\r\n<li>Personal learning and development budget of USD 2,000 per year</li>\r\n<li>Annual compensation review</li>\r\n<li>Recognition rewards</li>\r\n<li>Annual holiday leave</li>\r\n<li>Maternity and paternity leave</li>\r\n<li>Team Member Assistance Program &amp; Wellness Platform</li>\r\n<li>Opportunity to travel to new locations to meet colleagues</li>\r\n<li>Priority Pass and travel upgrades for long-haul company events</li>\r\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p><p><strong>Canonical is an equal opportunity employer</strong></p><p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Whatever your identity, we will give your application fair consideration.</a></p><p>#LI-Remote #Linux #Graphics #OpenSource #Canonical #Mir #Rust #C++</p><p> </p>",
       "pubDate": "2026-09-21T03:10:11+00:00"
-    }
-  },
-  {
-    "id": "jobicy:153758",
-    "platform": "jobicy",
-    "external_id": "153758",
-    "title": "Electrical Engineer",
-    "company": "Serve Robotics",
-    "description": "At Serve Robotics , we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles, Miami, Dallas, Atlanta and Chicago while doing commercial deliveries. We’re looking for talented individuals who will grow robotic deliveries from surprising novelty to efficient ubiquity. Who We Are We are tech industry veterans in software, hardware, and design who are pooling our skills to build the future we want to live in. We are solving real-world problems leveraging robotics, machine learning and computer vision, among other disciplines, with a mindful eye towards the end-to-end user experience. Our team is agile, diverse, and driven. We believe that the best way to solve complicated dynamic problems is collaboratively and respectfully. As an Electrical Engineer on the Power Train Electrical Engineering team, you will support the manufacturing, validation, and test infrastructure needs of Serve's electrical hardware, in Malaysia. This role entails: Hands-on engineering support for builds at our CM EMI Scanning activities for new robots, and testing retrofits on our existing fleet Overseeing/Guiding Development of test fixtures with our CM that improves product quality, test readiness, and production robustness. You will work closely with electrical engineering, systems, manufacturing, quality, suppliers, and test partners to troubleshoot issues, implement corrective actions, and help ensure reliable hardware performance from build through validation. Responsibilities Provide local, on-the-ground electrical engineering support for manufacturing builds, NPI activities, and sustaining production issues in Malaysia. Troubleshoot electrical failures observed during manufacturing, bring-up, and system integration, and drive root cause analysis to closure. Support yield improvement, failure analysis, rework guidance, and corrective actions related to PCBAs, harnesses, power systems, and electromechanical assemblies. Support EMI scan planning and execution, including test setup review, debug support, issue isolation, mitigation follow-up, and documentation of findings. Work with design and systems teams to identify likely emission sources and implement electrical mitigation actions such as grounding, shielding, filtering, layout, and cable-routing improvements. Provide technical guidance for IAC test fixtures, including fixture requirements, electrical interfaces, instrumentation, safety, and test coverage expectations. Support the development, debug, and improvement of IAC test fixtures used for board-level or system-level verification and manufacturing test. Partner with contract manufacturers, test partners, and local suppliers to resolve production and test issues, improve readiness, and support reliable execution. Assist in creating and maintaining test procedures, troubleshooting guides, engineering documentation, and validation records. Collaborate with remote teams across electrical engineering, systems, firmware, reliability, and manufacturing engineering to communicate issues clearly and drive timely resolution. Qualifications Bachelor's degree in Electrical Engineering or related engineering discipline, or equivalent practical experience. 4+ years of experience in electrical engineering, hardware validation, manufacturing support, or test engineering for electromechanical products. Hands-on experience troubleshooting electrical and electromechanical systems in lab, manufacturing, or field environments. Experience supporting contract manufacturers, suppliers, or production lines for electronic products. Familiarity with EMI or EMC pre-scan testing, lab setup, electrical debug, and compliance-oriented validation workflows. Experience working with PCBAs, power distribution, cables, harnesses, and embedded hardware systems. Ability to read and review schematics, wiring diagrams, test setups, and technical drawings. Hands-on experience debugging and testing electrical subsystems using laboratory equipment such as oscilloscopes, power supplies, digital multimeters, spectrum analyzers, electronic loads, or similar tools. Strong problem-solving skills and ability to independently drive technical work through ambiguity. Experience collaborating with cross-functional engineering, manufacturing, quality, and supplier teams. Preferred Experience, Qualifications, and Skills Experience in robotics, automation, consumer electronics, automotive, aerospace, medical device, or other complex electromechanical industries. Familiarity with design for manufacturing, design for test, and production test methodologies. Experience supporting EMC mitigation efforts through board-level, cable-level, or system-level design changes. Experience defining or developing electrical test fixtures, manufacturing test stations, or validation setups. Experience developing test automation tools using Python, LabVIEW, Bash, or similar scripting languages. Experience with PLM, ECO, or hardware change management workflows. Additional Information This role is based onsite in Penang, Malaysia. This role may require occasional travel to support suppliers, manufacturing partners, test activities, and engineering validation efforts. The position is expected to operate with a high degree of hands-on execution while collaborating closely with cross-functional teams to deliver reliable hardware support and test capability at scale.",
-    "url": "https://jobicy.com/jobs/153758-electrical-engineer-3",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "MYR",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": null,
-    "location": "Malaysia",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "machine-learning",
-      "bash"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-20T11:30:31+00:00",
-    "fetched_at": "2026-09-24T20:48:50.368Z",
-    "raw": {
-      "id": 153758,
-      "url": "https://jobicy.com/jobs/153758-electrical-engineer-3",
-      "jobSlug": "153758-electrical-engineer-3",
-      "jobTitle": "Electrical Engineer",
-      "companyName": "Serve Robotics",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/8ad805d9-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Malaysia",
-      "jobLevel": "Any",
-      "jobExcerpt": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles,&hellip;",
-      "jobDescription": "<p>At <a href=\"https://jobicy.com/company/serve-robotics\" target=\"_blank\" rel=\"noopener\">Serve Robotics</a>, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. </p>\n<p>The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles, Miami, Dallas, Atlanta and Chicago while doing commercial deliveries. We’re looking for talented individuals who will grow robotic deliveries from surprising novelty to efficient ubiquity.</p>\n\n<h3><strong>Who We Are</strong></h3>\n<p>We are tech industry veterans in software, hardware, and design who are pooling our skills to build the future we want to live in. We are solving real-world problems leveraging robotics, machine learning and computer vision, among other disciplines, with a mindful eye towards the end-to-end user experience. Our team is agile, diverse, and driven. We believe that the best way to solve complicated dynamic problems is collaboratively and respectfully.</p>\n\n<p>As an Electrical Engineer on the Power Train Electrical Engineering team, you will support the manufacturing, validation, and test infrastructure needs of Serve's electrical hardware, in Malaysia.</p>\n<p>This role entails:</p>\n<ul>\n<li>\n<p>Hands-on engineering support for builds at our CM</p>\n</li>\n<li>\n<p>EMI Scanning activities for new robots, and testing retrofits on our existing fleet</p>\n</li>\n<li>\n<p>Overseeing/Guiding Development of test fixtures with our CM that improves product quality, test readiness, and production robustness.</p>\n</li>\n</ul>\n<p>You will work closely with electrical engineering, systems, manufacturing, quality, suppliers, and test partners to troubleshoot issues, implement corrective actions, and help ensure reliable hardware performance from build through validation.</p>\n\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>\n<p>Provide local, on-the-ground electrical engineering support for manufacturing builds, NPI activities, and sustaining production issues in Malaysia.</p>\n</li>\n<li>\n<p>Troubleshoot electrical failures observed during manufacturing, bring-up, and system integration, and drive root cause analysis to closure.</p>\n</li>\n<li>\n<p>Support yield improvement, failure analysis, rework guidance, and corrective actions related to PCBAs, harnesses, power systems, and electromechanical assemblies.</p>\n</li>\n<li>\n<p>Support EMI scan planning and execution, including test setup review, debug support, issue isolation, mitigation follow-up, and documentation of findings.</p>\n</li>\n<li>\n<p>Work with design and systems teams to identify likely emission sources and implement electrical mitigation actions such as grounding, shielding, filtering, layout, and cable-routing improvements.</p>\n</li>\n<li>\n<p>Provide technical guidance for IAC test fixtures, including fixture requirements, electrical interfaces, instrumentation, safety, and test coverage expectations.</p>\n</li>\n<li>\n<p>Support the development, debug, and improvement of IAC test fixtures used for board-level or system-level verification and manufacturing test.</p>\n</li>\n<li>\n<p>Partner with contract manufacturers, test partners, and local suppliers to resolve production and test issues, improve readiness, and support reliable execution.</p>\n</li>\n<li>\n<p>Assist in creating and maintaining test procedures, troubleshooting guides, engineering documentation, and validation records.</p>\n</li>\n<li>\n<p>Collaborate with remote teams across electrical engineering, systems, firmware, reliability, and manufacturing engineering to communicate issues clearly and drive timely resolution.</p>\n</li>\n</ul>\n<p><strong>Qualifications</strong></p>\n<ul>\n<li>\n<p>Bachelor's degree in Electrical Engineering or related engineering discipline, or equivalent practical experience.</p>\n</li>\n<li>\n<p>4+ years of experience in electrical engineering, hardware validation, manufacturing support, or test engineering for electromechanical products.</p>\n</li>\n<li>\n<p>Hands-on experience troubleshooting electrical and electromechanical systems in lab, manufacturing, or field environments.</p>\n</li>\n<li>\n<p>Experience supporting contract manufacturers, suppliers, or production lines for electronic products.</p>\n</li>\n<li>\n<p>Familiarity with EMI or EMC pre-scan testing, lab setup, electrical debug, and compliance-oriented validation workflows.</p>\n</li>\n<li>\n<p>Experience working with PCBAs, power distribution, cables, harnesses, and embedded hardware systems.</p>\n</li>\n<li>\n<p>Ability to read and review schematics, wiring diagrams, test setups, and technical drawings.</p>\n</li>\n<li>\n<p>Hands-on experience debugging and testing electrical subsystems using laboratory equipment such as oscilloscopes, power supplies, digital multimeters, spectrum analyzers, electronic loads, or similar tools.</p>\n</li>\n<li>\n<p>Strong problem-solving skills and ability to independently drive technical work through ambiguity.</p>\n</li>\n<li>\n<p>Experience collaborating with cross-functional engineering, manufacturing, quality, and supplier teams.</p>\n</li>\n<li>\n<p>Preferred Experience, Qualifications, and Skills</p>\n</li>\n<li>\n<p>Experience in robotics, automation, consumer electronics, automotive, aerospace, medical device, or other complex electromechanical industries.</p>\n</li>\n<li>\n<p>Familiarity with design for manufacturing, design for test, and production test methodologies.</p>\n</li>\n<li>\n<p>Experience supporting EMC mitigation efforts through board-level, cable-level, or system-level design changes.</p>\n</li>\n<li>\n<p>Experience defining or developing electrical test fixtures, manufacturing test stations, or validation setups.</p>\n</li>\n<li>\n<p>Experience developing test automation tools using Python, LabVIEW, Bash, or similar scripting languages.</p>\n</li>\n<li>\n<p>Experience with PLM, ECO, or hardware change management workflows.</p>\n</li>\n<li>\n<p>Additional Information</p>\n</li>\n<li>\n<p>This role is based onsite in Penang, Malaysia.</p>\n</li>\n<li>\n<p>This role may require occasional travel to support suppliers, manufacturing partners, test activities, and engineering validation efforts.</p>\n</li>\n<li>\n<p>The position is expected to operate with a high degree of hands-on execution while collaborating closely with cross-functional teams to deliver reliable hardware support and test capability at scale.</p>\n</li>\n</ul>",
-      "pubDate": "2026-09-20T11:30:31+00:00",
-      "salaryMin": 144301,
-      "salaryMax": 225000,
-      "salaryCurrency": "MYR",
-      "salaryPeriod": "yearly"
     }
   },
   {
@@ -4440,7 +4442,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:27:49+00:00",
-    "fetched_at": "2026-09-24T20:48:50.369Z",
+    "fetched_at": "2026-09-25T01:59:04.730Z",
     "raw": {
       "id": 153752,
       "url": "https://jobicy.com/jobs/153752-senior-software-engineer-edge-security",
@@ -4493,7 +4495,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:23:35+00:00",
-    "fetched_at": "2026-09-24T20:48:50.370Z",
+    "fetched_at": "2026-09-25T01:59:04.731Z",
     "raw": {
       "id": 153740,
       "url": "https://jobicy.com/jobs/153740-ai-senior-engineer-vision",
@@ -4555,7 +4557,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:23:33+00:00",
-    "fetched_at": "2026-09-24T20:48:50.371Z",
+    "fetched_at": "2026-09-25T01:59:04.733Z",
     "raw": {
       "id": 153741,
       "url": "https://jobicy.com/jobs/153741-senior-software-enginner-full-stack-node-react",
@@ -4602,7 +4604,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:08:26+00:00",
-    "fetched_at": "2026-09-24T20:48:50.372Z",
+    "fetched_at": "2026-09-25T01:59:04.734Z",
     "raw": {
       "id": 153712,
       "url": "https://jobicy.com/jobs/153712-founding-forward-deployed-engineer",
@@ -4653,7 +4655,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:08:26+00:00",
-    "fetched_at": "2026-09-24T20:48:50.372Z",
+    "fetched_at": "2026-09-25T01:59:04.734Z",
     "raw": {
       "id": 153716,
       "url": "https://jobicy.com/jobs/153716-senior-frontend-engineer-react",
@@ -4703,7 +4705,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:06:25+00:00",
-    "fetched_at": "2026-09-24T20:48:50.374Z",
+    "fetched_at": "2026-09-25T01:59:04.736Z",
     "raw": {
       "id": 153707,
       "url": "https://jobicy.com/jobs/153707-senior-net-developer-saas-manager",
@@ -4750,7 +4752,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:06:23+00:00",
-    "fetched_at": "2026-09-24T20:48:50.376Z",
+    "fetched_at": "2026-09-25T01:59:04.738Z",
     "raw": {
       "id": 153701,
       "url": "https://jobicy.com/jobs/153701-full-stack-growth-engineer",
@@ -4773,59 +4775,6 @@
       "salaryMax": 230000,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:153692",
-    "platform": "jobicy",
-    "external_id": "153692",
-    "title": "Senior Software Engineer, Data & Platform Services",
-    "company": "LivePerson",
-    "description": "Location: Berlin, Germany Remote Status: Fully Remote (#LI-Remote) LivePerson (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safety tools to unlock the power of conversational AI for better business outcomes. Fast Company named LivePerson the #1 Most Innovative AI Company in the world. Position Overview We're looking for a Senior Software Engineer to join our globally distributed Data Platform team in Europe and play a key role in shaping the future of our data ecosystem. In this high-impact individual contributor role, you'll lead the modernization of our core data platform by migrating mission-critical data pipelines from legacy Hadoop, Spark, and Impala environments to a scalable, cloud-native Databricks architecture. You'll have the opportunity to drive technical decisions, influence platform architecture, and build the foundation that powers data across the business. If you're a hands-on engineer who enjoys solving complex technical challenges, building modern data platforms, and making a lasting impact at scale, we'd love to hear from you! You Will: Key Responsibilities &amp; Impact Lead the Modernization of Our Data Platform: Take ownership of migrating mission-critical data pipelines from legacy Hadoop, Spark, and Impala environments to a modern, scalable Databricks ecosystem. You'll re-architect ETL workflows, convert complex SQL, and seamlessly migrate integrations, connections, and secrets. Accelerate Development with AI-Powered Engineering: Leverage cutting-edge AI coding assistants such as Claude and Codex to dramatically accelerate migration efforts. Rather than manually rewriting legacy code, you'll guide AI tools to convert SQL, modernize ETL scripts, untangle dependencies, and generate clean, maintainable code—while applying your engineering expertise to validate architecture, performance, and quality. Build the Next Generation of Data Pipelines: Design, develop, and optimize scalable data workflows using Airflow and Databricks. You'll create resilient, high-performance pipelines that are reliable, cost-efficient, and built to support growing business needs. Champion Data Quality: Ensure the accuracy and consistency of migrated data by implementing comprehensive validation and testing strategies. You'll play a critical role in maintaining data integrity throughout the migration journey. Improve Platform Reliability: Help drive operational excellence by enhancing observability, monitoring, and incident response practices. Contribute to service reliability through SLOs/SLAs and participate in a scalable on-call rotation to support production systems. Deliver Meaningful Business Impact: Apply your understanding of contact center analytics to build platforms that power customer conversation insights, reporting, and business intelligence. You'll embrace a data-driven mindset, designing systems that are measurable, observable, and continuously improving. You Have: Required Skills &amp; Qualifications Extensive Software Engineering Experience: 6–8 years of experience building and supporting distributed systems and large-scale data platforms, with a proven ability to own complex technical initiatives from design through production. Proven Platform Modernization Experience: Hands-on experience leading or playing a key role in migrating enterprise data platforms from legacy technologies—such as Hadoop, Spark, Hive, or Impala—to modern cloud-based solutions like Databricks. Deep Databricks Expertise: Strong knowledge of the Databricks ecosystem, including Jobs, Delta Lake, cluster configuration and optimization, and migrating complex SQL workloads from Impala or Hive to Spark SQL. Data Pipeline &amp; Orchestration Skills: Advanced Python programming skills for ETL development and extensive experience designing, building, debugging, and optimizing production data pipelines and orchestration workflows using Airflow and Databricks. Cloud &amp; Infrastructure Knowledge: Experience working with cloud-native data platforms, particularly Google Cloud Platform (GCP) and Google Cloud Storage (GCS), with an understanding of containerized, Kubernetes-based (GKE) microservice architectures. Modern Data Platform Expertise: Strong understanding of distributed data processing architectures and the trade-offs between real-time and batch data processing. Hands-on experience with legacy big data technologies, including Hadoop and MapReduce, with the ability to modernize and migrate complex data ecosystems. Knowledge of data integration patterns, including APIs, connectors, webhooks, and event-driven architectures. Cloud &amp; Platform Engineering: Experience building, deploying, and managing cloud-native data platforms, with Google Cloud Platform (GCP) experience preferred. Familiarity with containerized environments and running data workloads on Kubernetes. A strong focus on building highly reliable, scalable, and observable platforms, with experience implementing monitoring, validation, and data quality controls to ensure successful migrations. AI-Assisted Software Development: Experience using AI-powered development tools such as Claude, Codex, or similar coding assistants to accelerate software development, code modernization, and platform migrations. Skilled at effectively prompting, reviewing, and validating AI-generated code while ensuring architectural integrity, maintainability, and production readiness. Collaboration &amp; Communication: Excellent communication and collaboration skills, with experience partnering across engineering teams in multiple time zones. Comfortable working in a globally distributed environment with colleagues across the US, Europe, Israel, and India. Nice to Have: Experience working with conversational AI , contact center platforms , or customer engagement technologies . Proficiency in Java or Scala , particularly when analyzing, maintaining, or modernizing legacy codebases during platform migrations. Experience designing, implementing, and maintaining CI/CD pipelines to support automated testing, deployment, and reliable software delivery. Our Benefits &amp; Perks We are committed to supporting the complete well-being, health, financial security, family, and professional growth of our permanent employees. Financial Security &amp; Growth Additional Pension scheme : deferred pension scheme (LivePerson contributes 20%), ESPP and annual bonus depending on achievements Equipment : Internet and Mobile reimbursement Development: Access to internal professional development resources. ‍‍‍ Time Away &amp; Family Support Flexible Paid Time Off (PTO): Personal time off 33 days , vacation (28 days) and care days (5) Paid Public Holidays. Volunteering Days: Use them to make a difference in your community. Whether it's a cleanup, supporting a local initiative or holding an “Ehrenamt”, just let us know! We're here to help you create a meaningful impact. Workplace Flexibility Remote-First Model: Be flexible, work flexibly and from anywhere - no defined working hours or boundaries with offices in Mannheim and Berlin Monthly Connection: Join our monthly connection pizza day in the office! Why You’ll Love Working Here As leaders in enterprise customer conversations, we celebrate diversity, empowering our team to forge impactful conversations globally. LivePerson is a place where uniqueness is embraced, growth is constant, and everyone is empowered to create their own success. We're very proud to have earned recognition from Fast Company, Newsweek, and BuiltIn for being a top innovative, beloved, and remote-friendly workplace, and recognized by Gartner as a leader in the Conversational AI space. Belonging at LivePerson: Equal Opportunity Employer We are committed to fostering an inclusive workplace and are proud to be an Equal Opportunity Employer (EOE) . We believe that diverse perspectives drive innovation. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristics protected by US Federal, State, or Local law. Accessibility Commitment LivePerson is dedicated to the accessibility needs of our applicants and employees. We provide reasonable accommodations to job applicants with disabilities. Applicants who require a reasonable accommodation for any part of the application or hiring process should inform their recruiting contact upon initial connection. Important Candidate Notice The talent acquisition team at LivePerson has recently been notified of a phishing scam targeting candidates applying for our open roles. Scammers have been posing as hiring managers and recruiters in an effort to access candidates' personal and financial information. The phishing scam is not isolated to only LivePerson and has been documented in news articles and media outlets. Please note that any communication from our hiring teams at LivePerson regarding a job opportunity will only be made by a LivePerson employee with an @liveperson.com email address. LivePerson does not ask for personal or financial information as part of our interview process, including but not limited to your social security number, online account passwords, credit card numbers, passport information, and other related banking information. If you have any questions and or concerns, please feel free to contact recruiting-lp@liveperson.com",
-    "url": "https://jobicy.com/jobs/153692-senior-software-engineer-data-platform-services",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Germany",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "java",
-      "scala",
-      "gcp",
-      "kubernetes",
-      "llm",
-      "spark",
-      "airflow",
-      "databricks"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-09-20T11:04:48+00:00",
-    "fetched_at": "2026-09-24T20:48:50.377Z",
-    "raw": {
-      "id": 153692,
-      "url": "https://jobicy.com/jobs/153692-senior-software-engineer-data-platform-services",
-      "jobSlug": "153692-senior-software-engineer-data-platform-services",
-      "jobTitle": "Senior Software Engineer, Data & Platform Services",
-      "companyName": "LivePerson",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/49f9583c-221.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Germany",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Location: Berlin, Germany Remote Status: Fully Remote (#LI-Remote) LivePerson (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safety tools&hellip;",
-      "jobDescription": "<p><strong>Location:</strong> Berlin, Germany <strong>Remote Status:</strong> Fully Remote (#LI-Remote)</p>\n<p><a href=\"https://jobicy.com/company/liveperson\" target=\"_blank\" rel=\"noopener\">LivePerson</a> (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safety tools to unlock the power of conversational AI for better business outcomes. Fast Company named LivePerson the #1 Most Innovative AI Company in the world.</p>\n<h3><strong>Position Overview</strong></h3>\n<p>We're looking for a <strong>Senior Software Engineer</strong> to join our globally distributed <strong>Data Platform</strong> team in Europe and play a key role in shaping the future of our data ecosystem.</p>\n<p>In this high-impact individual contributor role, you'll lead the modernization of our core data platform by migrating mission-critical data pipelines from legacy Hadoop, Spark, and Impala environments to a scalable, cloud-native Databricks architecture. You'll have the opportunity to drive technical decisions, influence platform architecture, and build the foundation that powers data across the business.</p>\n<p>If you're a hands-on engineer who enjoys solving complex technical challenges, building modern data platforms, and making a lasting impact at scale, we'd love to hear from you!</p>\n<h3><strong>You Will: Key Responsibilities &amp; Impact</strong></h3>\n<ul>\n<li>\n<p><strong>Lead the Modernization of Our Data Platform:</strong> Take ownership of migrating mission-critical data pipelines from legacy Hadoop, Spark, and Impala environments to a modern, scalable Databricks ecosystem. You'll re-architect ETL workflows, convert complex SQL, and seamlessly migrate integrations, connections, and secrets.</p>\n</li>\n<li>\n<p><strong>Accelerate Development with AI-Powered Engineering:</strong> Leverage cutting-edge AI coding assistants such as Claude and Codex to dramatically accelerate migration efforts. Rather than manually rewriting legacy code, you'll guide AI tools to convert SQL, modernize ETL scripts, untangle dependencies, and generate clean, maintainable code—while applying your engineering expertise to validate architecture, performance, and quality.</p>\n</li>\n<li>\n<p><strong>Build the Next Generation of Data Pipelines:</strong> Design, develop, and optimize scalable data workflows using Airflow and Databricks. You'll create resilient, high-performance pipelines that are reliable, cost-efficient, and built to support growing business needs.</p>\n</li>\n<li>\n<p><strong>Champion Data Quality:</strong> Ensure the accuracy and consistency of migrated data by implementing comprehensive validation and testing strategies. You'll play a critical role in maintaining data integrity throughout the migration journey.</p>\n</li>\n<li>\n<p><strong>Improve Platform Reliability:</strong> Help drive operational excellence by enhancing observability, monitoring, and incident response practices. Contribute to service reliability through SLOs/SLAs and participate in a scalable on-call rotation to support production systems.</p>\n</li>\n<li>\n<p><strong>Deliver Meaningful Business Impact:</strong> Apply your understanding of contact center analytics to build platforms that power customer conversation insights, reporting, and business intelligence. You'll embrace a data-driven mindset, designing systems that are measurable, observable, and continuously improving.</p>\n</li>\n</ul>\n<h3><strong>You Have: Required Skills &amp; Qualifications</strong></h3>\n<ul>\n<li>\n<p><strong>Extensive Software Engineering Experience:</strong> 6–8 years of experience building and supporting distributed systems and large-scale data platforms, with a proven ability to own complex technical initiatives from design through production.</p>\n</li>\n<li>\n<p><strong>Proven Platform Modernization Experience:</strong> Hands-on experience leading or playing a key role in migrating enterprise data platforms from legacy technologies—such as Hadoop, Spark, Hive, or Impala—to modern cloud-based solutions like Databricks.</p>\n</li>\n<li>\n<p><strong>Deep Databricks Expertise:</strong> Strong knowledge of the Databricks ecosystem, including Jobs, Delta Lake, cluster configuration and optimization, and migrating complex SQL workloads from Impala or Hive to Spark SQL.</p>\n</li>\n<li>\n<p><strong>Data Pipeline &amp; Orchestration Skills:</strong> Advanced Python programming skills for ETL development and extensive experience designing, building, debugging, and optimizing production data pipelines and orchestration workflows using Airflow and Databricks.</p>\n</li>\n<li>\n<p><strong>Cloud &amp; Infrastructure Knowledge:</strong> Experience working with cloud-native data platforms, particularly Google Cloud Platform (GCP) and Google Cloud Storage (GCS), with an understanding of containerized, Kubernetes-based (GKE) microservice architectures.</p>\n</li>\n<li><strong>Modern Data Platform Expertise:</strong>\n<ul>\n<li>\n<p>Strong understanding of distributed data processing architectures and the trade-offs between real-time and batch data processing.</p>\n</li>\n<li>\n<p>Hands-on experience with legacy big data technologies, including Hadoop and MapReduce, with the ability to modernize and migrate complex data ecosystems.</p>\n</li>\n<li>\n<p>Knowledge of data integration patterns, including APIs, connectors, webhooks, and event-driven architectures.</p>\n</li>\n</ul>\n</li>\n<li><strong>Cloud &amp; Platform Engineering:</strong>\n<ul>\n<li>\n<p>Experience building, deploying, and managing cloud-native data platforms, with Google Cloud Platform (GCP) experience preferred.</p>\n</li>\n<li>\n<p>Familiarity with containerized environments and running data workloads on Kubernetes.</p>\n</li>\n<li>\n<p>A strong focus on building highly reliable, scalable, and observable platforms, with experience implementing monitoring, validation, and data quality controls to ensure successful migrations.</p>\n</li>\n</ul>\n</li>\n<li><strong>AI-Assisted Software Development:</strong>\n<ul>\n<li>\n<p>Experience using AI-powered development tools such as Claude, Codex, or similar coding assistants to accelerate software development, code modernization, and platform migrations.</p>\n</li>\n<li>\n<p>Skilled at effectively prompting, reviewing, and validating AI-generated code while ensuring architectural integrity, maintainability, and production readiness.</p>\n</li>\n</ul>\n</li>\n<li><strong>Collaboration &amp; Communication:</strong>\n<ul>\n<li>\n<p>Excellent communication and collaboration skills, with experience partnering across engineering teams in multiple time zones.</p>\n</li>\n<li>\n<p>Comfortable working in a globally distributed environment with colleagues across the US, Europe, Israel, and India.</p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>Nice to Have:</strong></p>\n<ul>\n<li>\n<p>Experience working with <strong>conversational AI</strong>, <strong>contact center platforms</strong>, or <strong>customer engagement technologies</strong>.</p>\n</li>\n<li>\n<p>Proficiency in <strong>Java</strong> or <strong>Scala</strong>, particularly when analyzing, maintaining, or modernizing legacy codebases during platform migrations.</p>\n</li>\n<li>\n<p>Experience designing, implementing, and maintaining <strong>CI/CD pipelines</strong> to support automated testing, deployment, and reliable software delivery.</p>\n</li>\n</ul>\n<h3><strong>Our Benefits &amp; Perks</strong></h3>\n<p>We are committed to supporting the complete well-being, health, financial security, family, and professional growth of our permanent employees.</p>\n<h3><strong> Financial Security &amp; Growth</strong></h3>\n<ul>\n<li><strong>Additional Pension scheme</strong>: deferred pension scheme (LivePerson contributes 20%), ESPP and annual bonus depending on achievements</li>\n<li><strong>Equipment</strong>: Internet and Mobile reimbursement</li>\n<li><strong>Development:</strong> Access to internal professional development resources.</li>\n</ul>\n<h3><strong>‍‍‍ Time Away &amp; Family Support</strong></h3>\n<ul>\n<li><strong>Flexible Paid Time Off (PTO):</strong> Personal time off 33 days , vacation (28 days) and care days (5)</li>\n<li><strong>Paid Public Holidays.</strong></li>\n</ul>\n<p><strong>Volunteering Days: Use them to make a difference in your community. Whether it's a cleanup, supporting a local initiative or holding an “Ehrenamt”, just let us know! We're here to help you create a meaningful impact.</strong></p>\n<h3><strong> Workplace Flexibility</strong></h3>\n<ul>\n<li><strong>Remote-First Model:</strong> Be flexible, work flexibly and from anywhere - no defined working hours or boundaries with offices in Mannheim and Berlin</li>\n<li><strong>Monthly Connection:</strong> Join our monthly connection pizza day in the office!</li>\n</ul>\n<h3><strong>Why You’ll Love Working Here</strong></h3>\n<p>As leaders in enterprise customer conversations, we celebrate diversity, empowering our team to forge impactful conversations globally. LivePerson is a place where uniqueness is embraced, growth is constant, and everyone is empowered to create their own success. We're very proud to have earned recognition from Fast Company, Newsweek, and BuiltIn for being a top innovative, beloved, and remote-friendly workplace, and recognized by Gartner as a leader in the Conversational AI space.</p>\n<h3><strong>Belonging at LivePerson: Equal Opportunity Employer</strong></h3>\n<p>We are committed to fostering an inclusive workplace and are proud to be an <strong>Equal Opportunity Employer (EOE)</strong>. We believe that diverse perspectives drive innovation. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristics protected by US Federal, State, or Local law.</p>\n<h3><strong>Accessibility Commitment</strong></h3>\n<p>LivePerson is dedicated to the accessibility needs of our applicants and employees. We provide <strong>reasonable accommodations</strong> to job applicants with disabilities. Applicants who require a reasonable accommodation for any part of the application or hiring process should inform their recruiting contact upon initial connection.</p>\n<h3><strong>Important Candidate Notice</strong></h3>\n<p>The talent acquisition team at LivePerson has recently been notified of a phishing scam targeting candidates applying for our open roles. Scammers have been posing as hiring managers and recruiters in an effort to access candidates' personal and financial information. The phishing scam is not isolated to only LivePerson and has been documented in news articles and media outlets.</p>\n<p>Please note that any communication from our hiring teams at LivePerson regarding a job opportunity will only be made by a LivePerson employee with an <strong>@liveperson.com</strong> email address. LivePerson does not ask for personal or financial information as part of our interview process, including but not limited to your social security number, online account passwords, credit card numbers, passport information, and other related banking information. If you have any questions and or concerns, please feel free to contact <strong>recruiting-lp@liveperson.com</strong></p>",
-      "pubDate": "2026-09-20T11:04:48+00:00"
     }
   },
   {
@@ -4856,7 +4805,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T11:04:48+00:00",
-    "fetched_at": "2026-09-24T20:48:50.379Z",
+    "fetched_at": "2026-09-25T01:59:04.739Z",
     "raw": {
       "id": 153697,
       "url": "https://jobicy.com/jobs/153697-staff-software-engineer-6",
@@ -4908,7 +4857,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T05:00:12+00:00",
-    "fetched_at": "2026-09-24T20:48:50.380Z",
+    "fetched_at": "2026-09-25T01:59:04.740Z",
     "raw": {
       "id": 151260,
       "url": "https://jobicy.com/jobs/151260-generative-media-engineer-ai-social-us",
@@ -4960,7 +4909,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T05:00:09+00:00",
-    "fetched_at": "2026-09-24T20:48:50.381Z",
+    "fetched_at": "2026-09-25T01:59:04.741Z",
     "raw": {
       "id": 151258,
       "url": "https://jobicy.com/jobs/151258-generative-media-engineer-ai-social-canada",
@@ -5020,7 +4969,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T04:55:14+00:00",
-    "fetched_at": "2026-09-24T20:48:50.382Z",
+    "fetched_at": "2026-09-25T01:59:04.742Z",
     "raw": {
       "id": 151239,
       "url": "https://jobicy.com/jobs/151239-staff-backend-engineer-hierarchy",
@@ -5074,7 +5023,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-09-20T04:55:05+00:00",
-    "fetched_at": "2026-09-24T20:48:50.383Z",
+    "fetched_at": "2026-09-25T01:59:04.744Z",
     "raw": {
       "id": 151229,
       "url": "https://jobicy.com/jobs/151229-principal-engineer-tl-m-software-development-paas",
@@ -5097,6 +5046,61 @@
       "salaryMax": 292963,
       "salaryCurrency": "USD",
       "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:151251",
+    "platform": "jobicy",
+    "external_id": "151251",
+    "title": "Engineering Manager, Maps & Search - US",
+    "company": "Luxury Presence",
+    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business. The Opportunity We don't just use AI. We build with it, ship with it, and think with it. With a generous budget for tokens, our engineers use AI agents to write, review, and ship production code every day. We are building toward a world where humans design systems and AI builds them, and we are already far along that path. We are hiring a hands-on Engineering Manager to lead Maps &amp; Search . This team owns the home search experience across web and mobile. It's one of the most visible, highest-traffic surfaces–the search service alone handles a billion requests every month . This is a role for a manager who leads from the front: someone who still lives in their terminal with AI, has strong opinions about how AI changes the SDLC, and wants to amplify what a small, senior, AI-augmented team can accomplish. You will set technical direction, stay close to the code, and help the team produce consistent impact. What You'll Do Lead and grow the Maps &amp; Search team. Own hiring, onboarding, coaching, 1:1s, direct feedback, and career development. Treat management as a craft and build a healthy, high-performing team that ships impactful changes. Stay hands-on. Contribute directly — code and design reviews, architecture, thorny debugging— and stay technical enough to make smart calls on trade-offs. Own and scale a high-throughput search platform. Drive the architecture, relevance, latency, and reliability of a real estate search system handling ~1B monthly requests and hundreds of millions of listings. Deliver a world-class home search experience. Own the core home discovery experience across web and mobile — improving engagement, lead conversion, and agent workflows while keeping interactions fast and responsive at scale. Push forward AI-powered discovery. Partner across teams to bring LLMs and intelligent ranking into search and user workflows, improving how buyers and agents discover, filter, and engage with listings. Shape the roadmap with product and design. Define what we build and why , not just focusing on the how . Translate user needs and business goals into a clear technical plan, and own delivery end to end — planning, quality, reliability, and incident response. What We're Looking For Attributes You lead from the front. You're still close to the code and technically respected, and you treat management as a craft — growing engineers, giving clear feedback, and building a team that ships. You already build with AI daily. You use AI as a core part of your workflow, not as a novelty — and you expect your team to as well. You have strong opinions, loosely held , about how AI changes software architecture, team structure, and engineering culture. You think in systems. You connect technical decisions to customer outcomes and business value. You communicate clearly and directly. You can explain complex tradeoffs to product, design, and executive stakeholders. You're energized by ambiguity and speed. You thrive in a fast-growing company where the roadmap evolves and ownership is real. You like to have fun at work. We take our craft seriously, but we don't take ourselves too seriously. We celebrate wins, crack jokes, and genuinely enjoy building together. Skills and Experience 8+ years of professional software engineering experience with meaningful senior or staff-level time, plus 2+ years managing engineering teams. Search experience — you've worked on search, relevance, ranking, or retrieval systems. It doesn't have to be OpenSearch or Elasticsearch specifically, but you understand how search works and how to make it better. Deep expertise in TypeScript, Node.js, and React, with the full-stack fluency to reason about the whole request path from UI to data. Experience designing and operating scalable microservice architectures in cloud-native environments (AWS preferred). Strong understanding of GraphQL, event-driven systems (Kafka), and databases (PostgreSQL, OpenSearch). A proven track record operating high-traffic, low-latency production systems at scale — SLOs, incident response, and capacity planning are second nature. Experience leading high-impact initiatives from concept through production in a SaaS environment. Tech Stack Frontend: React, Tailwind, Apollo Backend: Node.js / TypeScript microservices Data: PostgreSQL, OpenSearch Infrastructure: AWS, Kubernetes, Lambda Messaging: Kafka, Redis Compensation Additional Information Join us in shaping the future of real estate The real estate industry is in the midst of a seismic shift, and the future belongs to those who break new ground. As one of the fastest-growing companies in the proptech and marketing sectors, Luxury Presence challenges the status quo of what technology can do for real estate agents, leaders, and brokerages. We're a team of agile and tenacious innovators working collaboratively to drive the industry forward. Together, we build game-changing products that empower modern real estate entrepreneurs to dominate their markets. From award-winning web design to agile SEO solutions to cutting-edge AI tools, we deliver tech that anticipates market shifts and keeps our clients ahead of their competition. Founded in 2016 by Stanford Business School alum Malte Kramer, Luxury Presence has grown to a global team ranked on the Inc. 5000 fastest-growing companies list three years in a row. We're backed by world-class investors, including Bessemer Venture Partners, NextEquity Partners, Toba Capital, and Switch Ventures, and have raised $89 million to date. More than 18,000 real estate businesses rely on our platform, including 30% of the Wall Street Journal RealTrends top agents and teams. Additionally, many of the industry's most powerful brokerages rely on Luxury Presence as a trusted business partner. Every year since 2020, Luxury Presence has ranked on BuiltIn's Best Place to Work lists. HousingWire named our founder and CEO a 2024 Tech Trendsetter, we've received several Tech100 Awards, and we just scored an Inman Innovation Award for Best AI-Powered Platform. Luxury Presence is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.",
+    "url": "https://jobicy.com/jobs/151251-engineering-manager-maps-search-us",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "typescript",
+      "react",
+      "nodejs",
+      "postgresql",
+      "redis",
+      "elasticsearch",
+      "aws",
+      "kubernetes",
+      "kafka",
+      "graphql"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-09-20T04:50:28+00:00",
+    "fetched_at": "2026-09-25T01:59:04.745Z",
+    "raw": {
+      "id": 151251,
+      "url": "https://jobicy.com/jobs/151251-engineering-manager-maps-search-us",
+      "jobSlug": "151251-engineering-manager-maps-search-us",
+      "jobTitle": "Engineering Manager, Maps & Search - US",
+      "companyName": "Luxury Presence",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Director",
+      "jobExcerpt": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+      "jobDescription": "<p><strong><a href=\"https://jobicy.com/company/luxury-presence\" target=\"_blank\" rel=\"noopener\">Luxury Presence</a> </strong>is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.</p>\n\n<h3><strong>The Opportunity</strong></h3>\n<p>We don't just use AI. We build with it, ship with it, and think with it. With a generous budget for tokens, our engineers use AI agents to write, review, and ship production code every day. We are building toward a world where humans design systems and AI builds them, and we are already far along that path.</p>\n<p>We are hiring a hands-on <strong>Engineering Manager</strong> to lead <strong>Maps &amp; Search</strong>. This team owns the home search experience across web and mobile. It's one of the most visible, highest-traffic surfaces–the search service alone handles <strong>a billion requests every month</strong>.</p>\n<p>This is a role for a manager who leads from the front: someone who still lives in their terminal with AI, has strong opinions about how AI changes the SDLC, and wants to amplify what a small, senior, AI-augmented team can accomplish. You will set technical direction, stay close to the code, and help the team produce consistent impact.</p>\n<h3><strong>What You'll Do</strong></h3>\n<p><strong>Lead and grow the Maps &amp; Search team.</strong> Own hiring, onboarding, coaching, 1:1s, direct feedback, and career development. Treat management as a craft and build a healthy, high-performing team that ships impactful changes.</p>\n<p><strong>Stay hands-on.</strong> Contribute directly — code and design reviews, architecture, thorny debugging— and stay technical enough to make smart calls on trade-offs.</p>\n<p><strong>Own and scale a high-throughput search platform.</strong> Drive the architecture, relevance, latency, and reliability of a real estate search system handling ~1B monthly requests and hundreds of millions of listings.</p>\n<p><strong>Deliver a world-class home search experience.</strong> Own the core home discovery experience across web and mobile — improving engagement, lead conversion, and agent workflows while keeping interactions fast and responsive at scale.</p>\n<p><strong>Push forward AI-powered discovery.</strong> Partner across teams to bring LLMs and intelligent ranking into search and user workflows, improving how buyers and agents discover, filter, and engage with listings.</p>\n<p><strong>Shape the roadmap with product and design.</strong> Define <em>what</em> we build and <em>why</em>, not just focusing on the <em>how</em>. Translate user needs and business goals into a clear technical plan, and own delivery end to end — planning, quality, reliability, and incident response.</p>\n<h3> </h3>\n<h3><strong>What We're Looking For</strong></h3>\n<h3><strong>Attributes</strong></h3>\n<ul>\n<li>\n<p><strong>You lead from the front.</strong> You're still close to the code and technically respected, and you treat management as a craft — growing engineers, giving clear feedback, and building a team that ships.</p>\n</li>\n<li>\n<p><strong>You already build with AI daily.</strong> You use AI as a core part of your workflow, not as a novelty — and you expect your team to as well.</p>\n</li>\n<li>\n<p><strong>You have strong opinions, loosely held</strong>, about how AI changes software architecture, team structure, and engineering culture.</p>\n</li>\n<li>\n<p><strong>You think in systems.</strong> You connect technical decisions to customer outcomes and business value.</p>\n</li>\n<li>\n<p><strong>You communicate clearly and directly.</strong> You can explain complex tradeoffs to product, design, and executive stakeholders.</p>\n</li>\n<li>\n<p><strong>You're energized by ambiguity and speed.</strong> You thrive in a fast-growing company where the roadmap evolves and ownership is real.</p>\n</li>\n<li>\n<p><strong>You like to have fun at work.</strong> We take our craft seriously, but we don't take ourselves too seriously. We celebrate wins, crack jokes, and genuinely enjoy building together.</p>\n</li>\n</ul>\n<h3><strong>Skills and Experience</strong></h3>\n<ul>\n<li>\n<p>8+ years of professional software engineering experience with meaningful senior or staff-level time, plus 2+ years managing engineering teams.</p>\n</li>\n<li>\n<p><strong>Search experience</strong> — you've worked on search, relevance, ranking, or retrieval systems. It doesn't have to be OpenSearch or Elasticsearch specifically, but you understand how search works and how to make it better.</p>\n</li>\n<li>\n<p>Deep expertise in TypeScript, Node.js, and React, with the full-stack fluency to reason about the whole request path from UI to data.</p>\n</li>\n<li>\n<p>Experience designing and operating scalable microservice architectures in cloud-native environments (AWS preferred).</p>\n</li>\n<li>\n<p>Strong understanding of GraphQL, event-driven systems (Kafka), and databases (PostgreSQL, OpenSearch).</p>\n</li>\n<li>\n<p>A proven track record operating high-traffic, low-latency production systems at scale — SLOs, incident response, and capacity planning are second nature.</p>\n</li>\n<li>\n<p>Experience leading high-impact initiatives from concept through production in a SaaS environment.</p>\n</li>\n</ul>\n<h3><strong>Tech Stack</strong></h3>\n<ul>\n<li>\n<p><strong>Frontend:</strong> React, Tailwind, Apollo</p>\n</li>\n<li>\n<p><strong>Backend:</strong> Node.js / TypeScript microservices</p>\n</li>\n<li>\n<p><strong>Data:</strong> PostgreSQL, OpenSearch</p>\n</li>\n<li>\n<p><strong>Infrastructure:</strong> AWS, Kubernetes, Lambda</p>\n</li>\n<li>\n<p><strong>Messaging:</strong> Kafka, Redis</p>\n</li>\n</ul>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>\n<p><strong>Join us in shaping the future of real estate</strong></p>\n<p>The real estate industry is in the midst of a seismic shift, and the future belongs to those who break new ground. As one of the fastest-growing companies in the proptech and marketing sectors, Luxury Presence challenges the status quo of what technology can do for real estate agents, leaders, and brokerages.</p>\n<p>We're a team of agile and tenacious innovators working collaboratively to drive the industry forward. Together, we build game-changing products that empower modern real estate entrepreneurs to dominate their markets. From award-winning web design to agile SEO solutions to cutting-edge AI tools, we deliver tech that anticipates market shifts and keeps our clients ahead of their competition.</p>\n<p>Founded in 2016 by Stanford Business School alum Malte Kramer, Luxury Presence has grown to a global team ranked on the Inc. 5000 fastest-growing companies list three years in a row. We're backed by world-class investors, including Bessemer Venture Partners, NextEquity Partners, Toba Capital, and Switch Ventures, and have raised $89 million to date.</p>\n<p>More than 18,000 real estate businesses rely on our platform, including 30% of the Wall Street Journal RealTrends top agents and teams. Additionally, many of the industry's most powerful brokerages rely on Luxury Presence as a trusted business partner.</p>\n<p>Every year since 2020, Luxury Presence has ranked on BuiltIn's Best Place to Work lists. HousingWire named our founder and CEO a 2024 Tech Trendsetter, we've received several Tech100 Awards, and we just scored an Inman Innovation Award for Best AI-Powered Platform.</p>\n<p><strong>Luxury Presence is an Equal Opportunity Employer.</strong> All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.</p>",
+      "pubDate": "2026-09-20T04:50:28+00:00"
     }
   }
 ]
