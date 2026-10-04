@@ -1,5 +1,51 @@
 [
   {
+    "id": "wwr:hex-technologies-cloud-security-engineer",
+    "platform": "wwr",
+    "external_id": "hex-technologies-cloud-security-engineer",
+    "title": "Cloud Security Engineer",
+    "company": "Hex Technologies",
+    "description": "Headquarters: SF, NYC, or Remote (US) About the role We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in cloud security practices, and collaborating closely with our infrastructure and engineering teams to secure our cloud-native applications. About the role: Design, implement, and manage security solutions and controls for AWS environments and Kubernetes clusters, including appropriate isolation/sandboxing methods for Hex’s RCE-as-a-Service platform Build, deploy, and maintain infrastructure-as-code using Terraform, ensuring robust security standards are enforced. Conduct security assessments, threat modeling, and audits on AWS cloud infrastructure and Kubernetes deployments. Collaborate with development and operations teams to embed security best practices into CI/CD pipelines. Monitor and respond to cloud security incidents, identifying root causes and recommending remediation actions. Provide expertise in compliance requirements related to cloud security (e.g., SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS). Mentor engineers and advocate for cloud security across the organization. About you:&nbsp; 5+ years of experience in cloud security engineering, with extensive expertise in AWS. Demonstrated proficiency with Kubernetes security including cluster hardening, role-based access control (RBAC), network policies, and container vulnerability management. Expert-level knowledge and hands-on experience with Terraform. Familiarity with AWS security services (e.g., IAM, GuardDuty, Security Hub, CloudTrail, WAF). Familiarity with CNAPP solutions such as Wiz Familiarity with SIEM solutions such as Panther Solid understanding of secure software development lifecycle practices, CI/CD security, and DevSecOps methodologies. Relevant certifications such as AWS Certified Security – Specialty, Certified Kubernetes Security Specialist (CKS), and Terraform Associate certification are highly desirable. Bonus points for security certifications from SANS or OffSec. Excellent problem-solving, communication, and leadership skills. Our Engineering team We’re a group of engineers who are forging new ground together and love partnering with Security on our journey to pull ahead of our competition. You can read about how we think through problems as well as how we learn from mistakes on our blog here: How we took down production… Beyond Linear Notebooks A pragmatic approach to live collaboration Our stack Our product is a web-based notebook and app authoring platform. Our frontend is built with Typescript and React, using a combination of Apollo GraphQL and Redux for managing application state and data. On the backend, we also use Typescript to power an Express/Apollo GraphQL server that interacts with Postgres, Redis, and Kubernetes to manage our database and Python kernels. Our backend is tightly integrated with our infrastructure and CI/CD, where we use a combination of Terraform, Helm, and AWS to deploy and maintain our stack. In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary &amp; equity, comprehensive health benefits, and flexible paid time off. The salary range for this role is: $198,750 - $295,000 The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness &amp; parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process. By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy:&nbsp; https://learn.hex.tech/docs/trust/privacy-policy . Hex Technologies uses AI-assisted tools as part of our application review process, including for resume screening and fraud detection. These tools help our team evaluate applications and verify applicant information. All AI-generated recommendations are reviewed by a member of our recruiting team before any hiring decision is made. No application is automatically rejected based solely on an AI tool's output. To apply: https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript",
+      "python",
+      "react",
+      "express",
+      "postgresql",
+      "redis",
+      "aws",
+      "kubernetes",
+      "terraform",
+      "helm",
+      "graphql"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-09-19T07:31:10.000Z",
+    "fetched_at": "2026-10-04T16:00:22.582Z",
+    "raw": {
+      "title": "Hex Technologies: Cloud Security Engineer",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> SF, NYC, or Remote (US)\n</p>\n\n<h3>About the role</h3>\n<p>We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in cloud security practices, and collaborating closely with our infrastructure and engineering teams to secure our cloud-native applications.</p>\n<hr>\n<h3>About the role:</h3>\n<ul>\n<li>Design, implement, and manage security solutions and controls for AWS environments and Kubernetes clusters, including appropriate isolation/sandboxing methods for Hex’s RCE-as-a-Service platform</li>\n<li>Build, deploy, and maintain infrastructure-as-code using Terraform, ensuring robust security standards are enforced.</li>\n<li>Conduct security assessments, threat modeling, and audits on AWS cloud infrastructure and Kubernetes deployments.</li>\n<li>Collaborate with development and operations teams to embed security best practices into CI/CD pipelines.</li>\n<li>Monitor and respond to cloud security incidents, identifying root causes and recommending remediation actions.</li>\n<li>Provide expertise in compliance requirements related to cloud security (e.g., SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS).</li>\n<li>Mentor engineers and advocate for cloud security across the organization.</li>\n</ul>\n<h3>About you:&nbsp;</h3>\n<ul>\n<li>5+ years of experience in cloud security engineering, with extensive expertise in AWS.</li>\n<li>Demonstrated proficiency with Kubernetes security including cluster hardening, role-based access control (RBAC), network policies, and container vulnerability management.</li>\n<li>Expert-level knowledge and hands-on experience with Terraform.</li>\n<li>Familiarity with AWS security services (e.g., IAM, GuardDuty, Security Hub, CloudTrail, WAF).</li>\n<li>Familiarity with CNAPP solutions such as Wiz</li>\n<li>Familiarity with SIEM solutions such as Panther</li>\n<li>Solid understanding of secure software development lifecycle practices, CI/CD security, and DevSecOps methodologies.</li>\n<li>Relevant certifications such as AWS Certified Security – Specialty, Certified Kubernetes Security Specialist (CKS), and Terraform Associate certification are highly desirable.</li>\n<li>Bonus points for security certifications from SANS or OffSec.</li>\n<li>Excellent problem-solving, communication, and leadership skills.</li>\n</ul>\n<hr>\n<h3>Our Engineering team</h3>\n<p>We’re a group of engineers who are forging new ground together and love partnering with Security on our journey to pull ahead of our competition. You can read about how we think through problems as well as how we learn from mistakes on our blog here:</p>\n<ul>\n<li><a href=\"https://hex.tech/blog/we-took-down-production/\">How we took down production…</a></li>\n<li><a href=\"https://hex.tech/blog/beyond-linear-notebooks/\">Beyond Linear Notebooks</a></li>\n<li><a href=\"https://hex.tech/blog/a-pragmatic-approach-to-live-collaboration/\">A pragmatic approach to live collaboration</a></li>\n</ul>\n<hr>\n<h3 class=\"Heading__HeadingInternal-sc-sir940-0 Heading___StyledHeadingInternal-sc-sir940-1 eQrUa-d\">Our stack</h3>\n<p>Our product is a web-based notebook and app authoring platform. Our frontend is built with Typescript and React, using a combination of Apollo GraphQL and Redux for managing application state and data. On the backend, we also use Typescript to power an Express/Apollo GraphQL server that interacts with Postgres, Redis, and Kubernetes to manage our database and Python kernels. Our backend is tightly integrated with our infrastructure and CI/CD, where we use a combination of Terraform, Helm, and AWS to deploy and maintain our stack.</p>\n<hr>\n<p>In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary &amp; equity, comprehensive health benefits, and flexible paid time off.</p>\n<p>The salary range for this role is: $198,750 - $295,000</p>\n<p>The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness &amp; parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process.</p>\n<p>By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy:&nbsp;<a class=\"notion-link-token notion-focusable-token notion-enable-hover\" href=\"https://learn.hex.tech/docs/trust/privacy-policy\"><span class=\"link-annotation-unknown-block-id-754370997\">https://learn.hex.tech/docs/trust/privacy-policy</span></a>.</p><div class=\"content-conclusion\"><p>Hex Technologies uses AI-assisted tools as part of our application review process, including for resume screening and fraud detection. These tools help our <strong>team </strong>evaluate applications and verify applicant information. All AI-generated recommendations are reviewed by a member of our recruiting team before any hiring decision is made. No application is automatically rejected based solely on an AI tool's output.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer\">https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer</a></p>",
+      "pubDate": "Sat, 19 Sep 2026 07:31:10 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer"
+    }
+  },
+  {
     "id": "wwr:toptal-senior-integration-engineer-for-enterprise-api-integration-products",
     "platform": "wwr",
     "external_id": "toptal-senior-integration-engineer-for-enterprise-api-integration-products",
@@ -22,7 +68,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-18T17:01:08.000Z",
-    "fetched_at": "2026-10-04T11:21:39.767Z",
+    "fetched_at": "2026-10-04T16:00:22.582Z",
     "raw": {
       "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
       "region": "North America Only",
@@ -60,7 +106,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-18T07:30:46.000Z",
-    "fetched_at": "2026-10-04T11:21:39.769Z",
+    "fetched_at": "2026-10-04T16:00:22.584Z",
     "raw": {
       "title": "Collibra: CPS Account Program Manager",
       "region": "Anywhere in the World",
@@ -98,7 +144,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-09-17T10:51:23.000Z",
-    "fetched_at": "2026-10-04T11:21:39.770Z",
+    "fetched_at": "2026-10-04T16:00:22.585Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0017/1267/logo.gif",
@@ -144,7 +190,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-17T19:21:19.000Z",
-    "fetched_at": "2026-10-04T11:21:39.771Z",
+    "fetched_at": "2026-10-04T16:00:22.585Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6209/logo.gif",
@@ -189,7 +235,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-17T13:57:14.000Z",
-    "fetched_at": "2026-10-04T11:21:39.772Z",
+    "fetched_at": "2026-10-04T16:00:22.586Z",
     "raw": {
       "title": "Samsara: Staff Software Engineer",
       "region": "Anywhere in the World",
@@ -229,7 +275,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-16T12:24:17.000Z",
-    "fetched_at": "2026-10-04T11:21:39.773Z",
+    "fetched_at": "2026-10-04T16:00:22.587Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9370/logo.gif",
@@ -276,7 +322,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-15T14:12:47.000Z",
-    "fetched_at": "2026-10-04T11:21:39.774Z",
+    "fetched_at": "2026-10-04T16:00:22.587Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6373/logo.gif",
@@ -326,7 +372,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-15T12:53:09.000Z",
-    "fetched_at": "2026-10-04T11:21:39.775Z",
+    "fetched_at": "2026-10-04T16:00:22.588Z",
     "raw": {
       "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture",
       "region": "Anywhere in the World",
@@ -380,7 +426,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-09-15T09:06:31.000Z",
-    "fetched_at": "2026-10-04T11:21:39.775Z",
+    "fetched_at": "2026-10-04T16:00:22.589Z",
     "raw": {
       "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
       "region": "Anywhere in the World",
@@ -422,7 +468,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-09-15T09:01:36.000Z",
-    "fetched_at": "2026-10-04T11:21:39.776Z",
+    "fetched_at": "2026-10-04T16:00:22.589Z",
     "raw": {
       "title": "Proxify AB: Senior Backend Developer (Python)",
       "region": "Anywhere in the World",
@@ -461,7 +507,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-15T08:51:45.000Z",
-    "fetched_at": "2026-10-04T11:21:39.776Z",
+    "fetched_at": "2026-10-04T16:00:22.590Z",
     "raw": {
       "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
       "region": "Anywhere in the World",
@@ -499,7 +545,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-09-14T07:31:07.000Z",
-    "fetched_at": "2026-10-04T11:21:39.777Z",
+    "fetched_at": "2026-10-04T16:00:22.591Z",
     "raw": {
       "title": "Reddit: Backend Engineer, IAM",
       "region": "Anywhere in the World",
@@ -533,7 +579,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-13T07:31:06.000Z",
-    "fetched_at": "2026-10-04T11:21:39.780Z",
+    "fetched_at": "2026-10-04T16:00:22.592Z",
     "raw": {
       "title": "Pinterest: Data Scientist II, Infrastructure",
       "region": "Anywhere in the World",
@@ -574,7 +620,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-14T09:14:28.000Z",
-    "fetched_at": "2026-10-04T11:21:39.780Z",
+    "fetched_at": "2026-10-04T16:00:22.592Z",
     "raw": {
       "title": "Sticker Mule: Software engineer",
       "region": "Anywhere in the World",
@@ -608,7 +654,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-11T07:30:48.000Z",
-    "fetched_at": "2026-10-04T11:21:39.782Z",
+    "fetched_at": "2026-10-04T16:00:22.593Z",
     "raw": {
       "title": "Fin: Solutions Architect -Spanish Speaking",
       "region": "Anywhere in the World",
@@ -645,7 +691,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-10T21:30:33.000Z",
-    "fetched_at": "2026-10-04T11:21:39.782Z",
+    "fetched_at": "2026-10-04T16:00:22.594Z",
     "raw": {
       "title": "Toptal: Power Platform Solutions Architect",
       "region": "North America Only",
@@ -681,7 +727,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-09T07:30:41.000Z",
-    "fetched_at": "2026-10-04T11:21:39.784Z",
+    "fetched_at": "2026-10-04T16:00:22.595Z",
     "raw": {
       "title": "Salesloft: Commercial Account Manager",
       "region": "Anywhere in the World",
@@ -746,7 +792,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-08T13:49:13.000Z",
-    "fetched_at": "2026-10-04T11:21:39.785Z",
+    "fetched_at": "2026-10-04T16:00:22.596Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6398/logo.gif",
@@ -786,7 +832,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-07-09T17:03:38.000Z",
-    "fetched_at": "2026-10-04T11:21:39.785Z",
+    "fetched_at": "2026-10-04T16:00:22.596Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5766/logo.gif",
@@ -840,7 +886,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-07T14:09:46.000Z",
-    "fetched_at": "2026-10-04T11:21:39.786Z",
+    "fetched_at": "2026-10-04T16:00:22.597Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6341/logo.gif",
@@ -888,7 +934,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-07T07:30:47.000Z",
-    "fetched_at": "2026-10-04T11:21:39.790Z",
+    "fetched_at": "2026-10-04T16:00:22.601Z",
     "raw": {
       "title": "Legion: Chief Architect",
       "region": "Anywhere in the World",
@@ -934,7 +980,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-04T20:38:22.000Z",
-    "fetched_at": "2026-10-04T11:21:39.791Z",
+    "fetched_at": "2026-10-04T16:00:22.601Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0015/7892/logo.gif",
@@ -976,7 +1022,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T18:08:52.000Z",
-    "fetched_at": "2026-10-04T11:21:39.791Z",
+    "fetched_at": "2026-10-04T16:00:22.602Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif",
@@ -1014,7 +1060,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-10-04T11:21:39.792Z",
+    "fetched_at": "2026-10-04T16:00:22.602Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
@@ -1027,74 +1073,6 @@
       "pubDate": "Sun, 16 Jun 2024 17:30:51 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
       "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
-    }
-  },
-  {
-    "id": "wwr:lemon-io-senior-react-native-developer-1",
-    "platform": "wwr",
-    "external_id": "lemon-io-senior-react-native-developer-1",
-    "title": "Senior React Native Developer",
-    "company": "Lemon.io",
-    "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. Requirements for React Native &amp; React Developer’s position: 4+ years of software development experience 2+ years of experience with React and 4+ years of experience with React Native OR 4+ years of experience with React and 2+ years of experience with React Native Requirements for React Native &amp; Node Developer’s position: 4+ years of software development experience 2+ years of experience with Node and 4+ years of experience with React Native OR 4+ years of experience with Node and 2+ years of experience with React Native Requirements for React Native &amp; Node &amp; React Developer’s position: 4+ years of software development experience 3+ years of experience with Node 4+ years of experience with React Native and 2+ years of experience with React OR 2+ years of experience with React Native and 3+ years of experience with React Requirements for React Native &amp; Ruby Developer’s position: 4+ years of software development experience 2+ years of experience with React and 4+ years of experience with Ruby OR 4+ years of experience with React and 2+ years of experience with Ruby Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue, Vue &amp; Node.js, React &amp; .NET, Android &amp; iOS, iOS &amp; Swift, Flutter &amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular &amp; Node.js, Vue &amp; .NET, Python &amp; Vue, DevOps, MLOps, Data Science, Angular &amp; PHP, Angular &amp; .NET, Symfony &amp; React, Symfony &amp; Vue, Symfony &amp; Angular, Python, Symfony &amp; JavaScript &amp; Next.js &amp; TypeScript, Data Analysis, React &amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp; Ruby, React Native &amp; Python, WordPress, Android, Data Annotation, Angular, Python &amp; Node, React &amp; Node.js, Java &amp; Spring, Svelte &amp; Python, Svelte &amp; Node.js, Svelte &amp; TypeScript, Rust, Shopify &amp; JavaScript, Vue &amp; Nuxt, PHP &amp; Laravel, UI/UX Design, Animation, Graphic Design, .NET &amp; C#, Electron, Scala, C++, Unreal Engine &amp; C++, Python &amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa). To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1",
-    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "python",
-      "rust",
-      "go",
-      "java",
-      "ruby",
-      "php",
-      "swift",
-      "scala",
-      "react",
-      "vue",
-      "angular",
-      "svelte",
-      "nextjs",
-      "nuxt",
-      "nodejs",
-      "laravel",
-      "spring",
-      "llm",
-      "machine-learning",
-      "mlops",
-      "react-native",
-      "flutter",
-      "ios",
-      "android",
-      "ethereum",
-      "blockchain",
-      "solana"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-09-04T15:56:51.000Z",
-    "fetched_at": "2026-10-04T11:21:39.793Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6322/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Lemon.io: Senior React Native Developer",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6322/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> New York, NY\n    <br /><strong>URL:</strong> <a href=\"https://lemon.io\">https://lemon.io</a>\n</p>\n\n<p>Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_react_native/react/node_sep_2026_job_ad\">Lemon.io</a> — the marketplace that connects you with hand-picked startups in the US and Europe.</p>\n<p><strong>What we offer:</strong></p>\n<ul>\n<li>The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.</li>\n<li>No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.</li>\n<li>We'll manually find the best project for you according to your skills and preferences.</li>\n<li>Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.</li>\n<li>We respect your seniority so you can expect no micromanagement or screen trackers.</li>\n<li>Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?</li>\n<li>We will support you from the time you submit the application throughout all cooperation stages.</li>\n<li>Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.</li>\n<li>Through our community, we will connect you with the best developers from more than 75 countries.</li>\n</ul>\n<p><strong>Requirements for React Native &amp; React Developer’s position:</strong></p>\n<ul>\n<li>4+ years of software development experience</li>\n<li>2+ years of experience with React and 4+ years of experience with React Native<br>OR<br>4+ years of experience with React and 2+ years of experience with React Native</li>\n</ul>\n<p><strong>Requirements for React Native &amp; Node Developer’s position:</strong></p>\n<ul>\n<li>4+ years of software development experience</li>\n<li>2+ years of experience with Node and 4+ years of experience with React Native<br>OR<br>4+ years of experience with Node and 2+ years of experience with React Native</li>\n</ul>\n<p><strong>Requirements for React Native &amp; Node &amp; React Developer’s position:</strong></p>\n<ul>\n<li>4+ years of software development experience</li>\n<li>3+ years of experience with Node</li>\n<li>4+ years of experience with React Native and 2+ years of experience with React<br>OR<br>2+ years of experience with React Native and 3+ years of experience with React</li>\n</ul>\n<p><strong>Requirements for React Native &amp; Ruby Developer’s position:</strong></p>\n<ul>\n<li>4+ years of software development experience</li>\n<li>2+ years of experience with React and 4+ years of experience with Ruby<br>OR<br>4+ years of experience with React and 2+ years of experience with Ruby</li>\n<li>\n<p>Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.</p>\n</li>\n<li>\n<p>Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.</p>\n</li>\n<li>\n<p>Strong self-organizational skills — ability to work full-time remotely with no supervision.</p>\n</li>\n<li>\n<p>Reliability — we want to trust you and expect that you won’t let us and the client down.</p>\n</li>\n<li>\n<p>Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.</p>\n</li>\n</ul>\n<p>Sounds good for you? Apply now and join the <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_react_native/react/node_sep_2026_job_ad\">Lemon.io</a> community!</p>\n<p><strong>NOT YOUR TECH STACK?</strong></p>\n<p>We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue, Vue &amp; Node.js, React &amp; .NET, Android &amp; iOS, iOS &amp; Swift, Flutter &amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular &amp; Node.js, Vue &amp; .NET, Python &amp; Vue, DevOps, MLOps, Data Science, Angular &amp; PHP, Angular &amp; .NET, Symfony &amp; React, Symfony &amp; Vue, Symfony &amp; Angular, Python, Symfony &amp; JavaScript &amp; Next.js &amp; TypeScript, Data Analysis, React &amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp; Ruby, React Native &amp; Python, WordPress, Android, Data Annotation, Angular, Python &amp; Node, React &amp; Node.js, Java &amp; Spring, Svelte &amp; Python, Svelte &amp; Node.js, Svelte &amp; TypeScript, Rust, Shopify &amp; JavaScript, Vue &amp; Nuxt, PHP &amp; Laravel, UI/UX Design, Animation, Graphic Design, .NET &amp; C#, Electron, Scala, C++, Unreal Engine &amp; C++, Python &amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.</p>\n<p>We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.</p>\n<p>We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1\">https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1</a></p>",
-      "pubDate": "Fri, 04 Sep 2026 15:56:51 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1",
-      "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1"
     }
   },
   {
@@ -1127,7 +1105,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-04T11:21:40.385Z",
+    "fetched_at": "2026-10-04T16:00:22.742Z",
     "raw": {
       "title": "Vercel: Senior Manager, Solutions Architect",
       "region": "Anywhere in the World",
@@ -1173,7 +1151,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-04T11:21:40.386Z",
+    "fetched_at": "2026-10-04T16:00:22.743Z",
     "raw": {
       "title": "Vercel: Security Engineer, Cloud",
       "region": "Anywhere in the World",
@@ -1217,7 +1195,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-29T07:30:55.000Z",
-    "fetched_at": "2026-10-04T11:21:40.387Z",
+    "fetched_at": "2026-10-04T16:00:22.744Z",
     "raw": {
       "title": "Discord: Senior Software Engineer, Application Security",
       "region": "Anywhere in the World",
@@ -1270,7 +1248,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-04T11:21:40.389Z",
+    "fetched_at": "2026-10-04T16:00:22.746Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Principal Infrastructure Architect: Data Platform",
       "region": "Anywhere in the World",
@@ -1319,7 +1297,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-28T07:31:13.000Z",
-    "fetched_at": "2026-10-04T11:21:40.390Z",
+    "fetched_at": "2026-10-04T16:00:22.748Z",
     "raw": {
       "title": "Collibra: CPS Solution Architect",
       "region": "Anywhere in the World",
@@ -1368,7 +1346,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-28T07:31:05.000Z",
-    "fetched_at": "2026-10-04T11:21:40.392Z",
+    "fetched_at": "2026-10-04T16:00:22.749Z",
     "raw": {
       "title": "Collibra: CPS Solution Architect",
       "region": "Anywhere in the World",
@@ -1427,7 +1405,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-26T07:31:04.000Z",
-    "fetched_at": "2026-10-04T11:21:40.393Z",
+    "fetched_at": "2026-10-04T16:00:22.750Z",
     "raw": {
       "title": "Faire: Senior Staff Machine Learning Platform Engineer",
       "region": "Anywhere in the World",
@@ -1474,7 +1452,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-25T00:33:21.000Z",
-    "fetched_at": "2026-10-04T11:21:40.393Z",
+    "fetched_at": "2026-10-04T16:00:22.750Z",
     "raw": {
       "title": "thehivecareers.co: DevOps Engineer (Remote)",
       "region": "Anywhere in the World",
@@ -1523,7 +1501,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-21T07:30:46.000Z",
-    "fetched_at": "2026-10-04T11:21:40.395Z",
+    "fetched_at": "2026-10-04T16:00:22.751Z",
     "raw": {
       "title": "Huntress: Security Operations Analyst",
       "region": "Anywhere in the World",
@@ -1562,7 +1540,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-21T07:30:39.000Z",
-    "fetched_at": "2026-10-04T11:21:40.396Z",
+    "fetched_at": "2026-10-04T16:00:22.752Z",
     "raw": {
       "title": "Huntress: Sales Development Representative - Mid-Market",
       "region": "Anywhere in the World",
@@ -1608,7 +1586,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-20T07:31:09.000Z",
-    "fetched_at": "2026-10-04T11:21:40.397Z",
+    "fetched_at": "2026-10-04T16:00:22.753Z",
     "raw": {
       "title": "Datadog: Developer Advocate - Service Management EMEA",
       "region": "Anywhere in the World",
@@ -1653,7 +1631,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-19T07:31:10.000Z",
-    "fetched_at": "2026-10-04T11:21:40.398Z",
+    "fetched_at": "2026-10-04T16:00:22.754Z",
     "raw": {
       "title": "CircleCI: Software Engineer",
       "region": "Anywhere in the World",
@@ -1692,7 +1670,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-15T07:30:54.000Z",
-    "fetched_at": "2026-10-04T11:21:40.400Z",
+    "fetched_at": "2026-10-04T16:00:22.755Z",
     "raw": {
       "title": "Keeper Security: Bilingual Channel Account Manager, Arabic (MEA) - UK",
       "region": "Anywhere in the World",
@@ -1738,7 +1716,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-14T07:31:07.000Z",
-    "fetched_at": "2026-10-04T11:21:40.401Z",
+    "fetched_at": "2026-10-04T16:00:22.756Z",
     "raw": {
       "title": "Datadog: Developer Advocate - Service Management",
       "region": "Anywhere in the World",
@@ -1780,7 +1758,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-09T07:30:36.000Z",
-    "fetched_at": "2026-10-04T11:21:40.403Z",
+    "fetched_at": "2026-10-04T16:00:22.758Z",
     "raw": {
       "title": "Platform.sh: Billing Systems Architect",
       "region": "Anywhere in the World",
@@ -1830,7 +1808,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-08T07:31:09.000Z",
-    "fetched_at": "2026-10-04T11:21:40.404Z",
+    "fetched_at": "2026-10-04T16:00:22.758Z",
     "raw": {
       "title": "JFrog: Senior Professional Services DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1881,7 +1859,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-07T07:30:54.000Z",
-    "fetched_at": "2026-10-04T11:21:40.405Z",
+    "fetched_at": "2026-10-04T16:00:22.760Z",
     "raw": {
       "title": "Fastly: Senior SRE - Networks",
       "region": "Anywhere in the World",
