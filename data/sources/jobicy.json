@@ -1,5 +1,115 @@
 [
   {
+    "id": "jobicy:154777",
+    "platform": "jobicy",
+    "external_id": "154777",
+    "title": "Sr. Embedded Software Engineer, Robotics Platform",
+    "company": "Serve Robotics",
+    "description": "At Serve Robotics , we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles, Miami, Dallas, Atlanta and Chicago while doing commercial deliveries. We’re looking for talented individuals who will grow robotic deliveries from surprising novelty to efficient ubiquity. Who We Are We are tech industry veterans in software, hardware, and design who are pooling our skills to build the future we want to live in. We are solving real-world problems leveraging robotics, machine learning and computer vision, among other disciplines, with a mindful eye towards the end-to-end user experience. Our team is agile, diverse, and driven. We believe that the best way to solve complicated dynamic problems is collaboratively and respectfully. Responsibilities Design, develop, test, and maintain robotics middleware and application frameworks using modern C++ on embedded Linux. Own significant platform components from technical design and implementation through validation, deployment, and operation across Serve’s robot fleet. Partner with software teams using the robot platform to identify reliability, performance, and developer experience problems and deliver reusable solutions. Collaborate with Autonomy and Systems Engineering on risk assessments, failure analysis, fault-handling strategies, and software architecture. Translate system-level safety and reliability requirements into software behavior, interfaces, and verification strategies. Develop instrumentation, benchmarks, logging, tracing, and fleet-level metrics to measure and improve software performance, reliability, and system health. Diagnose and resolve complex system-level issues involving concurrency, scheduling, interprocess communication, networking, and constrained compute resources. Evaluate technical tradeoffs and contribute to architectural decisions that improve the scalability, maintainability, and reliability of the robotics platform. Lead technical design and code reviews and contribute to engineering standards, development practices, and technical documentation. Provide technical guidance and mentorship to other engineers through design discussions, problem solving, and knowledge sharing. Qualifications Bachelor’s degree in Computer Science, Robotics, Computer Engineering, Electrical Engineering, or a related technical discipline, or equivalent practical experience. 5+ years of professional software engineering experience, including significant experience developing production software in modern C++ (C++17 and newer). Experience developing and debugging systems software in embedded Linux environments. Strong understanding of multithreaded programming, concurrency, synchronization, interprocess communication, and systems-level software development. Experience designing software for latency-sensitive, safety-related, real-time, or high-reliability systems. Experience profiling and optimizing embedded software for performance, reliability, and resource utilization. Experience independently owning complex software components through design, implementation, testing, and deployment. Strong troubleshooting and problem-solving skills with demonstrated ability to diagnose complex issues across software and hardware boundaries. Strong written and verbal communication skills and the ability to collaborate effectively across software, systems, and hardware engineering teams. What Makes You Stand Out Experience developing middleware for robotics, autonomous vehicles, or similar complex systems. Experience developing and deploying production software on NVIDIA Jetson or similar embedded computing platforms. Knowledge of Linux internals, scheduling, resource management, device interfaces, and interprocess communication mechanisms. Experience with fault-tolerant architecture, failure-mode analysis, functional safety, or safety-related software development. Experience with distributed systems, networking, RPC frameworks, or serialization technologies such as Protocol Buffers, FlatBuffers, or Cap’n Proto. Experience developing telemetry, observability, health monitoring, or diagnostic capabilities for robotics or distributed device fleets. Experience integrating software with sensors, embedded hardware, or other robotic system components. Additional Information: This role works across multiple engineering disciplines and balances hands-on software development with systems-level problem solving, technical design, and cross-functional collaboration. The position may occasionally require access to robotics hardware or onsite participation in integration, testing, troubleshooting, or validation activities.",
+    "url": "https://jobicy.com/jobs/154777-sr-embedded-software-engineer-robotics-platform",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Canada,  USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "c++",
+      "machine-learning",
+      "linux"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-07T13:00:15+00:00",
+    "fetched_at": "2026-10-07T22:18:37.670Z",
+    "raw": {
+      "id": 154777,
+      "url": "https://jobicy.com/jobs/154777-sr-embedded-software-engineer-robotics-platform",
+      "jobSlug": "154777-sr-embedded-software-engineer-robotics-platform",
+      "jobTitle": "Sr. Embedded Software Engineer, Robotics Platform",
+      "companyName": "Serve Robotics",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/8ad805d9-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Canada,  USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles,&hellip;",
+      "jobDescription": "<p>At <a href=\"https://jobicy.com/company/serve-robotics\" target=\"_blank\" rel=\"noopener\">Serve Robotics</a>, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. </p>\n<p>The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles, Miami, Dallas, Atlanta and Chicago while doing commercial deliveries. We’re looking for talented individuals who will grow robotic deliveries from surprising novelty to efficient ubiquity.</p>\n\n<h3><strong>Who We Are</strong></h3>\n<p>We are tech industry veterans in software, hardware, and design who are pooling our skills to build the future we want to live in. We are solving real-world problems leveraging robotics, machine learning and computer vision, among other disciplines, with a mindful eye towards the end-to-end user experience. Our team is agile, diverse, and driven. We believe that the best way to solve complicated dynamic problems is collaboratively and respectfully.</p>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>\n<p>Design, develop, test, and maintain robotics middleware and application frameworks using modern C++ on embedded Linux.</p>\n</li>\n<li>\n<p>Own significant platform components from technical design and implementation through validation, deployment, and operation across Serve’s robot fleet.</p>\n</li>\n<li>\n<p>Partner with software teams using the robot platform to identify reliability, performance, and developer experience problems and deliver reusable solutions.</p>\n</li>\n<li>\n<p>Collaborate with Autonomy and Systems Engineering on risk assessments, failure analysis, fault-handling strategies, and software architecture.</p>\n</li>\n<li>\n<p>Translate system-level safety and reliability requirements into software behavior, interfaces, and verification strategies.</p>\n</li>\n<li>\n<p>Develop instrumentation, benchmarks, logging, tracing, and fleet-level metrics to measure and improve software performance, reliability, and system health.</p>\n</li>\n<li>\n<p>Diagnose and resolve complex system-level issues involving concurrency, scheduling, interprocess communication, networking, and constrained compute resources.</p>\n</li>\n<li>\n<p>Evaluate technical tradeoffs and contribute to architectural decisions that improve the scalability, maintainability, and reliability of the robotics platform.</p>\n</li>\n<li>\n<p>Lead technical design and code reviews and contribute to engineering standards, development practices, and technical documentation.</p>\n</li>\n<li>\n<p>Provide technical guidance and mentorship to other engineers through design discussions, problem solving, and knowledge sharing.</p>\n</li>\n</ul>\n<p><strong>Qualifications</strong></p>\n<ul>\n<li>\n<p>Bachelor’s degree in Computer Science, Robotics, Computer Engineering, Electrical Engineering, or a related technical discipline, or equivalent practical experience.</p>\n</li>\n<li>\n<p>5+ years of professional software engineering experience, including significant experience developing production software in modern C++ (C++17 and newer).</p>\n</li>\n<li>\n<p>Experience developing and debugging systems software in embedded Linux environments.</p>\n</li>\n<li>\n<p>Strong understanding of multithreaded programming, concurrency, synchronization, interprocess communication, and systems-level software development.</p>\n</li>\n<li>\n<p>Experience designing software for latency-sensitive, safety-related, real-time, or high-reliability systems.</p>\n</li>\n<li>\n<p>Experience profiling and optimizing embedded software for performance, reliability, and resource utilization.</p>\n</li>\n<li>\n<p>Experience independently owning complex software components through design, implementation, testing, and deployment.</p>\n</li>\n<li>\n<p>Strong troubleshooting and problem-solving skills with demonstrated ability to diagnose complex issues across software and hardware boundaries.</p>\n</li>\n<li>\n<p>Strong written and verbal communication skills and the ability to collaborate effectively across software, systems, and hardware engineering teams.</p>\n</li>\n</ul>\n<p><strong>What Makes You Stand Out</strong></p>\n<ul>\n<li>\n<p>Experience developing middleware for robotics, autonomous vehicles, or similar complex systems.</p>\n</li>\n<li>\n<p>Experience developing and deploying production software on NVIDIA Jetson or similar embedded computing platforms.</p>\n</li>\n<li>\n<p>Knowledge of Linux internals, scheduling, resource management, device interfaces, and interprocess communication mechanisms.</p>\n</li>\n<li>\n<p>Experience with fault-tolerant architecture, failure-mode analysis, functional safety, or safety-related software development.</p>\n</li>\n<li>\n<p>Experience with distributed systems, networking, RPC frameworks, or serialization technologies such as Protocol Buffers, FlatBuffers, or Cap’n Proto.</p>\n</li>\n<li>\n<p>Experience developing telemetry, observability, health monitoring, or diagnostic capabilities for robotics or distributed device fleets.</p>\n</li>\n<li>\n<p>Experience integrating software with sensors, embedded hardware, or other robotic system components.</p>\n</li>\n</ul>\n<p><strong>Additional Information:</strong></p>\n<p>This role works across multiple engineering disciplines and balances hands-on software development with systems-level problem solving, technical design, and cross-functional collaboration. The position may occasionally require access to robotics hardware or onsite participation in integration, testing, troubleshooting, or validation activities.</p>",
+      "pubDate": "2026-10-07T13:00:15+00:00",
+      "salaryMin": 167800,
+      "salaryMax": 204000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:154780",
+    "platform": "jobicy",
+    "external_id": "154780",
+    "title": "Senior Software Engineer, Fullstack",
+    "company": "CoderPad",
+    "description": "Role Summary We are hiring a Senior Software Engineer to help build the future of technical interviewing and assessment across CoderPad . This is a fullstack role for someone who can move across backend services, frontend product surfaces, and AI-powered system design. You will work on user-facing features, production infrastructure, and internal engineering workflows where coding agents and AI-assisted development are part of normal day-to-day execution. This role is remote from Latin America. What You Will Work On Build and ship fullstack product features across candidate and recruiter experiences, from API and data model design to frontend implementation. Improve real-time AI-powered experiences used in interviews and assessments, including model orchestration, streaming UX, tool/function-calling patterns, and reliability. Contribute to systems that integrate multiple LLM providers and require pragmatic handling of latency, cost, observability, and non-deterministic behavior. Develop and improve deterministic internal tooling that helps engineers and agents execute work safely, repeatably, and with strong audibility. Partner across product, design, and platform teams to take ambiguous problems from definition to production rollout. Lead and mentor through code review, using reviews as both a quality gate and a coaching channel for less-experienced engineers. Plan and deliver technical debt, architecture, and observability initiatives that improve long-term system maintainability. Participate in on-call operations and drive runbook, reliability, and incident follow-up improvements. Requirements Senior-level experience shipping production software end-to-end in a fullstack capacity. Strong backend engineering skills in at least one modern language and ecosystem, plus practical frontend experience with a component-based framework. Proven ability to pick up unfamiliar stacks quickly and deliver in mixed-technology environments. Hands-on experience with agentic development workflows (for example: Cursor, Claude Code, Codex, or equivalent), including good judgment on delegation, context scoping, and review of AI-generated code. Experience building production systems that use AI, such as LLM API integrations, prompt and context design, streaming responses, tool/function calling, and token or cost-aware engineering. Significant contribution to code review, with evidence of raising code quality and mentoring peers through the review process. Experience identifying and reducing technical debt, and contributing to architecture planning and documentation. Proven ownership of production system health through monitoring/alerting improvements, incident response, and operational follow-through. Experience partnering with product and technical leads on backlog preparation, scoping, sizing, and delivery planning. Strong engineering fundamentals in testing, observability, debugging, and safe incremental delivery. Clear written communication and collaborative ownership mindset in remote teams. Desired Stack You are not expected to know all of these technologies. Relevant equivalent experience is absolutely welcome. Backend surfaces include Ruby on Rails, Java services, and Node/TypeScript services. Frontend surfaces include React + TypeScript applications and shared web platform tooling. AI systems include integrations across Anthropic, OpenAI, Gemini, Llama, and Mistral families, with streaming and tool-calling capabilities. Platform and infrastructure include PostgreSQL, GraphQL, Redis/Sidekiq, Firebase Realtime Database, Datadog, LaunchDarkly, GitLab CI, cloud services (AWS and GCP), and containerized execution environments. Internal engineering workflows include Python-based deterministic CLI tooling and AI-agent skills that support repeatable development operations. How We Work Remote-first collaboration across time zones with a strong written culture. AI tooling is an expectation and treated as part of the engineering toolbox. Small, reviewable changes with high-quality code review and shared ownership of outcomes. Pragmatic architecture decisions focused on reliability, maintainability, and user impact. Documentation and operational clarity are part of shipping, not afterthoughts. Senior ICs influence technical roadmap direction beyond their immediate delivery scope. Operational ownership matters: we value engineers who improve on-call practices and close the loop after incidents. Logistics Required overlap window with core team: Pacific 7:00 - 16:00, on-call 24 hrs for a week once every 8 weeks or so. Compensation Additional Information",
+    "url": "https://jobicy.com/jobs/154780-senior-software-engineer-fullstack-4",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "contract",
+    "experience_level": "lead",
+    "location": "LATAM",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript",
+      "python",
+      "java",
+      "ruby",
+      "react",
+      "nodejs",
+      "rails",
+      "postgresql",
+      "redis",
+      "aws",
+      "gcp",
+      "gitlab",
+      "datadog",
+      "llm",
+      "graphql"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-07T13:00:13+00:00",
+    "fetched_at": "2026-10-07T22:18:37.672Z",
+    "raw": {
+      "id": 154780,
+      "url": "https://jobicy.com/jobs/154780-senior-software-engineer-fullstack-4",
+      "jobSlug": "154780-senior-software-engineer-fullstack-4",
+      "jobTitle": "Senior Software Engineer, Fullstack",
+      "companyName": "CoderPad",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/57995875e79f20bb0cd2cadad1b52775.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Contract"
+      ],
+      "jobGeo": "LATAM",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Role Summary We are hiring a Senior Software Engineer to help build the future of technical interviewing and assessment across CoderPad. This is a fullstack role for someone who can move across backend services, frontend product surfaces, and AI-powered system design. You will work on user-facing features, production infrastructure, and internal engineering workflows where coding&hellip;",
+      "jobDescription": "<h3>Role Summary</h3>\n<p>We are hiring a Senior Software Engineer to help build the future of technical interviewing and assessment across <a href=\"https://jobicy.com/company/coderpad\" target=\"_blank\" rel=\"noopener\">CoderPad</a>. </p>\n<p>This is a fullstack role for someone who can move across backend services, frontend product surfaces, and AI-powered system design. You will work on user-facing features, production infrastructure, and internal engineering workflows where coding agents and AI-assisted development are part of normal day-to-day execution.</p>\n<p>This role is remote from Latin America.</p>\n<h3>What You Will Work On</h3>\n<ul>\n<li>Build and ship fullstack product features across candidate and recruiter experiences, from API and data model design to frontend implementation.</li>\n<li>Improve real-time AI-powered experiences used in interviews and assessments, including model orchestration, streaming UX, tool/function-calling patterns, and reliability.</li>\n<li>Contribute to systems that integrate multiple LLM providers and require pragmatic handling of latency, cost, observability, and non-deterministic behavior.</li>\n<li>Develop and improve deterministic internal tooling that helps engineers and agents execute work safely, repeatably, and with strong audibility.</li>\n<li>Partner across product, design, and platform teams to take ambiguous problems from definition to production rollout.</li>\n<li>Lead and mentor through code review, using reviews as both a quality gate and a coaching channel for less-experienced engineers.</li>\n<li>Plan and deliver technical debt, architecture, and observability initiatives that improve long-term system maintainability.</li>\n<li>Participate in on-call operations and drive runbook, reliability, and incident follow-up improvements.</li>\n</ul>\n<h3>Requirements</h3>\n<ul>\n<li>Senior-level experience shipping production software end-to-end in a fullstack capacity.</li>\n<li>Strong backend engineering skills in at least one modern language and ecosystem, plus practical frontend experience with a component-based framework.</li>\n<li>Proven ability to pick up unfamiliar stacks quickly and deliver in mixed-technology environments.</li>\n<li>Hands-on experience with agentic development workflows (for example: Cursor, Claude Code, Codex, or equivalent), including good judgment on delegation, context scoping, and review of AI-generated code.</li>\n<li>Experience building production systems that use AI, such as LLM API integrations, prompt and context design, streaming responses, tool/function calling, and token or cost-aware engineering.</li>\n<li>Significant contribution to code review, with evidence of raising code quality and mentoring peers through the review process.</li>\n<li>Experience identifying and reducing technical debt, and contributing to architecture planning and documentation.</li>\n<li>Proven ownership of production system health through monitoring/alerting improvements, incident response, and operational follow-through.</li>\n<li>Experience partnering with product and technical leads on backlog preparation, scoping, sizing, and delivery planning.</li>\n<li>Strong engineering fundamentals in testing, observability, debugging, and safe incremental delivery.</li>\n<li>Clear written communication and collaborative ownership mindset in remote teams.</li>\n</ul>\n<h3>Desired Stack</h3>\n<p>You are not expected to know all of these technologies. Relevant equivalent experience is absolutely welcome.</p>\n<ul>\n<li>Backend surfaces include Ruby on Rails, Java services, and Node/TypeScript services.</li>\n<li>Frontend surfaces include React + TypeScript applications and shared web platform tooling.</li>\n<li>AI systems include integrations across Anthropic, OpenAI, Gemini, Llama, and Mistral families, with streaming and tool-calling capabilities.</li>\n<li>Platform and infrastructure include PostgreSQL, GraphQL, Redis/Sidekiq, Firebase Realtime Database, Datadog, LaunchDarkly, GitLab CI, cloud services (AWS and GCP), and containerized execution environments.</li>\n<li>Internal engineering workflows include Python-based deterministic CLI tooling and AI-agent skills that support repeatable development operations.</li>\n</ul>\n<h3>How We Work</h3>\n<ul>\n<li>Remote-first collaboration across time zones with a strong written culture.</li>\n<li>AI tooling is an expectation and treated as part of the engineering toolbox.</li>\n<li>Small, reviewable changes with high-quality code review and shared ownership of outcomes.</li>\n<li>Pragmatic architecture decisions focused on reliability, maintainability, and user impact.</li>\n<li>Documentation and operational clarity are part of shipping, not afterthoughts.</li>\n<li>Senior ICs influence technical roadmap direction beyond their immediate delivery scope.</li>\n<li>Operational ownership matters: we value engineers who improve on-call practices and close the loop after incidents.</li>\n</ul>\n<h3>Logistics</h3>\n<ul>\n<li>Required overlap window with core team: Pacific 7:00 - 16:00, on-call 24 hrs for a week once every 8 weeks or so.</li>\n</ul>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>",
+      "pubDate": "2026-10-07T13:00:13+00:00"
+    }
+  },
+  {
     "id": "jobicy:154770",
     "platform": "jobicy",
     "external_id": "154770",
@@ -27,7 +137,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-07T08:50:12+00:00",
-    "fetched_at": "2026-10-07T12:06:10.463Z",
+    "fetched_at": "2026-10-07T22:18:37.673Z",
     "raw": {
       "id": 154770,
       "url": "https://jobicy.com/jobs/154770-senior-software-development-engineer-in-test-sdet",
@@ -84,7 +194,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T05:10:10+00:00",
-    "fetched_at": "2026-10-07T12:06:10.464Z",
+    "fetched_at": "2026-10-07T22:18:37.675Z",
     "raw": {
       "id": 152666,
       "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
@@ -134,7 +244,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:16+00:00",
-    "fetched_at": "2026-10-07T12:06:10.465Z",
+    "fetched_at": "2026-10-07T22:18:37.675Z",
     "raw": {
       "id": 152648,
       "url": "https://jobicy.com/jobs/152648-senior-ai-engineer-voice-platform",
@@ -187,7 +297,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:11+00:00",
-    "fetched_at": "2026-10-07T12:06:10.465Z",
+    "fetched_at": "2026-10-07T22:18:37.676Z",
     "raw": {
       "id": 152644,
       "url": "https://jobicy.com/jobs/152644-staff-frontend-engineer",
@@ -236,7 +346,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:10+00:00",
-    "fetched_at": "2026-10-07T12:06:10.466Z",
+    "fetched_at": "2026-10-07T22:18:37.676Z",
     "raw": {
       "id": 152642,
       "url": "https://jobicy.com/jobs/152642-senior-frontend-engineer-2",
@@ -286,7 +396,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:09+00:00",
-    "fetched_at": "2026-10-07T12:06:10.467Z",
+    "fetched_at": "2026-10-07T22:18:37.677Z",
     "raw": {
       "id": 152640,
       "url": "https://jobicy.com/jobs/152640-staff-ai-engineer-ai-product",
@@ -346,7 +456,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:06+00:00",
-    "fetched_at": "2026-10-07T12:06:10.467Z",
+    "fetched_at": "2026-10-07T22:18:37.678Z",
     "raw": {
       "id": 152638,
       "url": "https://jobicy.com/jobs/152638-staff-ai-engineer-ai-platform",
@@ -396,7 +506,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:25:07+00:00",
-    "fetched_at": "2026-10-07T12:06:10.468Z",
+    "fetched_at": "2026-10-07T22:18:37.679Z",
     "raw": {
       "id": 152627,
       "url": "https://jobicy.com/jobs/152627-senior-ai-engineer-multi-agent-frameworks",
@@ -448,7 +558,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:25:06+00:00",
-    "fetched_at": "2026-10-07T12:06:10.469Z",
+    "fetched_at": "2026-10-07T22:18:37.679Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -500,7 +610,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:25:04+00:00",
-    "fetched_at": "2026-10-07T12:06:10.470Z",
+    "fetched_at": "2026-10-07T22:18:37.681Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -560,7 +670,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:23+00:00",
-    "fetched_at": "2026-10-07T12:06:10.471Z",
+    "fetched_at": "2026-10-07T22:18:37.682Z",
     "raw": {
       "id": 152631,
       "url": "https://jobicy.com/jobs/152631-senior-ai-engineer-ai-platform",
@@ -610,7 +720,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:20+00:00",
-    "fetched_at": "2026-10-07T12:06:10.472Z",
+    "fetched_at": "2026-10-07T22:18:37.682Z",
     "raw": {
       "id": 152636,
       "url": "https://jobicy.com/jobs/152636-staff-ai-engineer-multi-agent-frameworks",
@@ -660,7 +770,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:19+00:00",
-    "fetched_at": "2026-10-07T12:06:10.473Z",
+    "fetched_at": "2026-10-07T22:18:37.683Z",
     "raw": {
       "id": 152635,
       "url": "https://jobicy.com/jobs/152635-builder-instructure-foundry",
@@ -711,7 +821,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:17+00:00",
-    "fetched_at": "2026-10-07T12:06:10.476Z",
+    "fetched_at": "2026-10-07T22:18:37.684Z",
     "raw": {
       "id": 152630,
       "url": "https://jobicy.com/jobs/152630-senior-software-engineer-7",
@@ -769,7 +879,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:10+00:00",
-    "fetched_at": "2026-10-07T12:06:10.477Z",
+    "fetched_at": "2026-10-07T22:18:37.685Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -819,7 +929,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:06+00:00",
-    "fetched_at": "2026-10-07T12:06:10.478Z",
+    "fetched_at": "2026-10-07T22:18:37.685Z",
     "raw": {
       "id": 152634,
       "url": "https://jobicy.com/jobs/152634-senior-ai-engineer-ai-product",
@@ -876,7 +986,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:04+00:00",
-    "fetched_at": "2026-10-07T12:06:10.478Z",
+    "fetched_at": "2026-10-07T22:18:37.686Z",
     "raw": {
       "id": 152637,
       "url": "https://jobicy.com/jobs/152637-platform-architect",
@@ -928,7 +1038,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:15:24+00:00",
-    "fetched_at": "2026-10-07T12:06:10.481Z",
+    "fetched_at": "2026-10-07T22:18:37.687Z",
     "raw": {
       "id": 148667,
       "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
@@ -971,7 +1081,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:15:16+00:00",
-    "fetched_at": "2026-10-07T12:06:10.482Z",
+    "fetched_at": "2026-10-07T22:18:37.688Z",
     "raw": {
       "id": 148357,
       "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
@@ -1024,7 +1134,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:38:26+00:00",
-    "fetched_at": "2026-10-07T12:06:10.483Z",
+    "fetched_at": "2026-10-07T22:18:37.689Z",
     "raw": {
       "id": 154755,
       "url": "https://jobicy.com/jobs/154755-senior-android-engineer-kotlin-aws",
@@ -1067,7 +1177,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-06T17:36:47+00:00",
-    "fetched_at": "2026-10-07T12:06:10.483Z",
+    "fetched_at": "2026-10-07T22:18:37.689Z",
     "raw": {
       "id": 154743,
       "url": "https://jobicy.com/jobs/154743-ads-quality-rater-filipino-philippines",
@@ -1121,7 +1231,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:36:46+00:00",
-    "fetched_at": "2026-10-07T12:06:10.484Z",
+    "fetched_at": "2026-10-07T22:18:37.690Z",
     "raw": {
       "id": 154740,
       "url": "https://jobicy.com/jobs/154740-senior-backend-engineer-9",
@@ -1173,7 +1283,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:36:45+00:00",
-    "fetched_at": "2026-10-07T12:06:10.485Z",
+    "fetched_at": "2026-10-07T22:18:37.691Z",
     "raw": {
       "id": 154745,
       "url": "https://jobicy.com/jobs/154745-senior-software-engineer-mobile-android",
@@ -1226,7 +1336,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:32:38+00:00",
-    "fetched_at": "2026-10-07T12:06:10.486Z",
+    "fetched_at": "2026-10-07T22:18:37.692Z",
     "raw": {
       "id": 154726,
       "url": "https://jobicy.com/jobs/154726-backend-engineer-core-technology",
@@ -1280,7 +1390,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:32:22+00:00",
-    "fetched_at": "2026-10-07T12:06:10.486Z",
+    "fetched_at": "2026-10-07T22:18:37.692Z",
     "raw": {
       "id": 154718,
       "url": "https://jobicy.com/jobs/154718-sr-software-engineer-4",
@@ -1333,7 +1443,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T12:50:26+00:00",
-    "fetched_at": "2026-10-07T12:06:10.487Z",
+    "fetched_at": "2026-10-07T22:18:37.692Z",
     "raw": {
       "id": 154690,
       "url": "https://jobicy.com/jobs/154690-contract-staff-software-engineer-firefox-layout",
@@ -1386,7 +1496,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T12:50:24+00:00",
-    "fetched_at": "2026-10-07T12:06:10.488Z",
+    "fetched_at": "2026-10-07T22:18:37.695Z",
     "raw": {
       "id": 154694,
       "url": "https://jobicy.com/jobs/154694-staff-ai-engineer-data-intelligence-function",
@@ -1437,7 +1547,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T12:50:22+00:00",
-    "fetched_at": "2026-10-07T12:06:10.488Z",
+    "fetched_at": "2026-10-07T22:18:37.695Z",
     "raw": {
       "id": 154693,
       "url": "https://jobicy.com/jobs/154693-contract-staff-software-engineer-performance-graphics-crust-webgl",
@@ -1484,7 +1594,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T04:50:15+00:00",
-    "fetched_at": "2026-10-07T12:06:10.489Z",
+    "fetched_at": "2026-10-07T22:18:37.695Z",
     "raw": {
       "id": 152581,
       "url": "https://jobicy.com/jobs/152581-condition-monitoring-engineer",
@@ -1533,7 +1643,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T04:50:12+00:00",
-    "fetched_at": "2026-10-07T12:06:10.491Z",
+    "fetched_at": "2026-10-07T22:18:37.697Z",
     "raw": {
       "id": 152574,
       "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
@@ -1588,7 +1698,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T04:45:21+00:00",
-    "fetched_at": "2026-10-07T12:06:10.492Z",
+    "fetched_at": "2026-10-07T22:18:37.698Z",
     "raw": {
       "id": 152602,
       "url": "https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam",
@@ -1638,7 +1748,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T15:33:40+00:00",
-    "fetched_at": "2026-10-07T12:06:10.493Z",
+    "fetched_at": "2026-10-07T22:18:37.699Z",
     "raw": {
       "id": 154629,
       "url": "https://jobicy.com/jobs/154629-staff-engineer-2",
@@ -1689,7 +1799,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-05T15:31:37+00:00",
-    "fetched_at": "2026-10-07T12:06:10.494Z",
+    "fetched_at": "2026-10-07T22:18:37.700Z",
     "raw": {
       "id": 154616,
       "url": "https://jobicy.com/jobs/154616-senior-quality-engineer-2",
@@ -1737,7 +1847,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T15:31:35+00:00",
-    "fetched_at": "2026-10-07T12:06:10.495Z",
+    "fetched_at": "2026-10-07T22:18:37.701Z",
     "raw": {
       "id": 154611,
       "url": "https://jobicy.com/jobs/154611-gtm-engineer-3",
@@ -1785,7 +1895,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T13:52:59+00:00",
-    "fetched_at": "2026-10-07T12:06:10.497Z",
+    "fetched_at": "2026-10-07T22:18:37.703Z",
     "raw": {
       "id": 154597,
       "url": "https://jobicy.com/jobs/154597-senior-software-engineer-graph-analytics",
@@ -1845,7 +1955,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T13:52:57+00:00",
-    "fetched_at": "2026-10-07T12:06:10.497Z",
+    "fetched_at": "2026-10-07T22:18:37.703Z",
     "raw": {
       "id": 154594,
       "url": "https://jobicy.com/jobs/154594-1146-fullstack-engineer",
@@ -1892,7 +2002,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-05T13:52:57+00:00",
-    "fetched_at": "2026-10-07T12:06:10.498Z",
+    "fetched_at": "2026-10-07T22:18:37.704Z",
     "raw": {
       "id": 154591,
       "url": "https://jobicy.com/jobs/154591-freelance-software-tester-with-smart-tvs-remote-in-germany",
@@ -1938,7 +2048,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-05T13:52:55+00:00",
-    "fetched_at": "2026-10-07T12:06:10.498Z",
+    "fetched_at": "2026-10-07T22:18:37.704Z",
     "raw": {
       "id": 154595,
       "url": "https://jobicy.com/jobs/154595-freelance-software-tester-with-smart-tvs-remote-in-ireland",
@@ -1992,7 +2102,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T08:23:31+00:00",
-    "fetched_at": "2026-10-07T12:06:10.499Z",
+    "fetched_at": "2026-10-07T22:18:37.705Z",
     "raw": {
       "id": 154566,
       "url": "https://jobicy.com/jobs/154566-senior-fullstack-engineer-arg-based-only",
@@ -2047,7 +2157,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T08:23:31+00:00",
-    "fetched_at": "2026-10-07T12:06:10.500Z",
+    "fetched_at": "2026-10-07T22:18:37.705Z",
     "raw": {
       "id": 154563,
       "url": "https://jobicy.com/jobs/154563-senior-sdk-engineer",
@@ -2108,7 +2218,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T05:30:36+00:00",
-    "fetched_at": "2026-10-07T12:06:10.501Z",
+    "fetched_at": "2026-10-07T22:18:37.707Z",
     "raw": {
       "id": 154544,
       "url": "https://jobicy.com/jobs/154544-senior-full-stack-engineer-observability",
@@ -2162,7 +2272,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T05:30:35+00:00",
-    "fetched_at": "2026-10-07T12:06:10.501Z",
+    "fetched_at": "2026-10-07T22:18:37.707Z",
     "raw": {
       "id": 154539,
       "url": "https://jobicy.com/jobs/154539-senior-software-backend-engineer-foundations",
@@ -2211,7 +2321,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T05:30:35+00:00",
-    "fetched_at": "2026-10-07T12:06:10.502Z",
+    "fetched_at": "2026-10-07T22:18:37.708Z",
     "raw": {
       "id": 154536,
       "url": "https://jobicy.com/jobs/154536-lead-full-stack-engineer-laravel-remote-nl-uk-based",
@@ -2254,7 +2364,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-05T05:28:32+00:00",
-    "fetched_at": "2026-10-07T12:06:10.503Z",
+    "fetched_at": "2026-10-07T22:18:37.708Z",
     "raw": {
       "id": 154529,
       "url": "https://jobicy.com/jobs/154529-freelance-software-tester-with-smart-tvs-remote-in-austria",
@@ -2305,7 +2415,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:16+00:00",
-    "fetched_at": "2026-10-07T12:06:10.504Z",
+    "fetched_at": "2026-10-07T22:18:37.709Z",
     "raw": {
       "id": 150128,
       "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
@@ -2353,7 +2463,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:15+00:00",
-    "fetched_at": "2026-10-07T12:06:10.504Z",
+    "fetched_at": "2026-10-07T22:18:37.710Z",
     "raw": {
       "id": 150127,
       "url": "https://jobicy.com/jobs/150127-senior-software-engineer-maas",
@@ -2400,7 +2510,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:11+00:00",
-    "fetched_at": "2026-10-07T12:06:10.505Z",
+    "fetched_at": "2026-10-07T22:18:37.711Z",
     "raw": {
       "id": 150125,
       "url": "https://jobicy.com/jobs/150125-senior-software-engineer-backend",
@@ -2446,7 +2556,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:08+00:00",
-    "fetched_at": "2026-10-07T12:06:10.506Z",
+    "fetched_at": "2026-10-07T22:18:37.711Z",
     "raw": {
       "id": 150131,
       "url": "https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure",
@@ -2494,7 +2604,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:04+00:00",
-    "fetched_at": "2026-10-07T12:06:10.507Z",
+    "fetched_at": "2026-10-07T22:18:37.712Z",
     "raw": {
       "id": 150123,
       "url": "https://jobicy.com/jobs/150123-senior-web-engineer",
@@ -2513,55 +2623,6 @@
       "jobExcerpt": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
       "jobDescription": "<p><a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of globally distributed collaboration, with 1100+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p><p>The company is founder-led, profitable and growing.</p><p>We are hiring a Senior Software Engineer on the Web Engineering team to drive best practices across the team, for all disciplines, bringing great ideas to the table to lead technical conversations. They identify risks and communicate them to relevant stakeholders, asking the right questions to move a project forward. Within the team there are fantastic opportunities to gain deep technical knowledge of complex products in innovative and fast-growing areas of the tech world with space and support to hone your craft. We value transparency, intellectual honesty and teamwork.</p><p>As a Senior Software Engineer at Canonical, you will own the development of large projects. Encourages rigorous and efficient engineering process. Writes specifications and understands risks. Works to reduce complexity. Is capable of taking on technical lead responsibilities to drive an initiative to completion. Follows industry trends and new technologies. Capable of representing their team as a subject matter expert with cross-team credibility. An exemplary engineer who mentors and develops those around them in a structured and systematic manner, sharing this responsibility for their immediate team with their manager.</p><p><strong>Location</strong>: This role will be based remotely in the EMEA region.</p><h2>The role entails</h2><ul>\n<li>Identifying what matters for the team and driving initiatives to improve them</li>\n<li>Design and implement well-tested and documented software</li>\n<li>Debug and fix issues encountered by your users</li>\n<li>Leading in our engineering process through code and architectural reviews</li>\n<li>Contribute to technical documentation to make it the best of its kind</li>\n<li>Seek improvements to engineering and operations practices</li>\n<li>Deploy and operate services developed by the team</li>\n<li>Contribute to the success of your product through technical advocacy</li>\n</ul><h2>What we are looking for in you</h2><ul>\n<li>Curate technical quality standards by designing the architectural approach to support business objectives</li>\n<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>\n<li>An exceptional academic track record from both high school and university</li>\n<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>\n<li>Drive and a track record of going above and beyond expectations</li>\n<li>Well-organised, self-starting and able to deliver to schedule</li>\n<li>Displays competency in researching new technology or approaches, and is able to tastefully and sustainably integrate changes and more modern approaches to technical projects. </li>\n<li>Provides comprehensive and insightful code review on items of any size within the project</li>\n<li>An eye for accessibility and performance</li>\n<li>Professional written and spoken English</li>\n<li>Experience with Linux (Debian or Ubuntu preferred)</li>\n<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>\n<li>Excellent communication and presentation skills</li>\n<li>Result-oriented, with a personal drive to meet commitments</li>\n<li>Ability to travel twice a year, for company events for up to two weeks each</li>\n</ul><h2>Nice-to-have skills</h2><ul>\n<li>Experience with container tech such as LXD, Docker and Kubernetes</li>\n<li>Experience fostering and maintaining a talented team by defining excellence</li>\n<li>REST API design, development and governance</li>\n<li>Drive to deliver performance engineering and security experience</li>\n</ul><h2>What we offer colleagues</h2><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p><ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Employee Assistance Programme</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass, and travel upgrades for long-haul company events</li>\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p><h2>Canonical is an equal-opportunity employer</h2><p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background creates a better work environment and better products.</em><a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em> </em><em>Whatever your identity we will give your application fair consideration</em></a><em>.</em></p><p>#LI-Remote</p>",
       "pubDate": "2026-10-05T04:49:04+00:00"
-    }
-  },
-  {
-    "id": "jobicy:152547",
-    "platform": "jobicy",
-    "external_id": "152547",
-    "title": "Senior Full Stack Engineer",
-    "company": "Fueled",
-    "description": "Location: Remote — (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and CLEAR. As a Senior Full Stack Engineer at Fueled, you will architect, build, and scale high-performance web applications from the database layer through to the browser. You'll own end-to-end solutions across the entire stack, designing API contracts and data models in TypeScript and building performant frontends in React and Next.js, all while ensuring every layer works cohesively to deliver premium user experiences. Type safety runs through your work on both sides of the wire, giving you confidence to evolve complex, business-oriented systems without fear. You'll model relational and non-relational data, craft pixel-perfect accessible interfaces that perform under real-world conditions, and implement effective caching strategies at the edge. Whether you're optimizing a database query, shaping a REST API, or fine-tuning a front-end bundle, you move fluently across the stack. Your work turns ambitious ideas into maintainable, future-ready systems that evolve with client needs, raise the bar for quality and performance, and consistently drive measurable outcomes. Depending on your experience and project alignment, your work may lean more heavily into either Fueled's Content Solutions or Digital Product practice. On the Content Solutions side, you may focus on headless CMS architecture, enterprise publishing platforms, performance optimization, design systems, accessibility, and SEO-focused front-end experiences. Within Digital Product , your work may center around complex web applications, stateful front-end systems, API and backend architecture, real-time functionality, and end-to-end product feature development across web and mobile ecosystems. Regardless of focus area, engineers at Fueled are expected to move fluidly across the stack and contribute to thoughtful, scalable user experiences. Intentionally remote, our team thrives in a culture that values flexibility, creativity, and cutting-edge technology. Together, we’re shaping the future of digital experiences. What you will do: Own the end-to-end delivery of key product features, from concept to deployment and beyond. You won't just code tickets; you'll be a crucial voice in shaping the technical approach, making critical architectural decisions, and ensuring what we ship is robust, scalable, and maintainable. Architect and build dynamic web experiences that hold up under the demands of real users and real editorial teams, working across the stack to make the right call at every layer. Elevate the team's velocity and craft by introducing and socializing tools and practices that raise the technical bar. We expect you to proactively identify bottlenecks, whether in build processes, state management, content modeling, or anywhere else, and implement solutions that make the entire team more effective. Bridge the gap between ambitious creative vision and technical reality, proving that high-quality user experience and developer experience are not mutually exclusive. You'll collaborate directly with designers and strategists to challenge assumptions, explore what's possible, and build solutions that are as elegant under the hood as they are for the end-user. What you will achieve: From Day 1, you're shipping a tangible feature for a live client project, building immediate momentum. Within 6 months, you'll own and deliver a key feature end-to-end and improve a core performance metric by at least 10%. You will enhance team efficiency by creating a reusable component or process that is adopted by your peers. By 12 months, you'll have spearheaded a significant project phase from concept to launch, on time and to a high standard. Your expertise becomes a multiplier, evidenced by positive client or team feedback on your ability to solve complex challenges. About you: You think in systems and components, not just pages. You get genuine satisfaction from designing a React architecture or a data schema that is as intuitive for the people using it as it is performant for the end-user. You're a proactive problem-solver who doesn't wait for perfect requirements. You thrive on digging into ambiguity, asking \"why,\" and prototyping solutions to complex challenges, whether they involve headless architecture, microservices, or data flow. You see the \"full stack\" as a single, interconnected challenge. You're comfortable crafting a polished, dynamic front-end with Next.js and then diving into the back-end logic, API routes, caching strategies, or CMS configuration that makes it all possible. You are a natural collaborator and translator, able to explain technical constraints to designers and strategic goals to engineers, ensuring the entire multidisciplinary team is building momentum together. Contractor Fee Compensation is determined based on a variety of factors including relevant experience, projects, geographic location, and business needs. Join our Contractor Pool This role is designed as a contract position, offering you the opportunity to experience our team and culture while showcasing your contributions. When the fit and business needs align, some contractors are invited to explore a transition into full-time roles. If you are passionate about Fueled's mission and think you have what it takes to be successful in this role, please apply. We'd appreciate the opportunity to review your application. Everyone gets a response. Upon meeting the necessary criteria, you'll join the Fueled contractor network, granting you access to project invitations tailored to your expertise and availability when they arise. Any data provided will be processed in accordance with applicable law and our privacy policy . Curious about what to expect during our talent process? Check it out here . We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@fueled.com to your contacts list!",
-    "url": "https://jobicy.com/jobs/152547-senior-full-stack-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "contract",
-    "experience_level": "lead",
-    "location": "Anywhere",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "react",
-      "nextjs",
-      "rest"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-05T04:48:59+00:00",
-    "fetched_at": "2026-10-07T12:06:10.508Z",
-    "raw": {
-      "id": 152547,
-      "url": "https://jobicy.com/jobs/152547-senior-full-stack-engineer",
-      "jobSlug": "152547-senior-full-stack-engineer",
-      "jobTitle": "Senior Full Stack Engineer",
-      "companyName": "Fueled",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/fe49a96d-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Contract"
-      ],
-      "jobGeo": "Anywhere",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Location: Remote — (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and CLEAR.&hellip;",
-      "jobDescription": "<p><strong>Location: </strong>Remote — (Open to applicants located anywhere around the globe)</p>\r\n<p><a href=\"https://jobicy.com/company/10up\" target=\"_blank\" rel=\"noopener\">Fueled</a> is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and CLEAR.</p>\r\n<p>As a <strong>Senior Full Stack Engineer</strong> at Fueled, you will architect, build, and scale high-performance web applications from the database layer through to the browser. You'll own end-to-end solutions across the entire stack, designing API contracts and data models in TypeScript and building performant frontends in React and Next.js, all while ensuring every layer works cohesively to deliver premium user experiences. Type safety runs through your work on both sides of the wire, giving you confidence to evolve complex, business-oriented systems without fear.</p>\r\n<p>You'll model relational and non-relational data, craft pixel-perfect accessible interfaces that perform under real-world conditions, and implement effective caching strategies at the edge. Whether you're optimizing a database query, shaping a REST API, or fine-tuning a front-end bundle, you move fluently across the stack. Your work turns ambitious ideas into maintainable, future-ready systems that evolve with client needs, raise the bar for quality and performance, and consistently drive measurable outcomes.</p>\r\n<p>Depending on your experience and project alignment, your work may lean more heavily into either Fueled's <strong>Content Solutions</strong> or <strong>Digital Product</strong> practice. On the <strong>Content Solutions</strong> side, you may focus on headless CMS architecture, enterprise publishing platforms, performance optimization, design systems, accessibility, and SEO-focused front-end experiences. Within <strong>Digital Product</strong>, your work may center around complex web applications, stateful front-end systems, API and backend architecture, real-time functionality, and end-to-end product feature development across web and mobile ecosystems. Regardless of focus area, engineers at Fueled are expected to move fluidly across the stack and contribute to thoughtful, scalable user experiences.</p>\r\n<p>Intentionally remote, our team thrives in a culture that values flexibility, creativity, and cutting-edge technology. Together, we’re shaping the future of digital experiences.</p>\r\n<h3>What you will do:</h3>\r\n<ul>\r\n<li>Own the end-to-end delivery of key product features, from concept to deployment and beyond. You won't just code tickets; you'll be a crucial voice in shaping the technical approach, making critical architectural decisions, and ensuring what we ship is robust, scalable, and maintainable.</li>\r\n<li>Architect and build dynamic web experiences that hold up under the demands of real users and real editorial teams, working across the stack to make the right call at every layer.</li>\r\n<li>Elevate the team's velocity and craft by introducing and socializing tools and practices that raise the technical bar. We expect you to proactively identify bottlenecks, whether in build processes, state management, content modeling, or anywhere else, and implement solutions that make the entire team more effective.</li>\r\n<li>Bridge the gap between ambitious creative vision and technical reality, proving that high-quality user experience and developer experience are not mutually exclusive. You'll collaborate directly with designers and strategists to challenge assumptions, explore what's possible, and build solutions that are as elegant under the hood as they are for the end-user.</li>\r\n</ul>\r\n<h3>What you will achieve:</h3>\r\n<ul>\r\n<li>From Day 1, you're shipping a tangible feature for a live client project, building immediate momentum.</li>\r\n<li>Within 6 months, you'll own and deliver a key feature end-to-end and improve a core performance metric by at least 10%.</li>\r\n<li>You will enhance team efficiency by creating a reusable component or process that is adopted by your peers.</li>\r\n<li>By 12 months, you'll have spearheaded a significant project phase from concept to launch, on time and to a high standard.</li>\r\n<li>Your expertise becomes a multiplier, evidenced by positive client or team feedback on your ability to solve complex challenges.</li>\r\n</ul>\r\n<h3>About you:</h3>\r\n<ul>\r\n<li>You think in systems and components, not just pages. You get genuine satisfaction from designing a React architecture or a data schema that is as intuitive for the people using it as it is performant for the end-user.</li>\r\n<li>You're a proactive problem-solver who doesn't wait for perfect requirements. You thrive on digging into ambiguity, asking \"why,\" and prototyping solutions to complex challenges, whether they involve headless architecture, microservices, or data flow.</li>\r\n<li>You see the \"full stack\" as a single, interconnected challenge. You're comfortable crafting a polished, dynamic front-end with Next.js and then diving into the back-end logic, API routes, caching strategies, or CMS configuration that makes it all possible.</li>\r\n<li>You are a natural collaborator and translator, able to explain technical constraints to designers and strategic goals to engineers, ensuring the entire multidisciplinary team is building momentum together.</li>\r\n</ul>\r\n<h3>Contractor Fee</h3>\r\n<p>Compensation is determined based on a variety of factors including relevant experience, projects, geographic location, and business needs.</p>\r\n<h3><strong>Join our Contractor Pool</strong></h3>\r\n<p>This role is designed as a contract position, offering you the opportunity to experience our team and culture while showcasing your contributions. When the fit and business needs align, some contractors are invited to explore a transition into full-time roles.</p>\r\n<p>If you are passionate about Fueled's mission and think you have what it takes to be successful in this role, please apply. We'd appreciate the opportunity to review your application. Everyone gets a response.</p>\r\n<p>Upon meeting the necessary criteria, you'll join the Fueled contractor network, granting you access to project invitations tailored to your expertise and availability when they arise.</p>\r\n<p>Any data provided will be processed in accordance with applicable law and our <a href=\"https://fueled.com/privacy-policy/\" rel=\"nofollow ugc noopener\" target=\"_blank\">privacy policy</a>. Curious about what to expect during our talent process? Check it out <a href=\"https://www.notion.so/What-to-Expect-from-the-Interview-Process-at-Fueled-1d84dccd9d8b80f8a0b0d40b244f4caf?pvs=21\" rel=\"nofollow ugc noopener\" target=\"_blank\">here</a>.</p>\r\n<p>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add <a href=\"mailto:jobs@fueled.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">jobs@fueled.com</a> to your contacts list!</p>",
-      "pubDate": "2026-10-05T04:48:59+00:00"
     }
   },
   {
@@ -2594,7 +2655,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:48:54+00:00",
-    "fetched_at": "2026-10-07T12:06:10.508Z",
+    "fetched_at": "2026-10-07T22:18:37.713Z",
     "raw": {
       "id": 152539,
       "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
@@ -2654,7 +2715,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:48:52+00:00",
-    "fetched_at": "2026-10-07T12:06:10.509Z",
+    "fetched_at": "2026-10-07T22:18:37.714Z",
     "raw": {
       "id": 152529,
       "url": "https://jobicy.com/jobs/152529-senior-software-engineer-revenue",
@@ -2704,7 +2765,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:45:24+00:00",
-    "fetched_at": "2026-10-07T12:06:10.510Z",
+    "fetched_at": "2026-10-07T22:18:37.715Z",
     "raw": {
       "id": 150137,
       "url": "https://jobicy.com/jobs/150137-senior-hypervisor-engineer",
@@ -2749,7 +2810,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:45:20+00:00",
-    "fetched_at": "2026-10-07T12:06:10.512Z",
+    "fetched_at": "2026-10-07T22:18:37.716Z",
     "raw": {
       "id": 150161,
       "url": "https://jobicy.com/jobs/150161-senior-accident-reconstruction-engineer",
@@ -2805,7 +2866,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:45:11+00:00",
-    "fetched_at": "2026-10-07T12:06:10.513Z",
+    "fetched_at": "2026-10-07T22:18:37.716Z",
     "raw": {
       "id": 152505,
       "url": "https://jobicy.com/jobs/152505-software-engineer-security-stablecoin",
@@ -2859,7 +2920,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-04T05:45:40+00:00",
-    "fetched_at": "2026-10-07T12:06:10.514Z",
+    "fetched_at": "2026-10-07T22:18:37.717Z",
     "raw": {
       "id": 154514,
       "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
@@ -2902,7 +2963,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-04T05:05:05+00:00",
-    "fetched_at": "2026-10-07T12:06:10.514Z",
+    "fetched_at": "2026-10-07T22:18:37.718Z",
     "raw": {
       "id": 152200,
       "url": "https://jobicy.com/jobs/152200-ads-quality-rater-spanish-argentina",
@@ -2955,7 +3016,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-04T04:44:12+00:00",
-    "fetched_at": "2026-10-07T12:06:10.515Z",
+    "fetched_at": "2026-10-07T22:18:37.719Z",
     "raw": {
       "id": 154396,
       "url": "https://jobicy.com/jobs/154396-sr-software-engineer-ii-tech-lead-agentic-platform-poland-remote-b2b",
@@ -3006,7 +3067,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-04T04:35:21+00:00",
-    "fetched_at": "2026-10-07T12:06:10.516Z",
+    "fetched_at": "2026-10-07T22:18:37.720Z",
     "raw": {
       "id": 152401,
       "url": "https://jobicy.com/jobs/152401-qa-tester-future-roles",
@@ -3069,7 +3130,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-04T04:35:20+00:00",
-    "fetched_at": "2026-10-07T12:06:10.517Z",
+    "fetched_at": "2026-10-07T22:18:37.721Z",
     "raw": {
       "id": 152452,
       "url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
@@ -3122,7 +3183,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-04T04:35:17+00:00",
-    "fetched_at": "2026-10-07T12:06:10.518Z",
+    "fetched_at": "2026-10-07T22:18:37.722Z",
     "raw": {
       "id": 152499,
       "url": "https://jobicy.com/jobs/152499-backend-engineer-iii",
@@ -3183,7 +3244,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-04T04:35:12+00:00",
-    "fetched_at": "2026-10-07T12:06:10.519Z",
+    "fetched_at": "2026-10-07T22:18:37.723Z",
     "raw": {
       "id": 152402,
       "url": "https://jobicy.com/jobs/152402-staff-quality-engineer",
@@ -3243,7 +3304,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-04T04:30:14+00:00",
-    "fetched_at": "2026-10-07T12:06:10.520Z",
+    "fetched_at": "2026-10-07T22:18:37.724Z",
     "raw": {
       "id": 152407,
       "url": "https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform",
@@ -3294,7 +3355,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T19:24:45+00:00",
-    "fetched_at": "2026-10-07T12:06:10.521Z",
+    "fetched_at": "2026-10-07T22:18:37.724Z",
     "raw": {
       "id": 154483,
       "url": "https://jobicy.com/jobs/154483-senior-full-stack-engineer-4",
@@ -3337,7 +3398,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T19:24:42+00:00",
-    "fetched_at": "2026-10-07T12:06:10.521Z",
+    "fetched_at": "2026-10-07T22:18:37.724Z",
     "raw": {
       "id": 154481,
       "url": "https://jobicy.com/jobs/154481-director-of-engineering-content-platform-catalog",
@@ -3404,7 +3465,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T14:58:34+00:00",
-    "fetched_at": "2026-10-07T12:06:10.523Z",
+    "fetched_at": "2026-10-07T22:18:37.726Z",
     "raw": {
       "id": 154467,
       "url": "https://jobicy.com/jobs/154467-senior-backend-engineer-backend-platform-usa-only-100-remote",
@@ -3457,7 +3518,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T14:58:34+00:00",
-    "fetched_at": "2026-10-07T12:06:10.523Z",
+    "fetched_at": "2026-10-07T22:18:37.726Z",
     "raw": {
       "id": 154461,
       "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
@@ -3522,7 +3583,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T14:58:33+00:00",
-    "fetched_at": "2026-10-07T12:06:10.524Z",
+    "fetched_at": "2026-10-07T22:18:37.727Z",
     "raw": {
       "id": 154463,
       "url": "https://jobicy.com/jobs/154463-senior-backend-engineer-crm-usa-only-100-remote",
@@ -3574,7 +3635,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T14:58:33+00:00",
-    "fetched_at": "2026-10-07T12:06:10.526Z",
+    "fetched_at": "2026-10-07T22:18:37.728Z",
     "raw": {
       "id": 154460,
       "url": "https://jobicy.com/jobs/154460-senior-frontend-engineer-marketing-usa-only-100-remote",
@@ -3630,7 +3691,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T14:56:41+00:00",
-    "fetched_at": "2026-10-07T12:06:10.528Z",
+    "fetched_at": "2026-10-07T22:18:37.731Z",
     "raw": {
       "id": 154458,
       "url": "https://jobicy.com/jobs/154458-staff-product-engineer-americas",
@@ -3687,7 +3748,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T14:56:41+00:00",
-    "fetched_at": "2026-10-07T12:06:10.530Z",
+    "fetched_at": "2026-10-07T22:18:37.732Z",
     "raw": {
       "id": 154454,
       "url": "https://jobicy.com/jobs/154454-senior-backend-engineer-payments",
@@ -3749,7 +3810,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T13:52:19+00:00",
-    "fetched_at": "2026-10-07T12:06:10.531Z",
+    "fetched_at": "2026-10-07T22:18:37.734Z",
     "raw": {
       "id": 154448,
       "url": "https://jobicy.com/jobs/154448-engineering-manager-emea-platform",
@@ -3796,7 +3857,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T13:52:19+00:00",
-    "fetched_at": "2026-10-07T12:06:10.532Z",
+    "fetched_at": "2026-10-07T22:18:37.734Z",
     "raw": {
       "id": 154446,
       "url": "https://jobicy.com/jobs/154446-senior-backend-engineer-workforce-verification",
@@ -3845,7 +3906,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T13:52:18+00:00",
-    "fetched_at": "2026-10-07T12:06:10.533Z",
+    "fetched_at": "2026-10-07T22:18:37.735Z",
     "raw": {
       "id": 154447,
       "url": "https://jobicy.com/jobs/154447-backend-engineer-3",
@@ -3894,7 +3955,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T03:35:16+00:00",
-    "fetched_at": "2026-10-07T12:06:10.534Z",
+    "fetched_at": "2026-10-07T22:18:37.737Z",
     "raw": {
       "id": 150024,
       "url": "https://jobicy.com/jobs/150024-lead-ai-solutions-architect-customer-success",
@@ -3946,7 +4007,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T03:35:08+00:00",
-    "fetched_at": "2026-10-07T12:06:10.535Z",
+    "fetched_at": "2026-10-07T22:18:37.737Z",
     "raw": {
       "id": 148143,
       "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
@@ -3998,7 +4059,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T03:35:04+00:00",
-    "fetched_at": "2026-10-07T12:06:10.536Z",
+    "fetched_at": "2026-10-07T22:18:37.739Z",
     "raw": {
       "id": 148145,
       "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
@@ -4045,7 +4106,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T03:30:26+00:00",
-    "fetched_at": "2026-10-07T12:06:10.537Z",
+    "fetched_at": "2026-10-07T22:18:37.739Z",
     "raw": {
       "id": 150052,
       "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
@@ -4108,7 +4169,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T03:30:25+00:00",
-    "fetched_at": "2026-10-07T12:06:10.538Z",
+    "fetched_at": "2026-10-07T22:18:37.740Z",
     "raw": {
       "id": 150064,
       "url": "https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus",
@@ -4157,7 +4218,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:43:39+00:00",
-    "fetched_at": "2026-10-07T12:06:10.539Z",
+    "fetched_at": "2026-10-07T22:18:37.741Z",
     "raw": {
       "id": 149985,
       "url": "https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang",
@@ -4212,7 +4273,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:43:37+00:00",
-    "fetched_at": "2026-10-07T12:06:10.540Z",
+    "fetched_at": "2026-10-07T22:18:37.741Z",
     "raw": {
       "id": 149988,
       "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka",
@@ -4260,7 +4321,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:43:36+00:00",
-    "fetched_at": "2026-10-07T12:06:10.540Z",
+    "fetched_at": "2026-10-07T22:18:37.742Z",
     "raw": {
       "id": 149994,
       "url": "https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch",
@@ -4308,7 +4369,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:43:32+00:00",
-    "fetched_at": "2026-10-07T12:06:10.541Z",
+    "fetched_at": "2026-10-07T22:18:37.743Z",
     "raw": {
       "id": 149984,
       "url": "https://jobicy.com/jobs/149984-golang-engineering-manager-commercial-systems",
@@ -4355,7 +4416,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:43:31+00:00",
-    "fetched_at": "2026-10-07T12:06:10.542Z",
+    "fetched_at": "2026-10-07T22:18:37.744Z",
     "raw": {
       "id": 149989,
       "url": "https://jobicy.com/jobs/149989-python-engineering-manager-commercial-systems",
@@ -4398,7 +4459,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-03T02:43:29+00:00",
-    "fetched_at": "2026-10-07T12:06:10.544Z",
+    "fetched_at": "2026-10-07T22:18:37.745Z",
     "raw": {
       "id": 152380,
       "url": "https://jobicy.com/jobs/152380-payments-solutions-architect-us-or-emea",
@@ -4443,7 +4504,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:43:25+00:00",
-    "fetched_at": "2026-10-07T12:06:10.544Z",
+    "fetched_at": "2026-10-07T22:18:37.746Z",
     "raw": {
       "id": 149993,
       "url": "https://jobicy.com/jobs/149993-developer-relations-engineer",
@@ -4488,7 +4549,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:43:16+00:00",
-    "fetched_at": "2026-10-07T12:06:10.546Z",
+    "fetched_at": "2026-10-07T22:18:37.747Z",
     "raw": {
       "id": 149947,
       "url": "https://jobicy.com/jobs/149947-electrical-engineer-data-centers",
@@ -4534,7 +4595,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:40:24+00:00",
-    "fetched_at": "2026-10-07T12:06:10.547Z",
+    "fetched_at": "2026-10-07T22:18:37.748Z",
     "raw": {
       "id": 149970,
       "url": "https://jobicy.com/jobs/149970-engineering-manager-ceph-distributed-storage",
@@ -4582,7 +4643,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:40:22+00:00",
-    "fetched_at": "2026-10-07T12:06:10.548Z",
+    "fetched_at": "2026-10-07T22:18:37.749Z",
     "raw": {
       "id": 149972,
       "url": "https://jobicy.com/jobs/149972-software-engineer-ceph-distributed-storage",
@@ -4636,7 +4697,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:40:20+00:00",
-    "fetched_at": "2026-10-07T12:06:10.549Z",
+    "fetched_at": "2026-10-07T22:18:37.750Z",
     "raw": {
       "id": 150061,
       "url": "https://jobicy.com/jobs/150061-senior-backend-engineer-ai-engineering-chat",
@@ -4686,7 +4747,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:40:16+00:00",
-    "fetched_at": "2026-10-07T12:06:10.550Z",
+    "fetched_at": "2026-10-07T22:18:37.750Z",
     "raw": {
       "id": 150065,
       "url": "https://jobicy.com/jobs/150065-data-java-engineer-ai-llm-chatbot-customer-service",
@@ -4738,7 +4799,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:40:14+00:00",
-    "fetched_at": "2026-10-07T12:06:10.550Z",
+    "fetched_at": "2026-10-07T22:18:37.751Z",
     "raw": {
       "id": 149971,
       "url": "https://jobicy.com/jobs/149971-software-engineer-data-infrastructure",
@@ -4786,7 +4847,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:40:08+00:00",
-    "fetched_at": "2026-10-07T12:06:10.551Z",
+    "fetched_at": "2026-10-07T22:18:37.752Z",
     "raw": {
       "id": 149940,
       "url": "https://jobicy.com/jobs/149940-ubuntu-linux-kernel-engineer-bios-firmware",
@@ -4832,7 +4893,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:40:07+00:00",
-    "fetched_at": "2026-10-07T12:06:10.552Z",
+    "fetched_at": "2026-10-07T22:18:37.752Z",
     "raw": {
       "id": 149996,
       "url": "https://jobicy.com/jobs/149996-ubuntu-core-software-engineer",
@@ -4879,7 +4940,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:40:05+00:00",
-    "fetched_at": "2026-10-07T12:06:10.552Z",
+    "fetched_at": "2026-10-07T22:18:37.753Z",
     "raw": {
       "id": 149969,
       "url": "https://jobicy.com/jobs/149969-linux-devices-software-engineer-snapd",
@@ -4926,7 +4987,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:35:19+00:00",
-    "fetched_at": "2026-10-07T12:06:10.553Z",
+    "fetched_at": "2026-10-07T22:18:37.754Z",
     "raw": {
       "id": 149981,
       "url": "https://jobicy.com/jobs/149981-software-architect-containers-virtualisation",
@@ -4973,7 +5034,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:35:18+00:00",
-    "fetched_at": "2026-10-07T12:06:10.554Z",
+    "fetched_at": "2026-10-07T22:18:37.755Z",
     "raw": {
       "id": 149980,
       "url": "https://jobicy.com/jobs/149980-engineering-manager-for-iam-identity-and-access-management",
@@ -5022,7 +5083,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:35:15+00:00",
-    "fetched_at": "2026-10-07T12:06:10.555Z",
+    "fetched_at": "2026-10-07T22:18:37.755Z",
     "raw": {
       "id": 149978,
       "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
@@ -5073,7 +5134,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T02:35:12+00:00",
-    "fetched_at": "2026-10-07T12:06:10.556Z",
+    "fetched_at": "2026-10-07T22:18:37.756Z",
     "raw": {
       "id": 149976,
       "url": "https://jobicy.com/jobs/149976-engineering-manager-web",
@@ -5092,53 +5153,6 @@
       "jobExcerpt": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
       "jobDescription": "<p><a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of globally distributed collaboration, with 1100+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p><p>The company is founder-led, profitable and growing.</p><p>We are hiring a Web Engineering Manager to work collaboratively with many teams and roles across the organisation including product managers and other engineering teams to deliver reliable, scalable and delightful user experiences for users of Canonical products. </p><p>As an Engineering Manager at Canonical, your primary responsibility is to the people you support: ensuring that they are growing as web engineers, doing valuable work, and generally having a great time at Canonical. As a lead for strong engineers, technical leadership and a solid background in web development is a must so that you’re able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p><p><strong>Location</strong>: This role will be based remotely in the EMEA region.</p><h2>The role entails</h2><ul>\n<li>Demonstrate sound engineering principles by directly contributing to your team’s goals</li>\n<li>Estimate work, set goals, and meet them</li>\n<li>Design and implement well-tested and documented software in Web technologies or Flutter.</li>\n<li>Debug and fix issues encountered by your users</li>\n<li>Participate in our engineering process through code and architectural reviews</li>\n<li>Collaborate with community and colleagues on technical specifications</li>\n<li>Contribute to technical documentation to make it the best of its kind</li>\n<li>Seek improvements to engineering and operations practices</li>\n<li>Deploy and operate services developed by the team</li>\n<li>Contribute to the success of your product through technical advocacy</li>\n</ul><h2>What we are looking for in you</h2><ul>\n<li>You are knowledgeable and passionate about web and software development</li>\n<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>\n<li>An exceptional academic track record from both high school and university</li>\n<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>\n<li>Drive and a track record of going above and beyond expectations</li>\n<li>Well-organised, self-starting and able to deliver to schedule</li>\n<li>Professional manner in interacting with colleagues, partners, and community</li>\n<li>Experience designing and writing high-quality Web technologies</li>\n<li>Experience with and passion for Typescript, React or Flutter</li>\n<li>An eye for accessibility and performance</li>\n<li>Professional written and spoken English</li>\n<li>Experience with Linux (Debian or Ubuntu preferred)</li>\n<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>\n<li>Passion, thoughtfulness, and self-motivation</li>\n<li>Excellent communication and presentation skills</li>\n<li>Result-oriented, with a personal drive to meet commitments</li>\n<li>Ability to travel twice a year, for company events for up to two weeks each</li>\n</ul><h2>Nice-to-have skills</h2><ul>\n<li>Experience with container tech such as LXD, Docker and Kubernetes</li>\n<li>Experience building and maintaining a talented team</li>\n<li>REST API design, development and governance</li>\n<li>Performance engineering and security experience</li>\n</ul><h2>What we offer colleagues</h2><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p><ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Employee Assistance Programme</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass, and travel upgrades for long-haul company events</li>\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p><h2>Canonical is an equal-opportunity employer</h2><p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background creates a better work environment and better products.</em><a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em> </em><em>Whatever your identity we will give your application fair consideration</em></a><em>.</em></p><p>#LI-Remote</p><p> </p>",
       "pubDate": "2026-10-03T02:35:12+00:00"
-    }
-  },
-  {
-    "id": "jobicy:149975",
-    "platform": "jobicy",
-    "external_id": "149975",
-    "title": "Senior Ubuntu Embedded IoT System Engineer",
-    "company": "Canonical",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Canonical's OEM Delivery Team works with tier-one OEM, IHV, and ODM customers to pre-load Ubuntu Classic, Ubuntu Core, and bring Ubuntu directly to millions of users. You will have the opportunity to enable cutting edge technology with world leading partners, and become the first contributor to the innovation. We are hiring a Senior Ubuntu Embedded IoT System Engineer to represent Canonical with leading OEMs, ODMs, and silicon partners and to deliver the best user experience of Ubuntu on partner hardware for Robotics, Automotive, SmartNIC, Medical device, Industry gateway and many other products. In this role, you will use your knowledge of Linux and hardware and improve Ubuntu for millions of users. We work with the world's most significant silicon companies - Intel, AMD, Nvidia, Mediatek, Hisilicon, Samsung and more - to optimize Ubuntu on their next-generation chips. We also work with OEMs and ODMs - Dell, HP, Lenovo, Advantech, ADLink and many more - to ensure that Ubuntu works perfectly on their hardware. This fast-paced environment requires excellent time management, insightful debugging, critical thinking, problem-solving skills and deep knowledge of the Linux system​. Location: This role will be based remotely in the EMEA region The role entails Provide software and system engineering services for OEM and ODM customers Work closely with partners on platform bring up Work with project managers and Field/QA engineers to identify, triage, and fix critical problems Work with individual upstream projects to find and apply patches for bugs Conduct root cause analysis, collect and organize details to reproduce and explain results Facilitate communication between Ubuntu, firmware and hardware engineering teams Occasional international travel to the EU, USA, Taiwan and China What we are looking for in you A Bachelor or higher degree in STEM, preferably Computer Science or Electrical Engineering Exceptional academic track record from both high school and university Professional written and spoken English with excellent presentation skills Familiar with C, Python and Bash Familiar with linux boot up process Linux kernel, boot and system-level architecture skills Experience of bootloader development, such as u-boot Software development on Arm or non-X86 platforms Linux debugging and resolution abilities Ability to be productive in a globally distributed team Ability to learn fast to work on cutting edge technologies Ability to travel internationally twice a year for company events up to two weeks long Nice-to-have skills Experience with system firmware, including uboot, UEFI, ACPI, DSDT, boot loaders, device firmware Experience debugging power management on PCI ASPM, SATA ALPM, low power profiles Experience in board design, bring up, and validation Experience with electrical engineering design tools (e.g. schematic capture, layout) Computer architecture knowledge of x86, ARM, RISC-V Familiarity with Ubuntu development model Shell/Python scripting skills What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program &amp; Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-    "url": "https://jobicy.com/jobs/149975-senior-ubuntu-embedded-iot-system-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "EMEA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "linux",
-      "bash"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-03T02:35:11+00:00",
-    "fetched_at": "2026-10-07T12:06:10.556Z",
-    "raw": {
-      "id": 149975,
-      "url": "https://jobicy.com/jobs/149975-senior-ubuntu-embedded-iot-system-engineer",
-      "jobSlug": "149975-senior-ubuntu-embedded-iot-system-engineer",
-      "jobTitle": "Senior Ubuntu Embedded IoT System Engineer",
-      "companyName": "Canonical",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "EMEA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "jobDescription": "<p><a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p><p>The company is founder-led, profitable, and growing.</p><p>Canonical's OEM Delivery Team works with tier-one OEM, IHV, and ODM customers to pre-load Ubuntu Classic, Ubuntu Core, and bring Ubuntu directly to millions of users. You will have the opportunity to enable cutting edge technology with world leading partners, and become the first contributor to the innovation.</p><p>We are hiring a <strong>Senior Ubuntu Embedded IoT System Engineer </strong>to represent Canonical with leading OEMs, ODMs, and silicon partners and to deliver the best user experience of Ubuntu on partner hardware for Robotics, Automotive, SmartNIC, Medical device, Industry gateway and many other products.</p><p>In this role, you will use your knowledge of Linux and hardware and improve Ubuntu for millions of users. </p><p>We work with the world's most significant silicon companies - Intel, AMD, Nvidia, Mediatek, Hisilicon, Samsung and more - to optimize Ubuntu on their next-generation chips. We also work with OEMs and ODMs - Dell, HP, Lenovo, Advantech, ADLink and many more - to ensure that Ubuntu works perfectly on their hardware.</p><p>This fast-paced environment requires excellent time management, insightful debugging, critical thinking, problem-solving skills and deep knowledge of the Linux system​.</p><p>Location: <em>This role will be based remotely in the EMEA region</em></p><h2><strong>The role entails</strong></h2><ul>\n<li>Provide software and system engineering services for OEM and ODM customers</li>\n<li>Work closely with partners on platform bring up</li>\n<li>Work with project managers and Field/QA engineers to identify, triage, and fix critical problems</li>\n<li>Work with individual upstream projects to find and apply patches for bugs</li>\n<li>Conduct root cause analysis, collect and organize details to reproduce and explain results</li>\n<li>Facilitate communication between Ubuntu, firmware and hardware engineering teams</li>\n<li>Occasional international travel to the EU, USA, Taiwan and China</li>\n</ul><p> </p><h2><strong>What we are looking for in you</strong></h2><ul>\n<li>A Bachelor or higher degree in STEM, preferably Computer Science or Electrical Engineering</li>\n<li>Exceptional academic track record from both high school and university</li>\n<li>Professional written and spoken English with excellent presentation skills</li>\n<li>Familiar with C, Python and Bash</li>\n<li>Familiar with linux boot up process</li>\n<li>Linux kernel, boot and system-level architecture skills</li>\n<li>Experience of bootloader development, such as u-boot</li>\n<li>Software development on Arm or non-X86 platforms</li>\n<li>Linux debugging and resolution abilities</li>\n<li>Ability to be productive in a globally distributed team</li>\n<li>Ability to learn fast to work on cutting edge technologies</li>\n<li>Ability to travel internationally twice a year for company events up to two weeks long</li>\n</ul><h2><strong>Nice-to-have skills</strong></h2><ul>\n<li>Experience with system firmware, including uboot, UEFI, ACPI, DSDT, boot loaders, device firmware</li>\n<li>Experience debugging power management on PCI ASPM, SATA ALPM, low power profiles</li>\n<li>Experience in board design, bring up, and validation</li>\n<li>Experience with electrical engineering design tools (e.g. schematic capture, layout)</li>\n<li>Computer architecture knowledge of x86, ARM, RISC-V</li>\n<li>Familiarity with Ubuntu development model</li>\n<li>Shell/Python scripting skills</li>\n</ul><h2><strong>What we offer colleagues</strong></h2><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p><ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Team Member Assistance Program &amp; Wellness Platform</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass and travel upgrades for long-haul company events</li>\n</ul><h2><strong>About Canonical</strong></h2><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p><h2>Canonical is an equal opportunity employer</h2><p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Whatever your identity, we will give your application fair consideration.</a></p><p>#LI-remote</p><p><br></p>",
-      "pubDate": "2026-10-03T02:35:11+00:00"
     }
   }
 ]

@@ -1,5 +1,43 @@
 [
   {
+    "id": "wwr:dremio-senior-staff-software-engineer-query-execution",
+    "platform": "wwr",
+    "external_id": "dremio-senior-staff-software-engineer-query-execution",
+    "title": "Senior Staff Software Engineer - Query Execution",
+    "company": "Dremio",
+    "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, owning the systems that turn query plans into efficient, reliable execution. As a Senior Staff Software Engineer, you’ll work on query operators, expression evaluation, memory management, execution scheduling, runtime planning, and performance optimization. Your work will directly affect query performance, scalability, and reliability across Dremio’s cloud data platform. &nbsp; What you’ll be doing Build the execution engine: Design, implement, test, and support query operators, expression evaluation, execution scheduling, runtime planning, and resource management. Improve runtime performance: Optimize vectorized processing, concurrency, parallelism, memory usage, data exchange, and disk spilling. Diagnose difficult problems: Investigate query correctness and performance issues using query profiles, profiling tools, telemetry, benchmarks, logs, and production data. Optimize Java and the JVM: Improve CPU utilization, allocation behavior, garbage collection, thread behavior, and other runtime characteristics. Collaborate across the query engine: Work with Query Planner, Datalake, Product, Support, and field engineering teams on end-to-end query improvements. Use AI-assisted development tools: Apply AI tools to code comprehension, debugging, test generation, documentation, and incident analysis. Apply engineering judgment: Validate AI-generated code and recommendations through review, testing, benchmarking, and engineering judgment. Raise the engineering bar: Participate in design and code reviews, contribute to technical direction, and mentor other engineers. &nbsp; What we’re looking for Software engineering experience: 5+ years developing production software, preferably in database systems, query execution, distributed systems, or related areas. Programming skills: Strong Java skills; experience with C++ is a plus. Computer science fundamentals: Strong foundation in data structures, algorithms, concurrency, multithreaded programming, and asynchronous programming. Database and distributed systems knowledge: Understanding of database internals, query processing, distributed execution, and performance optimization. Performance engineering experience: Experience profiling and optimizing CPU, memory, garbage collection, thread behavior, or other runtime characteristics. Problem-solving ability: Ability to solve ambiguous technical problems and work effectively across team boundaries. Engineering judgment: Ability to evaluate tradeoffs, validate solutions rigorously, and make sound decisions when working with unfamiliar or AI-assisted implementations. Communication and ownership: Strong communication skills, a sense of ownership, and a commitment to delivering high-quality software. &nbsp; Bonus points if you have Query engines: Distributed query engines, database engines, or large-scale data processing systems. Execution techniques: Vectorized execution, query operators, expression evaluation, code generation, or runtime optimization. Runtime systems: JVM profiling, memory management, caching, networking, data exchange, execution scheduling, or disk spilling. Data platforms: Apache Arrow, Apache Iceberg, Parquet, Avro, Spark, Hadoop, or cloud object stores. Open source: Contributing to open-source projects. What we value&nbsp; At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a \"flywheel\". People who like to jump in and drive momentum will thrive in our #GnarlyLife. Dremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor. Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter. Dremio has policies in place to protect the personal information that employees and applicants disclose to us. Please click here to review the privacy notice.&nbsp; Important Security Notice for Candidates At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&nbsp; here . Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company. To apply: https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "java",
+      "apache",
+      "spark"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-09-28T07:31:05.000Z",
+    "fetched_at": "2026-10-07T22:18:37.930Z",
+    "raw": {
+      "title": "Dremio: Senior Staff Software Engineer - Query Execution",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Portugal - Remote\n</p>\n\n<div class=\"content-intro\"><h2><strong>Be Part of Building the Future</strong></h2>\n<p>Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;<a class=\"c-link\" href=\"http://www.dremio.com/\">www.dremio.com.</a></p></div><p><strong>About the role</strong></p>\n<p>Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, owning the systems that turn query plans into efficient, reliable execution.</p>\n<p>As a Senior Staff Software Engineer, you’ll work on query operators, expression evaluation, memory management, execution scheduling, runtime planning, and performance optimization. Your work will directly affect query performance, scalability, and reliability across Dremio’s cloud data platform.</p>\n<p>&nbsp;</p>\n<p><strong>What you’ll be doing</strong></p>\n<ul>\n<li>Build the execution engine: Design, implement, test, and support query operators, expression evaluation, execution scheduling, runtime planning, and resource management.</li>\n<li>Improve runtime performance: Optimize vectorized processing, concurrency, parallelism, memory usage, data exchange, and disk spilling.</li>\n<li>Diagnose difficult problems: Investigate query correctness and performance issues using query profiles, profiling tools, telemetry, benchmarks, logs, and production data.</li>\n<li>Optimize Java and the JVM: Improve CPU utilization, allocation behavior, garbage collection, thread behavior, and other runtime characteristics.</li>\n<li>Collaborate across the query engine: Work with Query Planner, Datalake, Product, Support, and field engineering teams on end-to-end query improvements.</li>\n<li>Use AI-assisted development tools: Apply AI tools to code comprehension, debugging, test generation, documentation, and incident analysis.</li>\n<li>Apply engineering judgment: Validate AI-generated code and recommendations through review, testing, benchmarking, and engineering judgment.</li>\n<li>Raise the engineering bar: Participate in design and code reviews, contribute to technical direction, and mentor other engineers.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What we’re looking for</strong></p>\n<ul>\n<li>Software engineering experience: 5+ years developing production software, preferably in database systems, query execution, distributed systems, or related areas.</li>\n<li>Programming skills: Strong Java skills; experience with C++ is a plus.</li>\n<li>Computer science fundamentals: Strong foundation in data structures, algorithms, concurrency, multithreaded programming, and asynchronous programming.</li>\n<li>Database and distributed systems knowledge: Understanding of database internals, query processing, distributed execution, and performance optimization.</li>\n<li>Performance engineering experience: Experience profiling and optimizing CPU, memory, garbage collection, thread behavior, or other runtime characteristics.</li>\n<li>Problem-solving ability: Ability to solve ambiguous technical problems and work effectively across team boundaries.</li>\n<li>Engineering judgment: Ability to evaluate tradeoffs, validate solutions rigorously, and make sound decisions when working with unfamiliar or AI-assisted implementations.</li>\n<li>Communication and ownership: Strong communication skills, a sense of ownership, and a commitment to delivering high-quality software.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Bonus points if you have</strong></p>\n<ul>\n<li>Query engines: Distributed query engines, database engines, or large-scale data processing systems.</li>\n<li>Execution techniques: Vectorized execution, query operators, expression evaluation, code generation, or runtime optimization.</li>\n<li>Runtime systems: JVM profiling, memory management, caching, networking, data exchange, execution scheduling, or disk spilling.</li>\n<li>Data platforms: Apache Arrow, Apache Iceberg, Parquet, Avro, Spark, Hadoop, or cloud object stores.</li>\n<li>Open source: Contributing to open-source projects.</li>\n</ul><div class=\"content-conclusion\"><h3><strong>What we value&nbsp;</strong></h3>\n<p><span>At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a \"flywheel\". People who like to jump in and drive momentum will thrive in our #GnarlyLife.</span></p>\n<p><em><span>Dremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor.</span></em></p>\n<p><em><span>Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter.</span></em></p>\n<p><em><span>Dremio has policies in place to protect the personal information that employees and applicants disclose to us. Please click </span></em><a href=\"https://docs.google.com/document/d/1CB96QFmOX-bFy48YFOe2GO5lmdawOpKKBj8DpTgsuNg/edit?usp=sharing\"><em><span>here</span></em></a><em><span> to review the privacy notice.&nbsp;</span></em></p>\n<h3><strong>Important Security Notice for Candidates</strong></h3>\n<p><span>At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&nbsp;<a href=\"https://www.dremio.com/blog/stay-alert-for-fraudulent-recruitment-attempts-that-falsely-claim-association-with-dremio/\">here</a>.</span></p>\n<p><em>Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.</em></p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution\">https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution</a></p>",
+      "pubDate": "Mon, 28 Sep 2026 07:31:05 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution"
+    }
+  },
+  {
     "id": "wwr:toggl-senior-full-stack",
     "platform": "wwr",
     "external_id": "toggl-senior-full-stack",
@@ -28,7 +66,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-28T14:51:27.000Z",
-    "fetched_at": "2026-10-07T12:06:10.576Z",
+    "fetched_at": "2026-10-07T22:18:37.931Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0074/7274/logo.gif",
@@ -66,7 +104,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-24T14:45:20.000Z",
-    "fetched_at": "2026-10-07T12:06:10.576Z",
+    "fetched_at": "2026-10-07T22:18:37.932Z",
     "raw": {
       "title": "Toptal: Salesforce Platform Lead for Global Industrial Company",
       "region": "North America Only",
@@ -105,7 +143,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-23T15:03:18.000Z",
-    "fetched_at": "2026-10-07T12:06:10.577Z",
+    "fetched_at": "2026-10-07T22:18:37.932Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6433/logo.gif",
@@ -148,7 +186,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-23T07:31:13.000Z",
-    "fetched_at": "2026-10-07T12:06:10.578Z",
+    "fetched_at": "2026-10-07T22:18:37.933Z",
     "raw": {
       "title": "Glean: Application Security Engineer",
       "region": "Anywhere in the World",
@@ -184,7 +222,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-21T10:14:35.000Z",
-    "fetched_at": "2026-10-07T12:06:10.578Z",
+    "fetched_at": "2026-10-07T22:18:37.934Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0076/3373/logo.gif",
@@ -234,7 +272,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-19T07:31:10.000Z",
-    "fetched_at": "2026-10-07T12:06:10.579Z",
+    "fetched_at": "2026-10-07T22:18:37.934Z",
     "raw": {
       "title": "Hex Technologies: Cloud Security Engineer",
       "region": "Anywhere in the World",
@@ -268,7 +306,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-18T17:01:08.000Z",
-    "fetched_at": "2026-10-07T12:06:10.580Z",
+    "fetched_at": "2026-10-07T22:18:37.935Z",
     "raw": {
       "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
       "region": "North America Only",
@@ -306,7 +344,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-18T07:30:46.000Z",
-    "fetched_at": "2026-10-07T12:06:10.581Z",
+    "fetched_at": "2026-10-07T22:18:37.936Z",
     "raw": {
       "title": "Collibra: CPS Account Program Manager",
       "region": "Anywhere in the World",
@@ -344,7 +382,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-09-17T10:51:23.000Z",
-    "fetched_at": "2026-10-07T12:06:10.582Z",
+    "fetched_at": "2026-10-07T22:18:37.937Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0017/1267/logo.gif",
@@ -390,7 +428,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-17T19:21:19.000Z",
-    "fetched_at": "2026-10-07T12:06:10.582Z",
+    "fetched_at": "2026-10-07T22:18:37.938Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6209/logo.gif",
@@ -435,7 +473,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-17T13:57:14.000Z",
-    "fetched_at": "2026-10-07T12:06:10.583Z",
+    "fetched_at": "2026-10-07T22:18:37.939Z",
     "raw": {
       "title": "Samsara: Staff Software Engineer",
       "region": "Anywhere in the World",
@@ -475,7 +513,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-16T12:24:17.000Z",
-    "fetched_at": "2026-10-07T12:06:10.583Z",
+    "fetched_at": "2026-10-07T22:18:37.939Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0018/9370/logo.gif",
@@ -522,7 +560,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-15T14:12:47.000Z",
-    "fetched_at": "2026-10-07T12:06:10.584Z",
+    "fetched_at": "2026-10-07T22:18:37.940Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6373/logo.gif",
@@ -572,7 +610,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-15T12:53:09.000Z",
-    "fetched_at": "2026-10-07T12:06:10.585Z",
+    "fetched_at": "2026-10-07T22:18:37.940Z",
     "raw": {
       "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture",
       "region": "Anywhere in the World",
@@ -626,7 +664,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-09-15T09:06:31.000Z",
-    "fetched_at": "2026-10-07T12:06:10.585Z",
+    "fetched_at": "2026-10-07T22:18:37.941Z",
     "raw": {
       "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
       "region": "Anywhere in the World",
@@ -668,7 +706,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-09-15T09:01:36.000Z",
-    "fetched_at": "2026-10-07T12:06:10.586Z",
+    "fetched_at": "2026-10-07T22:18:37.942Z",
     "raw": {
       "title": "Proxify AB: Senior Backend Developer (Python)",
       "region": "Anywhere in the World",
@@ -707,7 +745,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-15T08:51:45.000Z",
-    "fetched_at": "2026-10-07T12:06:10.586Z",
+    "fetched_at": "2026-10-07T22:18:37.942Z",
     "raw": {
       "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
       "region": "Anywhere in the World",
@@ -745,7 +783,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-09-14T07:31:07.000Z",
-    "fetched_at": "2026-10-07T12:06:10.587Z",
+    "fetched_at": "2026-10-07T22:18:37.943Z",
     "raw": {
       "title": "Reddit: Backend Engineer, IAM",
       "region": "Anywhere in the World",
@@ -779,7 +817,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-13T07:31:06.000Z",
-    "fetched_at": "2026-10-07T12:06:10.588Z",
+    "fetched_at": "2026-10-07T22:18:37.944Z",
     "raw": {
       "title": "Pinterest: Data Scientist II, Infrastructure",
       "region": "Anywhere in the World",
@@ -820,7 +858,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-05-14T09:14:28.000Z",
-    "fetched_at": "2026-10-07T12:06:10.588Z",
+    "fetched_at": "2026-10-07T22:18:37.944Z",
     "raw": {
       "title": "Sticker Mule: Software engineer",
       "region": "Anywhere in the World",
@@ -854,7 +892,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-11T07:30:48.000Z",
-    "fetched_at": "2026-10-07T12:06:10.589Z",
+    "fetched_at": "2026-10-07T22:18:37.945Z",
     "raw": {
       "title": "Fin: Solutions Architect -Spanish Speaking",
       "region": "Anywhere in the World",
@@ -891,7 +929,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-10T21:30:33.000Z",
-    "fetched_at": "2026-10-07T12:06:10.589Z",
+    "fetched_at": "2026-10-07T22:18:37.946Z",
     "raw": {
       "title": "Toptal: Power Platform Solutions Architect",
       "region": "North America Only",
@@ -927,7 +965,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-09T07:30:41.000Z",
-    "fetched_at": "2026-10-07T12:06:10.591Z",
+    "fetched_at": "2026-10-07T22:18:37.947Z",
     "raw": {
       "title": "Salesloft: Commercial Account Manager",
       "region": "Anywhere in the World",
@@ -992,7 +1030,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-08T13:49:13.000Z",
-    "fetched_at": "2026-10-07T12:06:10.591Z",
+    "fetched_at": "2026-10-07T22:18:37.947Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6398/logo.gif",
@@ -1005,60 +1043,6 @@
       "pubDate": "Tue, 08 Sep 2026 13:49:13 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1",
       "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1"
-    }
-  },
-  {
-    "id": "wwr:lemon-io-senior-java-react-developer",
-    "platform": "wwr",
-    "external_id": "lemon-io-senior-java-react-developer",
-    "title": "Senior Java & React Developer",
-    "company": "Lemon.io",
-    "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your location, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have different projects for Java &amp; React Developers from different locations, remote. Requirements: 4+ years of commercial software development experience; 3+ years of commercial experience with React (required); 3+ years of commercial experience with Java (required). Also, we have an urgent project for European developers. Here are the requirements : 8+ years of commercial software development experience; 4+ years of commercial experience with React (required); 8+ years of commercial experience with Java (required); 4+ years of commercial experience with Spring (required). Other requirements: Strong technical skills: as a Senior Engineer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas — AI Engineering, React &amp; Python, React &amp; Node, Swift &amp; SwiftUI, Unity &amp; C#, Python &amp; LLM, React Native &amp; Node, Blockchain, WordPress, Golang, DevOps &amp; Azurem Rust, Svelte &amp; TypeScript, Svelte &amp; Node, Svelte &amp; Python, or Shopify &amp; JavaScript — we’d be happy to connect and match you with a suitable project. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa). To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer",
-    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "python",
-      "rust",
-      "go",
-      "java",
-      "swift",
-      "react",
-      "svelte",
-      "nodejs",
-      "spring",
-      "llm",
-      "react-native",
-      "swiftui",
-      "blockchain"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-09-07T14:09:46.000Z",
-    "fetched_at": "2026-10-07T12:06:10.592Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6341/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Lemon.io: Senior Java & React Developer",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6341/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> New York, NY\n    <br /><strong>URL:</strong> <a href=\"https://lemon.io\">https://lemon.io</a>\n</p>\n\n<p>Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_fullstack_react/java_sep_2026_job_ad\">Lemon.io</a> — the marketplace that connects you with hand-picked startups in the US and Europe.</p>\n<p><strong>What we offer:</strong></p>\n<ul>\n<li>The rate depends on your location, skills and experience. We've already paid out over $11M to our engineers.</li>\n<li>No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.</li>\n<li>We'll manually find the best project for you according to your skills and preferences.</li>\n<li>Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.</li>\n<li>We respect your seniority so you can expect no micromanagement or screen trackers.</li>\n<li>Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?</li>\n<li>We will support you from the time you submit the application throughout all cooperation stages.</li>\n<li>Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.</li>\n<li>Through our community, we will connect you with the best developers from more than 75 countries.</li>\n</ul>\n<p>We have different projects for Java &amp; React Developers from different locations, remote.</p>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>4+ years of commercial <strong>software</strong> development experience;</li>\n<li>3+ years of commercial experience with React (required);</li>\n<li>3+ years of commercial experience with Java (required).</li>\n</ul>\n<p>Also, we have an urgent project for European developers. Here are the <strong>requirements</strong>:</p>\n<ul>\n<li>8+ years of commercial software development experience;</li>\n<li>4+ years of commercial experience with React (required);</li>\n<li>8+ years of commercial experience with Java (required);</li>\n<li>4+ years of commercial experience with Spring (required).</li>\n</ul>\n<p><strong>Other requirements:</strong></p>\n<ul>\n<li>Strong technical skills: as a Senior Engineer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.</li>\n<li>Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.</li>\n<li>Strong self-organizational skills — ability to work full-time remotely with no supervision.</li>\n<li>Reliability — we want to trust you and expect that you won’t let us and the client down.</li>\n<li>Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.</li>\n</ul>\n<p><strong>NOT YOUR TECH STACK?</strong></p>\n<p>We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas — AI Engineering, React &amp; Python, React &amp; Node, Swift &amp; SwiftUI, Unity &amp; C#, Python &amp; LLM, React Native &amp; Node, Blockchain, WordPress, Golang, DevOps &amp; Azurem Rust, Svelte &amp; TypeScript, Svelte &amp; Node, Svelte &amp; Python, or Shopify &amp; JavaScript — we’d be happy to connect and match you with a suitable project.</p>\n<p>We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.</p>\n<p>We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer\">https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer</a></p>",
-      "pubDate": "Mon, 07 Sep 2026 14:09:46 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer",
-      "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer"
     }
   },
   {
@@ -1096,7 +1080,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-07T07:30:53.000Z",
-    "fetched_at": "2026-10-07T12:06:10.703Z",
+    "fetched_at": "2026-10-07T22:18:38.313Z",
     "raw": {
       "title": "BeyondTrust: Cloud Engineer",
       "region": "Anywhere in the World",
@@ -1138,7 +1122,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-06T07:31:09.000Z",
-    "fetched_at": "2026-10-07T12:06:10.704Z",
+    "fetched_at": "2026-10-07T22:18:38.316Z",
     "raw": {
       "title": "PagerDuty: Principal Solutions Consultant",
       "region": "Anywhere in the World",
@@ -1183,7 +1167,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-06T07:31:09.000Z",
-    "fetched_at": "2026-10-07T12:06:10.706Z",
+    "fetched_at": "2026-10-07T22:18:38.318Z",
     "raw": {
       "title": "LaunchDarkly: Engineering Manager, Cloud Engineering",
       "region": "Anywhere in the World",
@@ -1228,7 +1212,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-05T07:31:16.000Z",
-    "fetched_at": "2026-10-07T12:06:10.707Z",
+    "fetched_at": "2026-10-07T22:18:38.319Z",
     "raw": {
       "title": "Datadog: Enterprise Sales Engineer - FED",
       "region": "Anywhere in the World",
@@ -1274,7 +1258,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-07T12:06:10.707Z",
+    "fetched_at": "2026-10-07T22:18:38.319Z",
     "raw": {
       "title": "Vercel: Senior Manager, Solutions Architect",
       "region": "Anywhere in the World",
@@ -1320,7 +1304,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-07T12:06:10.708Z",
+    "fetched_at": "2026-10-07T22:18:38.320Z",
     "raw": {
       "title": "Vercel: Security Engineer, Cloud",
       "region": "Anywhere in the World",
@@ -1364,7 +1348,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-29T07:30:55.000Z",
-    "fetched_at": "2026-10-07T12:06:10.709Z",
+    "fetched_at": "2026-10-07T22:18:38.320Z",
     "raw": {
       "title": "Discord: Senior Software Engineer, Application Security",
       "region": "Anywhere in the World",
@@ -1417,7 +1401,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-07T12:06:10.710Z",
+    "fetched_at": "2026-10-07T22:18:38.322Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Principal Infrastructure Architect: Data Platform",
       "region": "Anywhere in the World",
@@ -1466,7 +1450,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-28T07:31:13.000Z",
-    "fetched_at": "2026-10-07T12:06:10.711Z",
+    "fetched_at": "2026-10-07T22:18:38.323Z",
     "raw": {
       "title": "Collibra: CPS Solution Architect",
       "region": "Anywhere in the World",
@@ -1515,7 +1499,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-28T07:31:05.000Z",
-    "fetched_at": "2026-10-07T12:06:10.712Z",
+    "fetched_at": "2026-10-07T22:18:38.324Z",
     "raw": {
       "title": "Collibra: CPS Solution Architect",
       "region": "Anywhere in the World",
@@ -1562,7 +1546,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-25T00:33:21.000Z",
-    "fetched_at": "2026-10-07T12:06:10.712Z",
+    "fetched_at": "2026-10-07T22:18:38.324Z",
     "raw": {
       "title": "thehivecareers.co: DevOps Engineer (Remote)",
       "region": "Anywhere in the World",
@@ -1601,7 +1585,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-21T07:30:39.000Z",
-    "fetched_at": "2026-10-07T12:06:10.713Z",
+    "fetched_at": "2026-10-07T22:18:38.325Z",
     "raw": {
       "title": "Huntress: Sales Development Representative - Mid-Market",
       "region": "Anywhere in the World",
@@ -1647,7 +1631,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-20T07:31:09.000Z",
-    "fetched_at": "2026-10-07T12:06:10.714Z",
+    "fetched_at": "2026-10-07T22:18:38.326Z",
     "raw": {
       "title": "Datadog: Developer Advocate - Service Management EMEA",
       "region": "Anywhere in the World",
@@ -1692,7 +1676,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-19T07:31:10.000Z",
-    "fetched_at": "2026-10-07T12:06:10.715Z",
+    "fetched_at": "2026-10-07T22:18:38.326Z",
     "raw": {
       "title": "CircleCI: Software Engineer",
       "region": "Anywhere in the World",
@@ -1731,7 +1715,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-15T07:30:54.000Z",
-    "fetched_at": "2026-10-07T12:06:10.716Z",
+    "fetched_at": "2026-10-07T22:18:38.328Z",
     "raw": {
       "title": "Keeper Security: Bilingual Channel Account Manager, Arabic (MEA) - UK",
       "region": "Anywhere in the World",
@@ -1777,7 +1761,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-14T07:31:07.000Z",
-    "fetched_at": "2026-10-07T12:06:10.717Z",
+    "fetched_at": "2026-10-07T22:18:38.328Z",
     "raw": {
       "title": "Datadog: Developer Advocate - Service Management",
       "region": "Anywhere in the World",
@@ -1819,7 +1803,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-09T07:30:36.000Z",
-    "fetched_at": "2026-10-07T12:06:10.718Z",
+    "fetched_at": "2026-10-07T22:18:38.330Z",
     "raw": {
       "title": "Platform.sh: Billing Systems Architect",
       "region": "Anywhere in the World",
@@ -1869,7 +1853,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-08T07:31:09.000Z",
-    "fetched_at": "2026-10-07T12:06:10.719Z",
+    "fetched_at": "2026-10-07T22:18:38.330Z",
     "raw": {
       "title": "JFrog: Senior Professional Services DevOps Engineer",
       "region": "Anywhere in the World",
