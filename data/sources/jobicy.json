@@ -1,5 +1,215 @@
 [
   {
+    "id": "jobicy:152814",
+    "platform": "jobicy",
+    "external_id": "152814",
+    "title": "Business Systems Engineer",
+    "company": "ClickUp",
+    "description": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. Job Summary As a Business Systems Engineer on the GTM Engineering team, you will design, build, and operate the automation and AI systems that power ClickUp's Go-To-Market business — spanning core business products and the integration platforms that connect them. This role is AI-native at its core: you won't just maintain existing workflows, you'll actively advance our GTM systems with intelligent agents, LLM-powered automations, and next-generation integration patterns built on MCP, ClickUp Super Agents, and modern iPaaS tooling. You'll sit at the intersection of business systems architecture and applied AI — partnering with Sales, Finance, Revenue Operations, and fellow GTM Systems engineers to eliminate toil, accelerate revenue workflows, and build the automated, AI-augmented infrastructure the company runs on. This is a hands-on engineering role for someone deeply fluent in enterprise business systems, excited about deploying production AI, and committed to genuine ownership of the platforms they build — directly supporting GTMSOE's broader mission of operational excellence across the GTM org. Key Responsibilities AI-Native Automation &amp; Agent Development Design and build AI-powered automations and agentic workflows across the GTM tech stack — including Salesforce, NetSuite, Workato, and MuleSoft — to eliminate manual effort and accelerate business operations. Develop and deploy ClickUp Super Agents and LLM-based automations to automate tasks such as deal data enrichment, quote generation assistance, order validation, revenue recognition triggers, and exception handling in quote-to-cash workflows. Architect and implement MCP (Model Context Protocol) integrations that allow AI agents to interact with business systems contextually and safely — enabling intelligent, event-driven actions across the GTM platform. Explore and evaluate emerging AI capabilities (RAG, fine-tuning, multi-agent orchestration) and determine which are production-ready for GTM business systems use cases. Build reusable AI templates, automation patterns, and agent blueprints that can be extended across the GTM Engineering team. Business Systems Integration &amp; Architecture Build and maintain integrations across Salesforce, NetSuite, Workato, MuleSoft, DealHub (CPQ), and other GTM platforms — with a strong bias toward clean architecture, low technical debt, and supportable design. Own end-to-end integration patterns for critical business flows such as lead-to-opportunity, quote-to-cash, order-to-fulfillment, and revenue reporting pipelines. Design data flows and transformation logic that keep business data accurate, consistent, and accessible across systems without creating fragile point-to-point dependencies. Apply a build-vs-buy mindset: evaluate whether a given automation need is best solved with native platform capabilities, iPaaS tooling, or custom code — and make the case clearly. Platform Development &amp; Tooling Build internal tooling, low-code/no-code solutions, and lightweight applications using platforms such as Retool, Replit, or similar to extend business systems capabilities with minimal overhead. Write automation scripts and data transformation logic in Python, JavaScript, or Apex as needed to bridge gaps that platform tooling cannot address natively. Utilize Zapier, Workato, and similar iPaaS platforms to orchestrate cross-system workflows that are maintainable, observable, and well-documented. Own the full lifecycle of what you build: discovery, design, development, testing, deployment, documentation, and ongoing optimization. Reliability, Observability &amp; Continuous Improvement Monitor the health and performance of automations and integrations you own; proactively identify degradation, data inconsistencies, or failure patterns before they impact business operations. Conduct root-cause analysis of integration failures or automation breakdowns and drive durable fixes — not just incident patches. Maintain runbooks and operational documentation so that platform behavior is understandable and recoverable by the broader team. Gather feedback from business stakeholders and iterate on existing automations to improve accuracy, reduce edge cases, and adapt to evolving GTM processes. Cross-Functional Collaboration &amp; Stakeholder Engagement Partner with Sales, Revenue Operations, Finance, and Customer Success stakeholders to translate business requirements into well-scoped technical solutions. Work closely with GTM Systems Engineering, DevOps, and BSA teammates on architecture decisions, intake prioritization, and delivery execution. Contribute to the GTM Systems Engineering operating model: maintain task hygiene, communicate proactively on large initiatives, and log AI/automation work in the team's AI Excellence registry. Serve as a subject matter expert for business systems automation and AI — educating stakeholders on what's possible and setting realistic expectations on scope and delivery. Qualifications Experience 3–5+ years in a business systems engineering, systems administration, or integration engineering role. Demonstrated experience building and shipping automations or integrations that delivered measurable business value in production environments. Hands-on experience with Salesforce and at least one ERP platform (NetSuite strongly preferred). Experience deploying AI or LLM-powered automations in a production business systems context — or a clear, demonstrated trajectory toward it. Experience working in a high-velocity environment where you manage multiple concurrent priorities and adapt quickly to changing business needs. Optional but valued: experience with DealHub (CPQ), ClickUp, quote-to-cash workflows, or revenue operations systems. Skills &amp; Competencies Technical Salesforce configuration, automation (Flow, Process Builder), Apex, and data model design — admin or developer-level proficiency required. NetSuite workflows, SuiteScript, SuiteBundler, saved searches, and data model — particularly as it relates to order management, billing, and revenue recognition. Hands-on experience with Workato, MuleSoft, Zapier, or comparable iPaaS platforms — including multi-step flows, error handling, and observability. Practical experience with LLM APIs (OpenAI, Claude, etc.), prompt engineering, agentic workflow design, and MCP integrations. Experience with ClickUp Super Agents is a strong plus. Proficient with Python, JavaScript, or Apex for automation scripting and data transformation; comfortable with REST APIs, webhooks, JSON, and OAuth-based integrations. Strong understanding of business systems data models and integration patterns (event-driven, batch, real-time). Operational &amp; Mindset Ownership: You take full responsibility for the systems you build — from reliability and documentation to stakeholder trust and continuous improvement. You don't hand off and walk away. Velocity: You move fast, iterate, and ship. You know when \"good enough and deployed\" beats \"perfect and blocked,\" and you never sacrifice reliability or data integrity to get there. AI &amp; Automation mindset: You default to asking \"how can an agent or LLM handle this?\" before reaching for a manual workflow — experimenting confidently and evaluating critically. Collaboration: You bridge the gap between technical architecture and business impact, asking clarifying questions, challenging assumptions respectfully, and earning trust with the stakeholders you support. Growth: You stay current on emerging AI capabilities, evaluate what's production-ready, and continuously raise the bar on what GTM systems can do. What You'll Work With Salesforce: CRM platform — automations, Flow, Apex, data model, reporting, and CPQ/OTC integrations. NetSuite: ERP platform — SuiteScript, workflows, order management, billing, and revenue recognition flows. ClickUp Super Agents: AI-powered automation and agentic task orchestration within the ClickUp ecosystem. Integration stack: Workato, MuleSoft, Zapier — recipe/flow development, cross-system orchestration, and platform observability. AI &amp; MCP tooling: LLM APIs, Model Context Protocol (MCP), agentic workflow design, and production AI integration patterns. Low-code tooling: Retool, Replit, or similar for internal applications and workflow extensions. Scripting &amp; APIs: Python, JavaScript, Apex, REST/webhook integrations, and JSON-based data transformation. Equal Opportunity Employer ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. Privacy Notice ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our Global Candidate Privacy Notice. If you are a Philippine Job Applicant, please also see our Philippine Data Privacy Notice for further details. Visa Sponsorship Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions. Fraud Alert ClickUp Talent Acquisition will only initiate contact via an @ clickup.com email or through our official careers portal on clickup.com . We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com. AI Processing Notice ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.",
+    "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "javascript",
+      "python",
+      "llm",
+      "machine-learning",
+      "rag",
+      "oauth"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-09T02:55:19+00:00",
+    "fetched_at": "2026-10-09T12:07:42.948Z",
+    "raw": {
+      "id": 152814,
+      "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
+      "jobSlug": "152814-business-systems-engineer",
+      "jobTitle": "Business Systems Engineer",
+      "companyName": "ClickUp",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cd5be0ef-221.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
+      "jobDescription": "<p>At <a href=\"https://jobicy.com/company/clickup\" target=\"_blank\" rel=\"noopener\">ClickUp</a>, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. </p>\n\n<h3>Job Summary</h3>\n<p>As a Business Systems Engineer on the GTM Engineering team, you will design, build, and operate the automation and AI systems that power ClickUp's Go-To-Market business — spanning core business products and the integration platforms that connect them. This role is AI-native at its core: you won't just maintain existing workflows, you'll actively advance our GTM systems with intelligent agents, LLM-powered automations, and next-generation integration patterns built on MCP, ClickUp Super Agents, and modern iPaaS tooling.</p>\n<p>You'll sit at the intersection of business systems architecture and applied AI — partnering with Sales, Finance, Revenue Operations, and fellow GTM Systems engineers to eliminate toil, accelerate revenue workflows, and build the automated, AI-augmented infrastructure the company runs on. This is a hands-on engineering role for someone deeply fluent in enterprise business systems, excited about deploying production AI, and committed to genuine ownership of the platforms they build — directly supporting GTMSOE's broader mission of operational excellence across the GTM org.</p>\n<h3>Key Responsibilities</h3>\n<h3>AI-Native Automation &amp; Agent Development</h3>\n<ul>\n<li>\n<p>Design and build AI-powered automations and agentic workflows across the GTM tech stack — including Salesforce, NetSuite, Workato, and MuleSoft — to eliminate manual effort and accelerate business operations.</p>\n</li>\n<li>\n<p>Develop and deploy ClickUp Super Agents and LLM-based automations to automate tasks such as deal data enrichment, quote generation assistance, order validation, revenue recognition triggers, and exception handling in quote-to-cash workflows.</p>\n</li>\n<li>\n<p>Architect and implement MCP (Model Context Protocol) integrations that allow AI agents to interact with business systems contextually and safely — enabling intelligent, event-driven actions across the GTM platform.</p>\n</li>\n<li>\n<p>Explore and evaluate emerging AI capabilities (RAG, fine-tuning, multi-agent orchestration) and determine which are production-ready for GTM business systems use cases.</p>\n</li>\n<li>\n<p>Build reusable AI templates, automation patterns, and agent blueprints that can be extended across the GTM Engineering team.</p>\n</li>\n</ul>\n<h3>Business Systems Integration &amp; Architecture</h3>\n<ul>\n<li>\n<p>Build and maintain integrations across Salesforce, NetSuite, Workato, MuleSoft, DealHub (CPQ), and other GTM platforms — with a strong bias toward clean architecture, low technical debt, and supportable design.</p>\n</li>\n<li>\n<p>Own end-to-end integration patterns for critical business flows such as lead-to-opportunity, quote-to-cash, order-to-fulfillment, and revenue reporting pipelines.</p>\n</li>\n<li>\n<p>Design data flows and transformation logic that keep business data accurate, consistent, and accessible across systems without creating fragile point-to-point dependencies.</p>\n</li>\n<li>\n<p>Apply a build-vs-buy mindset: evaluate whether a given automation need is best solved with native platform capabilities, iPaaS tooling, or custom code — and make the case clearly.</p>\n</li>\n</ul>\n<h3>Platform Development &amp; Tooling</h3>\n<ul>\n<li>\n<p>Build internal tooling, low-code/no-code solutions, and lightweight applications using platforms such as Retool, Replit, or similar to extend business systems capabilities with minimal overhead.</p>\n</li>\n<li>\n<p>Write automation scripts and data transformation logic in Python, JavaScript, or Apex as needed to bridge gaps that platform tooling cannot address natively.</p>\n</li>\n<li>\n<p>Utilize Zapier, Workato, and similar iPaaS platforms to orchestrate cross-system workflows that are maintainable, observable, and well-documented.</p>\n</li>\n<li>\n<p>Own the full lifecycle of what you build: discovery, design, development, testing, deployment, documentation, and ongoing optimization.</p>\n</li>\n</ul>\n<h3>Reliability, Observability &amp; Continuous Improvement</h3>\n<ul>\n<li>\n<p>Monitor the health and performance of automations and integrations you own; proactively identify degradation, data inconsistencies, or failure patterns before they impact business operations.</p>\n</li>\n<li>\n<p>Conduct root-cause analysis of integration failures or automation breakdowns and drive durable fixes — not just incident patches.</p>\n</li>\n<li>\n<p>Maintain runbooks and operational documentation so that platform behavior is understandable and recoverable by the broader team.</p>\n</li>\n<li>\n<p>Gather feedback from business stakeholders and iterate on existing automations to improve accuracy, reduce edge cases, and adapt to evolving GTM processes.</p>\n</li>\n</ul>\n<h3>Cross-Functional Collaboration &amp; Stakeholder Engagement</h3>\n<ul>\n<li>\n<p>Partner with Sales, Revenue Operations, Finance, and Customer Success stakeholders to translate business requirements into well-scoped technical solutions.</p>\n</li>\n<li>\n<p>Work closely with GTM Systems Engineering, DevOps, and BSA teammates on architecture decisions, intake prioritization, and delivery execution.</p>\n</li>\n<li>\n<p>Contribute to the GTM Systems Engineering operating model: maintain task hygiene, communicate proactively on large initiatives, and log AI/automation work in the team's AI Excellence registry.</p>\n</li>\n<li>\n<p>Serve as a subject matter expert for business systems automation and AI — educating stakeholders on what's possible and setting realistic expectations on scope and delivery.</p>\n</li>\n</ul>\n<h3>Qualifications</h3>\n<h3>Experience</h3>\n<ul>\n<li>\n<p>3–5+ years in a business systems engineering, systems administration, or integration engineering role.</p>\n</li>\n<li>\n<p>Demonstrated experience building and shipping automations or integrations that delivered measurable business value in production environments.</p>\n</li>\n<li>\n<p>Hands-on experience with Salesforce and at least one ERP platform (NetSuite strongly preferred).</p>\n</li>\n<li>\n<p>Experience deploying AI or LLM-powered automations in a production business systems context — or a clear, demonstrated trajectory toward it.</p>\n</li>\n<li>\n<p>Experience working in a high-velocity environment where you manage multiple concurrent priorities and adapt quickly to changing business needs.</p>\n</li>\n<li>\n<p>Optional but valued: experience with DealHub (CPQ), ClickUp, quote-to-cash workflows, or revenue operations systems.</p>\n</li>\n</ul>\n<h3>Skills &amp; Competencies</h3>\n<p><strong>Technical</strong></p>\n<ul>\n<li>\n<p>Salesforce configuration, automation (Flow, Process Builder), Apex, and data model design — admin or developer-level proficiency required.</p>\n</li>\n<li>\n<p>NetSuite workflows, SuiteScript, SuiteBundler, saved searches, and data model — particularly as it relates to order management, billing, and revenue recognition.</p>\n</li>\n<li>\n<p>Hands-on experience with Workato, MuleSoft, Zapier, or comparable iPaaS platforms — including multi-step flows, error handling, and observability.</p>\n</li>\n<li>\n<p>Practical experience with LLM APIs (OpenAI, Claude, etc.), prompt engineering, agentic workflow design, and MCP integrations. Experience with ClickUp Super Agents is a strong plus.</p>\n</li>\n<li>\n<p>Proficient with Python, JavaScript, or Apex for automation scripting and data transformation; comfortable with REST APIs, webhooks, JSON, and OAuth-based integrations.</p>\n</li>\n<li>\n<p>Strong understanding of business systems data models and integration patterns (event-driven, batch, real-time).</p>\n</li>\n</ul>\n<p><strong>Operational &amp; Mindset</strong></p>\n<ul>\n<li>\n<p><strong>Ownership:</strong> You take full responsibility for the systems you build — from reliability and documentation to stakeholder trust and continuous improvement. You don't hand off and walk away.</p>\n</li>\n<li>\n<p><strong>Velocity:</strong> You move fast, iterate, and ship. You know when \"good enough and deployed\" beats \"perfect and blocked,\" and you never sacrifice reliability or data integrity to get there.</p>\n</li>\n<li>\n<p><strong>AI &amp; Automation mindset:</strong> You default to asking \"how can an agent or LLM handle this?\" before reaching for a manual workflow — experimenting confidently and evaluating critically.</p>\n</li>\n<li>\n<p><strong>Collaboration:</strong> You bridge the gap between technical architecture and business impact, asking clarifying questions, challenging assumptions respectfully, and earning trust with the stakeholders you support.</p>\n</li>\n<li>\n<p><strong>Growth:</strong> You stay current on emerging AI capabilities, evaluate what's production-ready, and continuously raise the bar on what GTM systems can do.</p>\n</li>\n</ul>\n<h3>What You'll Work With</h3>\n<ul>\n<li>\n<p><strong>Salesforce:</strong> CRM platform — automations, Flow, Apex, data model, reporting, and CPQ/OTC integrations.</p>\n</li>\n<li>\n<p><strong>NetSuite:</strong> ERP platform — SuiteScript, workflows, order management, billing, and revenue recognition flows.</p>\n</li>\n<li>\n<p><strong>ClickUp Super Agents:</strong> AI-powered automation and agentic task orchestration within the ClickUp ecosystem.</p>\n</li>\n<li>\n<p><strong>Integration stack:</strong> Workato, MuleSoft, Zapier — recipe/flow development, cross-system orchestration, and platform observability.</p>\n</li>\n<li>\n<p><strong>AI &amp; MCP tooling:</strong> LLM APIs, Model Context Protocol (MCP), agentic workflow design, and production AI integration patterns.</p>\n</li>\n<li>\n<p><strong>Low-code tooling:</strong> Retool, Replit, or similar for internal applications and workflow extensions.</p>\n</li>\n<li>\n<p><strong>Scripting &amp; APIs:</strong> Python, JavaScript, Apex, REST/webhook integrations, and JSON-based data transformation.</p>\n</li>\n</ul>\n<p><strong>Equal Opportunity Employer </strong></p>\n<p><em>ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.</em></p>\n\n<p><strong>Privacy Notice</strong></p>\n<p><em>ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our </em><a href=\"https://clickup.com/careers-terms/candidate-privacy-notice\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>Global Candidate Privacy Notice.</em></a></p>\n<p><em>If you are a Philippine Job Applicant, please also see our </em><a href=\"https://t333.s.clickup-attachments-stg.com/t333/d9a53ce2-6d2c-48cd-84b1-ed4e525f9613/Philippine%20Data%20Privacy%20Notice_2024.pdf?view=open\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>Philippine Data Privacy Notice</em></a><em> for further details.</em></p>\n\n<p><strong>Visa Sponsorship</strong></p>\n<p><em>Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions.</em></p>\n\n<p><strong>Fraud Alert</strong></p>\n<p><em>ClickUp Talent Acquisition will only initiate contact via an <strong>@</strong></em><a href=\"http://clickup.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em><strong>clickup.com</strong></em></a><em> email or through our official careers portal on </em><a href=\"http://clickup.com\" rel=\"nofollow ugc noopener\" target=\"_blank\"><em>clickup.com</em></a><em>. We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com.</em></p>\n\n<p><strong>AI Processing Notice</strong></p>\n<p><em>ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.</em></p>",
+      "pubDate": "2026-10-09T02:55:19+00:00",
+      "salaryMin": 144000,
+      "salaryMax": 181000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:152819",
+    "platform": "jobicy",
+    "external_id": "152819",
+    "title": "Software Engineer, Data Integration",
+    "company": "Bayesian Health",
+    "description": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health Record (EHR) systems and the Bayesian platform, delivering critical, real-time insights to help clinicians save lives. Who We Are Bayesian Health ’s mission is to improve patient outcomes by empowering clinicians with the insights they need to make the right decision for the right patient at the point-of-care. We’re a diverse team of clinicians, engineers, machine learning experts, product designers, and performance improvement leaders committed to enabling smarter, patient-specific care delivery through unlocking the power of data. We’re funded by top tier tech and biotech investors: Obvious Ventures, Andreessen Horowitz, American Medical Association’s venture arm, Catalio Partners, and LifeForce Capital. Our company has won many awards; most recent recognitions include: Forbes AI Top 50, World Economic Forum Tech Pioneer, Time Best Inventions, BioTech AI Company of the Year. Read more about our recent publication in Nature Medicine that associates our products with lives saved. What you’ll do You will be at the forefront of a high-impact engineering mission, building the bridge between massive, complex Electronic Health Record (EHR) systems and the Bayesian platform to generate real-time lifesaving clinical insights that clinicians rely on. Working directly with our health system clients' technical teams, you'll turn fragmented data into immediate, actionable clinical insights that empower care teams to make the best decisions for their patients. Each integration is a partnership. An Implementation Lead owns the client relationship and project management; a Clinical Integration owns clinical workflow design and training. You own the technical workstream — which means you're the engineer in the room. When a lab result isn't reaching the Bayesian platform for a patient, you have thirty minutes and the client's full attention to trace it from the inbound HL7 message through parsing, mapping, and ingestion, and tell them what happened. Responsibilities Data Integration &amp; Ingestion: Partner with the client's technical teams to design and implement the data integration interface and ingestion pipelines that feed the Bayesian platform with real-time clinical data, powering insights that improve patient outcomes. Integration Testing &amp; Troubleshooting: Implement automated integration tests at the data layer, and work directly with client technical teams during integration testing to investigate and resolve issues, ensuring smooth and timely integrations. Production Deployment &amp; Go-Live: Execute the deployment process in close collaboration with the client's technical team, ensuring build and configuration for the data interface, ingestion, and mapping are successfully promoted to production for a seamless launch. During go-live week, you will serve as the technical point of contact for any data integration issues, both internally and with the client's teams, providing clear status updates to cross-functional partners so they can effectively manage client communication. Integration Tooling &amp; Automation: Develop frameworks and tooling, leveraging LLMs and automation, to increase the efficiency and velocity of our platform integrations as we scale. Cross-Functional Collaboration: Work alongside an Implementation Lead, Clinical Integration, and the client's technical teams to align the data integration workstream with the overall integration effort. Minimum qualifications BS in Computer Science or equivalent practical experience 3+ years building and deploying data pipelines to production, including integration with external APIs (Python preferred) Strong ability to investigate and resolve data correctness problem end-to-end, across services, storage, and external data sources. Experience with cloud solutions (AWS, Azure, etc.) and relational databases (PostgreSQL, MySQL, etc.) in a production environment Experience writing automated integration tests for production systems Strong communicator with a demonstrated ability to collaborate across functions, working effectively with internal stakeholders, including Project/Product Managers, to align on priorities and deliver results. Preferred qualifications Experience with health data, integration with Electronic Health Records (EHR) systems, and Health IT interoperability standards such as HL7v2 and FHIR. Experience rolling out production deployments, supporting systems through go-live via an on-call or support rotation, and triaging production issues Experience working with enterprise customers, and the agility and responsiveness they require. Experience building internal tooling or automation, including leveraging LLMs, to improve engineering velocity Bayesian Health provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.",
+    "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "postgresql",
+      "mysql",
+      "aws",
+      "azure",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-09T02:55:10+00:00",
+    "fetched_at": "2026-10-09T12:07:42.950Z",
+    "raw": {
+      "id": 152819,
+      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+      "jobSlug": "152819-software-engineer-data-integration",
+      "jobTitle": "Software Engineer, Data Integration",
+      "companyName": "Bayesian Health",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/f74593d8-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
+      "jobDescription": "<h3>Software Engineer, Data Integration</h3>\n\n<p><strong>In Brief</strong></p>\n<ul>\n<li>\n<p>We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives.</p>\n</li>\n<li>\n<p>Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health Record (EHR) systems and the Bayesian platform, delivering critical, real-time insights to help clinicians save lives.</p>\n</li>\n</ul>\n<h3><strong>Who We Are</strong></h3>\n<p><a href=\"https://jobicy.com/company/bayesian-health\" target=\"_blank\" rel=\"noopener\">Bayesian Health</a>’s mission is to improve patient outcomes by empowering clinicians with the insights they need to make the right decision for the right patient at the point-of-care. We’re a diverse team of clinicians, engineers, machine learning experts, product designers, and performance improvement leaders committed to enabling smarter, patient-specific care delivery through unlocking the power of data.</p>\n<p>We’re funded by top tier tech and biotech investors: Obvious Ventures, Andreessen Horowitz, American Medical Association’s venture arm, Catalio Partners, and LifeForce Capital. Our company has won many awards; most recent recognitions include: Forbes AI Top 50, World Economic Forum Tech Pioneer, Time Best Inventions, BioTech AI Company of the Year.</p>\n<p><a href=\"https://www.bayesianhealth.com/sepsis-research/?__hstc=251652889.1e7598f5de0ed9b513da684474e8a044.1710861879595.1710945070565.1710971833587.3&amp;__hssc=251652889.1.1710971833587&amp;__hsfp=1890770568\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>Read more about our recent publication in Nature Medicine that associates our products with lives saved.</u></a></p>\n\n<h3><strong>What you’ll do</strong></h3>\n<p>You will be at the forefront of a high-impact engineering mission, building the bridge between massive, complex Electronic Health Record (EHR) systems and the Bayesian platform to generate real-time lifesaving clinical insights that clinicians rely on. Working directly with our health system clients' technical teams, you'll turn fragmented data into immediate, actionable clinical insights that empower care teams to make the best decisions for their patients.</p>\n<p>Each integration is a partnership. An Implementation Lead owns the client relationship and project management; a Clinical Integration owns clinical workflow design and training. You own the technical workstream — which means you're the engineer in the room. When a lab result isn't reaching the Bayesian platform for a patient, you have thirty minutes and the client's full attention to trace it from the inbound HL7 message through parsing, mapping, and ingestion, and tell them what happened.</p>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>\n<p><strong>Data Integration &amp; Ingestion:</strong> Partner with the client's technical teams to design and implement the data integration interface and ingestion pipelines that feed the Bayesian platform with real-time clinical data, powering insights that improve patient outcomes.</p>\n</li>\n<li>\n<p><strong>Integration Testing &amp; Troubleshooting:</strong> Implement automated integration tests at the data layer, and work directly with client technical teams during integration testing to investigate and resolve issues, ensuring smooth and timely integrations.</p>\n</li>\n<li>\n<p><strong>Production Deployment &amp; Go-Live:</strong> Execute the deployment process in close collaboration with the client's technical team, ensuring build and configuration for the data interface, ingestion, and mapping are successfully promoted to production for a seamless launch. During go-live week, you will serve as the technical point of contact for any data integration issues, both internally and with the client's teams, providing clear status updates to cross-functional partners so they can effectively manage client communication.</p>\n</li>\n<li>\n<p><strong>Integration Tooling &amp; Automation:</strong> Develop frameworks and tooling, leveraging LLMs and automation, to increase the efficiency and velocity of our platform integrations as we scale.</p>\n</li>\n<li>\n<p><strong>Cross-Functional Collaboration:</strong> Work alongside an Implementation Lead, Clinical Integration, and the client's technical teams to align the data integration workstream with the overall integration effort.</p>\n</li>\n</ul>\n<h3><strong>Minimum qualifications</strong></h3>\n<ul>\n<li>\n<p>BS in Computer Science or equivalent practical experience</p>\n</li>\n<li>\n<p>3+ years building and deploying data pipelines to production, including integration with external APIs (Python preferred)</p>\n</li>\n<li>\n<p>Strong ability to investigate and resolve data correctness problem end-to-end, across services, storage, and external data sources.</p>\n</li>\n<li>\n<p>Experience with cloud solutions (AWS, Azure, etc.) and relational databases (PostgreSQL, MySQL, etc.) in a production environment</p>\n</li>\n<li>\n<p>Experience writing automated integration tests for production systems</p>\n</li>\n<li>\n<p>Strong communicator with a demonstrated ability to collaborate across functions, working effectively with internal stakeholders, including Project/Product Managers, to align on priorities and deliver results.</p>\n</li>\n</ul>\n<h3><strong>Preferred qualifications</strong></h3>\n<ul>\n<li>\n<p>Experience with health data, integration with Electronic Health Records (EHR) systems, and Health IT interoperability standards such as HL7v2 and FHIR.</p>\n</li>\n<li>\n<p>Experience rolling out production deployments, supporting systems through go-live via an on-call or support rotation, and triaging production issues</p>\n</li>\n<li>\n<p>Experience working with enterprise customers, and the agility and responsiveness they require.</p>\n</li>\n<li>\n<p>Experience building internal tooling or automation, including leveraging LLMs, to improve engineering velocity</p>\n</li>\n</ul>\n<p><em>Bayesian Health provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em></p>\n<p>This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</p>",
+      "pubDate": "2026-10-09T02:55:10+00:00"
+    }
+  },
+  {
+    "id": "jobicy:152810",
+    "platform": "jobicy",
+    "external_id": "152810",
+    "title": "Ads Conversion Modeling, Machine Learning Engineering Manager",
+    "company": "Reddit",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Reddit’s lower funnel business is rapidly growing and pushing the heavy ranking web conversion models towards state-of-the-art is critical for continued growth. The Conversion modeling Team plays a pivotal role in developing and maintaining machine learning models that drive user conversions from Reddit Ads, with a special focus on predictive modeling around interactions like purchase, signup, add to cart, and other lower funnel user actions. As we expand our machine learning infrastructure and incorporate new engagement signals, we are looking for a skilled Engineering Manager who can lead this critical team. This role is well-suited for a leader with deep machine learning expertise, strategic vision, and a collaborative mindset to engage with both technical and cross-functional stakeholders. We’re a remote-friendly company, and this position is open to candidates anywhere in the U.S. Target Skills and Expertise The Engineering Manager (EM) will be responsible for defining the team’s vision, setting strategic direction, and executing a technical roadmap for conversion modeling at Reddit. This involves: Model Architectures: Expertise in architecting and implementing deep learning models, with experience in ranking, recommendation, or conversion modeling. ML Frameworks: Proficiency with mainstream ML libraries (TensorFlow, PyTorch). End-to-End ML Lifecycle: Experience in training, testing, and deploying production-grade machine learning models. Data Pipelines: Experience orchestrating large-scale data generation and processing pipelines. Ads domain Experience: Experience in interaction of ranking model with rest of Ads systems like bidding, auction, retrieval etc Ads Modeling (Preferred): Background in ads modeling or familiarity with engagement prediction models in the ads domain is beneficial. Role responsibilities: The EM will lead a diverse, high-impact team and will need to navigate and foster collaboration with various teams such as PM, DS, and engineering functions within Ads. Ideal candidates will have: People Management Experience: Prior experience managing engineering teams with a strong emphasis on technical mentorship and team growth. Set Technical Vision and Strategy: Ability to plan and execute a long-term technical strategy aligned with business objectives. Define and execute a roadmap for conversion modeling, balancing innovative modeling approaches with business objectives. Drive Technical Execution: Oversee the model development lifecycle from ideation to deployment, ensuring high standards of ML performance and robustness. Lead and Mentor a High-Performing Team: Recruit, mentor, and retain top ML talent, fostering a culture of growth, collaboration, and technical excellence. Collaborate Cross-Functionally: Partner with PMs, data scientists, and other engineering teams to align on engagement strategies, data requirements, and model KPIs. Innovate in ML Architecture: Implement and optimize model architectures tailored to conversion prediction, leveraging deep learning and advanced ML techniques. Required qualifications: At least 2+ of experience building and managing high-performing machine learning teams, ideally in the Ads domain. Will consider tech lead experience as well Deep ML Expertise: Deep hands-on experience working with machine learning models and deploying them in large-scale production systems. Proven ability in training, evaluating, and deploying large-scale models. Technical Domain Knowledge: Experience with Ads conversion modeling, ranking (heavy ranker experience) &amp; recommendations experience is required. Strategic Thinking: Ability to develop and communicate a clear, compelling technical strategy that supports broader company objectives and addresses the needs of internal customers. Impact-Driven Mindset: Passion for developing scalable, well-designed, and responsible AI solutions that drive business value. Exceptional Communication &amp; Collaboration: Strong interpersonal skills and a collaborative mindset, with the ability to effectively communicate complex technical topics to diverse audiences and build strong relationships with cross-functional partners Experience with Ads conversion modeling is a plus Perks and Benefits: 100% remote opportunity (we have 4 office locations for hybrid/onsite work preference in NY, SF, LA and Chicago) Competitive salary and equity options Comprehensive health benefits (medical, dental, vision) &amp; workplace perks (home office set up stipend etc) Generous 401k matching Flexible vacation policy Paid parental leave (4+ months) Family planning support Paid volunteer time off #LI-AS1 Pay Transparency: This job posting may span more than one career level. In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/ . To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below. The base salary range for this position is: $230,000—$322,000 USD In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews. During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors . Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.",
+    "url": "https://jobicy.com/jobs/152810-ads-conversion-modeling-machine-learning-engineering-manager",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "pytorch",
+      "tensorflow",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-09T02:55:07+00:00",
+    "fetched_at": "2026-10-09T12:07:42.951Z",
+    "raw": {
+      "id": 152810,
+      "url": "https://jobicy.com/jobs/152810-ads-conversion-modeling-machine-learning-engineering-manager",
+      "jobSlug": "152810-ads-conversion-modeling-machine-learning-engineering-manager",
+      "jobTitle": "Ads Conversion Modeling, Machine Learning Engineering Manager",
+      "companyName": "Reddit",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/Reddit.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
+      "jobDescription": "<p><a href=\"https://jobicy.com/company/reddit\" target=\"_blank\" rel=\"noopener\">Reddit</a> is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a href=\"http://www.redditinc.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">www.redditinc.com</a>.</p>\n<p>Reddit’s lower funnel business is rapidly growing and pushing the heavy ranking web conversion models towards state-of-the-art is critical for continued growth. The Conversion modeling Team plays a pivotal role in developing and maintaining machine learning models that drive user conversions from Reddit Ads, with a special focus on predictive modeling around interactions like purchase, signup, add to cart, and other lower funnel user actions. </p>\n<p>As we expand our machine learning infrastructure and incorporate new engagement signals, we are looking for a skilled Engineering Manager who can lead this critical team. This role is well-suited for a leader with deep machine learning expertise, strategic vision, and a collaborative mindset to engage with both technical and cross-functional stakeholders.</p>\n<p>We’re a remote-friendly company, and this position is open to candidates anywhere in the U.S.</p>\n<h3><strong>Target Skills and Expertise</strong></h3>\n<p>The Engineering Manager (EM) will be responsible for defining the team’s vision, setting strategic direction, and executing a technical roadmap for conversion modeling at Reddit. This involves:</p>\n<ul>\n<li><strong>Model Architectures:</strong> Expertise in architecting and implementing deep learning models, with experience in ranking, recommendation, or conversion modeling.</li>\n<li><strong>ML Frameworks:</strong> Proficiency with mainstream ML libraries (TensorFlow, PyTorch).</li>\n<li><strong>End-to-End ML Lifecycle:</strong> Experience in training, testing, and deploying production-grade machine learning models.</li>\n<li><strong>Data Pipelines:</strong> Experience orchestrating large-scale data generation and processing pipelines.</li>\n<li><strong>Ads domain Experience: </strong>Experience in interaction of ranking model with rest of Ads systems like bidding, auction, retrieval etc</li>\n<li><strong>Ads Modeling (Preferred):</strong> Background in ads modeling or familiarity with engagement prediction models in the ads domain is beneficial.</li>\n</ul>\n<p><strong>Role responsibilities:</strong></p>\n<p>The EM will lead a diverse, high-impact team and will need to navigate and foster collaboration with various teams such as PM, DS, and engineering functions within Ads. Ideal candidates will have:</p>\n<ul>\n<li><strong>People Management Experience:</strong> Prior experience managing engineering teams with a strong emphasis on technical mentorship and team growth.</li>\n<li><strong>Set Technical Vision and Strategy:</strong> Ability to plan and execute a long-term technical strategy aligned with business objectives. Define and execute a roadmap for conversion modeling, balancing innovative modeling approaches with business objectives.</li>\n<li><strong>Drive Technical Execution:</strong> Oversee the model development lifecycle from ideation to deployment, ensuring high standards of ML performance and robustness.</li>\n<li><strong>Lead and Mentor a High-Performing Team:</strong> Recruit, mentor, and retain top ML talent, fostering a culture of growth, collaboration, and technical excellence.</li>\n<li><strong>Collaborate Cross-Functionally:</strong> Partner with PMs, data scientists, and other engineering teams to align on engagement strategies, data requirements, and model KPIs.</li>\n<li><strong>Innovate in ML Architecture:</strong> Implement and optimize model architectures tailored to conversion prediction, leveraging deep learning and advanced ML techniques.</li>\n</ul>\n<p><strong>Required qualifications:</strong></p>\n<ul>\n<li>At least 2+ of experience building and managing high-performing machine learning teams, ideally in the Ads domain. Will consider tech lead experience as well</li>\n<li>Deep ML Expertise: Deep hands-on experience working with machine learning models and deploying them in large-scale production systems. Proven ability in training, evaluating, and deploying large-scale models.</li>\n<li>Technical Domain Knowledge: Experience with Ads conversion modeling, ranking (heavy ranker experience) &amp; recommendations experience is required. </li>\n<li>Strategic Thinking: Ability to develop and communicate a clear, compelling technical strategy that supports broader company objectives and addresses the needs of internal customers.</li>\n<li>Impact-Driven Mindset: Passion for developing scalable, well-designed, and responsible AI solutions that drive business value.</li>\n<li>Exceptional Communication &amp; Collaboration: Strong interpersonal skills and a collaborative mindset, with the ability to effectively communicate complex technical topics to diverse audiences and build strong relationships with cross-functional partners</li>\n</ul>\n<p><strong>Experience with Ads conversion modeling</strong> is a plus</p>\n\n<p><strong>Perks and Benefits:</strong></p>\n<ul>\n<li>100% remote opportunity (we have 4 office locations for hybrid/onsite work preference in NY, SF, LA and Chicago)</li>\n<li>Competitive salary and equity options</li>\n<li>Comprehensive health benefits (medical, dental, vision) &amp; workplace perks (home office set up stipend etc)</li>\n<li>Generous 401k matching</li>\n<li>Flexible vacation policy </li>\n<li>Paid parental leave (4+ months)</li>\n<li>Family planning support</li>\n<li>Paid volunteer time off</li>\n</ul>\n<p>#LI-AS1</p>\n<p><strong> </strong></p>\n\n<p><strong>Pay Transparency:</strong></p>\n<p>This job posting may span more than one career level.</p>\n<p>In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit <a href=\"https://www.redditinc.com/careers/\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.redditinc.com/careers/</a>.</p>\n<p>To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.</p>\n<p>The base salary range for this position is:</p>\n<p>$230,000—$322,000 USD</p>\n<p>In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.</p>\n<p>During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our <a href=\"https://redditinc.com/policies/candidate-privacy-policy\" rel=\"nofollow ugc noopener\" target=\"_blank\">Candidate Privacy Policy for Potential Employees and Contractors</a>.</p>\n<p><em>Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.</em></p>",
+      "pubDate": "2026-10-09T02:55:07+00:00",
+      "salaryMin": 230000,
+      "salaryMax": 322000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:152795",
+    "platform": "jobicy",
+    "external_id": "152795",
+    "title": "Sr. Software Engineer, Ruby on Rails",
+    "company": "CentralReach",
+    "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. Key Accountabilities: Help shape technical direction on the Essentials squad — contributing to architecture decisions and unblocking teammates — while staying hands-on in Ruby on Rails, TypeScript, and React Lead by example in the codebase: write clean, maintainable, refactor-friendly code and elevate quality through thoughtful code review and pairing Design and optimize back-end systems, APIs, and data flows with a strong focus on performance and reliability, sharing what you learn along the way Build modern, responsive front-end experiences using React, TypeScript, and CSS, with an eye toward maintainable architecture Work across relational databases (Postgres, MySQL, etc.), writing efficient SQL and shaping data models that support business growth Lead projects end-to-end, balancing hands-on development with guiding others to successful delivery, surfacing risks early and communicating trade-offs clearly Collaborate cross-functionally with product, design, and QA to translate business needs into sound technical solutions Embrace AI-assisted engineering: use tools like Claude Code and GitHub Copilot effectively, contribute to shared prompts and agentic workflows, and help the team learn what works Identify and prototype opportunities to apply LLMs and automation to engineering and internal workflows, with the guardrails appropriate to healthcare data and regulated billing Desired Skills and Experience: At least 7-10 years of full-stack development experience, with Ruby on Rails as a core strength Experience with React, 5+ years preferred. Experienced in leading projects end-to-end: from breaking down complex problems to shipping features that drive impact Passionate about mentoring, from pair programming to guiding architectural decisions, and helping others grow as engineers Daily, hands-on fluency with AI development tools (e.g., Claude Code, Cursor, Copilot), with sharp judgment about where AI accelerates work and where human review is non-negotiable Experience, or strong demonstrated interest, in building with LLM APIs: prompt design, evaluation, and safety considerations for sensitive data Highly organized with superb attention to detail Strong project management skills: comfortable with planning, estimation, and scoping Proven ability to work in an ever-changing environment, ability to connect the dots and make decisions on your own feet Ability to produce quality materials within tight timeframes and simultaneously manage several projects Ability to communicate clearly and concisely, verbally and in writing Exercise sound judgment and work successfully with all employee levels, regardless of background and perspectives Be comfortable working in a distributed, semi-virtual environment Be capable of creating and executing on technical direction and tasks for yourself and others Be able to take minimal direction from others and provide maximal output for yourself (and others) Base Salary Range $120,000—$180,000 USD Backed by Roper Technologies, Inc. (Nasdaq: ROP), CentralReach is entering an exciting phase of growth, innovation, and scale. Recognized as one of the best places to work over 10 times by organizations such as Inc, Built In, and NJBIZ, our culture is centered around impact, inclusion, and flexibility. As a hybrid company with collaborative offices in Ft. Lauderdale, FL; Holmdel, NJ; and Verona, Italy, we foster a workplace where top talent can thrive and make a real difference in the lives of those we serve. We offer competitive compensation, comprehensive health benefits, generous PTO, 401(k) matching, and paid parental leave to our full-time employees. Our team members also enjoy hybrid work schedules, career development support, wellness programs, and opportunities to give back through CR Cares™, our community engagement initiative. Be part of a market leader driving the future of care. Explore opportunities at centralreach.com/careers . Protecting your information is important to us. Please take a moment to review our Notice of Privacy Practices for Job Applicants. Applicant-Privacy-Notice-110725 to understand how we collect, use, store, and protect your personal information during the recruitment process.",
+    "url": "https://jobicy.com/jobs/152795-sr-software-engineer-ruby-on-rails",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript",
+      "ruby",
+      "react",
+      "rails",
+      "postgresql",
+      "mysql",
+      "llm"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-09T02:55:05+00:00",
+    "fetched_at": "2026-10-09T12:07:42.952Z",
+    "raw": {
+      "id": 152795,
+      "url": "https://jobicy.com/jobs/152795-sr-software-engineer-ruby-on-rails",
+      "jobSlug": "152795-sr-software-engineer-ruby-on-rails",
+      "jobTitle": "Sr. Software Engineer, Ruby on Rails",
+      "companyName": "CentralReach",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/07/a0eac9f542eb8c3fff7c19990dd5c1bb.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. Key&hellip;",
+      "jobDescription": "<p><a href=\"https://jobicy.com/company/centralreach\" target=\"_blank\" rel=\"noopener\">CentralReach</a> is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. </p>\n<p><strong>Key Accountabilities:</strong> </p>\n<ul>\n<li>Help shape technical direction on the Essentials squad — contributing to architecture decisions and unblocking teammates — while staying hands-on in Ruby on Rails, TypeScript, and React </li>\n</ul>\n<ul>\n<li>Lead by example in the codebase: write clean, maintainable, refactor-friendly code and elevate quality through thoughtful code review and pairing </li>\n</ul>\n<ul>\n<li>Design and optimize back-end systems, APIs, and data flows with a strong focus on performance and reliability, sharing what you learn along the way </li>\n</ul>\n<ul>\n<li>Build modern, responsive front-end experiences using React, TypeScript, and CSS, with an eye toward maintainable architecture </li>\n</ul>\n<ul>\n<li>Work across relational databases (Postgres, MySQL, etc.), writing efficient SQL and shaping data models that support business growth </li>\n</ul>\n<ul>\n<li>Lead projects end-to-end, balancing hands-on development with guiding others to successful delivery, surfacing risks early and communicating trade-offs clearly </li>\n</ul>\n<ul>\n<li>Collaborate cross-functionally with product, design, and QA to translate business needs into sound technical solutions </li>\n</ul>\n<ul>\n<li>Embrace AI-assisted engineering: use tools like Claude Code and GitHub Copilot effectively, contribute to shared prompts and agentic workflows, and help the team learn what works </li>\n</ul>\n<ul>\n<li>Identify and prototype opportunities to apply LLMs and automation to engineering and internal workflows, with the guardrails appropriate to healthcare data and regulated billing </li>\n</ul>\n<p><strong>Desired Skills and Experience:</strong> </p>\n<ul>\n<li>At least 7-10 years of full-stack development experience, with Ruby on Rails as a core strength </li>\n</ul>\n<ul>\n<li>Experience with React, 5+ years preferred. </li>\n</ul>\n<ul>\n<li>Experienced in leading projects end-to-end: from breaking down complex problems to shipping features that drive impact </li>\n</ul>\n<ul>\n<li>Passionate about mentoring, from pair programming to guiding architectural decisions, and helping others grow as engineers </li>\n</ul>\n<ul>\n<li>Daily, hands-on fluency with AI development tools (e.g., Claude Code, Cursor, Copilot), with sharp judgment about where AI accelerates work and where human review is non-negotiable </li>\n</ul>\n<ul>\n<li>Experience, or strong demonstrated interest, in building with LLM APIs: prompt design, evaluation, and safety considerations for sensitive data </li>\n</ul>\n<ul>\n<li>Highly organized with superb attention to detail </li>\n</ul>\n<ul>\n<li>Strong project management skills: comfortable with planning, estimation, and scoping </li>\n</ul>\n<ul>\n<li>Proven ability to work in an ever-changing environment, ability to connect the dots and make decisions on your own feet </li>\n</ul>\n<ul>\n<li>Ability to produce quality materials within tight timeframes and simultaneously manage several projects </li>\n</ul>\n<ul>\n<li>Ability to communicate clearly and concisely, verbally and in writing </li>\n</ul>\n<ul>\n<li>Exercise sound judgment and work successfully with all employee levels, regardless of background and perspectives </li>\n</ul>\n<ul>\n<li>Be comfortable working in a distributed, semi-virtual environment </li>\n</ul>\n<ul>\n<li>Be capable of creating and executing on technical direction and tasks for yourself and others </li>\n</ul>\n<ul>\n<li>Be able to take minimal direction from others and provide maximal output for yourself (and others) </li>\n</ul>\n<p>Base Salary Range</p>\n<p>$120,000—$180,000 USD</p>\n<p>Backed by Roper Technologies, Inc. (Nasdaq: ROP), CentralReach is entering an exciting phase of growth, innovation, and scale. </p>\n<p>Recognized as one of the best places to work over 10 times by organizations such as Inc, Built In, and NJBIZ, our culture is centered around impact, inclusion, and flexibility. As a hybrid company with collaborative offices in Ft. Lauderdale, FL; Holmdel, NJ; and Verona, Italy, we foster a workplace where top talent can thrive and make a real difference in the lives of those we serve.</p>\n<p>We offer competitive compensation, comprehensive health benefits, generous PTO, 401(k) matching, and paid parental leave to our full-time employees. Our team members also enjoy hybrid work schedules, career development support, wellness programs, and opportunities to give back through CR Cares™, our community engagement initiative.</p>\n<p>Be part of a market leader driving the future of care. Explore opportunities at <a href=\"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcentralreach.com%2Fcareers%2F&amp;data=05%7C02%7Cjamie.madarasz%40centralreach.com%7Cb7b1c0d4e2354127669a08dda36f3df3%7C515bdea7d91847b3b73f5700d21635ec%7C0%7C0%7C638846420463140236%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=WNerHqhY5w8%2Fh6TrRUbAh6uyPQJS8ymWAWaKuyJfaHo%3D&amp;reserved=0\" rel=\"nofollow ugc noopener\" target=\"_blank\">centralreach.com/careers</a>. </p>\n<p>Protecting your information is important to us. Please take a moment to review our Notice of Privacy Practices for Job Applicants. <a href=\"https://centralreach365.sharepoint.com/:b:/s/ApplicantPrivacyNotice/IQBl-WqOdm5oQI9tZ2avE2_7AYJGJ5xXuv-ubvZ989Cf9tk?e=KdZc3m\" rel=\"nofollow ugc noopener\" target=\"_blank\">Applicant-Privacy-Notice-110725</a> to understand how we collect, use, store, and protect your personal information during the recruitment process. </p>",
+      "pubDate": "2026-10-09T02:55:05+00:00",
+      "salaryMin": 120000,
+      "salaryMax": 180000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
     "id": "jobicy:154879",
     "platform": "jobicy",
     "external_id": "154879",
@@ -25,7 +235,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:08:06+00:00",
-    "fetched_at": "2026-10-09T03:09:59.504Z",
+    "fetched_at": "2026-10-09T12:07:42.954Z",
     "raw": {
       "id": 154879,
       "url": "https://jobicy.com/jobs/154879-senior-design-quality-engineer",
@@ -83,7 +293,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:08:06+00:00",
-    "fetched_at": "2026-10-09T03:09:59.506Z",
+    "fetched_at": "2026-10-09T12:07:42.956Z",
     "raw": {
       "id": 154875,
       "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii",
@@ -144,7 +354,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:08:04+00:00",
-    "fetched_at": "2026-10-09T03:09:59.507Z",
+    "fetched_at": "2026-10-09T12:07:42.958Z",
     "raw": {
       "id": 154871,
       "url": "https://jobicy.com/jobs/154871-senior-quality-engineer-3",
@@ -191,7 +401,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:08:02+00:00",
-    "fetched_at": "2026-10-09T03:09:59.508Z",
+    "fetched_at": "2026-10-09T12:07:42.958Z",
     "raw": {
       "id": 154877,
       "url": "https://jobicy.com/jobs/154877-sr-engineering-manager-sdet",
@@ -238,7 +448,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:08:01+00:00",
-    "fetched_at": "2026-10-09T03:09:59.509Z",
+    "fetched_at": "2026-10-09T12:07:42.959Z",
     "raw": {
       "id": 154880,
       "url": "https://jobicy.com/jobs/154880-freelance-software-tester-with-smart-tvs-remote-in-italy",
@@ -288,7 +498,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:08:01+00:00",
-    "fetched_at": "2026-10-09T03:09:59.510Z",
+    "fetched_at": "2026-10-09T12:07:42.960Z",
     "raw": {
       "id": 154874,
       "url": "https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe",
@@ -341,7 +551,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:08:00+00:00",
-    "fetched_at": "2026-10-09T03:09:59.511Z",
+    "fetched_at": "2026-10-09T12:07:42.961Z",
     "raw": {
       "id": 154878,
       "url": "https://jobicy.com/jobs/154878-junior-qa-engineer-us-remote",
@@ -398,7 +608,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:08:00+00:00",
-    "fetched_at": "2026-10-09T03:09:59.513Z",
+    "fetched_at": "2026-10-09T12:07:42.963Z",
     "raw": {
       "id": 154872,
       "url": "https://jobicy.com/jobs/154872-software-test-engineer",
@@ -445,7 +655,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T19:07:58+00:00",
-    "fetched_at": "2026-10-09T03:09:59.514Z",
+    "fetched_at": "2026-10-09T12:07:42.964Z",
     "raw": {
       "id": 154873,
       "url": "https://jobicy.com/jobs/154873-qa-analyst-mexico-remote",
@@ -494,7 +704,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T17:08:54+00:00",
-    "fetched_at": "2026-10-09T03:09:59.516Z",
+    "fetched_at": "2026-10-09T12:07:42.966Z",
     "raw": {
       "id": 154868,
       "url": "https://jobicy.com/jobs/154868-senior-ai-engineer-9",
@@ -544,7 +754,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T17:02:34+00:00",
-    "fetched_at": "2026-10-09T03:09:59.517Z",
+    "fetched_at": "2026-10-09T12:07:42.966Z",
     "raw": {
       "id": 154851,
       "url": "https://jobicy.com/jobs/154851-engineering-manager-machine-learning-safety",
@@ -600,7 +810,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T17:02:32+00:00",
-    "fetched_at": "2026-10-09T03:09:59.519Z",
+    "fetched_at": "2026-10-09T12:07:42.968Z",
     "raw": {
       "id": 154857,
       "url": "https://jobicy.com/jobs/154857-senior-software-engineer-backend-kotlin",
@@ -649,7 +859,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T10:42:19+00:00",
-    "fetched_at": "2026-10-09T03:09:59.520Z",
+    "fetched_at": "2026-10-09T12:07:42.968Z",
     "raw": {
       "id": 154820,
       "url": "https://jobicy.com/jobs/154820-research-engineer-inference",
@@ -695,7 +905,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T10:42:19+00:00",
-    "fetched_at": "2026-10-09T03:09:59.522Z",
+    "fetched_at": "2026-10-09T12:07:42.970Z",
     "raw": {
       "id": 154819,
       "url": "https://jobicy.com/jobs/154819-engineering-manager-authentication-authorisation",
@@ -749,7 +959,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T10:42:18+00:00",
-    "fetched_at": "2026-10-09T03:09:59.524Z",
+    "fetched_at": "2026-10-09T12:07:42.973Z",
     "raw": {
       "id": 154825,
       "url": "https://jobicy.com/jobs/154825-senior-backend-engineer-data-serving",
@@ -799,7 +1009,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T10:42:18+00:00",
-    "fetched_at": "2026-10-09T03:09:59.525Z",
+    "fetched_at": "2026-10-09T12:07:42.974Z",
     "raw": {
       "id": 154817,
       "url": "https://jobicy.com/jobs/154817-engineering-internal-ai-transformation",
@@ -854,7 +1064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T10:42:17+00:00",
-    "fetched_at": "2026-10-09T03:09:59.527Z",
+    "fetched_at": "2026-10-09T12:07:42.976Z",
     "raw": {
       "id": 154822,
       "url": "https://jobicy.com/jobs/154822-staff-engineer-business-spend",
@@ -910,7 +1120,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T10:40:20+00:00",
-    "fetched_at": "2026-10-09T03:09:59.531Z",
+    "fetched_at": "2026-10-09T12:07:42.979Z",
     "raw": {
       "id": 154810,
       "url": "https://jobicy.com/jobs/154810-senior-product-engineer-americas",
@@ -970,7 +1180,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T10:40:20+00:00",
-    "fetched_at": "2026-10-09T03:09:59.535Z",
+    "fetched_at": "2026-10-09T12:07:42.983Z",
     "raw": {
       "id": 154809,
       "url": "https://jobicy.com/jobs/154809-senior-product-engineer-canada",
@@ -1030,7 +1240,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T10:40:19+00:00",
-    "fetched_at": "2026-10-09T03:09:59.538Z",
+    "fetched_at": "2026-10-09T12:07:42.986Z",
     "raw": {
       "id": 154812,
       "url": "https://jobicy.com/jobs/154812-staff-product-engineer-canada",
@@ -1081,7 +1291,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T08:36:50+00:00",
-    "fetched_at": "2026-10-09T03:09:59.539Z",
+    "fetched_at": "2026-10-09T12:07:42.987Z",
     "raw": {
       "id": 154018,
       "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
@@ -1135,7 +1345,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T04:45:09+00:00",
-    "fetched_at": "2026-10-09T03:09:59.540Z",
+    "fetched_at": "2026-10-09T12:07:42.988Z",
     "raw": {
       "id": 152754,
       "url": "https://jobicy.com/jobs/152754-senior-backend-engineer-4",
@@ -1200,7 +1410,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T04:45:04+00:00",
-    "fetched_at": "2026-10-09T03:09:59.541Z",
+    "fetched_at": "2026-10-09T12:07:42.989Z",
     "raw": {
       "id": 152752,
       "url": "https://jobicy.com/jobs/152752-senior-backend-engineer-core-team",
@@ -1245,7 +1455,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T04:40:06+00:00",
-    "fetched_at": "2026-10-09T03:09:59.542Z",
+    "fetched_at": "2026-10-09T12:07:42.990Z",
     "raw": {
       "id": 152763,
       "url": "https://jobicy.com/jobs/152763-member-of-technical-staff-applied-ai",
@@ -1288,7 +1498,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-08T03:40:23+00:00",
-    "fetched_at": "2026-10-09T03:09:59.542Z",
+    "fetched_at": "2026-10-09T12:07:42.990Z",
     "raw": {
       "id": 152737,
       "url": "https://jobicy.com/jobs/152737-test-a-streaming-platform-in-france",
@@ -1344,7 +1554,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T03:35:26+00:00",
-    "fetched_at": "2026-10-09T03:09:59.543Z",
+    "fetched_at": "2026-10-09T12:07:42.992Z",
     "raw": {
       "id": 151461,
       "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
@@ -1393,7 +1603,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T03:35:17+00:00",
-    "fetched_at": "2026-10-09T03:09:59.544Z",
+    "fetched_at": "2026-10-09T12:07:42.992Z",
     "raw": {
       "id": 148702,
       "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
@@ -1440,7 +1650,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T03:35:10+00:00",
-    "fetched_at": "2026-10-09T03:09:59.545Z",
+    "fetched_at": "2026-10-09T12:07:42.993Z",
     "raw": {
       "id": 145290,
       "url": "https://jobicy.com/jobs/145290-senior-software-engineer-redapl-graph-engine",
@@ -1497,7 +1707,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T03:35:07+00:00",
-    "fetched_at": "2026-10-09T03:09:59.546Z",
+    "fetched_at": "2026-10-09T12:07:42.994Z",
     "raw": {
       "id": 152699,
       "url": "https://jobicy.com/jobs/152699-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector",
@@ -1566,7 +1776,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T03:30:21+00:00",
-    "fetched_at": "2026-10-09T03:09:59.547Z",
+    "fetched_at": "2026-10-09T12:07:42.996Z",
     "raw": {
       "id": 152707,
       "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
@@ -1611,7 +1821,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-08T03:30:14+00:00",
-    "fetched_at": "2026-10-09T03:09:59.549Z",
+    "fetched_at": "2026-10-09T12:07:42.997Z",
     "raw": {
       "id": 150274,
       "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
@@ -1658,7 +1868,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T13:00:15+00:00",
-    "fetched_at": "2026-10-09T03:09:59.549Z",
+    "fetched_at": "2026-10-09T12:07:42.998Z",
     "raw": {
       "id": 154777,
       "url": "https://jobicy.com/jobs/154777-sr-embedded-software-engineer-robotics-platform",
@@ -1721,7 +1931,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T13:00:13+00:00",
-    "fetched_at": "2026-10-09T03:09:59.550Z",
+    "fetched_at": "2026-10-09T12:07:42.999Z",
     "raw": {
       "id": 154780,
       "url": "https://jobicy.com/jobs/154780-senior-software-engineer-fullstack-4",
@@ -1770,7 +1980,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-07T08:50:12+00:00",
-    "fetched_at": "2026-10-09T03:09:59.551Z",
+    "fetched_at": "2026-10-09T12:07:43.000Z",
     "raw": {
       "id": 154770,
       "url": "https://jobicy.com/jobs/154770-senior-software-development-engineer-in-test-sdet",
@@ -1827,7 +2037,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T05:10:10+00:00",
-    "fetched_at": "2026-10-09T03:09:59.553Z",
+    "fetched_at": "2026-10-09T12:07:43.001Z",
     "raw": {
       "id": 152666,
       "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
@@ -1877,7 +2087,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:16+00:00",
-    "fetched_at": "2026-10-09T03:09:59.554Z",
+    "fetched_at": "2026-10-09T12:07:43.002Z",
     "raw": {
       "id": 152648,
       "url": "https://jobicy.com/jobs/152648-senior-ai-engineer-voice-platform",
@@ -1930,7 +2140,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:11+00:00",
-    "fetched_at": "2026-10-09T03:09:59.554Z",
+    "fetched_at": "2026-10-09T12:07:43.003Z",
     "raw": {
       "id": 152644,
       "url": "https://jobicy.com/jobs/152644-staff-frontend-engineer",
@@ -1979,7 +2189,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:10+00:00",
-    "fetched_at": "2026-10-09T03:09:59.555Z",
+    "fetched_at": "2026-10-09T12:07:43.003Z",
     "raw": {
       "id": 152642,
       "url": "https://jobicy.com/jobs/152642-senior-frontend-engineer-2",
@@ -2029,7 +2239,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:09+00:00",
-    "fetched_at": "2026-10-09T03:09:59.556Z",
+    "fetched_at": "2026-10-09T12:07:43.004Z",
     "raw": {
       "id": 152640,
       "url": "https://jobicy.com/jobs/152640-staff-ai-engineer-ai-product",
@@ -2089,7 +2299,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:30:06+00:00",
-    "fetched_at": "2026-10-09T03:09:59.557Z",
+    "fetched_at": "2026-10-09T12:07:43.006Z",
     "raw": {
       "id": 152638,
       "url": "https://jobicy.com/jobs/152638-staff-ai-engineer-ai-platform",
@@ -2139,7 +2349,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:25:07+00:00",
-    "fetched_at": "2026-10-09T03:09:59.558Z",
+    "fetched_at": "2026-10-09T12:07:43.007Z",
     "raw": {
       "id": 152627,
       "url": "https://jobicy.com/jobs/152627-senior-ai-engineer-multi-agent-frameworks",
@@ -2191,7 +2401,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:25:06+00:00",
-    "fetched_at": "2026-10-09T03:09:59.559Z",
+    "fetched_at": "2026-10-09T12:07:43.008Z",
     "raw": {
       "id": 145141,
       "url": "https://jobicy.com/jobs/145141-software-developer-ii",
@@ -2243,7 +2453,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:25:04+00:00",
-    "fetched_at": "2026-10-09T03:09:59.560Z",
+    "fetched_at": "2026-10-09T12:07:43.009Z",
     "raw": {
       "id": 145140,
       "url": "https://jobicy.com/jobs/145140-staff-software-developer",
@@ -2303,7 +2513,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:23+00:00",
-    "fetched_at": "2026-10-09T03:09:59.561Z",
+    "fetched_at": "2026-10-09T12:07:43.010Z",
     "raw": {
       "id": 152631,
       "url": "https://jobicy.com/jobs/152631-senior-ai-engineer-ai-platform",
@@ -2353,7 +2563,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:20+00:00",
-    "fetched_at": "2026-10-09T03:09:59.562Z",
+    "fetched_at": "2026-10-09T12:07:43.011Z",
     "raw": {
       "id": 152636,
       "url": "https://jobicy.com/jobs/152636-staff-ai-engineer-multi-agent-frameworks",
@@ -2403,7 +2613,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:19+00:00",
-    "fetched_at": "2026-10-09T03:09:59.562Z",
+    "fetched_at": "2026-10-09T12:07:43.012Z",
     "raw": {
       "id": 152635,
       "url": "https://jobicy.com/jobs/152635-builder-instructure-foundry",
@@ -2454,7 +2664,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:17+00:00",
-    "fetched_at": "2026-10-09T03:09:59.564Z",
+    "fetched_at": "2026-10-09T12:07:43.013Z",
     "raw": {
       "id": 152630,
       "url": "https://jobicy.com/jobs/152630-senior-software-engineer-7",
@@ -2512,7 +2722,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:10+00:00",
-    "fetched_at": "2026-10-09T03:09:59.564Z",
+    "fetched_at": "2026-10-09T12:07:43.014Z",
     "raw": {
       "id": 143728,
       "url": "https://jobicy.com/jobs/143728-workflow-developer-tester",
@@ -2562,7 +2772,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:06+00:00",
-    "fetched_at": "2026-10-09T03:09:59.565Z",
+    "fetched_at": "2026-10-09T12:07:43.015Z",
     "raw": {
       "id": 152634,
       "url": "https://jobicy.com/jobs/152634-senior-ai-engineer-ai-product",
@@ -2619,7 +2829,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:20:04+00:00",
-    "fetched_at": "2026-10-09T03:09:59.566Z",
+    "fetched_at": "2026-10-09T12:07:43.016Z",
     "raw": {
       "id": 152637,
       "url": "https://jobicy.com/jobs/152637-platform-architect",
@@ -2671,7 +2881,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:15:24+00:00",
-    "fetched_at": "2026-10-09T03:09:59.567Z",
+    "fetched_at": "2026-10-09T12:07:43.017Z",
     "raw": {
       "id": 148667,
       "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
@@ -2714,7 +2924,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-07T04:15:16+00:00",
-    "fetched_at": "2026-10-09T03:09:59.568Z",
+    "fetched_at": "2026-10-09T12:07:43.018Z",
     "raw": {
       "id": 148357,
       "url": "https://jobicy.com/jobs/148357-principal-rd-product-dvl-engineer",
@@ -2767,7 +2977,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:38:26+00:00",
-    "fetched_at": "2026-10-09T03:09:59.569Z",
+    "fetched_at": "2026-10-09T12:07:43.019Z",
     "raw": {
       "id": 154755,
       "url": "https://jobicy.com/jobs/154755-senior-android-engineer-kotlin-aws",
@@ -2810,7 +3020,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-06T17:36:47+00:00",
-    "fetched_at": "2026-10-09T03:09:59.570Z",
+    "fetched_at": "2026-10-09T12:07:43.020Z",
     "raw": {
       "id": 154743,
       "url": "https://jobicy.com/jobs/154743-ads-quality-rater-filipino-philippines",
@@ -2864,7 +3074,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:36:46+00:00",
-    "fetched_at": "2026-10-09T03:09:59.571Z",
+    "fetched_at": "2026-10-09T12:07:43.021Z",
     "raw": {
       "id": 154740,
       "url": "https://jobicy.com/jobs/154740-senior-backend-engineer-9",
@@ -2916,7 +3126,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:36:45+00:00",
-    "fetched_at": "2026-10-09T03:09:59.572Z",
+    "fetched_at": "2026-10-09T12:07:43.022Z",
     "raw": {
       "id": 154745,
       "url": "https://jobicy.com/jobs/154745-senior-software-engineer-mobile-android",
@@ -2969,7 +3179,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:32:38+00:00",
-    "fetched_at": "2026-10-09T03:09:59.573Z",
+    "fetched_at": "2026-10-09T12:07:43.023Z",
     "raw": {
       "id": 154726,
       "url": "https://jobicy.com/jobs/154726-backend-engineer-core-technology",
@@ -3023,7 +3233,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T17:32:22+00:00",
-    "fetched_at": "2026-10-09T03:09:59.574Z",
+    "fetched_at": "2026-10-09T12:07:43.024Z",
     "raw": {
       "id": 154718,
       "url": "https://jobicy.com/jobs/154718-sr-software-engineer-4",
@@ -3076,7 +3286,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T12:50:26+00:00",
-    "fetched_at": "2026-10-09T03:09:59.574Z",
+    "fetched_at": "2026-10-09T12:07:43.024Z",
     "raw": {
       "id": 154690,
       "url": "https://jobicy.com/jobs/154690-contract-staff-software-engineer-firefox-layout",
@@ -3129,7 +3339,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T12:50:24+00:00",
-    "fetched_at": "2026-10-09T03:09:59.576Z",
+    "fetched_at": "2026-10-09T12:07:43.026Z",
     "raw": {
       "id": 154694,
       "url": "https://jobicy.com/jobs/154694-staff-ai-engineer-data-intelligence-function",
@@ -3180,7 +3390,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T12:50:22+00:00",
-    "fetched_at": "2026-10-09T03:09:59.576Z",
+    "fetched_at": "2026-10-09T12:07:43.026Z",
     "raw": {
       "id": 154693,
       "url": "https://jobicy.com/jobs/154693-contract-staff-software-engineer-performance-graphics-crust-webgl",
@@ -3227,7 +3437,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T04:50:15+00:00",
-    "fetched_at": "2026-10-09T03:09:59.577Z",
+    "fetched_at": "2026-10-09T12:07:43.027Z",
     "raw": {
       "id": 152581,
       "url": "https://jobicy.com/jobs/152581-condition-monitoring-engineer",
@@ -3276,7 +3486,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T04:50:12+00:00",
-    "fetched_at": "2026-10-09T03:09:59.579Z",
+    "fetched_at": "2026-10-09T12:07:43.029Z",
     "raw": {
       "id": 152574,
       "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
@@ -3331,7 +3541,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-06T04:45:21+00:00",
-    "fetched_at": "2026-10-09T03:09:59.580Z",
+    "fetched_at": "2026-10-09T12:07:43.032Z",
     "raw": {
       "id": 152602,
       "url": "https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam",
@@ -3381,7 +3591,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T15:33:40+00:00",
-    "fetched_at": "2026-10-09T03:09:59.581Z",
+    "fetched_at": "2026-10-09T12:07:43.033Z",
     "raw": {
       "id": 154629,
       "url": "https://jobicy.com/jobs/154629-staff-engineer-2",
@@ -3432,7 +3642,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-05T15:31:37+00:00",
-    "fetched_at": "2026-10-09T03:09:59.583Z",
+    "fetched_at": "2026-10-09T12:07:43.035Z",
     "raw": {
       "id": 154616,
       "url": "https://jobicy.com/jobs/154616-senior-quality-engineer-2",
@@ -3480,7 +3690,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T15:31:35+00:00",
-    "fetched_at": "2026-10-09T03:09:59.584Z",
+    "fetched_at": "2026-10-09T12:07:43.036Z",
     "raw": {
       "id": 154611,
       "url": "https://jobicy.com/jobs/154611-gtm-engineer-3",
@@ -3528,7 +3738,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T13:52:59+00:00",
-    "fetched_at": "2026-10-09T03:09:59.587Z",
+    "fetched_at": "2026-10-09T12:07:43.039Z",
     "raw": {
       "id": 154597,
       "url": "https://jobicy.com/jobs/154597-senior-software-engineer-graph-analytics",
@@ -3588,7 +3798,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T13:52:57+00:00",
-    "fetched_at": "2026-10-09T03:09:59.587Z",
+    "fetched_at": "2026-10-09T12:07:43.039Z",
     "raw": {
       "id": 154594,
       "url": "https://jobicy.com/jobs/154594-1146-fullstack-engineer",
@@ -3635,7 +3845,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-05T13:52:57+00:00",
-    "fetched_at": "2026-10-09T03:09:59.588Z",
+    "fetched_at": "2026-10-09T12:07:43.040Z",
     "raw": {
       "id": 154591,
       "url": "https://jobicy.com/jobs/154591-freelance-software-tester-with-smart-tvs-remote-in-germany",
@@ -3681,7 +3891,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-05T13:52:55+00:00",
-    "fetched_at": "2026-10-09T03:09:59.589Z",
+    "fetched_at": "2026-10-09T12:07:43.041Z",
     "raw": {
       "id": 154595,
       "url": "https://jobicy.com/jobs/154595-freelance-software-tester-with-smart-tvs-remote-in-ireland",
@@ -3735,7 +3945,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T08:23:31+00:00",
-    "fetched_at": "2026-10-09T03:09:59.589Z",
+    "fetched_at": "2026-10-09T12:07:43.042Z",
     "raw": {
       "id": 154566,
       "url": "https://jobicy.com/jobs/154566-senior-fullstack-engineer-arg-based-only",
@@ -3790,7 +4000,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T08:23:31+00:00",
-    "fetched_at": "2026-10-09T03:09:59.590Z",
+    "fetched_at": "2026-10-09T12:07:43.042Z",
     "raw": {
       "id": 154563,
       "url": "https://jobicy.com/jobs/154563-senior-sdk-engineer",
@@ -3851,7 +4061,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T05:30:36+00:00",
-    "fetched_at": "2026-10-09T03:09:59.592Z",
+    "fetched_at": "2026-10-09T12:07:43.044Z",
     "raw": {
       "id": 154544,
       "url": "https://jobicy.com/jobs/154544-senior-full-stack-engineer-observability",
@@ -3905,7 +4115,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T05:30:35+00:00",
-    "fetched_at": "2026-10-09T03:09:59.593Z",
+    "fetched_at": "2026-10-09T12:07:43.045Z",
     "raw": {
       "id": 154539,
       "url": "https://jobicy.com/jobs/154539-senior-software-backend-engineer-foundations",
@@ -3954,7 +4164,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T05:30:35+00:00",
-    "fetched_at": "2026-10-09T03:09:59.594Z",
+    "fetched_at": "2026-10-09T12:07:43.046Z",
     "raw": {
       "id": 154536,
       "url": "https://jobicy.com/jobs/154536-lead-full-stack-engineer-laravel-remote-nl-uk-based",
@@ -3997,7 +4207,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-05T05:28:32+00:00",
-    "fetched_at": "2026-10-09T03:09:59.595Z",
+    "fetched_at": "2026-10-09T12:07:43.047Z",
     "raw": {
       "id": 154529,
       "url": "https://jobicy.com/jobs/154529-freelance-software-tester-with-smart-tvs-remote-in-austria",
@@ -4048,7 +4258,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:16+00:00",
-    "fetched_at": "2026-10-09T03:09:59.595Z",
+    "fetched_at": "2026-10-09T12:07:43.048Z",
     "raw": {
       "id": 150128,
       "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
@@ -4096,7 +4306,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:15+00:00",
-    "fetched_at": "2026-10-09T03:09:59.597Z",
+    "fetched_at": "2026-10-09T12:07:43.049Z",
     "raw": {
       "id": 150127,
       "url": "https://jobicy.com/jobs/150127-senior-software-engineer-maas",
@@ -4143,7 +4353,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:11+00:00",
-    "fetched_at": "2026-10-09T03:09:59.598Z",
+    "fetched_at": "2026-10-09T12:07:43.050Z",
     "raw": {
       "id": 150125,
       "url": "https://jobicy.com/jobs/150125-senior-software-engineer-backend",
@@ -4189,7 +4399,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:08+00:00",
-    "fetched_at": "2026-10-09T03:09:59.599Z",
+    "fetched_at": "2026-10-09T12:07:43.051Z",
     "raw": {
       "id": 150131,
       "url": "https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure",
@@ -4237,7 +4447,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:49:04+00:00",
-    "fetched_at": "2026-10-09T03:09:59.600Z",
+    "fetched_at": "2026-10-09T12:07:43.052Z",
     "raw": {
       "id": 150123,
       "url": "https://jobicy.com/jobs/150123-senior-web-engineer",
@@ -4288,7 +4498,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:48:54+00:00",
-    "fetched_at": "2026-10-09T03:09:59.600Z",
+    "fetched_at": "2026-10-09T12:07:43.053Z",
     "raw": {
       "id": 152539,
       "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
@@ -4348,7 +4558,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:48:52+00:00",
-    "fetched_at": "2026-10-09T03:09:59.602Z",
+    "fetched_at": "2026-10-09T12:07:43.054Z",
     "raw": {
       "id": 152529,
       "url": "https://jobicy.com/jobs/152529-senior-software-engineer-revenue",
@@ -4398,7 +4608,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:45:24+00:00",
-    "fetched_at": "2026-10-09T03:09:59.603Z",
+    "fetched_at": "2026-10-09T12:07:43.055Z",
     "raw": {
       "id": 150137,
       "url": "https://jobicy.com/jobs/150137-senior-hypervisor-engineer",
@@ -4443,7 +4653,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:45:20+00:00",
-    "fetched_at": "2026-10-09T03:09:59.604Z",
+    "fetched_at": "2026-10-09T12:07:43.056Z",
     "raw": {
       "id": 150161,
       "url": "https://jobicy.com/jobs/150161-senior-accident-reconstruction-engineer",
@@ -4499,7 +4709,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-05T04:45:11+00:00",
-    "fetched_at": "2026-10-09T03:09:59.605Z",
+    "fetched_at": "2026-10-09T12:07:43.057Z",
     "raw": {
       "id": 152505,
       "url": "https://jobicy.com/jobs/152505-software-engineer-security-stablecoin",
@@ -4553,7 +4763,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-04T05:45:40+00:00",
-    "fetched_at": "2026-10-09T03:09:59.606Z",
+    "fetched_at": "2026-10-09T12:07:43.058Z",
     "raw": {
       "id": 154514,
       "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
@@ -4596,7 +4806,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-04T05:05:05+00:00",
-    "fetched_at": "2026-10-09T03:09:59.607Z",
+    "fetched_at": "2026-10-09T12:07:43.059Z",
     "raw": {
       "id": 152200,
       "url": "https://jobicy.com/jobs/152200-ads-quality-rater-spanish-argentina",
@@ -4649,7 +4859,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-04T04:44:12+00:00",
-    "fetched_at": "2026-10-09T03:09:59.608Z",
+    "fetched_at": "2026-10-09T12:07:43.061Z",
     "raw": {
       "id": 154396,
       "url": "https://jobicy.com/jobs/154396-sr-software-engineer-ii-tech-lead-agentic-platform-poland-remote-b2b",
@@ -4700,7 +4910,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-04T04:35:21+00:00",
-    "fetched_at": "2026-10-09T03:09:59.610Z",
+    "fetched_at": "2026-10-09T12:07:43.062Z",
     "raw": {
       "id": 152401,
       "url": "https://jobicy.com/jobs/152401-qa-tester-future-roles",
@@ -4763,7 +4973,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-04T04:35:20+00:00",
-    "fetched_at": "2026-10-09T03:09:59.611Z",
+    "fetched_at": "2026-10-09T12:07:43.063Z",
     "raw": {
       "id": 152452,
       "url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
@@ -4816,7 +5026,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-04T04:35:17+00:00",
-    "fetched_at": "2026-10-09T03:09:59.612Z",
+    "fetched_at": "2026-10-09T12:07:43.064Z",
     "raw": {
       "id": 152499,
       "url": "https://jobicy.com/jobs/152499-backend-engineer-iii",
@@ -4877,7 +5087,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-04T04:35:12+00:00",
-    "fetched_at": "2026-10-09T03:09:59.614Z",
+    "fetched_at": "2026-10-09T12:07:43.066Z",
     "raw": {
       "id": 152402,
       "url": "https://jobicy.com/jobs/152402-staff-quality-engineer",
@@ -4937,7 +5147,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-04T04:30:14+00:00",
-    "fetched_at": "2026-10-09T03:09:59.617Z",
+    "fetched_at": "2026-10-09T12:07:43.067Z",
     "raw": {
       "id": 152407,
       "url": "https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform",
@@ -4988,7 +5198,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-03T19:24:45+00:00",
-    "fetched_at": "2026-10-09T03:09:59.617Z",
+    "fetched_at": "2026-10-09T12:07:43.067Z",
     "raw": {
       "id": 154483,
       "url": "https://jobicy.com/jobs/154483-senior-full-stack-engineer-4",
@@ -5007,238 +5217,6 @@
       "jobExcerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
       "jobDescription": "<p><a href=\"https://jobicy.com/company/infisical\" target=\"_blank\" rel=\"noopener\">Infisical</a> is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more.</p>\n\n<p>We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face, OpenRouter, LG, and NVIDIA.</p>\n\n<p>Join us on a mission to make security easier for all developers — starting with secrets management. We’re looking to hire exceptional talent to join us in building the open source security infrastructure stack for the AI era.</p>\n\n<p><strong>About the role</strong></p>\n<p>We’re looking for an exceptional <strong>Senior</strong> <strong>Full Stack Engineer</strong> to help us build, optimize, and expand the foundation of the platform.</p>\n<p>We’ve kept our hiring standards exceptionally high since we expect engineers to tackle a broad range of challenges on a day-to-day basis. Examples of past engineering initiatives include developing strategies for secret rotation and dynamic secrets, a gateway to provide secure access to private resources, protocols like <a href=\"https://infisical.com/docs/documentation/platform/pki/est\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>EST</u></a> and <a href=\"https://infisical.com/docs/documentation/platform/kms/kmip#kmip-integration\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>KMIP</u></a>, integrations for syncing secrets across cloud providers, and entire new product lines such as Infisical PKI and Infisical PAM.</p>\n<p>You’ll be working closely with our CTO and the rest of the engineering team to:</p>\n<ul>\n<li>\n<p>Develop and maintain features whilst communicating directly with enterprise customers.</p>\n</li>\n<li>\n<p>Expand our newer <a href=\"https://infisical.com/docs/documentation/platform/pki/overview\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>Infisical PKI</u></a>, <a href=\"https://infisical.com/docs/documentation/platform/pam/overview\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>Infisical PAM</u></a>, and <a href=\"https://infisical.com/docs/documentation/platform/kms/overview\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>Infisical KMS</u></a> product lines.</p>\n</li>\n<li>\n<p>Experiment with novel approaches for applying AI to secrets management and more broadly security infrastructure.</p>\n</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li>\n<p>Deep technical mastery of the JavaScript ecosystem, particularly React.js, Node.js, and TypeScript (3+).</p>\n</li>\n<li>\n<p>Exceptional attention to detail and eager to learn.</p>\n</li>\n<li>\n<p>A bias toward action—able to make decisions with incomplete information, iterate quickly, and take calculated risks.</p>\n</li>\n<li>\n<p>Based in the Americas (US or Canada), Brazil, India, UK, or EU. Must work US hours.</p>\n</li>\n</ul>\n<p><strong>Nice to have </strong></p>\n<ul>\n<li>\n<p>Expertise in Go.</p>\n</li>\n<li>\n<p>Has some understanding of devops/developer tools.</p>\n</li>\n<li>\n<p>Previous founder or startup experience.</p>\n</li>\n<li>\n<p>Previous experience building in open source or developer tools in either a professional or personal setting.</p>\n</li>\n<li>\n<p>Excellent written and oral communication skills to interact with customers directly.</p>\n</li>\n</ul>\n<p><strong>Team, values &amp; benefits</strong></p>\n<p>Our team brings experience from companies like Databricks, AWS, Red Hat, and more. We operate primarily as a remote team, but maintain a strong presence in San Francisco, where we have an office. We also get together in person throughout the year for off-sites, conferences, and team gatherings.</p>\n<p>At Infisical, we offer competitive compensation, including both salary and equity options. Additional benefits, such as a lunch stipend and a work setup budget, are available with more details to be found on our<a href=\"https://infisical.com/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u> careers page</u></a>.</p>",
       "pubDate": "2026-10-03T19:24:45+00:00"
-    }
-  },
-  {
-    "id": "jobicy:154481",
-    "platform": "jobicy",
-    "external_id": "154481",
-    "title": "Director of Engineering - Content Platform (Catalog)",
-    "company": "Spotify",
-    "description": "We design Spotify ’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify. This position sits at the heart of Spotify’s Content Platform, responsible for the systems that define, structure, and govern content across the platform. Our mission is to provide a trusted, consistent source of truth so content can be reliably managed and reused across every Spotify experience. We build and operate the core systems and workflows that ensure content is accurate, complete, and available, from APIs and lifecycle orchestration through to content quality and integrity. As Spotify’s content ecosystem continues to grow in scale and complexity across new formats, use cases, and regulatory environments, this domain plays a critical role in helping us scale intentionally while maintaining the trust and quality our users and creators expect. We’re seeking a Director of Engineering to lead this domain, shaping its technical direction, developing teams, and evolving the systems that underpin Spotify’s global content platform. What You'll Do Lead and develop multiple engineering teams through engineering managers, supporting their growth and impact. Own and drive the technical strategy for a critical platform domain, aligning it with broader company and platform goals. Enable teams across Spotify to build product experiences efficiently by improving the underlying catalog systems. Guide the evolution and modernization of complex legacy systems into scalable, reliable architecture. Partner closely with product and cross-functional leaders to align priorities and drive execution. Improve system reliability and reduce operational friction in workflows that directly impact content availability. Identify and apply opportunities for automation and AI to improve data quality and engineering productivity. Build an inclusive engineering culture where teams continuously improve how they work and deliver. Develop and execute a long-term roadmap that balances immediate priorities with strategic investments. Who You Are You have experience leading engineering organizations through other leaders and scaling teams effectively. You have worked on complex, data-intensive systems where accuracy, consistency, and reliability at scale are critical. You bring strong system design and architectural decision-making experience in distributed systems. You are comfortable navigating ambiguity and making thoughtful trade-offs in high-impact environments. You have experience evolving legacy systems and guiding long-term platform transformations. You influence effectively across engineering, product, and business stakeholders. You have experience leading distributed teams and creating alignment across locations. You communicate clearly and can explain complex technical topics to a range of audiences. You are curious about how AI and automation can improve systems and workflows and apply that thinking pragmatically. You care about building inclusive, collaborative environments where teams can grow and do their best work. Where You'll Be This role is based in Stockholm or London We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home. Compensation Additional Information",
-    "url": "https://jobicy.com/jobs/154481-director-of-engineering-content-platform-catalog",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Sweden,  UK",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-03T19:24:42+00:00",
-    "fetched_at": "2026-10-09T03:09:59.618Z",
-    "raw": {
-      "id": 154481,
-      "url": "https://jobicy.com/jobs/154481-director-of-engineering-content-platform-catalog",
-      "jobSlug": "154481-director-of-engineering-content-platform-catalog",
-      "jobTitle": "Director of Engineering - Content Platform (Catalog)",
-      "companyName": "Spotify",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/03/Jobicy-210328105941-289246.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Sweden,  UK",
-      "jobLevel": "Director",
-      "jobExcerpt": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs,&hellip;",
-      "jobDescription": "<p>We design <a href=\"https://jobicy.com/company/spotify\" target=\"_blank\" rel=\"noopener\">Spotify</a>’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.</p>\n<p>This position sits at the heart of Spotify’s Content Platform, responsible for the systems that define, structure, and govern content across the platform. Our mission is to provide a trusted, consistent source of truth so content can be reliably managed and reused across every Spotify experience. We build and operate the core systems and workflows that ensure content is accurate, complete, and available, from APIs and lifecycle orchestration through to content quality and integrity.</p>\n<p>As Spotify’s content ecosystem continues to grow in scale and complexity across new formats, use cases, and regulatory environments, this domain plays a critical role in helping us scale intentionally while maintaining the trust and quality our users and creators expect.</p>\n<p>We’re seeking a Director of Engineering to lead this domain, shaping its technical direction, developing teams, and evolving the systems that underpin Spotify’s global content platform.</p>\n<h3>What You'll Do</h3>\n<ul>\n<li>Lead and develop multiple engineering teams through engineering managers, supporting their growth and impact.</li>\n<li>Own and drive the technical strategy for a critical platform domain, aligning it with broader company and platform goals.</li>\n<li>Enable teams across Spotify to build product experiences efficiently by improving the underlying catalog systems.</li>\n<li>Guide the evolution and modernization of complex legacy systems into scalable, reliable architecture.</li>\n<li>Partner closely with product and cross-functional leaders to align priorities and drive execution.</li>\n<li>Improve system reliability and reduce operational friction in workflows that directly impact content availability.</li>\n<li>Identify and apply opportunities for automation and AI to improve data quality and engineering productivity.</li>\n<li>Build an inclusive engineering culture where teams continuously improve how they work and deliver.</li>\n<li>Develop and execute a long-term roadmap that balances immediate priorities with strategic investments.</li>\n</ul>\n<h3>Who You Are</h3>\n<ul>\n<li>You have experience leading engineering organizations through other leaders and scaling teams effectively.</li>\n<li>You have worked on complex, data-intensive systems where accuracy, consistency, and reliability at scale are critical.</li>\n<li>You bring strong system design and architectural decision-making experience in distributed systems.</li>\n<li>You are comfortable navigating ambiguity and making thoughtful trade-offs in high-impact environments.</li>\n<li>You have experience evolving legacy systems and guiding long-term platform transformations.</li>\n<li>You influence effectively across engineering, product, and business stakeholders.</li>\n<li>You have experience leading distributed teams and creating alignment across locations.</li>\n<li>You communicate clearly and can explain complex technical topics to a range of audiences.</li>\n<li>You are curious about how AI and automation can improve systems and workflows and apply that thinking pragmatically.</li>\n<li>You care about building inclusive, collaborative environments where teams can grow and do their best work.</li>\n</ul>\n<h3>Where You'll Be</h3>\n<ul>\n<li>This role is based in Stockholm or London</li>\n<li>We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.</li>\n</ul>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>",
-      "pubDate": "2026-10-03T19:24:42+00:00"
-    }
-  },
-  {
-    "id": "jobicy:154467",
-    "platform": "jobicy",
-    "external_id": "154467",
-    "title": "Senior Backend Engineer - Backend Platform (USA Only, 100% Remote)",
-    "company": "Close",
-    "description": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed to help you succeed and scale. We're bootstrapped and profitable which means we answer to our customers and play by our rules. We're proud of our 120-person, 100% remote team, focused on building Close so that no small, scaling business fails because it can't figure out sales. Our Stack Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElastiCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools. We love open sourcing our code and ideas on our GitHub and on The Making of Close , our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like SocketShark , TaskTiger , LimitLion and ciso8601 . AI is both how we build and what we ship, and that's reshaped what engineering looks like. This is a transformation we’re embracing and find deeply exciting. About the Role Close runs on Python: Flask web apps, TaskTiger, billions of MongoDB documents, a public REST API that customers and external agents both build on. Four product teams ship features on top of that every week. Backend Platforms owns the foundation underneath it all. As an Engineer on our Backend Platforms team, you’re building for other engineers. When a product team adds a new API endpoint, most of what they write isn't their feature — it's wiring: authentication, permissions, rate limiting, the shape the endpoint has to take so it looks like every other endpoint when you squint. Multiply that across telemetry, eventing, database migrations, authorization, and local development, and you get the problem this team exists to solve: make the paved road faster to walk than the trail. The other half of the team's mandate is the AI development platform. We've built DevDawg, cloud-based development environments preconfigured for our entire application stack and our engineering practices, and Spice, our extension layer on top of a coding agent that runs internal review workflows and root cause analysis. Spice is hooked into GitHub and can already approve mergeable pull requests on its own for simple changes. This team is responsible for expanding what it can safely handle. This is a new team. You would be one of the first hires, and you'd have unusual influence over what the team owns and how it operates. One thing to know: we do move people between teams as the work shifts. Most engineers here end up on more than one team over their time at Close — this team is where you'd start, but over time you'll likely have the opportunity to work on many different projects. This role is open at the Senior and Staff levels. You don't need to pick one when you apply: we'll calibrate together during the process. You are A seasoned Python engineer. Python is our backbone and it matters in this role more than on other teams at Close. Architectural patterns don't port cleanly between languages, and you'll be setting the patterns. Go, Rust, or TypeScript alongside it is welcome. Drawn to meta-problems. This team doesn't ship features to customers; it changes how features get built. AI-native in production. You've shipped meaningful LLM-backed or agentic work to real users. For a team building AI tooling that other engineers depend on, this is foundational to the role. Working with AI in your day-to-day. You use coding agents in your own workflow and have a real POV on where they help and where they get in the way. On this team, your POV becomes the product. We fund best-in-class developer tools and treat experimentation as part of the work. Fluent in observability and production practice. Telemetry, metrics, tracing, alerting, Sentry ownership, what production-ready actually means. You've been the person who made a system legible when it broke. Opinionated about API design. You've shipped internet-facing APIs and you think about who's on the other end — apps, agents, humans reading docs — and what each needs. Battle-tested. You've debugged incidents where latency budgets didn't hold, owned a system everyone else relied on, or carried a pager for something with real customer impact. A builder first. You'd rather get a rough v1 in front of five engineers than spend three weeks on abstractions. Energized by internal customers. Your users are a Slack DM away. You'll talk to them directly instead of through a PM, and you'll use most of what you build yourself. You will Expand DevDawg and Spice. Cloud development environments for our full stack, paired with automated review and root-cause tooling that can approve real pull requests. Making that safe enough to cover more of our review surface is one of the team's biggest projects. Build the paved roads for our API layer. REST blueprints, GraphQL schema, OpenAPI, realtime, and the auth and permission plumbing that every endpoint needs. Consistent patterns are what make shared utilities possible. Modernize the backend framework layer. Web and async compute frameworks, performance, and migration paths (Flask → FastAPI, among others) — with clear defaults, examples, and migrations teams can adopt without asking permission. Own how we see production. Observability, metrics, alerting, and the readiness bar teams meet before shipping. When the same issues keep showing up in incident reviews, you make sure the underlying cause gets owned rather than re-triaged. Ship shared backend services and primitives. Eventing patterns and the event log, database-change safety and migration guardrails, delegated access and auditability, the internal admin framework and support-facing APIs. Set the guardrails for coding agents in our backend. Static analysis, linting, hooks, test harnesses — the constraints that make agent-written code safe to merge at volume. Partner across the org. Infrastructure owns the substrate (AWS, Kubernetes, datastores); you own the application layer on top. Tech you'll touch: Python, Flask, FastAPI, GraphQL, TaskTiger, Rust, Typescript, Kafka, Redis, MongoDB, PostgreSQL, Elasticsearch, Docker, Kubernetes, GitHub Actions — plus whatever coding agent ships next. Benefits Compensation: Competitive pay plus an organization-wide goal-based bonus Paid Time Off: ~5 weeks of PTO to start. Plus a 1-week all-company Winter Holiday Break and paid US holidays. You'll earn 2 extra days for every year you're with Close. 80% Work Option: Work with your manager to choose between a standard 5-day week or a 4-day week at 80% pay Parental Leave: Paid leave for primary and secondary caregivers Sabbatical: A 1-month paid sabbatical every 5 years with the team Healthcare (US residents): Two medical plans with Close covering 99% of your premium, plus Dental, Vision, HSA, FSA, and company-paid Long-Term Disability 401k (US residents): We match your contributions up to 6%, vested immediately Our Values Build a house you want to live in - Examine long-term thinking and action No BS - Practice transparency and honesty, especially when it’s hard Invest in each other - Build successful relationships with your coworkers and customers Discipline equals freedom - Keep your word to yourself and others Strive for greatness - Constantly challenge yourself and others Learn More Listen to our CEO and Founder, Steli Efti, tell the story of Close’s journey in the $0-30m Blueprint . Watch our culture video from our 2023 team retreat in Milan. Every year our entire team gathers in person to build connection, foster cross-functional collaboration, and have fun. In 2027, we're headed to Dusseldorf, Germany! Explore our product. Check out a demo ! Our Hiring Process We ask a few role-specific questions as part of our application process. These questions are designed to help us learn more about you from the start, so please answer each one thoughtfully. We see this as an opportunity to get to know you beyond your resume. We use AI tools daily at Close and expect candidates to do the same. In evaluating your application, we aim to get a sense for you - the way you think, how you communicate, the work you've done. Applications that read as fully AI-generated will not be considered. Regardless of fit, you can expect to hear back from our team with an update on the status of your candidacy. If you progress to the interview process, you'll receive a full outline of the role-specific steps in your first touchpoint with us. We do our best to make the hiring process clear and human.",
-    "url": "https://jobicy.com/jobs/154467-senior-backend-engineer-backend-platform-usa-only-100-remote",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "python",
-      "rust",
-      "backbone",
-      "flask",
-      "fastapi",
-      "postgresql",
-      "mongodb",
-      "redis",
-      "elasticsearch",
-      "aws",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "ansible",
-      "github-actions",
-      "sentry",
-      "llm",
-      "substrate",
-      "kafka",
-      "graphql",
-      "rest"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-03T14:58:34+00:00",
-    "fetched_at": "2026-10-09T03:09:59.620Z",
-    "raw": {
-      "id": 154467,
-      "url": "https://jobicy.com/jobs/154467-senior-backend-engineer-backend-platform-usa-only-100-remote",
-      "jobSlug": "154467-senior-backend-engineer-backend-platform-usa-only-100-remote",
-      "jobTitle": "Senior Backend Engineer - Backend Platform (USA Only, 100% Remote)",
-      "companyName": "Close",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/09/Closeio.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed&hellip;",
-      "jobDescription": "<h3>About Us</h3>\n<p>Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so <a href=\"https://jobicy.com/company/close\" target=\"_blank\" rel=\"noopener\">Close</a> does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed to help you succeed and scale.</p>\n<p>We're bootstrapped and profitable which means we answer to our customers and play by our rules. We're proud of our 120-person, 100% remote team, focused on building Close so that no small, scaling business fails because it can't figure out sales.</p>\n<h3>Our Stack</h3>\n<p>Our backend tech stack consists primarily of Python Flask web apps with our <a href=\"https://github.com/closeio/tasktiger\" rel=\"nofollow ugc noopener\" target=\"_blank\">TaskTiger</a> scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElastiCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented <a href=\"https://developer.close.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">public API</a> that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools. </p>\n<p>We love open sourcing our code and ideas on <a href=\"https://github.com/closeio\" rel=\"nofollow ugc noopener\" target=\"_blank\">our GitHub</a> and on <a href=\"https://making.close.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">The Making of Close</a>, our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like <a href=\"https://github.com/closeio/socketshark\" rel=\"nofollow ugc noopener\" target=\"_blank\">SocketShark</a>, <a href=\"https://github.com/closeio/tasktiger\" rel=\"nofollow ugc noopener\" target=\"_blank\">TaskTiger</a>, <a href=\"https://github.com/closeio/limitlion\" rel=\"nofollow ugc noopener\" target=\"_blank\">LimitLion</a> and <a href=\"https://github.com/closeio/ciso8601\" rel=\"nofollow ugc noopener\" target=\"_blank\">ciso8601</a>.</p>\n<p>AI is both how we build and what we ship, and that's reshaped what engineering looks like. This is a transformation we’re embracing and find deeply exciting. </p>\n<h3>About the Role</h3>\n<p>Close runs on Python: Flask web apps, TaskTiger, billions of MongoDB documents, a public REST API that customers and external agents both build on. Four product teams ship features on top of that every week. Backend Platforms owns the foundation underneath it all.</p>\n<p>As an Engineer on our Backend Platforms team, you’re building for other engineers. When a product team adds a new API endpoint, most of what they write isn't their feature — it's wiring: authentication, permissions, rate limiting, the shape the endpoint has to take so it looks like every other endpoint when you squint. Multiply that across telemetry, eventing, database migrations, authorization, and local development, and you get the problem this team exists to solve: make the paved road faster to walk than the trail.</p>\n<p>The other half of the team's mandate is the AI development platform. We've built DevDawg, cloud-based development environments preconfigured for our entire application stack and our engineering practices, and Spice, our extension layer on top of a coding agent that runs internal review workflows and root cause analysis. Spice is hooked into GitHub and can already approve mergeable pull requests on its own for simple changes. This team is responsible for expanding what it can safely handle.</p>\n<p>This is a new team. You would be one of the first hires, and you'd have unusual influence over what the team owns and how it operates.</p>\n<p>One thing to know: we do move people between teams as the work shifts. Most engineers here end up on more than one team over their time at Close — this team is where you'd start, but over time you'll likely have the opportunity to work on many different projects.</p>\n<p>This role is open at the Senior and Staff levels. You don't need to pick one when you apply: we'll calibrate together during the process.</p>\n\n<h3>You are</h3>\n<ul>\n<li>\n<p><strong>A seasoned Python engineer.</strong> Python is our backbone and it matters in this role more than on other teams at Close. Architectural patterns don't port cleanly between languages, and you'll be setting the patterns. Go, Rust, or TypeScript alongside it is welcome.</p>\n</li>\n<li>\n<p><strong>Drawn to meta-problems.</strong> This team doesn't ship features to customers; it changes how features get built.</p>\n</li>\n<li>\n<p><strong>AI-native in production.</strong> You've shipped meaningful LLM-backed or agentic work to real users. For a team building AI tooling that other engineers depend on, this is foundational to the role.</p>\n</li>\n<li>\n<p><strong>Working with AI in your day-to-day.</strong> You use coding agents in your own workflow and have a real POV on where they help and where they get in the way. On this team, your POV becomes the product. We fund best-in-class developer tools and treat experimentation as part of the work.</p>\n</li>\n<li>\n<p><strong>Fluent in observability and production practice.</strong> Telemetry, metrics, tracing, alerting, Sentry ownership, what production-ready actually means. You've been the person who made a system legible when it broke.</p>\n</li>\n<li>\n<p><strong>Opinionated about API design.</strong> You've shipped internet-facing APIs and you think about who's on the other end — apps, agents, humans reading docs — and what each needs.</p>\n</li>\n<li>\n<p><strong>Battle-tested.</strong> You've debugged incidents where latency budgets didn't hold, owned a system everyone else relied on, or carried a pager for something with real customer impact.</p>\n</li>\n<li>\n<p><strong>A builder first.</strong> You'd rather get a rough v1 in front of five engineers than spend three weeks on abstractions.</p>\n</li>\n<li>\n<p><strong>Energized by internal customers.</strong> Your users are a Slack DM away. You'll talk to them directly instead of through a PM, and you'll use most of what you build yourself.</p>\n</li>\n</ul>\n<h3>You will</h3>\n<ul>\n<li>\n<p><strong>Expand DevDawg and Spice.</strong> Cloud development environments for our full stack, paired with automated review and root-cause tooling that can approve real pull requests. Making that safe enough to cover more of our review surface is one of the team's biggest projects.</p>\n</li>\n<li>\n<p><strong>Build the paved roads for our API layer.</strong> REST blueprints, GraphQL schema, OpenAPI, realtime, and the auth and permission plumbing that every endpoint needs. Consistent patterns are what make shared utilities possible.</p>\n</li>\n<li>\n<p><strong>Modernize the backend framework layer.</strong> Web and async compute frameworks, performance, and migration paths (Flask → FastAPI, among others) — with clear defaults, examples, and migrations teams can adopt without asking permission.</p>\n</li>\n<li>\n<p><strong>Own how we see production.</strong> Observability, metrics, alerting, and the readiness bar teams meet before shipping. When the same issues keep showing up in incident reviews, you make sure the underlying cause gets owned rather than re-triaged.</p>\n</li>\n<li>\n<p><strong>Ship shared backend services and primitives.</strong> Eventing patterns and the event log, database-change safety and migration guardrails, delegated access and auditability, the internal admin framework and support-facing APIs.</p>\n</li>\n<li>\n<p><strong>Set the guardrails for coding agents in our backend.</strong> Static analysis, linting, hooks, test harnesses — the constraints that make agent-written code safe to merge at volume.</p>\n</li>\n<li>\n<p><strong>Partner across the org.</strong> Infrastructure owns the substrate (AWS, Kubernetes, datastores); you own the application layer on top.</p>\n</li>\n</ul>\n<p><strong>Tech you'll touch:</strong> Python, Flask, FastAPI, GraphQL, TaskTiger, Rust, Typescript, Kafka, Redis, MongoDB, PostgreSQL, Elasticsearch, Docker, Kubernetes, GitHub Actions — plus whatever coding agent ships next.</p>\n\n<h3>Benefits</h3>\n<ul>\n<li>\n<p>Compensation: Competitive pay plus an organization-wide goal-based bonus</p>\n</li>\n<li>\n<p>Paid Time Off: ~5 weeks of PTO to start. Plus a 1-week all-company Winter Holiday Break and paid US holidays. You'll earn 2 extra days for every year you're with Close.</p>\n</li>\n<li>\n<p>80% Work Option: Work with your manager to choose between a standard 5-day week or a 4-day week at 80% pay</p>\n</li>\n<li>\n<p>Parental Leave: Paid leave for primary and secondary caregivers</p>\n</li>\n<li>\n<p>Sabbatical: A 1-month paid sabbatical every 5 years with the team</p>\n</li>\n<li>\n<p>Healthcare (US residents): Two medical plans with Close covering 99% of your premium, plus Dental, Vision, HSA, FSA, and company-paid Long-Term Disability</p>\n</li>\n<li>\n<p>401k (US residents): We match your contributions up to 6%, vested immediately</p>\n</li>\n</ul>\n<h3>Our Values</h3>\n<p>Build a house you want to live in - Examine long-term thinking and action</p>\n<p>No BS - Practice transparency and honesty, especially when it’s hard</p>\n<p>Invest in each other - Build successful relationships with your coworkers and customers</p>\n<p>Discipline equals freedom - Keep your word to yourself and others</p>\n<p>Strive for greatness - Constantly challenge yourself and others</p>\n\n<h3>Learn More</h3>\n<p>Listen to our CEO and Founder, Steli Efti, tell the story of Close’s journey in the <a href=\"https://www.close.com/blueprint\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>$0-30m Blueprint</u></a>. </p>\n<p>Watch <a href=\"https://www.youtube.com/watch?v=maXKi1GN2MI\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>our culture video</u></a> from our 2023 team retreat in Milan. Every year our entire team gathers in person to build connection, foster cross-functional collaboration, and have fun. In 2027, we're headed to Dusseldorf, Germany! </p>\n<p>Explore our product. Check out a <a href=\"https://www.close.com/demo-site\" rel=\"nofollow ugc noopener\" target=\"_blank\">demo</a>!</p>\n\n<h3>Our Hiring Process</h3>\n<p>We ask a few role-specific questions as part of our application process. These questions are designed to help us learn more about you from the start, so please answer each one thoughtfully. We see this as an opportunity to get to know you beyond your resume.</p>\n<p>We use AI tools daily at Close and expect candidates to do the same. In evaluating your application, we aim to get a sense for <em>you</em> - the way you think, how you communicate, the work you've done. Applications that read as fully AI-generated will not be considered.</p>\n<p>Regardless of fit, you can expect to hear back from our team with an update on the status of your candidacy.</p>\n<p>If you progress to the interview process, you'll receive a full outline of the role-specific steps in your first touchpoint with us. We do our best to make the hiring process clear and human.</p>",
-      "pubDate": "2026-10-03T14:58:34+00:00",
-      "salaryMin": 140000,
-      "salaryMax": 210000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:154461",
-    "platform": "jobicy",
-    "external_id": "154461",
-    "title": "PHP & React Software Engineer",
-    "company": "Enumerate",
-    "description": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our existing web application stable and reliable for the customers who depend on it every day. This is a hands-on role that balances two tracks: building new mobile-facing functionality and APIs, and investigating defects, troubleshooting production issues, and making incremental improvements to an existing vanilla PHP codebase. You'll work closely with Product, QA, and Support to resolve issues and ensure consistent behavior across web and mobile. This role is ideal for an experienced PHP engineer who is energized by modernization work but can also dive into legacy systems - someone who enjoys understanding complex business logic and knows that a stable foundation is what makes new development possible. This is a remote position, but candidates must be located in LATAM. Key Responsibilities &amp; Deliverables Mobile &amp; Platform Development Help stand up our new React Native mobile application, from project setup through first release. Build and extend the PHP APIs and services that power it. Help define how the mobile app integrates with existing systems. Establish patterns and conventions for mobile development that the team will build on as it grows. Own features and components end to end, from design discussion through development and release Identify opportunities to modernize patterns in the existing codebase as new work touches them. Application Stability &amp; Bug Resolution Investigate, diagnose, and resolve bugs in a vanilla PHP application. Debug complex issues across application logic, database interactions, and integrations. Deliver safe, well-tested fixes that minimize regression risk. Analyze logs, error reports, and monitoring data to identify root causes. Collaborate with QA and Support to reproduce reported issues and validate fixes. Assist with performance improvements and reliability enhancements. Engineering Practices Participate actively in code reviews and technical discussions. Apply agreed-upon standards for code quality, testing, and deployment. Use AI-assisted development tools (such as Claude, Cursor, GitHub Copilot or something similar) to accelerate development, testing, and documentation. Contribute incremental improvements to shared utilities or internal tooling. Skills, Knowledge &amp; Expertise Required Qualifications Proven experience working as a PHP engineer delivering production software. Hands-on React Native experience, including at least one application shipped to the App Store and/or Google Play. Experience building and consuming REST APIs that service web or mobile clients. Demonstrated ability to debug and fix issues in large or legacy codebases. Solid understanding of relational databases and SQL. Solid understanding of modern development practices, including version control (Git), CI/CD, and automated testing. Comfortable working independently in a remote role and switching context between new development and production support. Strong analytical and problem-solving skills, especially when tracing complex bugs. Experience using AI-assisted coding tools as part of daily development workflows. Preferred Qualifications Familiarity with PHP applications that integrate with third-party APIs. Experience incrementally modernizing legacy systems without disrupting production. Understanding of secure coding practices and data integrity concerns. Familiarity with mobile-specific concerns such as offline behavior, push notifications, or app release cycles. Total monthly compensation: $3,000—$3,500 USD",
-    "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "LATAM",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "php",
-      "react",
-      "llm",
-      "react-native",
-      "git"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-03T14:58:34+00:00",
-    "fetched_at": "2026-10-09T03:09:59.620Z",
-    "raw": {
-      "id": 154461,
-      "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
-      "jobSlug": "154461-php-react-software-engineer",
-      "jobTitle": "PHP & React Software Engineer",
-      "companyName": "Enumerate",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6e6da5ac-221.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "LATAM",
-      "jobLevel": "Any",
-      "jobExcerpt": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our existing web application stable and reliable&hellip;",
-      "jobDescription": "<p><a href=\"https://jobicy.com/company/enumerate\" target=\"_blank\" rel=\"noopener\">Enumerate</a> is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our existing web application stable and reliable for the customers who depend on it every day. </p>\n<p>This is a hands-on role that balances two tracks: building new mobile-facing functionality and APIs, and investigating defects, troubleshooting production issues, and making incremental improvements to an existing vanilla PHP codebase. You'll work closely with Product, QA, and Support to resolve issues and ensure consistent behavior across web and mobile. This role is ideal for an experienced PHP engineer who is energized by modernization work but can also dive into legacy systems - someone who enjoys understanding complex business logic and knows that a stable foundation is what makes new development possible. </p>\n<p>This is a remote position, but candidates must be located in LATAM.</p>\n<p><strong><br>Key Responsibilities &amp; Deliverables</strong> </p>\n<p>Mobile &amp; Platform Development </p>\n<ul>\n<li>Help stand up our new React Native mobile application, from project setup through first release. </li>\n</ul>\n<ul>\n<li>Build and extend the PHP APIs and services that power it. </li>\n</ul>\n<ul>\n<li>Help define how the mobile app integrates with existing systems. </li>\n</ul>\n<ul>\n<li>Establish patterns and conventions for mobile development that the team will build on as it grows. </li>\n</ul>\n<ul>\n<li>Own features and components end to end, from design discussion through development and release </li>\n</ul>\n<ul>\n<li>Identify opportunities to modernize patterns in the existing codebase as new work touches them. </li>\n</ul>\n<p>Application Stability &amp; Bug Resolution </p>\n<ul>\n<li>Investigate, diagnose, and resolve bugs in a vanilla PHP application. </li>\n</ul>\n<ul>\n<li>Debug complex issues across application logic, database interactions, and integrations. </li>\n</ul>\n<ul>\n<li>Deliver safe, well-tested fixes that minimize regression risk. </li>\n</ul>\n<ul>\n<li>Analyze logs, error reports, and monitoring data to identify root causes. </li>\n</ul>\n<ul>\n<li>Collaborate with QA and Support to reproduce reported issues and validate fixes. </li>\n</ul>\n<ul>\n<li>Assist with performance improvements and reliability enhancements. </li>\n</ul>\n<p>Engineering Practices </p>\n<ul>\n<li>Participate actively in code reviews and technical discussions. </li>\n</ul>\n<ul>\n<li>Apply agreed-upon standards for code quality, testing, and deployment. </li>\n</ul>\n<ul>\n<li>Use AI-assisted development tools (such as Claude, Cursor, GitHub Copilot or something similar) to accelerate development, testing, and documentation. </li>\n</ul>\n<ul>\n<li>Contribute incremental improvements to shared utilities or internal tooling. </li>\n</ul>\n<p><strong>Skills, Knowledge &amp; Expertise</strong> </p>\n<p>Required Qualifications </p>\n<ul>\n<li>Proven experience working as a PHP engineer delivering production software. </li>\n</ul>\n<ul>\n<li>Hands-on React Native experience, including at least one application shipped to the App Store and/or Google Play. </li>\n</ul>\n<ul>\n<li>Experience building and consuming REST APIs that service web or mobile clients. </li>\n</ul>\n<ul>\n<li>Demonstrated ability to debug and fix issues in large or legacy codebases. </li>\n</ul>\n<ul>\n<li>Solid understanding of relational databases and SQL. </li>\n</ul>\n<ul>\n<li>Solid understanding of modern development practices, including version control (Git), CI/CD, and automated testing. </li>\n</ul>\n<ul>\n<li>Comfortable working independently in a remote role and switching context between new development and production support. </li>\n</ul>\n<ul>\n<li>Strong analytical and problem-solving skills, especially when tracing complex bugs. </li>\n</ul>\n<ul>\n<li>Experience using AI-assisted coding tools as part of daily development workflows. </li>\n</ul>\n<p>Preferred Qualifications </p>\n<ul>\n<li>Familiarity with PHP applications that integrate with third-party APIs. </li>\n</ul>\n<ul>\n<li>Experience incrementally modernizing legacy systems without disrupting production. </li>\n</ul>\n<ul>\n<li>Understanding of secure coding practices and data integrity concerns. </li>\n</ul>\n<ul>\n<li>Familiarity with mobile-specific concerns such as offline behavior, push notifications, or app release cycles. </li>\n</ul>\n<p>Total monthly compensation:</p>\n<p>$3,000—$3,500 USD</p>",
-      "pubDate": "2026-10-03T14:58:34+00:00",
-      "salaryMin": 3000,
-      "salaryMax": 3500,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "monthly"
-    }
-  },
-  {
-    "id": "jobicy:154463",
-    "platform": "jobicy",
-    "external_id": "154463",
-    "title": "Senior Backend Engineer - CRM (USA Only, 100% Remote)",
-    "company": "Close",
-    "description": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed to help you succeed and scale. We're bootstrapped and profitable which means we answer to our customers and play by our rules. We're proud of our 120-person, 100% remote team, focused on building Close so that no small, scaling business fails because it can't figure out sales. Our Stack Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElastiCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools. We love open sourcing our code and ideas on our GitHub and on The Making of Close , our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like SocketShark , TaskTiger , LimitLion and ciso8601 . AI is both how we build and what we ship, and that's reshaped what engineering looks like. This is a transformation we’re embracing and find deeply exciting. About the Role The CRM team owns everything that Close’s customers touch all day, every day: leads, contacts, opportunities, tasks, activities, custom objects, and search. Each time a call is logged, an email is threaded, a meeting is summarized, it lands on the record this team owns, and every agent we ship starts there. Today, this team is making big moves towards the next iteration of Close's core data model, our largest engineering effort currently underway. We're reopening assumptions made a decade ago and asking what a modern CRM's data model should look like — one that makes Close flexible for our small, scaling business customers. This is a long series of migrations and rearchitecture projects. If you like greenfield and you like hairy, this is both: help design the next version of Close, and untangle the current one. One thing to know: we do move people between teams as the work shifts. Most engineers here end up on more than one team over their time at Close — this team is where you'd start, but over time you'll likely have the opportunity to work on many different projects. You are A seasoned engineer. Python is our backbone, but perhaps you've worked across Go, Rust, or TypeScript. You pick the right tool for the workload rather than retreating to what you know. Architecturally minded. This is the thing we care about most. You've designed systems others built on, planned a migration that couldn't take the product down, and know how to sequence a rearchitecture into pieces that ship independently. Drawn to data model and retrieval problems. Schemas, relationships, normalization, query design, type systems. The plumbing decides whether a CRM feels fast and we pride ourselves on being fast. Experienced in search — this is a serious bonus. Elasticsearch especially, and anything adjacent: Lucene internals, query planning, relevance, indexing at scale, building or operating a search engine. AI-native in production. You've shipped meaningful LLM-backed or agentic features to real users, and you have a POV on where AI earns its place in a CRM workflow and where a structured system wins. Working with AI in your day-to-day. You use AI tools in your own workflow to ship faster, write tighter code, and reason about unfamiliar parts of the codebase. We fund best-in-class developer tools and treat experimentation as part of the work. Battle-tested. You've debugged incidents where latency budgets didn't hold, owned a system everyone else relied on, or carried a pager for something with real customer impact. A builder first. You'd rather get a sloppy v1 in front of fifty customers than spend three weeks on abstractions. You ship. You will Rearchitect the core CRM data model. Rework how leads, contacts, opportunities, and custom objects relate to each other so each of our customers can represent their business the way it operates. Make Close usable by agents. The Agents team builds the MCP foundation; we build the tools and endpoints on top of it that expose the CRM's data and actions. The hard part is search: any MCP-compatible harness should be able to traverse, filter, and reason over a customer's CRM without learning our private query language first. Ship AI-native CRM features. This team built agentic enrichment: instead of paying a third-party data provider, an agent goes and researches whatever field you need, in bulk or automatically inside a workflow. There's a lot more of this ahead, including AI-powered data cleaning and richer AI search. Keep the hot paths fast. Finding a lead, updating a deal, scanning a pipeline, running a bulk action. Salespeople do these hundreds of times a week and no amount of clever architecture matters if they're slow. Tech you'll touch: Python, Flask, FastAPI, MongoDB, Elasticsearch, PostgreSQL, Redis, TaskTiger, MCP — plus whichever LLM ships next. Benefits Compensation: Competitive pay plus an organization-wide goal-based bonus Paid Time Off: ~5 weeks of PTO to start. Plus a 1-week all-company Winter Holiday Break and paid US holidays. You'll earn 2 extra days for every year you're with Close. 80% Work Option: Work with your manager to choose between a standard 5-day week or a 4-day week at 80% pay Parental Leave: Paid leave for primary and secondary caregivers Sabbatical: A 1-month paid sabbatical every 5 years with the team Healthcare (US residents): Two medical plans with Close covering 99% of your premium, plus Dental, Vision, HSA, FSA, and company-paid Long-Term Disability 401k (US residents): We match your contributions up to 6%, vested immediately Our Values Build a house you want to live in - Examine long-term thinking and action No BS - Practice transparency and honesty, especially when it’s hard Invest in each other - Build successful relationships with your coworkers and customers Discipline equals freedom - Keep your word to yourself and others Strive for greatness - Constantly challenge yourself and others Learn More Listen to our CEO and Founder, Steli Efti, tell the story of Close’s journey in the $0-30m Blueprint . Watch our culture video from our 2023 team retreat in Milan. Every year our entire team gathers in person to build connection, foster cross-functional collaboration, and have fun. In 2027, we're headed to Dusseldorf, Germany! Explore our product. Check out a demo ! Our Hiring Process We ask a few role-specific questions as part of our application process. These questions are designed to help us learn more about you from the start, so please answer each one thoughtfully. We see this as an opportunity to get to know you beyond your resume. We use AI tools daily at Close and expect candidates to do the same. In evaluating your application, we aim to get a sense for you - the way you think, how you communicate, the work you've done. Applications that read as fully AI-generated will not be considered. Regardless of fit, you can expect to hear back from our team with an update on the status of your candidacy. If you progress to the interview process, you'll receive a full outline of the role-specific steps in your first touchpoint with us. We do our best to make the hiring process clear and human.",
-    "url": "https://jobicy.com/jobs/154463-senior-backend-engineer-crm-usa-only-100-remote",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "typescript",
-      "python",
-      "rust",
-      "backbone",
-      "flask",
-      "fastapi",
-      "postgresql",
-      "mongodb",
-      "redis",
-      "elasticsearch",
-      "aws",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "ansible",
-      "llm"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-03T14:58:33+00:00",
-    "fetched_at": "2026-10-09T03:09:59.622Z",
-    "raw": {
-      "id": 154463,
-      "url": "https://jobicy.com/jobs/154463-senior-backend-engineer-crm-usa-only-100-remote",
-      "jobSlug": "154463-senior-backend-engineer-crm-usa-only-100-remote",
-      "jobTitle": "Senior Backend Engineer - CRM (USA Only, 100% Remote)",
-      "companyName": "Close",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/09/Closeio.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed&hellip;",
-      "jobDescription": "<h3>About Us</h3>\n<p>Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so <a href=\"https://jobicy.com/company/close\" target=\"_blank\" rel=\"noopener\">Close</a> does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed to help you succeed and scale.</p>\n<p>We're bootstrapped and profitable which means we answer to our customers and play by our rules. We're proud of our 120-person, 100% remote team, focused on building Close so that no small, scaling business fails because it can't figure out sales.</p>\n<h3>Our Stack</h3>\n<p>Our backend tech stack consists primarily of Python Flask web apps with our <a href=\"https://github.com/closeio/tasktiger\" rel=\"nofollow ugc noopener\" target=\"_blank\">TaskTiger</a> scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElastiCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented <a href=\"https://developer.close.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">public API</a> that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools. </p>\n<p>We love open sourcing our code and ideas on <a href=\"https://github.com/closeio\" rel=\"nofollow ugc noopener\" target=\"_blank\">our GitHub</a> and on <a href=\"https://making.close.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">The Making of Close</a>, our behind-the-scenes Product &amp; Engineering blog. Check out our open source projects like <a href=\"https://github.com/closeio/socketshark\" rel=\"nofollow ugc noopener\" target=\"_blank\">SocketShark</a>, <a href=\"https://github.com/closeio/tasktiger\" rel=\"nofollow ugc noopener\" target=\"_blank\">TaskTiger</a>, <a href=\"https://github.com/closeio/limitlion\" rel=\"nofollow ugc noopener\" target=\"_blank\">LimitLion</a> and <a href=\"https://github.com/closeio/ciso8601\" rel=\"nofollow ugc noopener\" target=\"_blank\">ciso8601</a>.</p>\n<p>AI is both how we build and what we ship, and that's reshaped what engineering looks like. This is a transformation we’re embracing and find deeply exciting. </p>\n<h3>About the Role</h3>\n<p>The CRM team owns everything that Close’s customers touch all day, every day: leads, contacts, opportunities, tasks, activities, custom objects, and search. Each time a call is logged, an email is threaded, a meeting is summarized, it lands on the record this team owns, and every agent we ship starts there.</p>\n<p>Today, this team is making big moves towards the next iteration of Close's core data model, our largest engineering effort currently underway. We're reopening assumptions made a decade ago and asking what a modern CRM's data model should look like — one that makes Close flexible for our small, scaling business customers. This is a long series of migrations and rearchitecture projects. If you like greenfield and you like hairy, this is both: help design the next version of Close, and untangle the current one.</p>\n<p>One thing to know: we do move people between teams as the work shifts. Most engineers here end up on more than one team over their time at Close — this team is where you'd start, but over time you'll likely have the opportunity to work on many different projects.</p>\n\n<h3>You are</h3>\n<ul>\n<li>\n<p><strong>A seasoned engineer.</strong> Python is our backbone, but perhaps you've worked across Go, Rust, or TypeScript. You pick the right tool for the workload rather than retreating to what you know.</p>\n</li>\n<li>\n<p><strong>Architecturally minded.</strong> This is the thing we care about most. You've designed systems others built on, planned a migration that couldn't take the product down, and know how to sequence a rearchitecture into pieces that ship independently.</p>\n</li>\n<li>\n<p><strong>Drawn to data model and retrieval problems.</strong> Schemas, relationships, normalization, query design, type systems. The plumbing decides whether a CRM feels fast and we pride ourselves on being fast.</p>\n</li>\n<li>\n<p><strong>Experienced in search — this is a serious bonus.</strong> Elasticsearch especially, and anything adjacent: Lucene internals, query planning, relevance, indexing at scale, building or operating a search engine.</p>\n</li>\n<li>\n<p><strong>AI-native in production.</strong> You've shipped meaningful LLM-backed or agentic features to real users, and you have a POV on where AI earns its place in a CRM workflow and where a structured system wins.</p>\n</li>\n<li>\n<p><strong>Working with AI in your day-to-day.</strong> You use AI tools in your own workflow to ship faster, write tighter code, and reason about unfamiliar parts of the codebase. We fund best-in-class developer tools and treat experimentation as part of the work.</p>\n</li>\n<li>\n<p><strong>Battle-tested.</strong> You've debugged incidents where latency budgets didn't hold, owned a system everyone else relied on, or carried a pager for something with real customer impact.</p>\n</li>\n<li>\n<p><strong>A builder first.</strong> You'd rather get a sloppy v1 in front of fifty customers than spend three weeks on abstractions. You ship.</p>\n</li>\n</ul>\n<h3>You will</h3>\n<ul>\n<li>\n<p><strong>Rearchitect the core CRM data model.</strong> Rework how leads, contacts, opportunities, and custom objects relate to each other so each of our customers can represent their business the way it operates.</p>\n</li>\n<li>\n<p><strong>Make Close usable by agents.</strong> The Agents team builds the MCP foundation; we build the tools and endpoints on top of it that expose the CRM's data and actions. The hard part is search: any MCP-compatible harness should be able to traverse, filter, and reason over a customer's CRM without learning our private query language first.</p>\n</li>\n<li>\n<p><strong>Ship AI-native CRM features.</strong> This team built agentic enrichment: instead of paying a third-party data provider, an agent goes and researches whatever field you need, in bulk or automatically inside a workflow. There's a lot more of this ahead, including AI-powered data cleaning and richer AI search.</p>\n</li>\n<li>\n<p><strong>Keep the hot paths fast.</strong> Finding a lead, updating a deal, scanning a pipeline, running a bulk action. Salespeople do these hundreds of times a week and no amount of clever architecture matters if they're slow.</p>\n</li>\n</ul>\n<p><strong>Tech you'll touch:</strong> Python, Flask, FastAPI, MongoDB, Elasticsearch, PostgreSQL, Redis, TaskTiger, MCP — plus whichever LLM ships next.</p>\n<h3>Benefits</h3>\n<ul>\n<li>\n<p>Compensation: Competitive pay plus an organization-wide goal-based bonus</p>\n</li>\n<li>\n<p>Paid Time Off: ~5 weeks of PTO to start. Plus a 1-week all-company Winter Holiday Break and paid US holidays. You'll earn 2 extra days for every year you're with Close.</p>\n</li>\n<li>\n<p>80% Work Option: Work with your manager to choose between a standard 5-day week or a 4-day week at 80% pay</p>\n</li>\n<li>\n<p>Parental Leave: Paid leave for primary and secondary caregivers</p>\n</li>\n<li>\n<p>Sabbatical: A 1-month paid sabbatical every 5 years with the team</p>\n</li>\n<li>\n<p>Healthcare (US residents): Two medical plans with Close covering 99% of your premium, plus Dental, Vision, HSA, FSA, and company-paid Long-Term Disability</p>\n</li>\n<li>\n<p>401k (US residents): We match your contributions up to 6%, vested immediately</p>\n</li>\n</ul>\n<h3>Our Values</h3>\n<p>Build a house you want to live in - Examine long-term thinking and action</p>\n<p>No BS - Practice transparency and honesty, especially when it’s hard</p>\n<p>Invest in each other - Build successful relationships with your coworkers and customers</p>\n<p>Discipline equals freedom - Keep your word to yourself and others</p>\n<p>Strive for greatness - Constantly challenge yourself and others</p>\n\n<h3>Learn More</h3>\n<p>Listen to our CEO and Founder, Steli Efti, tell the story of Close’s journey in the <a href=\"https://www.close.com/blueprint\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>$0-30m Blueprint</u></a>. </p>\n<p>Watch <a href=\"https://www.youtube.com/watch?v=maXKi1GN2MI\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>our culture video</u></a> from our 2023 team retreat in Milan. Every year our entire team gathers in person to build connection, foster cross-functional collaboration, and have fun. In 2027, we're headed to Dusseldorf, Germany! </p>\n<p>Explore our product. Check out a <a href=\"https://www.close.com/demo-site\" rel=\"nofollow ugc noopener\" target=\"_blank\">demo</a>!</p>\n\n<h3>Our Hiring Process</h3>\n<p>We ask a few role-specific questions as part of our application process. These questions are designed to help us learn more about you from the start, so please answer each one thoughtfully. We see this as an opportunity to get to know you beyond your resume.</p>\n<p>We use AI tools daily at Close and expect candidates to do the same. In evaluating your application, we aim to get a sense for <em>you</em> - the way you think, how you communicate, the work you've done. Applications that read as fully AI-generated will not be considered.</p>\n<p>Regardless of fit, you can expect to hear back from our team with an update on the status of your candidacy.</p>\n<p>If you progress to the interview process, you'll receive a full outline of the role-specific steps in your first touchpoint with us. We do our best to make the hiring process clear and human.</p>",
-      "pubDate": "2026-10-03T14:58:33+00:00",
-      "salaryMin": 140000,
-      "salaryMax": 210000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
     }
   }
 ]
