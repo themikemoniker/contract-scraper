@@ -1,5 +1,46 @@
 [
   {
+    "id": "wwr:stripe-abuse-research-engineer",
+    "platform": "wwr",
+    "external_id": "stripe-abuse-research-engineer",
+    "title": "Abuse Research Engineer",
+    "company": "Stripe",
+    "description": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Research Group (ARG) handles proactive threat hunting and adversary behavior analysis across Stripe products. Rather than reacting to alerts, the team maps end-to-end fraud and abuse paths, validates novel attack vectors, and identifies product conditions that enable fraud. Using agentic automated testing and simulation tools, ARG translates research into actionable threat advisories, strategic control recommendations, and regression scenarios to systematically eliminate vulnerabilities. What you’ll do As an Abuse Research Engineer in the Abuse Research Group, you will play a critical role in safeguarding Stripe’s financial ecosystem by proactively hunting for advanced threats, dissecting complex fraud vectors, and extracting actionable adversary intelligence. &nbsp;Rather than relying solely on reactive alerts, you will develop and execute hypothesis-driven threat hunting operations across internal telemetry and external sources to uncover fraudulent tools, tactics, and techniques (TTPs) before they impact Stripe’s platform. Central to this work is FT3 (Fraud Taxonomy 3.0), Stripe’s multi-layered taxonomy that decomposes monolithic fraud into structured kill chains. &nbsp;Collaborating cross-functionally with Fraud Ops, Strategy, Risk, Onboarding, and Security, you will integrate threat intelligence, build agentic simulation workflows, and systematically eliminate product vulnerabilities. Responsibilities Proactive Threat Hunting &amp; Kill Chain Analysis: Formulate hypotheses and conduct iterative threat hunting operations across Stripe systems and external data. FT3 Taxonomy: Apply and enrich the FT3 framework across empirical datasets and incidents, standardizing threat intelligence across kill chain phases and targeted API endpoints. &nbsp; Threat Intelligence &amp; Signal Expansion: Partner with teams like Fraud Intelligence to integrate, curate, and automate threat feeds into engineering workflows. &nbsp; Cross-Functional Advisories &amp; Strategic Controls: Translate raw research and retrospective findings into actionable threat advisories and control recommendations (policy, technical systems, support workflows, and detection mechanisms) for stakeholders across Fraud, Risk, Onboarding, and Security. &nbsp; Agentic Testing &amp; Adversary Simulation: Utilize agentic automated testing frameworks to simulate adversary TTPs, validate whether deployed controls interrupt empirical kill chains, and generate regression scenarios to exercise controls. &nbsp; Who you are We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements 5+ years of experience conducting threat intelligence, threat hunting, or technical incident response within cyber security, product abuse, or trust domains.&nbsp;&nbsp; 5+ years of experience analyzing large, complex datasets using data analytics tools to identify anomalies, map behavioral trends, and solve complex fraud problems.&nbsp;&nbsp; B.S. or M.S. in Computer Science, Cybersecurity, or a related technical field, or equivalent practical experience.&nbsp;&nbsp; Expert proficiency in Python and SQL, with demonstrated experience using code and scripting to automate workflows, build investigative tools, or query big data pipelines.&nbsp;&nbsp; Hands-on experience in log analysis (e.g., application logs, API route telemetry, network security events), digital forensics, and cyber investigation methodologies.&nbsp;&nbsp; Strong communication skills with a proven ability to translate complex technical research into clear, actionable recommendations and advisories for cross-functional partners. Preferred qualifications Deep technical understanding of threat actor motivations, infrastructure, and TTPs specific to financial fraud (e.g., ATO, Card Testing, Credential Stuffing).&nbsp; Familiarity with standardized taxonomies such as FT3 or MITRE ATT&amp;CK.&nbsp;&nbsp; Proficiency with engineering, data processing, and analysis platforms such as Databricks, Trino, PySpark, Pandas, or Scikit-Learn.&nbsp;&nbsp; Proven background utilizing Threat Intelligence Platforms (TIPs), tactical threat feeds, OSINT, and breach intelligence.&nbsp; Demonstrated capability building or leveraging agentic LLM tools, automated testing systems, or control validation frameworks to model adversary behavior at scale.&nbsp;&nbsp; Participation in industry conferences, webinars, or threat-sharing groups, alongside relevant professional certifications (e.g., GCTI, GCFA, OSCP). To apply: https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "llm",
+      "scikit",
+      "pandas",
+      "databricks",
+      "stripe"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-10-04T07:31:08.000Z",
+    "fetched_at": "2026-10-19T11:19:03.896Z",
+    "raw": {
+      "title": "Stripe: Abuse Research Engineer",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote from the US\n</p>\n\n<h2>Who we are</h2>\n<h3>About Stripe</h3>\n<p><span>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p>\n<h3>About the team</h3>\n<p>Abuse Research Group (ARG) handles proactive threat hunting and adversary behavior analysis across Stripe products. Rather than reacting to alerts, the team maps end-to-end fraud and abuse paths, validates novel attack vectors, and identifies product conditions that enable fraud. Using agentic automated testing and simulation tools, ARG translates research into actionable threat advisories, strategic control recommendations, and regression scenarios to systematically eliminate vulnerabilities.</p>\n<h2>What you’ll do</h2>\n<p>As an Abuse Research Engineer in the Abuse Research Group, you will play a critical role in safeguarding Stripe’s financial ecosystem by proactively hunting for advanced threats, dissecting complex fraud vectors, and extracting actionable adversary intelligence. &nbsp;Rather than relying solely on reactive alerts, you will develop and execute hypothesis-driven threat hunting operations across internal telemetry and external sources to uncover fraudulent tools, tactics, and techniques (TTPs) before they impact Stripe’s platform. Central to this work is FT3 (Fraud Taxonomy 3.0), Stripe’s multi-layered taxonomy that decomposes monolithic fraud into structured kill chains. &nbsp;Collaborating cross-functionally with Fraud Ops, Strategy, Risk, Onboarding, and Security, you will integrate threat intelligence, build agentic simulation workflows, and systematically eliminate product vulnerabilities.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Proactive Threat Hunting &amp; Kill Chain Analysis: Formulate hypotheses and conduct iterative threat hunting operations across Stripe systems and external data.</li>\n<li>FT3 Taxonomy: Apply and enrich the FT3 framework across empirical datasets and incidents, standardizing threat intelligence across kill chain phases and targeted API endpoints. &nbsp;</li>\n<li>Threat Intelligence &amp; Signal Expansion: Partner with teams like Fraud Intelligence to integrate, curate, and automate threat feeds into engineering workflows. &nbsp;</li>\n<li>Cross-Functional Advisories &amp; Strategic Controls: Translate raw research and retrospective findings into actionable threat advisories and control recommendations (policy, technical systems, support workflows, and detection mechanisms) for stakeholders across Fraud, Risk, Onboarding, and Security. &nbsp;</li>\n<li>Agentic Testing &amp; Adversary Simulation: Utilize agentic automated testing frameworks to simulate adversary TTPs, validate whether deployed controls interrupt empirical kill chains, and generate regression scenarios to exercise controls. &nbsp;</li>\n</ul>\n<h2><strong>Who you are</strong></h2>\n<p><span>We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.</span></p>\n<h3>Minimum requirements</h3>\n<ul>\n<li>5+ years of experience conducting threat intelligence, threat hunting, or technical incident response within cyber security, product abuse, or trust domains.&nbsp;&nbsp;</li>\n<li>5+ years of experience analyzing large, complex datasets using data analytics tools to identify anomalies, map behavioral trends, and solve complex fraud problems.&nbsp;&nbsp;</li>\n<li>B.S. or M.S. in Computer Science, Cybersecurity, or a related technical field, or equivalent practical experience.&nbsp;&nbsp;</li>\n<li>Expert proficiency in Python and SQL, with demonstrated experience using code and scripting to automate workflows, build investigative tools, or query big data pipelines.&nbsp;&nbsp;</li>\n<li>Hands-on experience in log analysis (e.g., application logs, API route telemetry, network security events), digital forensics, and cyber investigation methodologies.&nbsp;&nbsp;</li>\n<li>Strong communication skills with a proven ability to translate complex technical research into clear, actionable recommendations and advisories for cross-functional partners.</li>\n</ul>\n<h3><strong>Preferred qualifications</strong></h3>\n<ul>\n<li>Deep technical understanding of threat actor motivations, infrastructure, and TTPs specific to financial fraud (e.g., ATO, Card Testing, Credential Stuffing).&nbsp;</li>\n<li>Familiarity with standardized taxonomies such as FT3 or MITRE ATT&amp;CK.&nbsp;&nbsp;</li>\n<li>Proficiency with engineering, data processing, and analysis platforms such as Databricks, Trino, PySpark, Pandas, or Scikit-Learn.&nbsp;&nbsp;</li>\n<li>Proven background utilizing Threat Intelligence Platforms (TIPs), tactical threat feeds, OSINT, and breach intelligence.&nbsp;</li>\n<li>Demonstrated capability building or leveraging agentic LLM tools, automated testing systems, or control validation frameworks to model adversary behavior at scale.&nbsp;&nbsp;</li>\n<li>Participation in industry conferences, webinars, or threat-sharing groups, alongside relevant professional certifications (e.g., GCTI, GCFA, OSCP).</li>\n</ul>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer\">https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer</a></p>",
+      "pubDate": "Sun, 04 Oct 2026 07:31:08 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer"
+    }
+  },
+  {
     "id": "wwr:yooli-full-time-software-engineer-position-react-and-rest-1",
     "platform": "wwr",
     "external_id": "yooli-full-time-software-engineer-position-react-and-rest-1",
@@ -34,7 +75,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-05T05:52:46.000Z",
-    "fetched_at": "2026-10-19T01:53:19.728Z",
+    "fetched_at": "2026-10-19T11:19:03.897Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0161/6774/logo.gif",
@@ -83,7 +124,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-10-02T17:39:45.000Z",
-    "fetched_at": "2026-10-19T01:53:19.729Z",
+    "fetched_at": "2026-10-19T11:19:03.898Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6508/logo.gif",
@@ -126,7 +167,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-01T07:30:56.000Z",
-    "fetched_at": "2026-10-19T01:53:19.730Z",
+    "fetched_at": "2026-10-19T11:19:03.899Z",
     "raw": {
       "title": "Doximity: Commercial Data Scientist",
       "region": "Anywhere in the World",
@@ -160,7 +201,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-01T07:30:56.000Z",
-    "fetched_at": "2026-10-19T01:53:19.731Z",
+    "fetched_at": "2026-10-19T11:19:03.900Z",
     "raw": {
       "title": "Hex Technologies: Legal Ops",
       "region": "Anywhere in the World",
@@ -196,7 +237,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-19T01:53:19.732Z",
+    "fetched_at": "2026-10-19T11:19:03.901Z",
     "raw": {
       "title": "Lithic: Senior Risk Associate",
       "region": "Anywhere in the World",
@@ -238,7 +279,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-19T01:53:19.734Z",
+    "fetched_at": "2026-10-19T11:19:03.903Z",
     "raw": {
       "title": "Salesloft: Principal Software Engineer, AI",
       "region": "Anywhere in the World",
@@ -276,7 +317,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-19T01:53:19.735Z",
+    "fetched_at": "2026-10-19T11:19:03.904Z",
     "raw": {
       "title": "Tailscale: Analytics Engineer, Data",
       "region": "Anywhere in the World",
@@ -314,7 +355,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-19T01:53:19.736Z",
+    "fetched_at": "2026-10-19T11:19:03.906Z",
     "raw": {
       "title": "Tailscale: Analytics Engineer, Data",
       "region": "Anywhere in the World",
@@ -353,7 +394,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-19T01:53:19.737Z",
+    "fetched_at": "2026-10-19T11:19:03.907Z",
     "raw": {
       "title": "Lithic: Senior Software Engineer, Card Authorization",
       "region": "Anywhere in the World",
@@ -387,7 +428,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-05-13T03:14:30.000Z",
-    "fetched_at": "2026-10-19T01:53:19.737Z",
+    "fetched_at": "2026-10-19T11:19:03.908Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif",
@@ -431,7 +472,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-09-29T19:13:52.000Z",
-    "fetched_at": "2026-10-19T01:53:19.738Z",
+    "fetched_at": "2026-10-19T11:19:03.908Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6490/logo.gif",
@@ -479,7 +520,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-09-29T19:13:52.000Z",
-    "fetched_at": "2026-10-19T01:53:19.738Z",
+    "fetched_at": "2026-10-19T11:19:03.908Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6491/logo.gif",
@@ -520,7 +561,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-19T01:53:19.739Z",
+    "fetched_at": "2026-10-19T11:19:03.909Z",
     "raw": {
       "title": "Discord: Engineering Manager, Machine Learning (Safety)",
       "region": "Anywhere in the World",
@@ -557,7 +598,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-19T01:53:19.740Z",
+    "fetched_at": "2026-10-19T11:19:03.911Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Director, Applied AI",
       "region": "Anywhere in the World",
@@ -591,7 +632,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-19T01:53:19.740Z",
+    "fetched_at": "2026-10-19T11:19:03.911Z",
     "raw": {
       "title": "Postscript: Client Strategist",
       "region": "Anywhere in the World",
@@ -625,7 +666,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-09-28T22:12:46.000Z",
-    "fetched_at": "2026-10-19T01:53:19.741Z",
+    "fetched_at": "2026-10-19T11:19:03.912Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6471/logo.gif",
@@ -666,7 +707,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-09-28T22:12:45.000Z",
-    "fetched_at": "2026-10-19T01:53:19.741Z",
+    "fetched_at": "2026-10-19T11:19:03.913Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6470/logo.gif",
@@ -716,7 +757,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-28T07:31:05.000Z",
-    "fetched_at": "2026-10-19T01:53:19.742Z",
+    "fetched_at": "2026-10-19T11:19:03.914Z",
     "raw": {
       "title": "Dremio: Software Engineer - Developer Experience",
       "region": "Anywhere in the World",
@@ -754,7 +795,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-28T07:31:05.000Z",
-    "fetched_at": "2026-10-19T01:53:19.743Z",
+    "fetched_at": "2026-10-19T11:19:03.915Z",
     "raw": {
       "title": "Dremio: Senior Staff Software Engineer - Query Execution",
       "region": "Anywhere in the World",
@@ -794,7 +835,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-28T14:51:27.000Z",
-    "fetched_at": "2026-10-19T01:53:19.745Z",
+    "fetched_at": "2026-10-19T11:19:03.917Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0074/7274/logo.gif",
@@ -832,7 +873,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-24T14:45:20.000Z",
-    "fetched_at": "2026-10-19T01:53:19.745Z",
+    "fetched_at": "2026-10-19T11:19:03.918Z",
     "raw": {
       "title": "Toptal: Salesforce Platform Lead for Global Industrial Company",
       "region": "North America Only",
@@ -871,7 +912,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-23T15:03:18.000Z",
-    "fetched_at": "2026-10-19T01:53:19.745Z",
+    "fetched_at": "2026-10-19T11:19:03.918Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6433/logo.gif",
@@ -914,7 +955,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-23T07:31:13.000Z",
-    "fetched_at": "2026-10-19T01:53:19.746Z",
+    "fetched_at": "2026-10-19T11:19:03.920Z",
     "raw": {
       "title": "Glean: Application Security Engineer",
       "region": "Anywhere in the World",
@@ -950,7 +991,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-21T10:14:35.000Z",
-    "fetched_at": "2026-10-19T01:53:19.747Z",
+    "fetched_at": "2026-10-19T11:19:03.921Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0076/3373/logo.gif",
@@ -966,49 +1007,46 @@
     }
   },
   {
-    "id": "wwr:hex-technologies-cloud-security-engineer",
+    "id": "wwr:flexport-senior-security-engineer-detection-response",
     "platform": "wwr",
-    "external_id": "hex-technologies-cloud-security-engineer",
-    "title": "Cloud Security Engineer",
-    "company": "Hex Technologies",
-    "description": "Headquarters: SF, NYC, or Remote (US) About the role We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in cloud security practices, and collaborating closely with our infrastructure and engineering teams to secure our cloud-native applications. About the role: Design, implement, and manage security solutions and controls for AWS environments and Kubernetes clusters, including appropriate isolation/sandboxing methods for Hex’s RCE-as-a-Service platform Build, deploy, and maintain infrastructure-as-code using Terraform, ensuring robust security standards are enforced. Conduct security assessments, threat modeling, and audits on AWS cloud infrastructure and Kubernetes deployments. Collaborate with development and operations teams to embed security best practices into CI/CD pipelines. Monitor and respond to cloud security incidents, identifying root causes and recommending remediation actions. Provide expertise in compliance requirements related to cloud security (e.g., SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS). Mentor engineers and advocate for cloud security across the organization. About you:&nbsp; 5+ years of experience in cloud security engineering, with extensive expertise in AWS. Demonstrated proficiency with Kubernetes security including cluster hardening, role-based access control (RBAC), network policies, and container vulnerability management. Expert-level knowledge and hands-on experience with Terraform. Familiarity with AWS security services (e.g., IAM, GuardDuty, Security Hub, CloudTrail, WAF). Familiarity with CNAPP solutions such as Wiz Familiarity with SIEM solutions such as Panther Solid understanding of secure software development lifecycle practices, CI/CD security, and DevSecOps methodologies. Relevant certifications such as AWS Certified Security – Specialty, Certified Kubernetes Security Specialist (CKS), and Terraform Associate certification are highly desirable. Bonus points for security certifications from SANS or OffSec. Excellent problem-solving, communication, and leadership skills. Our Engineering team We’re a group of engineers who are forging new ground together and love partnering with Security on our journey to pull ahead of our competition. You can read about how we think through problems as well as how we learn from mistakes on our blog here: How we took down production… Beyond Linear Notebooks A pragmatic approach to live collaboration Our stack Our product is a web-based notebook and app authoring platform. Our frontend is built with Typescript and React, using a combination of Apollo GraphQL and Redux for managing application state and data. On the backend, we also use Typescript to power an Express/Apollo GraphQL server that interacts with Postgres, Redis, and Kubernetes to manage our database and Python kernels. Our backend is tightly integrated with our infrastructure and CI/CD, where we use a combination of Terraform, Helm, and AWS to deploy and maintain our stack. In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary &amp; equity, comprehensive health benefits, and flexible paid time off. The salary range for this role is: $198,750 - $295,000 The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness &amp; parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process. By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy:&nbsp; https://learn.hex.tech/docs/trust/privacy-policy . Hex Technologies uses AI-assisted tools as part of our application review process, including for resume screening and fraud detection. These tools help our team evaluate applications and verify applicant information. All AI-generated recommendations are reviewed by a member of our recruiting team before any hiring decision is made. No application is automatically rejected based solely on an AI tool's output. To apply: https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
-    "url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+    "external_id": "flexport-senior-security-engineer-detection-response",
+    "title": "Senior Security Engineer, Detection & Response",
+    "company": "Flexport",
+    "description": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp; The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us. What you'll do There is no MSSP and no tier-1 queue here. Detection &amp; Response engineers own their detections end to end: you write them, you tune them, and your team is paged when they fire. The security team is spread across the globe with a follow-the-sun pager rotation so nobody is paged at 3am local. The adversaries are real. The business is growing fast and the threat surface is growing with it. Defining the necessary telemetry is part of the job. Detection engineering Build and tune detections across endpoint, identity, SaaS, and cloud , treating them as software: version-controlled, peer-reviewed, and shipped through the same CI/CD practices the rest of engineering uses. Track detection quality as measured quantities : coverage against MITRE ATT&amp;CK, precision, time-to-detect. We don’t build-and-forget here. Response &amp; automation Own incident response: triage, contain, remediate, and write the retrospective that turns the incident into a systemic fix. Build automation that removes toil from investigations, and partner closely with the US-based team so context carries across time zones instead of getting lost at handoff. Telemetry &amp; partnership Define telemetry requirements for new systems before they ship , working with infrastructure and product teams to close visibility gaps rather than discovering them during an incident. Threat hunt proactively across the estate , converting hypotheses into either new detections or documented coverage. You Should Have Typically 5–8 years of experience in detection engineering, incident response, or threat hunting, with real hands-on time writing and tuning detections. We care more about what you've built than the exact number. Proficiency in at least one programming language (Python, Go, or similar) and comfort writing production-grade detection and automation code. Experience with a modern SIEM or detection pipeline (Panther, Elastic, Splunk, or similar). What matters is that you've shipped and tuned detection logic in production. Practical incident response experience : you've led or played a major role in triaging and closing out real security incidents. Nice to have Experience treating detections as code with CI/CD, peer review, and staged rollout. Experience defining telemetry contracts for systems before they ship, rather than retrofitting logging after an incident. A track record of critically evaluating and verifying AI-assisted work - testing, source-checking, validation - rather than trusting agent output by default. If you haven’t already spotted the em dashes in this job description and already thought about where the hiring manager (hi!) has put hands on keyboard and compared that to where they let the LLM watermarks through, you might not be the right person for the job. Familiarity with cloud-native and Kubernetes telemetry. Experience with fraud or financial-crime detection patterns. How we work We stay closely aligned with teammates on other continents via Slack, video, and async docs. We have the latest hardware and software, including frontier AI models on day one. We're agile, but not dogmatic. Teams decide how they work best. Why this role is special You own your detections end to end, no MSSP, no tier-1 queue, no handing your work to someone else to triage. The consequences here are physical, not abstract: a containment decision can stop a customs filing or freight actually moving, which makes the stakes concrete in a way a SaaS control plane rarely is. You'll inherit a real, established estate with legacy telemetry gaps to close, genuinely underexplored surface area, not a well-mined problem. #LI-Remote #LI-VA1 The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Our salary ranges are determined by role, level, and location. Within the range displayed, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education and / or training. Base salary is just one part of our total rewards package at Flexport, which also includes bonus, equity, and comprehensive benefit offerings such as medical, dental, and flexible time off.&nbsp; California Pay Range $138,196 — $252,000 USD Washington Pay Range $183,272 — $229,091 USD Colorado Pay Range $138,196 — $172,746 USD New York City Pay Range $183,272 — $229,091 USD Illinois Pay Range $138,196 — $172,746 USD Commitment to Equal Opportunity At Flexport, our ability to fulfill our mission of making global commerce easy and accessible relies on having a diverse, dedicated and engaged workforce. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, physical and mental disability, health status, marital and family status, sexual orientation, gender identity and expression, military and veteran status, and any other characteristic protected by applicable law. Global Data Privacy Notice for Job Candidates and Applicants Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants.&nbsp;By submitting your application, you are agreeing to our use and processing of your data as required. Please see our Privacy Notice available at&nbsp; www.flexport.com/privacy &nbsp;for additional information. To apply: https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
+    "url": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "salary_type": null,
     "contract_type": "full-time",
-    "experience_level": "senior",
+    "experience_level": "lead",
     "location": "Remote",
     "remote_type": "remote",
     "timezone": null,
     "tech_stack": [
-      "typescript",
       "python",
-      "react",
-      "express",
-      "postgresql",
-      "redis",
-      "aws",
       "kubernetes",
-      "terraform",
-      "helm",
-      "graphql"
+      "llm"
     ],
     "tags": [
-      "programming",
-      "Full-Stack Programming"
+      "devops",
+      "DevOps and Sysadmin"
     ],
-    "posted_at": "2026-09-19T07:31:10.000Z",
-    "fetched_at": "2026-10-19T01:53:19.748Z",
+    "posted_at": "2026-10-19T07:31:25.000Z",
+    "fetched_at": "2026-10-19T11:19:04.399Z",
     "raw": {
-      "title": "Hex Technologies: Cloud Security Engineer",
+      "title": "Flexport: Senior Security Engineer, Detection & Response",
       "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> SF, NYC, or Remote (US)\n</p>\n\n<h3>About the role</h3>\n<p>We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in cloud security practices, and collaborating closely with our infrastructure and engineering teams to secure our cloud-native applications.</p>\n<hr>\n<h3>About the role:</h3>\n<ul>\n<li>Design, implement, and manage security solutions and controls for AWS environments and Kubernetes clusters, including appropriate isolation/sandboxing methods for Hex’s RCE-as-a-Service platform</li>\n<li>Build, deploy, and maintain infrastructure-as-code using Terraform, ensuring robust security standards are enforced.</li>\n<li>Conduct security assessments, threat modeling, and audits on AWS cloud infrastructure and Kubernetes deployments.</li>\n<li>Collaborate with development and operations teams to embed security best practices into CI/CD pipelines.</li>\n<li>Monitor and respond to cloud security incidents, identifying root causes and recommending remediation actions.</li>\n<li>Provide expertise in compliance requirements related to cloud security (e.g., SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS).</li>\n<li>Mentor engineers and advocate for cloud security across the organization.</li>\n</ul>\n<h3>About you:&nbsp;</h3>\n<ul>\n<li>5+ years of experience in cloud security engineering, with extensive expertise in AWS.</li>\n<li>Demonstrated proficiency with Kubernetes security including cluster hardening, role-based access control (RBAC), network policies, and container vulnerability management.</li>\n<li>Expert-level knowledge and hands-on experience with Terraform.</li>\n<li>Familiarity with AWS security services (e.g., IAM, GuardDuty, Security Hub, CloudTrail, WAF).</li>\n<li>Familiarity with CNAPP solutions such as Wiz</li>\n<li>Familiarity with SIEM solutions such as Panther</li>\n<li>Solid understanding of secure software development lifecycle practices, CI/CD security, and DevSecOps methodologies.</li>\n<li>Relevant certifications such as AWS Certified Security – Specialty, Certified Kubernetes Security Specialist (CKS), and Terraform Associate certification are highly desirable.</li>\n<li>Bonus points for security certifications from SANS or OffSec.</li>\n<li>Excellent problem-solving, communication, and leadership skills.</li>\n</ul>\n<hr>\n<h3>Our Engineering team</h3>\n<p>We’re a group of engineers who are forging new ground together and love partnering with Security on our journey to pull ahead of our competition. You can read about how we think through problems as well as how we learn from mistakes on our blog here:</p>\n<ul>\n<li><a href=\"https://hex.tech/blog/we-took-down-production/\">How we took down production…</a></li>\n<li><a href=\"https://hex.tech/blog/beyond-linear-notebooks/\">Beyond Linear Notebooks</a></li>\n<li><a href=\"https://hex.tech/blog/a-pragmatic-approach-to-live-collaboration/\">A pragmatic approach to live collaboration</a></li>\n</ul>\n<hr>\n<h3 class=\"Heading__HeadingInternal-sc-sir940-0 Heading___StyledHeadingInternal-sc-sir940-1 eQrUa-d\">Our stack</h3>\n<p>Our product is a web-based notebook and app authoring platform. Our frontend is built with Typescript and React, using a combination of Apollo GraphQL and Redux for managing application state and data. On the backend, we also use Typescript to power an Express/Apollo GraphQL server that interacts with Postgres, Redis, and Kubernetes to manage our database and Python kernels. Our backend is tightly integrated with our infrastructure and CI/CD, where we use a combination of Terraform, Helm, and AWS to deploy and maintain our stack.</p>\n<hr>\n<p>In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary &amp; equity, comprehensive health benefits, and flexible paid time off.</p>\n<p>The salary range for this role is: $198,750 - $295,000</p>\n<p>The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness &amp; parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process.</p>\n<p>By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy:&nbsp;<a class=\"notion-link-token notion-focusable-token notion-enable-hover\" href=\"https://learn.hex.tech/docs/trust/privacy-policy\"><span class=\"link-annotation-unknown-block-id-754370997\">https://learn.hex.tech/docs/trust/privacy-policy</span></a>.</p><div class=\"content-conclusion\"><p>Hex Technologies uses AI-assisted tools as part of our application review process, including for resume screening and fraud detection. These tools help our <strong>team </strong>evaluate applications and verify applicant information. All AI-generated recommendations are reviewed by a member of our recruiting team before any hiring decision is made. No application is automatically rejected based solely on an AI tool's output.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer\">https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer</a></p>",
-      "pubDate": "Sat, 19 Sep 2026 07:31:10 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
-      "link": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer"
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> U.S. Remote\n</p>\n\n<div class=\"content-intro\"><h2><strong>About Flexport:&nbsp;</strong></h2>\n<p>At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp;</p>\n<p>The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us.</p></div><h2>What you'll do</h2>\n<p>There is no MSSP and no tier-1 queue here. Detection &amp; Response engineers own their detections end to end: you write them, you tune them, and your team is paged when they fire. The security team is spread across the globe with a follow-the-sun pager rotation so nobody is paged at 3am local.</p>\n<p>The adversaries are real. The business is growing fast and the threat surface is growing with it. Defining the necessary telemetry is part of the job.</p>\n<p>Detection engineering</p>\n<ul>\n<li><strong>Build and tune detections across endpoint, identity, SaaS, and cloud</strong>, treating them as software: version-controlled, peer-reviewed, and shipped through the same CI/CD practices the rest of engineering uses.</li>\n<li><strong>Track detection quality as measured quantities</strong>: coverage against MITRE ATT&amp;CK, precision, time-to-detect. We don’t build-and-forget here.</li>\n</ul>\n<p>Response &amp; automation</p>\n<ul>\n<li><strong>Own incident response: </strong>triage, contain, remediate, and write the retrospective that turns the incident into a systemic fix.</li>\n<li><strong>Build automation that removes toil</strong> from investigations, and partner closely with the US-based team so context carries across time zones instead of getting lost at handoff.</li>\n</ul>\n<p>Telemetry &amp; partnership</p>\n<ul>\n<li>Define <strong>telemetry requirements for new systems before they ship</strong>, working with infrastructure and product teams to close visibility gaps rather than discovering them during an incident.</li>\n<li><strong>Threat hunt proactively across the estate</strong>, converting hypotheses into either new detections or documented coverage.</li>\n</ul>\n<h2>You Should Have</h2>\n<ul>\n<li>Typically<strong> 5–8 years of experience</strong> in detection engineering, incident response, or threat hunting, with real hands-on time writing and tuning detections. We care more about what you've built than the exact number.</li>\n<li>Proficiency in<strong> at least one programming language</strong> (Python, Go, or similar) and comfort writing production-grade detection and automation code.</li>\n<li><strong>Experience with a modern SIEM</strong> or detection pipeline (Panther, Elastic, Splunk, or similar). What matters is that you've shipped and tuned detection logic in production.</li>\n<li><strong>Practical incident response experience</strong>: you've led or played a major role in triaging and closing out real security incidents.</li>\n</ul>\n<h2>Nice to have</h2>\n<ul>\n<li>Experience treating detections as code with CI/CD, peer review, and staged rollout.</li>\n<li>Experience defining telemetry contracts for systems before they ship, rather than retrofitting logging after an incident.</li>\n<li>A track record of critically evaluating and verifying AI-assisted work - testing, source-checking, validation - rather than trusting agent output by default. If you haven’t already spotted the em dashes in this job description and already thought about where the hiring manager (hi!) has put hands on keyboard and compared that to where they let the LLM watermarks through, you might not be the right person for the job.</li>\n<li>Familiarity with cloud-native and Kubernetes telemetry.</li>\n<li>Experience with fraud or financial-crime detection patterns.</li>\n</ul>\n<h2>How we work</h2>\n<ul>\n<li>We stay closely aligned with teammates on other continents via Slack, video, and async docs.</li>\n<li>We have the latest hardware and software, including frontier AI models on day one.</li>\n<li>We're agile, but not dogmatic. Teams decide how they work best.</li>\n</ul>\n<h2>Why this role is special</h2>\n<ul>\n<li>You own your detections end to end, no MSSP, no tier-1 queue, no handing your work to someone else to triage.</li>\n<li>The consequences here are physical, not abstract: a containment decision can stop a customs filing or freight actually moving, which makes the stakes concrete in a way a SaaS control plane rarely is.</li>\n<li>You'll inherit a real, established estate with legacy telemetry gaps to close, genuinely underexplored surface area, not a well-mined problem.</li>\n</ul>\n<p>#LI-Remote</p>\n<p><span>#LI-VA1</span></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div class=\"c-message_kit__gutter\">\n<div class=\"c-message_kit__gutter__right\">\n<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\">\n<div class=\"p-block_kit_renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\">\n<div class=\"p-rich_text_section\">\n<div><span><em>The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Our salary ranges are determined by role, level, and location. Within the range displayed, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education and / or training. Base salary is just one part of our total rewards package at Flexport, which also includes bonus, equity, and comprehensive benefit offerings such as medical, dental, and flexible time off.&nbsp;</em></span></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div><div class=\"title\">California Pay Range</div><div class=\"pay-range\"><span>$138,196</span><span class=\"divider\">—</span><span>$252,000 USD</span></div></div><div class=\"pay-input\"><div class=\"title\">Washington Pay Range</div><div class=\"pay-range\"><span>$183,272</span><span class=\"divider\">—</span><span>$229,091 USD</span></div></div><div class=\"pay-input\"><div class=\"title\">Colorado Pay Range</div><div class=\"pay-range\"><span>$138,196</span><span class=\"divider\">—</span><span>$172,746 USD</span></div></div><div class=\"pay-input\"><div class=\"title\">New York City Pay Range</div><div class=\"pay-range\"><span>$183,272</span><span class=\"divider\">—</span><span>$229,091 USD</span></div></div><div class=\"pay-input\"><div class=\"title\">Illinois Pay Range</div><div class=\"pay-range\"><span>$138,196</span><span class=\"divider\">—</span><span>$172,746 USD</span></div></div></div><div class=\"content-conclusion\"><div class=\"c-virtual_list__item\">\n<div class=\"c-message_kit__background p-message_pane_message__message c-message_kit__message\">\n<div class=\"c-message_kit__hover\">\n<div class=\"c-message_kit__actions c-message_kit__actions--default\">\n<div class=\"c-message_kit__gutter\">\n<div class=\"c-message_kit__gutter__right\">\n<div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\">\n<div class=\"p-block_kit_renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\">\n<h4>Commitment to Equal Opportunity</h4>\n<p>At Flexport, our ability to fulfill our mission of making global commerce easy and accessible relies on having a diverse, dedicated and engaged workforce. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, physical and mental disability, health status, marital and family status, sexual orientation, gender identity and expression, military and veteran status, and any other characteristic protected by applicable law.</p>\n<h4>Global Data Privacy Notice for Job Candidates and Applicants</h4>\n<p>Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants.&nbsp;By submitting your application, you are agreeing to our use and processing of your data as required. Please see our Privacy Notice available at&nbsp;<a href=\"http://www.flexport.com/privacy\">www.flexport.com/privacy</a>&nbsp;for additional information.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response\">https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response</a></p>",
+      "pubDate": "Mon, 19 Oct 2026 07:31:25 +0000",
+      "expires_at": "Wed, 18 Nov 2026 07:31:25 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
+      "link": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response"
     }
   },
   {
@@ -1045,7 +1083,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-18T07:30:58.000Z",
-    "fetched_at": "2026-10-19T01:53:20.042Z",
+    "fetched_at": "2026-10-19T11:19:04.400Z",
     "raw": {
       "title": "PlanetScale: Enterprise Support Engineer",
       "region": "Anywhere in the World",
@@ -1084,7 +1122,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-17T07:31:02.000Z",
-    "fetched_at": "2026-10-19T01:53:20.042Z",
+    "fetched_at": "2026-10-19T11:19:04.401Z",
     "raw": {
       "title": "BeyondTrust: Enterprise Account Manager - Riyadh (Saudi National)",
       "region": "Anywhere in the World",
@@ -1131,7 +1169,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-17T07:30:54.000Z",
-    "fetched_at": "2026-10-19T01:53:20.043Z",
+    "fetched_at": "2026-10-19T11:19:04.402Z",
     "raw": {
       "title": "Expel: Senior Detection & Response Engineer",
       "region": "Anywhere in the World",
@@ -1180,7 +1218,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-17T07:30:50.000Z",
-    "fetched_at": "2026-10-19T01:53:20.044Z",
+    "fetched_at": "2026-10-19T11:19:04.404Z",
     "raw": {
       "title": "Collibra: Manager, Professional Services",
       "region": "Anywhere in the World",
@@ -1219,7 +1257,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-16T07:31:07.000Z",
-    "fetched_at": "2026-10-19T01:53:20.045Z",
+    "fetched_at": "2026-10-19T11:19:04.405Z",
     "raw": {
       "title": "BeyondTrust: eLearning Developer",
       "region": "Anywhere in the World",
@@ -1265,7 +1303,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-16T07:31:00.000Z",
-    "fetched_at": "2026-10-19T01:53:20.046Z",
+    "fetched_at": "2026-10-19T11:19:04.406Z",
     "raw": {
       "title": "BeyondTrust: Cloud Network Engineer",
       "region": "Anywhere in the World",
@@ -1304,7 +1342,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-15T07:31:14.000Z",
-    "fetched_at": "2026-10-19T01:53:20.047Z",
+    "fetched_at": "2026-10-19T11:19:04.407Z",
     "raw": {
       "title": "Abnormal: Customer Solutions Engineer, EMEA",
       "region": "Anywhere in the World",
@@ -1343,7 +1381,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-13T07:30:39.000Z",
-    "fetched_at": "2026-10-19T01:53:20.048Z",
+    "fetched_at": "2026-10-19T11:19:04.408Z",
     "raw": {
       "title": "Huntress: Sales Development Representative - Service Provider",
       "region": "Anywhere in the World",
@@ -1382,7 +1420,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:14.000Z",
-    "fetched_at": "2026-10-19T01:53:20.049Z",
+    "fetched_at": "2026-10-19T11:19:04.410Z",
     "raw": {
       "title": "Keeper Security: Associate Talent Acquisition Partner, Tech",
       "region": "Anywhere in the World",
@@ -1421,7 +1459,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:11.000Z",
-    "fetched_at": "2026-10-19T01:53:20.050Z",
+    "fetched_at": "2026-10-19T11:19:04.411Z",
     "raw": {
       "title": "Keeper Security: Analyst Relations Manager",
       "region": "Anywhere in the World",
@@ -1470,7 +1508,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:11.000Z",
-    "fetched_at": "2026-10-19T01:53:20.051Z",
+    "fetched_at": "2026-10-19T11:19:04.412Z",
     "raw": {
       "title": "Current: Senior Engineer (.NET)",
       "region": "Anywhere in the World",
@@ -1512,7 +1550,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:05.000Z",
-    "fetched_at": "2026-10-19T01:53:20.052Z",
+    "fetched_at": "2026-10-19T11:19:04.413Z",
     "raw": {
       "title": "Datadog: Enterprise Security Sales Specialist",
       "region": "Anywhere in the World",
@@ -1554,7 +1592,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-10T07:30:48.000Z",
-    "fetched_at": "2026-10-19T01:53:20.053Z",
+    "fetched_at": "2026-10-19T11:19:04.415Z",
     "raw": {
       "title": "BeyondTrust: Cyber Defense Engineer",
       "region": "Anywhere in the World",
@@ -1599,7 +1637,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-08T07:54:30.000Z",
-    "fetched_at": "2026-10-19T01:53:20.053Z",
+    "fetched_at": "2026-10-19T11:19:04.415Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6543/logo.gif",
@@ -1642,7 +1680,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-08T07:31:21.000Z",
-    "fetched_at": "2026-10-19T01:53:20.054Z",
+    "fetched_at": "2026-10-19T11:19:04.416Z",
     "raw": {
       "title": "Abnormal: Director, Renewals",
       "region": "Anywhere in the World",
@@ -1693,7 +1731,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-07T07:30:53.000Z",
-    "fetched_at": "2026-10-19T01:53:20.055Z",
+    "fetched_at": "2026-10-19T11:19:04.417Z",
     "raw": {
       "title": "BeyondTrust: Cloud Engineer",
       "region": "Anywhere in the World",
@@ -1735,7 +1773,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-06T07:31:09.000Z",
-    "fetched_at": "2026-10-19T01:53:20.056Z",
+    "fetched_at": "2026-10-19T11:19:04.419Z",
     "raw": {
       "title": "PagerDuty: Principal Solutions Consultant",
       "region": "Anywhere in the World",
@@ -1780,7 +1818,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-06T07:31:09.000Z",
-    "fetched_at": "2026-10-19T01:53:20.057Z",
+    "fetched_at": "2026-10-19T11:19:04.421Z",
     "raw": {
       "title": "LaunchDarkly: Engineering Manager, Cloud Engineering",
       "region": "Anywhere in the World",
@@ -1826,7 +1864,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-19T01:53:20.058Z",
+    "fetched_at": "2026-10-19T11:19:04.421Z",
     "raw": {
       "title": "Vercel: Senior Manager, Solutions Architect",
       "region": "Anywhere in the World",
@@ -1872,7 +1910,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-19T01:53:20.058Z",
+    "fetched_at": "2026-10-19T11:19:04.422Z",
     "raw": {
       "title": "Vercel: Security Engineer, Cloud",
       "region": "Anywhere in the World",
@@ -1925,7 +1963,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-19T01:53:20.060Z",
+    "fetched_at": "2026-10-19T11:19:04.424Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Principal Infrastructure Architect: Data Platform",
       "region": "Anywhere in the World",
@@ -1974,7 +2012,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-28T07:31:05.000Z",
-    "fetched_at": "2026-10-19T01:53:20.060Z",
+    "fetched_at": "2026-10-19T11:19:04.425Z",
     "raw": {
       "title": "Collibra: CPS Solution Architect",
       "region": "Anywhere in the World",
@@ -2021,7 +2059,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-25T00:33:21.000Z",
-    "fetched_at": "2026-10-19T01:53:20.061Z",
+    "fetched_at": "2026-10-19T11:19:04.426Z",
     "raw": {
       "title": "thehivecareers.co: DevOps Engineer (Remote)",
       "region": "Anywhere in the World",
@@ -2067,7 +2105,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-20T07:31:09.000Z",
-    "fetched_at": "2026-10-19T01:53:20.062Z",
+    "fetched_at": "2026-10-19T11:19:04.427Z",
     "raw": {
       "title": "Datadog: Developer Advocate - Service Management EMEA",
       "region": "Anywhere in the World",
@@ -2081,51 +2119,6 @@
       "expires_at": "Tue, 20 Oct 2026 07:31:09 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
       "link": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea"
-    }
-  },
-  {
-    "id": "wwr:circleci-software-engineer",
-    "platform": "wwr",
-    "external_id": "circleci-software-engineer",
-    "title": "Software Engineer",
-    "company": "CircleCI",
-    "description": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here. Team-Agnostic Placement We don't hire for a team. We hire for CircleCI. Where you land depends on where your strengths create the most leverage, and we figure that out together. You might own the CI pipeline experience, deploy and release tooling, notification infrastructure, monetization flows, AI agent surfaces, or the foundational web platform. The through line across all of it is the same: full-stack ownership, a high bar for craft, and work that directly shapes how tens of thousands of developers experience CircleCI every day. What You'll Do Build AI-natively. AI is how we work. It’s not a productivity layer on top of engineering, but the default starting point for how problems get approached and solved. Invent new interfaces . Software delivery is being reinvented. Pipelines run autonomously, generate fixes, and surface results that need human judgment. The tools developers use to understand, trust, and act on that work don't exist yet. You'll define what they look like. Own the full stack. Build features end-to-end in Go, React, and TypeScript. You don't hand off at a layer boundary. You own the outcome. Obsess over craft. Reliability and responsiveness are design concerns, not afterthoughts. Care about how the interface holds up when stakes are high. Champion observability. Use Honeycomb, Datadog, and Rollbar to understand and improve your systems. Operational data drives stability, not just incident response. Pick up slack. You'll notice gaps and close them — not because you were asked, but because that's the standard we hold ourselves to. What You'll Bring AI-native engineering practices. You use AI tools daily and can speak to what you've built, where they changed your approach, and where they fall short.&nbsp; A track record of shipping. You've built something real and put it in front of users. 3+ years of production full-stack experience. Full-stack depth. Strong React and TypeScript. Comfortable owning backend services in Go: API design, data modeling, service integration. System design. You think about architecture, not just features. You make conscious tradeoffs and document your reasoning. Production mindset. Latency, responsiveness, and reliability are design concerns. You're comfortable operating services in a distributed environment. Sound like you? You've stopped waiting for AI to mature and are already building with it, not as a productivity trick, but as a core part of how you think about problems. You care about the product as much as the code. You're drawn to work where the patterns don't exist yet and the best answer requires you to invent it. If that's how you already operate, we want to talk. Canada Base Pay Range $127,000 — $159,000 CAD We will ensure that individuals with disabilities are provided reasonable&nbsp;accommodation to participate in the job application or interview process, to perform&nbsp;essential job functions, and to receive other benefits and privileges of employment.&nbsp;Please contact us to request accommodation. About CircleCI CircleCI is the world’s largest continuous integration/continuous delivery (CI/CD)&nbsp;platform, and the hub where code moves from idea to delivery. As one of the most-used&nbsp;DevOps tools - processing more than 3 million jobs a day - CircleCI has unique access to&nbsp;data on how the most effective engineering teams work, and the tools to help software&nbsp;companies successfully leverage the power of AI into their commercial applications.&nbsp;Companies like Hinge, HuggingFace, and Samsung use us to improve engineering team&nbsp;productivity, release better products, and get to market faster. Founded in 2011 and headquartered in downtown San Francisco with a global, remote&nbsp;workforce, CircleCI is venture-backed by Base10, Greenspring Associates, Eleven Prime,&nbsp;IVP, Sapphire Ventures, Top Tier Capital Partners, Baseline Ventures, Threshold Ventures, Scale Venture Partners, Owl Rock Capital, Next Equity Partners, Heavybit, and&nbsp;Harrison Metal Capital.&nbsp; CircleCI is an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sexual orientation, gender,&nbsp;gender identity, gender expression, transgender status, sexual stereotypes, age, status&nbsp;as a protected veteran, status as an individual with a disability, or other applicable&nbsp;legally protected characteristics. We also consider qualified applicants with criminal&nbsp;histories, consistent with applicable federal, state and local law. To apply: https://weworkremotely.com/remote-jobs/circleci-software-engineer",
-    "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": null,
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "react",
-      "circleci",
-      "datadog",
-      "huggingface"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-09-19T07:31:10.000Z",
-    "fetched_at": "2026-10-19T01:53:20.062Z",
-    "raw": {
-      "title": "CircleCI: Software Engineer",
-      "region": "Anywhere in the World",
-      "country": "",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> Ontario, Canada (Remote)\n</p>\n\n<h2><strong>About CircleCI Engineering</strong></h2>\n<p>CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them.</p>\n<p>At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here.</p>\n<h2><strong>Team-Agnostic Placement</strong></h2>\n<p>We don't hire for a team. We hire for CircleCI. Where you land depends on where your strengths create the most leverage, and we figure that out together. You might own the CI pipeline experience, deploy and release tooling, notification infrastructure, monetization flows, AI agent surfaces, or the foundational web platform. The through line across all of it is the same: full-stack ownership, a high bar for craft, and work that directly shapes how tens of thousands of developers experience CircleCI every day.</p>\n<h2><strong>What You'll Do</strong></h2>\n<ul>\n<li><strong>Build AI-natively.</strong> AI is how we work. It’s not a productivity layer on top of engineering, but the default starting point for how problems get approached and solved.</li>\n<li><strong>Invent new interfaces</strong>. Software delivery is being reinvented. Pipelines run autonomously, generate fixes, and surface results that need human judgment. The tools developers use to understand, trust, and act on that work don't exist yet. You'll define what they look like.</li>\n<li><strong>Own the full stack.</strong> Build features end-to-end in Go, React, and TypeScript. You don't hand off at a layer boundary. You own the outcome.</li>\n<li><strong>Obsess over craft.</strong> Reliability and responsiveness are design concerns, not afterthoughts. Care about how the interface holds up when stakes are high.</li>\n<li><strong>Champion observability.</strong> Use Honeycomb, Datadog, and Rollbar to understand and improve your systems. Operational data drives stability, not just incident response.</li>\n<li><strong>Pick up slack.</strong> You'll notice gaps and close them — not because you were asked, but because that's the standard we hold ourselves to.</li>\n</ul>\n<h2><strong>What You'll Bring</strong></h2>\n<ul>\n<li><strong>AI-native engineering practices.</strong> You use AI tools daily and can speak to what you've built, where they changed your approach, and where they fall short.&nbsp;</li>\n<li><strong>A track record of shipping.</strong> You've built something real and put it in front of users. 3+ years of production full-stack experience.</li>\n<li><strong>Full-stack depth.</strong> Strong React and TypeScript. Comfortable owning backend services in Go: API design, data modeling, service integration.</li>\n<li><strong>System design.</strong> You think about architecture, not just features. You make conscious tradeoffs and document your reasoning.</li>\n<li><strong>Production mindset.</strong> Latency, responsiveness, and reliability are design concerns. You're comfortable operating services in a distributed environment.</li>\n</ul>\n<h2><strong>Sound like you?</strong></h2>\n<p>You've stopped waiting for AI to mature and are already building with it, not as a productivity trick, but as a core part of how you think about problems. You care about the product as much as the code. You're drawn to work where the patterns don't exist yet and the best answer requires you to invent it. If that's how you already operate, we want to talk.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"title\">Canada Base Pay Range</div><div class=\"pay-range\"><span>$127,000</span><span class=\"divider\">—</span><span>$159,000 CAD</span></div></div></div><div class=\"content-conclusion\"><p></p>\n<p>We will ensure that individuals with disabilities are provided reasonable&nbsp;accommodation to participate in the job application or interview process, to perform&nbsp;essential job functions, and to receive other benefits and privileges of employment.&nbsp;Please contact us to request accommodation.</p>\n<p><strong>About CircleCI</strong></p>\n<p>CircleCI is the world’s largest continuous integration/continuous delivery (CI/CD)&nbsp;platform, and the hub where code moves from idea to delivery. As one of the most-used&nbsp;DevOps tools - processing more than 3 million jobs a day - CircleCI has unique access to&nbsp;data on how the most effective engineering teams work, and the tools to help software&nbsp;companies successfully leverage the power of AI into their commercial applications.&nbsp;Companies like Hinge, HuggingFace, and Samsung use us to improve engineering team&nbsp;productivity, release better products, and get to market faster.</p>\n<p><br>Founded in 2011 and headquartered in downtown San Francisco with a global, remote&nbsp;workforce, CircleCI is venture-backed by Base10, Greenspring Associates, Eleven Prime,&nbsp;IVP, Sapphire Ventures, Top Tier Capital Partners, Baseline Ventures, Threshold<br>Ventures, Scale Venture Partners, Owl Rock Capital, Next Equity Partners, Heavybit, and&nbsp;Harrison Metal Capital.&nbsp;</p>\n<p>CircleCI is an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sexual orientation, gender,&nbsp;gender identity, gender expression, transgender status, sexual stereotypes, age, status&nbsp;as a protected veteran, status as an individual with a disability, or other applicable&nbsp;legally protected characteristics. We also consider qualified applicants with criminal&nbsp;histories, consistent with applicable federal, state and local law.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/circleci-software-engineer\">https://weworkremotely.com/remote-jobs/circleci-software-engineer</a></p>",
-      "pubDate": "Sat, 19 Sep 2026 07:31:10 +0000",
-      "expires_at": "Mon, 19 Oct 2026 07:31:10 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
-      "link": "https://weworkremotely.com/remote-jobs/circleci-software-engineer"
     }
   }
 ]
