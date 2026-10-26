@@ -1,5 +1,70 @@
 [
   {
+    "id": "jobicy:157008",
+    "platform": "jobicy",
+    "external_id": "157008",
+    "title": "Senior Software Engineer",
+    "company": "Cyware",
+    "description": "Job Title: Senior Software Engineer Location: USA (Remote or Regional Office) Reports To: Senior VP of Engineering About Cyware : Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform integrates SOAR and TIP technology, enabling collaboration across siloed security teams. Cyware is widely deployed by enterprises, government agencies, and MSSPs, and is the leading threat intelligence sharing platform for global ISACs and CERTs. Your next opportunity starts here! More on Cyware: ( www.cyware.com ) Built and designed by SecOps practitioners and cybersecurity leaders, Cyware offers multiple technologies within its Cyber Fusion platform, including advanced threat intelligence solutions (TIP) for large and small security teams, vendor-agnostic security automation (SOAR), and purpose-built security case management. As a result, organizations can increase speed and accuracy while reducing costs and analyst burnout. Cyware's Virtual Cyber Fusion solutions make secure collaboration, information sharing, and enhanced threat visibility a reality for enterprises, sharing communities (ISAC/ISAO), MSSPs, and government agencies of all sizes and needs. About you: You are driven, inquisitive, proactive, and energetic You have a growth mindset and are committed to delivering results You thrive in a fast-paced, collaborative environment You understand that building high-quality products means adhering to a high bar where security, auditability, and reliability are not afterthoughts You have experience with AI-based debugging and development tools and practices Why We’re Hiring We are looking for a passionate back-end developer to build and harden Cyware's Cyber Fusion platform across both commercial enterprise and public sector environments. You will build scalable features that seamlessly operate within commercial SaaS and highly regulated compliance frameworks such as FedRAMP High and GovRAMP Moderate, deployed across standard cloud infrastructure and AWS GovCloud. You'll work closely with our Security, GRC, and DevOps teams to ensure every feature you ship is deployable, auditable, and defensible under rigorous commercial and federal compliance standards. Come join an exciting cybersecurity product startup that just closed Series C funding round! What You’ll Do Develop features from proposal to polished end result, accounting for both enterprise scale and high-security compliance constraints (GovCloud, segmented environments, control inheritance) from design forward. Build code that passes FedRAMP/GovRAMP control requirements (secure coding, audit logging, RBAC, encryption in transit/at rest) without needing significant post-hoc rework. Manage and review code contributed by the rest of the team, with an eye toward what will meet rigorous enterprise and regulatory security standards, and keep code easy to maintain and easy for others to contribute to. Partner with DevOps and GRC to ensure features deploy cleanly through modern CI/CD pipelines (Bitbucket Pipelines, Helm, ArgoCD) across commercial and GovCloud environments, holding up under continuous monitoring. Take initiative in improving the software in small or large ways to address pain points in your own experience as a developer. Work with multi-disciplinary teams to maintain and support production and operations of Cyware Products across both commercial and GovCloud environments. Who You Are U.S. Citizenship required (per 8 U.S.C. 1324b(a)(2)(C)); ability to comply with U.S. government/enterprise security standards, and eligibility for security clearances. Bachelor’s degree or higher, in Computer Science, Engineering, IT or a related discipline (or equivalent experience). 7–10+ years of Python experience, proficient in building efficient REST APIs with Django/Django REST Framework; 5+ years of practical experience in building Django applications is a huge plus. Go (GoLang) is a strong plus. Strong software design and architecture skills with proven experience designing scalable microservices and applying core design principles (e.g., MVC), including understanding of OOPS and design patterns such as strategy and adapter to build modular and scalable solutions. Solid background with Generative AI integrations, REST/gRPC LLM services, AI agents, and RAG pipelines (vector stores, embeddings, document indexing, retrieval strategies). Hands-on experience in AWS and AWS GovCloud environments (ECS/EKS, Lambda, API Gateway, S3, RDS) and multi-tenant architectures. Proficiency with enterprise &amp; federal identity/auth standards (SAML, OAuth, PIV/CAC, FICAM, RBAC) and secure coding principles (OWASP, secrets management) aligned with FedRAMP/GovRAMP controls. Practical knowledge of databases (PostgreSQL, Elasticsearch, ClickHouse, MongoDB), RDBMS and NoSQL use cases, caching (Redis, Memcached), and message brokers (RabbitMQ, Kafka, Redis). Strong engineering practices including unit testing, debugging, test automation, CI/CD, source version control, Git/GitHub, and container technologies (Docker, Kubernetes). Knowledge of scheduling frameworks or event-driven programming in Django, threading limitations of Python, and multi-process architecture. Experience with applications that have scaled, including designing scalable microservices and building products from scratch; prior experience in search-heavy, data-intensive, or AI-powered products is a big plus. Strong proficiency in data structures and algorithms and good understanding of server-side templating languages. Knowledge of user authentication and authorization between multiple systems, servers, and environments, including RBAC controls and multi-tenant architectures. Good hands-on experience working in scalable AWS environments and understanding of associated cloud services and application architectures. Experience with Elasticsearch for search, log analytics, or as part of an indexing layer is a strong plus. Knowledge of different database technologies and associated use cases, caching mechanisms using Redis/Memcache, and message brokers like RabbitMQ, Kafka, and Redis. Self-driven approach to enjoy technical challenges and eagerness to explore new technologies (AI, LLMs, RAG, Go, etc.), with experience developing products from scratch in regulated/FedRAMP environments. We're a lean team, so your impact will be felt immediately. If this all sounds like a good fit for you, why not join us? You’ll love working at Cyware because: We foster an exciting and challenging start-up culture. We’re not just employees. We’re people. We offer a comprehensive benefits package including time off, paid holidays, retirement plans, insurance coverage and much more. We’ll invest in your career. Our company is growing quickly and we will give you the opportunity to do the same. You will have access to a number of professional development opportunities so that you can keep up with the company’s evolving needs. We offer competitive compensation packages. We deeply value the talent our team brings to the table and believe that fair and equitable total compensation packages are part of our commitment to everyone who works here. We value diversity of people, culture, and ideas. How to Apply Apply right here. You've found the application! EEO Statement: Cyware is dedicated to hiring a diverse workplace that celebrates an inclusive culture and a sense of belonging. As an equal opportunity employer, we do not discriminate based on race, color, religion, sex (including pregnancy, gender identity, gender expression, and sexual orientation), national origin, age, veteran status, genetic information or disability. Please note, all official communication regarding this position will only be conducted through email addresses ending in \"@cyware.com\".",
+    "url": "https://jobicy.com/jobs/157008-senior-software-engineer-17",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "go",
+      "django",
+      "postgresql",
+      "mongodb",
+      "redis",
+      "elasticsearch",
+      "clickhouse",
+      "aws",
+      "docker",
+      "kubernetes",
+      "helm",
+      "argocd",
+      "llm",
+      "rag",
+      "kafka",
+      "rabbitmq",
+      "grpc",
+      "git",
+      "oauth",
+      "saml"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-25T17:44:52+00:00",
+    "fetched_at": "2026-10-26T01:50:54.993Z",
+    "raw": {
+      "id": 157008,
+      "url": "https://jobicy.com/jobs/157008-senior-software-engineer-17",
+      "jobSlug": "157008-senior-software-engineer-17",
+      "jobTitle": "Senior Software Engineer",
+      "companyName": "Cyware",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/09/caccc6b44a54fecac5a7b8e4a4cf9548.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "USA",
+      "jobLevel": "Director",
+      "jobExcerpt": "Job Title: Senior Software Engineer Location: USA (Remote or Regional Office) Reports To: Senior VP of Engineering About Cyware: Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform integrates SOAR and TIP&hellip;",
+      "jobDescription": "<p>Job Title: Senior Software Engineer</p>\n<p>Location: USA (Remote or Regional Office)</p>\n<p>Reports To: Senior VP of Engineering</p>\n<p><strong>About <a href=\"https://jobicy.com/company/cyware\" target=\"_blank\" rel=\"noopener\">Cyware</a>:</strong></p>\n<p>Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform integrates SOAR and TIP technology, enabling collaboration across siloed security teams. Cyware is widely deployed by enterprises, government agencies, and MSSPs, and is the leading threat intelligence sharing platform for global ISACs and CERTs.</p>\n<p><em>Your next opportunity starts here!</em></p>\n<p><strong>More on Cyware:</strong> (<a href=\"http://www.cyware.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">www.cyware.com</a>)</p>\n<p>Built and designed by SecOps practitioners and cybersecurity leaders, Cyware offers multiple technologies within its Cyber Fusion platform, including advanced threat intelligence solutions (TIP) for large and small security teams, vendor-agnostic security automation (SOAR), and purpose-built security case management. As a result, organizations can increase speed and accuracy while reducing costs and analyst burnout. Cyware's Virtual Cyber Fusion solutions make secure collaboration, information sharing, and enhanced threat visibility a reality for enterprises, sharing communities (ISAC/ISAO), MSSPs, and government agencies of all sizes and needs.</p>\n<p><strong>About you:</strong></p>\n<ul>\n<li>You are driven, inquisitive, proactive, and energetic</li>\n<li>You have a growth mindset and are committed to delivering results</li>\n<li>You thrive in a fast-paced, collaborative environment</li>\n<li>You understand that building high-quality products means adhering to a high bar where security, auditability, and reliability are not afterthoughts</li>\n<li>You have experience with AI-based debugging and development tools and practices</li>\n</ul>\n<p><strong>Why We’re Hiring</strong></p>\n<p>We are looking for a passionate back-end developer to build and harden Cyware's Cyber Fusion platform across both commercial enterprise and public sector environments. You will build scalable features that seamlessly operate within commercial SaaS and highly regulated compliance frameworks such as FedRAMP High and GovRAMP Moderate, deployed across standard cloud infrastructure and AWS GovCloud. You'll work closely with our Security, GRC, and DevOps teams to ensure every feature you ship is deployable, auditable, and defensible under rigorous commercial and federal compliance standards.</p>\n<p>Come join an exciting cybersecurity product startup that just closed Series C funding round!</p>\n<p><strong>What You’ll Do</strong></p>\n<ul>\n<li>Develop features from proposal to polished end result, accounting for both enterprise scale and high-security compliance constraints (GovCloud, segmented environments, control inheritance) from design forward.</li>\n<li>Build code that passes FedRAMP/GovRAMP control requirements (secure coding, audit logging, RBAC, encryption in transit/at rest) without needing significant post-hoc rework.</li>\n<li>Manage and review code contributed by the rest of the team, with an eye toward what will meet rigorous enterprise and regulatory security standards, and keep code easy to maintain and easy for others to contribute to.</li>\n<li>Partner with DevOps and GRC to ensure features deploy cleanly through modern CI/CD pipelines (Bitbucket Pipelines, Helm, ArgoCD) across commercial and GovCloud environments, holding up under continuous monitoring.</li>\n<li>Take initiative in improving the software in small or large ways to address pain points in your own experience as a developer.</li>\n<li>Work with multi-disciplinary teams to maintain and support production and operations of Cyware Products across both commercial and GovCloud environments.</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>U.S. Citizenship required (per 8 U.S.C. 1324b(a)(2)(C)); ability to comply with U.S. government/enterprise security standards, and eligibility for security clearances.</li>\n<li>Bachelor’s degree or higher, in Computer Science, Engineering, IT or a related discipline (or equivalent experience).</li>\n<li>7–10+ years of Python experience, proficient in building efficient REST APIs with Django/Django REST Framework; 5+ years of practical experience in building Django applications is a huge plus. Go (GoLang) is a strong plus.</li>\n<li>Strong software design and architecture skills with proven experience designing scalable microservices and applying core design principles (e.g., MVC), including understanding of OOPS and design patterns such as strategy and adapter to build modular and scalable solutions.</li>\n<li>Solid background with Generative AI integrations, REST/gRPC LLM services, AI agents, and RAG pipelines (vector stores, embeddings, document indexing, retrieval strategies).</li>\n<li>Hands-on experience in AWS and AWS GovCloud environments (ECS/EKS, Lambda, API Gateway, S3, RDS) and multi-tenant architectures.</li>\n<li>Proficiency with enterprise &amp; federal identity/auth standards (SAML, OAuth, PIV/CAC, FICAM, RBAC) and secure coding principles (OWASP, secrets management) aligned with FedRAMP/GovRAMP controls.</li>\n<li>Practical knowledge of databases (PostgreSQL, Elasticsearch, ClickHouse, MongoDB), RDBMS and NoSQL use cases, caching (Redis, Memcached), and message brokers (RabbitMQ, Kafka, Redis).</li>\n<li>Strong engineering practices including unit testing, debugging, test automation, CI/CD, source version control, Git/GitHub, and container technologies (Docker, Kubernetes).</li>\n<li>Knowledge of scheduling frameworks or event-driven programming in Django, threading limitations of Python, and multi-process architecture.</li>\n<li>Experience with applications that have scaled, including designing scalable microservices and building products from scratch; prior experience in search-heavy, data-intensive, or AI-powered products is a big plus.</li>\n<li>Strong proficiency in data structures and algorithms and good understanding of server-side templating languages.</li>\n<li>Knowledge of user authentication and authorization between multiple systems, servers, and environments, including RBAC controls and multi-tenant architectures.</li>\n<li>Good hands-on experience working in scalable AWS environments and understanding of associated cloud services and application architectures.</li>\n<li>Experience with Elasticsearch for search, log analytics, or as part of an indexing layer is a strong plus.</li>\n<li>Knowledge of different database technologies and associated use cases, caching mechanisms using Redis/Memcache, and message brokers like RabbitMQ, Kafka, and Redis.</li>\n<li>Self-driven approach to enjoy technical challenges and eagerness to explore new technologies (AI, LLMs, RAG, Go, etc.), with experience developing products from scratch in regulated/FedRAMP environments.</li>\n</ul>\n<p>We're a lean team, so your impact will be felt immediately. If this all sounds like a good fit for you, why not join us?</p>\n<p><strong>You’ll love working at Cyware because:</strong></p>\n<ul>\n<li>We foster an exciting and challenging start-up culture.</li>\n<li>We’re not just employees. We’re people. We offer a comprehensive benefits package including time off, paid holidays, retirement plans, insurance coverage and much more.</li>\n<li>We’ll invest in your career. Our company is growing quickly and we will give you the opportunity to do the same. You will have access to a number of professional development opportunities so that you can keep up with the company’s evolving needs.</li>\n<li>We offer competitive compensation packages. We deeply value the talent our team brings to the table and believe that fair and equitable total compensation packages are part of our commitment to everyone who works here.</li>\n<li>We value diversity of people, culture, and ideas.</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p><em>Apply right here. You've found the application!</em></p>\n<h3> </h3>\n<p><strong>EEO Statement:</strong> Cyware is dedicated to hiring a diverse workplace that celebrates an inclusive culture and a sense of belonging. As an equal opportunity employer, we do not discriminate based on race, color, religion, sex (including pregnancy, gender identity, gender expression, and sexual orientation), national origin, age, veteran status, genetic information or disability.</p>\n<h3><strong>Please note, all official communication regarding this position will only be conducted through email addresses ending in \"@cyware.com\".</strong></h3>",
+      "pubDate": "2026-10-25T17:44:52+00:00"
+    }
+  },
+  {
     "id": "jobicy:156997",
     "platform": "jobicy",
     "external_id": "156997",
@@ -26,7 +91,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T11:15:20+00:00",
-    "fetched_at": "2026-10-25T20:01:09.533Z",
+    "fetched_at": "2026-10-26T01:50:54.994Z",
     "raw": {
       "id": 156997,
       "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
@@ -71,7 +136,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T11:15:18+00:00",
-    "fetched_at": "2026-10-25T20:01:09.534Z",
+    "fetched_at": "2026-10-26T01:50:54.995Z",
     "raw": {
       "id": 156996,
       "url": "https://jobicy.com/jobs/156996-iot-field-engineer-china-region",
@@ -129,7 +194,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:55:12+00:00",
-    "fetched_at": "2026-10-25T20:01:09.535Z",
+    "fetched_at": "2026-10-26T01:50:54.996Z",
     "raw": {
       "id": 156958,
       "url": "https://jobicy.com/jobs/156958-sr-software-engineer-5",
@@ -181,7 +246,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:45:08+00:00",
-    "fetched_at": "2026-10-25T20:01:09.536Z",
+    "fetched_at": "2026-10-26T01:50:54.996Z",
     "raw": {
       "id": 156947,
       "url": "https://jobicy.com/jobs/156947-software-engineer-branching",
@@ -229,7 +294,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:45:07+00:00",
-    "fetched_at": "2026-10-25T20:01:09.537Z",
+    "fetched_at": "2026-10-26T01:50:54.997Z",
     "raw": {
       "id": 156945,
       "url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3",
@@ -287,7 +352,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:45:07+00:00",
-    "fetched_at": "2026-10-25T20:01:09.538Z",
+    "fetched_at": "2026-10-26T01:50:54.998Z",
     "raw": {
       "id": 156940,
       "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
@@ -335,7 +400,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:45:06+00:00",
-    "fetched_at": "2026-10-25T20:01:09.539Z",
+    "fetched_at": "2026-10-26T01:50:54.999Z",
     "raw": {
       "id": 156939,
       "url": "https://jobicy.com/jobs/156939-data-api-engineer",
@@ -386,7 +451,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:38:03+00:00",
-    "fetched_at": "2026-10-25T20:01:09.540Z",
+    "fetched_at": "2026-10-26T01:50:55.000Z",
     "raw": {
       "id": 156923,
       "url": "https://jobicy.com/jobs/156923-intermediate-fullstack-engineer-ruby-vue-js-growth",
@@ -442,7 +507,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:38:01+00:00",
-    "fetched_at": "2026-10-25T20:01:09.541Z",
+    "fetched_at": "2026-10-26T01:50:55.001Z",
     "raw": {
       "id": 156926,
       "url": "https://jobicy.com/jobs/156926-intermediate-software-engineer-security-factory-vulnerability-management",
@@ -495,7 +560,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T09:11:40+00:00",
-    "fetched_at": "2026-10-25T20:01:09.543Z",
+    "fetched_at": "2026-10-26T01:50:55.002Z",
     "raw": {
       "id": 156897,
       "url": "https://jobicy.com/jobs/156897-staff-software-engineer-10",
@@ -543,7 +608,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T08:33:30+00:00",
-    "fetched_at": "2026-10-25T20:01:09.544Z",
+    "fetched_at": "2026-10-26T01:50:55.003Z",
     "raw": {
       "id": 156885,
       "url": "https://jobicy.com/jobs/156885-senior-manager-engineering-identity-access-management",
@@ -595,7 +660,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T08:07:27+00:00",
-    "fetched_at": "2026-10-25T20:01:09.545Z",
+    "fetched_at": "2026-10-26T01:50:55.004Z",
     "raw": {
       "id": 156876,
       "url": "https://jobicy.com/jobs/156876-principal-frontend-engineer",
@@ -657,7 +722,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T08:07:26+00:00",
-    "fetched_at": "2026-10-25T20:01:09.547Z",
+    "fetched_at": "2026-10-26T01:50:55.005Z",
     "raw": {
       "id": 156869,
       "url": "https://jobicy.com/jobs/156869-senior-software-engineer-internally-deployed-products",
@@ -714,7 +779,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:25:07+00:00",
-    "fetched_at": "2026-10-25T20:01:09.548Z",
+    "fetched_at": "2026-10-26T01:50:55.006Z",
     "raw": {
       "id": 154051,
       "url": "https://jobicy.com/jobs/154051-staff-software-engineer-curated-data",
@@ -762,7 +827,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:20:17+00:00",
-    "fetched_at": "2026-10-25T20:01:09.548Z",
+    "fetched_at": "2026-10-26T01:50:55.006Z",
     "raw": {
       "id": 154032,
       "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
@@ -814,7 +879,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:20:15+00:00",
-    "fetched_at": "2026-10-25T20:01:09.549Z",
+    "fetched_at": "2026-10-26T01:50:55.007Z",
     "raw": {
       "id": 154031,
       "url": "https://jobicy.com/jobs/154031-software-engineer-11",
@@ -869,7 +934,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-25T04:20:11+00:00",
-    "fetched_at": "2026-10-25T20:01:09.550Z",
+    "fetched_at": "2026-10-26T01:50:55.008Z",
     "raw": {
       "id": 154027,
       "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
@@ -921,7 +986,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-25T04:15:27+00:00",
-    "fetched_at": "2026-10-25T20:01:09.551Z",
+    "fetched_at": "2026-10-26T01:50:55.009Z",
     "raw": {
       "id": 153999,
       "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
@@ -972,7 +1037,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:15:15+00:00",
-    "fetched_at": "2026-10-25T20:01:09.552Z",
+    "fetched_at": "2026-10-26T01:50:55.009Z",
     "raw": {
       "id": 144336,
       "url": "https://jobicy.com/jobs/144336-staff-security-architect",
@@ -1019,7 +1084,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:15:12+00:00",
-    "fetched_at": "2026-10-25T20:01:09.553Z",
+    "fetched_at": "2026-10-26T01:50:55.010Z",
     "raw": {
       "id": 154022,
       "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
@@ -1064,7 +1129,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:15:09+00:00",
-    "fetched_at": "2026-10-25T20:01:09.554Z",
+    "fetched_at": "2026-10-26T01:50:55.011Z",
     "raw": {
       "id": 149595,
       "url": "https://jobicy.com/jobs/149595-senior-workday-platform-engineer",
@@ -1117,7 +1182,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:15:04+00:00",
-    "fetched_at": "2026-10-25T20:01:09.555Z",
+    "fetched_at": "2026-10-26T01:50:55.012Z",
     "raw": {
       "id": 149520,
       "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
@@ -1165,7 +1230,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:10:03+00:00",
-    "fetched_at": "2026-10-25T20:01:09.556Z",
+    "fetched_at": "2026-10-26T01:50:55.013Z",
     "raw": {
       "id": 151496,
       "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
@@ -1211,7 +1276,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:10:01+00:00",
-    "fetched_at": "2026-10-25T20:01:09.558Z",
+    "fetched_at": "2026-10-26T01:50:55.014Z",
     "raw": {
       "id": 151472,
       "url": "https://jobicy.com/jobs/151472-software-engineer-8",
@@ -1265,7 +1330,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:09:59+00:00",
-    "fetched_at": "2026-10-25T20:01:09.558Z",
+    "fetched_at": "2026-10-26T01:50:55.015Z",
     "raw": {
       "id": 151493,
       "url": "https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest",
@@ -1313,7 +1378,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T20:22:15+00:00",
-    "fetched_at": "2026-10-25T20:01:09.560Z",
+    "fetched_at": "2026-10-26T01:50:55.016Z",
     "raw": {
       "id": 156858,
       "url": "https://jobicy.com/jobs/156858-senior-software-engineer-fundraising-remote",
@@ -1370,7 +1435,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T20:22:12+00:00",
-    "fetched_at": "2026-10-25T20:01:09.561Z",
+    "fetched_at": "2026-10-26T01:50:55.017Z",
     "raw": {
       "id": 156863,
       "url": "https://jobicy.com/jobs/156863-frontend-architect",
@@ -1417,7 +1482,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T17:15:48+00:00",
-    "fetched_at": "2026-10-25T20:01:09.563Z",
+    "fetched_at": "2026-10-26T01:50:55.019Z",
     "raw": {
       "id": 156848,
       "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2",
@@ -1474,7 +1539,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T17:13:35+00:00",
-    "fetched_at": "2026-10-25T20:01:09.564Z",
+    "fetched_at": "2026-10-26T01:50:55.020Z",
     "raw": {
       "id": 156835,
       "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
@@ -1524,7 +1589,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T17:09:17+00:00",
-    "fetched_at": "2026-10-25T20:01:09.565Z",
+    "fetched_at": "2026-10-26T01:50:55.020Z",
     "raw": {
       "id": 156829,
       "url": "https://jobicy.com/jobs/156829-software-engineer-13",
@@ -1567,7 +1632,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-24T17:07:43+00:00",
-    "fetched_at": "2026-10-25T20:01:09.567Z",
+    "fetched_at": "2026-10-26T01:50:55.021Z",
     "raw": {
       "id": 156814,
       "url": "https://jobicy.com/jobs/156814-cross-reviewer-media",
@@ -1613,7 +1678,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T16:15:11+00:00",
-    "fetched_at": "2026-10-25T20:01:09.567Z",
+    "fetched_at": "2026-10-26T01:50:55.022Z",
     "raw": {
       "id": 156779,
       "url": "https://jobicy.com/jobs/156779-senior-engineering-manager",
@@ -1668,7 +1733,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T16:13:47+00:00",
-    "fetched_at": "2026-10-25T20:01:09.570Z",
+    "fetched_at": "2026-10-26T01:50:55.024Z",
     "raw": {
       "id": 156767,
       "url": "https://jobicy.com/jobs/156767-principal-software-engineer-agentic-soc",
@@ -1720,7 +1785,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T16:13:46+00:00",
-    "fetched_at": "2026-10-25T20:01:09.572Z",
+    "fetched_at": "2026-10-26T01:50:55.025Z",
     "raw": {
       "id": 156769,
       "url": "https://jobicy.com/jobs/156769-principal-software-engineer-siem-ruby-rails",
@@ -1773,7 +1838,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T09:52:43+00:00",
-    "fetched_at": "2026-10-25T20:01:09.573Z",
+    "fetched_at": "2026-10-26T01:50:55.026Z",
     "raw": {
       "id": 156705,
       "url": "https://jobicy.com/jobs/156705-senior-software-engineer-16",
@@ -1827,7 +1892,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T09:45:42+00:00",
-    "fetched_at": "2026-10-25T20:01:09.574Z",
+    "fetched_at": "2026-10-26T01:50:55.027Z",
     "raw": {
       "id": 156699,
       "url": "https://jobicy.com/jobs/156699-senior-backend-engineer-12",
@@ -1874,7 +1939,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-24T03:50:28+00:00",
-    "fetched_at": "2026-10-25T20:01:09.575Z",
+    "fetched_at": "2026-10-26T01:50:55.027Z",
     "raw": {
       "id": 153979,
       "url": "https://jobicy.com/jobs/153979-ads-quality-rater-farsi-turkey",
@@ -1921,7 +1986,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-24T03:50:26+00:00",
-    "fetched_at": "2026-10-25T20:01:09.575Z",
+    "fetched_at": "2026-10-26T01:50:55.028Z",
     "raw": {
       "id": 153976,
       "url": "https://jobicy.com/jobs/153976-ads-quality-rater-cantonese-hong-kong",
@@ -1975,7 +2040,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:45:31+00:00",
-    "fetched_at": "2026-10-25T20:01:09.576Z",
+    "fetched_at": "2026-10-26T01:50:55.029Z",
     "raw": {
       "id": 149523,
       "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
@@ -2024,7 +2089,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:45:26+00:00",
-    "fetched_at": "2026-10-25T20:01:09.578Z",
+    "fetched_at": "2026-10-26T01:50:55.030Z",
     "raw": {
       "id": 149566,
       "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
@@ -2073,7 +2138,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:45:04+00:00",
-    "fetched_at": "2026-10-25T20:01:09.579Z",
+    "fetched_at": "2026-10-26T01:50:55.031Z",
     "raw": {
       "id": 149558,
       "url": "https://jobicy.com/jobs/149558-microservices-engineer",
@@ -2125,7 +2190,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:40+00:00",
-    "fetched_at": "2026-10-25T20:01:09.580Z",
+    "fetched_at": "2026-10-26T01:50:55.032Z",
     "raw": {
       "id": 149576,
       "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
@@ -2174,7 +2239,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:38+00:00",
-    "fetched_at": "2026-10-25T20:01:09.581Z",
+    "fetched_at": "2026-10-26T01:50:55.033Z",
     "raw": {
       "id": 149562,
       "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
@@ -2231,7 +2296,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:36+00:00",
-    "fetched_at": "2026-10-25T20:01:09.582Z",
+    "fetched_at": "2026-10-26T01:50:55.033Z",
     "raw": {
       "id": 149563,
       "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
@@ -2279,7 +2344,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:35+00:00",
-    "fetched_at": "2026-10-25T20:01:09.583Z",
+    "fetched_at": "2026-10-26T01:50:55.034Z",
     "raw": {
       "id": 149535,
       "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
@@ -2326,7 +2391,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:33+00:00",
-    "fetched_at": "2026-10-25T20:01:09.584Z",
+    "fetched_at": "2026-10-26T01:50:55.035Z",
     "raw": {
       "id": 149567,
       "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
@@ -2374,7 +2439,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:13+00:00",
-    "fetched_at": "2026-10-25T20:01:09.585Z",
+    "fetched_at": "2026-10-26T01:50:55.036Z",
     "raw": {
       "id": 149574,
       "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
@@ -2425,7 +2490,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:07+00:00",
-    "fetched_at": "2026-10-25T20:01:09.586Z",
+    "fetched_at": "2026-10-26T01:50:55.037Z",
     "raw": {
       "id": 149532,
       "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
@@ -2474,7 +2539,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:06+00:00",
-    "fetched_at": "2026-10-25T20:01:09.588Z",
+    "fetched_at": "2026-10-26T01:50:55.038Z",
     "raw": {
       "id": 149560,
       "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
@@ -2526,7 +2591,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:35:32+00:00",
-    "fetched_at": "2026-10-25T20:01:09.589Z",
+    "fetched_at": "2026-10-26T01:50:55.039Z",
     "raw": {
       "id": 149543,
       "url": "https://jobicy.com/jobs/149543-python-engineer",
@@ -2574,7 +2639,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:35:27+00:00",
-    "fetched_at": "2026-10-25T20:01:09.590Z",
+    "fetched_at": "2026-10-26T01:50:55.040Z",
     "raw": {
       "id": 149537,
       "url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
@@ -2632,7 +2697,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:35:25+00:00",
-    "fetched_at": "2026-10-25T20:01:09.591Z",
+    "fetched_at": "2026-10-26T01:50:55.041Z",
     "raw": {
       "id": 149534,
       "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
@@ -2683,7 +2748,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:35:15+00:00",
-    "fetched_at": "2026-10-25T20:01:09.592Z",
+    "fetched_at": "2026-10-26T01:50:55.041Z",
     "raw": {
       "id": 149524,
       "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
@@ -2735,7 +2800,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:35:09+00:00",
-    "fetched_at": "2026-10-25T20:01:09.594Z",
+    "fetched_at": "2026-10-26T01:50:55.043Z",
     "raw": {
       "id": 149527,
       "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
@@ -2787,7 +2852,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:35:07+00:00",
-    "fetched_at": "2026-10-25T20:01:09.595Z",
+    "fetched_at": "2026-10-26T01:50:55.043Z",
     "raw": {
       "id": 149533,
       "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
@@ -2840,7 +2905,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:35:06+00:00",
-    "fetched_at": "2026-10-25T20:01:09.596Z",
+    "fetched_at": "2026-10-26T01:50:55.044Z",
     "raw": {
       "id": 149522,
       "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
@@ -2887,7 +2952,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:30:18+00:00",
-    "fetched_at": "2026-10-25T20:01:09.597Z",
+    "fetched_at": "2026-10-26T01:50:55.045Z",
     "raw": {
       "id": 149552,
       "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
@@ -2940,7 +3005,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:30:17+00:00",
-    "fetched_at": "2026-10-25T20:01:09.598Z",
+    "fetched_at": "2026-10-26T01:50:55.046Z",
     "raw": {
       "id": 149551,
       "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
@@ -2990,7 +3055,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:30:04+00:00",
-    "fetched_at": "2026-10-25T20:01:09.600Z",
+    "fetched_at": "2026-10-26T01:50:55.047Z",
     "raw": {
       "id": 149538,
       "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
@@ -3039,7 +3104,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T18:57:35+00:00",
-    "fetched_at": "2026-10-25T20:01:09.601Z",
+    "fetched_at": "2026-10-26T01:50:55.049Z",
     "raw": {
       "id": 156680,
       "url": "https://jobicy.com/jobs/156680-senior-android-engineer-4",
@@ -3099,7 +3164,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T17:58:06+00:00",
-    "fetched_at": "2026-10-25T20:01:09.603Z",
+    "fetched_at": "2026-10-26T01:50:55.051Z",
     "raw": {
       "id": 156665,
       "url": "https://jobicy.com/jobs/156665-forward-deployed-engineer-emea",
@@ -3145,7 +3210,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T17:58:05+00:00",
-    "fetched_at": "2026-10-25T20:01:09.605Z",
+    "fetched_at": "2026-10-26T01:50:55.052Z",
     "raw": {
       "id": 156662,
       "url": "https://jobicy.com/jobs/156662-engineering-manager-tenant-scale-gitaly",
@@ -3193,7 +3258,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T17:58:04+00:00",
-    "fetched_at": "2026-10-25T20:01:09.606Z",
+    "fetched_at": "2026-10-26T01:50:55.053Z",
     "raw": {
       "id": 156660,
       "url": "https://jobicy.com/jobs/156660-engineering-manager-switchboard",
@@ -3245,7 +3310,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T17:56:34+00:00",
-    "fetched_at": "2026-10-25T20:01:09.607Z",
+    "fetched_at": "2026-10-26T01:50:55.054Z",
     "raw": {
       "id": 156651,
       "url": "https://jobicy.com/jobs/156651-mobile-principal-software-engineer",
@@ -3295,7 +3360,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T17:55:37+00:00",
-    "fetched_at": "2026-10-25T20:01:09.609Z",
+    "fetched_at": "2026-10-26T01:50:55.055Z",
     "raw": {
       "id": 156639,
       "url": "https://jobicy.com/jobs/156639-engineering-manager-12",
@@ -3342,7 +3407,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T16:37:11+00:00",
-    "fetched_at": "2026-10-25T20:01:09.610Z",
+    "fetched_at": "2026-10-26T01:50:55.057Z",
     "raw": {
       "id": 156615,
       "url": "https://jobicy.com/jobs/156615-servicenow-developer",
@@ -3402,7 +3467,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T13:48:16+00:00",
-    "fetched_at": "2026-10-25T20:01:09.612Z",
+    "fetched_at": "2026-10-26T01:50:55.058Z",
     "raw": {
       "id": 156602,
       "url": "https://jobicy.com/jobs/156602-forward-deployed-engineer-8",
@@ -3452,7 +3517,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T13:48:13+00:00",
-    "fetched_at": "2026-10-25T20:01:09.613Z",
+    "fetched_at": "2026-10-26T01:50:55.060Z",
     "raw": {
       "id": 156600,
       "url": "https://jobicy.com/jobs/156600-engineering-internal-ai-transformation-2",
@@ -3502,7 +3567,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T12:30:20+00:00",
-    "fetched_at": "2026-10-25T20:01:09.615Z",
+    "fetched_at": "2026-10-26T01:50:55.061Z",
     "raw": {
       "id": 156593,
       "url": "https://jobicy.com/jobs/156593-senior-manager-software-engineering-ai",
@@ -3549,7 +3614,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T12:30:20+00:00",
-    "fetched_at": "2026-10-25T20:01:09.616Z",
+    "fetched_at": "2026-10-26T01:50:55.062Z",
     "raw": {
       "id": 156589,
       "url": "https://jobicy.com/jobs/156589-director-of-engineering-enterprise-product-2",
@@ -3601,7 +3666,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:26:40+00:00",
-    "fetched_at": "2026-10-25T20:01:09.617Z",
+    "fetched_at": "2026-10-26T01:50:55.063Z",
     "raw": {
       "id": 156581,
       "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning",
@@ -3648,7 +3713,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-23T09:26:39+00:00",
-    "fetched_at": "2026-10-25T20:01:09.618Z",
+    "fetched_at": "2026-10-26T01:50:55.064Z",
     "raw": {
       "id": 156582,
       "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking",
@@ -3699,7 +3764,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:26:38+00:00",
-    "fetched_at": "2026-10-25T20:01:09.619Z",
+    "fetched_at": "2026-10-26T01:50:55.065Z",
     "raw": {
       "id": 156576,
       "url": "https://jobicy.com/jobs/156576-supalite-engineer",
@@ -3751,7 +3816,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-23T09:15:45+00:00",
-    "fetched_at": "2026-10-25T20:01:09.620Z",
+    "fetched_at": "2026-10-26T01:50:55.066Z",
     "raw": {
       "id": 156573,
       "url": "https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go",
@@ -3799,7 +3864,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:15:44+00:00",
-    "fetched_at": "2026-10-25T20:01:09.621Z",
+    "fetched_at": "2026-10-26T01:50:55.067Z",
     "raw": {
       "id": 156570,
       "url": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems",
@@ -3847,7 +3912,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:15:42+00:00",
-    "fetched_at": "2026-10-25T20:01:09.623Z",
+    "fetched_at": "2026-10-26T01:50:55.068Z",
     "raw": {
       "id": 156572,
       "url": "https://jobicy.com/jobs/156572-engineering-manager-commercial-systems",
@@ -3893,7 +3958,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:15:42+00:00",
-    "fetched_at": "2026-10-25T20:01:09.624Z",
+    "fetched_at": "2026-10-26T01:50:55.069Z",
     "raw": {
       "id": 156571,
       "url": "https://jobicy.com/jobs/156571-engineering-manager-ceph-distributed-storage-2",
@@ -3938,7 +4003,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:15:42+00:00",
-    "fetched_at": "2026-10-25T20:01:09.625Z",
+    "fetched_at": "2026-10-26T01:50:55.070Z",
     "raw": {
       "id": 156569,
       "url": "https://jobicy.com/jobs/156569-engineering-director-business-data",
@@ -3987,7 +4052,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:13:24+00:00",
-    "fetched_at": "2026-10-25T20:01:09.626Z",
+    "fetched_at": "2026-10-26T01:50:55.070Z",
     "raw": {
       "id": 156558,
       "url": "https://jobicy.com/jobs/156558-senior-software-engineer-backend-4",
@@ -4038,7 +4103,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:13:22+00:00",
-    "fetched_at": "2026-10-25T20:01:09.627Z",
+    "fetched_at": "2026-10-26T01:50:55.071Z",
     "raw": {
       "id": 156560,
       "url": "https://jobicy.com/jobs/156560-senior-software-engineer-product-ai",
@@ -4096,7 +4161,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-23T09:12:15+00:00",
-    "fetched_at": "2026-10-25T20:01:09.627Z",
+    "fetched_at": "2026-10-26T01:50:55.072Z",
     "raw": {
       "id": 156544,
       "url": "https://jobicy.com/jobs/156544-manual-qa-engineer-game-client",
@@ -4148,7 +4213,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T09:12:13+00:00",
-    "fetched_at": "2026-10-25T20:01:09.629Z",
+    "fetched_at": "2026-10-26T01:50:55.073Z",
     "raw": {
       "id": 156547,
       "url": "https://jobicy.com/jobs/156547-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-poland-2",
@@ -4199,7 +4264,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T07:09:40+00:00",
-    "fetched_at": "2026-10-25T20:01:09.630Z",
+    "fetched_at": "2026-10-26T01:50:55.074Z",
     "raw": {
       "id": 156532,
       "url": "https://jobicy.com/jobs/156532-senior-applied-ai-solutions-engineer",
@@ -4254,7 +4319,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T07:05:31+00:00",
-    "fetched_at": "2026-10-25T20:01:09.631Z",
+    "fetched_at": "2026-10-26T01:50:55.075Z",
     "raw": {
       "id": 156500,
       "url": "https://jobicy.com/jobs/156500-senior-software-engineer-frontend-3",
@@ -4301,7 +4366,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T06:19:35+00:00",
-    "fetched_at": "2026-10-25T20:01:09.632Z",
+    "fetched_at": "2026-10-26T01:50:55.076Z",
     "raw": {
       "id": 156493,
       "url": "https://jobicy.com/jobs/156493-engineering-manager-11",
@@ -4352,7 +4417,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T04:00:11+00:00",
-    "fetched_at": "2026-10-25T20:01:09.634Z",
+    "fetched_at": "2026-10-26T01:50:55.077Z",
     "raw": {
       "id": 153899,
       "url": "https://jobicy.com/jobs/153899-senior-software-engineer-add-ons",
@@ -4408,7 +4473,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:55:18+00:00",
-    "fetched_at": "2026-10-25T20:01:09.635Z",
+    "fetched_at": "2026-10-26T01:50:55.078Z",
     "raw": {
       "id": 153922,
       "url": "https://jobicy.com/jobs/153922-engineering-manager-8",
@@ -4455,7 +4520,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:55:05+00:00",
-    "fetched_at": "2026-10-25T20:01:09.636Z",
+    "fetched_at": "2026-10-26T01:50:55.079Z",
     "raw": {
       "id": 153882,
       "url": "https://jobicy.com/jobs/153882-senior-manager-solution-engineering-docv",
@@ -4504,7 +4569,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:50:28+00:00",
-    "fetched_at": "2026-10-25T20:01:09.638Z",
+    "fetched_at": "2026-10-26T01:50:55.080Z",
     "raw": {
       "id": 153888,
       "url": "https://jobicy.com/jobs/153888-chief-technology-officer-us-based",
@@ -4549,7 +4614,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:50:21+00:00",
-    "fetched_at": "2026-10-25T20:01:09.639Z",
+    "fetched_at": "2026-10-26T01:50:55.081Z",
     "raw": {
       "id": 151412,
       "url": "https://jobicy.com/jobs/151412-developer-advocate",
@@ -4601,7 +4666,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:50:17+00:00",
-    "fetched_at": "2026-10-25T20:01:09.641Z",
+    "fetched_at": "2026-10-26T01:50:55.082Z",
     "raw": {
       "id": 151415,
       "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
@@ -4648,7 +4713,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:50:14+00:00",
-    "fetched_at": "2026-10-25T20:01:09.641Z",
+    "fetched_at": "2026-10-26T01:50:55.083Z",
     "raw": {
       "id": 153889,
       "url": "https://jobicy.com/jobs/153889-staff-backend-engineer-3",
@@ -4702,7 +4767,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:50:04+00:00",
-    "fetched_at": "2026-10-25T20:01:09.642Z",
+    "fetched_at": "2026-10-26T01:50:55.084Z",
     "raw": {
       "id": 153647,
       "url": "https://jobicy.com/jobs/153647-staff-software-backend-engineer-tech-lead-foundations",
@@ -4759,7 +4824,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:45:18+00:00",
-    "fetched_at": "2026-10-25T20:01:09.646Z",
+    "fetched_at": "2026-10-26T01:50:55.087Z",
     "raw": {
       "id": 151374,
       "url": "https://jobicy.com/jobs/151374-chief-architect",
@@ -4814,7 +4879,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:45:13+00:00",
-    "fetched_at": "2026-10-25T20:01:09.647Z",
+    "fetched_at": "2026-10-26T01:50:55.088Z",
     "raw": {
       "id": 151365,
       "url": "https://jobicy.com/jobs/151365-fullstack-engineer-2",
@@ -4875,7 +4940,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-23T03:45:07+00:00",
-    "fetched_at": "2026-10-25T20:01:09.649Z",
+    "fetched_at": "2026-10-26T01:50:55.089Z",
     "raw": {
       "id": 144139,
       "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
@@ -4933,7 +4998,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-22T20:38:14+00:00",
-    "fetched_at": "2026-10-25T20:01:09.650Z",
+    "fetched_at": "2026-10-26T01:50:55.090Z",
     "raw": {
       "id": 156465,
       "url": "https://jobicy.com/jobs/156465-senior-backend-engineer-11",
@@ -4989,7 +5054,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-22T20:38:09+00:00",
-    "fetched_at": "2026-10-25T20:01:09.652Z",
+    "fetched_at": "2026-10-26T01:50:55.092Z",
     "raw": {
       "id": 156466,
       "url": "https://jobicy.com/jobs/156466-manager-software-test-automation",
@@ -5044,7 +5109,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-22T18:57:15+00:00",
-    "fetched_at": "2026-10-25T20:01:09.653Z",
+    "fetched_at": "2026-10-26T01:50:55.093Z",
     "raw": {
       "id": 156457,
       "url": "https://jobicy.com/jobs/156457-software-development-manager",
@@ -5067,61 +5132,6 @@
       "salaryMax": 180000,
       "salaryCurrency": "CAD",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:156456",
-    "platform": "jobicy",
-    "external_id": "156456",
-    "title": "Senior Software Engineer (PHP)",
-    "company": "NFQ",
-    "description": "NFQ is a core technology partner for HomeToGo – a dedicated team of software engineers and data science professionals driving innovation to power a marketplace with the world’s largest selection of vacation rentals. We are expanding HomeToGo’s technology teams in Lithuania and Poland and are looking for the brightest talents to join the company. HomeToGo is the SaaS-enabled marketplace with the world's largest selection of vacation rentals, listing millions of offers from thousands of trusted partners, including Booking.com, Vrbo and TripAdvisor. From vacation homes, cabins, beach houses, apartments, condos, house boats, castles, farm stays and everything in between, HomeToGo combines price, destination, dates and amenities to find the perfect accommodation for any trip worldwide. Founded in 2014, HomeToGo operates localized apps and websites in more than 30 countries across Europe, North America, South America, Australia, and Asia-Pacific. HomeToGo Group includes brands such as Agriturismo.it, AMIVAC, Interhome, Smoobu, Casamundo, EscapadaRural, Kurzurlaub, Tripping.com, Wimdu, and others. We're looking for a Senior Software Engineer (PHP) to join our Checkout team. You will play an essential role in our platform’s success by joining the team responsible for enhancing the checkout process and post booking experience. Your expertise in PHP development will be instrumental in delivering seamless user experiences and optimizing the booking flow for our users. In this role, you will Take end-to-end ownership of features, from refinement to production, including engineering decisions on larger topics Design and build entire applications, partnering with architects to ensure the scalability, reliability and usability of our Marketplace products Work with business stakeholders to define requirements, plan milestones and iterate on features based on measured performance Contribute to technical and architectural standards across the company Mentor teammates and take part in hiring Work with a broad stack including PHP, SQL databases, Elasticsearch, RabbitMQ, SQS, Kubernetes and AWS What you will bring At least 5 years of professional software engineering experience Deep expertise in PHP and Symfony Experience building scalable, distributed systems Solid knowledge of relational databases Experience designing APIs and integrating with third-party systems Hands-on experience with LLM-based tools, both as a user and as an engineer building AI-driven solutions Comfort working directly with business stakeholders Professional working proficiency in English A habit of continuous learning and a team-player mindset What we offer Growth and development opportunities. Build your career with support from an international and experienced team. We offer mentoring, regular feedback through our 360° feedback process, performance evaluations, and opportunities to grow professionally. A culture where you can make an impact. Join a workplace built on trust, empowerment, recognition, and autonomy. We share company goals transparently every quarter and encourage everyone to contribute ideas and take ownership. A supportive and international environment. Become part of a diverse team of 30+ nationalities, where collaboration, knowledge sharing, and mutual support are part of everyday life. We value work-life balance and create an environment where people can thrive. A great benefits package. We offer a competitive salary, health insurance, additional days off, flexible working hours, employee-led workshops, office perks, regular team-building activities and company events. Compensation Additional Information Salary range: 131 - 179 PLN/h + VAT (B2B) 18 260 - 24 900 PLN gross (Permanent) If you have any questions, please contact me at natalia.plasun@nfq.com or via Linkedin . Check all our career opportunities here .",
-    "url": "https://jobicy.com/jobs/156456-senior-software-engineer-php",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "PLN",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Poland",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "php",
-      "elasticsearch",
-      "aws",
-      "kubernetes",
-      "llm",
-      "rabbitmq",
-      "sqs"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-22T18:57:15+00:00",
-    "fetched_at": "2026-10-25T20:01:09.654Z",
-    "raw": {
-      "id": 156456,
-      "url": "https://jobicy.com/jobs/156456-senior-software-engineer-php",
-      "jobSlug": "156456-senior-software-engineer-php",
-      "jobTitle": "Senior Software Engineer (PHP)",
-      "companyName": "NFQ",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/af3b05e4-221.jpeg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Poland",
-      "jobLevel": "Senior",
-      "jobExcerpt": "NFQ is a core technology partner for HomeToGo – a dedicated team of software engineers and data science professionals driving innovation to power a marketplace with the world’s largest selection of vacation rentals. We are expanding HomeToGo’s technology teams in Lithuania and Poland and are looking for the brightest talents to join the company. HomeToGo&hellip;",
-      "jobDescription": "<p><a href=\"https://jobicy.com/company/nfq\" target=\"_blank\" rel=\"noopener\">NFQ</a> is a core technology partner for HomeToGo – a dedicated team of software engineers and data science professionals driving innovation to power a marketplace with the world’s largest selection of vacation rentals. We are expanding HomeToGo’s technology teams in Lithuania and Poland and are looking for the brightest talents to join the company.</p>\n<p>HomeToGo is the SaaS-enabled marketplace with the world's largest selection of vacation rentals, listing millions of offers from thousands of trusted partners, including Booking.com, Vrbo and TripAdvisor. From vacation homes, cabins, beach houses, apartments, condos, house boats, castles, farm stays and everything in between, HomeToGo combines price, destination, dates and amenities to find the perfect accommodation for any trip worldwide.</p>\n<p>Founded in 2014, HomeToGo operates localized apps and websites in more than 30 countries across Europe, North America, South America, Australia, and Asia-Pacific. HomeToGo Group includes brands such as Agriturismo.it, AMIVAC, Interhome, Smoobu, Casamundo, EscapadaRural, Kurzurlaub, Tripping.com, Wimdu, and others.</p>\n\n<p>We're looking for a <strong>Senior Software Engineer (PHP)</strong> to join our Checkout team. You will play an essential role in our platform’s success by joining the team responsible for enhancing the checkout process and post booking experience. Your expertise in PHP development will be instrumental in delivering seamless user experiences and optimizing the booking flow for our users.</p>\n<h3>In this role, you will</h3>\n<ul>\n<li>Take end-to-end ownership of features, from refinement to production, including engineering decisions on larger topics</li>\n<li>Design and build entire applications, partnering with architects to ensure the scalability, reliability and usability of our Marketplace products</li>\n<li>Work with business stakeholders to define requirements, plan milestones and iterate on features based on measured performance</li>\n<li>Contribute to technical and architectural standards across the company</li>\n<li>Mentor teammates and take part in hiring</li>\n<li>Work with a broad stack including PHP, SQL databases, Elasticsearch, RabbitMQ, SQS, Kubernetes and AWS</li>\n</ul>\n<h3>What you will bring</h3>\n<ul>\n<li>At least 5 years of professional software engineering experience</li>\n<li>Deep expertise in PHP and Symfony</li>\n<li>Experience building scalable, distributed systems</li>\n<li>Solid knowledge of relational databases</li>\n<li>Experience designing APIs and integrating with third-party systems</li>\n<li>Hands-on experience with LLM-based tools, both as a user and as an engineer building AI-driven solutions</li>\n<li>Comfort working directly with business stakeholders</li>\n<li>Professional working proficiency in English</li>\n<li>A habit of continuous learning and a team-player mindset</li>\n</ul>\n<h3>What we offer</h3>\n<ul>\n<li><strong>Growth and development opportunities. </strong>Build your career with support from an international and experienced team. We offer mentoring, regular feedback through our 360° feedback process, performance evaluations, and opportunities to grow professionally.</li>\n<li><strong>A culture where you can make an impact. </strong>Join a workplace built on trust, empowerment, recognition, and autonomy. We share company goals transparently every quarter and encourage everyone to contribute ideas and take ownership.</li>\n<li><strong>A supportive and international environment. </strong>Become part of a diverse team of 30+ nationalities, where collaboration, knowledge sharing, and mutual support are part of everyday life. We value work-life balance and create an environment where people can thrive.</li>\n<li><strong>A great benefits package. </strong>We offer a competitive salary, health insurance, additional days off, flexible working hours, employee-led workshops, office perks, regular team-building activities and company events.</li>\n</ul>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>\n<p><strong>Salary range:</strong></p>\n<p>131 - 179 PLN/h + VAT <strong>(B2B)</strong></p>\n<p>18 260 - 24 900 PLN gross <strong>(Permanent)</strong></p>\n<p></p>\n<p>If you have any questions, please contact me at <a href=\"mailto:natalia.plasun@nfq.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">natalia.plasun@nfq.com</a> or via <a href=\"https://www.linkedin.com/in/natalia-plasun/\" rel=\"nofollow ugc noopener\" target=\"_blank\">Linkedin</a>.</p>\n<p><strong>Check all our career opportunities </strong><a href=\"https://nfq.com/career\" rel=\"nofollow ugc noopener\" target=\"_blank\"><strong>here</strong></a><strong>.</strong></p>\n<p><strong> </strong></p>",
-      "pubDate": "2026-10-22T18:57:15+00:00",
-      "salaryMin": 18260,
-      "salaryMax": 24900,
-      "salaryCurrency": "PLN",
-      "salaryPeriod": "monthly"
     }
   }
 ]
