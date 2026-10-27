@@ -1,5 +1,208 @@
 [
   {
+    "id": "jobicy:157431",
+    "platform": "jobicy",
+    "external_id": "157431",
+    "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+    "company": "Nebius",
+    "description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D. The role As a Senior Machine Learning Engineer on the Applied AI team at Nebius Token Factory, you will own model and endpoint optimization from model artifacts through production deployment. Your work will span model internals, quantization and model compression, speculative decoding, KV-cache optimization, inference engines, serving architecture, and benchmarking to improve latency, throughput, memory efficiency, GPU utilization, and cost per token while preserving quality and reliability. You will work with kernel and platform engineers to investigate serving problems, compare configurations, and resolve performance and quality regressions. You will evaluate model- and engine-level optimizations together with distributed inference designs, including request routing, scheduling, prefill/decode coordination, and multi-node GPU execution. Your improvements will be validated through reproducible benchmarks and safe production rollouts under real-world workloads. Your responsibilities Own optimization projects for specific model families, customer endpoints, or serving backends. Compare inference engines and recommend serving configurations suited to individual workloads. Diagnose model-quality and performance regressions during production rollouts. Improve LLM and VLM endpoint latency, throughput, memory efficiency, GPU utilization, quality, and cost per token. Deploy, configure, benchmark, and extend engines such as vLLM, SGLang, TensorRT-LLM, Triton Inference Server, and NVIDIA Dynamo. Develop production model-compression workflows covering quantization, quantization-aware training, distillation, low-bit serving, and accuracy recovery. Implement or integrate speculative decoding, draft-model approaches, KV-cache optimization, prefix caching, chunked prefill, continuous batching, and disaggregated prefill/decode serving. For prefill–decode disaggregation (PDD), evaluate KV-cache transfer, worker placement, and capacity balancing to determine which workloads benefit from the architecture. Design and improve LLM request routers and scheduling policies that balance worker utilization, queueing, request characteristics, and KV-cache locality while meeting latency and reliability targets. Scale dense and mixture-of-experts inference across multiple GPU nodes. Select and tune tensor, pipeline, data, and expert parallelism—including wide expert parallelism (WideEP)—with attention to hardware topology, expert load balance, and communication overhead. Build reproducible benchmark harnesses measuring TTFT, TPOT, tokens per second per GPU, p95/p99 latency, GPU memory, reliability, and cost per token. Validate architecture choices under representative traffic and consistent GPU budgets. Collaborate with GPU kernel and platform engineers to trace bottlenecks across model code, kernels, runtime, scheduler, gateway, and cluster layers. Produce design documents, performance reports, rollout plans, and customer-facing technical explanations. Must-haves Strong engineering skills in Python and PyTorch. Hands-on experience deploying or optimizing LLM, VLM, or high-throughput transformer inference. Practical knowledge of at least one modern inference stack, such as vLLM, SGLang, TensorRT-LLM, Triton Inference Server, NVIDIA Dynamo, Ray Serve, KServe, or an equivalent internal system. A strong understanding of transformer inference bottlenecks involving KV cache, attention, memory bandwidth, batching, parallelism, and long-context serving. Ability to quantify trade-offs among latency, throughput, quality, utilization, and cost. Experience designing or optimizing distributed inference system architecture, with hands-on work in one or more areas such as request routing, distributed scheduling, PDD, multi-node inference, or expert parallelism. Strong communication and collaboration skills across research, kernel, infrastructure, product, and customer teams. Nice-to-haves Experience with quantization-aware training, post-training quantization, FP8, INT8, INT4, NVFP4, MXFP4, AWQ, GPTQ, or SmoothQuant. Experience with distillation, speculative decoding, EAGLE, Medusa, multi-token prediction, or related inference acceleration methods. Experience supporting agentic workloads involving tool calling, structured outputs, streaming APIs, high concurrency, and multi-step orchestration. Familiarity with CUDA or Triton; the role does not require kernel engineering to be the candidate’s primary specialization. Contributions to open-source projects such as vLLM, SGLang, TensorRT-LLM, FlashInfer, LMCache, PyTorch, Triton, Ray, or KServe. Implementation experience with cache-aware request routing, PDD, or WideEP, including diagnosing communication bottlenecks and load imbalance. Familiarity with GPU communication libraries and interconnects, such as NCCL, NVLink, InfiniBand, or RoCE. Benefits &amp; Perks: Competitive compensation Career growth and learning opportunities Flexibility and ownership Collaborative and innovative culture Opportunity to work on impactful AI projects International environment and talented teams What's it like to work at Nebius: Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI Equal Opportunity Statement: Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. If you need accommodations during the application process, please let us know.",
+    "url": "https://jobicy.com/jobs/157431-senior-machine-learning-engineer-llm-inference-optimization",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Europe,  Israel",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "nodejs",
+      "pytorch",
+      "llm",
+      "machine-learning",
+      "ray"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-27T15:37:10+00:00",
+    "fetched_at": "2026-10-27T21:29:51.388Z",
+    "raw": {
+      "id": 157431,
+      "url": "https://jobicy.com/jobs/157431-senior-machine-learning-engineer-llm-inference-optimization",
+      "jobSlug": "157431-senior-machine-learning-engineer-llm-inference-optimization",
+      "jobTitle": "Senior Machine Learning Engineer, LLM Inference Optimization",
+      "companyName": "Nebius",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/d90c0566-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Europe,  Israel",
+      "jobLevel": "Senior",
+      "jobExcerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "jobDescription": "<p><strong>About <a href=\"https://jobicy.com/company/nebius\" target=\"_blank\" rel=\"noopener\">Nebius</a>:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p>\n<h3>The role</h3>\n<p>As a Senior Machine Learning Engineer on the Applied AI team at Nebius Token Factory, you will own model and endpoint optimization from model artifacts through production deployment. Your work will span model internals, quantization and model compression, speculative decoding, KV-cache optimization, inference engines, serving architecture, and benchmarking to improve latency, throughput, memory efficiency, GPU utilization, and cost per token while preserving quality and reliability.</p>\n<p>You will work with kernel and platform engineers to investigate serving problems, compare configurations, and resolve performance and quality regressions. You will evaluate model- and engine-level optimizations together with distributed inference designs, including request routing, scheduling, prefill/decode coordination, and multi-node GPU execution. Your improvements will be validated through reproducible benchmarks and safe production rollouts under real-world workloads.</p>\n<h3>Your responsibilities</h3>\n<ul>\n<li>Own optimization projects for specific model families, customer endpoints, or serving backends.</li>\n<li>Compare inference engines and recommend serving configurations suited to individual workloads.</li>\n<li>Diagnose model-quality and performance regressions during production rollouts.</li>\n<li>Improve LLM and VLM endpoint latency, throughput, memory efficiency, GPU utilization, quality, and cost per token.</li>\n<li>Deploy, configure, benchmark, and extend engines such as vLLM, SGLang, TensorRT-LLM, Triton Inference Server, and NVIDIA Dynamo.</li>\n<li>Develop production model-compression workflows covering quantization, quantization-aware training, distillation, low-bit serving, and accuracy recovery.</li>\n<li>Implement or integrate speculative decoding, draft-model approaches, KV-cache optimization, prefix caching, chunked prefill, continuous batching, and disaggregated prefill/decode serving. For prefill–decode disaggregation (PDD), evaluate KV-cache transfer, worker placement, and capacity balancing to determine which workloads benefit from the architecture.</li>\n<li>Design and improve LLM request routers and scheduling policies that balance worker utilization, queueing, request characteristics, and KV-cache locality while meeting latency and reliability targets.</li>\n<li>Scale dense and mixture-of-experts inference across multiple GPU nodes. Select and tune tensor, pipeline, data, and expert parallelism—including wide expert parallelism (WideEP)—with attention to hardware topology, expert load balance, and communication overhead.</li>\n<li>Build reproducible benchmark harnesses measuring TTFT, TPOT, tokens per second per GPU, p95/p99 latency, GPU memory, reliability, and cost per token. Validate architecture choices under representative traffic and consistent GPU budgets.</li>\n<li>Collaborate with GPU kernel and platform engineers to trace bottlenecks across model code, kernels, runtime, scheduler, gateway, and cluster layers.</li>\n<li>Produce design documents, performance reports, rollout plans, and customer-facing technical explanations.</li>\n</ul>\n<h3>Must-haves</h3>\n<ul>\n<li>Strong engineering skills in Python and PyTorch.</li>\n<li>Hands-on experience deploying or optimizing LLM, VLM, or high-throughput transformer inference.</li>\n<li>Practical knowledge of at least one modern inference stack, such as vLLM, SGLang, TensorRT-LLM, Triton Inference Server, NVIDIA Dynamo, Ray Serve, KServe, or an equivalent internal system.</li>\n<li>A strong understanding of transformer inference bottlenecks involving KV cache, attention, memory bandwidth, batching, parallelism, and long-context serving.</li>\n<li>Ability to quantify trade-offs among latency, throughput, quality, utilization, and cost.</li>\n<li>Experience designing or optimizing distributed inference system architecture, with hands-on work in one or more areas such as request routing, distributed scheduling, PDD, multi-node inference, or expert parallelism.</li>\n<li>Strong communication and collaboration skills across research, kernel, infrastructure, product, and customer teams.</li>\n</ul>\n<h3>Nice-to-haves</h3>\n<ul>\n<li>Experience with quantization-aware training, post-training quantization, FP8, INT8, INT4, NVFP4, MXFP4, AWQ, GPTQ, or SmoothQuant.</li>\n<li>Experience with distillation, speculative decoding, EAGLE, Medusa, multi-token prediction, or related inference acceleration methods.</li>\n<li>Experience supporting agentic workloads involving tool calling, structured outputs, streaming APIs, high concurrency, and multi-step orchestration.</li>\n<li>Familiarity with CUDA or Triton; the role does not require kernel engineering to be the candidate’s primary specialization.</li>\n<li>Contributions to open-source projects such as vLLM, SGLang, TensorRT-LLM, FlashInfer, LMCache, PyTorch, Triton, Ray, or KServe.</li>\n<li>Implementation experience with cache-aware request routing, PDD, or WideEP, including diagnosing communication bottlenecks and load imbalance.</li>\n<li>Familiarity with GPU communication libraries and interconnects, such as NCCL, NVLink, InfiniBand, or RoCE.</li>\n</ul>\n<p><strong>Benefits &amp; Perks:</strong></p>\n<ul>\n<li>Competitive compensation</li>\n<li>Career growth and learning opportunities</li>\n<li>Flexibility and ownership</li>\n<li>Collaborative and innovative culture</li>\n<li>Opportunity to work on impactful AI projects</li>\n<li>International environment and talented teams</li>\n</ul>\n<p><strong>What's it like to work at Nebius:</strong></p>\n<p>Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI </p>\n<p><strong>Equal Opportunity Statement:</strong></p>\n<p>Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law.</p>\n<p>Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. </p>\n<p>If you need accommodations during the application process, please let us know.</p>",
+      "pubDate": "2026-10-27T15:37:10+00:00"
+    }
+  },
+  {
+    "id": "jobicy:157425",
+    "platform": "jobicy",
+    "external_id": "157425",
+    "title": "Staff Software Engineer",
+    "company": "Vonage",
+    "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! About Vonage Vonage is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their customers all over the world. As businesses continue to shift to a real-time, customer-centric communications model, we are experiencing a time of impressive growth. Why This Role Matters The RNE (Registration, Numbers and Enablement) group within Vonage's Foundation Engineering department works across four core product domains: Registration, Numbers, Number Intelligence, and Know Your Customer (KYC). As a Staff Engineer, you will be a technical anchor for the team, shaping the architecture of our cloud-native platform and influencing engineering culture across the group. What You Will Do Provide technical leadership and vision for the design and development of highly concurrent, distributed backend systems; Drive and own significant architectural decisions, ensuring scalability, reliability and maintainability across the platform; Lead performance optimisation initiatives and resolve the most complex system-level challenges; Set the standard for testing practices, including Unit, Integration and Smoke tests, enabling fully automated promotion of code to production; Define, evolve and enforce coding standards and engineering best practices across the team; Act as a technical mentor and leader, supporting the growth of engineers at all levels; Collaborate closely with product and engineering leadership to align technical strategy with business goals; Provide out-of-hours support as part of an on-call rota. What You Will Bring Essential: Extensive programming experience in Go (Golang) or deep expertise in JVM technologies (Java/Spring Boot) with a strong commitment to adopting Go; Extensive, proven experience developing and maintaining enterprise-grade systems at scale; Deep expertise in highly concurrent, distributed architectures and systems; Extensive experience leading and owning architectural decisions at team and cross-team level; Prior experience as a Team Lead or Tech Lead, with a track record of mentoring and growing engineering talent; Experience with containerised applications and cloud-native infrastructure; Expert-level performance profiling and optimisation skills; Deep experience with relational and non-relational databases (e.g. PostgreSQL, Redis); Exceptional communication and influencing skills, with the ability to align technical and non-technical stakeholders. Nice to Have: Deep hands-on experience with AWS (SQS, SNS, DynamoDB), Kafka, Kubernetes or Terraform; Experience driving Continuous Delivery practices in cloud environments; General understanding of the telecommunications industry. How you’ll benefit: Medical Insurance (Allianz) Life Insurance (Uniqa) Glasses Reimbursement Kafeteria (My Benefit) Discretionary Time Off (DTO) Volunteer Time (VTO) Ericsson Care Line #LI-YB1 There’s no perfect candidate. You don't need all the preferred qualifications to make a valuable impact on our team. Our employees and customers come from diverse backgrounds, so if you're passionate about what you could achieve at Vonage, we'd love to hear from you. To learn how we process your personal data during the recruitment process, please refer to our Privacy Notice . Who we are: Vonage is a global cloud communications leader. And your talent will further help brands - such as Airbnb, Viber, WhatsApp, and Snapchat - accelerate their digital transformation through our fully programmable-based unified communications, contact center solutions, and communications APIs. Ready to innovate? Then join us today. Note: The purpose of this profile is to provide a general summary of essential responsibilities for the position and is not meant as an exhaustive list. Assignments may differ for individuals within the same role based on business conditions, departmental need or geographic location.",
+    "url": "https://jobicy.com/jobs/157425-staff-software-engineer-12",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Poland",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "go",
+      "java",
+      "spring",
+      "postgresql",
+      "redis",
+      "dynamodb",
+      "aws",
+      "kubernetes",
+      "terraform",
+      "kafka",
+      "sqs"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-27T15:37:00+00:00",
+    "fetched_at": "2026-10-27T21:29:51.389Z",
+    "raw": {
+      "id": 157425,
+      "url": "https://jobicy.com/jobs/157425-staff-software-engineer-12",
+      "jobSlug": "157425-staff-software-engineer-12",
+      "jobTitle": "Staff Software Engineer",
+      "companyName": "Vonage",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/1bac058d-221.jpg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Poland",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Join Vonage and help us innovate cloud communications for businesses worldwide! About Vonage Vonage is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their customers all over the world. As businesses continue to shift&hellip;",
+      "jobDescription": "<h3><strong>Join <a href=\"https://jobicy.com/company/vonage\" target=\"_blank\" rel=\"noopener\">Vonage</a> and help us innovate cloud communications for businesses worldwide!</strong></h3>\n<h3><strong>About Vonage</strong></h3>\n<p>Vonage is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their customers all over the world. As businesses continue to shift to a real-time, customer-centric communications model, we are experiencing a time of impressive growth.</p>\n<h3><strong>Why This Role Matters</strong></h3>\n<p>The RNE (Registration, Numbers and Enablement) group within Vonage's Foundation Engineering department works across four core product domains: Registration, Numbers, Number Intelligence, and Know Your Customer (KYC). As a Staff Engineer, you will be a technical anchor for the team, shaping the architecture of our cloud-native platform and influencing engineering culture across the group.</p>\n<h3><strong>What You Will Do</strong></h3>\n<ul>\n<li>Provide technical leadership and vision for the design and development of highly concurrent, distributed backend systems;</li>\n<li>Drive and own significant architectural decisions, ensuring scalability, reliability and maintainability across the platform;</li>\n<li>Lead performance optimisation initiatives and resolve the most complex system-level challenges;</li>\n<li>Set the standard for testing practices, including Unit, Integration and Smoke tests, enabling fully automated promotion of code to production;</li>\n<li>Define, evolve and enforce coding standards and engineering best practices across the team;</li>\n<li>Act as a technical mentor and leader, supporting the growth of engineers at all levels;</li>\n<li>Collaborate closely with product and engineering leadership to align technical strategy with business goals;</li>\n<li>Provide out-of-hours support as part of an on-call rota.</li>\n</ul>\n<h3><strong>What You Will Bring</strong></h3>\n<p><strong>Essential:</strong></p>\n<ul>\n<li>Extensive programming experience in Go (Golang) or deep expertise in JVM technologies (Java/Spring Boot) with a strong commitment to adopting Go;</li>\n<li>Extensive, proven experience developing and maintaining enterprise-grade systems at scale;</li>\n<li>Deep expertise in highly concurrent, distributed architectures and systems;</li>\n<li>Extensive experience leading and owning architectural decisions at team and cross-team level;</li>\n<li>Prior experience as a Team Lead or Tech Lead, with a track record of mentoring and growing engineering talent;</li>\n<li>Experience with containerised applications and cloud-native infrastructure;</li>\n<li>Expert-level performance profiling and optimisation skills;</li>\n<li>Deep experience with relational and non-relational databases (e.g. PostgreSQL, Redis);</li>\n<li>Exceptional communication and influencing skills, with the ability to align technical and non-technical stakeholders.</li>\n</ul>\n<p><strong>Nice to Have:</strong></p>\n<ul>\n<li>Deep hands-on experience with AWS (SQS, SNS, DynamoDB), Kafka, Kubernetes or Terraform;</li>\n<li>Experience driving Continuous Delivery practices in cloud environments;</li>\n<li>General understanding of the telecommunications industry.</li>\n</ul>\n<h3><strong>How you’ll benefit:</strong></h3>\n<ul>\n<li>Medical Insurance (Allianz)</li>\n<li>Life Insurance (Uniqa)</li>\n<li>Glasses Reimbursement</li>\n<li>Kafeteria (My Benefit)</li>\n<li>Discretionary Time Off (DTO)</li>\n<li>Volunteer Time (VTO)</li>\n<li>Ericsson Care Line</li>\n</ul>\n<p>#LI-YB1</p>\n<p><strong>There’s no perfect candidate.</strong> You don't need all the preferred qualifications to make a valuable impact on our team. Our employees and customers come from diverse backgrounds, so if you're passionate about what you could achieve at Vonage, we'd love to hear from you.</p>\n<p>To learn how we process your personal data during the recruitment process, please refer to our <a href=\"https://www.vonage.com/legal/careers-privacy-notice/\" rel=\"nofollow ugc noopener\" target=\"_blank\"><strong>Privacy Notice</strong></a>. </p>\n<p><strong>Who we are:</strong></p>\n<p>Vonage is a global cloud communications leader. And your talent will further help brands - such as Airbnb, Viber, WhatsApp, and Snapchat - accelerate their digital transformation through our fully programmable-based unified communications, contact center solutions, and communications APIs. Ready to innovate? Then join us today.</p>\n<p>Note: The purpose of this profile is to provide a general summary of essential responsibilities for the position and is not meant as an exhaustive list. Assignments may differ for individuals within the same role based on business conditions, departmental need or geographic location. </p>",
+      "pubDate": "2026-10-27T15:37:00+00:00"
+    }
+  },
+  {
+    "id": "jobicy:157408",
+    "platform": "jobicy",
+    "external_id": "157408",
+    "title": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
+    "company": "Grafana Labs",
+    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at grafana.com and follow us on LinkedIn and X . We’re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do. You may not meet every requirement, and that’s okay. If this role excites you, we’d love you to raise your hand for what could be a truly career-defining opportunity. Senior Engineering Manager, Grafana Frontend The Opportunity: Grafana is an open-source observability product and a platform that teams and plugin developers build on. The Frontend group shapes its user experience (from dashboards and visualisation to navigation, search and sharing) and the foundations that support engineering teams and community contributors across the Grafana ecosystem. As Senior Engineering Manager, you’ll lead the Frontend Platform and Navigation squads, owning their performance, delivery and customer outcomes. Frontend Platform enables teams to build reliable, high-quality experiences; Navigation helps users find and organise resources and move confidently through Grafana. You’ll develop senior engineers, partner with Product and Design, and improve how teams work, including through AI and automation. We use Cloud-first rollout and experimentation to learn quickly, bringing relevant improvements to OSS and Enterprise. AI Notice: We invest heavily in developer productivity. You can use modern AI coding assistants as part of your daily workflow (your choice of tools, within security guidelines), backed by a company-funded usage budget so you can iterate quickly without unnecessary friction. We encourage pragmatic AI-assisted development: faster prototyping, test generation, refactors, documentation, and incident follow-ups—always with strong code review and quality standards. You'll also have access to the latest frontier models from OpenAI, Anthropic, and Google. What You’ll Be Doing: Be accountable for the performance of two distributed engineering squads: set clear expectations, delegate effectively, coach and develop each team member, give timely feedback, address performance gaps and build a culture of trust and accountability. Own hiring and team planning across both squads, aligning team capacity and skills with product priorities and longer-term needs. Lead discovery with your squads: engage directly with customers, community members and internal users, combine their feedback with research and usage evidence, and use those insights to shape roadmaps and priorities. Partner with Product, Design and engineering leaders to set priorities, resolve dependencies and make trade-offs between customer needs, long-term investments and operational demands. Own delivery across both squads from discovery through rollout and measurement: set milestones, surface risks early and intervene when commitments are at risk. Use AI regularly in your management work to synthesise research and feedback, inform roadmap and resourcing decisions, and streamline coordination, reporting and follow-through. Improve how the squads plan, make decisions and deliver. Lead the adoption of AI and automation across engineering and operational workflows, evaluating their impact on delivery speed, quality and time spent on repetitive work. Set engineering direction with senior engineers for the frontend foundations owned by your squads, including developer experience, accessibility, architecture, tooling, reliability and multitenant capabilities. Set engineering direction for navigation, search and resource organisation, including where AI-assisted discovery can help users find what they need. Set and uphold engineering standards for quality, security and operability, including how teams evaluate and validate AI-assisted work. Lead improvements across Grafana and R&amp;D that increase engineering productivity and improve business outcomes. Participate in the engineering management on-call rota, coordinate responses and drive improvements that reduce recurring disruption. Regularly use Grafana’s AI capabilities for observability, incident investigation and management, bringing that experience into product feedback and roadmap decisions. What Makes You a Great Fit Significant experience managing senior engineers, building healthy teams and developing technical leaders. You give clear feedback and address performance gaps directly and fairly. A strong technical foundation in modern web or frontend systems, enabling you to evaluate technical trade-offs and shape architectural and engineering-quality decisions with senior engineers. A track record of turning ambiguous, cross-team problems into clear priorities and measurable results, managing delivery risks and operational demands. Strong product and customer judgement, with the ability to connect engineering investments to user, developer and business outcomes. Clear, concise written communication and the ability to work effectively in a remote, globally distributed organisation. An appreciation for open-source development and the judgement to balance Cloud-first delivery with the needs of customers, community members and internal teams. Practical experience using AI and automation in your own leadership work, and leading teams to adopt them effectively. Bonus Points For Experience with React, TypeScript or comparable large-scale frontend ecosystems. Experience leading a developer platform team, including support for plugins or extensions. Experience with navigation, search, information architecture or resource-management products. Experience delivering multitenant SaaS or major platform migrations. Experience working on a widely adopted open-source product. Compensation &amp; Rewards: In Germany, the Base compensation range for this role is EUR 124,571 - EUR 149,485. Actual compensation may vary based on level, experience, and skillset as assessed in the interview process. All of our roles include Restricted Stock Units (RSUs), giving every team member ownership in Grafana Labs' success. We believe in shared outcomes—RSUs help us stay aligned and invested as we scale globally. *Compensation ranges are country specific. If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market’s defined pay range &amp; benefits at the beginning of the process. Why You’ll Thrive at Grafana Labs: 100% Remote, Global Culture - As a remote-only company, we bring together talent from around the world, united by a culture of collaboration and shared purpose. Scaling Organization – Tackle meaningful work in a high-growth, ever-evolving environment. Transparent Communication – Expect open decision-making and regular company-wide updates. Innovation-Driven – Autonomy and support to ship great work and try new things. Open Source Roots – Built on community-driven values that shape how we work. Empowered Teams – High trust, low ego culture that values outcomes over optics. Career Growth Pathways – Defined opportunities to grow and develop your career. Approachable Leadership – Transparent execs who are involved, visible, and human. Passionate People – Join a team of smart, supportive folks who care deeply about what they do. In-Person onboarding - We want you to thrive from day 1 with your fellow new ‘Grafanistas’ to learn all about what we do and how we do it. Balance is Key - We operate a global annual leave policy of 30 days per annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown Days to allow the team to really disconnect. *We will comply with local legislation where applicable. Equal Opportunity Employer: Grafana Labs is an equal opportunities employer. We welcome applications from everyone regardless of race, colour, nationality, origin, caste, sex, gender reassignment identity or expression, sexual orientation, age, religion or belief, disability, veteran status, genetic information, pregnancy, maternity, marital, family or carer status, or any other characteristic which is protected by local law. We believe that equality and diversity build a strong organisation, and we work hard to ensure that is the foundation of our organisation as we grow. Grafana Labs may utilize AI tools in its recruitment process to assist in matching information provided in CVs to job postings. The recruitment team will continue to review inbound CVs manually to identify alignment with current openings. #LI-Remote For information about how your personal data is used once you’ve applied to a job, check out our privacy policy .",
+    "url": "https://jobicy.com/jobs/157408-senior-engineering-manager-grafana-frontend-germany-remote",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Germany",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript",
+      "react",
+      "grafana",
+      "llm"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-27T14:08:14+00:00",
+    "fetched_at": "2026-10-27T21:29:51.391Z",
+    "raw": {
+      "id": 157408,
+      "url": "https://jobicy.com/jobs/157408-senior-engineering-manager-grafana-frontend-germany-remote",
+      "jobSlug": "157408-senior-engineering-manager-grafana-frontend-germany-remote",
+      "jobTitle": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
+      "companyName": "Grafana Labs",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/11/42a3c42246467ec231dd876e92b63452.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Germany",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+      "jobDescription": "<p><a href=\"https://jobicy.com/company/grafana-labs\" target=\"_blank\" rel=\"noopener\">Grafana Labs</a> is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at <u><a href=\"http://grafana.com\" rel=\"nofollow ugc noopener\" target=\"_blank\">grafana.com</a></u> and follow us on <u><a href=\"https://www.linkedin.com/company/grafana-labs/\" rel=\"nofollow ugc noopener\" target=\"_blank\">LinkedIn</a></u> and <u><a href=\"https://twitter.com/grafana\" rel=\"nofollow ugc noopener\" target=\"_blank\">X</a></u><u>.</u></p>\n<p>We’re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.</p>\n<p>You may not meet every requirement, and that’s okay. If this role excites you, we’d love you to raise your hand for what could be a truly career-defining opportunity.</p>\n<h3><strong>Senior Engineering Manager, Grafana Frontend </strong></h3>\n<h3><strong>The Opportunity: </strong></h3>\n<p>Grafana is an open-source observability product and a platform that teams and plugin developers build on. The Frontend group shapes its user experience (from dashboards and visualisation to navigation, search and sharing) and the foundations that support engineering teams and community contributors across the Grafana ecosystem.</p>\n<p>As Senior Engineering Manager, you’ll lead the Frontend Platform and Navigation squads, owning their performance, delivery and customer outcomes. Frontend Platform enables teams to build reliable, high-quality experiences; Navigation helps users find and organise resources and move confidently through Grafana.</p>\n<p>You’ll develop senior engineers, partner with Product and Design, and improve how teams work, including through AI and automation. We use Cloud-first rollout and experimentation to learn quickly, bringing relevant improvements to OSS and Enterprise.</p>\n<p>AI Notice: We invest heavily in developer productivity. You can use modern AI coding assistants as part of your daily workflow (your choice of tools, within security guidelines), backed by a company-funded usage budget so you can iterate quickly without unnecessary friction. We encourage pragmatic AI-assisted development: faster prototyping, test generation, refactors, documentation, and incident follow-ups—always with strong code review and quality standards. You'll also have access to the latest frontier models from OpenAI, Anthropic, and Google.</p>\n<p><strong>What You’ll Be Doing:</strong></p>\n<ul>\n<li>Be accountable for the performance of <strong>two</strong> distributed engineering squads: set clear expectations, delegate effectively, coach and develop each team member, give timely feedback, address performance gaps and build a culture of trust and accountability.</li>\n<li>Own hiring and team planning across both squads, aligning team capacity and skills with product priorities and longer-term needs.</li>\n<li>Lead discovery with your squads: engage directly with customers, community members and internal users, combine their feedback with research and usage evidence, and use those insights to shape roadmaps and priorities.</li>\n<li>Partner with Product, Design and engineering leaders to set priorities, resolve dependencies and make trade-offs between customer needs, long-term investments and operational demands.</li>\n<li>Own delivery across both squads from discovery through rollout and measurement: set milestones, surface risks early and intervene when commitments are at risk.</li>\n<li>Use AI regularly in your management work to synthesise research and feedback, inform roadmap and resourcing decisions, and streamline coordination, reporting and follow-through.</li>\n<li>Improve how the squads plan, make decisions and deliver. Lead the adoption of AI and automation across engineering and operational workflows, evaluating their impact on delivery speed, quality and time spent on repetitive work.</li>\n<li>Set engineering direction with senior engineers for the frontend foundations owned by your squads, including developer experience, accessibility, architecture, tooling, reliability and multitenant capabilities.</li>\n<li>Set engineering direction for navigation, search and resource organisation, including where AI-assisted discovery can help users find what they need.</li>\n<li>Set and uphold engineering standards for quality, security and operability, including how teams evaluate and validate AI-assisted work.</li>\n<li>Lead improvements across Grafana and R&amp;D that increase engineering productivity and improve business outcomes.</li>\n<li>Participate in the engineering management on-call rota, coordinate responses and drive improvements that reduce recurring disruption. Regularly use Grafana’s AI capabilities for observability, incident investigation and management, bringing that experience into product feedback and roadmap decisions.</li>\n</ul>\n<p><strong>What Makes You a Great Fit</strong></p>\n<ul>\n<li>Significant experience managing senior engineers, building healthy teams and developing technical leaders. You give clear feedback and address performance gaps directly and fairly.</li>\n<li>A strong technical foundation in modern web or frontend systems, enabling you to evaluate technical trade-offs and shape architectural and engineering-quality decisions with senior engineers.</li>\n<li>A track record of turning ambiguous, cross-team problems into clear priorities and measurable results, managing delivery risks and operational demands.</li>\n<li>Strong product and customer judgement, with the ability to connect engineering investments to user, developer and business outcomes.</li>\n<li>Clear, concise written communication and the ability to work effectively in a remote, globally distributed organisation.</li>\n<li>An appreciation for open-source development and the judgement to balance Cloud-first delivery with the needs of customers, community members and internal teams.</li>\n<li>Practical experience using AI and automation in your own leadership work, and leading teams to adopt them effectively. </li>\n</ul>\n<h3><strong>Bonus Points For</strong></h3>\n<ul>\n<li>Experience with React, TypeScript or comparable large-scale frontend ecosystems.</li>\n<li>Experience leading a developer platform team, including support for plugins or extensions.</li>\n<li>Experience with navigation, search, information architecture or resource-management products.</li>\n<li>Experience delivering multitenant SaaS or major platform migrations.</li>\n<li>Experience working on a widely adopted open-source product.</li>\n</ul>\n<p><strong>Compensation &amp; Rewards:</strong></p>\n<p>In Germany, the Base compensation range for this role is EUR 124,571 - EUR 149,485. Actual compensation may vary based on level, experience, and skillset as assessed in the interview process. </p>\n<p>All of our roles include Restricted Stock Units (RSUs), giving every team member ownership in Grafana Labs' success. We believe in shared outcomes—RSUs help us stay aligned and invested as we scale globally.</p>\n<p><em>*Compensation ranges are country specific. If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market’s defined pay range &amp; benefits at the beginning of the process.</em></p>\n<p><strong>Why You’ll Thrive at Grafana Labs:</strong></p>\n<ul>\n<li><strong>100% Remote, Global Culture - </strong>As a remote-only company, we bring together talent from around the world, united by a culture of collaboration and shared purpose.</li>\n<li><strong>Scaling Organization</strong> – Tackle meaningful work in a high-growth, ever-evolving environment.</li>\n<li><strong>Transparent Communication</strong> – Expect open decision-making and regular company-wide updates.</li>\n<li><strong>Innovation-Driven</strong> – Autonomy and support to ship great work and try new things.</li>\n<li><strong>Open Source Roots</strong> – Built on community-driven values that shape how we work.</li>\n<li><strong>Empowered Teams</strong> – High trust, low ego culture that values outcomes over optics.</li>\n<li><strong>Career Growth Pathways</strong> – Defined opportunities to grow and develop your career.</li>\n<li><strong>Approachable Leadership</strong> – Transparent execs who are involved, visible, and human.</li>\n<li><strong>Passionate People</strong> – Join a team of smart, supportive folks who care deeply about what they do.</li>\n<li><strong>In-Person onboarding </strong>- We want you to thrive from day 1 with your fellow new ‘Grafanistas’ to learn all about what we do and how we do it. </li>\n<li><strong>Balance is Key</strong> - We operate a global annual leave policy of 30 days per annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown Days to allow the team to really disconnect. <em>*We will comply with local legislation where applicable.</em></li>\n</ul>\n<p><strong>Equal Opportunity Employer:</strong> <em>Grafana Labs is an equal opportunities employer. We welcome applications from everyone regardless of race, colour, nationality, origin, caste, sex, gender reassignment identity or expression, sexual orientation, age, religion or belief, disability, veteran status, genetic information, pregnancy, maternity, marital, family or carer status, or any other characteristic which is protected by local law. We believe that equality and diversity build a strong organisation, and we work hard to ensure that is the foundation of our organisation as we grow.</em></p>\n<p><em>Grafana Labs may utilize AI tools in its recruitment process to assist in matching information provided in CVs to job postings. The recruitment team will continue to review inbound CVs manually to identify alignment with current openings.</em></p>\n<p>#LI-Remote</p>\n<p><em>For information about how your personal data is used once you’ve applied to a job, check out our <a href=\"https://grafana.com/legal/applicant-and-candidate-privacy-policy/\" rel=\"nofollow ugc noopener\" target=\"_blank\">privacy policy</a>. </em></p>",
+      "pubDate": "2026-10-27T14:08:14+00:00",
+      "salaryMin": 124571,
+      "salaryMax": 149485,
+      "salaryCurrency": "EUR",
+      "salaryPeriod": "yearly"
+    }
+  },
+  {
+    "id": "jobicy:157405",
+    "platform": "jobicy",
+    "external_id": "157405",
+    "title": "Engineering Manager - Ubuntu Core",
+    "company": "Canonical",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring technical engineering manager to redefine the embedded Linux experience with the smallest, most secure, and most reliable operating system in the IoT market. This is an opportunity for a technical leader passionate about open source software, Linux, containers, security, and the developer experience, to shape the future of Linux from the smallest systems up to desktops. This challenging role demands a high degree of technical skill as well as high caliber for inspiring and driving people. Our mission is to allow everyone to build robust solutions in various fields including but not limited to IoT, automotive, and aviation using the next generation secure embedded Linux operating system in a simple solution. We define a reliable and secure set of device recovery mechanisms that enable device manufacturers to simplify and standardize the field operations for fleets of heterogeneous appliances. As an engineering manager, you’ll lead a team of strong software developers to design and implement Ubuntu Core system software on various CPU architectures, such as ARM, RISC-V, and X86. You will meet stakeholders, prioritize requests, plan the roadmap and ensure the team can deliver their goals. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution. The role entails Building and leading a distributed team of engineers through hiring, coaching, mentoring, feedback and career development Demonstrating sound engineering principles by directly contributing toward your team’s goals Coaching and mentoring team members with hands-on career development Effectively setting and managing expectations with other engineering teams, senior management, and external stakeholders Advocating and advancing modern, agile software development practices and helping develop and evangelize great engineering and organizational practices Contributing to a healthy, collaborative engineering culture in line with the company values Actively participating in the leadership team and collaborating with other leaders in the organisation What we are looking for in you Demonstrated competencies in embedded software development Strong skills in Golang, C++ and Shell A solid understanding of Linux and a modern GNU/Linux distribution, Debian or Ubuntu preferred Love for developing and growing people and have a track record of doing it Demonstrated ability of planning and executing to deliver high quality software in a timely manner Solid experience working in an agile development environment Exceptional academic track record from both high school and university Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path Professional written and spoken English with excellent presentation skills Nice-to-have skills Familiarity with an immutable Linux distribution, preferably Ubuntu Core Experience with multiple CPU architectures such as ARM, RISC-V Experience with Linux native containerization and security What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program &amp; Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-REMOTE",
+    "url": "https://jobicy.com/jobs/157405-engineering-manager-ubuntu-core",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "go",
+      "linux"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-10-27T14:08:09+00:00",
+    "fetched_at": "2026-10-27T21:29:51.392Z",
+    "raw": {
+      "id": 157405,
+      "url": "https://jobicy.com/jobs/157405-engineering-manager-ubuntu-core",
+      "jobSlug": "157405-engineering-manager-ubuntu-core",
+      "jobTitle": "Engineering Manager - Ubuntu Core",
+      "companyName": "Canonical",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "EMEA,  LATAM,  Canada,  USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "jobDescription": "<p><a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>\n<p>The company is founder-led, profitable, and growing.</p>\n<p>We are hiring technical engineering manager to redefine the embedded Linux experience with the smallest, most secure, and most reliable operating system in the IoT market.</p>\n<p>This is an opportunity for a technical leader passionate about open source software, Linux, containers, security, and the developer experience, to shape the future of Linux from the smallest systems up to desktops. This challenging role demands a high degree of technical skill as well as high caliber for inspiring and driving people.</p>\n<p>Our mission is to allow everyone to build robust solutions in various fields including but not limited to IoT, automotive, and aviation using the next generation secure embedded Linux operating system in a simple solution. We define a reliable and secure set of device recovery mechanisms that enable device manufacturers to simplify and standardize the field operations for fleets of heterogeneous appliances.</p>\n<p>As an engineering manager, you’ll lead a team of strong software developers to design and implement Ubuntu Core system software on various CPU architectures, such as ARM, RISC-V, and X86. You will meet stakeholders, prioritize requests, plan the roadmap and ensure the team can deliver their goals. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>\n<h3>The role entails</h3>\n<ul>\n<li>Building and leading a distributed team of engineers through hiring, coaching, mentoring, feedback and career development</li>\n<li>Demonstrating sound engineering principles by directly contributing toward your team’s goals</li>\n<li>Coaching and mentoring team members with hands-on career development</li>\n<li>Effectively setting and managing expectations with other engineering teams, senior management, and external stakeholders</li>\n<li>Advocating and advancing modern, agile software development practices and helping develop and evangelize great engineering and organizational practices</li>\n<li>Contributing to a healthy, collaborative engineering culture in line with the company values</li>\n<li>Actively participating in the leadership team and collaborating with other leaders in the organisation</li>\n</ul>\n<h3><strong>What we are looking for in you</strong></h3>\n<ul>\n<li>Demonstrated competencies in embedded software development</li>\n<li>Strong skills in Golang, C++ and Shell</li>\n<li>A solid understanding of Linux and a modern GNU/Linux distribution, Debian or Ubuntu preferred</li>\n<li>Love for developing and growing people and have a track record of doing it</li>\n<li>Demonstrated ability of planning and executing to deliver high quality software in a timely manner</li>\n<li>Solid experience working in an agile development environment</li>\n<li>Exceptional academic track record from both high school and university</li>\n<li>Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path</li>\n<li>Professional written and spoken English with excellent presentation skills</li>\n</ul>\n<h3>Nice-to-have skills</h3>\n<ul>\n<li>Familiarity with an immutable Linux distribution, preferably Ubuntu Core</li>\n<li>Experience with multiple CPU architectures such as ARM, RISC-V</li>\n<li>Experience with Linux native containerization and security</li>\n</ul>\n<h3><strong>What we offer colleagues</strong></h3>\n<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>\n<ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Team Member Assistance Program &amp; Wellness Platform</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass and travel upgrades for long-haul company events</li>\n</ul>\n<h3><strong>About Canonical</strong></h3>\n<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>\n<h3><strong>Canonical is an equal opportunity employer</strong></h3>\n<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Whatever your identity, we will give your application fair consideration.</a></p>\n<p>#LI-REMOTE</p>",
+      "pubDate": "2026-10-27T14:08:09+00:00"
+    }
+  },
+  {
     "id": "jobicy:157389",
     "platform": "jobicy",
     "external_id": "157389",
@@ -23,7 +226,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-27T13:32:18+00:00",
-    "fetched_at": "2026-10-27T16:53:18.808Z",
+    "fetched_at": "2026-10-27T21:29:51.393Z",
     "raw": {
       "id": 157389,
       "url": "https://jobicy.com/jobs/157389-senior-contract-c-javascript-software-engineer-browser-engine",
@@ -74,7 +277,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T13:31:48+00:00",
-    "fetched_at": "2026-10-27T16:53:18.810Z",
+    "fetched_at": "2026-10-27T21:29:51.395Z",
     "raw": {
       "id": 157382,
       "url": "https://jobicy.com/jobs/157382-software-development-manager-2",
@@ -128,7 +331,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T13:31:42+00:00",
-    "fetched_at": "2026-10-27T16:53:18.811Z",
+    "fetched_at": "2026-10-27T21:29:51.396Z",
     "raw": {
       "id": 157378,
       "url": "https://jobicy.com/jobs/157378-engineering-manager-14",
@@ -173,7 +376,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T13:31:20+00:00",
-    "fetched_at": "2026-10-27T16:53:18.811Z",
+    "fetched_at": "2026-10-27T21:29:51.396Z",
     "raw": {
       "id": 157376,
       "url": "https://jobicy.com/jobs/157376-contract-staff-software-engineer-webcompat-bug-triage",
@@ -220,7 +423,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T09:59:32+00:00",
-    "fetched_at": "2026-10-27T16:53:18.812Z",
+    "fetched_at": "2026-10-27T21:29:51.397Z",
     "raw": {
       "id": 157343,
       "url": "https://jobicy.com/jobs/157343-gtm-ai-engineer",
@@ -269,7 +472,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T09:59:23+00:00",
-    "fetched_at": "2026-10-27T16:53:18.813Z",
+    "fetched_at": "2026-10-27T21:29:51.399Z",
     "raw": {
       "id": 157337,
       "url": "https://jobicy.com/jobs/157337-engineering-manager-13",
@@ -320,7 +523,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T09:49:19+00:00",
-    "fetched_at": "2026-10-27T16:53:18.814Z",
+    "fetched_at": "2026-10-27T21:29:51.401Z",
     "raw": {
       "id": 157314,
       "url": "https://jobicy.com/jobs/157314-field-integration-engineer",
@@ -369,7 +572,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T05:21:41+00:00",
-    "fetched_at": "2026-10-27T16:53:18.816Z",
+    "fetched_at": "2026-10-27T21:29:51.402Z",
     "raw": {
       "id": 157288,
       "url": "https://jobicy.com/jobs/157288-vp-of-engineering-2",
@@ -420,7 +623,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T05:21:40+00:00",
-    "fetched_at": "2026-10-27T16:53:18.816Z",
+    "fetched_at": "2026-10-27T21:29:51.403Z",
     "raw": {
       "id": 157283,
       "url": "https://jobicy.com/jobs/157283-system-architect",
@@ -472,7 +675,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T04:13:51+00:00",
-    "fetched_at": "2026-10-27T16:53:18.818Z",
+    "fetched_at": "2026-10-27T21:29:51.404Z",
     "raw": {
       "id": 157273,
       "url": "https://jobicy.com/jobs/157273-staff-software-engineer-11",
@@ -519,7 +722,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T03:35:07+00:00",
-    "fetched_at": "2026-10-27T16:53:18.819Z",
+    "fetched_at": "2026-10-27T21:29:51.406Z",
     "raw": {
       "id": 151770,
       "url": "https://jobicy.com/jobs/151770-chatgpt-performance-engineer",
@@ -577,7 +780,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T03:29:35+00:00",
-    "fetched_at": "2026-10-27T16:53:18.820Z",
+    "fetched_at": "2026-10-27T21:29:51.407Z",
     "raw": {
       "id": 151779,
       "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
@@ -627,7 +830,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T03:29:26+00:00",
-    "fetched_at": "2026-10-27T16:53:18.821Z",
+    "fetched_at": "2026-10-27T21:29:51.408Z",
     "raw": {
       "id": 151706,
       "url": "https://jobicy.com/jobs/151706-staff-backend-engineer",
@@ -680,7 +883,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T03:29:12+00:00",
-    "fetched_at": "2026-10-27T16:53:18.822Z",
+    "fetched_at": "2026-10-27T21:29:51.409Z",
     "raw": {
       "id": 151707,
       "url": "https://jobicy.com/jobs/151707-senior-software-engineer-growth",
@@ -728,7 +931,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T03:25:14+00:00",
-    "fetched_at": "2026-10-27T16:53:18.823Z",
+    "fetched_at": "2026-10-27T21:29:51.411Z",
     "raw": {
       "id": 151671,
       "url": "https://jobicy.com/jobs/151671-software-engineer-agent",
@@ -780,7 +983,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T03:25:09+00:00",
-    "fetched_at": "2026-10-27T16:53:18.825Z",
+    "fetched_at": "2026-10-27T21:29:51.412Z",
     "raw": {
       "id": 149690,
       "url": "https://jobicy.com/jobs/149690-senior-software-engineer-storage-remote-in-the-us",
@@ -823,7 +1026,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-27T03:25:06+00:00",
-    "fetched_at": "2026-10-27T16:53:18.826Z",
+    "fetched_at": "2026-10-27T21:29:51.413Z",
     "raw": {
       "id": 147559,
       "url": "https://jobicy.com/jobs/147559-manufacturing-quality-engineer",
@@ -888,7 +1091,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T16:46:54+00:00",
-    "fetched_at": "2026-10-27T16:53:18.828Z",
+    "fetched_at": "2026-10-27T21:29:51.415Z",
     "raw": {
       "id": 157270,
       "url": "https://jobicy.com/jobs/157270-senior-data-engineer-datacraft-team",
@@ -935,7 +1138,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T16:40:43+00:00",
-    "fetched_at": "2026-10-27T16:53:18.829Z",
+    "fetched_at": "2026-10-27T21:29:51.416Z",
     "raw": {
       "id": 157242,
       "url": "https://jobicy.com/jobs/157242-senior-software-developer-3",
@@ -987,7 +1190,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T16:38:52+00:00",
-    "fetched_at": "2026-10-27T16:53:18.831Z",
+    "fetched_at": "2026-10-27T21:29:51.418Z",
     "raw": {
       "id": 157231,
       "url": "https://jobicy.com/jobs/157231-staff-software-engineer-android",
@@ -1033,7 +1236,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T16:38:50+00:00",
-    "fetched_at": "2026-10-27T16:53:18.833Z",
+    "fetched_at": "2026-10-27T21:29:51.420Z",
     "raw": {
       "id": 157235,
       "url": "https://jobicy.com/jobs/157235-manager-software-engineering-developer-experience",
@@ -1088,7 +1291,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T13:23:06+00:00",
-    "fetched_at": "2026-10-27T16:53:18.834Z",
+    "fetched_at": "2026-10-27T21:29:51.421Z",
     "raw": {
       "id": 157203,
       "url": "https://jobicy.com/jobs/157203-principal-software-engineer-ai-2",
@@ -1145,7 +1348,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T13:22:26+00:00",
-    "fetched_at": "2026-10-27T16:53:18.836Z",
+    "fetched_at": "2026-10-27T21:29:51.423Z",
     "raw": {
       "id": 157191,
       "url": "https://jobicy.com/jobs/157191-backend-engineer-knowledge-graph-rust",
@@ -1197,7 +1400,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T13:21:16+00:00",
-    "fetched_at": "2026-10-27T16:53:18.838Z",
+    "fetched_at": "2026-10-27T21:29:51.426Z",
     "raw": {
       "id": 157183,
       "url": "https://jobicy.com/jobs/157183-vice-president-engineering",
@@ -1254,7 +1457,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T13:21:15+00:00",
-    "fetched_at": "2026-10-27T16:53:18.839Z",
+    "fetched_at": "2026-10-27T21:29:51.427Z",
     "raw": {
       "id": 157182,
       "url": "https://jobicy.com/jobs/157182-senior-software-engineer-ii-applied-ai",
@@ -1307,7 +1510,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T10:54:39+00:00",
-    "fetched_at": "2026-10-27T16:53:18.840Z",
+    "fetched_at": "2026-10-27T21:29:51.427Z",
     "raw": {
       "id": 157144,
       "url": "https://jobicy.com/jobs/157144-backend-engineer-java-web-3-wallet",
@@ -1354,7 +1557,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T10:51:46+00:00",
-    "fetched_at": "2026-10-27T16:53:18.841Z",
+    "fetched_at": "2026-10-27T21:29:51.429Z",
     "raw": {
       "id": 157121,
       "url": "https://jobicy.com/jobs/157121-senior-software-engineer-verification-platform-2",
@@ -1406,7 +1609,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T10:35:55+00:00",
-    "fetched_at": "2026-10-27T16:53:18.843Z",
+    "fetched_at": "2026-10-27T21:29:51.430Z",
     "raw": {
       "id": 157109,
       "url": "https://jobicy.com/jobs/157109-senior-software-engineer-product",
@@ -1461,7 +1664,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T10:35:54+00:00",
-    "fetched_at": "2026-10-27T16:53:18.845Z",
+    "fetched_at": "2026-10-27T21:29:51.431Z",
     "raw": {
       "id": 157108,
       "url": "https://jobicy.com/jobs/157108-machine-learning-engineer-new-grad-quora",
@@ -1512,7 +1715,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T10:35:51+00:00",
-    "fetched_at": "2026-10-27T16:53:18.846Z",
+    "fetched_at": "2026-10-27T21:29:51.433Z",
     "raw": {
       "id": 157105,
       "url": "https://jobicy.com/jobs/157105-full-stack-software-engineer-new-grad-quora",
@@ -1564,7 +1767,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T10:35:50+00:00",
-    "fetched_at": "2026-10-27T16:53:18.847Z",
+    "fetched_at": "2026-10-27T21:29:51.434Z",
     "raw": {
       "id": 157106,
       "url": "https://jobicy.com/jobs/157106-senior-backend-engineer-13",
@@ -1618,7 +1821,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T07:23:33+00:00",
-    "fetched_at": "2026-10-27T16:53:18.848Z",
+    "fetched_at": "2026-10-27T21:29:51.435Z",
     "raw": {
       "id": 157086,
       "url": "https://jobicy.com/jobs/157086-frontend-engineer-ads",
@@ -1678,7 +1881,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T05:01:55+00:00",
-    "fetched_at": "2026-10-27T16:53:18.849Z",
+    "fetched_at": "2026-10-27T21:29:51.436Z",
     "raw": {
       "id": 157048,
       "url": "https://jobicy.com/jobs/157048-safety-engineer-backend-leaning",
@@ -1723,7 +1926,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T05:01:54+00:00",
-    "fetched_at": "2026-10-27T16:53:18.850Z",
+    "fetched_at": "2026-10-27T21:29:51.437Z",
     "raw": {
       "id": 157045,
       "url": "https://jobicy.com/jobs/157045-systems-architect-apac",
@@ -1768,7 +1971,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:54:25+00:00",
-    "fetched_at": "2026-10-27T16:53:18.852Z",
+    "fetched_at": "2026-10-27T21:29:51.439Z",
     "raw": {
       "id": 157039,
       "url": "https://jobicy.com/jobs/157039-engineering-manager-notifications-platform",
@@ -1820,7 +2023,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:54:23+00:00",
-    "fetched_at": "2026-10-27T16:53:18.853Z",
+    "fetched_at": "2026-10-27T21:29:51.440Z",
     "raw": {
       "id": 157033,
       "url": "https://jobicy.com/jobs/157033-engineering-manager-notifications-2",
@@ -1871,7 +2074,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:20:19+00:00",
-    "fetched_at": "2026-10-27T16:53:18.854Z",
+    "fetched_at": "2026-10-27T21:29:51.441Z",
     "raw": {
       "id": 154087,
       "url": "https://jobicy.com/jobs/154087-orioledb-developer-amer",
@@ -1919,7 +2122,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:20:18+00:00",
-    "fetched_at": "2026-10-27T16:53:18.855Z",
+    "fetched_at": "2026-10-27T21:29:51.442Z",
     "raw": {
       "id": 154084,
       "url": "https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk",
@@ -1973,7 +2176,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:20:05+00:00",
-    "fetched_at": "2026-10-27T16:53:18.856Z",
+    "fetched_at": "2026-10-27T21:29:51.444Z",
     "raw": {
       "id": 154068,
       "url": "https://jobicy.com/jobs/154068-staff-software-engineer-7",
@@ -2018,7 +2221,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:15:32+00:00",
-    "fetched_at": "2026-10-27T16:53:18.858Z",
+    "fetched_at": "2026-10-27T21:29:51.447Z",
     "raw": {
       "id": 151633,
       "url": "https://jobicy.com/jobs/151633-engineering-manager-canada",
@@ -2077,7 +2280,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:15:22+00:00",
-    "fetched_at": "2026-10-27T16:53:18.859Z",
+    "fetched_at": "2026-10-27T21:29:51.448Z",
     "raw": {
       "id": 154082,
       "url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
@@ -2122,7 +2325,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:15:15+00:00",
-    "fetched_at": "2026-10-27T16:53:18.861Z",
+    "fetched_at": "2026-10-27T21:29:51.449Z",
     "raw": {
       "id": 151629,
       "url": "https://jobicy.com/jobs/151629-engineering-manager-rc-capital",
@@ -2177,7 +2380,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:15:14+00:00",
-    "fetched_at": "2026-10-27T16:53:18.863Z",
+    "fetched_at": "2026-10-27T21:29:51.452Z",
     "raw": {
       "id": 151620,
       "url": "https://jobicy.com/jobs/151620-engineering-manager-uk",
@@ -2226,7 +2429,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:15:08+00:00",
-    "fetched_at": "2026-10-27T16:53:18.864Z",
+    "fetched_at": "2026-10-27T21:29:51.453Z",
     "raw": {
       "id": 151571,
       "url": "https://jobicy.com/jobs/151571-staff-ml-systems-engineer",
@@ -2280,7 +2483,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:15:07+00:00",
-    "fetched_at": "2026-10-27T16:53:18.865Z",
+    "fetched_at": "2026-10-27T21:29:51.454Z",
     "raw": {
       "id": 151574,
       "url": "https://jobicy.com/jobs/151574-software-engineer-ai-native-cad-integrations",
@@ -2337,7 +2540,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:07:12+00:00",
-    "fetched_at": "2026-10-27T16:53:18.866Z",
+    "fetched_at": "2026-10-27T21:29:51.455Z",
     "raw": {
       "id": 151601,
       "url": "https://jobicy.com/jobs/151601-software-engineer-all-levels",
@@ -2386,7 +2589,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:07:09+00:00",
-    "fetched_at": "2026-10-27T16:53:18.869Z",
+    "fetched_at": "2026-10-27T21:29:51.458Z",
     "raw": {
       "id": 151638,
       "url": "https://jobicy.com/jobs/151638-engineering-manager-americas",
@@ -2436,7 +2639,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:07:07+00:00",
-    "fetched_at": "2026-10-27T16:53:18.869Z",
+    "fetched_at": "2026-10-27T21:29:51.459Z",
     "raw": {
       "id": 151566,
       "url": "https://jobicy.com/jobs/151566-senior-ml-engineer",
@@ -2487,7 +2690,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-26T04:06:58+00:00",
-    "fetched_at": "2026-10-27T16:53:18.871Z",
+    "fetched_at": "2026-10-27T21:29:51.460Z",
     "raw": {
       "id": 149665,
       "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager",
@@ -2552,7 +2755,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T17:44:52+00:00",
-    "fetched_at": "2026-10-27T16:53:18.872Z",
+    "fetched_at": "2026-10-27T21:29:51.462Z",
     "raw": {
       "id": 157008,
       "url": "https://jobicy.com/jobs/157008-senior-software-engineer-17",
@@ -2600,7 +2803,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T11:15:20+00:00",
-    "fetched_at": "2026-10-27T16:53:18.873Z",
+    "fetched_at": "2026-10-27T21:29:51.463Z",
     "raw": {
       "id": 156997,
       "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
@@ -2645,7 +2848,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T11:15:18+00:00",
-    "fetched_at": "2026-10-27T16:53:18.874Z",
+    "fetched_at": "2026-10-27T21:29:51.464Z",
     "raw": {
       "id": 156996,
       "url": "https://jobicy.com/jobs/156996-iot-field-engineer-china-region",
@@ -2703,7 +2906,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:55:12+00:00",
-    "fetched_at": "2026-10-27T16:53:18.876Z",
+    "fetched_at": "2026-10-27T21:29:51.466Z",
     "raw": {
       "id": 156958,
       "url": "https://jobicy.com/jobs/156958-sr-software-engineer-5",
@@ -2755,7 +2958,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:45:08+00:00",
-    "fetched_at": "2026-10-27T16:53:18.876Z",
+    "fetched_at": "2026-10-27T21:29:51.467Z",
     "raw": {
       "id": 156947,
       "url": "https://jobicy.com/jobs/156947-software-engineer-branching",
@@ -2803,7 +3006,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:45:07+00:00",
-    "fetched_at": "2026-10-27T16:53:18.878Z",
+    "fetched_at": "2026-10-27T21:29:51.468Z",
     "raw": {
       "id": 156945,
       "url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3",
@@ -2861,7 +3064,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:45:07+00:00",
-    "fetched_at": "2026-10-27T16:53:18.879Z",
+    "fetched_at": "2026-10-27T21:29:51.469Z",
     "raw": {
       "id": 156940,
       "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
@@ -2909,7 +3112,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:45:06+00:00",
-    "fetched_at": "2026-10-27T16:53:18.879Z",
+    "fetched_at": "2026-10-27T21:29:51.470Z",
     "raw": {
       "id": 156939,
       "url": "https://jobicy.com/jobs/156939-data-api-engineer",
@@ -2960,7 +3163,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:38:03+00:00",
-    "fetched_at": "2026-10-27T16:53:18.881Z",
+    "fetched_at": "2026-10-27T21:29:51.471Z",
     "raw": {
       "id": 156923,
       "url": "https://jobicy.com/jobs/156923-intermediate-fullstack-engineer-ruby-vue-js-growth",
@@ -3016,7 +3219,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T10:38:01+00:00",
-    "fetched_at": "2026-10-27T16:53:18.882Z",
+    "fetched_at": "2026-10-27T21:29:51.473Z",
     "raw": {
       "id": 156926,
       "url": "https://jobicy.com/jobs/156926-intermediate-software-engineer-security-factory-vulnerability-management",
@@ -3069,7 +3272,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T09:11:40+00:00",
-    "fetched_at": "2026-10-27T16:53:18.883Z",
+    "fetched_at": "2026-10-27T21:29:51.474Z",
     "raw": {
       "id": 156897,
       "url": "https://jobicy.com/jobs/156897-staff-software-engineer-10",
@@ -3117,7 +3320,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T08:33:30+00:00",
-    "fetched_at": "2026-10-27T16:53:18.885Z",
+    "fetched_at": "2026-10-27T21:29:51.476Z",
     "raw": {
       "id": 156885,
       "url": "https://jobicy.com/jobs/156885-senior-manager-engineering-identity-access-management",
@@ -3169,7 +3372,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T08:07:27+00:00",
-    "fetched_at": "2026-10-27T16:53:18.886Z",
+    "fetched_at": "2026-10-27T21:29:51.477Z",
     "raw": {
       "id": 156876,
       "url": "https://jobicy.com/jobs/156876-principal-frontend-engineer",
@@ -3231,7 +3434,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T08:07:26+00:00",
-    "fetched_at": "2026-10-27T16:53:18.887Z",
+    "fetched_at": "2026-10-27T21:29:51.478Z",
     "raw": {
       "id": 156869,
       "url": "https://jobicy.com/jobs/156869-senior-software-engineer-internally-deployed-products",
@@ -3288,7 +3491,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:25:07+00:00",
-    "fetched_at": "2026-10-27T16:53:18.888Z",
+    "fetched_at": "2026-10-27T21:29:51.480Z",
     "raw": {
       "id": 154051,
       "url": "https://jobicy.com/jobs/154051-staff-software-engineer-curated-data",
@@ -3336,7 +3539,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:20:17+00:00",
-    "fetched_at": "2026-10-27T16:53:18.889Z",
+    "fetched_at": "2026-10-27T21:29:51.480Z",
     "raw": {
       "id": 154032,
       "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
@@ -3388,7 +3591,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:20:15+00:00",
-    "fetched_at": "2026-10-27T16:53:18.889Z",
+    "fetched_at": "2026-10-27T21:29:51.481Z",
     "raw": {
       "id": 154031,
       "url": "https://jobicy.com/jobs/154031-software-engineer-11",
@@ -3443,7 +3646,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-25T04:20:11+00:00",
-    "fetched_at": "2026-10-27T16:53:18.890Z",
+    "fetched_at": "2026-10-27T21:29:51.482Z",
     "raw": {
       "id": 154027,
       "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
@@ -3495,7 +3698,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-25T04:15:27+00:00",
-    "fetched_at": "2026-10-27T16:53:18.891Z",
+    "fetched_at": "2026-10-27T21:29:51.483Z",
     "raw": {
       "id": 153999,
       "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
@@ -3546,7 +3749,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:15:15+00:00",
-    "fetched_at": "2026-10-27T16:53:18.892Z",
+    "fetched_at": "2026-10-27T21:29:51.484Z",
     "raw": {
       "id": 144336,
       "url": "https://jobicy.com/jobs/144336-staff-security-architect",
@@ -3593,7 +3796,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:15:12+00:00",
-    "fetched_at": "2026-10-27T16:53:18.893Z",
+    "fetched_at": "2026-10-27T21:29:51.485Z",
     "raw": {
       "id": 154022,
       "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
@@ -3638,7 +3841,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:15:09+00:00",
-    "fetched_at": "2026-10-27T16:53:18.895Z",
+    "fetched_at": "2026-10-27T21:29:51.487Z",
     "raw": {
       "id": 149595,
       "url": "https://jobicy.com/jobs/149595-senior-workday-platform-engineer",
@@ -3691,7 +3894,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:15:04+00:00",
-    "fetched_at": "2026-10-27T16:53:18.896Z",
+    "fetched_at": "2026-10-27T21:29:51.488Z",
     "raw": {
       "id": 149520,
       "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
@@ -3739,7 +3942,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:10:03+00:00",
-    "fetched_at": "2026-10-27T16:53:18.897Z",
+    "fetched_at": "2026-10-27T21:29:51.489Z",
     "raw": {
       "id": 151496,
       "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
@@ -3785,7 +3988,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:10:01+00:00",
-    "fetched_at": "2026-10-27T16:53:18.898Z",
+    "fetched_at": "2026-10-27T21:29:51.491Z",
     "raw": {
       "id": 151472,
       "url": "https://jobicy.com/jobs/151472-software-engineer-8",
@@ -3839,7 +4042,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-25T04:09:59+00:00",
-    "fetched_at": "2026-10-27T16:53:18.899Z",
+    "fetched_at": "2026-10-27T21:29:51.491Z",
     "raw": {
       "id": 151493,
       "url": "https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest",
@@ -3887,7 +4090,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T20:22:15+00:00",
-    "fetched_at": "2026-10-27T16:53:18.901Z",
+    "fetched_at": "2026-10-27T21:29:51.493Z",
     "raw": {
       "id": 156858,
       "url": "https://jobicy.com/jobs/156858-senior-software-engineer-fundraising-remote",
@@ -3944,7 +4147,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T20:22:12+00:00",
-    "fetched_at": "2026-10-27T16:53:18.902Z",
+    "fetched_at": "2026-10-27T21:29:51.495Z",
     "raw": {
       "id": 156863,
       "url": "https://jobicy.com/jobs/156863-frontend-architect",
@@ -3991,7 +4194,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T17:15:48+00:00",
-    "fetched_at": "2026-10-27T16:53:18.903Z",
+    "fetched_at": "2026-10-27T21:29:51.496Z",
     "raw": {
       "id": 156848,
       "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2",
@@ -4048,7 +4251,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T17:13:35+00:00",
-    "fetched_at": "2026-10-27T16:53:18.905Z",
+    "fetched_at": "2026-10-27T21:29:51.498Z",
     "raw": {
       "id": 156835,
       "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
@@ -4098,7 +4301,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T17:09:17+00:00",
-    "fetched_at": "2026-10-27T16:53:18.906Z",
+    "fetched_at": "2026-10-27T21:29:51.499Z",
     "raw": {
       "id": 156829,
       "url": "https://jobicy.com/jobs/156829-software-engineer-13",
@@ -4141,7 +4344,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-24T17:07:43+00:00",
-    "fetched_at": "2026-10-27T16:53:18.907Z",
+    "fetched_at": "2026-10-27T21:29:51.501Z",
     "raw": {
       "id": 156814,
       "url": "https://jobicy.com/jobs/156814-cross-reviewer-media",
@@ -4187,7 +4390,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T16:15:11+00:00",
-    "fetched_at": "2026-10-27T16:53:18.908Z",
+    "fetched_at": "2026-10-27T21:29:51.502Z",
     "raw": {
       "id": 156779,
       "url": "https://jobicy.com/jobs/156779-senior-engineering-manager",
@@ -4242,7 +4445,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T16:13:47+00:00",
-    "fetched_at": "2026-10-27T16:53:18.910Z",
+    "fetched_at": "2026-10-27T21:29:51.504Z",
     "raw": {
       "id": 156767,
       "url": "https://jobicy.com/jobs/156767-principal-software-engineer-agentic-soc",
@@ -4294,7 +4497,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T16:13:46+00:00",
-    "fetched_at": "2026-10-27T16:53:18.912Z",
+    "fetched_at": "2026-10-27T21:29:51.508Z",
     "raw": {
       "id": 156769,
       "url": "https://jobicy.com/jobs/156769-principal-software-engineer-siem-ruby-rails",
@@ -4347,7 +4550,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T09:52:43+00:00",
-    "fetched_at": "2026-10-27T16:53:18.913Z",
+    "fetched_at": "2026-10-27T21:29:51.509Z",
     "raw": {
       "id": 156705,
       "url": "https://jobicy.com/jobs/156705-senior-software-engineer-16",
@@ -4401,7 +4604,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T09:45:42+00:00",
-    "fetched_at": "2026-10-27T16:53:18.914Z",
+    "fetched_at": "2026-10-27T21:29:51.511Z",
     "raw": {
       "id": 156699,
       "url": "https://jobicy.com/jobs/156699-senior-backend-engineer-12",
@@ -4448,7 +4651,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-24T03:50:28+00:00",
-    "fetched_at": "2026-10-27T16:53:18.915Z",
+    "fetched_at": "2026-10-27T21:29:51.512Z",
     "raw": {
       "id": 153979,
       "url": "https://jobicy.com/jobs/153979-ads-quality-rater-farsi-turkey",
@@ -4495,7 +4698,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-10-24T03:50:26+00:00",
-    "fetched_at": "2026-10-27T16:53:18.915Z",
+    "fetched_at": "2026-10-27T21:29:51.512Z",
     "raw": {
       "id": 153976,
       "url": "https://jobicy.com/jobs/153976-ads-quality-rater-cantonese-hong-kong",
@@ -4549,7 +4752,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:45:31+00:00",
-    "fetched_at": "2026-10-27T16:53:18.916Z",
+    "fetched_at": "2026-10-27T21:29:51.513Z",
     "raw": {
       "id": 149523,
       "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
@@ -4598,7 +4801,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:45:26+00:00",
-    "fetched_at": "2026-10-27T16:53:18.917Z",
+    "fetched_at": "2026-10-27T21:29:51.515Z",
     "raw": {
       "id": 149566,
       "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
@@ -4647,7 +4850,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:45:04+00:00",
-    "fetched_at": "2026-10-27T16:53:18.918Z",
+    "fetched_at": "2026-10-27T21:29:51.516Z",
     "raw": {
       "id": 149558,
       "url": "https://jobicy.com/jobs/149558-microservices-engineer",
@@ -4699,7 +4902,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:40+00:00",
-    "fetched_at": "2026-10-27T16:53:18.920Z",
+    "fetched_at": "2026-10-27T21:29:51.517Z",
     "raw": {
       "id": 149576,
       "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
@@ -4748,7 +4951,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:38+00:00",
-    "fetched_at": "2026-10-27T16:53:18.921Z",
+    "fetched_at": "2026-10-27T21:29:51.519Z",
     "raw": {
       "id": 149562,
       "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
@@ -4805,7 +5008,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:36+00:00",
-    "fetched_at": "2026-10-27T16:53:18.922Z",
+    "fetched_at": "2026-10-27T21:29:51.520Z",
     "raw": {
       "id": 149563,
       "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
@@ -4853,7 +5056,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:35+00:00",
-    "fetched_at": "2026-10-27T16:53:18.923Z",
+    "fetched_at": "2026-10-27T21:29:51.521Z",
     "raw": {
       "id": 149535,
       "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
@@ -4900,7 +5103,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-10-24T03:40:33+00:00",
-    "fetched_at": "2026-10-27T16:53:18.924Z",
+    "fetched_at": "2026-10-27T21:29:51.522Z",
     "raw": {
       "id": 149567,
       "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
@@ -4919,206 +5122,6 @@
       "jobExcerpt": "Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across&hellip;",
       "jobDescription": "<p>Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.</p><p>The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.</p><p><strong>Location:</strong> <em>This is a Globally remote role</em></p><h2>What your day will look like</h2><ul>\n<li>Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks</li>\n<li>Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>\n<li>Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics</li>\n<li>Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge</li>\n<li>Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server</li>\n<li>Work with the most advanced operating systems and application technologies available in the enterprise world.</li>\n</ul><p>Joining <a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a>, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail.</p><h2>What we are looking for in you</h2><ul>\n<li>You love technology and working with brilliant people</li>\n<li>You have a Bachelor’s degree in Computer Science, STEM or similar </li>\n<li>You have experience with Linux packaging (Debian, RPM, Yocto)</li>\n<li>You have experience working with open source communities and licences</li>\n<li>You have experience working with C, C++</li>\n<li>You can work in a globally distributed team through self-discipline and self-motivation.</li>\n</ul><h2>Additional skills that you might also bring</h2><ul>\n<li>Experience with graphics stacks</li>\n<li>Good understanding of networking - TCP/IP, DHCP, HTTP/REST</li>\n<li>Basic understanding of security best practices in IoT or server environments</li>\n<li>Good communication skills, ideally public speaking experience</li>\n<li>IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services</li>\n<li>Some experience with Docker/OCI containers/K8s</li>\n</ul><h2>What we offer you</h2><p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. </p><p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p><ul>\n<li>Fully remote working environment - we’ve been working remotely since 2004!</li>\n<li>Personal learning and development budget of 2,000USD per annum</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Parental Leave</li>\n<li>Employee Assistance Programme</li>\n<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>\n<li>Priority Pass for travel and travel upgrades for long haul company events</li>\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p><p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p><h2>Canonical is an equal opportunity employer</h2><p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\">Whatever your identity, we will give your application fair consideration.</a></p><p>#LI-remote </p>",
       "pubDate": "2026-10-24T03:40:33+00:00"
-    }
-  },
-  {
-    "id": "jobicy:149574",
-    "platform": "jobicy",
-    "external_id": "149574",
-    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
-    "company": "Canonical",
-    "description": "You will work across the full Linux stack from kernel through networking, virtualization and graphics to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware. This is an excellent opportunity for someone who wants to have a meaningful impact on the adoption of Linux across multiple industries. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across server, desktop and IoT technologies. Canonical offers a fun, fast-paced team environment and a career full of learning and development opportunities. Location: This is a Globally remote role What your day will look like Design and implement the best Ubuntu integration for the latest IoT desktop and server-class hardware platforms and software stacks Work with partners to deliver an optimised, first class Ubuntu experience on their platforms Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics Participate as technical lead on customer engagements involving complete system architectures from cloud to edge Help our partners integrate their apps, SDKs, build device OS images, and optimize applications with Ubuntu Core, Desktop and Server Work with the most advanced operating systems and application technologies available in the enterprise world. Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT, desktop and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail, as well as automotive. What we are looking for in you You love technology and working with brilliant people You have a Bachelor’s degree in Computer Science, STEM or similar You have experience with Linux packaging (Debian, RPM, Yocto) You have experience working with open source communities and licences You have experience working with Python, C, C++ You can work in a globally distributed team through self-discipline and self-motivation. Nice to have Experience with server technologies, including UEFI firmware, GPU computing, RDMA/Infiniband and virtualization stacks Experience with graphics stacks Good understanding of networking - TCP/IP, DHCP, HTTP/REST Basic understanding of security best practices in IoT or server environments Good communication skills, ideally public speaking experience IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services Experience working with CI automation platforms such as GitHub Experience with performance benchmarking and profiling Some experience with Docker/OCI containers/K8s What we offer you Learning and development opportunities Annual compensation review Recognition rewards Annual leave Priority Pass for travel Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process. Fully remote working environment - we’ve been working remotely since 2004! Personal learning and development budget of 2,000USD per annum Annual compensation review Recognition rewards Annual holiday leave Parental Leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues at ‘sprints’ Priority Pass for travel and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-    "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Anywhere",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "docker",
-      "kubernetes",
-      "linux"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-24T03:40:13+00:00",
-    "fetched_at": "2026-10-27T16:53:18.925Z",
-    "raw": {
-      "id": 149574,
-      "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
-      "jobSlug": "149574-linux-platform-integration-ubuntu-systems-senior-engineer",
-      "jobTitle": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
-      "companyName": "Canonical",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Anywhere",
-      "jobLevel": "Senior",
-      "jobExcerpt": "You will work across the full Linux stack from kernel through networking, virtualization and graphics to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.This is an excellent opportunity for&hellip;",
-      "jobDescription": "<p>You will work across the full Linux stack from kernel through networking, virtualization and graphics to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon. </p><p>Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.</p><p>This is an excellent opportunity for someone who wants to have a meaningful impact on the adoption of Linux across multiple industries. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across server, desktop and IoT technologies. <a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> offers a fun, fast-paced team environment and a career full of learning and development opportunities. </p><p>Location: This is a Globally remote role</p><h2>What your day will look like</h2><ul>\n<li>Design and implement the best Ubuntu integration for the latest IoT desktop and server-class hardware platforms and software stacks</li>\n<li>Work with partners to deliver an optimised, first class Ubuntu experience on their platforms</li>\n<li>Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics</li>\n<li>Participate as technical lead on customer engagements involving complete system architectures from cloud to edge</li>\n<li>Help our partners integrate their apps, SDKs, build device OS images, and optimize applications with Ubuntu Core, Desktop and Server</li>\n<li>Work with the most advanced operating systems and application technologies available in the enterprise world.</li>\n</ul><p>Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT, desktop and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail, as well as automotive.</p><h2>What we are looking for in you</h2><ul>\n<li>You love technology and working with brilliant people</li>\n<li>You have a Bachelor’s degree in Computer Science, STEM or similar </li>\n<li>You have experience with Linux packaging (Debian, RPM, Yocto)</li>\n<li>You have experience working with open source communities and licences</li>\n<li>You have experience working with Python, C, C++</li>\n<li>You can work in a globally distributed team through self-discipline and self-motivation.</li>\n</ul><h2>Nice to have</h2><ul>\n<li>Experience with server technologies, including UEFI firmware, GPU computing, RDMA/Infiniband and virtualization stacks</li>\n<li>Experience with graphics stacks</li>\n<li>Good understanding of networking - TCP/IP, DHCP, HTTP/REST</li>\n<li>Basic understanding of security best practices in IoT or server environments</li>\n<li>Good communication skills, ideally public speaking experience</li>\n<li>IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services</li>\n<li>Experience working with CI automation platforms such as GitHub</li>\n<li>Experience with performance benchmarking and profiling</li>\n<li>Some experience with Docker/OCI containers/K8s</li>\n</ul><h2>What we offer you</h2><ul>\n<li>Learning and development opportunities</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual leave</li>\n<li>Priority Pass for travel</li>\n</ul><p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. </p><p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p><ul>\n<li>Fully remote working environment - we’ve been working remotely since 2004!</li>\n<li>Personal learning and development budget of 2,000USD per annum</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Parental Leave</li>\n<li>Employee Assistance Programme</li>\n<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>\n<li>Priority Pass for travel and travel upgrades for long haul company events</li>\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p><p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p><h2>Canonical is an equal opportunity employer</h2><p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Whatever your identity, we will give your application fair consideration.</a></p><p>#LI-remote</p>",
-      "pubDate": "2026-10-24T03:40:13+00:00"
-    }
-  },
-  {
-    "id": "jobicy:149532",
-    "platform": "jobicy",
-    "external_id": "149532",
-    "title": "Sustaining Operations Engineer",
-    "company": "Canonical",
-    "description": "This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker and LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them. This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical. Location: This is a globally remote role. This role deals with critical issues in the open source stack that require deep debugging and troubleshooting skills. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of applications, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself. You will be the final point of escalation for operational troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu. What your day will look like Resolve complex customer problems related to Ubuntu, OpenStack, Ceph and/or Kubernetes Maintain a close working relationship with Canonical's field, support and product engineering teams Participate in upstream communities Debug issues, propose workarounds, liaise with Software Engineers on producing a patch Demonstrate good judgment in technical methods and techniques Prioritize work and manage your time effectively against priorities Participate in team activities to improve processes, tools, and documentation Maintain clear, technical and concise communications Participate in a regular weekend working rotation Provide subject matter expertise as the final point of escalation on operational issues Work from home and travel internationally up to 10% of work time for team meetings, events and conferences What we are looking for in you Professional experience troubleshooting advanced Linux issues Background in Computer Science, STEM or similar Exceptionally strong experience with either Linux, LXD, OpenStack, Ceph or Kubernetes Strong debugging experience with Python, Go, C or C++ on Linux Ability to troubleshoot with gdb, pdb, tcpdump or other tools Familiarity with git source code repositories and branches An exceptional academic track record from both high school and preferably university Willingness to travel up to 4 times a year for internal events Additional skills that you might also bring You love technology and working with brilliant people You are curious, flexible, articulate, and accountable You value soft skills and are passionate, enterprising, thoughtful, and self-motivated You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems What we offer you We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004! Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues from your team and others Priority Pass for travel and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-Remote",
-    "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Anywhere",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "postgresql",
-      "mongodb",
-      "docker",
-      "kubernetes",
-      "git",
-      "linux"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-24T03:40:07+00:00",
-    "fetched_at": "2026-10-27T16:53:18.926Z",
-    "raw": {
-      "id": 149532,
-      "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
-      "jobSlug": "149532-sustaining-operations-engineer",
-      "jobTitle": "Sustaining Operations Engineer",
-      "companyName": "Canonical",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Anywhere",
-      "jobLevel": "Senior",
-      "jobExcerpt": "This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker and LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.This role&hellip;",
-      "jobDescription": "<p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker and LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.</p><p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with <a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> and drive success for our customers, community and the company. If you have great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p><p><strong>Location: </strong>This is a globally remote role.</p><p>This role deals with critical issues in the open source stack that require deep debugging and troubleshooting skills. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of applications, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p><p>You will be the final point of escalation for operational troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu. </p><h2>What your day will look like</h2><ul>\n<li>Resolve complex customer problems related to Ubuntu, OpenStack, Ceph and/or Kubernetes</li>\n<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>\n<li>Participate in upstream communities</li>\n<li>Debug issues, propose workarounds, liaise with Software Engineers on producing a patch</li>\n<li>Demonstrate good judgment in technical methods and techniques</li>\n<li>Prioritize work and manage your time effectively against priorities</li>\n<li>Participate in team activities to improve processes, tools, and documentation</li>\n<li>Maintain clear, technical and concise communications</li>\n<li>Participate in a regular weekend working rotation</li>\n<li>Provide subject matter expertise as the final point of escalation on operational issues</li>\n<li>Work from home and travel internationally up to 10% of work time for team meetings, events and conferences</li>\n</ul><h2>What we are looking for in you</h2><ul>\n<li>Professional experience troubleshooting advanced Linux issues</li>\n<li>Background in Computer Science, STEM or similar</li>\n<li>Exceptionally strong experience with either Linux, LXD, OpenStack, Ceph or Kubernetes</li>\n<li>Strong debugging experience with Python, Go, C or C++ on Linux</li>\n<li>Ability to troubleshoot with gdb, pdb, tcpdump or other tools</li>\n<li>Familiarity with git source code repositories and branches</li>\n<li>An exceptional academic track record from both high school and preferably university</li>\n<li>Willingness to travel up to 4 times a year for internal events</li>\n</ul><h2>Additional skills that you might also bring</h2><ul>\n<li>You love technology and working with brilliant people</li>\n<li>You are curious, flexible, articulate, and accountable</li>\n<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>\n<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>\n</ul><h2>What we offer you</h2><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p><ul>\n<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Employee Assistance Programme</li>\n<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>\n<li>Priority Pass for travel and travel upgrades for long haul company events</li>\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p><p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p><h2>Canonical is an equal opportunity employer</h2><p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Whatever your identity, we will give your application fair consideration.</a></p><p> </p><p>#LI-Remote</p><p> </p>",
-      "pubDate": "2026-10-24T03:40:07+00:00"
-    }
-  },
-  {
-    "id": "jobicy:149560",
-    "platform": "jobicy",
-    "external_id": "149560",
-    "title": "Software Engineer - Solutions Engineering",
-    "company": "Canonical",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Help us shape the future of open source IT, devops, and IS, from bare metal to containers. Our goal is to revolutionise open source application and infrastructure operations. We want to transform the world of software operations by enabling true model-driven operations via next-generation infrastructure-as-code. This will allow companies to run very efficient bare-metal operations for high-performance computing, private cloud, data lakes, AI/ML, and analytics. We need to invent some new technology, and we need to build some new products; we are therefore looking for someone who can lead and inspire a regional software engineering team to fulfill this initiative. The Solutions Engineering team works in close collaboration with our managed infrastructure operations team, which runs many private OpenStack clouds and Kubernetes clusters for customers around the world. This enables us to improve our infra-as-code products based on our own real experience, mirroring that of our users and customers. We work in Python, creating open source automation capabilities that simplify operations for anybody, anywhere, who is building on Ubuntu. Most of the team's work involves pure Python software development focused on enabling true DevOps workflows. We strive for high quality in both design, documentation, tests, and performance as we enhance operations code packages and Ubuntu itself in order to ensure our platform is the easiest, most robust, and best performing for driving your infrastructure. This role is ideal for software engineers who want to work in a global team, have a passion for distributed systems and cloud computing, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers. What you will do Work in Python and Golang to design and deliver open source software operations code Work with the entire Linux stack, from kernel, networking, storage, to applications Shape high quality open source monitoring and alerting infrastructure Rethink open source operations for our customers and open source community Demonstrate sound engineering design and testing principles in your code Follow agile software development practices Coach and develop your colleagues where you have insights Grow a healthy, collaborative engineering culture in line with the company values Global travel up to 10% of time for internal and external events Who you are You are a passionate Python developer You are organised and want your team to deliver timely, high quality software You understand the importance of reliable operations in an agile world You have sound knowledge of cloud computing concepts &amp; technologies You have practical knowledge of Linux and networking You are a lifelong learner Bonus points for You have graduated with a university degree in Computer Science or related software engineering field Golang programming skills What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program &amp; Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-    "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Anywhere",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "go",
-      "kubernetes",
-      "machine-learning",
-      "linux"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-24T03:40:06+00:00",
-    "fetched_at": "2026-10-27T16:53:18.927Z",
-    "raw": {
-      "id": 149560,
-      "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-      "jobSlug": "149560-software-engineer-solutions-engineering",
-      "jobTitle": "Software Engineer - Solutions Engineering",
-      "companyName": "Canonical",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Anywhere",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "jobDescription": "<p><a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p><p>The company is founder-led, profitable, and growing.</p><p>Help us shape the future of open source IT, devops, and IS, from bare metal to containers. Our goal is to revolutionise open source application and infrastructure operations.</p><p>We want to transform the world of software operations by enabling true model-driven operations via next-generation infrastructure-as-code. This will allow companies to run very efficient bare-metal operations for high-performance computing, private cloud, data lakes, AI/ML, and analytics. We need to invent some new technology, and we need to build some new products; we are therefore looking for someone who can lead and inspire a regional software engineering team to fulfill this initiative.</p><p>The Solutions Engineering team works in close collaboration with our managed infrastructure operations team, which runs many private OpenStack clouds and Kubernetes clusters for customers around the world. This enables us to improve our infra-as-code products based on our own real experience, mirroring that of our users and customers. We work in Python, creating open source automation capabilities that simplify operations for anybody, anywhere, who is building on Ubuntu.</p><p>Most of the team's work involves pure Python software development focused on enabling true DevOps workflows. We strive for high quality in both design, documentation, tests, and performance as we enhance operations code packages and Ubuntu itself in order to ensure our platform is the easiest, most robust, and best performing for driving your infrastructure.</p><p>This role is ideal for software engineers who want to work in a global team, have a passion for distributed systems and cloud computing, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers.</p><h2>What you will do</h2><ul>\n<li>Work in Python and Golang to design and deliver open source software operations code</li>\n<li>Work with the entire Linux stack, from kernel, networking, storage, to applications</li>\n<li>Shape high quality open source monitoring and alerting infrastructure</li>\n<li>Rethink open source operations for our customers and open source community</li>\n<li>Demonstrate sound engineering design and testing principles in your code</li>\n<li>Follow agile software development practices</li>\n<li>Coach and develop your colleagues where you have insights</li>\n<li>Grow a healthy, collaborative engineering culture in line with the company values</li>\n<li>Global travel up to 10% of time for internal and external events</li>\n</ul><h2>Who you are</h2><ul>\n<li>You are a passionate Python developer</li>\n<li>You are organised and want your team to deliver timely, high quality software</li>\n<li>You understand the importance of reliable operations in an agile world</li>\n<li>You have sound knowledge of cloud computing concepts &amp; technologies</li>\n<li>You have practical knowledge of Linux and networking</li>\n<li>You are a lifelong learner</li>\n</ul><h2>Bonus points for</h2><ul>\n<li>You have graduated with a university degree in Computer Science or related software engineering field</li>\n<li>Golang programming skills</li>\n</ul><h2>What we offer colleagues</h2><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p><ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Team Member Assistance Program &amp; Wellness Platform</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass and travel upgrades for long-haul company events</li>\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p><p><strong>Canonical is an equal opportunity employer</strong></p><p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Whatever your identity, we will give your application fair consideration.</a></p><p>#LI-remote</p><h2> </h2>",
-      "pubDate": "2026-10-24T03:40:06+00:00"
-    }
-  },
-  {
-    "id": "jobicy:149543",
-    "platform": "jobicy",
-    "external_id": "149543",
-    "title": "Python Engineer",
-    "company": "Canonical",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer. Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance. We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code. Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process. Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. Location: we have remote Python engineering roles in every time zone. What your day will look like Write high-quality, well-designed and well-tested Python software Collaborate proactively with a globally distributed team Display technical leadership at Canonical and in our communities Debug issues and produce high-quality code to fix them Contribute to technical documentation with the aim to make it the best of its kind Work from home with global travel twice a year for company events What we are looking for in you An exceptional academic track record from both high school and university Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path Drive and a track record of going above-and-beyond expectations Well-organised, self-starting and able to deliver to schedule Professional manner interacting with colleagues, partners, and community Experience writing thoroughly designed, modern, maintainable Python Conscientiousness and detail orientation, with a focus on performance Professional written and spoken English Experience with Linux (Debian or Ubuntu preferred) Excellent interpersonal skills, curiosity, flexibility, and accountability Passion, thoughtfulness, and self-motivation Excellent communication and presentation skills Result-oriented, with a personal drive to meet commitments Ability to travel twice a year, for company events up to two weeks each Additional skills that you might also bring Experience with container technologies such as LXD, Docker and Kubernetes Understanding of build systems and toolchains, including for cross-compilation Additional languages, particularly Golang or Rust, C or C++ Deep quality and test engineering Web or Flutter front-end experience REST and gRPC API experience SQL and NoSQL data store expertise Experience with public clouds or OpenStack Experience with Debian/Ubuntu packaging Experience with systems programming or scalable web services Performance engineering and security experience What we offer you We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues Priority Pass, and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-    "url": "https://jobicy.com/jobs/149543-python-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": null,
-    "location": "Anywhere",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "rust",
-      "go",
-      "docker",
-      "kubernetes",
-      "flutter",
-      "grpc",
-      "linux"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-10-24T03:35:32+00:00",
-    "fetched_at": "2026-10-27T16:53:18.928Z",
-    "raw": {
-      "id": 149543,
-      "url": "https://jobicy.com/jobs/149543-python-engineer",
-      "jobSlug": "149543-python-engineer",
-      "jobTitle": "Python Engineer",
-      "companyName": "Canonical",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Anywhere",
-      "jobLevel": "Any",
-      "jobExcerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "jobDescription": "<p><a href=\"https://jobicy.com/company/canonical-ltd\" target=\"_blank\" rel=\"noopener\">Canonical</a> is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p><p>The company is founder-led, profitable, and growing.</p><p>This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer.</p><p>Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance.</p><p>We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code.</p><p>Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process.</p><p>Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale.</p><p>Location: we have remote Python engineering roles in every time zone.</p><h2>What your day will look like</h2><ul>\n<li>Write high-quality, well-designed and well-tested Python software </li>\n<li>Collaborate proactively with a globally distributed team </li>\n<li>Display technical leadership at Canonical and in our communities </li>\n<li>Debug issues and produce high-quality code to fix them </li>\n<li>Contribute to technical documentation with the aim to make it the best of its kind </li>\n<li>Work from home with global travel twice a year for company events </li>\n</ul><h2>What we are looking for in you</h2><ul>\n<li>An exceptional academic track record from both high school and university</li>\n<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>\n<li>Drive and a track record of going above-and-beyond expectations</li>\n<li>Well-organised, self-starting and able to deliver to schedule</li>\n<li>Professional manner interacting with colleagues, partners, and community</li>\n<li>Experience writing thoroughly designed, modern, maintainable Python </li>\n<li>Conscientiousness and detail orientation, with a focus on performance</li>\n<li>Professional written and spoken English </li>\n<li>Experience with Linux (Debian or Ubuntu preferred) </li>\n<li>Excellent interpersonal skills, curiosity, flexibility, and accountability </li>\n<li>Passion, thoughtfulness, and self-motivation </li>\n<li>Excellent communication and presentation skills </li>\n<li>Result-oriented, with a personal drive to meet commitments </li>\n<li>Ability to travel twice a year, for company events up to two weeks each</li>\n</ul><h2>Additional skills that you might also bring</h2><ul>\n<li>Experience with container technologies such as LXD, Docker and Kubernetes </li>\n<li>Understanding of build systems and toolchains, including for cross-compilation </li>\n<li>Additional languages, particularly Golang or Rust, C or C++</li>\n<li>Deep quality and test engineering</li>\n<li>Web or Flutter front-end experience</li>\n<li>REST and gRPC API experience</li>\n<li>SQL and NoSQL data store expertise</li>\n<li>Experience with public clouds or OpenStack </li>\n<li>Experience with Debian/Ubuntu packaging </li>\n<li>Experience with systems programming or scalable web services</li>\n<li>Performance engineering and security experience</li>\n</ul><h2>What we offer you</h2><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p><ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Employee Assistance Programme</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass, and travel upgrades for long haul company events</li>\n</ul><h2>About Canonical</h2><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p><h2>Canonical is an equal opportunity employer</h2><p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\" rel=\"nofollow ugc noopener\" target=\"_blank\"> Whatever your identity, we will give your application fair consideration.</a></p><p>#LI-remote</p><p><br></p>",
-      "pubDate": "2026-10-24T03:35:32+00:00"
     }
   }
 ]
