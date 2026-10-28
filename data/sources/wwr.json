@@ -1,5 +1,86 @@
 [
   {
+    "id": "wwr:jumio-machine-learning-engineer",
+    "platform": "wwr",
+    "external_id": "jumio-machine-learning-engineer",
+    "title": "Machine Learning Engineer",
+    "company": "Jumio",
+    "description": "Headquarters: Austria (remote) Machine Learning Engineer&nbsp; We’re looking for a Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design automated pipelines (Airflow) for data ingestion and cleaning. You will be responsible for curating balanced training sets and generating synthetic data to address both quality and diversity gaps. Production Engineering: Own the path to production. Optimize models for low-latency inference (quantization, distillation, TensorRT/ONNX) and manage deployment on AWS. Mentor ML engineers, conduct code/design reviews, and drive technical best practices across the Computer Vision team. What We’re Looking For Experience: Multiple years of industry experience in Machine Learning, with at least 3 years dedicated to Biometrics or Face Analysis. Deep expertise in computer vision and biometrics, especially face recognition. Fairness &amp; Ethics: You understand the sources of algorithmic bias in Computer Vision and have practical experience measuring and mitigating disparate impact. Strong Engineering: Expert proficiency in Python (both machine learning and vision libraries such as Pillow, OpenCV, PyTorch, etc). You write clean, modular, production-ready code. Systems Architecture: Experience designing end-to-end ML pipelines (Data to Train to Deploy) and working with workflow orchestrators like Airflow. Cloud Native: Hands-on experience scaling training jobs on multi-GPU clusters and deploying services on AWS (SageMaker, EC2, EKS). Nice to Have Research Publications: Papers in CVPR, ICCV, ECCV, or FG related to face recognition, image quality assessment, or fairness. Large Scale Search: Experience with vector databases (e.g., Milvus, Faiss) and approximate nearest neighbor (ANN) search algorithms. Familiarity with privacy, security, and compliance in biometric systems. Mobile/Edge Experience: Experience porting models to edge or mobile devices utilizing frameworks such as CoreML, LiteRT, and/or TFLite. Synthetic Data: Experience using GANs or diffusion models to generate synthetic faces for training. Strong communication skills. Jumio Values: IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation Equal Opportunities : Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses. About Jumio: Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.&nbsp; Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we’re expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others. Applicant Data Privacy We will only use your personal information in connection with Jumio’s application, recruitment, and hiring processes, as described in Jumio’s Applicant Privacy Notice. If you have any questions or comments, please send an email to privacy@jumio.com . To apply: https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "aws",
+      "pytorch",
+      "tensorflow",
+      "machine-learning",
+      "vector-db",
+      "opencv",
+      "airflow"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-10-08T07:31:21.000Z",
+    "fetched_at": "2026-10-28T11:41:24.687Z",
+    "raw": {
+      "title": "Jumio: Machine Learning Engineer",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Austria (remote)\n</p>\n\n<h2><strong>Machine Learning Engineer&nbsp;</strong></h2>\n<p>We’re looking for a Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process.</p>\n<h3><strong>What You’ll Do</strong></h3>\n<ul>\n<li>Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition)</li>\n<li>Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions.</li>\n<li>Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX</li>\n<li>Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design automated pipelines (Airflow) for data ingestion and cleaning. You will be responsible for curating balanced training sets and generating synthetic data to address both quality and diversity gaps.</li>\n<li>Production Engineering: Own the path to production. Optimize models for low-latency inference (quantization, distillation, TensorRT/ONNX) and manage deployment on AWS.</li>\n<li>Mentor ML engineers, conduct code/design reviews, and drive technical best practices across the Computer Vision team.</li>\n</ul>\n<h3><strong>What We’re Looking For</strong></h3>\n<ul>\n<li>Experience: Multiple years of industry experience in Machine Learning, with at least 3 years dedicated to Biometrics or Face Analysis.</li>\n<li>Deep expertise in computer vision and biometrics, especially face recognition.</li>\n<li>Fairness &amp; Ethics: You understand the sources of algorithmic bias in Computer Vision and have practical experience measuring and mitigating disparate impact.</li>\n<li>Strong Engineering: Expert proficiency in Python (both machine learning and vision libraries such as Pillow, OpenCV, PyTorch, etc). You write clean, modular, production-ready code.</li>\n<li>Systems Architecture: Experience designing end-to-end ML pipelines (Data to Train to Deploy) and working with workflow orchestrators like Airflow.</li>\n<li>Cloud Native: Hands-on experience scaling training jobs on multi-GPU clusters and deploying services on AWS (SageMaker, EC2, EKS).</li>\n</ul>\n<h3><strong>Nice to Have</strong></h3>\n<ul>\n<li>Research Publications: Papers in CVPR, ICCV, ECCV, or FG related to face recognition, image quality assessment, or fairness.</li>\n<li>Large Scale Search: Experience with vector databases (e.g., Milvus, Faiss) and approximate nearest neighbor (ANN) search algorithms.</li>\n<li>Familiarity with privacy, security, and compliance in biometric systems.</li>\n<li>Mobile/Edge Experience: Experience porting models to edge or mobile devices utilizing frameworks such as CoreML, LiteRT, and/or TFLite.</li>\n<li>Synthetic Data: Experience using GANs or diffusion models to generate synthetic faces for training.</li>\n<li>Strong communication skills.</li>\n</ul><div class=\"content-conclusion\"><p><strong>Jumio Values:</strong></p>\n<p><span>IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation </span></p>\n<p><strong>Equal Opportunities</strong><span><strong>: </strong></span></p>\n<p><span>Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses.</span></p>\n<p><strong>About Jumio:</strong></p>\n<p>Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.&nbsp;</p>\n<p>Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we’re expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others.</p>\n<p><strong>Applicant Data Privacy </strong></p>\n<p>We will only use your personal information in connection with Jumio’s application, recruitment, and hiring processes, as described in Jumio’s <a href=\"https://www.jumio.com/legal-information/privacy-notices/candidate-notice/\">Applicant Privacy Notice.</a> If you have any questions or comments, please send an email to <a href=\"mailto:privacy@jumio.com\">privacy@jumio.com</a>.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer\">https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer</a></p>",
+      "pubDate": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer"
+    }
+  },
+  {
+    "id": "wwr:abnormal-director-of-security-engineering",
+    "platform": "wwr",
+    "external_id": "abnormal-director-of-security-engineering",
+    "title": "Director of Security Engineering",
+    "company": "Abnormal",
+    "description": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. This is a role for a deeply technical leader with a software engineering background who has grown into people leadership. You have built security teams from the ground up, you write and review code and architecture when it matters, and you believe the best security organizations earn their influence through partnership rather than policy enforcement. Our Security Philosophy We run security the way the best engineering-led companies do: Security reduces toil. Our job is to make the rest of the company faster and safer at the same time. If a control adds friction without reducing risk, it is a defect. Paved paths, safe by default. We invest in guardrails, golden paths, and secure-by-default infrastructure so the easy choice is the secure choice. We prefer preventing classes of problems over chasing individual findings. Partnership over gatekeeping. Security succeeds only through deep collaboration with engineering, IT, and business teams. We embed with builders, we ship alongside them, and we take on their constraints as our own. Engineering-grade rigor. We treat security problems as engineering problems: automated, measurable, code-reviewed, and continuously improved. If the security cultures that value freedom and responsibility, context over control, and guardrails over gates resonate with you, you will feel at home here. What You Will Do Serve as deputy to the CISO: act with full authority in the CISO's absence and represent the security organization to executives, customers, and regulators. Lead, coach, and grow managers and senior engineers across Security Engineering and Security Operations. Own the security engineering roadmap: cloud security architecture (AWS-first), detection and response, identity, vulnerability management, and secure-by-default platform investments. Drive cross-functional programs with Engineering, IT, and Product, from AI security governance to data perimeter controls to federal compliance initiatives. Set and defend engineering standards for the security organization: everything as code, automated where possible, measured against outcomes rather than activity. Build hiring pipelines and raise the bar on every hire; own performance management, promotion cases, and succession planning within your teams. Translate technical risk into business terms for the executive team and board, and translate business priorities into a coherent security strategy. Must Haves 10+ years in security or software engineering, including 4+ years managing security teams, ideally including managers of managers or equivalent scope. A genuine software engineering background: you have shipped production software, and you evaluate security solutions the way an engineer would. A proven record of building and scaling high-performing security teams, with alumni who would work for you again. Deep technical fluency in cloud-native environments: AWS organizations and multi-account governance, Kubernetes, identity and access, detection engineering, and modern SDLC security. Demonstrated cross-functional leadership: you have earned the trust of engineering leaders and shipped security outcomes through their teams, not around them. Strong written communication: you produce decision-ready documents and can drive alignment asynchronously. Executive presence: comfortable presenting to C-level leadership, customers, and auditors without preparation from the CISO. Strong Signals You are currently a security engineering manager or senior manager at a fintech, high-growth startup, or forward-leaning enterprise, and you are ready for broader scope. You have built paved-path or secure-by-default platforms that measurably reduced both risk and developer friction. Experience with compliance-driven environments (FedRAMP, SOC 2, ISO 27001) without letting compliance define the security program. Experience securing AI/ML systems or governing AI adoption at scale. You have operated in environments where security headcount was scarce and automation was the only way to scale. Why This Role You will inherit strong teams, an executive staff that treats security as a first-class function, and a CISO who wants a true partner rather than a lieutenant. The scope is broad, the autonomy is real, and the ceiling on this role is defined by what you take on. #LI-ML1 Actual compensation will be determined based on several non-discriminatory factors including skills, experience, qualifications, and geographic location. In addition to base salary, this role may be eligible for bonus or incentive compensation, equity, and a comprehensive benefits package. Base salary range: $214,200 — $308,000 USD A note on AI in our process:&nbsp; Abnormal AI uses AI-assisted tools to help our recruiting team prepare for candidate interviews. These tools analyze resume content and role requirements to suggest interview questions and areas for the interviewer to explore.They do not make hiring decisions or screen candidates automatically. Every decision about a candidacy is made by a person. Further, if your application is successful and Abnormal AI makes a conditional offer of employment, we will carry out pre-employment checks which must be successfully completed to progress to a final offer. All processes and pre-employment checks are in line with prevailing legislation and Abnormal AI's policies relevant to our security and privacy standards. Abnormal AI is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status or other characteristics protected by law. For our EEO policy statement please click here . If you would like more information on your EEO rights under the law, please&nbsp; click here . To apply: https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+    "url": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "aws",
+      "kubernetes",
+      "machine-learning"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-10-08T07:31:00.000Z",
+    "fetched_at": "2026-10-28T11:41:24.688Z",
+    "raw": {
+      "title": "Abnormal: Director of Security Engineering",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote - USA\n</p>\n\n<h2>About the Role</h2>\n<p>Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow.</p>\n<p>We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors.</p>\n<p>This is a role for a deeply technical leader with a software engineering background who has grown into people leadership. You have built security teams from the ground up, you write and review code and architecture when it matters, and you believe the best security organizations earn their influence through partnership rather than policy enforcement.</p>\n<h2>Our Security Philosophy</h2>\n<p>We run security the way the best engineering-led companies do:</p>\n<ul>\n<li><strong>Security reduces toil.</strong> Our job is to make the rest of the company faster and safer at the same time. If a control adds friction without reducing risk, it is a defect.</li>\n<li><strong>Paved paths, safe by default.</strong> We invest in guardrails, golden paths, and secure-by-default infrastructure so the easy choice is the secure choice. We prefer preventing classes of problems over chasing individual findings.</li>\n<li><strong>Partnership over gatekeeping.</strong> Security succeeds only through deep collaboration with engineering, IT, and business teams. We embed with builders, we ship alongside them, and we take on their constraints as our own.</li>\n<li><strong>Engineering-grade rigor.</strong> We treat security problems as engineering problems: automated, measurable, code-reviewed, and continuously improved.</li>\n</ul>\n<p>If the security cultures that value freedom and responsibility, context over control, and guardrails over gates resonate with you, you will feel at home here.</p>\n<h2>What You Will Do</h2>\n<ul>\n<li>Serve as deputy to the CISO: act with full authority in the CISO's absence and represent the security organization to executives, customers, and regulators.</li>\n<li>Lead, coach, and grow managers and senior engineers across Security Engineering and Security Operations.</li>\n<li>Own the security engineering roadmap: cloud security architecture (AWS-first), detection and response, identity, vulnerability management, and secure-by-default platform investments.</li>\n<li>Drive cross-functional programs with Engineering, IT, and Product, from AI security governance to data perimeter controls to federal compliance initiatives.</li>\n<li>Set and defend engineering standards for the security organization: everything as code, automated where possible, measured against outcomes rather than activity.</li>\n<li>Build hiring pipelines and raise the bar on every hire; own performance management, promotion cases, and succession planning within your teams.</li>\n<li>Translate technical risk into business terms for the executive team and board, and translate business priorities into a coherent security strategy.</li>\n</ul>\n<h2>Must Haves</h2>\n<ul>\n<li>10+ years in security or software engineering, including 4+ years managing security teams, ideally including managers of managers or equivalent scope.</li>\n<li>A genuine software engineering background: you have shipped production software, and you evaluate security solutions the way an engineer would.</li>\n<li>A proven record of building and scaling high-performing security teams, with alumni who would work for you again.</li>\n<li>Deep technical fluency in cloud-native environments: AWS organizations and multi-account governance, Kubernetes, identity and access, detection engineering, and modern SDLC security.</li>\n<li>Demonstrated cross-functional leadership: you have earned the trust of engineering leaders and shipped security outcomes through their teams, not around them.</li>\n<li>Strong written communication: you produce decision-ready documents and can drive alignment asynchronously.</li>\n<li>Executive presence: comfortable presenting to C-level leadership, customers, and auditors without preparation from the CISO.</li>\n</ul>\n<h2>Strong Signals</h2>\n<ul>\n<li>You are currently a security engineering manager or senior manager at a fintech, high-growth startup, or forward-leaning enterprise, and you are ready for broader scope.</li>\n<li>You have built paved-path or secure-by-default platforms that measurably reduced both risk and developer friction.</li>\n<li>Experience with compliance-driven environments (FedRAMP, SOC 2, ISO 27001) without letting compliance define the security program.</li>\n<li>Experience securing AI/ML systems or governing AI adoption at scale.</li>\n<li>You have operated in environments where security headcount was scarce and automation was the only way to scale.</li>\n</ul>\n<h2>Why This Role</h2>\n<p>You will inherit strong teams, an executive staff that treats security as a first-class function, and a CISO who wants a true partner rather than a lieutenant. The scope is broad, the autonomy is real, and the ceiling on this role is defined by what you take on.</p>\n<p>#LI-ML1</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>Actual compensation will be determined based on several non-discriminatory factors including skills, experience, qualifications, and geographic location.<br>In addition to base salary, this role may be eligible for bonus or incentive compensation, equity, and a comprehensive benefits package.</p></div><div class=\"title\">Base salary range:</div><div class=\"pay-range\"><span>$214,200</span><span class=\"divider\">—</span><span>$308,000 USD</span></div></div></div><div class=\"content-conclusion\"><p><strong>A note on AI in our process:&nbsp;<br></strong>Abnormal AI uses AI-assisted tools to help our recruiting team prepare for candidate interviews. These tools analyze resume content and role requirements to suggest interview questions and areas for the interviewer to explore.They do not make hiring decisions or screen candidates automatically. Every decision about a candidacy is made by a person. Further, if your application is successful and Abnormal AI makes a conditional offer of employment, we will carry out pre-employment checks which must be successfully completed to progress to a final offer. All processes and pre-employment checks are in line with prevailing legislation and Abnormal AI's policies relevant to our security and privacy standards.</p>\n<p>Abnormal AI is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status or other characteristics protected by law. For our EEO policy statement please <a href=\"https://assets.contentstack.io/v3/assets/blt3a076cfd9753fa1f/blt9cbda641db7c0045/6a1e3d3a66aea075cd33e462/AAP_and_EEO_Statement.pdf\"><span><em>click here</em></span></a>. If you would like more information on your EEO rights under the law, please&nbsp;<em><span><a href=\"https://assets.contentstack.io/v3/assets/blt3a076cfd9753fa1f/blt4eb3a265cc7b1ca9/6a1e3d3bfe33e73c16ff026b/EEOC_Know_Your_Rights_Oct_30_2025.pdf\">click here</a></span></em>.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering\">https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering</a></p>",
+      "pubDate": "Thu, 08 Oct 2026 07:31:00 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+      "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering"
+    }
+  },
+  {
     "id": "wwr:dremio-software-engineer-query-execution",
     "platform": "wwr",
     "external_id": "dremio-software-engineer-query-execution",
@@ -26,7 +107,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-07T07:30:53.000Z",
-    "fetched_at": "2026-10-28T02:37:42.432Z",
+    "fetched_at": "2026-10-28T11:41:24.690Z",
     "raw": {
       "title": "Dremio: Software Engineer - Query Execution",
       "region": "Anywhere in the World",
@@ -93,7 +174,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-06T13:25:57.000Z",
-    "fetched_at": "2026-10-28T02:37:42.433Z",
+    "fetched_at": "2026-10-28T11:41:24.692Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6544/logo.gif",
@@ -134,7 +215,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-06T07:31:16.000Z",
-    "fetched_at": "2026-10-28T02:37:42.435Z",
+    "fetched_at": "2026-10-28T11:41:24.695Z",
     "raw": {
       "title": "PagerDuty: Senior Director, Field Enablement",
       "region": "Anywhere in the World",
@@ -179,7 +260,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-06T07:31:05.000Z",
-    "fetched_at": "2026-10-28T02:37:42.437Z",
+    "fetched_at": "2026-10-28T11:41:24.696Z",
     "raw": {
       "title": "Webflow: Senior Infrastructure Engineer",
       "region": "Anywhere in the World",
@@ -215,7 +296,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-05T07:31:29.000Z",
-    "fetched_at": "2026-10-28T02:37:42.439Z",
+    "fetched_at": "2026-10-28T11:41:24.698Z",
     "raw": {
       "title": "Wrike: Director, Global GTM Strategy & Operations",
       "region": "Anywhere in the World",
@@ -253,7 +334,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T18:08:52.000Z",
-    "fetched_at": "2026-10-28T02:37:42.442Z",
+    "fetched_at": "2026-10-28T11:41:24.698Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif",
@@ -291,7 +372,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-10-28T02:37:42.443Z",
+    "fetched_at": "2026-10-28T11:41:24.699Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
@@ -336,7 +417,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-04T07:31:08.000Z",
-    "fetched_at": "2026-10-28T02:37:42.444Z",
+    "fetched_at": "2026-10-28T11:41:24.701Z",
     "raw": {
       "title": "Stripe: Abuse Research Engineer",
       "region": "Anywhere in the World",
@@ -382,7 +463,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-05T05:52:46.000Z",
-    "fetched_at": "2026-10-28T02:37:42.445Z",
+    "fetched_at": "2026-10-28T11:41:24.702Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0161/6774/logo.gif",
@@ -425,7 +506,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-01T07:30:56.000Z",
-    "fetched_at": "2026-10-28T02:37:42.447Z",
+    "fetched_at": "2026-10-28T11:41:24.703Z",
     "raw": {
       "title": "Doximity: Commercial Data Scientist",
       "region": "Anywhere in the World",
@@ -459,7 +540,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-01T07:30:56.000Z",
-    "fetched_at": "2026-10-28T02:37:42.447Z",
+    "fetched_at": "2026-10-28T11:41:24.704Z",
     "raw": {
       "title": "Hex Technologies: Legal Ops",
       "region": "Anywhere in the World",
@@ -495,7 +576,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-28T02:37:42.450Z",
+    "fetched_at": "2026-10-28T11:41:24.706Z",
     "raw": {
       "title": "Lithic: Senior Risk Associate",
       "region": "Anywhere in the World",
@@ -537,7 +618,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-28T02:37:42.452Z",
+    "fetched_at": "2026-10-28T11:41:24.707Z",
     "raw": {
       "title": "Salesloft: Principal Software Engineer, AI",
       "region": "Anywhere in the World",
@@ -575,7 +656,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-28T02:37:42.453Z",
+    "fetched_at": "2026-10-28T11:41:24.708Z",
     "raw": {
       "title": "Tailscale: Analytics Engineer, Data",
       "region": "Anywhere in the World",
@@ -613,7 +694,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-28T02:37:42.455Z",
+    "fetched_at": "2026-10-28T11:41:24.710Z",
     "raw": {
       "title": "Tailscale: Analytics Engineer, Data",
       "region": "Anywhere in the World",
@@ -652,7 +733,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-28T02:37:42.456Z",
+    "fetched_at": "2026-10-28T11:41:24.711Z",
     "raw": {
       "title": "Lithic: Senior Software Engineer, Card Authorization",
       "region": "Anywhere in the World",
@@ -686,7 +767,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-05-13T03:14:30.000Z",
-    "fetched_at": "2026-10-28T02:37:42.456Z",
+    "fetched_at": "2026-10-28T11:41:24.711Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif",
@@ -730,7 +811,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-09-29T19:13:52.000Z",
-    "fetched_at": "2026-10-28T02:37:42.457Z",
+    "fetched_at": "2026-10-28T11:41:24.712Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6490/logo.gif",
@@ -778,7 +859,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-09-29T19:13:52.000Z",
-    "fetched_at": "2026-10-28T02:37:42.458Z",
+    "fetched_at": "2026-10-28T11:41:24.712Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6491/logo.gif",
@@ -819,7 +900,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-28T02:37:42.458Z",
+    "fetched_at": "2026-10-28T11:41:24.713Z",
     "raw": {
       "title": "Discord: Engineering Manager, Machine Learning (Safety)",
       "region": "Anywhere in the World",
@@ -856,7 +937,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-28T02:37:42.460Z",
+    "fetched_at": "2026-10-28T11:41:24.714Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Director, Applied AI",
       "region": "Anywhere in the World",
@@ -890,7 +971,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-09-28T22:12:46.000Z",
-    "fetched_at": "2026-10-28T02:37:42.461Z",
+    "fetched_at": "2026-10-28T11:41:24.715Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6471/logo.gif",
@@ -931,7 +1012,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-09-28T22:12:45.000Z",
-    "fetched_at": "2026-10-28T02:37:42.461Z",
+    "fetched_at": "2026-10-28T11:41:24.716Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6470/logo.gif",
@@ -944,90 +1025,6 @@
       "pubDate": "Mon, 28 Sep 2026 22:12:45 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager",
       "link": "https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager"
-    }
-  },
-  {
-    "id": "wwr:dremio-software-engineer-developer-experience",
-    "platform": "wwr",
-    "external_id": "dremio-software-engineer-developer-experience",
-    "title": "Software Engineer - Developer Experience",
-    "company": "Dremio",
-    "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutions. You will be responsible for both regularly scheduled work as well as on-demand break-fix work to support Dremio’s CI/CD system, identifying areas of improvement, and implementing changes to increase efficiency and effectiveness of those systems. Bring your industry experience to improve the efficiency and scale of Dremio’s infrastructure via innovation on tooling and methodologies. You should have empathy for developers and a passion for engineering productivity.&nbsp; &nbsp; What you’ll be doing Solve problems for fellow Dremio engineers by: Leveraging and contributing to playbooks to implement solutions to unblock them Identifying short term workarounds and documenting them Automating processes where manual processes exist. Working on infrastructure across all major clouds (AWS, GCP, Azure). Managing access to key infrastructure. Build and maintain CI/CD pipelines and associated systems to increase organizational efficiency. Automate local development workflows. Analyze performance bottlenecks, root cause issues, file defects, follow up with developers, and document resolutions. Clear focus on keeping our development branches ‘green’.&nbsp; Release engineering - automating processes to push software to delivery endpoints. Report out on the status, reliability and robustness of our CI/CD systems. Actively participate in code reviews.&nbsp; What we’re looking for B.S. or M.S in Computer Science or in a related technical field 1+ years of experience on large scale distributed systems Comfortable navigating the fast moving, unstructured nature of a hyper-growth startup. Demonstrable Knowledge and Experience with at least one cloud platform (AWS, Azure, GCP) Basic understanding of cloud networking and cloud architecture. Proficiency in any of Java/C++/Python/Go Knowledge of Maven or similar build environments Hands on experience in pipeline automation using CI/CD tools like Jenkins&nbsp; Experience in Infrastructure as Code Experience with Terraform, BASH, Docker, Jenkins, and Kubernetes Ability to write technical reports, effectively summarizing key data Passion for learning and then delivering solutions using latest technologies Strong Affinity for collaboration and teamwork &nbsp; Bonus points if you have Working knowledge in data lakes and data warehousing Proficient with SQL What we value&nbsp; At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a \"flywheel\". People who like to jump in and drive momentum will thrive in our #GnarlyLife. Dremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor. Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter. Dremio has policies in place to protect the personal information that employees and applicants disclose to us. Please click here to review the privacy notice.&nbsp; Important Security Notice for Candidates At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&nbsp; here . Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company. To apply: https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
-    "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": null,
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "java",
-      "aws",
-      "gcp",
-      "azure",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "jenkins",
-      "apache",
-      "bash"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-09-28T07:31:05.000Z",
-    "fetched_at": "2026-10-28T02:37:42.462Z",
-    "raw": {
-      "title": "Dremio: Software Engineer - Developer Experience",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> Portugal - Remote\n</p>\n\n<div class=\"content-intro\"><h2><strong>Be Part of Building the Future</strong></h2>\n<p>Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;<a class=\"c-link\" href=\"http://www.dremio.com/\">www.dremio.com.</a></p></div><p><strong>About the role</strong></p>\n<p>In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutions. You will be responsible for both regularly scheduled work as well as on-demand break-fix work to support Dremio’s CI/CD system, identifying areas of improvement, and implementing changes to increase efficiency and effectiveness of those systems.</p>\n<p>Bring your industry experience to improve the efficiency and scale of Dremio’s infrastructure via innovation on tooling and methodologies. You should have empathy for developers and a passion for engineering productivity.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>What you’ll be doing</strong></p>\n<ul>\n<li>Solve problems for fellow Dremio engineers by:</li>\n<ul>\n<li>Leveraging and contributing to playbooks to implement solutions to unblock them</li>\n<li>Identifying short term workarounds and documenting them</li>\n<li>Automating processes where manual processes exist.</li>\n</ul>\n<li>Working on infrastructure across all major clouds (AWS, GCP, Azure).</li>\n<li>Managing access to key infrastructure.</li>\n<li>Build and maintain CI/CD pipelines and associated systems to increase organizational efficiency.</li>\n<li>Automate local development workflows.</li>\n<li>Analyze performance bottlenecks, root cause issues, file defects, follow up with developers, and document resolutions.</li>\n<li>Clear focus on keeping our development branches ‘green’.&nbsp;</li>\n<li>Release engineering - automating processes to push software to delivery endpoints.</li>\n<li>Report out on the status, reliability and robustness of our CI/CD systems.</li>\n<li>Actively participate in code reviews.&nbsp;</li>\n</ul>\n<p><strong>What we’re looking for</strong></p>\n<ul>\n<li>B.S. or M.S in Computer Science or in a related technical field</li>\n<li>1+ years of experience on large scale distributed systems</li>\n<li>Comfortable navigating the fast moving, unstructured nature of a hyper-growth startup.</li>\n<li>Demonstrable Knowledge and Experience with at least one cloud platform (AWS, Azure, GCP)</li>\n<li>Basic understanding of cloud networking and cloud architecture.</li>\n<li>Proficiency in any of Java/C++/Python/Go</li>\n<li>Knowledge of Maven or similar build environments</li>\n<li>Hands on experience in pipeline automation using CI/CD tools like Jenkins&nbsp;</li>\n<li>Experience in Infrastructure as Code</li>\n<li>Experience with Terraform, BASH, Docker, Jenkins, and Kubernetes</li>\n<li>Ability to write technical reports, effectively summarizing key data</li>\n<li>Passion for learning and then delivering solutions using latest technologies</li>\n<li>Strong Affinity for collaboration and teamwork</li>\n</ul>\n<p>&nbsp;<strong>Bonus points if you have</strong></p>\n<ul>\n<li>Working knowledge in data lakes and data warehousing</li>\n<li>Proficient with SQL</li>\n</ul><div class=\"content-conclusion\"><h3><strong>What we value&nbsp;</strong></h3>\n<p><span>At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a \"flywheel\". People who like to jump in and drive momentum will thrive in our #GnarlyLife.</span></p>\n<p><em><span>Dremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor.</span></em></p>\n<p><em><span>Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter.</span></em></p>\n<p><em><span>Dremio has policies in place to protect the personal information that employees and applicants disclose to us. Please click </span></em><a href=\"https://docs.google.com/document/d/1CB96QFmOX-bFy48YFOe2GO5lmdawOpKKBj8DpTgsuNg/edit?usp=sharing\"><em><span>here</span></em></a><em><span> to review the privacy notice.&nbsp;</span></em></p>\n<h3><strong>Important Security Notice for Candidates</strong></h3>\n<p><span>At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&nbsp;<a href=\"https://www.dremio.com/blog/stay-alert-for-fraudulent-recruitment-attempts-that-falsely-claim-association-with-dremio/\">here</a>.</span></p>\n<p><em>Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.</em></p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience\">https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience</a></p>",
-      "pubDate": "Mon, 28 Sep 2026 07:31:05 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
-      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience"
-    }
-  },
-  {
-    "id": "wwr:dremio-senior-staff-software-engineer-query-execution",
-    "platform": "wwr",
-    "external_id": "dremio-senior-staff-software-engineer-query-execution",
-    "title": "Senior Staff Software Engineer - Query Execution",
-    "company": "Dremio",
-    "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, owning the systems that turn query plans into efficient, reliable execution. As a Senior Staff Software Engineer, you’ll work on query operators, expression evaluation, memory management, execution scheduling, runtime planning, and performance optimization. Your work will directly affect query performance, scalability, and reliability across Dremio’s cloud data platform. &nbsp; What you’ll be doing Build the execution engine: Design, implement, test, and support query operators, expression evaluation, execution scheduling, runtime planning, and resource management. Improve runtime performance: Optimize vectorized processing, concurrency, parallelism, memory usage, data exchange, and disk spilling. Diagnose difficult problems: Investigate query correctness and performance issues using query profiles, profiling tools, telemetry, benchmarks, logs, and production data. Optimize Java and the JVM: Improve CPU utilization, allocation behavior, garbage collection, thread behavior, and other runtime characteristics. Collaborate across the query engine: Work with Query Planner, Datalake, Product, Support, and field engineering teams on end-to-end query improvements. Use AI-assisted development tools: Apply AI tools to code comprehension, debugging, test generation, documentation, and incident analysis. Apply engineering judgment: Validate AI-generated code and recommendations through review, testing, benchmarking, and engineering judgment. Raise the engineering bar: Participate in design and code reviews, contribute to technical direction, and mentor other engineers. &nbsp; What we’re looking for Software engineering experience: 5+ years developing production software, preferably in database systems, query execution, distributed systems, or related areas. Programming skills: Strong Java skills; experience with C++ is a plus. Computer science fundamentals: Strong foundation in data structures, algorithms, concurrency, multithreaded programming, and asynchronous programming. Database and distributed systems knowledge: Understanding of database internals, query processing, distributed execution, and performance optimization. Performance engineering experience: Experience profiling and optimizing CPU, memory, garbage collection, thread behavior, or other runtime characteristics. Problem-solving ability: Ability to solve ambiguous technical problems and work effectively across team boundaries. Engineering judgment: Ability to evaluate tradeoffs, validate solutions rigorously, and make sound decisions when working with unfamiliar or AI-assisted implementations. Communication and ownership: Strong communication skills, a sense of ownership, and a commitment to delivering high-quality software. &nbsp; Bonus points if you have Query engines: Distributed query engines, database engines, or large-scale data processing systems. Execution techniques: Vectorized execution, query operators, expression evaluation, code generation, or runtime optimization. Runtime systems: JVM profiling, memory management, caching, networking, data exchange, execution scheduling, or disk spilling. Data platforms: Apache Arrow, Apache Iceberg, Parquet, Avro, Spark, Hadoop, or cloud object stores. Open source: Contributing to open-source projects. What we value&nbsp; At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a \"flywheel\". People who like to jump in and drive momentum will thrive in our #GnarlyLife. Dremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor. Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter. Dremio has policies in place to protect the personal information that employees and applicants disclose to us. Please click here to review the privacy notice.&nbsp; Important Security Notice for Candidates At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&nbsp; here . Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company. To apply: https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
-    "url": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "java",
-      "apache",
-      "spark"
-    ],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2026-09-28T07:31:05.000Z",
-    "fetched_at": "2026-10-28T02:37:42.464Z",
-    "raw": {
-      "title": "Dremio: Senior Staff Software Engineer - Query Execution",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> Portugal - Remote\n</p>\n\n<div class=\"content-intro\"><h2><strong>Be Part of Building the Future</strong></h2>\n<p>Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;<a class=\"c-link\" href=\"http://www.dremio.com/\">www.dremio.com.</a></p></div><p><strong>About the role</strong></p>\n<p>Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, owning the systems that turn query plans into efficient, reliable execution.</p>\n<p>As a Senior Staff Software Engineer, you’ll work on query operators, expression evaluation, memory management, execution scheduling, runtime planning, and performance optimization. Your work will directly affect query performance, scalability, and reliability across Dremio’s cloud data platform.</p>\n<p>&nbsp;</p>\n<p><strong>What you’ll be doing</strong></p>\n<ul>\n<li>Build the execution engine: Design, implement, test, and support query operators, expression evaluation, execution scheduling, runtime planning, and resource management.</li>\n<li>Improve runtime performance: Optimize vectorized processing, concurrency, parallelism, memory usage, data exchange, and disk spilling.</li>\n<li>Diagnose difficult problems: Investigate query correctness and performance issues using query profiles, profiling tools, telemetry, benchmarks, logs, and production data.</li>\n<li>Optimize Java and the JVM: Improve CPU utilization, allocation behavior, garbage collection, thread behavior, and other runtime characteristics.</li>\n<li>Collaborate across the query engine: Work with Query Planner, Datalake, Product, Support, and field engineering teams on end-to-end query improvements.</li>\n<li>Use AI-assisted development tools: Apply AI tools to code comprehension, debugging, test generation, documentation, and incident analysis.</li>\n<li>Apply engineering judgment: Validate AI-generated code and recommendations through review, testing, benchmarking, and engineering judgment.</li>\n<li>Raise the engineering bar: Participate in design and code reviews, contribute to technical direction, and mentor other engineers.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What we’re looking for</strong></p>\n<ul>\n<li>Software engineering experience: 5+ years developing production software, preferably in database systems, query execution, distributed systems, or related areas.</li>\n<li>Programming skills: Strong Java skills; experience with C++ is a plus.</li>\n<li>Computer science fundamentals: Strong foundation in data structures, algorithms, concurrency, multithreaded programming, and asynchronous programming.</li>\n<li>Database and distributed systems knowledge: Understanding of database internals, query processing, distributed execution, and performance optimization.</li>\n<li>Performance engineering experience: Experience profiling and optimizing CPU, memory, garbage collection, thread behavior, or other runtime characteristics.</li>\n<li>Problem-solving ability: Ability to solve ambiguous technical problems and work effectively across team boundaries.</li>\n<li>Engineering judgment: Ability to evaluate tradeoffs, validate solutions rigorously, and make sound decisions when working with unfamiliar or AI-assisted implementations.</li>\n<li>Communication and ownership: Strong communication skills, a sense of ownership, and a commitment to delivering high-quality software.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Bonus points if you have</strong></p>\n<ul>\n<li>Query engines: Distributed query engines, database engines, or large-scale data processing systems.</li>\n<li>Execution techniques: Vectorized execution, query operators, expression evaluation, code generation, or runtime optimization.</li>\n<li>Runtime systems: JVM profiling, memory management, caching, networking, data exchange, execution scheduling, or disk spilling.</li>\n<li>Data platforms: Apache Arrow, Apache Iceberg, Parquet, Avro, Spark, Hadoop, or cloud object stores.</li>\n<li>Open source: Contributing to open-source projects.</li>\n</ul><div class=\"content-conclusion\"><h3><strong>What we value&nbsp;</strong></h3>\n<p><span>At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a \"flywheel\". People who like to jump in and drive momentum will thrive in our #GnarlyLife.</span></p>\n<p><em><span>Dremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor.</span></em></p>\n<p><em><span>Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter.</span></em></p>\n<p><em><span>Dremio has policies in place to protect the personal information that employees and applicants disclose to us. Please click </span></em><a href=\"https://docs.google.com/document/d/1CB96QFmOX-bFy48YFOe2GO5lmdawOpKKBj8DpTgsuNg/edit?usp=sharing\"><em><span>here</span></em></a><em><span> to review the privacy notice.&nbsp;</span></em></p>\n<h3><strong>Important Security Notice for Candidates</strong></h3>\n<p><span>At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&nbsp;<a href=\"https://www.dremio.com/blog/stay-alert-for-fraudulent-recruitment-attempts-that-falsely-claim-association-with-dremio/\">here</a>.</span></p>\n<p><em>Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.</em></p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution\">https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution</a></p>",
-      "pubDate": "Mon, 28 Sep 2026 07:31:05 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
-      "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution"
     }
   },
   {
@@ -1056,7 +1053,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-27T07:30:51.000Z",
-    "fetched_at": "2026-10-28T02:37:42.617Z",
+    "fetched_at": "2026-10-28T11:41:24.950Z",
     "raw": {
       "title": "Upsun: Senior IT Systems Engineer",
       "region": "Anywhere in the World",
@@ -1098,7 +1095,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-27T03:42:29.000Z",
-    "fetched_at": "2026-10-28T02:37:42.619Z",
+    "fetched_at": "2026-10-28T11:41:24.952Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5346/logo.gif",
@@ -1144,7 +1141,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-26T07:31:27.000Z",
-    "fetched_at": "2026-10-28T02:37:42.621Z",
+    "fetched_at": "2026-10-28T11:41:24.953Z",
     "raw": {
       "title": "Ping Identity: Director, Partner Operations",
       "region": "Anywhere in the World",
@@ -1183,7 +1180,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-26T07:31:16.000Z",
-    "fetched_at": "2026-10-28T02:37:42.623Z",
+    "fetched_at": "2026-10-28T11:41:24.955Z",
     "raw": {
       "title": "Ping Identity: Director, Global Alliances – Accenture",
       "region": "Anywhere in the World",
@@ -1230,7 +1227,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-26T07:31:14.000Z",
-    "fetched_at": "2026-10-28T02:37:42.625Z",
+    "fetched_at": "2026-10-28T11:41:24.957Z",
     "raw": {
       "title": "Upstart: DevOps Engineer II, Cloud Platform",
       "region": "Anywhere in the World",
@@ -1269,7 +1266,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-25T07:31:02.000Z",
-    "fetched_at": "2026-10-28T02:37:42.626Z",
+    "fetched_at": "2026-10-28T11:41:24.958Z",
     "raw": {
       "title": "Keeper Security: Communications Intern",
       "region": "Anywhere in the World",
@@ -1313,7 +1310,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-25T07:30:54.000Z",
-    "fetched_at": "2026-10-28T02:37:42.628Z",
+    "fetched_at": "2026-10-28T11:41:24.960Z",
     "raw": {
       "title": "Keeper Security: Bilingual Channel Sales Engineer, French (EMEA)",
       "region": "Anywhere in the World",
@@ -1355,7 +1352,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T15:50:19.000Z",
-    "fetched_at": "2026-10-28T02:37:42.628Z",
+    "fetched_at": "2026-10-28T11:41:24.960Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6631/logo.gif",
@@ -1398,7 +1395,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:21.000Z",
-    "fetched_at": "2026-10-28T02:37:42.630Z",
+    "fetched_at": "2026-10-28T11:41:24.962Z",
     "raw": {
       "title": "Ping Identity: Channel Account Manager",
       "region": "Anywhere in the World",
@@ -1439,7 +1436,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:21.000Z",
-    "fetched_at": "2026-10-28T02:37:42.631Z",
+    "fetched_at": "2026-10-28T11:41:24.963Z",
     "raw": {
       "title": "BeyondTrust: Enterprise Account Manager, SLED",
       "region": "Anywhere in the World",
@@ -1489,7 +1486,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:21.000Z",
-    "fetched_at": "2026-10-28T02:37:42.632Z",
+    "fetched_at": "2026-10-28T11:41:24.964Z",
     "raw": {
       "title": "Discord: QA/DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1539,7 +1536,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:21.000Z",
-    "fetched_at": "2026-10-28T02:37:42.633Z",
+    "fetched_at": "2026-10-28T11:41:24.965Z",
     "raw": {
       "title": "Discord: Engineering Manager, Platform Security",
       "region": "Anywhere in the World",
@@ -1580,7 +1577,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:06.000Z",
-    "fetched_at": "2026-10-28T02:37:42.634Z",
+    "fetched_at": "2026-10-28T11:41:24.966Z",
     "raw": {
       "title": "Ping Identity: Channel Account Manager",
       "region": "Anywhere in the World",
@@ -1622,7 +1619,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-20T07:31:04.000Z",
-    "fetched_at": "2026-10-28T02:37:42.636Z",
+    "fetched_at": "2026-10-28T11:41:24.968Z",
     "raw": {
       "title": "Carrot: Director, Information Security",
       "region": "Anywhere in the World",
@@ -1665,7 +1662,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-19T07:31:25.000Z",
-    "fetched_at": "2026-10-28T02:37:42.637Z",
+    "fetched_at": "2026-10-28T11:41:24.969Z",
     "raw": {
       "title": "Flexport: Senior Security Engineer, Detection & Response",
       "region": "Anywhere in the World",
@@ -1715,7 +1712,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-18T07:30:58.000Z",
-    "fetched_at": "2026-10-28T02:37:42.638Z",
+    "fetched_at": "2026-10-28T11:41:24.970Z",
     "raw": {
       "title": "PlanetScale: Enterprise Support Engineer",
       "region": "Anywhere in the World",
@@ -1762,7 +1759,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-17T07:30:54.000Z",
-    "fetched_at": "2026-10-28T02:37:42.640Z",
+    "fetched_at": "2026-10-28T11:41:24.971Z",
     "raw": {
       "title": "Expel: Senior Detection & Response Engineer",
       "region": "Anywhere in the World",
@@ -1808,7 +1805,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-16T07:31:00.000Z",
-    "fetched_at": "2026-10-28T02:37:42.641Z",
+    "fetched_at": "2026-10-28T11:41:24.972Z",
     "raw": {
       "title": "BeyondTrust: Cloud Network Engineer",
       "region": "Anywhere in the World",
@@ -1847,7 +1844,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-15T07:31:14.000Z",
-    "fetched_at": "2026-10-28T02:37:42.641Z",
+    "fetched_at": "2026-10-28T11:41:24.973Z",
     "raw": {
       "title": "Abnormal: Customer Solutions Engineer, EMEA",
       "region": "Anywhere in the World",
@@ -1886,7 +1883,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:14.000Z",
-    "fetched_at": "2026-10-28T02:37:42.643Z",
+    "fetched_at": "2026-10-28T11:41:24.975Z",
     "raw": {
       "title": "Keeper Security: Associate Talent Acquisition Partner, Tech",
       "region": "Anywhere in the World",
@@ -1925,7 +1922,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:11.000Z",
-    "fetched_at": "2026-10-28T02:37:42.645Z",
+    "fetched_at": "2026-10-28T11:41:24.977Z",
     "raw": {
       "title": "Keeper Security: Analyst Relations Manager",
       "region": "Anywhere in the World",
@@ -1974,7 +1971,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:11.000Z",
-    "fetched_at": "2026-10-28T02:37:42.646Z",
+    "fetched_at": "2026-10-28T11:41:24.977Z",
     "raw": {
       "title": "Current: Senior Engineer (.NET)",
       "region": "Anywhere in the World",
@@ -2016,7 +2013,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:05.000Z",
-    "fetched_at": "2026-10-28T02:37:42.647Z",
+    "fetched_at": "2026-10-28T11:41:24.979Z",
     "raw": {
       "title": "Datadog: Enterprise Security Sales Specialist",
       "region": "Anywhere in the World",
@@ -2055,7 +2052,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-08T07:31:21.000Z",
-    "fetched_at": "2026-10-28T02:37:42.648Z",
+    "fetched_at": "2026-10-28T11:41:24.980Z",
     "raw": {
       "title": "Abnormal: Director, Renewals",
       "region": "Anywhere in the World",
@@ -2069,48 +2066,6 @@
       "expires_at": "Sat, 07 Nov 2026 07:31:21 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/abnormal-director-renewals",
       "link": "https://weworkremotely.com/remote-jobs/abnormal-director-renewals"
-    }
-  },
-  {
-    "id": "wwr:pagerduty-principal-solutions-consultant",
-    "platform": "wwr",
-    "external_id": "pagerduty-principal-solutions-consultant",
-    "title": "Principal Solutions Consultant",
-    "company": "PagerDuty",
-    "description": "Headquarters: Remote (USA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp; PagerDuty is seeking a Principal Solutions Consultant to join our talented, customer-focused team! You will be a key strategic leader and the \"technical face\" of PagerDuty across the US region. This is a high-impact role that sits at the intersection of Sales, Product, and Engineering. You won’t just be selling a platform; you will be partnering with CTOs, CIOs, and VPs of Engineering at the US’s most influential enterprises to redefine how they manage digital operations, resilience, and automation. You will act as a bridge between our customers’ long-term strategic needs and PagerDuty’s product roadmap. You will spend your time evangelizing the PagerDuty Operations Cloud, mentoring our high-performing technical sales teams, and acting as a trusted advisor to the C-suite on topics ranging from AIOps and SRE maturity to digital transformation and cloud migration. Key Responsibilities Act as a peer and advisor to customer CTOs and CIOs, helping them navigate complex digital transformations and operationalizing the PagerDuty Operations Cloud within their organizations. Represent PagerDuty as a thought leader at major industry events and through digital content, white-papers, and local media. Partner closely with our Global Product and Engineering leadership in San Francisco to ensure the unique requirements of the US markets are represented in our long-term roadmap. Provide architectural oversight and executive presence for our most complex, high-stakes enterprise opportunities across the US. Foster a local community of DevOps and SRE leaders, sharing best practices on operational excellence, incident response, and the ethical application of AI in operations. Stay ahead of the curve on the competitive landscape, identifying market shifts and technical trends that PagerDuty can capitalize on. Who You Are You have a deep-seated passion for the future of digital operations. You can articulate not just where the industry is today, but where it will be in 3–5 years. You are equally comfortable white-boarding a complex micro services architecture with a Lead Architect as you are presenting a business value case to a Board of Directors. You have a strong technical foundation. You understand the \"pains\" of the modern developer because you’ve lived them. You don’t just want to close deals; you want to ensure customers achieve their desired outcomes and see PagerDuty as a mission-critical partner. Minimum Qualifications 15+ years of experience in technical leadership, solutions architecture, or product management within the SaaS, DevOps, or Cloud infrastructure space. Proven track record of engaging with and influencing C-level executives at Fortune 500 or equivalent global enterprises, navigating complex organizations. Proven ability to support and influence sales cycles with a solid grasp of sales processes and customer buying journeys Deep domain expertise in at least three of the following: Incident Management, SRE (Site Reliability Engineering), AIOps, Cloud Native Architectures, ITSM/ITIL, or Cybersecurity Incident Response. Exceptional public speaking and written communication skills. Ability to travel across the US and occasionally overseas. Preferred Qualifications Active involvement in the tech community (mentorship, open-source contribution, or advisory/board positions). Experience navigating the regulatory landscape for US financial services or government sectors (e.g., FedRAMP) as it relates to cloud resiliency. Hesitant to apply? We encourage you to submit your resume even if you don't meet every requirement. We value potential and consider each candidate's full professional story. Whether you're exploring a career change or taking your next step, we look forward to reviewing your application. If this just isn’t the right role or time - sign up for job alerts ! Where we work PagerDuty operates a hybrid work model with offices in 8 major cities: Atlanta, Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we offer flexibility within our established locations, we cannot employ candidates residing in: Location restrictions: Australia: Northern Territory, Queensland, South Australia, Tasmania, Western Australia Canada: Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut, PEI, Quebec, Saskatchewan, Yukon United States: Alaska, Hawaii, Iowa, Louisiana, Mississippi, Nebraska, New Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, Wyoming Candidates must reside in an eligible location, which vary by role. How we work Our values guide how we support customers, collaborate with colleagues, develop products, and foster a culture of belonging. They define not just our actions, but what it means to be Dutonian. People Leaders at PagerDuty are responsible for creating high performance environments that drive accountability. PagerDuty has four key dimensions that define our Leadership Impact: Lead Self, Lead the Team, Lead the Business, and Lead the Future. Each dimension has three associated competencies to give leaders a shared language for guiding their development, career, promotion, and succession planning discussions. Our Manager Expectations serve as a practical guide for managers to understand their responsibilities, prioritize their efforts, and drive engagement and performance. What we offer As a global organization, our total rewards approach is competitive with industry standards and aligned with local laws and regulations. Learn more, including country-specific offerings, on our benefits site . Your package may include: Competitive salary Comprehensive benefits package&nbsp; Flexible work arrangements Company equity* ESPP (Employee Stock Purchase Program)* Retirement or pension plan* Generous paid vacation time Paid holidays and sick leave Dutonian Wellness Days &amp; HibernationDuty - companywide paid days off in addition to PTO Paid parental leave: 22 weeks for pregnant parent, 12 weeks for non-pregnant parent (some countries have longer leave standards and we comply with local laws)* Paid volunteer time off: 20 hours per year Company-wide hack weeks Mental wellness programs *Eligibility may vary by role, region, and tenure About PagerDuty PagerDuty, Inc. (NYSE:PD) is a global leader in digital operations management. The PagerDuty Operations Cloud is an AI-powered platform that empowers business resilience and drives operational efficiency for enterprises. With a generative AI assistant at its core, PagerDuty empowers teams to detect and resolve issues in real time, orchestrate complex workflows, and drive continuous improvement across their digital operations. Trusted by nearly half of both the Fortune 500 and the Forbes AI 50, as well as approximately two-thirds of the Fortune 100, PagerDuty is essential for delivering always-on digital experiences to modern businesses PagerDuty is Great Place to Work-certified™, a Fortune Best Workplace for Millennials, a Fortune Best Medium Workplace, a Fortune Best Workplace in Technology, and a top rated product on TrustRadius and G2.&nbsp; Go behind-the-scenes on our careers site and @pagerduty on Instagram. Additional Information PagerDuty is an equal opportunity employer. PagerDuty does not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, or disability status. Your privacy is important to us. By submitting an application, you confirm that you have read and understand PagerDuty's Privacy Policy . PagerDuty is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. Should you require accommodation, please email accommodation@pagerduty.com and we will work with you to meet your accessibility needs. PagerDuty uses the E-Verify employment verification program. To apply: https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
-    "url": "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "cloudflare",
-      "pagerduty"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-10-06T07:31:09.000Z",
-    "fetched_at": "2026-10-28T02:37:42.649Z",
-    "raw": {
-      "title": "PagerDuty: Principal Solutions Consultant",
-      "region": "Anywhere in the World",
-      "country": "",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> Remote (USA)\n</p>\n\n<div class=\"content-intro\"><p>PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.</p>\n<p>&nbsp;</p></div><p>PagerDuty is seeking a <strong>Principal Solutions Consultant</strong> to join our talented, customer-focused team! You will be a key strategic leader and the \"technical face\" of PagerDuty across the US region. This is a high-impact role that sits at the intersection of Sales, Product, and Engineering. You won’t just be selling a platform; you will be partnering with CTOs, CIOs, and VPs of Engineering at the US’s most influential enterprises to redefine how they manage digital operations, resilience, and automation.</p>\n<p>You will act as a bridge between our customers’ long-term strategic needs and PagerDuty’s product roadmap. You will spend your time evangelizing the PagerDuty Operations Cloud, mentoring our high-performing technical sales teams, and acting as a trusted advisor to the C-suite on topics ranging from AIOps and SRE maturity to digital transformation and cloud migration.</p>\n<h3><strong>Key Responsibilities</strong></h3>\n<ul>\n<li>Act as a peer and advisor to customer CTOs and CIOs, helping them navigate complex digital transformations and operationalizing the PagerDuty Operations Cloud within their organizations.</li>\n<li>Represent PagerDuty as a thought leader at major industry events and through digital content, white-papers, and local media.</li>\n<li>Partner closely with our Global Product and Engineering leadership in San Francisco to ensure the unique requirements of the US markets are represented in our long-term roadmap.</li>\n<li>Provide architectural oversight and executive presence for our most complex, high-stakes enterprise opportunities across the US.</li>\n<li>Foster a local community of DevOps and SRE leaders, sharing best practices on operational excellence, incident response, and the ethical application of AI in operations.</li>\n<li>Stay ahead of the curve on the competitive landscape, identifying market shifts and technical trends that PagerDuty can capitalize on.</li>\n</ul>\n<h3><strong>Who You Are</strong></h3>\n<ul>\n<li>You have a deep-seated passion for the future of digital operations. You can articulate not just where the industry is today, but where it will be in 3–5 years.</li>\n<li>You are equally comfortable white-boarding a complex micro services architecture with a Lead Architect as you are presenting a business value case to a Board of Directors.</li>\n<li>You have a strong technical foundation. You understand the \"pains\" of the modern developer because you’ve lived them.</li>\n<li>You don’t just want to close deals; you want to ensure customers achieve their desired outcomes and see PagerDuty as a mission-critical partner.</li>\n</ul>\n<h3><strong>Minimum Qualifications</strong></h3>\n<ul>\n<li>15+ years of experience in technical leadership, solutions architecture, or product management within the SaaS, DevOps, or Cloud infrastructure space.</li>\n<li>Proven track record of engaging with and influencing C-level executives at Fortune 500 or equivalent global enterprises, navigating complex organizations.</li>\n<li>Proven ability to support and influence sales cycles with a solid grasp of sales processes and customer buying journeys</li>\n<li>Deep domain expertise in at least three of the following: Incident Management, SRE (Site Reliability Engineering), AIOps, Cloud Native Architectures, ITSM/ITIL, or Cybersecurity Incident Response.</li>\n<li>Exceptional public speaking and written communication skills.</li>\n<li>Ability to travel across the US and occasionally overseas.</li>\n</ul>\n<h3><strong>Preferred Qualifications</strong></h3>\n<ul>\n<li>Active involvement in the tech community (mentorship, open-source contribution, or advisory/board positions).</li>\n<li>Experience navigating the regulatory landscape for US financial services or government sectors (e.g., FedRAMP) as it relates to cloud resiliency.</li>\n</ul><div class=\"content-conclusion\"><p><strong>Hesitant to apply?</strong></p>\n<p>We encourage you to submit your resume even if you don't meet every requirement. We value potential and consider each candidate's full professional story. Whether you're exploring a career change or taking your next step, we look forward to reviewing your application. If this just isn’t the right role or time - sign up for <a href=\"https://careers.pagerduty.com/jobalerts\">job alerts</a>!</p>\n<p><strong>Where we work</strong></p>\n<p>PagerDuty operates a hybrid work model with <a href=\"https://careers.pagerduty.com/locations\">offices</a> in 8 major cities: Atlanta, Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we offer flexibility within our established locations, we <strong>cannot</strong> employ candidates residing in:</p>\n<p><strong>Location restrictions: </strong><strong><br></strong><strong>Australia:</strong> Northern Territory, Queensland, South Australia, Tasmania, Western Australia<br><strong>Canada:</strong> Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut, PEI, Quebec, Saskatchewan, Yukon<br><strong>United States:</strong> Alaska, Hawaii, Iowa, Louisiana, Mississippi, Nebraska, New Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, Wyoming<br><em>Candidates must reside in an eligible location, which vary by role.</em></p>\n<p><strong>How we work</strong></p>\n<p><a href=\"https://careers.pagerduty.com/#values\">Our values</a> guide how we support customers, collaborate with colleagues, develop products, and foster a culture of belonging. They define not just our actions, but what it means to be Dutonian.</p>\n<p>People Leaders at PagerDuty are responsible for creating high performance environments that drive accountability. PagerDuty has four key dimensions that define our Leadership Impact: Lead Self, Lead the Team, Lead the Business, and Lead the Future. Each dimension has three associated competencies to give leaders a shared language for guiding their development, career, promotion, and succession planning discussions. Our Manager Expectations serve as a practical guide for managers to understand their responsibilities, prioritize their efforts, and drive engagement and performance.</p>\n<p><strong>What we offer</strong></p>\n<p>As a global organization, our total rewards approach is competitive with industry standards and aligned with local laws and regulations. Learn more, including country-specific offerings, on our <a href=\"https://careers.pagerduty.com/global-benefits\">benefits site</a>.</p>\n<p><strong>Your package may include:</strong></p>\n<ul>\n<li>Competitive salary</li>\n<li>Comprehensive benefits package&nbsp;</li>\n<li>Flexible work arrangements</li>\n<li>Company equity*</li>\n<li>ESPP (Employee Stock Purchase Program)*</li>\n<li>Retirement or pension plan*</li>\n<li>Generous paid vacation time</li>\n<li>Paid holidays and sick leave</li>\n<li>Dutonian Wellness Days &amp; HibernationDuty - companywide paid days off in addition to PTO</li>\n<li>Paid parental leave: 22 weeks for pregnant parent, 12 weeks for non-pregnant parent (some countries have longer leave standards and we comply with local laws)*</li>\n<li>Paid volunteer time off: 20 hours per year</li>\n<li>Company-wide hack weeks</li>\n<li>Mental wellness programs</li>\n</ul>\n<p>*Eligibility may vary by role, region, and tenure</p>\n<p><strong>About PagerDuty</strong></p>\n<p>PagerDuty, Inc. (NYSE:PD) is a global leader in digital operations management. The PagerDuty Operations Cloud is an AI-powered platform that empowers business resilience and drives operational efficiency for enterprises. With a generative AI assistant at its core, PagerDuty empowers teams to detect and resolve issues in real time, orchestrate complex workflows, and drive continuous improvement across their digital operations. Trusted by nearly half of both the Fortune 500 and the Forbes AI 50, as well as approximately two-thirds of the Fortune 100, PagerDuty is essential for delivering always-on digital experiences to modern businesses</p>\n<p>PagerDuty is Great Place to Work-certified™, a Fortune Best Workplace for Millennials, a Fortune Best Medium Workplace, a Fortune Best Workplace in Technology, and a top rated product on TrustRadius and G2.&nbsp;</p>\n<p>Go behind-the-scenes on our <a href=\"https://careers.pagerduty.com/home\">careers site</a> and @pagerduty on Instagram.</p>\n<p><strong>Additional Information</strong></p>\n<p>PagerDuty is an equal opportunity employer. PagerDuty does not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, or disability status. Your privacy is important to us. By submitting an application, you confirm that you have read and understand PagerDuty's <a href=\"https://www.pagerduty.com/privacy-policy/\">Privacy Policy</a>.</p>\n<p>PagerDuty is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. Should you require accommodation, please email accommodation@pagerduty.com and we will work with you to meet your accessibility needs.</p>\n<p>PagerDuty uses the E-Verify employment verification program.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant\">https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant</a></p>",
-      "pubDate": "Tue, 06 Oct 2026 07:31:09 +0000",
-      "expires_at": "Thu, 05 Nov 2026 07:31:09 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
-      "link": "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant"
     }
   },
   {
@@ -2142,7 +2097,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-06T07:31:09.000Z",
-    "fetched_at": "2026-10-28T02:37:42.651Z",
+    "fetched_at": "2026-10-28T11:41:24.981Z",
     "raw": {
       "title": "LaunchDarkly: Engineering Manager, Cloud Engineering",
       "region": "Anywhere in the World",
@@ -2188,7 +2143,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-28T02:37:42.652Z",
+    "fetched_at": "2026-10-28T11:41:24.982Z",
     "raw": {
       "title": "Vercel: Senior Manager, Solutions Architect",
       "region": "Anywhere in the World",
@@ -2234,7 +2189,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-28T02:37:42.653Z",
+    "fetched_at": "2026-10-28T11:41:24.983Z",
     "raw": {
       "title": "Vercel: Security Engineer, Cloud",
       "region": "Anywhere in the World",
@@ -2287,7 +2242,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-09-29T07:30:41.000Z",
-    "fetched_at": "2026-10-28T02:37:42.655Z",
+    "fetched_at": "2026-10-28T11:41:24.985Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Principal Infrastructure Architect: Data Platform",
       "region": "Anywhere in the World",
@@ -2301,55 +2256,6 @@
       "expires_at": "Thu, 29 Oct 2026 07:30:41 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform",
       "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform"
-    }
-  },
-  {
-    "id": "wwr:collibra-cps-solution-architect",
-    "platform": "wwr",
-    "external_id": "collibra-cps-solution-architect",
-    "title": "CPS Solution Architect",
-    "company": "Collibra",
-    "description": "Headquarters: Remote, USA Joining Collibra’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; Federal Solution Architects are responsible for Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuring compliance with applicable government regulations and security standards (e.g., FedRAMP, FISMA, GovCloud). Providing federal agencies with tailored data governance strategies that incorporate best practices, enable knowledge transfer, and drive measurable business and mission outcomes. Partnering cross-functionally with Collibra Sales, Customer Engineering, Product, Support, and Executive teams to ensure alignment with federal acquisition cycles and stakeholder priorities. Identifying opportunities to expand Collibra’s footprint within agencies by aligning product capabilities to evolving agency mandates, modernization efforts, and compliance requirements. Meeting or exceeding utilization goals in support of federal client success, long-term program engagement, and repeatable delivery excellence. Contributing to the growth of Collibra’s public sector services and licensing business through account expansion, strategic planning, and customer advocacy. You have Required 5-10 years of consulting experience supporting U.S. federal agencies with knowledge in the areas of Data Governance, Data Management or Data Quality. An understanding of the leading PaaS providers, Data Lakes, Databases, and Integration platforms commonly adopted by federal agencies. A minimum of 2 years of experience working with cloud platforms, network-based API integration (REST/JSON), and deployment automation. Linux CLI proficiency. Hands-on experience with AWS/Azure, Kubernetes, infrastructure and platform. Experience with big data technologies such as Spark, and Hadoop. Because this role supports the U.S. government business, it is required that this candidate be a U.S. citizen who resides on U.S. soil and holds active security clearance (Secret/TS/TS-SCI). Preferred Familiarity in enterprise security solutions such as LDAP or Kerberos. Hands-on experience with Data Quality, Data Pipelines, Data Orchestration, and/or Job Control tools. Knowledgeable of at least least two or three of the following: data management processes, including data governance, data stewardship, master data management, data cataloging, and business rules management Proficiency in leveraging APIs via Java, Python, or similar scripting language for custom software implementations in Enterprise Linux or Unix environments.&nbsp; Experience with data warehousing, ETL, data integration. Skilled in developing functional and technical specifications. Experienced with Collibra or comparable technologies. You are Preferably located in the Washington, D.C. metro area to support in-person federal customer engagements, with an on-site requirement of up to 50%. An effective communicator across business and technical stakeholders and able to tailor to different audiences. Always customer-focused and personally hold yourself accountable for the customer’s success. Masterful at troubleshooting, navigating, and facilitating resolution of challenging client connectivity and technical software issues.&nbsp; Self-starting and interested in learning new software skills to support intricacies of Collibra’s application stack.&nbsp; Able to work with business and IT owners to identify and align on solutions to data challenges, advocating for the importance of preserving data governance and quality. Able to lead blueprinting, design workshops, and requirements gathering activities. Measures of success Within the first 30 days of employment, be able to Present the services offering to your manager understanding the different deliverables and the value provided. Present the Customer Journey framework to your manager understanding the different phases and roles and responsibilities within each phase. Compensation for this role The standard base salary range for this position is $96,000 - $120,000 per year. This position is eligible for additional commission-based compensation. Salary offers are based on a combination of factors, including, but not limited to, experience, skills, and location. In addition to base salary, we offer a competitive total rewards package, including bonus potential, equity for eligible roles, a Flex Fund monthly stipend, pension/401k plans, and more. &nbsp; Benefits at Collibra Collibra recognizes and values that everyone has different needs, interests, and life goals. We built our benefits program with flexibility in mind to support you and your loved ones through a diverse range of circumstances and life events. These flexible offerings sit on a foundation of competitive compensation, health coverage, and time off. Learn more about Collibra’s benefits . We create inclusion and belonging through how we onboard, meet, connect, engage, and communicate. Learn more about&nbsp; diversity, equity, and inclusion at Collibra. At Collibra, we’re proud to be an equal opportunity employer. We realize the key to creating a company with a world-class culture and employee experience comes from who we hire and creating a workplace that celebrates everyone. With this, we proudly consider qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sexual orientation, pregnancy, sex, gender identity, gender expression, genetic information, physical or mental disability, HIV status, registered domestic partner status, caregiver status, marital status, veteran or military status, citizenship status or any other legally protected category. If you have a need that requires accommodation, let us know by completing our&nbsp; Accommodations for Applicants form . To apply: https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
-    "url": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "python",
-      "java",
-      "aws",
-      "azure",
-      "kubernetes",
-      "spark",
-      "linux",
-      "unix"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-09-28T07:31:05.000Z",
-    "fetched_at": "2026-10-28T02:37:42.656Z",
-    "raw": {
-      "title": "Collibra: CPS Solution Architect",
-      "region": "Anywhere in the World",
-      "country": "🇺🇸 United States of America",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> Remote, USA\n</p>\n\n<h3><strong>Joining Collibra’s CPS Solution Architect Team</strong></h3>\n<p>At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp;</p>\n<h3><strong>Federal Solution Architects are responsible for</strong></h3>\n<ul>\n<li>Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuring compliance with applicable government regulations and security standards (e.g., FedRAMP, FISMA, GovCloud).</li>\n<li>Providing federal agencies with tailored data governance strategies that incorporate best practices, enable knowledge transfer, and drive measurable business and mission outcomes.</li>\n<li>Partnering cross-functionally with Collibra Sales, Customer Engineering, Product, Support, and Executive teams to ensure alignment with federal acquisition cycles and stakeholder priorities.</li>\n<li>Identifying opportunities to expand Collibra’s footprint within agencies by aligning product capabilities to evolving agency mandates, modernization efforts, and compliance requirements.</li>\n<li>Meeting or exceeding utilization goals in support of federal client success, long-term program engagement, and repeatable delivery excellence.</li>\n<li>Contributing to the growth of Collibra’s public sector services and licensing business through account expansion, strategic planning, and customer advocacy.</li>\n</ul>\n<h3><strong>You have</strong></h3>\n<p>Required</p>\n<ul>\n<li>5-10 years of consulting experience supporting U.S. federal agencies with knowledge in the areas of Data Governance, Data Management or Data Quality.</li>\n<li>An understanding of the leading PaaS providers, Data Lakes, Databases, and Integration platforms commonly adopted by federal agencies.</li>\n<li>A minimum of 2 years of experience working with cloud platforms, network-based API integration (REST/JSON), and deployment automation.</li>\n<li>Linux CLI proficiency.</li>\n<li>Hands-on experience with AWS/Azure, Kubernetes, infrastructure and platform.</li>\n<li>Experience with big data technologies such as Spark, and Hadoop.</li>\n<li>Because this role supports the U.S. government business, it is required that this candidate be a U.S. citizen who resides on U.S. soil and holds active security clearance (Secret/TS/TS-SCI).</li>\n</ul>\n<p>Preferred</p>\n<ul>\n<li>Familiarity in enterprise security solutions such as LDAP or Kerberos.</li>\n<li>Hands-on experience with Data Quality, Data Pipelines, Data Orchestration, and/or Job Control tools.</li>\n<li>Knowledgeable of at least least two or three of the following: data management processes, including data governance, data stewardship, master data management, data cataloging, and business rules management</li>\n<li>Proficiency in leveraging APIs via Java, Python, or similar scripting language for custom software implementations in Enterprise Linux or Unix environments.&nbsp;</li>\n<li>Experience with data warehousing, ETL, data integration.</li>\n<li>Skilled in developing functional and technical specifications.</li>\n<li>Experienced with Collibra or comparable technologies.</li>\n</ul>\n<h3><strong>You are</strong></h3>\n<ul>\n<li>Preferably located in the Washington, D.C. metro area to support in-person federal customer engagements, with an on-site requirement of up to 50%.</li>\n<li>An effective communicator across business and technical stakeholders and able to tailor to different audiences.</li>\n<li>Always customer-focused and personally hold yourself accountable for the customer’s success.</li>\n<li>Masterful at troubleshooting, navigating, and facilitating resolution of challenging client connectivity and technical software issues.&nbsp;</li>\n<li>Self-starting and interested in learning new software skills to support intricacies of Collibra’s application stack.&nbsp;</li>\n<li>Able to work with business and IT owners to identify and align on solutions to data challenges, advocating for the importance of preserving data governance and quality.</li>\n<li>Able to lead blueprinting, design workshops, and requirements gathering activities.</li>\n</ul>\n<h3><strong>Measures of success</strong></h3>\n<p>Within the first 30 days of employment, be able to</p>\n<ul>\n<li>Present the services offering to your manager understanding the different deliverables and the value provided.</li>\n<li>Present the Customer Journey framework to your manager understanding the different phases and roles and responsibilities within each phase.</li>\n</ul>\n<h3><strong>Compensation for this role</strong></h3>\n<p>The standard base salary range for this position is $96,000 - $120,000 per year. This position is eligible for additional commission-based compensation. Salary offers are based on a combination of factors, including, but not limited to, experience, skills, and location.</p>\n<p>In addition to base salary, we offer a competitive total rewards package, including bonus potential, equity for eligible roles, a Flex Fund monthly stipend, pension/401k plans, and more.</p>\n<p>&nbsp;</p><div class=\"content-conclusion\"><h3>Benefits at Collibra</h3>\n<p>Collibra recognizes and values that everyone has different needs, interests, and life goals. We built our benefits program with flexibility in mind to support you and your loved ones through a diverse range of circumstances and life events. These flexible offerings sit on a foundation of competitive compensation, health coverage, and time off. Learn more about <a href=\"https://www.collibra.com/us/en/company/careers/benefits\">Collibra’s benefits</a>.</p>\n<p>We create inclusion and belonging through how we onboard, meet, connect, engage, and communicate. Learn more about&nbsp;<a href=\"https://www.collibra.com/us/en/company/careers/dei\">diversity, equity, and inclusion</a> at Collibra.</p>\n<p>At Collibra, we’re proud to be an equal opportunity employer. We realize the key to creating a company with a world-class culture and employee experience comes from who we hire and creating a workplace that celebrates everyone.</p>\n<p>With this, we proudly consider qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sexual orientation, pregnancy, sex, gender identity, gender expression, genetic information, physical or mental disability, HIV status, registered domestic partner status, caregiver status, marital status, veteran or military status, citizenship status or any other legally protected category. If you have a need that requires accommodation, let us know by completing our&nbsp;<a href=\"https://www.collibra.com/us/en/company/careers/accommodations\">Accommodations for Applicants form</a>.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect\">https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect</a></p>",
-      "pubDate": "Mon, 28 Sep 2026 07:31:05 +0000",
-      "expires_at": "Wed, 28 Oct 2026 07:31:05 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
-      "link": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect"
     }
   }
 ]
