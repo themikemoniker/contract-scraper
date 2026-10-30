@@ -1,5 +1,49 @@
 [
   {
+    "id": "wwr:vercel-software-engineer-data-platform",
+    "platform": "wwr",
+    "external_id": "vercel-software-engineer-data-platform",
+    "title": "Software Engineer - Data Platform",
+    "company": "Vercel",
+    "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role We're looking for a Staff level Engineer to lead the design and development of a next-generation Data Platform at Vercel. This is a unique opportunity to architect a foundational system that will power data across our products and business, supporting everything from real-time analytics to AI/ML initiatives. Reporting directly to the Senior Director of Data Engineering, you'll define the technical vision for our data ecosystem, work across the organization to align engineering strategy with product goals, and build scalable, reliable systems using modern technologies like Kafka, ClickHouse, Tinybird, and Snowflake. You'll lead from the front, writing production-grade code, setting high standards for design and data governance, and mentoring a team of engineers as the organization grows. If you're excited by the challenge of building scalable data systems that drive product innovation, we'd love to hear from you. What You Will Do Design and implement a next-generation data platform that supports diverse requirements, including batch and real-time integrations, advanced analytics, and multiple data types, leveraging Kafka, Kafka-based tooling, and additional streaming technologies to power real-time data movement and processing. Work with engineering, product, and senior leadership teams across Vercel to architect solutions that address business needs, aligning technical strategies with product goals and ensuring seamless data availability and usability. Define and maintain guidelines for data ingestion, creation, enrichment, and storage, while overseeing data modeling, ETL processes, and data warehousing (ClickHouse, Tinybird, Snowflake) to achieve low-latency analytics and scalable storage. Develop end-to-end solutions across the tech stack, setting the example for engineering excellence, and provide mentorship and direction that fosters continuous improvement and innovation in the team. Partner with Security, Compliance, and Legal teams to ensure adherence to data protection standards, and champion high availability and fault tolerance through comprehensive monitoring, alerting, and incident response practices. Drive architectural decisions and roadmap planning that ensure efficiency, scalability, and high performance, and evaluate build-vs-buy trade-offs, integrating vendor solutions where appropriate. Collaborate with data scientists and machine learning teams to evolve infrastructure that supports advanced analytics and AI initiatives, serving as a key contributor to strategy, tooling, and platform enhancements for ML-related workloads. Act as a key decision-maker for discovering, vetting, and selecting data architectures and technologies critical to Vercel's success, and establish multi-phase strategic roadmaps that align with overall business objectives and drive data platform maturity. About You 8+ years of experience in data engineering, data architecture, or related roles, with at least 5 years at the Principal Engineer level. Proven track record designing and operating large-scale data infrastructures at high scale in a complex, fast-paced environment, with experience across Kafka and its ecosystem (e.g., Kafka Streams, Confluent Platform), ClickHouse, Tinybird, Snowflake, and broader big data frameworks. Proficiency in cloud platforms (AWS, GCP, or Azure) and associated big data services. Strong background in data governance and security, and adept at ensuring compliance with regulatory standards and protecting sensitive information. Outstanding communication and collaboration skills, with the ability to influence technical and non-technical stakeholders across varying organizational levels. A leadership mindset, with demonstrated ability to mentor teams, drive consensus, and advocate for best practices across the organization. A Master's degree in Computer Science, Engineering, or a related field is preferred. Industry recognition or notable contributions in data engineering (e.g., published works, open-source contributions) is a plus. Compensation &amp; Benefits: Competitive compensation package, including equity. Inclusive Healthcare Package. Learn and Grow - we provide mentorship and send you to events that help you build your network and skills. Flexible Time Off. We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed. The San Francisco, CA base pay range for this role is $232,000 - $348,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process. &nbsp; Disclosures: Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data. Equal Opportunity:&nbsp; Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description. To apply: https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "clickhouse",
+      "aws",
+      "gcp",
+      "azure",
+      "vercel",
+      "llm",
+      "machine-learning",
+      "snowflake",
+      "kafka"
+    ],
+    "tags": [
+      "programming",
+      "Full-Stack Programming"
+    ],
+    "posted_at": "2026-10-11T07:31:07.000Z",
+    "fetched_at": "2026-10-30T03:01:14.727Z",
+    "raw": {
+      "title": "Vercel: Software Engineer - Data Platform",
+      "region": "Anywhere in the World",
+      "category": "Full-Stack Programming",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote - United States\n</p>\n\n<div class=\"content-intro\"><h2>About Vercel:</h2>\n<p><span>Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.</span></p>\n<p><span>Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.</span></p></div><h2>About the Role</h2>\n<p>We're looking for a Staff level Engineer to lead the design and development of a next-generation Data Platform at Vercel. This is a unique opportunity to architect a foundational system that will power data across our products and business, supporting everything from real-time analytics to AI/ML initiatives.</p>\n<p>Reporting directly to the Senior Director of Data Engineering, you'll define the technical vision for our data ecosystem, work across the organization to align engineering strategy with product goals, and build scalable, reliable systems using modern technologies like Kafka, ClickHouse, Tinybird, and Snowflake.</p>\n<p>You'll lead from the front, writing production-grade code, setting high standards for design and data governance, and mentoring a team of engineers as the organization grows. If you're excited by the challenge of building scalable data systems that drive product innovation, we'd love to hear from you.</p>\n<h2>What You Will Do</h2>\n<ul>\n<li>Design and implement a next-generation data platform that supports diverse requirements, including batch and real-time integrations, advanced analytics, and multiple data types, leveraging Kafka, Kafka-based tooling, and additional streaming technologies to power real-time data movement and processing.</li>\n<li>Work with engineering, product, and senior leadership teams across Vercel to architect solutions that address business needs, aligning technical strategies with product goals and ensuring seamless data availability and usability.</li>\n<li>Define and maintain guidelines for data ingestion, creation, enrichment, and storage, while overseeing data modeling, ETL processes, and data warehousing (ClickHouse, Tinybird, Snowflake) to achieve low-latency analytics and scalable storage.</li>\n<li>Develop end-to-end solutions across the tech stack, setting the example for engineering excellence, and provide mentorship and direction that fosters continuous improvement and innovation in the team.</li>\n<li>Partner with Security, Compliance, and Legal teams to ensure adherence to data protection standards, and champion high availability and fault tolerance through comprehensive monitoring, alerting, and incident response practices.</li>\n<li>Drive architectural decisions and roadmap planning that ensure efficiency, scalability, and high performance, and evaluate build-vs-buy trade-offs, integrating vendor solutions where appropriate.</li>\n<li>Collaborate with data scientists and machine learning teams to evolve infrastructure that supports advanced analytics and AI initiatives, serving as a key contributor to strategy, tooling, and platform enhancements for ML-related workloads.</li>\n<li>Act as a key decision-maker for discovering, vetting, and selecting data architectures and technologies critical to Vercel's success, and establish multi-phase strategic roadmaps that align with overall business objectives and drive data platform maturity.</li>\n</ul>\n<h2>About You</h2>\n<ul>\n<li>8+ years of experience in data engineering, data architecture, or related roles, with at least 5 years at the Principal Engineer level.</li>\n<li>Proven track record designing and operating large-scale data infrastructures at high scale in a complex, fast-paced environment, with experience across Kafka and its ecosystem (e.g., Kafka Streams, Confluent Platform), ClickHouse, Tinybird, Snowflake, and broader big data frameworks.</li>\n<li>Proficiency in cloud platforms (AWS, GCP, or Azure) and associated big data services.</li>\n<li>Strong background in data governance and security, and adept at ensuring compliance with regulatory standards and protecting sensitive information.</li>\n<li>Outstanding communication and collaboration skills, with the ability to influence technical and non-technical stakeholders across varying organizational levels.</li>\n<li>A leadership mindset, with demonstrated ability to mentor teams, drive consensus, and advocate for best practices across the organization.</li>\n<li>A Master's degree in Computer Science, Engineering, or a related field is preferred.</li>\n<li>Industry recognition or notable contributions in data engineering (e.g., published works, open-source contributions) is a plus.</li>\n</ul>\n<h2>Compensation &amp; Benefits:</h2>\n<ul>\n<li>Competitive compensation package, including equity.</li>\n<li>Inclusive Healthcare Package.</li>\n<li>Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.</li>\n<li>Flexible Time Off.</li>\n<li>We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.</li>\n</ul>\n<p>The San Francisco, CA base pay range for this role is $232,000 - $348,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.</p>\n<p>&nbsp;</p><div class=\"content-conclusion\"><h2><strong>Disclosures:</strong></h2>\n<ul>\n<li><strong>Privacy: </strong>Please review our <span><a href=\"https://vercel.com/legal/job-applicant-privacy-notice\">Job Applicant Privacy Policy</a></span> for more information on how we handle your data.</li>\n<li><strong>Equal Opportunity:&nbsp;</strong>Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.</li>\n</ul></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform\">https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform</a></p>",
+      "pubDate": "Sun, 11 Oct 2026 07:31:07 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+      "link": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform"
+    }
+  },
+  {
     "id": "wwr:vercel-software-engineer-backend",
     "platform": "wwr",
     "external_id": "vercel-software-engineer-backend",
@@ -34,7 +78,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-11T07:31:07.000Z",
-    "fetched_at": "2026-10-29T22:02:52.745Z",
+    "fetched_at": "2026-10-30T03:01:14.728Z",
     "raw": {
       "title": "Vercel: Software Engineer, Backend",
       "region": "Anywhere in the World",
@@ -68,7 +112,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-11T07:30:56.000Z",
-    "fetched_at": "2026-10-29T22:02:52.746Z",
+    "fetched_at": "2026-10-30T03:01:14.731Z",
     "raw": {
       "title": "Maven Clinic: Client Success Manager",
       "region": "Anywhere in the World",
@@ -110,7 +154,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-10T07:31:08.000Z",
-    "fetched_at": "2026-10-29T22:02:52.747Z",
+    "fetched_at": "2026-10-30T03:01:14.732Z",
     "raw": {
       "title": "Typeform: Full Stack Developer",
       "region": "Anywhere in the World",
@@ -153,7 +197,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-10T07:30:40.000Z",
-    "fetched_at": "2026-10-29T22:02:52.747Z",
+    "fetched_at": "2026-10-30T03:01:14.733Z",
     "raw": {
       "title": "Jumio: Machine Learning Engineer - IV (Computer Vision)",
       "region": "Anywhere in the World",
@@ -220,7 +264,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-09T13:49:21.000Z",
-    "fetched_at": "2026-10-29T22:02:52.748Z",
+    "fetched_at": "2026-10-30T03:01:14.734Z",
     "raw": {
       "title": "Lemon.io: Senior React Full-stack Developer",
       "region": "Anywhere in the World",
@@ -284,7 +328,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-08T11:41:36.000Z",
-    "fetched_at": "2026-10-29T22:02:52.749Z",
+    "fetched_at": "2026-10-30T03:01:14.734Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6546/logo.gif",
@@ -331,7 +375,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-08T07:31:21.000Z",
-    "fetched_at": "2026-10-29T22:02:52.749Z",
+    "fetched_at": "2026-10-30T03:01:14.735Z",
     "raw": {
       "title": "Jumio: Machine Learning Engineer - IV (Biometrics)",
       "region": "Anywhere in the World",
@@ -374,7 +418,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-08T07:31:21.000Z",
-    "fetched_at": "2026-10-29T22:02:52.751Z",
+    "fetched_at": "2026-10-30T03:01:14.736Z",
     "raw": {
       "title": "Jumio: Machine Learning Engineer",
       "region": "Anywhere in the World",
@@ -412,7 +456,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-08T07:31:00.000Z",
-    "fetched_at": "2026-10-29T22:02:52.752Z",
+    "fetched_at": "2026-10-30T03:01:14.737Z",
     "raw": {
       "title": "Abnormal: Director of Security Engineering",
       "region": "Anywhere in the World",
@@ -450,7 +494,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-07T07:30:53.000Z",
-    "fetched_at": "2026-10-29T22:02:52.753Z",
+    "fetched_at": "2026-10-30T03:01:14.739Z",
     "raw": {
       "title": "Dremio: Software Engineer - Query Execution",
       "region": "Anywhere in the World",
@@ -517,7 +561,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-06T13:25:57.000Z",
-    "fetched_at": "2026-10-29T22:02:52.753Z",
+    "fetched_at": "2026-10-30T03:01:14.740Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6544/logo.gif",
@@ -558,7 +602,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-06T07:31:16.000Z",
-    "fetched_at": "2026-10-29T22:02:52.755Z",
+    "fetched_at": "2026-10-30T03:01:14.742Z",
     "raw": {
       "title": "PagerDuty: Senior Director, Field Enablement",
       "region": "Anywhere in the World",
@@ -603,7 +647,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-06T07:31:05.000Z",
-    "fetched_at": "2026-10-29T22:02:52.756Z",
+    "fetched_at": "2026-10-30T03:01:14.743Z",
     "raw": {
       "title": "Webflow: Senior Infrastructure Engineer",
       "region": "Anywhere in the World",
@@ -639,7 +683,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-05T07:31:29.000Z",
-    "fetched_at": "2026-10-29T22:02:52.757Z",
+    "fetched_at": "2026-10-30T03:01:14.745Z",
     "raw": {
       "title": "Wrike: Director, Global GTM Strategy & Operations",
       "region": "Anywhere in the World",
@@ -677,7 +721,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T18:08:52.000Z",
-    "fetched_at": "2026-10-29T22:02:52.758Z",
+    "fetched_at": "2026-10-30T03:01:14.745Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif",
@@ -715,7 +759,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-10-29T22:02:52.758Z",
+    "fetched_at": "2026-10-30T03:01:14.746Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
@@ -760,7 +804,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-04T07:31:08.000Z",
-    "fetched_at": "2026-10-29T22:02:52.759Z",
+    "fetched_at": "2026-10-30T03:01:14.747Z",
     "raw": {
       "title": "Stripe: Abuse Research Engineer",
       "region": "Anywhere in the World",
@@ -806,7 +850,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-05T05:52:46.000Z",
-    "fetched_at": "2026-10-29T22:02:52.759Z",
+    "fetched_at": "2026-10-30T03:01:14.748Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0161/6774/logo.gif",
@@ -849,7 +893,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-01T07:30:56.000Z",
-    "fetched_at": "2026-10-29T22:02:52.761Z",
+    "fetched_at": "2026-10-30T03:01:14.749Z",
     "raw": {
       "title": "Doximity: Commercial Data Scientist",
       "region": "Anywhere in the World",
@@ -883,7 +927,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-01T07:30:56.000Z",
-    "fetched_at": "2026-10-29T22:02:52.761Z",
+    "fetched_at": "2026-10-30T03:01:14.750Z",
     "raw": {
       "title": "Hex Technologies: Legal Ops",
       "region": "Anywhere in the World",
@@ -919,7 +963,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-29T22:02:52.762Z",
+    "fetched_at": "2026-10-30T03:01:14.752Z",
     "raw": {
       "title": "Lithic: Senior Risk Associate",
       "region": "Anywhere in the World",
@@ -961,7 +1005,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-29T22:02:52.763Z",
+    "fetched_at": "2026-10-30T03:01:14.753Z",
     "raw": {
       "title": "Salesloft: Principal Software Engineer, AI",
       "region": "Anywhere in the World",
@@ -999,7 +1043,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-29T22:02:52.764Z",
+    "fetched_at": "2026-10-30T03:01:14.755Z",
     "raw": {
       "title": "Tailscale: Analytics Engineer, Data",
       "region": "Anywhere in the World",
@@ -1037,7 +1081,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-09-30T07:31:24.000Z",
-    "fetched_at": "2026-10-29T22:02:52.765Z",
+    "fetched_at": "2026-10-30T03:01:14.756Z",
     "raw": {
       "title": "Tailscale: Analytics Engineer, Data",
       "region": "Anywhere in the World",
@@ -1046,44 +1090,6 @@
       "pubDate": "Wed, 30 Sep 2026 07:31:24 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
       "link": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data"
-    }
-  },
-  {
-    "id": "wwr:storetasker-senior-shopify-developer-remote-flexible-3",
-    "platform": "wwr",
-    "external_id": "storetasker-senior-shopify-developer-remote-flexible-3",
-    "title": "Senior Shopify Developer (Remote + Flexible)",
-    "company": "Storetasker",
-    "description": "Headquarters: Brooklyn, NY URL: https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021 Shopify developers love to freelance with Storetasker. Endless, quality clients: from well known DTC brands to top agencies.&nbsp; Fully remote, flexible: work as much or as little as you want, wherever you want.&nbsp; A talented and helpful community: it's freelance (with a team). Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&nbsp; We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries , Boll &amp; Branch , Superfluid , Jack Henry , Plenaire , and Fulton among many more. Why Storetasker? Endless clients &amp; project opportunities: you’ll see between 5 - 50 new opportunities per day and can pick any lead you want.&nbsp; You’ll earn more: some experts are making $250k+ per year.&nbsp; A high quality community: we carefully select about 5% of those who apply.&nbsp; Remote: work from anywhere, anytime.&nbsp; Flexible: take on as many clients as you want. No external ratings: you’re already a professional. No need to prove it.&nbsp; Great Software: that makes it easy to manage more clients and increase billable hours. Support when you need it: we offer project support 7 days per week.&nbsp; Community (not competition): you pick your clients, projects, and never compete against other Experts in the community.&nbsp; Learn more and join ! It’s confidential, and takes less than 5 minutes. Here's who we're looking for: Ambitious part time and full-time freelancers and boutique agencies. Who have 3+ years of Shopify experience, and 5+ years of web development experience.&nbsp; And who have managed projects, deadlines, and communication successfully.&nbsp; Especially people with some of these skills: Front-end or full-stack Shopify development Headless e-commerce development Conversion rate optimization E-commerce expertise and strategy SEO&nbsp; Site Speed Builder and/or Shogun It takes just a few minutes to join. Here's what a few current members have to say: \"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!\" - Adan, United States, Storetasker Expert since March 2020 \"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”\" - Mark, England, Storetasker Expert since 2019 \"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow.\" - Siah, Canada, Storetasker Expert since 2017 Our Mission: We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.&nbsp; Questions? Reach out at experts@storetasker.com. To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-    "url": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [],
-    "tags": [
-      "programming",
-      "Full-Stack Programming"
-    ],
-    "posted_at": "2024-05-13T03:14:30.000Z",
-    "fetched_at": "2026-10-29T22:02:52.766Z",
-    "raw": {
-      "media:content": {
-        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif",
-        "@_type": "image/png"
-      },
-      "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-      "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Brooklyn, NY\n    <br /><strong>URL:</strong> <a href=\"https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021\">https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021</a>\n</p>\n\n<h1>Shopify developers love to freelance with Storetasker.</h1><ul><li><strong>Endless, quality clients: </strong>from well known DTC brands to top agencies.&nbsp;</li><li><strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want.&nbsp;</li><li><strong>A talented and helpful community: </strong>it's freelance (with a team).</li><li><strong>Earn $100-$200 per hour: </strong>pick your clients, and send your own quotes or retainers.&nbsp;<br><br></li></ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href=\"https://www.alphaindustries.com/\">Alpha Industries</a>, <a href=\"https://www.bollandbranch.com/\">Boll &amp; Branch</a>, <a href=\"https://getsuperfluid.com\">Superfluid</a>, <a href=\"https://jackhenry.co/\">Jack Henry</a>, <a href=\"http://plenaire.co/\">Plenaire</a>, and <a href=\"https://walkfulton.com/\">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong></div><ul><li><strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want.&nbsp;</li><li><strong>You’ll earn more:</strong> some experts are making $250k+ per year.&nbsp;</li><li><strong>A high quality community:</strong> we carefully select about 5% of those who apply.&nbsp;</li><li><strong>Remote:</strong> work from anywhere, anytime.&nbsp;</li><li><strong>Flexible:</strong> take on as many clients as you want.</li><li><strong>No external ratings:</strong> you’re already a professional. No need to prove it.&nbsp;</li><li><strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li><li><strong>Support when you need it:</strong> we offer project support 7 days per week.&nbsp;</li><li><strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community.&nbsp;</li></ul><div><br></div><div><a href=\"https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021\"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong></div><ul><li>Ambitious part time and full-time freelancers and boutique agencies.</li><li>Who have 3+ years of Shopify experience, and 5+ years of web development experience.&nbsp;</li><li>And who have managed projects, deadlines, and communication successfully.&nbsp;</li></ul><div><br><strong>Especially people with some of these skills:</strong></div><ul><li>Front-end or full-stack Shopify development</li><li>Headless e-commerce development</li><li>Conversion rate optimization</li><li>E-commerce expertise and strategy</li><li>SEO&nbsp;</li><li>Site Speed</li><li>Builder and/or Shogun</li></ul><div><br><a href=\"https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021\"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>\"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!\" - Adan, United States, Storetasker Expert since March 2020<br><br>\"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”\" - Mark, England, Storetasker Expert since 2019<br><br>\"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow.\" - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.&nbsp; <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3\">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</a></p>",
-      "pubDate": "Mon, 13 May 2024 03:14:30 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-      "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
     }
   },
   {
@@ -1126,7 +1132,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-29T07:30:52.000Z",
-    "fetched_at": "2026-10-29T22:02:53.103Z",
+    "fetched_at": "2026-10-30T03:01:14.915Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Principal Data Engineer",
       "region": "Anywhere in the World",
@@ -1171,7 +1177,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-29T07:30:52.000Z",
-    "fetched_at": "2026-10-29T22:02:53.104Z",
+    "fetched_at": "2026-10-30T03:01:14.916Z",
     "raw": {
       "title": "Calm.com: Software Development Engineer in Test",
       "region": "Anywhere in the World",
@@ -1213,7 +1219,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-27T07:30:51.000Z",
-    "fetched_at": "2026-10-29T22:02:53.106Z",
+    "fetched_at": "2026-10-30T03:01:14.918Z",
     "raw": {
       "title": "Upsun: Senior IT Systems Engineer",
       "region": "Anywhere in the World",
@@ -1255,7 +1261,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-27T03:42:29.000Z",
-    "fetched_at": "2026-10-29T22:02:53.107Z",
+    "fetched_at": "2026-10-30T03:01:14.920Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5346/logo.gif",
@@ -1301,7 +1307,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-26T07:31:27.000Z",
-    "fetched_at": "2026-10-29T22:02:53.108Z",
+    "fetched_at": "2026-10-30T03:01:14.921Z",
     "raw": {
       "title": "Ping Identity: Director, Partner Operations",
       "region": "Anywhere in the World",
@@ -1340,7 +1346,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-26T07:31:16.000Z",
-    "fetched_at": "2026-10-29T22:02:53.110Z",
+    "fetched_at": "2026-10-30T03:01:14.923Z",
     "raw": {
       "title": "Ping Identity: Director, Global Alliances – Accenture",
       "region": "Anywhere in the World",
@@ -1387,7 +1393,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-26T07:31:14.000Z",
-    "fetched_at": "2026-10-29T22:02:53.112Z",
+    "fetched_at": "2026-10-30T03:01:14.925Z",
     "raw": {
       "title": "Upstart: DevOps Engineer II, Cloud Platform",
       "region": "Anywhere in the World",
@@ -1426,7 +1432,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-25T07:31:02.000Z",
-    "fetched_at": "2026-10-29T22:02:53.113Z",
+    "fetched_at": "2026-10-30T03:01:14.926Z",
     "raw": {
       "title": "Keeper Security: Communications Intern",
       "region": "Anywhere in the World",
@@ -1470,7 +1476,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-25T07:30:54.000Z",
-    "fetched_at": "2026-10-29T22:02:53.114Z",
+    "fetched_at": "2026-10-30T03:01:14.928Z",
     "raw": {
       "title": "Keeper Security: Bilingual Channel Sales Engineer, French (EMEA)",
       "region": "Anywhere in the World",
@@ -1512,7 +1518,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T15:50:19.000Z",
-    "fetched_at": "2026-10-29T22:02:53.115Z",
+    "fetched_at": "2026-10-30T03:01:14.928Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6631/logo.gif",
@@ -1555,7 +1561,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:21.000Z",
-    "fetched_at": "2026-10-29T22:02:53.116Z",
+    "fetched_at": "2026-10-30T03:01:14.930Z",
     "raw": {
       "title": "Ping Identity: Channel Account Manager",
       "region": "Anywhere in the World",
@@ -1596,7 +1602,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:21.000Z",
-    "fetched_at": "2026-10-29T22:02:53.116Z",
+    "fetched_at": "2026-10-30T03:01:14.931Z",
     "raw": {
       "title": "BeyondTrust: Enterprise Account Manager, SLED",
       "region": "Anywhere in the World",
@@ -1646,7 +1652,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:21.000Z",
-    "fetched_at": "2026-10-29T22:02:53.117Z",
+    "fetched_at": "2026-10-30T03:01:14.932Z",
     "raw": {
       "title": "Discord: QA/DevOps Engineer",
       "region": "Anywhere in the World",
@@ -1696,7 +1702,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:21.000Z",
-    "fetched_at": "2026-10-29T22:02:53.118Z",
+    "fetched_at": "2026-10-30T03:01:14.933Z",
     "raw": {
       "title": "Discord: Engineering Manager, Platform Security",
       "region": "Anywhere in the World",
@@ -1737,7 +1743,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-23T07:31:06.000Z",
-    "fetched_at": "2026-10-29T22:02:53.119Z",
+    "fetched_at": "2026-10-30T03:01:14.934Z",
     "raw": {
       "title": "Ping Identity: Channel Account Manager",
       "region": "Anywhere in the World",
@@ -1779,7 +1785,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-20T07:31:04.000Z",
-    "fetched_at": "2026-10-29T22:02:53.121Z",
+    "fetched_at": "2026-10-30T03:01:14.936Z",
     "raw": {
       "title": "Carrot: Director, Information Security",
       "region": "Anywhere in the World",
@@ -1822,7 +1828,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-19T07:31:25.000Z",
-    "fetched_at": "2026-10-29T22:02:53.121Z",
+    "fetched_at": "2026-10-30T03:01:14.938Z",
     "raw": {
       "title": "Flexport: Senior Security Engineer, Detection & Response",
       "region": "Anywhere in the World",
@@ -1872,7 +1878,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-18T07:30:58.000Z",
-    "fetched_at": "2026-10-29T22:02:53.122Z",
+    "fetched_at": "2026-10-30T03:01:14.939Z",
     "raw": {
       "title": "PlanetScale: Enterprise Support Engineer",
       "region": "Anywhere in the World",
@@ -1919,7 +1925,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-17T07:30:54.000Z",
-    "fetched_at": "2026-10-29T22:02:53.123Z",
+    "fetched_at": "2026-10-30T03:01:14.940Z",
     "raw": {
       "title": "Expel: Senior Detection & Response Engineer",
       "region": "Anywhere in the World",
@@ -1965,7 +1971,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-16T07:31:00.000Z",
-    "fetched_at": "2026-10-29T22:02:53.124Z",
+    "fetched_at": "2026-10-30T03:01:14.941Z",
     "raw": {
       "title": "BeyondTrust: Cloud Network Engineer",
       "region": "Anywhere in the World",
@@ -2004,7 +2010,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-15T07:31:14.000Z",
-    "fetched_at": "2026-10-29T22:02:53.125Z",
+    "fetched_at": "2026-10-30T03:01:14.942Z",
     "raw": {
       "title": "Abnormal: Customer Solutions Engineer, EMEA",
       "region": "Anywhere in the World",
@@ -2043,7 +2049,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:14.000Z",
-    "fetched_at": "2026-10-29T22:02:53.126Z",
+    "fetched_at": "2026-10-30T03:01:14.943Z",
     "raw": {
       "title": "Keeper Security: Associate Talent Acquisition Partner, Tech",
       "region": "Anywhere in the World",
@@ -2082,7 +2088,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:11.000Z",
-    "fetched_at": "2026-10-29T22:02:53.127Z",
+    "fetched_at": "2026-10-30T03:01:14.945Z",
     "raw": {
       "title": "Keeper Security: Analyst Relations Manager",
       "region": "Anywhere in the World",
@@ -2131,7 +2137,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:11.000Z",
-    "fetched_at": "2026-10-29T22:02:53.128Z",
+    "fetched_at": "2026-10-30T03:01:14.946Z",
     "raw": {
       "title": "Current: Senior Engineer (.NET)",
       "region": "Anywhere in the World",
@@ -2173,7 +2179,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-12T07:31:05.000Z",
-    "fetched_at": "2026-10-29T22:02:53.129Z",
+    "fetched_at": "2026-10-30T03:01:14.947Z",
     "raw": {
       "title": "Datadog: Enterprise Security Sales Specialist",
       "region": "Anywhere in the World",
@@ -2212,7 +2218,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-08T07:31:21.000Z",
-    "fetched_at": "2026-10-29T22:02:53.129Z",
+    "fetched_at": "2026-10-30T03:01:14.949Z",
     "raw": {
       "title": "Abnormal: Director, Renewals",
       "region": "Anywhere in the World",
@@ -2257,7 +2263,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-06T07:31:09.000Z",
-    "fetched_at": "2026-10-29T22:02:53.131Z",
+    "fetched_at": "2026-10-30T03:01:14.950Z",
     "raw": {
       "title": "LaunchDarkly: Engineering Manager, Cloud Engineering",
       "region": "Anywhere in the World",
@@ -2303,7 +2309,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-29T22:02:53.131Z",
+    "fetched_at": "2026-10-30T03:01:14.951Z",
     "raw": {
       "title": "Vercel: Senior Manager, Solutions Architect",
       "region": "Anywhere in the World",
@@ -2349,7 +2355,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-03T07:31:20.000Z",
-    "fetched_at": "2026-10-29T22:02:53.132Z",
+    "fetched_at": "2026-10-30T03:01:14.952Z",
     "raw": {
       "title": "Vercel: Security Engineer, Cloud",
       "region": "Anywhere in the World",
