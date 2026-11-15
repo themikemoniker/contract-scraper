@@ -1,5 +1,245 @@
 [
   {
+    "id": "jobicy:162276",
+    "platform": "jobicy",
+    "external_id": "162276",
+    "title": "Principal Software Engineer - XTM One",
+    "company": "Filigran",
+    "description": "🌀 The Company Founded in 2022, Filigran is a global cybersecurity company on a mission to empower defense teams to be proactive through open-source solutions that uncover threats and drive action. Filigran stands out in the cybersecurity ecosystem through its open-source, AI-powered and threat-informed approach to Continuous Threat Exposure Management (CTEM). Our eXtended Threat Management (XTM) platform brings together threat intelligence, exposure validation and cyber risk reduction, enabling organizations to better understand their threat landscape and take action. At the heart of Filigran is our open-source approach. Our vision is to unite defenders into a global community to make security more open, resilient and collaborative. As Filigran continues to scale globally, we are building the organization, infrastructure and capabilities needed for our next stage of growth. How we scale matters just as much as how fast we scale: our CORE values: Cohesion, Openness, Responsibility and Equity shape how we work together, make decisions and build for the future. 🎯 The Role We're looking for a Principal Software Engineer to define and drive the technical direction of XTM One , Filigran's AI platform for threat informed defense and the agentic core of the XTM Suite. XTM One creates and runs cybersecurity expert AI agents and dispatches their intelligence across OpenCTI, OpenAEV and OpenGRC. It also hosts the suite's shared commons (unified authentication, consolidated datasets, configuration) and ships both as SaaS and on premises. Every XTM product connects to it, which makes its architecture one of the most structuring technical decisions at Filigran. This is not a management role: no headcount, no sprints. You own the technical craft, standards and vision of XTM One, and you carry them into the XTM Foundation, where the engineering principles shared by all products are set for the 60+ engineers at Filigran. 💼 Your Responsibilities Vision &amp; architecture Define and carry the technical vision of XTM One over the long term, with technical and product leadership. Own the platform architecture : agent runtime and orchestration, tool and MCP integrations, data and context layers, APIs, permission model, shared commons. Design for SaaS and on premises from day one: multitenancy, isolation, upgrade paths, configuration, operability in customer environments. Arbitrate key decisions on scalability, resilience, security, maintainability and cost, including LLM latency and inference cost. Standards &amp; quality Define the team's technical principles (architecture patterns, code quality, tooling, CI/CD, testing, development with AI assistants) and get them applied through docs, reviews, pairing and example. Set the bar for observability and reliability of nondeterministic AI workloads: metrics, logs, traces, evaluations, and guardrails that make agent behavior measurable and debuggable in production. Keep the right balance between features, technical debt and innovation. Integration across products &amp; XTM Foundation Define how OpenCTI, OpenAEV, OpenGRC and future products integrate with XTM One : contracts, authentication, data exchange, versioning. Be a full member of the XTM Foundation : bring the XTM One perspective in, carry its decisions back, and keep coherence with the other Principal and Staff Engineers. In the code Write production code, prototype new approaches before the team adopts them, review critical PRs so that feedback teaches, and unblock engineers. 🤝 Who You'll Work With Reports to: VP of Technology Key collaborators: XTM One engineering team and its verticals; XTM Foundation (Principal and Staff Engineers across OpenCTI, OpenAEV, OpenGRC); Product leadership; open source contributors. Working model: embedded in the XTM One team, with regular XTM Foundation work. 🧬 Profile We're Looking For 10+ years in software engineering, with technical leadership on complex production platforms. Strong fullstack background, with a backend and architecture focus. You master TypeScript and Python , the core languages of XTM One, and you can take a feature from the data model all the way to the UI. Strong system design : distributed systems, scalability, performance, security, observability. A 360° view of software engineering : product need, design, code and tests, CI/CD, packaging and release, infrastructure and deployment, production operations, monitoring, incident response. A container image or an upgrade path is as familiar to you as an API contract. Built and operated platforms delivered both as SaaS and on premises , including multitenancy and enterprise constraints. Strong AI affinity. You've been building with LLMs by choice for a year or two, with LLM systems in production : agent frameworks, tool calling, MCP, RAG and vector search, evaluation, and the discipline to make them reliable. Technical watch is part of the job. You keep up with your craft deliberately (reading, experimenting, prototyping) and turn what you learn into concrete proposals. You define and carry technical standards : you raise the bar on a team, you don't just follow it. Excellent written communication in English: design docs, ADRs and review comments that others learn from. Autonomous and at ease in a remote, asynchronous culture ; you drive problems to resolution and enable others instead of becoming a bottleneck. Bonus: cybersecurity domain knowledge (CTI, CTEM, MITRE ATT&amp;CK, STIX/TAXII); extensible plugin or tool ecosystems; open source contributions or maintainership. 🛡️ About XTM One XTM One is Filigran's AI platform for threat informed defense . It is dedicated to creating and running cybersecurity expert AI agents and dispatching their intelligence across the products of the XTM Suite. Every product of the XTM Suite is connected to XTM One to leverage AI agents for a more proactive platform that is easier to use. Within XTM One, agents can use and correlate data across products to make the most meaningful assessments and take the most relevant actions. XTM One also hosts shared commons such as unified authentication and consolidated datasets and configuration. 🌱 Why Join Filigran? More than just a job. We are a fast-growing, global and remote-first company , and we believe the best work combines purpose, impact and innovation . You’ll work alongside talented people across the world who care about what they build, how they build it, and the impact they make on the broader cybersecurity ecosystem. ⭐ Be part of something bigger We believe we do work that matters. Our open-source approach means that work extends beyond Filigran. You’re contributing to technology and ideas that strengthen a global community of defenders and help make cybersecurity more open and collaborative. 💻 Work at the edge of what’s next We bring together cybersecurity, open source and AI — giving you the opportunity to work with emerging technologies, experiment with new ways of working, and contribute to how they are applied in practice. 🌍 Global opportunity without borders Be part of a fast-growing, truly international team — collaborating across Europe, North America, APJ and beyond, with the flexibility of a remote-first environment. As we grow, you’ll have opportunities to expand your scope, take ownership, learn quickly and grow with us. 🧭 A culture grounded in CORE Cohesion, Openness, Responsibility and Equity define how we work together — with openness, ownership, collaboration and respect. These are the principles that guide how we make decisions, treat people and grow together, especially when no one’s watching. 💰 What you can expect Competitive compensation + equity — everyone shares in our success Remote-first flexibility — work from wherever you’re based, with flexibility built into how we operate 25 days PTO baseline — real time to disconnect, recharge and enjoy life outside work Volunteer days — paid time to contribute to causes that matter to you Set up for success — choose the equipment that works for you, with additional support for your remote work and development needs as our programs evolve Two annual in-person get-togethers — one global company get-together and one team get-together, creating dedicated time to connect, collaborate and strengthen our culture beyond the screen 🌍 Equal Employment Opportunity We enable cybersecurity through inclusion — from code to culture. At Filigran, we are proud to be an equal opportunity employer. We believe the diversity of our people makes our products and our team stronger. We welcome talent of every background, identity and lived experience, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability or veteran status. What matters here is what you bring, not what you look like, where you’re from or how you identify. 🚀 Ready to Join Us? Apply now and help us build the future of the cybersecurity ecosystem, together.",
+    "url": "https://jobicy.com/jobs/162276-principal-software-engineer-xtm-one",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "France,  Germany,  Italy,  Portugal,  Spain,  UK",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript",
+      "python",
+      "llm",
+      "rag"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-11-15T04:02:35+00:00",
+    "fetched_at": "2026-11-15T12:59:07.279Z",
+    "raw": {
+      "id": 162276,
+      "url": "https://jobicy.com/jobs/162276-principal-software-engineer-xtm-one",
+      "jobSlug": "162276-principal-software-engineer-xtm-one",
+      "jobTitle": "Principal Software Engineer - XTM One",
+      "companyName": "Filigran",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/7b905d81717f-221.webp",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "France,  Germany,  Italy,  Portugal,  Spain,  UK",
+      "jobLevel": "Director",
+      "jobExcerpt": "The Company Founded in 2022, Filigran is a global cybersecurity company on a mission to empower defense teams to be proactive through open-source solutions that uncover threats and drive action. Filigran stands out in the cybersecurity ecosystem through its open-source, AI-powered and threat-informed approach to Continuous Threat Exposure Management (CTEM). Our eXtended Threat Management&hellip;",
+      "jobDescription": "<h3>🌀 The Company</h3>\n<p><strong>Founded in 2022, <a href=\"https://jobicy.com/company/filigran\" target=\"_blank\" rel=\"noopener\">Filigran</a> is a global cybersecurity company on a mission to empower defense teams to be proactive through open-source solutions that uncover threats and drive action.</strong></p>\n<p>Filigran stands out in the cybersecurity ecosystem through its open-source, AI-powered and threat-informed approach to Continuous Threat Exposure Management (CTEM). Our eXtended Threat Management (XTM) platform brings together threat intelligence, exposure validation and cyber risk reduction, enabling organizations to better understand their threat landscape and take action.</p>\n<p>At the heart of Filigran is our open-source approach. Our vision is to unite defenders into a global community to make security more open, resilient and collaborative.</p>\n<p>As Filigran continues to scale globally, we are building the organization, infrastructure and capabilities needed for our next stage of growth. How we scale matters just as much as how fast we scale: our CORE values: Cohesion, Openness, Responsibility and Equity shape how we work together, make decisions and build for the future.</p>\n<h3>🎯 The Role</h3>\n<p>We're looking for a <strong>Principal Software Engineer</strong> to define and drive the technical direction of <strong>XTM One</strong>, Filigran's AI platform for threat informed defense and the agentic core of the XTM Suite.</p>\n<p>XTM One creates and runs cybersecurity expert AI agents and dispatches their intelligence across OpenCTI, OpenAEV and OpenGRC. It also hosts the suite's shared commons (unified authentication, consolidated datasets, configuration) and ships both as SaaS and on premises. Every XTM product connects to it, which makes its architecture one of the most structuring technical decisions at Filigran.</p>\n<p>This is not a management role: no headcount, no sprints. You own the <strong>technical craft, standards and vision</strong> of XTM One, and you carry them into the XTM Foundation, where the engineering principles shared by all products are set for the 60+ engineers at Filigran.</p>\n\n<h3>💼 Your Responsibilities</h3>\n<p><strong>Vision &amp; architecture</strong></p>\n<ul>\n<li>\n<p>Define and carry the <strong>technical vision</strong> of XTM One over the long term, with technical and product leadership.</p>\n</li>\n<li>\n<p>Own the <strong>platform architecture</strong>: agent runtime and orchestration, tool and MCP integrations, data and context layers, APIs, permission model, shared commons.</p>\n</li>\n<li>\n<p>Design for <strong>SaaS and on premises</strong> from day one: multitenancy, isolation, upgrade paths, configuration, operability in customer environments.</p>\n</li>\n<li>\n<p>Arbitrate key decisions on scalability, resilience, security, maintainability and cost, including LLM latency and inference cost.</p>\n</li>\n</ul>\n<p><strong>Standards &amp; quality</strong></p>\n<ul>\n<li>\n<p>Define the team's <strong>technical principles</strong> (architecture patterns, code quality, tooling, CI/CD, testing, development with AI assistants) and get them applied through docs, reviews, pairing and example.</p>\n</li>\n<li>\n<p>Set the bar for <strong>observability and reliability</strong> of nondeterministic AI workloads: metrics, logs, traces, evaluations, and guardrails that make agent behavior measurable and debuggable in production.</p>\n</li>\n<li>\n<p>Keep the right balance between features, technical debt and innovation.</p>\n</li>\n</ul>\n<p><strong>Integration across products &amp; XTM Foundation</strong></p>\n<ul>\n<li>\n<p>Define <strong>how OpenCTI, OpenAEV, OpenGRC and future products integrate with XTM One</strong>: contracts, authentication, data exchange, versioning.</p>\n</li>\n<li>\n<p>Be a full member of the <strong>XTM Foundation</strong>: bring the XTM One perspective in, carry its decisions back, and keep coherence with the other Principal and Staff Engineers.</p>\n</li>\n</ul>\n<p><strong>In the code</strong></p>\n<ul>\n<li>\n<p>Write production code, prototype new approaches before the team adopts them, review critical PRs so that feedback teaches, and unblock engineers.</p>\n</li>\n</ul>\n<h3>🤝 Who You'll Work With</h3>\n<ul>\n<li>\n<p><strong>Reports to:</strong> VP of Technology</p>\n</li>\n<li>\n<p><strong>Key collaborators:</strong> XTM One engineering team and its verticals; XTM Foundation (Principal and Staff Engineers across OpenCTI, OpenAEV, OpenGRC); Product leadership; open source contributors.</p>\n</li>\n<li>\n<p><strong>Working model:</strong> embedded in the XTM One team, with regular XTM Foundation work.</p>\n</li>\n</ul>\n<h3>🧬 Profile We're Looking For</h3>\n<ul>\n<li>\n<p><strong>10+ years</strong> in software engineering, with technical leadership on complex production platforms.</p>\n</li>\n<li>\n<p><strong>Strong fullstack background, with a backend and architecture focus.</strong> You master <strong>TypeScript and Python</strong>, the core languages of XTM One, and you can take a feature from the data model all the way to the UI.</p>\n</li>\n<li>\n<p>Strong <strong>system design</strong>: distributed systems, scalability, performance, security, observability.</p>\n</li>\n<li>\n<p>A <strong>360° view of software engineering</strong>: product need, design, code and tests, CI/CD, packaging and release, infrastructure and deployment, production operations, monitoring, incident response. A container image or an upgrade path is as familiar to you as an API contract.</p>\n</li>\n<li>\n<p>Built and operated platforms delivered <strong>both as SaaS and on premises</strong>, including multitenancy and enterprise constraints.</p>\n</li>\n<li>\n<p><strong>Strong AI affinity.</strong> You've been building with LLMs by choice for a year or two, with <strong>LLM systems in production</strong>: agent frameworks, tool calling, MCP, RAG and vector search, evaluation, and the discipline to make them reliable.</p>\n</li>\n<li>\n<p><strong>Technical watch is part of the job.</strong> You keep up with your craft deliberately (reading, experimenting, prototyping) and turn what you learn into concrete proposals.</p>\n</li>\n<li>\n<p>You <strong>define and carry technical standards</strong>: you raise the bar on a team, you don't just follow it.</p>\n</li>\n<li>\n<p>Excellent <strong>written communication</strong> in English: design docs, ADRs and review comments that others learn from.</p>\n</li>\n<li>\n<p>Autonomous and at ease in a <strong>remote, asynchronous culture</strong>; you drive problems to resolution and enable others instead of becoming a bottleneck.</p>\n</li>\n<li>\n<p><strong>Bonus:</strong> cybersecurity domain knowledge (CTI, CTEM, MITRE ATT&amp;CK, STIX/TAXII); extensible plugin or tool ecosystems; open source contributions or maintainership.</p>\n</li>\n</ul>\n<h3>🛡️ About XTM One</h3>\n<p>XTM One is Filigran's <strong>AI platform for threat informed defense</strong>. It is dedicated to <strong>creating and running cybersecurity expert AI agents</strong> and dispatching their intelligence across the products of the XTM Suite.</p>\n<p>Every product of the XTM Suite is connected to XTM One to leverage AI agents for a more proactive platform that is easier to use. Within XTM One, agents can <strong>use and correlate data across products</strong> to make the most meaningful assessments and take the most relevant actions. XTM One also hosts shared commons such as <strong>unified authentication</strong> and consolidated datasets and configuration.</p>\n<h3>🌱 <strong>Why Join Filigran? More than just a job.</strong></h3>\n<p>We are a <strong>fast-growing, global and remote-first company</strong>, and we believe the best work combines <strong>purpose, impact and innovation</strong>. You’ll work alongside talented people across the world who care about what they build, how they build it, and the impact they make on the broader cybersecurity ecosystem.</p>\n\n<p>⭐ <strong>Be part of something bigger</strong></p>\n<p>We believe we do work that matters. Our open-source approach means that work extends beyond Filigran. You’re contributing to technology and ideas that strengthen a global community of defenders and help make cybersecurity more open and collaborative.</p>\n\n<p>💻 <strong>Work at the edge of what’s next</strong></p>\n<p>We bring together cybersecurity, open source and AI — giving you the opportunity to work with emerging technologies, experiment with new ways of working, and contribute to how they are applied in practice.</p>\n\n<p>🌍 <strong>Global opportunity without borders</strong></p>\n<p>Be part of a fast-growing, truly international team — collaborating across Europe, North America, APJ and beyond, with the flexibility of a remote-first environment. As we grow, you’ll have opportunities to expand your scope, take ownership, learn quickly and grow with us.</p>\n\n<p>🧭 <strong>A culture grounded in CORE</strong></p>\n<p><strong>Cohesion, Openness, Responsibility and Equity</strong> define how we work together — with openness, ownership, collaboration and respect. These are the principles that guide how we make decisions, treat people and grow together, especially when no one’s watching.</p>\n\n<h3>💰 <strong>What you can expect</strong></h3>\n\n<ul>\n<li>\n<p><strong>Competitive compensation + equity</strong> — everyone shares in our success</p>\n</li>\n<li>\n<p><strong>Remote-first flexibility</strong> — work from wherever you’re based, with flexibility built into how we operate</p>\n</li>\n<li>\n<p><strong>25 days PTO baseline</strong> — real time to disconnect, recharge and enjoy life outside work</p>\n</li>\n<li>\n<p><strong>Volunteer days</strong> — paid time to contribute to causes that matter to you</p>\n</li>\n<li>\n<p><strong>Set up for success</strong> — choose the equipment that works for you, with additional support for your remote work and development needs as our programs evolve</p>\n</li>\n<li>\n<p><strong>Two annual in-person get-togethers</strong> — one global company get-together and one team get-together, creating dedicated time to connect, collaborate and strengthen our culture beyond the screen</p>\n\n</li>\n</ul>\n<h3>🌍 <strong>Equal Employment Opportunity</strong></h3>\n<p><strong>We enable cybersecurity through inclusion — from code to culture.</strong></p>\n<p>At Filigran, we are proud to be an equal opportunity employer. We believe the diversity of our people makes our products and our team stronger. We welcome talent of every background, identity and lived experience, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability or veteran status.</p>\n<p>What matters here is what you bring, not what you look like, where you’re from or how you identify.</p>\n\n<h3>🚀 <strong>Ready to Join Us?</strong></h3>\n\n<p>Apply now and help us build the future of the cybersecurity ecosystem, together.</p>",
+      "pubDate": "2026-11-15T04:02:35+00:00"
+    }
+  },
+  {
+    "id": "jobicy:155385",
+    "platform": "jobicy",
+    "external_id": "155385",
+    "title": "AI Platform Engineer",
+    "company": "Supabase",
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are hiring a AI Platform Engineer to build the execution layer for Supabase's internal AI systems. Supabase is building an AI-native internal operating system: a common way of working across the company where AI carries a meaningful share of the operational load rather than sitting alongside it as an assistant. We are standing up a new central team to build those systems, enable the teams, and embed AI operations throughout the organization. You are the engineer on that team. The execution layer is yours. You will build the platform that actually runs agents: an event-triggered queue, a headless model-agnostic runtime, durable state so work survives a restart, a human review gate, atomic rollback, and full logging of every prompt, tool call and decision so any run can be reconstructed. You will build the evaluation layer that makes any of it trustworthy, because an agent that cannot be measured cannot be trusted with anything beyond reading. And you will build the agents themselves, across everything from executive reporting down to a layer of agents that watch the platform and improve it. This is a governance-heavy environment by design, and that is the interesting part of the problem. Agents are risk-tiered from read-only internal data through to external-facing output, with review depth, evaluation requirements and human approval scaling by tier. Some capabilities are permanently off limits: an agent may read and report, it may carry a human-authored update into a system of record once a human consents, and it may initiate contact within a strict budget, but it may never autonomously write a commitment (an owner, a due date, a status) into a shared work system. Your job is to make that structurally impossible rather than merely forbidden. You will be the only engineer on this platform. You will close open architecture decisions yourself, own the infrastructure end to end, and instrument the system so it reports its own return. What You'll Be Responsible For In this role, you'll: Ship the agent platform to production. An event-triggered queue, a headless model-agnostic runtime (choosing the runtime is an open decision you will close), durable state that survives a failed run, a human review gate, atomic rollback, and complete run logging in the warehouse. Own the evaluation layer, and switch on the gate that depends on it. Golden suites with behavioral assertions rather than intuition, judge criteria with a written rubric, safety cases that must pass on every run, and a CI gate that blocks a regression from merging. This is the precondition for every agent that does anything beyond read internal data. Build and register the agent portfolio. Reporting, drafting, linting, triage and question-answering agents across the executive, team-lead and individual-contributor layers, plus a meta layer that observes the platform and improves it. Enforce governance in code. Risk tiers the pipeline actually enforces, least-privilege credentials per agent, tool-permission gates, a decision audit log, and autonomy classes where the dangerous class has no code path rather than a warning label. Nothing runs without a registered owner, tier, tool grant and human gate. Design how the system contacts people. A hard interruption budget per person, message bundling instead of a stream of pings, and a structure that gives something useful before it asks for anything. Adoption depends on this more than on any other single design choice. Own the platform tooling. The compiler and validator, inventory integrity, and the paths that distribute context and capabilities into the repositories and chat surfaces where work happens. Compute the operating measures from production data. A pipeline from raw system activity through to a computed maturity grade per team, defensible enough that a team can dispute the result and be answered with the query rather than an opinion. Instrument the platform's own return. A ledger that logs the work each agent absorbs and computes the monthly figure, so the value of the system is a measurement rather than a claim. How You'll Think Recursive Thinking You build the generator, not the artifact. When you need thirty agents, you do not write thirty agents; you build the inventory, the compiler and the distribution path that makes the thirty-first cost an afternoon, then a meta layer whose job is to watch the platform, find its drift and file the fix. The evaluation layer is the same move applied to trust. You are not checking whether one agent is correct today. You are building the machine that decides whether every future agent is allowed to ship, which means the suite has to be right in a way the agent does not, and the thing that grades has to be graded too. Inversion Thinking You start from the failure and work backward to the design. The rule is that an agent may never autonomously write a commitment into a shared work system. The weak implementation is an instruction in a prompt. The strong one is that the credential in the agent's tool grant physically cannot set an owner, a due date or a status, so no amount of clever input, prompt injection or model error produces the forbidden write. You reach for the second one first. Same for evaluation. Before writing a suite you enumerate how the agent can be wrong: an update that invents progress that did not happen, one that quotes a private channel into a public digest, one that is accurate and reads as an accusation, one that credits the wrong person. Then the suite is that list, each case caught before the agent ships rather than after it embarrasses someone. AI-Native Execution You use agentic tools on real work, in files and repositories, with the same rigor you apply to anything else you ship. You have a setup of your own and can describe it mechanically: what triggers it, what it is allowed to touch, where the human approves, what it logs, and how you found out the one time it went wrong. That experience is this job, generalized. You are building for async engineers across 40+ countries who will judge the platform by whether it saves them an hour or costs them one, so you are your own first user and your own harshest reviewer. You Might Be a Good Fit If You Must Have Have shipped production LLM agent systems that other people depended on. Not demos, not internal showcases. Systems with operational history, real users and at least one incident you can talk through. Prompt engineering on its own does not clear this bar. Design evaluations, not spot checks. You build golden sets, write behavioral assertions, define judge rubrics, set pass thresholds and gate CI on the result. You can explain why \"we reviewed a bunch of outputs and they looked good\" is not evaluation. Have done deep API work against the systems work actually lives in , and have authored MCP servers. You know the specific failure modes of those APIs, not just that they exist. Own infrastructure end to end in Python on GCP, with a cloud warehouse and infrastructure as code. You provision, deploy, monitor and roll back your own systems, and you close architecture decisions rather than routing them onward. Have taste about how software contacts humans. You treat every notification as spending a limited amount of trust. Strong Signal Public work in this space. An open-source agent framework, an MCP server, an evaluation harness, or writing on agent reliability that other practitioners cite. LLM observability and cost instrumentation. Tracing agent runs, attributing spend per run, and building the queries that turn raw logs into a report someone acts on. You have built an internal platform that non-engineers adopted voluntarily , and can describe what you changed after watching them use it. What Success Looks Like The platform is boring. Agents run on a schedule and on events, state survives restarts, failed runs roll back cleanly, and every run can be reconstructed from its log. Nothing ships unevaluated. Every registered agent has a real suite with safety cases, the gate blocks regressions, and when someone challenges an output the answer is a test case rather than an argument. The dangerous action is impossible, not discouraged. An audit of any agent's credentials shows it cannot perform the writes it is not allowed to perform, and the audit log makes every consequential decision traceable. Teams pull the platform instead of being pushed. Agents get adopted because the reports are useful and the contact is rare and well-timed, and each team ends up with at least one workflow that runs automatically. The platform reports its own value. The work absorbed is measured and published, so the case for expanding it is made with data rather than enthusiasm. What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
+    "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Anywhere",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "postgresql",
+      "supabase",
+      "gcp",
+      "llm"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-11-15T03:45:11+00:00",
+    "fetched_at": "2026-11-15T12:59:07.282Z",
+    "raw": {
+      "id": 155385,
+      "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+      "jobSlug": "155385-ai-platform-engineer",
+      "jobTitle": "AI Platform Engineer",
+      "companyName": "Supabase",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/611d3bfa-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Anywhere",
+      "jobLevel": "Director",
+      "jobExcerpt": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are hiring a AI Platform Engineer to build the execution layer for Supabase's&hellip;",
+      "jobDescription": "<h3>About Supabase</h3>\n<p>Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.</p>\n<h3>About the Role</h3>\n<p>We are hiring a <strong>AI Platform Engineer</strong> to build the execution layer for Supabase's internal AI systems.</p>\n<p>Supabase is building an AI-native internal operating system: a common way of working across the company where AI carries a meaningful share of the operational load rather than sitting alongside it as an assistant. We are standing up a new central team to build those systems, enable the teams, and embed AI operations throughout the organization. You are the engineer on that team.</p>\n<p>The execution layer is yours. You will build the platform that actually runs agents: an event-triggered queue, a headless model-agnostic runtime, durable state so work survives a restart, a human review gate, atomic rollback, and full logging of every prompt, tool call and decision so any run can be reconstructed. You will build the evaluation layer that makes any of it trustworthy, because an agent that cannot be measured cannot be trusted with anything beyond reading. And you will build the agents themselves, across everything from executive reporting down to a layer of agents that watch the platform and improve it.</p>\n<p>This is a governance-heavy environment by design, and that is the interesting part of the problem. Agents are risk-tiered from read-only internal data through to external-facing output, with review depth, evaluation requirements and human approval scaling by tier. Some capabilities are permanently off limits: an agent may read and report, it may carry a human-authored update into a system of record once a human consents, and it may initiate contact within a strict budget, but it may never autonomously write a commitment (an owner, a due date, a status) into a shared work system. Your job is to make that structurally impossible rather than merely forbidden.</p>\n<p>You will be the only engineer on this platform. You will close open architecture decisions yourself, own the infrastructure end to end, and instrument the system so it reports its own return.</p>\n<h3>What You'll Be Responsible For</h3>\n<p>In this role, you'll:</p>\n<ul>\n<li>\n<p><strong>Ship the agent platform to production.</strong> An event-triggered queue, a headless model-agnostic runtime (choosing the runtime is an open decision you will close), durable state that survives a failed run, a human review gate, atomic rollback, and complete run logging in the warehouse.</p>\n</li>\n<li>\n<p><strong>Own the evaluation layer, and switch on the gate that depends on it.</strong> Golden suites with behavioral assertions rather than intuition, judge criteria with a written rubric, safety cases that must pass on every run, and a CI gate that blocks a regression from merging. This is the precondition for every agent that does anything beyond read internal data.</p>\n</li>\n<li>\n<p><strong>Build and register the agent portfolio.</strong> Reporting, drafting, linting, triage and question-answering agents across the executive, team-lead and individual-contributor layers, plus a meta layer that observes the platform and improves it.</p>\n</li>\n<li>\n<p><strong>Enforce governance in code.</strong> Risk tiers the pipeline actually enforces, least-privilege credentials per agent, tool-permission gates, a decision audit log, and autonomy classes where the dangerous class has no code path rather than a warning label. Nothing runs without a registered owner, tier, tool grant and human gate.</p>\n</li>\n<li>\n<p><strong>Design how the system contacts people.</strong> A hard interruption budget per person, message bundling instead of a stream of pings, and a structure that gives something useful before it asks for anything. Adoption depends on this more than on any other single design choice.</p>\n</li>\n<li>\n<p><strong>Own the platform tooling.</strong> The compiler and validator, inventory integrity, and the paths that distribute context and capabilities into the repositories and chat surfaces where work happens.</p>\n</li>\n<li>\n<p><strong>Compute the operating measures from production data.</strong> A pipeline from raw system activity through to a computed maturity grade per team, defensible enough that a team can dispute the result and be answered with the query rather than an opinion.</p>\n</li>\n<li>\n<p><strong>Instrument the platform's own return.</strong> A ledger that logs the work each agent absorbs and computes the monthly figure, so the value of the system is a measurement rather than a claim.</p>\n</li>\n</ul>\n<h3>How You'll Think</h3>\n<h3>Recursive Thinking</h3>\n<p>You build the generator, not the artifact. When you need thirty agents, you do not write thirty agents; you build the inventory, the compiler and the distribution path that makes the thirty-first cost an afternoon, then a meta layer whose job is to watch the platform, find its drift and file the fix.</p>\n<p>The evaluation layer is the same move applied to trust. You are not checking whether one agent is correct today. You are building the machine that decides whether every future agent is allowed to ship, which means the suite has to be right in a way the agent does not, and the thing that grades has to be graded too.</p>\n<h3>Inversion Thinking</h3>\n<p>You start from the failure and work backward to the design. The rule is that an agent may never autonomously write a commitment into a shared work system. The weak implementation is an instruction in a prompt. The strong one is that the credential in the agent's tool grant physically cannot set an owner, a due date or a status, so no amount of clever input, prompt injection or model error produces the forbidden write. You reach for the second one first.</p>\n<p>Same for evaluation. Before writing a suite you enumerate how the agent can be wrong: an update that invents progress that did not happen, one that quotes a private channel into a public digest, one that is accurate and reads as an accusation, one that credits the wrong person. Then the suite is that list, each case caught before the agent ships rather than after it embarrasses someone.</p>\n<h3>AI-Native Execution</h3>\n<p>You use agentic tools on real work, in files and repositories, with the same rigor you apply to anything else you ship. You have a setup of your own and can describe it mechanically: what triggers it, what it is allowed to touch, where the human approves, what it logs, and how you found out the one time it went wrong.</p>\n<p>That experience is this job, generalized. You are building for async engineers across 40+ countries who will judge the platform by whether it saves them an hour or costs them one, so you are your own first user and your own harshest reviewer.</p>\n<h3>You Might Be a Good Fit If You</h3>\n<h3>Must Have</h3>\n<ul>\n<li>\n<p><strong>Have shipped production LLM agent systems that other people depended on.</strong> Not demos, not internal showcases. Systems with operational history, real users and at least one incident you can talk through. Prompt engineering on its own does not clear this bar.</p>\n</li>\n<li>\n<p><strong>Design evaluations, not spot checks.</strong> You build golden sets, write behavioral assertions, define judge rubrics, set pass thresholds and gate CI on the result. You can explain why \"we reviewed a bunch of outputs and they looked good\" is not evaluation.</p>\n</li>\n<li>\n<p><strong>Have done deep API work against the systems work actually lives in</strong>, and have authored MCP servers. You know the specific failure modes of those APIs, not just that they exist.</p>\n</li>\n<li>\n<p><strong>Own infrastructure end to end</strong> in Python on GCP, with a cloud warehouse and infrastructure as code. You provision, deploy, monitor and roll back your own systems, and you close architecture decisions rather than routing them onward.</p>\n</li>\n<li>\n<p><strong>Have taste about how software contacts humans.</strong> You treat every notification as spending a limited amount of trust.</p>\n</li>\n</ul>\n<h3>Strong Signal</h3>\n<ul>\n<li>\n<p><strong>Public work in this space.</strong> An open-source agent framework, an MCP server, an evaluation harness, or writing on agent reliability that other practitioners cite.</p>\n</li>\n<li>\n<p><strong>LLM observability and cost instrumentation.</strong> Tracing agent runs, attributing spend per run, and building the queries that turn raw logs into a report someone acts on.</p>\n</li>\n<li>\n<p><strong>You have built an internal platform that non-engineers adopted voluntarily</strong>, and can describe what you changed after watching them use it.</p>\n</li>\n</ul>\n<h3>What Success Looks Like</h3>\n<ul>\n<li>\n<p><strong>The platform is boring.</strong> Agents run on a schedule and on events, state survives restarts, failed runs roll back cleanly, and every run can be reconstructed from its log.</p>\n</li>\n<li>\n<p><strong>Nothing ships unevaluated.</strong> Every registered agent has a real suite with safety cases, the gate blocks regressions, and when someone challenges an output the answer is a test case rather than an argument.</p>\n</li>\n<li>\n<p><strong>The dangerous action is impossible, not discouraged.</strong> An audit of any agent's credentials shows it cannot perform the writes it is not allowed to perform, and the audit log makes every consequential decision traceable.</p>\n</li>\n<li>\n<p><strong>Teams pull the platform instead of being pushed.</strong> Agents get adopted because the reports are useful and the contact is rare and well-timed, and each team ends up with at least one workflow that runs automatically.</p>\n</li>\n<li>\n<p><strong>The platform reports its own value.</strong> The work absorbed is measured and published, so the case for expanding it is made with data rather than enthusiasm.</p>\n</li>\n</ul>\n<h3><strong>What We Offer</strong></h3>\n<ul>\n<li>\n<p><strong>Fully Remote</strong></p>\n<p>We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.</p>\n</li>\n<li>\n<p><strong>ESOP</strong></p>\n<p>Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.</p>\n</li>\n<li>\n<p><strong>Tech Allowance</strong></p>\n<p>Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.</p>\n</li>\n<li>\n<p><strong>Health Benefits</strong></p>\n<p>Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.</p>\n</li>\n<li>\n<p><strong>Annual Off-Sites</strong></p>\n<p>Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.</p>\n</li>\n<li>\n<p><strong>Flexible Work</strong></p>\n<p>We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.</p>\n</li>\n<li>\n<p><strong>Professional Development</strong></p>\n<p>Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.</p>\n</p>\n</li>\n</ul>\n<h3><strong>About the Team</strong></h3>\n<p>Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.</p>\n<ul>\n<li>\n<p>~400 team members</p>\n</li>\n<li>\n<p>60+ countries</p>\n</li>\n<li>\n<p>20+ languages spoken</p>\n</li>\n<li>\n<p>Over $1B raised (including our $500M Series F)</p>\n</li>\n<li>\n<p>540,000+ community members</p>\n</li>\n</ul>\n<p>We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.</p>",
+      "pubDate": "2026-11-15T03:45:11+00:00"
+    }
+  },
+  {
+    "id": "jobicy:155375",
+    "platform": "jobicy",
+    "external_id": "155375",
+    "title": "Solutions Architect f/m/d",
+    "company": "Apaleo",
+    "description": "Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt to every stay. Why this role You are the technical voice in front of strategic customers, at a moment when hospitality is being rebuilt around AI. We are launching our own AI agent platform, and we need architects who can show operators what comes next. High trust. You own the technical answer in front of strategic customers and deals. High visibility. Your work shows up in deals, key accounts and customer stories, and it reaches Product. High freedom. You decide how to solve a problem, which tools to use and what to prototype. Fast iteration. We test ideas within days, try new technology early and share what works. Your mission Win and grow strategic accounts with technical credibility, and turn what you learn in the field into input for the product. You look at a customer's current architecture and show how an Apaleo-centred setup delivers their goals. You also help them put AI agents to work, deciding what should be an agent, what it costs and how to set it up. Sales and Account Management own the relationship and the commercial terms. You own the technical answer. What you will do Technical discovery and solution scoping. Lead discovery where a standard demo is not enough. Write clear scopes covering what Apaleo delivers natively, what needs a short-term solution and what is out of scope. Proofs of concept. Build fast, working proofs of concept (quick demos that show technical fit). Agree scope in writing first, and build in a safe test environment, never with live guest data. Agents and automations. Design and build agents and automations for customer use cases, using n8n or Make today and Apaleo's own AI agent platform as it launches. Write code where agents need deterministic steps. Hands-on delivery and short-term solutions. Work alongside the customer, building only where it unblocks a named deal, removes an adoption risk or fills a product gap. Agree an exit plan (an end date, a replacement and a named owner) before you start. Post-sale health checks and expansions. Diagnose gaps against the go-live specification, run proactive checks (for example 90 days after go-live) and scope integrations for expanding customers. Reusable assets. Turn every engagement into a reference architecture, pattern or template that the next twenty customers can use. Thought leadership. Join prospect and customer conversations on how AI will change hospitality over the next two to three years. Product feedback. Test new technology on real customer problems. Share prototypes and field evidence with Product, ending every experiment with a clear decision: adopt, hand over or drop. How you work You decide the approach, the stack and the order of work. You protect three guardrails: written scope before a proof of concept, an exit plan before a custom build and no commercial promises. You go from idea to prototype in days and show it early. You think in systems and build for reuse, not one-off projects. You share findings openly with Sales, Account Management and Product. Who you work with Sales/BD and Account Management (they call you in at defined deal triggers), Customer Success, Product, Security, Partnerships, RevOps and Senior Leadership. What you bring Must have Multiple years in solution architecture, solution engineering or technical consulting in B2B SaaS, ideally with complex software such as ERP or enterprise platforms Strong API skills: REST, authentication, webhooks and events, and data-flow design Hands-on workflow automation (n8n preferred) and practical experience building with LLM agents A systems thinker with real AI curiosity, who uses AI tools day to day Stakeholder management experience and credibility with executives and IT teams Self-direction, an ownership mindset and the discipline to say no to scope that does not advance a deal Curiosity that ends in working prototypes, not just opinions Clear, structured documentation habits Fluent English and French skills Willingness to travel, including regularly to France and the UK Strong plus Hospitality or travel experience, including hotel operations and PMS concepts (reservations, folios, rate plans, night audit) Experience with another cloud PMS, channel manager or payments integrations Enterprise architecture experience on large, multi-site projects Applied AI or ML background, or experience with MCP and agent platforms SQL and BI fundamentals How we measure success Architecture engagements and blueprints delivered each quarter Customer satisfaction with your contribution Adoption of recommended apps, integrations and agents Share of engagements served by an existing reusable pattern Revenue impact e.g. deal unblocked, AI adoption, or churn averted Your first 90 days Days 1 to 30: Learn the platform and ways of working, shadow discovery and proof of concept work, and take over open customer projects. Days 31 to 60: Lead technical discovery on live deals and run your first health check with Account Management. Days 61 to 90: Deliver a proof of concept or short-term solution end to end with an exit plan, and share your first experiment with Product. What We Offer Culture &amp; Growth A Diverse &amp; International Team: Work alongside passionate professionals from over 20 nationalities, bringing unique cultural perspectives, backgrounds, and experiences to shape the future of hospitality tech. Growth &amp; Development: As we scale, so do your opportunities. You’ll benefit from 360° feedback reviews, a dedicated learning budget, and plenty of chances to take on more responsibility. Our evolving career framework ensures you have increasing opportunities to learn new skills, advance your career, and make an impact. Autonomy &amp; Ownership: Great ideas can come from anywhere. We empower you to take responsibility, make decisions, and contribute directly in an environment built on trust, transparency, and collaboration. Shape the Future of Hospitality Tech: Be part of a fast-growing scale-up transforming the hospitality industry. From day one, your work drives real impact and you’ll have the freedom to bring your ideas to life. Competitive &amp; Fair Compensation: We believe great work deserves great pay. Our salaries are competitive and guided by benchmarking data to ensure fairness across all roles and teams. We make sure to recognize and reward performance and contribution. Perks &amp; Lifestyle Flexible &amp; Remote Work Options: We focus on results, not clocking hours. You can work from home, the office or in a hybrid setup, with flexibility to adapt your schedule as long as it makes sense for your role, your team and our business. Team Connection: Strong connections fuel collaboration. We celebrate and connect through regular team dinners, company meetups, Oktoberfest celebrations, Christmas parties, and other offsite events. Paid Time Off: Enjoy 30 days of vacation to fully disconnect, recharge, and return inspired. Health &amp; Wellbeing: Prioritize your health with access to hundreds of gyms, fitness studios, and wellness options through our EGYM Wellpass membership. How you make an impact joining Apaleo: Joining Apaleo means more than just taking on a role it’s about driving real change in the hospitality industry. Your contributions will directly shape our innovative platform, influence company-wide decisions, and help redefine the future of hospitality tech. At Apaleo, your voice matters, your ideas are valued, and your impact is tangible. Be part of a team where your work fuels progress, collaboration sparks innovation, and growth is a shared journey. We are proud to be an Equal Opportunity and Affirmative Action Employer, committed to fostering a diverse, inclusive, and welcoming workplace. We encourage applications from individuals of all backgrounds, regardless of race, color, religion, gender identity or expression, sex, national origin, age, marital status, disability, or any other characteristic protected by applicable law. Your personal data will be handled with the utmost care and in compliance with GDPR and relevant data protection regulations. We celebrate differences and believe that diversity enriches our team and drives innovation.",
+    "url": "https://jobicy.com/jobs/155375-solutions-architect-f-m-d",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "France",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "llm",
+      "machine-learning"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-11-15T03:45:08+00:00",
+    "fetched_at": "2026-11-15T12:59:07.285Z",
+    "raw": {
+      "id": 155375,
+      "url": "https://jobicy.com/jobs/155375-solutions-architect-f-m-d",
+      "jobSlug": "155375-solutions-architect-f-m-d",
+      "jobTitle": "Solutions Architect f/m/d",
+      "companyName": "Apaleo",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/6d684c9f-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "France",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt to every stay. Why this role You are&hellip;",
+      "jobDescription": "<p>Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt to every stay.</p>\n<h3>Why this role</h3>\n<p>You are the technical voice in front of strategic customers, at a moment when hospitality is being rebuilt around AI. We are launching our own AI agent platform, and we need architects who can show operators what comes next.</p>\n<ul>\n<li><strong>High trust.</strong> You own the technical answer in front of strategic customers and deals.</li>\n<li><strong>High visibility.</strong> Your work shows up in deals, key accounts and customer stories, and it reaches Product.</li>\n<li><strong>High freedom.</strong> You decide how to solve a problem, which tools to use and what to prototype.</li>\n<li><strong>Fast iteration.</strong> We test ideas within days, try new technology early and share what works.</li>\n</ul>\n<h3>Your mission</h3>\n<p>Win and grow strategic accounts with technical credibility, and turn what you learn in the field into input for the product. You look at a customer's current architecture and show how an Apaleo-centred setup delivers their goals. You also help them put AI agents to work, deciding what should be an agent, what it costs and how to set it up. Sales and Account Management own the relationship and the commercial terms. You own the technical answer.</p>\n<h3>What you will do</h3>\n<ul>\n<li><strong>Technical discovery and solution scoping.</strong> Lead discovery where a standard demo is not enough. Write clear scopes covering what Apaleo delivers natively, what needs a short-term solution and what is out of scope.</li>\n<li><strong>Proofs of concept.</strong> Build fast, working proofs of concept (quick demos that show technical fit). Agree scope in writing first, and build in a safe test environment, never with live guest data.</li>\n<li><strong>Agents and automations.</strong> Design and build agents and automations for customer use cases, using n8n or Make today and Apaleo's own AI agent platform as it launches. Write code where agents need deterministic steps.</li>\n<li><strong>Hands-on delivery and short-term solutions.</strong> Work alongside the customer, building only where it unblocks a named deal, removes an adoption risk or fills a product gap. Agree an exit plan (an end date, a replacement and a named owner) before you start.</li>\n<li><strong>Post-sale health checks and expansions.</strong> Diagnose gaps against the go-live specification, run proactive checks (for example 90 days after go-live) and scope integrations for expanding customers.</li>\n<li><strong>Reusable assets.</strong> Turn every engagement into a reference architecture, pattern or template that the next twenty customers can use.</li>\n<li><strong>Thought leadership.</strong> Join prospect and customer conversations on how AI will change hospitality over the next two to three years.</li>\n<li><strong>Product feedback.</strong> Test new technology on real customer problems. Share prototypes and field evidence with Product, ending every experiment with a clear decision: adopt, hand over or drop.</li>\n</ul>\n<h3>How you work</h3>\n<ul>\n<li>You decide the approach, the stack and the order of work.</li>\n<li>You protect three guardrails: written scope before a proof of concept, an exit plan before a custom build and no commercial promises.</li>\n<li>You go from idea to prototype in days and show it early.</li>\n<li>You think in systems and build for reuse, not one-off projects.</li>\n<li>You share findings openly with Sales, Account Management and Product.</li>\n</ul>\n<h3>Who you work with</h3>\n<p>Sales/BD and Account Management (they call you in at defined deal triggers), Customer Success, Product, Security, Partnerships, RevOps and Senior Leadership. </p>\n<h3>What you bring</h3>\n<p><strong>Must have</strong></p>\n<ul>\n<li>Multiple years in solution architecture, solution engineering or technical consulting in B2B SaaS, ideally with complex software such as ERP or enterprise platforms</li>\n<li>Strong API skills: REST, authentication, webhooks and events, and data-flow design</li>\n<li>Hands-on workflow automation (n8n preferred) and practical experience building with LLM agents</li>\n<li>A systems thinker with real AI curiosity, who uses AI tools day to day</li>\n<li>Stakeholder management experience and credibility with executives and IT teams</li>\n<li>Self-direction, an ownership mindset and the discipline to say no to scope that does not advance a deal</li>\n<li>Curiosity that ends in working prototypes, not just opinions</li>\n<li>Clear, structured documentation habits</li>\n<li>Fluent English and French skills</li>\n<li>Willingness to travel, including regularly to France and the UK</li>\n</ul>\n<p><strong>Strong plus</strong></p>\n<ul>\n<li>Hospitality or travel experience, including hotel operations and PMS concepts (reservations, folios, rate plans, night audit)</li>\n<li>Experience with another cloud PMS, channel manager or payments integrations</li>\n<li>Enterprise architecture experience on large, multi-site projects</li>\n<li>Applied AI or ML background, or experience with MCP and agent platforms</li>\n<li>SQL and BI fundamentals</li>\n</ul>\n<h3>How we measure success</h3>\n<ul>\n<li>Architecture engagements and blueprints delivered each quarter</li>\n<li>Customer satisfaction with your contribution</li>\n<li>Adoption of recommended apps, integrations and agents</li>\n<li>Share of engagements served by an existing reusable pattern</li>\n<li>Revenue impact e.g. deal unblocked, AI adoption, or churn averted</li>\n</ul>\n<h3>Your first 90 days</h3>\n<ul>\n<li><strong>Days 1 to 30:</strong> Learn the platform and ways of working, shadow discovery and proof of concept work, and take over open customer projects.</li>\n<li><strong>Days 31 to 60:</strong> Lead technical discovery on live deals and run your first health check with Account Management.</li>\n<li><strong>Days 61 to 90:</strong> Deliver a proof of concept or short-term solution end to end with an exit plan, and share your first experiment with Product.</li>\n</ul>\n<h3><strong>What We Offer</strong></h3>\n<h3><strong>Culture &amp; Growth</strong></h3>\n<ul>\n<li><strong>A Diverse &amp; International Team:</strong> Work alongside passionate professionals from over 20 nationalities, bringing unique cultural perspectives, backgrounds, and experiences to shape the future of hospitality tech.</li>\n<li><strong>Growth &amp; Development:</strong> As we scale, so do your opportunities. You’ll benefit from 360° feedback reviews, a dedicated learning budget, and plenty of chances to take on more responsibility. Our evolving career framework ensures you have increasing opportunities to learn new skills, advance your career, and make an impact.</li>\n<li><strong>Autonomy &amp; Ownership:</strong> Great ideas can come from anywhere. We empower you to take responsibility, make decisions, and contribute directly in an environment built on trust, transparency, and collaboration.</li>\n<li><strong>Shape the Future of Hospitality Tech:</strong> Be part of a fast-growing scale-up transforming the hospitality industry. From day one, your work drives real impact and you’ll have the freedom to bring your ideas to life.</li>\n<li><strong>Competitive &amp; Fair Compensation:</strong> We believe great work deserves great pay. Our salaries are competitive and guided by benchmarking data to ensure fairness across all roles and teams. We make sure to recognize and reward performance and contribution.</li>\n</ul>\n<h3><strong>Perks &amp; Lifestyle</strong></h3>\n<ul>\n<li><strong>Flexible &amp; Remote Work Options:</strong> We focus on results, not clocking hours. You can work from home, the office or in a hybrid setup, with flexibility to adapt your schedule as long as it makes sense for your role, your team and our business.</li>\n<li><strong>Team Connection:</strong> Strong connections fuel collaboration. We celebrate and connect through regular team dinners, company meetups, Oktoberfest celebrations, Christmas parties, and other offsite events.</li>\n<li><strong>Paid Time Off:</strong> Enjoy <strong>30 days of vacation</strong> to fully disconnect, recharge, and return inspired.</li>\n<li><strong>Health &amp; Wellbeing:</strong> Prioritize your health with access to hundreds of gyms, fitness studios, and wellness options through our <strong>EGYM Wellpass</strong> membership.</li>\n</ul>\n<p><strong>How you make an impact joining Apaleo:</strong> Joining Apaleo means more than just taking on a role it’s about driving real change in the hospitality industry. Your contributions will directly shape our innovative platform, influence company-wide decisions, and help redefine the future of hospitality tech. At Apaleo, your voice matters, your ideas are valued, and your impact is tangible. Be part of a team where your work fuels progress, collaboration sparks innovation, and growth is a shared journey.</p>\n<p>We are proud to be an Equal Opportunity and Affirmative Action Employer, committed to fostering a diverse, inclusive, and welcoming workplace. We encourage applications from individuals of all backgrounds, regardless of race, color, religion, gender identity or expression, sex, national origin, age, marital status, disability, or any other characteristic protected by applicable law. Your personal data will be handled with the utmost care and in compliance with GDPR and relevant data protection regulations. We celebrate differences and believe that diversity enriches our team and drives innovation.</p></p>",
+      "pubDate": "2026-11-15T03:45:08+00:00"
+    }
+  },
+  {
+    "id": "jobicy:153164",
+    "platform": "jobicy",
+    "external_id": "153164",
+    "title": "Junior Software Engineer",
+    "company": "PolicyMe",
+    "description": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re building the future of insurance in Canada and beyond. We're building a groundbreaking new product line that will transform the insurance broker experience through AI and machine learning. As an AI-Driven Full Stack Engineer, you'll be part of a team charting new territory - designing and implementing intelligent systems that automate manual processes and unlock powerful data-driven insights. You will work across the stack, contributing to front end, back end, and AI/ML initiatives, while also participating in architecture discussions, release planning, and company-wide engineering initiatives. Our core stack includes Python, React, Redux, PostgreSQL, n8n, LangChain/LangGraph and AWS , and we are always open to adopting new tools and technologies that help us deliver better results. What you'll be doing: Develop full stack features for our AI-powered web application using Python, React, Redux, PostgreSQL and AWS Integrate AI models and APIs for tasks like document processing, data extraction, recommendation engines etc. Work closely with Sr. Engineers experienced in AI to seamlessly integrate models into production Stay current on emerging AI technologies/frameworks and explore new applications Build scalable, reliable backend services to fuel our AI workflows Create intuitive user experiences that surface AI-powered capabilities Participate in architecture planning, code reviews, and ideation sessions Take ownership of feature development end-to-end (once ramped up), coordinating with QA and other teams Engage in cross-team communication to help unblock dependencies and improve release flow Share ideas during quarterly planning to help shape what we build next Participate in company-wide initiatives such as hackathons, engineering guilds, and AI tooling experiments What we are looking for: Strong full-stack development skills with the ability to work across backend and frontend using Python, React, Redux, PostgreSQL, and AWS Familiarity with AI/ML concepts from coursework, side projects, or work experience Passion for building intelligent applications that solve real-world problems Eagerness to learn, embrace ambiguity, and continually upskill in a rapidly evolving space Hands-on experience or projects interacting with AI APIs/models (e.g. prompt engineering) Self-starter with a career-driven mindset who thrives in an environment with autonomy and accountability Collaborative team player with low ego who is open to feedback and eager to help others Detail-oriented approach to problem-solving, especially in complex domains Why join us: Generous PTO - 20 vacation days A comprehensive benefits plan with premiums paid in full by PolicyMe Investment in your professional development, including an L&amp;D budget, AI tooling budget, performance reviews twice a year and ongoing feedback to ensure you reach your highest potential An extremely high performing, low-ego, remote-first team that is truly disrupting an old industry Option to work from home or our Toronto-based office (bonus: we cover the costs to bring all our employees in-person twice a year for experiential socials!) Access to stock options based on performance Compensation: The total target cash compensation for this role is $80,000–$110,000 CAD , based on experience. We’ll walk through the details together during the interview. Compensation Additional Information About PolicyMe At PolicyMe, we are Canada’s leading digital insurance solution, offering straightforward and affordable financial protection for families from coast to coast. Our product suite includes Life Insurance, Critical Illness Insurance, and Health &amp; Dental Insurance, all tailored to Canadians' evolving needs. We also offer B2B2C solutions, partnering with organizations to provide seamless digital insurance options. Founded by a team of insurance experts and technology entrepreneurs, PolicyMe is committed to making insurance simpler and more accessible. Since our launch in 2018, we have grown exponentially, selling over $10 billion in insurance coverage to Canadians. We are proud of the team we’ve built and are excited for those that are yet to join us. We operate with a remote-first culture, attracting top talent from across Canada. If you’re looking for a fast-paced, collaborative environment, working alongside incredibly ambitious yet humble humans, we may be the right place for you! To learn more, visit www.policyme.com . Additional Notes - Job Vacancy: This role reflects growth in our team and expanded operational scope. We’re hiring to support increasing demand and continue delivering an exceptional customer experience. - Commitment to Equal Opportunity: PolicyMe is an equal opportunity employer. We welcome applicants of all backgrounds and provide fair consideration regardless of race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability. - Accessibility Statement: We are committed to providing an accessible hiring experience. If you require accommodations during the application process, please indicate this in the “Additional Information” section of your application. We thank all applicants for their interest, however, only those selected for an interview will be contacted.",
+    "url": "https://jobicy.com/jobs/153164-junior-software-engineer-2",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Canada",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "react",
+      "postgresql",
+      "aws",
+      "machine-learning",
+      "langchain"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-11-15T03:40:36+00:00",
+    "fetched_at": "2026-11-15T12:59:07.286Z",
+    "raw": {
+      "id": 153164,
+      "url": "https://jobicy.com/jobs/153164-junior-software-engineer-2",
+      "jobSlug": "153164-junior-software-engineer-2",
+      "jobTitle": "Junior Software Engineer",
+      "companyName": "PolicyMe",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/1e29f43a-221.png",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Canada",
+      "jobLevel": "Entry-Level, Junior",
+      "jobExcerpt": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re building the future of insurance in&hellip;",
+      "jobDescription": "<p><strong>Overview of the role</strong></p>\n<p>We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re building the future of insurance in Canada and beyond.</p>\n<p>We're building a groundbreaking new product line that will transform the insurance broker experience through AI and machine learning. As an AI-Driven Full Stack Engineer, you'll be part of a team charting new territory - designing and implementing intelligent systems that automate manual processes and unlock powerful data-driven insights.</p>\n<p>You will work across the stack, contributing to front end, back end, and AI/ML initiatives, while also participating in architecture discussions, release planning, and company-wide engineering initiatives. Our core stack includes <strong>Python, React, Redux, PostgreSQL, n8n, LangChain/LangGraph and AWS</strong>, and we are always open to adopting new tools and technologies that help us deliver better results.</p>\n<h3>What you'll be doing:</h3>\n<ul>\n<li>Develop full stack features for our AI-powered web application using Python, React, Redux, PostgreSQL and AWS</li>\n<li>Integrate AI models and APIs for tasks like document processing, data extraction, recommendation engines etc.</li>\n<li>Work closely with Sr. Engineers experienced in AI to seamlessly integrate models into production</li>\n<li>Stay current on emerging AI technologies/frameworks and explore new applications</li>\n<li>Build scalable, reliable backend services to fuel our AI workflows</li>\n<li>Create intuitive user experiences that surface AI-powered capabilities</li>\n<li>Participate in architecture planning, code reviews, and ideation sessions</li>\n<li>Take ownership of feature development end-to-end (once ramped up), coordinating with QA and other teams</li>\n<li>Engage in cross-team communication to help unblock dependencies and improve release flow</li>\n<li>Share ideas during quarterly planning to help shape what we build next</li>\n<li>Participate in company-wide initiatives such as hackathons, engineering guilds, and AI tooling experiments</li>\n</ul>\n<h3>What we are looking for:</h3>\n<ul>\n<li>Strong full-stack development skills with the ability to work across backend and frontend using <strong>Python, React, Redux, PostgreSQL, and AWS</strong></li>\n<li>Familiarity with AI/ML concepts from coursework, side projects, or work experience</li>\n<li>Passion for building intelligent applications that solve real-world problems</li>\n<li>Eagerness to learn, embrace ambiguity, and continually upskill in a rapidly evolving space</li>\n<li>Hands-on experience or projects interacting with AI APIs/models (e.g. prompt engineering)</li>\n<li>Self-starter with a career-driven mindset who thrives in an environment with autonomy and accountability</li>\n<li>Collaborative team player with low ego who is open to feedback and eager to help others</li>\n<li>Detail-oriented approach to problem-solving, especially in complex domains</li>\n</ul>\n<h3>Why join us:</h3>\n<ul>\n<li>Generous PTO - 20 vacation days</li>\n<li>A comprehensive benefits plan with premiums paid in full by PolicyMe</li>\n<li>Investment in your professional development, including an L&amp;D budget, AI tooling budget, performance reviews twice a year and ongoing feedback to ensure you reach your highest potential</li>\n<li>An extremely high performing, low-ego, remote-first team that is truly disrupting an old industry</li>\n<li>Option to work from home or our Toronto-based office (bonus: we cover the costs to bring all our employees in-person twice a year for experiential socials!)</li>\n<li>Access to stock options based on performance</li>\n<li><strong>Compensation:</strong> The total target cash compensation for this role is <strong>$80,000–$110,000 CAD</strong>, based on experience. We’ll walk through the details together during the interview.</li>\n</ul>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>\n<p><strong>About PolicyMe</strong></p>\n<p>At PolicyMe, we are Canada’s leading digital insurance solution, offering straightforward and affordable financial protection for families from coast to coast. Our product suite includes Life Insurance, Critical Illness Insurance, and Health &amp; Dental Insurance, all tailored to Canadians' evolving needs. We also offer B2B2C solutions, partnering with organizations to provide seamless digital insurance options. Founded by a team of insurance experts and technology entrepreneurs, PolicyMe is committed to making insurance simpler and more accessible. Since our launch in 2018, we have grown exponentially, selling over $10 billion in insurance coverage to Canadians.</p>\n<p>We are proud of the team we’ve built and are excited for those that are yet to join us. We operate with a remote-first culture, attracting top talent from across Canada. If you’re looking for a fast-paced, collaborative environment, working alongside incredibly ambitious yet humble humans, we may be the right place for you! To learn more, visit <a href=\"http://www.policyme.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">www.policyme.com</a>.</p>\n<p><strong>Additional Notes</strong></p>\n<p><strong>- Job Vacancy:</strong> This role reflects growth in our team and expanded operational scope. We’re hiring to support increasing demand and continue delivering an exceptional customer experience.</p>\n<p><strong>- Commitment to Equal Opportunity:</strong> PolicyMe is an equal opportunity employer. We welcome applicants of all backgrounds and provide fair consideration regardless of race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability.</p>\n<p><strong>- Accessibility Statement:</strong> We are committed to providing an accessible hiring experience. If you require accommodations during the application process, please indicate this in the “Additional Information” section of your application.</p>\n<p><em>We thank all applicants for their interest, however, only those selected for an interview will be contacted.</em></p>",
+      "pubDate": "2026-11-15T03:40:36+00:00"
+    }
+  },
+  {
+    "id": "jobicy:155357",
+    "platform": "jobicy",
+    "external_id": "155357",
+    "title": "Senior Forward Deployed Engineer",
+    "company": "Fleetio",
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleetio is also a proud founding member of the Rails Foundation ! More about our team and company: Fleetio overview video: https://www.youtube.com/watch?v=YoXyXTFWbkg Our careers page: https://www.fleetio.com/careers Description As a Forward Deployed Engineer you'll help us land key accounts by working closely with Sales and Customer Success to translate urgent, high-stakes needs into high-quality product work — shipped as durable Fleetio product that can be supported like the rest of the platform. If you're excited by high-impact, high-visibility engineering work this could be a great fit. This team turns key account commitments into real, shippable products so Fleetio can win strategic deals and support those customers long-term. The engineers in this role will directly influence outcomes for key accounts and help close some of the largest deals at Fleetio. More About Our Team and Company Watch our culture videos: https://fleet.io/culture Engineering culture, interview process and videos: https://www.fleetio.com/careers/engineering Fleetio Go overview video: https://www.fleetio.com/go More about the Fleetio platform: https://www.fleetio.com/features API docs: developer.fleetio.com Test drive Fleetio to get an even better feel for what we're building: https://www.fleetio.com/register This is a remote opportunity and is open to candidates in the United States, Canada, or Mexico. Who you are You’re a product-minded, delivery-oriented engineer who can operate in high-trust environments. You can take ambiguous problems and turn them into clear plans and high-quality shipped software. You’re comfortable collaborating directly with Sales and Customer Success partners to translate customer and deal context into product capabilities. This work includes quick discovery, rapid scoping, and clear communication about tradeoffs and timelines. You’re independently successful: you take ownership from start to finish, stay tenacious through ambiguity, and consistently find a way to deliver. You care about maintainability and operational excellence. Your impact Ship high-leverage product improvements that unblock strategic deals and expand what Fleetio can confidently commit to for key accounts. Partner closely with Sales and Customer Success to understand constraints, timelines, and customer workflows; then, turn those needs into clear requirements and implementation plans. Drive work end-to-end: clarify the problem, align stakeholders, deliver iteratively, and ensure what you ship is production-ready and supportable. Partner with Product, Design, and Engineering peers to make pragmatic scope decisions and deliver iteratively. Build solutions that meet Fleetio's product and engineering standards: testing, observability, maintainability, documented Communicate proactively and clearly about tradeoffs, risks, and timelines. Your experience 5+ years of experience with Ruby on Rails 2+ years with React Strong experience building and shipping production web applications with a focus on quality and maintainability. Experience collaborating with non-technical stakeholders, translating needs into technical plans, and managing expectations. Ability to decompose complex requests into milestones and deliver incrementally. Strong written communication and comfort working in a remote, async-friendly environment. Nice to have Experience working on a large-scale Ruby on Rails application. Experience working on customer-facing platform/product capabilities that support enterprise accounts. Experience partnering with go-to-market teams (Sales, Customer Success) on delivery of time-sensitive commitments. Benefits Multiple health/dental coverage options (100% coverage for employee, 50% for family) Vision insurance Incentive stock options 401(k) match of 4% PTO - 4 weeks (increases at year two!) 12 company holidays + 2 floating holidays Parental leave - birthing parent (16 weeks paid) non-birthing (4 weeks paid) FSA &amp; HSA options Short and long term disability (short term 100% paid) Community service funds Professional development funds Wellbeing fund - $150 quarterly Business expense stipend - $125 quarterly Mac laptop + new hire equipment stipend Fully stocked kitchen with tons of drinks &amp; snacks (BHM only) Remote working friendly since 2012 #LI-Remote Fleetio provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment. We celebrate diversity and are committed to creating an inclusive environment for all. All employment is decided on the basis of qualifications, merit and business need. This application is not intended to and does not create a contract or offer of employment. Employment with Fleetio is at will. If you have a disability or a special need that requires an accommodation to fill out the online application, please let us know by calling (205) 718-7500.",
+    "url": "https://jobicy.com/jobs/155357-senior-forward-deployed-engineer-2",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "salary_type": "yearly",
+    "contract_type": "full-time",
+    "experience_level": "senior",
+    "location": "Canada,  Mexico,  USA",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "ruby",
+      "react",
+      "rails"
+    ],
+    "tags": [
+      "Software Engineering"
+    ],
+    "posted_at": "2026-11-15T03:35:10+00:00",
+    "fetched_at": "2026-11-15T12:59:07.288Z",
+    "raw": {
+      "id": 155357,
+      "url": "https://jobicy.com/jobs/155357-senior-forward-deployed-engineer-2",
+      "jobSlug": "155357-senior-forward-deployed-engineer-2",
+      "jobTitle": "Senior Forward Deployed Engineer",
+      "companyName": "Fleetio",
+      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2023/07/e571b83c37e0ed5371754d319be16e76.jpeg",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Canada,  Mexico,  USA",
+      "jobLevel": "Senior",
+      "jobExcerpt": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+      "jobDescription": "<p>A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleetio is also a proud <a href=\"https://rubyonrails.org/foundation\" rel=\"nofollow ugc noopener\" target=\"_blank\">founding member of the Rails Foundation</a>!</p>\n<p><strong>More about our team and company:</strong></p>\n<ul>\n<li>Fleetio overview video: <a href=\"https://www.youtube.com/watch?v=YoXyXTFWbkg\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.youtube.com/watch?v=YoXyXTFWbkg</a></li>\n<li>Our careers page: <a href=\"https://www.fleetio.com/careers\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.fleetio.com/careers</a></li>\n</ul>\n<h3>Description</h3>\n<p>As a Forward Deployed Engineer you'll help us land key accounts by working closely with Sales and Customer Success to translate urgent, high-stakes needs into high-quality product work — shipped as durable Fleetio product that can be supported like the rest of the platform.</p>\n<p>If you're excited by high-impact, high-visibility engineering work this could be a great fit. This team turns key account commitments into real, shippable products so Fleetio can win strategic deals and support those customers long-term. The engineers in this role will directly influence outcomes for key accounts and help close some of the largest deals at Fleetio.</p>\n<h3>More About Our Team and Company</h3>\n<ul>\n<li>Watch our culture videos: <a href=\"https://fleet.io/culture\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://fleet.io/culture</a></li>\n<li>Engineering culture, interview process and videos: <a href=\"https://www.fleetio.com/careers/engineering\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.fleetio.com/careers/engineering</a></li>\n<li>Fleetio Go overview video: <a href=\"https://www.fleetio.com/go\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.fleetio.com/go</a></li>\n<li>More about the Fleetio platform: <a href=\"https://www.fleetio.com/features\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.fleetio.com/features</a></li>\n<li>API docs: <a href=\"https://developer.fleetio.com/\" rel=\"nofollow ugc noopener\" target=\"_blank\">developer.fleetio.com</a></li>\n<li>Test drive Fleetio to get an even better feel for what we're building: <a href=\"https://www.fleetio.com/register\" rel=\"nofollow ugc noopener\" target=\"_blank\">https://www.fleetio.com/register</a></li>\n</ul>\n<p><em>This is a remote opportunity and is open to candidates in the United States, Canada, or Mexico.</em></p>\n<h3>Who you are</h3>\n<p>You’re a product-minded, delivery-oriented engineer who can operate in high-trust environments. You can take ambiguous problems and turn them into clear plans and high-quality shipped software. You’re comfortable collaborating directly with Sales and Customer Success partners to translate customer and deal context into product capabilities. This work includes quick discovery, rapid scoping, and clear communication about tradeoffs and timelines.</p>\n<p>You’re independently successful: you take ownership from start to finish, stay tenacious through ambiguity, and consistently find a way to deliver.</p>\n<p>You care about maintainability and operational excellence.</p>\n<h3>Your impact</h3>\n<ul>\n<li>Ship high-leverage product improvements that unblock strategic deals and expand what Fleetio can confidently commit to for key accounts.</li>\n<li>Partner closely with Sales and Customer Success to understand constraints, timelines, and customer workflows; then, turn those needs into clear requirements and implementation plans.</li>\n<li>Drive work end-to-end: clarify the problem, align stakeholders, deliver iteratively, and ensure what you ship is production-ready and supportable.</li>\n<li>Partner with Product, Design, and Engineering peers to make pragmatic scope decisions and deliver iteratively.</li>\n<li>Build solutions that meet Fleetio's product and engineering standards: testing, observability, maintainability, documented</li>\n<li>Communicate proactively and clearly about tradeoffs, risks, and timelines.</li>\n</ul>\n<h3>Your experience</h3>\n<ul>\n<li>5+ years of experience with Ruby on Rails</li>\n<li>2+ years with React</li>\n<li>Strong experience building and shipping production web applications with a focus on quality and maintainability.</li>\n<li>Experience collaborating with non-technical stakeholders, translating needs into technical plans, and managing expectations.</li>\n<li>Ability to decompose complex requests into milestones and deliver incrementally.</li>\n<li>Strong written communication and comfort working in a remote, async-friendly environment.</li>\n</ul>\n<h3>Nice to have</h3>\n<ul>\n<li>Experience working on a large-scale Ruby on Rails application.</li>\n<li>Experience working on customer-facing platform/product capabilities that support enterprise accounts.</li>\n<li>Experience partnering with go-to-market teams (Sales, Customer Success) on delivery of time-sensitive commitments.</li>\n</ul>\n<h3>Benefits </h3>\n<ul>\n<li>Multiple health/dental coverage options (100% coverage for employee, 50% for family)</li>\n<li>Vision insurance</li>\n<li>Incentive stock options</li>\n<li>401(k) match of 4%</li>\n<li>PTO - 4 weeks (increases at year two!)</li>\n<li>12 company holidays + 2 floating holidays</li>\n<li>Parental leave - birthing parent (16 weeks paid) non-birthing (4 weeks paid)</li>\n<li>FSA &amp; HSA options</li>\n<li>Short and long term disability (short term 100% paid)</li>\n<li>Community service funds</li>\n<li>Professional development funds</li>\n<li>Wellbeing fund - $150 quarterly</li>\n<li>Business expense stipend - $125 quarterly</li>\n<li>Mac laptop + new hire equipment stipend</li>\n<li>Fully stocked kitchen with tons of drinks &amp; snacks (BHM only)</li>\n<li>Remote working friendly since 2012 #LI-Remote</li>\n</ul>\n<p><em>Fleetio provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment. We celebrate diversity and are committed to creating an inclusive environment for all. All employment is decided on the basis of qualifications, merit and business need.</em></p>\n<p><em>This application is not intended to and does not create a contract or offer of employment. Employment with Fleetio is at will.</em></p>\n<p><em>If you have a disability or a special need that requires an accommodation to fill out the online application, please let us know by calling (205) 718-7500.</em></p>",
+      "pubDate": "2026-11-15T03:35:10+00:00"
+    }
+  },
+  {
     "id": "jobicy:162243",
     "platform": "jobicy",
     "external_id": "162243",
@@ -23,7 +263,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T16:04:10+00:00",
-    "fetched_at": "2026-11-15T03:13:47.105Z",
+    "fetched_at": "2026-11-15T12:59:07.290Z",
     "raw": {
       "id": 162243,
       "url": "https://jobicy.com/jobs/162243-senior-systems-engineer-avionics-embedded-systems",
@@ -70,7 +310,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T16:03:37+00:00",
-    "fetched_at": "2026-11-15T03:13:47.106Z",
+    "fetched_at": "2026-11-15T12:59:07.291Z",
     "raw": {
       "id": 162237,
       "url": "https://jobicy.com/jobs/162237-senior-mechanical-design-engineer-structures-systems",
@@ -128,7 +368,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T12:55:13+00:00",
-    "fetched_at": "2026-11-15T03:13:47.107Z",
+    "fetched_at": "2026-11-15T12:59:07.294Z",
     "raw": {
       "id": 162192,
       "url": "https://jobicy.com/jobs/162192-senior-backend-engineer-data-serving-2",
@@ -175,7 +415,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T12:48:27+00:00",
-    "fetched_at": "2026-11-15T03:13:47.109Z",
+    "fetched_at": "2026-11-15T12:59:07.297Z",
     "raw": {
       "id": 162189,
       "url": "https://jobicy.com/jobs/162189-senior-customer-integration-engineer",
@@ -226,7 +466,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T12:48:05+00:00",
-    "fetched_at": "2026-11-15T03:13:47.111Z",
+    "fetched_at": "2026-11-15T12:59:07.300Z",
     "raw": {
       "id": 162183,
       "url": "https://jobicy.com/jobs/162183-director-finance-systems-erp",
@@ -278,7 +518,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T09:09:53+00:00",
-    "fetched_at": "2026-11-15T03:13:47.113Z",
+    "fetched_at": "2026-11-15T12:59:07.302Z",
     "raw": {
       "id": 162134,
       "url": "https://jobicy.com/jobs/162134-senior-software-engineer-frontend-product-engineering",
@@ -327,7 +567,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T09:07:36+00:00",
-    "fetched_at": "2026-11-15T03:13:47.114Z",
+    "fetched_at": "2026-11-15T12:59:07.304Z",
     "raw": {
       "id": 162127,
       "url": "https://jobicy.com/jobs/162127-senior-gtm-systems-engineer",
@@ -381,7 +621,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T09:06:54+00:00",
-    "fetched_at": "2026-11-15T03:13:47.115Z",
+    "fetched_at": "2026-11-15T12:59:07.305Z",
     "raw": {
       "id": 162125,
       "url": "https://jobicy.com/jobs/162125-senior-engineer-server-nba-2k",
@@ -437,7 +677,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T09:06:29+00:00",
-    "fetched_at": "2026-11-15T03:13:47.116Z",
+    "fetched_at": "2026-11-15T12:59:07.306Z",
     "raw": {
       "id": 162122,
       "url": "https://jobicy.com/jobs/162122-principal-staff-software-engineers",
@@ -486,7 +726,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T09:06:24+00:00",
-    "fetched_at": "2026-11-15T03:13:47.116Z",
+    "fetched_at": "2026-11-15T12:59:07.307Z",
     "raw": {
       "id": 162121,
       "url": "https://jobicy.com/jobs/162121-graphics-engineer-nba-2k",
@@ -539,7 +779,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-14T07:27:05+00:00",
-    "fetched_at": "2026-11-15T03:13:47.117Z",
+    "fetched_at": "2026-11-15T12:59:07.308Z",
     "raw": {
       "id": 162115,
       "url": "https://jobicy.com/jobs/162115-project-sceptrum-multilingual-ai-coding-evaluation-specialist-dutch",
@@ -594,7 +834,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:27:04+00:00",
-    "fetched_at": "2026-11-15T03:13:47.118Z",
+    "fetched_at": "2026-11-15T12:59:07.309Z",
     "raw": {
       "id": 162114,
       "url": "https://jobicy.com/jobs/162114-senior-full-stack-engineer-databases-analytics-uk-remote",
@@ -649,7 +889,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:26:39+00:00",
-    "fetched_at": "2026-11-15T03:13:47.120Z",
+    "fetched_at": "2026-11-15T12:59:07.311Z",
     "raw": {
       "id": 162112,
       "url": "https://jobicy.com/jobs/162112-senior-full-stack-engineer-databases-analytics-sweden-remote",
@@ -704,7 +944,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:26:07+00:00",
-    "fetched_at": "2026-11-15T03:13:47.121Z",
+    "fetched_at": "2026-11-15T12:59:07.313Z",
     "raw": {
       "id": 162108,
       "url": "https://jobicy.com/jobs/162108-senior-full-stack-engineer-databases-analytics-spain-remote",
@@ -759,7 +999,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:26:02+00:00",
-    "fetched_at": "2026-11-15T03:13:47.123Z",
+    "fetched_at": "2026-11-15T12:59:07.315Z",
     "raw": {
       "id": 162104,
       "url": "https://jobicy.com/jobs/162104-senior-full-stack-engineer-databases-analytics-ireland-remote",
@@ -814,7 +1054,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:25:25+00:00",
-    "fetched_at": "2026-11-15T03:13:47.124Z",
+    "fetched_at": "2026-11-15T12:59:07.317Z",
     "raw": {
       "id": 162101,
       "url": "https://jobicy.com/jobs/162101-senior-full-stack-engineer-databases-analytics-germany-remote",
@@ -872,7 +1112,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:25:23+00:00",
-    "fetched_at": "2026-11-15T03:13:47.125Z",
+    "fetched_at": "2026-11-15T12:59:07.318Z",
     "raw": {
       "id": 162100,
       "url": "https://jobicy.com/jobs/162100-product-engineer-all-levels",
@@ -927,7 +1167,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:25:22+00:00",
-    "fetched_at": "2026-11-15T03:13:47.126Z",
+    "fetched_at": "2026-11-15T12:59:07.319Z",
     "raw": {
       "id": 162099,
       "url": "https://jobicy.com/jobs/162099-technical-lead-golang",
@@ -972,7 +1212,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:24:38+00:00",
-    "fetched_at": "2026-11-15T03:13:47.127Z",
+    "fetched_at": "2026-11-15T12:59:07.320Z",
     "raw": {
       "id": 162092,
       "url": "https://jobicy.com/jobs/162092-machine-learning-engineering-manager-ii",
@@ -1015,7 +1255,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T07:24:36+00:00",
-    "fetched_at": "2026-11-15T03:13:47.127Z",
+    "fetched_at": "2026-11-15T12:59:07.321Z",
     "raw": {
       "id": 162091,
       "url": "https://jobicy.com/jobs/162091-engineering-manager-ads-product-catalogs",
@@ -1063,7 +1303,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T03:05:05+00:00",
-    "fetched_at": "2026-11-15T03:13:47.128Z",
+    "fetched_at": "2026-11-15T12:59:07.322Z",
     "raw": {
       "id": 155305,
       "url": "https://jobicy.com/jobs/155305-senior-staff-engineer-mobile-kotlin",
@@ -1118,7 +1358,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T03:00:28+00:00",
-    "fetched_at": "2026-11-15T03:13:47.129Z",
+    "fetched_at": "2026-11-15T12:59:07.325Z",
     "raw": {
       "id": 155288,
       "url": "https://jobicy.com/jobs/155288-ai-solution-engineer-technology-support",
@@ -1168,7 +1408,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T03:00:22+00:00",
-    "fetched_at": "2026-11-15T03:13:47.131Z",
+    "fetched_at": "2026-11-15T12:59:07.326Z",
     "raw": {
       "id": 155311,
       "url": "https://jobicy.com/jobs/155311-senior-software-engineer-14",
@@ -1224,7 +1464,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T03:00:14+00:00",
-    "fetched_at": "2026-11-15T03:13:47.131Z",
+    "fetched_at": "2026-11-15T12:59:07.327Z",
     "raw": {
       "id": 155325,
       "url": "https://jobicy.com/jobs/155325-senior-software-engineer-observability",
@@ -1274,7 +1514,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T03:00:10+00:00",
-    "fetched_at": "2026-11-15T03:13:47.132Z",
+    "fetched_at": "2026-11-15T12:59:07.328Z",
     "raw": {
       "id": 155313,
       "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations",
@@ -1323,7 +1563,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T03:00:09+00:00",
-    "fetched_at": "2026-11-15T03:13:47.133Z",
+    "fetched_at": "2026-11-15T12:59:07.329Z",
     "raw": {
       "id": 155302,
       "url": "https://jobicy.com/jobs/155302-senior-software-engineering-manager",
@@ -1372,7 +1612,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T02:50:27+00:00",
-    "fetched_at": "2026-11-15T03:13:47.134Z",
+    "fetched_at": "2026-11-15T12:59:07.331Z",
     "raw": {
       "id": 153122,
       "url": "https://jobicy.com/jobs/153122-chief-technology-officer-2",
@@ -1424,7 +1664,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T02:50:25+00:00",
-    "fetched_at": "2026-11-15T03:13:47.136Z",
+    "fetched_at": "2026-11-15T12:59:07.333Z",
     "raw": {
       "id": 153108,
       "url": "https://jobicy.com/jobs/153108-senior-gen-ai-software-engineer",
@@ -1480,7 +1720,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T02:50:21+00:00",
-    "fetched_at": "2026-11-15T03:13:47.136Z",
+    "fetched_at": "2026-11-15T12:59:07.334Z",
     "raw": {
       "id": 149101,
       "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
@@ -1526,7 +1766,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T02:50:08+00:00",
-    "fetched_at": "2026-11-15T03:13:47.137Z",
+    "fetched_at": "2026-11-15T12:59:07.335Z",
     "raw": {
       "id": 155262,
       "url": "https://jobicy.com/jobs/155262-software-developer-mobile-platform",
@@ -1582,7 +1822,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T02:45:21+00:00",
-    "fetched_at": "2026-11-15T03:13:47.138Z",
+    "fetched_at": "2026-11-15T12:59:07.336Z",
     "raw": {
       "id": 153088,
       "url": "https://jobicy.com/jobs/153088-senior-software-engineer-8",
@@ -1632,7 +1872,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-14T02:45:13+00:00",
-    "fetched_at": "2026-11-15T03:13:47.138Z",
+    "fetched_at": "2026-11-15T12:59:07.337Z",
     "raw": {
       "id": 153093,
       "url": "https://jobicy.com/jobs/153093-team-lead-software-engineer",
@@ -1687,7 +1927,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T18:54:29+00:00",
-    "fetched_at": "2026-11-15T03:13:47.139Z",
+    "fetched_at": "2026-11-15T12:59:07.338Z",
     "raw": {
       "id": 162075,
       "url": "https://jobicy.com/jobs/162075-forward-deployed-ai-solutions-architect",
@@ -1739,7 +1979,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T15:47:53+00:00",
-    "fetched_at": "2026-11-15T03:13:47.140Z",
+    "fetched_at": "2026-11-15T12:59:07.339Z",
     "raw": {
       "id": 162053,
       "url": "https://jobicy.com/jobs/162053-senior-full-stack-net-developer",
@@ -1790,7 +2030,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T15:47:52+00:00",
-    "fetched_at": "2026-11-15T03:13:47.141Z",
+    "fetched_at": "2026-11-15T12:59:07.340Z",
     "raw": {
       "id": 162052,
       "url": "https://jobicy.com/jobs/162052-senior-software-development-engineer-in-test",
@@ -1837,7 +2077,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T15:35:39+00:00",
-    "fetched_at": "2026-11-15T03:13:47.142Z",
+    "fetched_at": "2026-11-15T12:59:07.341Z",
     "raw": {
       "id": 161976,
       "url": "https://jobicy.com/jobs/161976-senior-embedded-software-engineer",
@@ -1887,7 +2127,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T15:34:55+00:00",
-    "fetched_at": "2026-11-15T03:13:47.143Z",
+    "fetched_at": "2026-11-15T12:59:07.343Z",
     "raw": {
       "id": 161974,
       "url": "https://jobicy.com/jobs/161974-lead-embedded-software-verification-validation-engineer-50-travel-required",
@@ -1939,7 +2179,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T15:34:53+00:00",
-    "fetched_at": "2026-11-15T03:13:47.144Z",
+    "fetched_at": "2026-11-15T12:59:07.343Z",
     "raw": {
       "id": 161972,
       "url": "https://jobicy.com/jobs/161972-embedded-software-engineer-tool-qualification",
@@ -1988,7 +2228,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T15:34:27+00:00",
-    "fetched_at": "2026-11-15T03:13:47.145Z",
+    "fetched_at": "2026-11-15T12:59:07.345Z",
     "raw": {
       "id": 161970,
       "url": "https://jobicy.com/jobs/161970-embedded-software-engineer-real-time-systems",
@@ -2038,7 +2278,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T15:34:25+00:00",
-    "fetched_at": "2026-11-15T03:13:47.146Z",
+    "fetched_at": "2026-11-15T12:59:07.346Z",
     "raw": {
       "id": 161968,
       "url": "https://jobicy.com/jobs/161968-embedded-software-engineer-multicore-platforms-avionics-networking",
@@ -2087,7 +2327,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T15:34:19+00:00",
-    "fetched_at": "2026-11-15T03:13:47.146Z",
+    "fetched_at": "2026-11-15T12:59:07.347Z",
     "raw": {
       "id": 161966,
       "url": "https://jobicy.com/jobs/161966-embedded-software-engineer-flight-management-system-fms",
@@ -2134,7 +2374,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T15:33:44+00:00",
-    "fetched_at": "2026-11-15T03:13:47.147Z",
+    "fetched_at": "2026-11-15T12:59:07.348Z",
     "raw": {
       "id": 161964,
       "url": "https://jobicy.com/jobs/161964-embedded-software-engineer",
@@ -2183,7 +2423,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T14:55:37+00:00",
-    "fetched_at": "2026-11-15T03:13:47.148Z",
+    "fetched_at": "2026-11-15T12:59:07.349Z",
     "raw": {
       "id": 161941,
       "url": "https://jobicy.com/jobs/161941-senior-ibm-business-automation-workflow-baw-developer",
@@ -2228,7 +2468,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T14:55:33+00:00",
-    "fetched_at": "2026-11-15T03:13:47.149Z",
+    "fetched_at": "2026-11-15T12:59:07.350Z",
     "raw": {
       "id": 161938,
       "url": "https://jobicy.com/jobs/161938-andromeda-delta-audio-transcription-adjudicator-v2-portuguese-brazil",
@@ -2277,7 +2517,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T14:55:31+00:00",
-    "fetched_at": "2026-11-15T03:13:47.149Z",
+    "fetched_at": "2026-11-15T12:59:07.351Z",
     "raw": {
       "id": 161937,
       "url": "https://jobicy.com/jobs/161937-senior-ibm-bpm-developer",
@@ -2331,7 +2571,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T14:51:28+00:00",
-    "fetched_at": "2026-11-15T03:13:47.150Z",
+    "fetched_at": "2026-11-15T12:59:07.352Z",
     "raw": {
       "id": 161933,
       "url": "https://jobicy.com/jobs/161933-frontend-software-engineer",
@@ -2390,7 +2630,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T14:50:48+00:00",
-    "fetched_at": "2026-11-15T03:13:47.151Z",
+    "fetched_at": "2026-11-15T12:59:07.353Z",
     "raw": {
       "id": 161930,
       "url": "https://jobicy.com/jobs/161930-full-stack-software-engineer-3",
@@ -2443,7 +2683,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T14:50:42+00:00",
-    "fetched_at": "2026-11-15T03:13:47.152Z",
+    "fetched_at": "2026-11-15T12:59:07.354Z",
     "raw": {
       "id": 161926,
       "url": "https://jobicy.com/jobs/161926-backend-software-engineer-3",
@@ -2486,7 +2726,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T13:46:51+00:00",
-    "fetched_at": "2026-11-15T03:13:47.153Z",
+    "fetched_at": "2026-11-15T12:59:07.355Z",
     "raw": {
       "id": 161923,
       "url": "https://jobicy.com/jobs/161923-lead-flight-controls-software-engineer-special-programs",
@@ -2538,7 +2778,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T13:46:22+00:00",
-    "fetched_at": "2026-11-15T03:13:47.154Z",
+    "fetched_at": "2026-11-15T12:59:07.357Z",
     "raw": {
       "id": 161917,
       "url": "https://jobicy.com/jobs/161917-ai-ml-engineer-generative-ai-mission-systems",
@@ -2587,7 +2827,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T13:46:20+00:00",
-    "fetched_at": "2026-11-15T03:13:47.155Z",
+    "fetched_at": "2026-11-15T12:59:07.358Z",
     "raw": {
       "id": 161916,
       "url": "https://jobicy.com/jobs/161916-senior-field-engineer-pre-sales-forward-deployed",
@@ -2643,7 +2883,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T11:51:48+00:00",
-    "fetched_at": "2026-11-15T03:13:47.155Z",
+    "fetched_at": "2026-11-15T12:59:07.359Z",
     "raw": {
       "id": 161898,
       "url": "https://jobicy.com/jobs/161898-forward-deployed-engineer-11",
@@ -2695,7 +2935,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T09:05:57+00:00",
-    "fetched_at": "2026-11-15T03:13:47.156Z",
+    "fetched_at": "2026-11-15T12:59:07.360Z",
     "raw": {
       "id": 161799,
       "url": "https://jobicy.com/jobs/161799-onestream-developer-technical-lead-philippines",
@@ -2740,7 +2980,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T09:04:38+00:00",
-    "fetched_at": "2026-11-15T03:13:47.156Z",
+    "fetched_at": "2026-11-15T12:59:07.360Z",
     "raw": {
       "id": 161788,
       "url": "https://jobicy.com/jobs/161788-coupa-technical-integration-consultant",
@@ -2791,7 +3031,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T08:56:17+00:00",
-    "fetched_at": "2026-11-15T03:13:47.157Z",
+    "fetched_at": "2026-11-15T12:59:07.361Z",
     "raw": {
       "id": 161780,
       "url": "https://jobicy.com/jobs/161780-front-end-engineer",
@@ -2842,7 +3082,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T08:42:07+00:00",
-    "fetched_at": "2026-11-15T03:13:47.158Z",
+    "fetched_at": "2026-11-15T12:59:07.362Z",
     "raw": {
       "id": 161777,
       "url": "https://jobicy.com/jobs/161777-sensing-opir-engineer-sme-899",
@@ -2888,7 +3128,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T08:41:48+00:00",
-    "fetched_at": "2026-11-15T03:13:47.158Z",
+    "fetched_at": "2026-11-15T12:59:07.363Z",
     "raw": {
       "id": 161776,
       "url": "https://jobicy.com/jobs/161776-sensing-opir-engineer-mid-level-900",
@@ -2935,7 +3175,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T08:41:27+00:00",
-    "fetched_at": "2026-11-15T03:13:47.159Z",
+    "fetched_at": "2026-11-15T12:59:07.363Z",
     "raw": {
       "id": 161774,
       "url": "https://jobicy.com/jobs/161774-sensing-opir-engineer-898",
@@ -2982,7 +3222,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T08:41:19+00:00",
-    "fetched_at": "2026-11-15T03:13:47.159Z",
+    "fetched_at": "2026-11-15T12:59:07.364Z",
     "raw": {
       "id": 161771,
       "url": "https://jobicy.com/jobs/161771-sensing-opir-engineer-897",
@@ -3028,7 +3268,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T07:41:02+00:00",
-    "fetched_at": "2026-11-15T03:13:47.159Z",
+    "fetched_at": "2026-11-15T12:59:07.364Z",
     "raw": {
       "id": 161767,
       "url": "https://jobicy.com/jobs/161767-freelance-software-tester-remote-in-italy",
@@ -3099,7 +3339,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T07:40:41+00:00",
-    "fetched_at": "2026-11-15T03:13:47.161Z",
+    "fetched_at": "2026-11-15T12:59:07.366Z",
     "raw": {
       "id": 161764,
       "url": "https://jobicy.com/jobs/161764-senior-product-engineer-2",
@@ -3144,7 +3384,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T07:40:37+00:00",
-    "fetched_at": "2026-11-15T03:13:47.161Z",
+    "fetched_at": "2026-11-15T12:59:07.366Z",
     "raw": {
       "id": 161761,
       "url": "https://jobicy.com/jobs/161761-andromeda-delta-audio-transcription-adjudicator-v2-spanish-spain",
@@ -3194,7 +3434,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T07:39:58+00:00",
-    "fetched_at": "2026-11-15T03:13:47.161Z",
+    "fetched_at": "2026-11-15T12:59:07.367Z",
     "raw": {
       "id": 161756,
       "url": "https://jobicy.com/jobs/161756-freelance-software-tester-remote-in-germany",
@@ -3242,7 +3482,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T07:39:55+00:00",
-    "fetched_at": "2026-11-15T03:13:47.162Z",
+    "fetched_at": "2026-11-15T12:59:07.368Z",
     "raw": {
       "id": 161754,
       "url": "https://jobicy.com/jobs/161754-senior-php-wordpress-developer",
@@ -3301,7 +3541,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T07:39:54+00:00",
-    "fetched_at": "2026-11-15T03:13:47.164Z",
+    "fetched_at": "2026-11-15T12:59:07.370Z",
     "raw": {
       "id": 161753,
       "url": "https://jobicy.com/jobs/161753-staff-forward-deployed-engineer-emea",
@@ -3347,7 +3587,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T07:39:12+00:00",
-    "fetched_at": "2026-11-15T03:13:47.164Z",
+    "fetched_at": "2026-11-15T12:59:07.371Z",
     "raw": {
       "id": 161742,
       "url": "https://jobicy.com/jobs/161742-freelance-software-tester-remote-in-belgium",
@@ -3395,7 +3635,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T07:38:36+00:00",
-    "fetched_at": "2026-11-15T03:13:47.165Z",
+    "fetched_at": "2026-11-15T12:59:07.373Z",
     "raw": {
       "id": 161737,
       "url": "https://jobicy.com/jobs/161737-staff-backend-engineer-performance-enablement",
@@ -3449,7 +3689,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T07:03:12+00:00",
-    "fetched_at": "2026-11-15T03:13:47.167Z",
+    "fetched_at": "2026-11-15T12:59:07.374Z",
     "raw": {
       "id": 161726,
       "url": "https://jobicy.com/jobs/161726-software-engineer-systems-architecture",
@@ -3492,7 +3732,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T07:03:08+00:00",
-    "fetched_at": "2026-11-15T03:13:47.167Z",
+    "fetched_at": "2026-11-15T12:59:07.375Z",
     "raw": {
       "id": 161723,
       "url": "https://jobicy.com/jobs/161723-software-engineer-backend-platform",
@@ -3543,7 +3783,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:20:29+00:00",
-    "fetched_at": "2026-11-15T03:13:47.168Z",
+    "fetched_at": "2026-11-15T12:59:07.376Z",
     "raw": {
       "id": 155233,
       "url": "https://jobicy.com/jobs/155233-senior-software-engineer-full-stack-node-js-react-ai-focus",
@@ -3591,7 +3831,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:20:18+00:00",
-    "fetched_at": "2026-11-15T03:13:47.169Z",
+    "fetched_at": "2026-11-15T12:59:07.377Z",
     "raw": {
       "id": 155231,
       "url": "https://jobicy.com/jobs/155231-full-stack-web-engineer",
@@ -3643,7 +3883,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:20:15+00:00",
-    "fetched_at": "2026-11-15T03:13:47.170Z",
+    "fetched_at": "2026-11-15T12:59:07.379Z",
     "raw": {
       "id": 155228,
       "url": "https://jobicy.com/jobs/155228-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain-2",
@@ -3688,7 +3928,7 @@
       "QA & Testing"
     ],
     "posted_at": "2026-11-13T03:20:10+00:00",
-    "fetched_at": "2026-11-15T03:13:47.171Z",
+    "fetched_at": "2026-11-15T12:59:07.380Z",
     "raw": {
       "id": 155209,
       "url": "https://jobicy.com/jobs/155209-cashmere-lab-testing-quality-leader",
@@ -3748,7 +3988,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:15:22+00:00",
-    "fetched_at": "2026-11-15T03:13:47.172Z",
+    "fetched_at": "2026-11-15T12:59:07.381Z",
     "raw": {
       "id": 155186,
       "url": "https://jobicy.com/jobs/155186-senior-software-engineer-full-stack-javascript",
@@ -3801,7 +4041,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:15:19+00:00",
-    "fetched_at": "2026-11-15T03:13:47.172Z",
+    "fetched_at": "2026-11-15T12:59:07.382Z",
     "raw": {
       "id": 155167,
       "url": "https://jobicy.com/jobs/155167-sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk",
@@ -3851,7 +4091,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:15:10+00:00",
-    "fetched_at": "2026-11-15T03:13:47.173Z",
+    "fetched_at": "2026-11-15T12:59:07.383Z",
     "raw": {
       "id": 155185,
       "url": "https://jobicy.com/jobs/155185-senior-software-engineer-admin-iam",
@@ -3899,7 +4139,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:15:07+00:00",
-    "fetched_at": "2026-11-15T03:13:47.174Z",
+    "fetched_at": "2026-11-15T12:59:07.384Z",
     "raw": {
       "id": 155192,
       "url": "https://jobicy.com/jobs/155192-senior-software-engineer-canvas-core-3",
@@ -3954,7 +4194,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:10:25+00:00",
-    "fetched_at": "2026-11-15T03:13:47.175Z",
+    "fetched_at": "2026-11-15T12:59:07.386Z",
     "raw": {
       "id": 155182,
       "url": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
@@ -4003,7 +4243,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:10:08+00:00",
-    "fetched_at": "2026-11-15T03:13:47.176Z",
+    "fetched_at": "2026-11-15T12:59:07.387Z",
     "raw": {
       "id": 153037,
       "url": "https://jobicy.com/jobs/153037-ai-senior-engineer-graph",
@@ -4055,7 +4295,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:05:15+00:00",
-    "fetched_at": "2026-11-15T03:13:47.177Z",
+    "fetched_at": "2026-11-15T12:59:07.388Z",
     "raw": {
       "id": 153014,
       "url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
@@ -4105,7 +4345,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-13T03:05:07+00:00",
-    "fetched_at": "2026-11-15T03:13:47.178Z",
+    "fetched_at": "2026-11-15T12:59:07.390Z",
     "raw": {
       "id": 153013,
       "url": "https://jobicy.com/jobs/153013-principal-software-engineer-data-science",
@@ -4161,7 +4401,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T17:00:35+00:00",
-    "fetched_at": "2026-11-15T03:13:47.179Z",
+    "fetched_at": "2026-11-15T12:59:07.391Z",
     "raw": {
       "id": 161687,
       "url": "https://jobicy.com/jobs/161687-senior-engineering-manager-consumer-new-verticals",
@@ -4212,7 +4452,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T17:00:29+00:00",
-    "fetched_at": "2026-11-15T03:13:47.179Z",
+    "fetched_at": "2026-11-15T12:59:07.392Z",
     "raw": {
       "id": 161683,
       "url": "https://jobicy.com/jobs/161683-head-of-ecosystem",
@@ -4264,7 +4504,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:52:40+00:00",
-    "fetched_at": "2026-11-15T03:13:47.181Z",
+    "fetched_at": "2026-11-15T12:59:07.393Z",
     "raw": {
       "id": 161682,
       "url": "https://jobicy.com/jobs/161682-tech-lead-react-python",
@@ -4320,7 +4560,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:52:15+00:00",
-    "fetched_at": "2026-11-15T03:13:47.182Z",
+    "fetched_at": "2026-11-15T12:59:07.395Z",
     "raw": {
       "id": 161679,
       "url": "https://jobicy.com/jobs/161679-tech-lead-python-ai",
@@ -4379,7 +4619,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:52:10+00:00",
-    "fetched_at": "2026-11-15T03:13:47.183Z",
+    "fetched_at": "2026-11-15T12:59:07.396Z",
     "raw": {
       "id": 161676,
       "url": "https://jobicy.com/jobs/161676-tech-lead-python",
@@ -4431,7 +4671,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:51:38+00:00",
-    "fetched_at": "2026-11-15T03:13:47.184Z",
+    "fetched_at": "2026-11-15T12:59:07.397Z",
     "raw": {
       "id": 161675,
       "url": "https://jobicy.com/jobs/161675-junior-ubuntu-software-engineer",
@@ -4482,7 +4722,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:51:35+00:00",
-    "fetched_at": "2026-11-15T03:13:47.185Z",
+    "fetched_at": "2026-11-15T12:59:07.399Z",
     "raw": {
       "id": 161673,
       "url": "https://jobicy.com/jobs/161673-tech-lead-2",
@@ -4537,7 +4777,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:51:33+00:00",
-    "fetched_at": "2026-11-15T03:13:47.187Z",
+    "fetched_at": "2026-11-15T12:59:07.400Z",
     "raw": {
       "id": 161672,
       "url": "https://jobicy.com/jobs/161672-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-2",
@@ -4590,7 +4830,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:51:28+00:00",
-    "fetched_at": "2026-11-15T03:13:47.187Z",
+    "fetched_at": "2026-11-15T12:59:07.401Z",
     "raw": {
       "id": 161669,
       "url": "https://jobicy.com/jobs/161669-engineering-manager-mlops-analytics-2",
@@ -4640,7 +4880,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:51:25+00:00",
-    "fetched_at": "2026-11-15T03:13:47.188Z",
+    "fetched_at": "2026-11-15T12:59:07.402Z",
     "raw": {
       "id": 161667,
       "url": "https://jobicy.com/jobs/161667-senior-software-engineer-react-python",
@@ -4691,7 +4931,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:50:46+00:00",
-    "fetched_at": "2026-11-15T03:13:47.189Z",
+    "fetched_at": "2026-11-15T12:59:07.404Z",
     "raw": {
       "id": 161665,
       "url": "https://jobicy.com/jobs/161665-engineering-manager-app-stores",
@@ -4741,7 +4981,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:50:43+00:00",
-    "fetched_at": "2026-11-15T03:13:47.190Z",
+    "fetched_at": "2026-11-15T12:59:07.405Z",
     "raw": {
       "id": 161663,
       "url": "https://jobicy.com/jobs/161663-senior-software-engineer-python-ai",
@@ -4792,7 +5032,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:50:40+00:00",
-    "fetched_at": "2026-11-15T03:13:47.191Z",
+    "fetched_at": "2026-11-15T12:59:07.406Z",
     "raw": {
       "id": 161660,
       "url": "https://jobicy.com/jobs/161660-embedded-desktop-linux-systems-engineer-optimisation-2",
@@ -4840,7 +5080,7 @@
       "Software Engineering"
     ],
     "posted_at": "2026-11-12T16:50:36+00:00",
-    "fetched_at": "2026-11-15T03:13:47.192Z",
+    "fetched_at": "2026-11-15T12:59:07.407Z",
     "raw": {
       "id": 161658,
       "url": "https://jobicy.com/jobs/161658-senior-software-engineer-golang-2",
@@ -4862,266 +5102,6 @@
       "salaryMin": 75000,
       "salaryCurrency": "GBP",
       "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:161650",
-    "platform": "jobicy",
-    "external_id": "161650",
-    "title": "Senior Software Engineer, Embedded",
-    "company": "Flipturn",
-    "description": "About us The rapid transition to electric vehicles (EVs) is the biggest change in transportation since the Model T. Flipturn is building the EV charging and energy platform for the next generation of sustainable transportation. We're already working with the largest forward-thinking Fortune 500 EV fleets across trucking, transit, and autonomous. Flipturn is now a part of Einride, a global company revolutionizing transportation by showing the world a new way to move, based on the latest digital, electric and autonomous technologies. Through a suite of EV charging and fleet solutions and freight capacity as a service operations, Einride enables businesses around the world to accelerate towards their sustainability goals. Einride’s customers include some of the world’s biggest shippers, including Fortune 500 companies. At Flipturn, you’ll: Build a climate/sustainability-focused product, working on projects that directly impact real-life EV infrastructure Collaborate with a team of extremely talented and mission-driven teammates (Stripe, Samsara, Google, MIT, UC Berkeley) Work with modern technologies and best in class tools (ex: Yocto, TypeScript, GraphQL, AWS, Cursor, Claude) Build for the long term as part of Einride, a global leader in EV and autonomous transportation technology The role This role is focused on the Flipturn Controller , a cutting-edge onsite control computer that integrates with EV chargers, batteries, generators, meters, and utility programs. You'll be involved in building major features, getting feedback from customers, driving the vision of our EV charging platform, and setting the culture of our engineering team. You'll work on projects like: Integrating EV charging with on-site batteries and generators, utility programs, and other sources of control Upgrading our embedded Linux systems, including build tooling (Yocto or similar), bootloaders, and board bring-up Firmware and full-stack improvements to Flipturn's innovative energy management platform, for example helping customers participate in PG&amp;E's Flex Connect program to get their sites up and running faster We're looking for people who have: 4-7 years of experience in software engineering 2+ years of experience with firmware development Experience with embedded Linux systems – build tooling (Yocto or similar), bootloaders, and board bring-up Interest in working on firmware/hardware projects as well as full-stack product development, as needed to deliver a fully working end-to-end product Experience on a fast-moving industry-leading technology team and delivering products and features end-to-end Interest in using AI tools to accelerate software development Benefits Competitive compensation: The anticipated range for this position is $190,000 - $230,000 base salary per year, with an additional equity component Comprehensive health coverage: Medical, dental, and vision plans, including PPO and HSA options. Retirement savings: 401(k) plan with an employer match. Generous time off: 25 days of Paid Time Off (PTO). 15 paid sick days and 15 paid US holidays observed. Wellness allowance: To support your personal well-being. Offices in NYC and Austin, as well as regular team bonding weeks with remote team members",
-    "url": "https://jobicy.com/jobs/161650-senior-software-engineer-embedded",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "typescript",
-      "aws",
-      "llm",
-      "graphql",
-      "linux",
-      "stripe"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-11-12T16:49:52+00:00",
-    "fetched_at": "2026-11-15T03:13:47.193Z",
-    "raw": {
-      "id": 161650,
-      "url": "https://jobicy.com/jobs/161650-senior-software-engineer-embedded",
-      "jobSlug": "161650-senior-software-engineer-embedded",
-      "jobTitle": "Senior Software Engineer, Embedded",
-      "companyName": "Flipturn",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/92ea924af4d5-221.webp",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "About us The rapid transition to electric vehicles (EVs) is the biggest change in transportation since the Model T. Flipturn is building the EV charging and energy platform for the next generation of sustainable transportation. We're already working with the largest forward-thinking Fortune 500 EV fleets across trucking, transit, and autonomous. Flipturn is now a&hellip;",
-      "jobDescription": "<h3><strong>About us</strong></h3>\n<p>The rapid transition to electric vehicles (EVs) is the biggest change in transportation since the Model T. <a href=\"https://jobicy.com/company/flipturn\" target=\"_blank\" rel=\"noopener\">Flipturn</a> is building the EV charging and energy platform for the next generation of sustainable transportation. We're already working with the <a href=\"https://www.getflipturn.com/customers\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>largest forward-thinking Fortune 500 EV fleets</u></a> across trucking, transit, and autonomous.</p>\n<p>Flipturn is now a part of Einride, a global company revolutionizing transportation by showing the world a new way to move, based on the latest digital, electric and autonomous technologies. Through a suite of EV charging and fleet solutions and freight capacity as a service operations, Einride enables businesses around the world to accelerate towards their sustainability goals. Einride’s customers include some of the world’s biggest shippers, including Fortune 500 companies.</p>\n<p><strong>At Flipturn, you’ll:</strong></p>\n<ul>\n<li>\n<p>Build a climate/sustainability-focused product, working on projects that directly impact real-life EV infrastructure</p>\n</li>\n<li>\n<p>Collaborate with a team of extremely talented and mission-driven teammates (Stripe, Samsara, Google, MIT, UC Berkeley)</p>\n</li>\n<li>\n<p>Work with modern technologies and best in class tools (ex: Yocto, TypeScript, GraphQL, AWS, Cursor, Claude)</p>\n</li>\n<li>\n<p>Build for the long term as part of Einride, a global leader in EV and autonomous transportation technology</p>\n</li>\n</ul>\n<h3><strong>The role</strong></h3>\n<p>This role is focused on the <a href=\"https://www.getflipturn.com/product/flipturn-controller\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>Flipturn Controller</u></a>, a cutting-edge onsite control computer that integrates with EV chargers, batteries, generators, meters, and utility programs. You'll be involved in building major features, getting feedback from customers, driving the vision of our EV charging platform, and setting the culture of our engineering team.</p>\n<p>You'll work on projects like:</p>\n<ul>\n<li>\n<p>Integrating EV charging with on-site batteries and generators, utility programs, and other sources of control</p>\n</li>\n<li>\n<p>Upgrading our embedded Linux systems, including build tooling (Yocto or similar), bootloaders, and board bring-up</p>\n</li>\n<li>\n<p>Firmware and full-stack improvements to Flipturn's innovative <a href=\"https://www.getflipturn.com/product/energy-management\" rel=\"nofollow ugc noopener\" target=\"_blank\"><u>energy management </u></a>platform, for example helping customers participate in PG&amp;E's Flex Connect program to get their sites up and running faster</p>\n</li>\n</ul>\n<h3>We're looking for people who have:</h3>\n<ul>\n<li>\n<p>4-7 years of experience in software engineering</p>\n</li>\n<li>\n<p>2+ years of experience with firmware development</p>\n</li>\n<li>\n<p>Experience with embedded Linux systems – build tooling (Yocto or similar), bootloaders, and board bring-up</p>\n</li>\n<li>\n<p>Interest in working on firmware/hardware projects as well as full-stack product development, as needed to deliver a fully working end-to-end product</p>\n</li>\n<li>\n<p>Experience on a fast-moving industry-leading technology team and delivering products and features end-to-end</p>\n</li>\n<li>\n<p>Interest in using AI tools to accelerate software development</p>\n</li>\n</ul>\n<h3>Benefits</h3>\n<ul>\n<li>\n<p>Competitive compensation: The anticipated range for this position is $190,000 - $230,000 base salary per year, with an additional equity component</p>\n</li>\n<li>\n<p>Comprehensive health coverage: Medical, dental, and vision plans, including PPO and HSA options.</p>\n</li>\n<li>\n<p>Retirement savings: 401(k) plan with an employer match.</p>\n</li>\n<li>\n<p>Generous time off: 25 days of Paid Time Off (PTO). 15 paid sick days and 15 paid US holidays observed.</p>\n</li>\n<li>\n<p>Wellness allowance: To support your personal well-being.</p>\n</li>\n<li>\n<p>Offices in NYC and Austin, as well as regular team bonding weeks with remote team members</p>\n</li>\n</ul>",
-      "pubDate": "2026-11-12T16:49:52+00:00",
-      "salaryMin": 190000,
-      "salaryMax": 230000,
-      "salaryCurrency": "USD",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:161642",
-    "platform": "jobicy",
-    "external_id": "161642",
-    "title": "Forward Deployed Engineer",
-    "company": "Nearform",
-    "description": "This is a full-time, permanent opportunity for candidates based in Italy. This position also requires frequent travel to client sites within Europe , with travel expenses covered by the company . About Nearform Nearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we partner with ambitious enterprises to deliver enduring impact. Our deep expertise in solving the world’s most complex digital problems, along with our collaborative, people-first approach, enables enterprises to build breakthrough products and modernise legacy systems by unleashing the power of AI. Today, our team of 500 experts in 20+ countries is trusted by leading enterprises, including Lululemon, Puma, Sun Life, Starbucks, Travelex, Virgin Media 02, and Walmart. About the role As a Forward Deployed Engineer, you will help build, implement, and deploy agentic platforms within client environments. Your role will focus on building and deploying scalable AI-driven solutions, enabling organisations to operationalise LLM-powered agents across products, processes, and teams. You will work closely with client stakeholders, technical leaders, and delivery teams to build, and roll out agentic capabilities that integrate seamlessly with existing enterprise systems and frameworks. What we are looking for in this person: Significant experience delivering at a Senior Engineer level. Our Seniors typically have at least 8 years of commercial experience. Experience designing and building agentic platforms using Python and modern AI frameworks. Architect LLM orchestration using frameworks such as LangGraph, CrewAI, AutoGen, and related technologies. Implement multi-agent systems supporting tool use, workflow orchestration, memory, and decision-making. Design and deploy Retrieval-Augmented Generation (RAG) pipelines integrating enterprise data sources. Integrate agentic platforms with client systems, including APIs, data platforms, cloud services, and enterprise applications. The ability to configure Kubernetes and deploy workloads. Design deployment architectures across cloud, on-premise, and hybrid environments. Ability to collaborate efficiently in teams of technical and non-technical individuals. Comfort working in a dynamic environment with evolving objectives and direct iteration with users. Strong consulting experience to plan, execute, and deliver complex client engagements, solving real business problems. Nice to have: Hands-on experience working with Golang Hands-on experience in the Frontend working with React Deep understanding of Kubernetes Benefits &amp; Perks: Annual Company Bonus - We all help Nearform to hit company goals so we all receive a share of the profits on an annual basis in line with company performance. Work Remotely and Flexibly - We have a genuine dedication to work/life balance. Our flexible working culture allows you to work around what matters - school run, no problem! Paid Time Off Package - We offer an annual leave of 28 days plus public holidays. Remote Working Allowance - Every 2 years, you will have a budget of up to €1250 to help you set up a comfortable and productive workspace in addition to your essential equipment provided by Nearform when you join. Training and Development - Nearform is committed to supporting and investing in employees’ ongoing learning and professional development. You will be encouraged to pursue relevant learning opportunities that support your growth and the growth of others, subject to manager approval. Healthcare - Health insurance is provided for under the applicable national collective labor agreement (CCNL) and may be through the Fondo Est or QuAS. Pension &amp; Insurances - We provide statutory pension and access to a collective complementary pension scheme (CCNL-based, with employer contribution up to 1.55%), plus Death in Service cover. Our Interview Process Talent Call (30 mins via Zoom) An introductory conversation with a member of our Talent Team to learn more about your background, experience, and career goals. We'll also provide a high-level overview of Nearform and answer any questions you may have. This step helps us assess initial alignment. Technical Assessment (1 hour via Zoom) A live coding challenge with one of our trained interviewers. You'll be asked to build a working solution to a problem via screen sharing, demonstrating your Python expertise, problem-solving ability, and coding best practices in a real-time environment. Hiring Manager Interview (45 mins via Zoom) A conversation with a Hiring Manager focused on your approach to teamwork, client collaboration, and problem-solving in an enterprise development setting. We'll also share more details about Nearform and the potential projects you may join. There may also be an additional interview with the client depending on the project Ready to Join Us? If you're passionate about building high-quality applications, solving complex challenges, and driving innovation in enterprise development, we’d love to hear from you. Apply now via our careers page at Nearform and be part of a team that values technical excellence, collaboration, and continuous learning. As part of our recruitment process, we conduct manual and electronic identity verification checks to confirm the identity of prospective employees. Nearform is committed to shaping a better world in all that we do. Our global team is built based on respect, inclusivity, diversity and excellence. If you require any adjustments to the interview process as part of your application, please let someone from our Talent Team know so they can help. O ur salary range starts from €60,000 + bonus &amp; benefits and will be discussed during the initial interview based on your experience.",
-    "url": "https://jobicy.com/jobs/161642-forward-deployed-engineer-10",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Italy",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "go",
-      "react",
-      "kubernetes",
-      "llm",
-      "rag"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-11-12T13:29:03+00:00",
-    "fetched_at": "2026-11-15T03:13:47.193Z",
-    "raw": {
-      "id": 161642,
-      "url": "https://jobicy.com/jobs/161642-forward-deployed-engineer-10",
-      "jobSlug": "161642-forward-deployed-engineer-10",
-      "jobTitle": "Forward Deployed Engineer",
-      "companyName": "Nearform",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/27931a3f46b1-221.webp",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Italy",
-      "jobLevel": "Senior",
-      "jobExcerpt": "This is a full-time, permanent opportunity for candidates based in Italy. This position also requires frequent travel to client sites within Europe, with travel expenses covered by the company. About Nearform Nearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create&hellip;",
-      "jobDescription": "<p>This is a <strong>full-time, permanent opportunity</strong> for candidates <strong>based in Italy.</strong></p>\n<p>This position also requires <strong>frequent travel to client sites within Europe</strong>, with<strong> travel expenses covered by the company</strong>.</p>\n<p><strong>About <a href=\"https://jobicy.com/company/nearform\" target=\"_blank\" rel=\"noopener\">Nearform</a></strong></p>\n<p>Nearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we partner with ambitious enterprises to deliver enduring impact.</p>\n<p>Our deep expertise in solving the world’s most complex digital problems, along with our collaborative, people-first approach, enables enterprises to build breakthrough products and modernise legacy systems by unleashing the power of AI.</p>\n<p>Today, our team of 500 experts in 20+ countries is trusted by leading enterprises, including Lululemon, Puma, Sun Life, Starbucks, Travelex, Virgin Media 02, and Walmart. </p>\n<p><strong>About the role</strong></p>\n<p>As a Forward Deployed Engineer, you will help build, implement, and deploy agentic platforms within client environments. Your role will focus on building and deploying scalable AI-driven solutions, enabling organisations to operationalise LLM-powered agents across products, processes, and teams. You will work closely with client stakeholders, technical leaders, and delivery teams to build, and roll out agentic capabilities that integrate seamlessly with existing enterprise systems and frameworks. </p>\n<p><strong>What we are looking for in this person:</strong></p>\n<ul>\n<li>Significant experience delivering at a Senior Engineer level. Our Seniors typically have at least 8 years of commercial experience.</li>\n<li>Experience designing and building agentic platforms using Python and modern AI frameworks.</li>\n<li>Architect LLM orchestration using frameworks such as LangGraph, CrewAI, AutoGen, and related technologies.</li>\n<li>Implement multi-agent systems supporting tool use, workflow orchestration, memory, and decision-making.</li>\n<li>Design and deploy Retrieval-Augmented Generation (RAG) pipelines integrating enterprise data sources.</li>\n<li>Integrate agentic platforms with client systems, including APIs, data platforms, cloud services, and enterprise applications.</li>\n<li>The ability to configure Kubernetes and deploy workloads.</li>\n<li>Design deployment architectures across cloud, on-premise, and hybrid environments.</li>\n<li>Ability to collaborate efficiently in teams of technical and non-technical individuals.</li>\n<li>Comfort working in a dynamic environment with evolving objectives and direct iteration with users.</li>\n<li>Strong consulting experience to plan, execute, and deliver complex client engagements, solving real business problems.</li>\n</ul>\n<p><strong>Nice to have:</strong></p>\n<ul>\n<li>Hands-on experience working with Golang</li>\n<li>Hands-on experience in the Frontend working with React </li>\n<li>Deep understanding of Kubernetes</li>\n</ul>\n<p><strong>Benefits &amp; Perks:</strong></p>\n<ul>\n<li><strong>Annual Company Bonus</strong> -<strong> </strong>We all help Nearform to hit company goals so we all receive a share of the profits on an annual basis in line with company performance. </li>\n<li><strong>Work Remotely and Flexibly</strong> - We have a genuine dedication to work/life balance. Our flexible working culture allows you to work around what matters - school run, no problem! </li>\n<li><strong>Paid Time Off Package</strong> - We offer an annual leave of 28 days plus public holidays. </li>\n<li><strong>Remote Working Allowance</strong> - Every 2 years, you will have a budget of up to €1250 to help you set up a comfortable and productive workspace in addition to your essential equipment provided by Nearform when you join.</li>\n<li><strong>Training and Development </strong> - Nearform is committed to supporting and investing in employees’ ongoing learning and professional development. You will be encouraged to pursue relevant learning opportunities that support your growth and the growth of others, subject to manager approval.</li>\n<li><strong>Healthcare </strong>- Health insurance is provided for under the applicable national collective labor agreement (CCNL) and may be through the Fondo Est or QuAS.</li>\n<li><strong>Pension &amp; Insurances</strong> - We provide statutory pension and access to a collective complementary pension scheme (CCNL-based, with employer contribution up to 1.55%), plus Death in Service cover.</li>\n</ul>\n<p><strong>Our Interview Process</strong></p>\n<ul>\n<li><strong>Talent Call</strong> (30 mins via Zoom)<br>An introductory conversation with a member of our Talent Team to learn more about your background, experience, and career goals. We'll also provide a high-level overview of Nearform and answer any questions you may have. This step helps us assess initial alignment.</li>\n</ul>\n<hr>\n<ul>\n<li><strong>Technical Assessment</strong> (1 hour via Zoom)<br>A live coding challenge with one of our trained interviewers. You'll be asked to build a working solution to a problem via screen sharing, demonstrating your Python expertise, problem-solving ability, and coding best practices in a real-time environment.</li>\n</ul>\n<hr>\n<ul>\n<li><strong>Hiring Manager Interview</strong> (45 mins via Zoom)<br>A conversation with a Hiring Manager focused on your approach to teamwork, client collaboration, and problem-solving in an enterprise development setting. We'll also share more details about Nearform and the potential projects you may join.</li>\n</ul>\n<p><em>There may also be an additional interview with the client depending on the project</em></p>\n\n<h3><strong>Ready to Join Us?</strong></h3>\n<p>If you're passionate about building high-quality applications, solving complex challenges, and driving innovation in enterprise development, we’d love to hear from you.</p>\n<p>Apply now via our careers page at Nearform and be part of a team that values technical excellence, collaboration, and continuous learning.</p>\n<p><em>As part of our recruitment process, we conduct manual and electronic identity verification checks to confirm the identity of prospective employees.</em></p>\n<p><em>Nearform is committed to shaping a better world in all that we do. Our global team is built based on respect, inclusivity, diversity and excellence. </em></p>\n<p><em>If you require any adjustments to the interview process as part of your application, please let someone from our Talent Team know so they can help. </em></p>\n<p>O<em>ur salary range </em><strong><em>starts from €60,000 + bonus &amp; benefits </em></strong><em>and will be discussed during the initial interview based on your experience.</em></p>",
-      "pubDate": "2026-11-12T13:29:03+00:00",
-      "salaryMin": 60000,
-      "salaryCurrency": "EUR",
-      "salaryPeriod": "yearly"
-    }
-  },
-  {
-    "id": "jobicy:161630",
-    "platform": "jobicy",
-    "external_id": "161630",
-    "title": "Lead Software Solutions Architect",
-    "company": "Particle41",
-    "description": "Lead Architect As a Lead Software and Cloud Architect at Particle41 , you will drive the design and development of our cloud-native solutions. You will be asked to use your expertise in s, and AWS technologies to craft robust and scalable architectures that meet the evolving needs of our clients. Working closely with cross-functional teams, you will provide strategic guidance to align technical decisions with business objectives, ensuring the delivery of innovative and high-quality projects. Your role will also involve mentoring and coaching team members, fostering a culture of collaboration and continuous learning. In This Role, You Will: Architecture Design: Lead the design and architecture of cloud-native solutions using modern software stacks and AWS. Define system architecture and design patterns to ensure scalability and reliability. Evaluate and recommend technologies and frameworks to support business requirements. Strategic Guidance: Provide strategic guidance to align technical decisions with business goals. Collaborate with stakeholders to define the technical roadmap and vision. Drive innovation by researching emerging technologies and industry trends. Mentorship and Coaching: Mentor and coach team members to enhance their technical skills and expertise. Foster a culture of collaboration, knowledge sharing, and continuous learning. Conduct code reviews and provide constructive feedback to improve quality and maintainability. Collaboration: Collaborate with cross-functional teams, including product managers, engineers, and QA. Communicate effectively with stakeholders to gather requirements and provide updates. Work closely with DevOps teams to ensure seamless integration and deployment processes. Leadership: Provide technical leadership and guidance on architectural decisions and implementations. Lead by example through hands-on involvement in coding and design discussions. Identify and resolve technical challenges to ensure project success. Continuous Improvement: Drive continuous improvement initiatives to enhance development processes and methodologies. Implement metrics and monitoring systems to track system performance and reliability. Facilitate lessons-learned meetings to learn from past experiences and improve future projects. Industry Best Practices: Stay up to date with industry best practices and standards in software architecture. Implement best practices for security, scalability, and performance. Drive the adoption of agile methodologies and DevOps practices within the team. Skills and Experience We Value: Bachelor’s degree in Computer Science or related field preferred 8+ years of experience in software development with a strong focus on architecture design. Extensive expertise in .NET, Java, or NodeJS programming language and AWS cloud services. Proven track record of designing and implementing scalable, reliable, and secure cloud-native solutions. Strong leadership skills with experience in mentoring and developing engineering teams. Excellent communication skills with the ability to articulate complex ideas clearly. Experience with agile development methodologies and continuous integration/deployment (CI/CD) pipelines. Familiarity with modern software development practices, tools, and frameworks. Certifications in relevant technologies, such as AWS Solutions Architect, .NET, etc., are a plus. About Particle41 Our core values of Visibility, Velocity , and Vision drive everything we do to achieve the ultimate outcomes for our clients. We prioritize dependability as our highest guiding principle in delivering exceptional results. Visibility means communicating openly and comprehensively as an extension of our client's engineering teams. Velocity is about building fast and smart without cutting corners, ensuring timely and quality delivery without expecting things to break, and not expecting things to break. Vision involves building upon our clients' goals, carefully executing and dynamically improving their products and services throughout the development cycle. We seek team members who embody these values and are committed to contributing to our mission.Particle41 welcomes individuals from all backgrounds dedicated to our mission and values. We provide equal employment opportunities to all employees and applicants, ensuring that hiring and employment decisions are based on merit and qualifications without discrimination based on race, color, religion, caste, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, local, or international laws. This policy applies to all aspects of employment and hiring. We appreciate your interest and encourage applicants from these regions to apply. If you need any assistance during the application or interview process, please feel free to reach out to us at careers@Particle41.com.",
-    "url": "https://jobicy.com/jobs/161630-lead-software-solutions-architect",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "USA",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "java",
-      "nodejs",
-      "aws"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-11-12T13:25:55+00:00",
-    "fetched_at": "2026-11-15T03:13:47.194Z",
-    "raw": {
-      "id": 161630,
-      "url": "https://jobicy.com/jobs/161630-lead-software-solutions-architect",
-      "jobSlug": "161630-lead-software-solutions-architect",
-      "jobTitle": "Lead Software Solutions Architect",
-      "companyName": "Particle41",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/06a9d08339e9-221.webp",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "USA",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Lead Architect As a Lead Software and Cloud Architect at Particle41, you will drive the design and development of our cloud-native solutions. You will be asked to use your expertise in s, and AWS technologies to craft robust and scalable architectures that meet the evolving needs of our clients. Working closely with cross-functional teams, you&hellip;",
-      "jobDescription": "<p><strong>Lead Architect</strong></p>\n<p>As a Lead Software and Cloud Architect at <a href=\"https://jobicy.com/company/particle41\" target=\"_blank\" rel=\"noopener\">Particle41</a>, you will drive the design and development of our cloud-native solutions. You will be asked to use your expertise in s, and AWS technologies to craft robust and scalable architectures that meet the evolving needs of our clients. Working closely with cross-functional teams, you will provide strategic guidance to align technical decisions with business objectives, ensuring the delivery of innovative and high-quality projects. Your role will also involve mentoring and coaching team members, fostering a culture of collaboration and continuous learning.</p>\n<p><strong>In This Role, You Will:</strong></p>\n<p>Architecture Design:</p>\n<ul>\n<li>Lead the design and architecture of cloud-native solutions using modern software stacks and AWS.</li>\n<li>Define system architecture and design patterns to ensure scalability and reliability.</li>\n<li>Evaluate and recommend technologies and frameworks to support business requirements.</li>\n</ul>\n<p>Strategic Guidance:</p>\n<ul>\n<li>Provide strategic guidance to align technical decisions with business goals.</li>\n<li>Collaborate with stakeholders to define the technical roadmap and vision.</li>\n<li>Drive innovation by researching emerging technologies and industry trends.</li>\n</ul>\n<p>Mentorship and Coaching:</p>\n<ul>\n<li>Mentor and coach team members to enhance their technical skills and expertise.</li>\n<li>Foster a culture of collaboration, knowledge sharing, and continuous learning.</li>\n<li>Conduct code reviews and provide constructive feedback to improve quality and maintainability.</li>\n</ul>\n<p>Collaboration:</p>\n<ul>\n<li>Collaborate with cross-functional teams, including product managers, engineers, and QA.</li>\n<li>Communicate effectively with stakeholders to gather requirements and provide updates.</li>\n<li>Work closely with DevOps teams to ensure seamless integration and deployment processes.</li>\n</ul>\n<p>Leadership:</p>\n<ul>\n<li>Provide technical leadership and guidance on architectural decisions and implementations.</li>\n<li>Lead by example through hands-on involvement in coding and design discussions.</li>\n<li>Identify and resolve technical challenges to ensure project success.</li>\n</ul>\n<p>Continuous Improvement:</p>\n<ul>\n<li>Drive continuous improvement initiatives to enhance development processes and methodologies.</li>\n<li>Implement metrics and monitoring systems to track system performance and reliability.</li>\n<li>Facilitate lessons-learned meetings to learn from past experiences and improve future projects.</li>\n</ul>\n<p>Industry Best Practices:</p>\n<ul>\n<li>Stay up to date with industry best practices and standards in software architecture.</li>\n<li>Implement best practices for security, scalability, and performance.</li>\n<li>Drive the adoption of agile methodologies and DevOps practices within the team.</li>\n</ul>\n<p><strong>Skills and Experience We Value:</strong></p>\n<ul>\n<li>Bachelor’s degree in Computer Science or related field preferred</li>\n<li>8+ years of experience in software development with a strong focus on architecture design.</li>\n<li>Extensive expertise in .NET, Java, or NodeJS programming language and AWS cloud services.</li>\n<li>Proven track record of designing and implementing scalable, reliable, and secure cloud-native solutions.</li>\n<li>Strong leadership skills with experience in mentoring and developing engineering teams.</li>\n<li>Excellent communication skills with the ability to articulate complex ideas clearly.</li>\n<li>Experience with agile development methodologies and continuous integration/deployment (CI/CD) pipelines.</li>\n<li>Familiarity with modern software development practices, tools, and frameworks.</li>\n<li>Certifications in relevant technologies, such as AWS Solutions Architect, .NET, etc., are a plus.</li>\n</ul>\n<p><strong>About Particle41</strong><strong><br></strong>Our core values of <strong>Visibility, Velocity</strong>, and <strong>Vision</strong> drive everything we do to achieve the ultimate outcomes for our clients. We prioritize dependability as our highest guiding principle in delivering exceptional results.</p>\n<ul>\n<li><strong>Visibility</strong> means communicating openly and comprehensively as an extension of our client's engineering teams.</li>\n<li><strong>Velocity</strong> is about building fast and smart without cutting corners, ensuring timely and quality delivery without expecting things to break, and not expecting things to break.</li>\n<li><strong>Vision</strong> involves building upon our clients' goals, carefully executing and dynamically improving their products and services throughout the development cycle. </li>\n</ul>\n<p>We seek team members who embody these values and are committed to contributing to our mission.Particle41 welcomes individuals from all backgrounds dedicated to our mission and values. We provide equal employment opportunities to all employees and applicants, ensuring that hiring and employment decisions are based on merit and qualifications without discrimination based on race, color, religion, caste, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, local, or international laws. This policy applies to all aspects of employment and hiring. </p>\n<p>We appreciate your interest and encourage applicants from these regions to apply. If you need any assistance during the application or interview process, please feel free to reach out to us at careers@Particle41.com.</p>",
-      "pubDate": "2026-11-12T13:25:55+00:00"
-    }
-  },
-  {
-    "id": "jobicy:161629",
-    "platform": "jobicy",
-    "external_id": "161629",
-    "title": "Senior QA Engineer",
-    "company": "Caylent",
-    "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production. Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first. We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien! The Mission This role is a Senior QA/Test Engineer specializing in Amazon Connect and contact center technology, responsible for designing and executing comprehensive test strategies across contact flows, routing, IVR/self-service, and AI-driven conversational agents. They validate legacy-to-Connect migrations, build and maintain manual and automated test suites (Playwright, Cypress, Selenium) spanning UI, API, and serverless backend components, and ensure production readiness through cutover validation, monitoring verification, and incident triage. Beyond hands-on testing, they partner with engineers to shift quality left, run UAT sessions with customer stakeholders, and contribute reusable test assets and mentorship to strengthen Caylent's contact center QA practice. Your Assignment Test Strategy &amp; Contact Center Quality Design and execute test strategies for Amazon Connect implementations covering contact flows, routing logic, IVR/self-service, Cases/Tasks workflows, and Contact Lens configurations Build test plans that validate AI agent behavior: intent recognition accuracy, escalation paths, barge-in/fallback handling, hallucination guardrails, and multilingual/SSML voice interactions Validate legacy-to-Connect migrations (i.e. Avaya, Genesys, Connect, NICE) through parallel-run testing, flow conversion verification, and data migration validation Define and track quality metrics (defect density, test coverage, escape rate) and report on release readiness to delivery leads and customer stakeholders Hands-on experience with web application and web automation testing Manual, Automated &amp; Full-Stack Testing Build, maintain, and execute manual and automated IVR test suites, using tools such as Cyara, Hammer, or Botium (preferred). Build, maintain, and execute manual and automated web application test suites, using frameworks such as Cypress, Selenium, or Playwright (preferred). Build and maintain manual and automated test suites: Playwright E2E and API tests, Cypress, Selenium, integration tests against live Amazon Connect instances, and end-to-end tests of Amazon connect call flows. Test custom Agent Workspace experiences (Amazon Connect, Agent Assist) Validate serverless, event-driven backends (Lambda, EventBridge, Step Functions, SQS/SNS, DynamoDB, Kinesis) with integration and contract tests Production Readiness &amp; Operations Execute phased rollout and cutover validation for live contact centers, where testing gaps translate directly into missed calls and customer impact Verify monitoring and alerting coverage (CloudWatch metrics, alarms, dashboards) across voice, chat, tasks, queues, agents, Lambda, and AI agents prior to go-live Participate in production incident triage, reproducing defects and validating fixes across the contact center stack Perform security and compliance validation: least-privilege IAM checks, DevSecOps scan review, and encryption standard verification Collaboration &amp; Practice Contribution Partner with engineers during development to shift testing left: pairing on test design, reviewing acceptance criteria, and flagging risk areas early Run UAT sessions with customer stakeholders, triage findings, and drive defects to resolution ahead of production cutovers Contribute reusable test assets (automated suites, test data sets, QA checklists) back to the CXE practice Mentor junior QA engineers on contact center testing patterns and Caylent's quality standards Your Qualifications 8+ years of QA/test engineering experience, including 3+ years testing contact center, CCaaS, or IVR/voice platforms Hands-on experience with Amazon Connect or a comparable CCaaS platform: contact flows, routing, Cases/Tasks, and reporting Proficiency with automated testing frameworks (Playwright E2E and API tests, Cypress, Selenium) for unit, integration, and E2E testing Experience testing serverless/event-driven AWS architectures (Lambda, API Gateway, DynamoDB, Step Functions) Working knowledge of conversational AI / voice testing considerations: intent accuracy, latency, fallback behavior Strong defect documentation and triage skills; comfortable running UAT sessions with business and technical stakeholders Familiarity with CI/CD pipelines (GitHub Actions) and integrating automated tests into deployment workflows Preferred Qualifications Contact center migration testing experience (i.e. Avaya, Genesys, Connect, NICE) Experience with AI observability/trace validation (agent spans, token/cost attribution) or accessibility engineering AWS certifications (Solutions Architect, Developer, or ML/Connect-relevant Specialty) Contact center operations fluency: Quality management, outbound compliance, and CX KPIs Consulting or client-delivery background Hands on experience with Cyara Botium Benefits 100% remote work Medical Insurance for you and eligible dependents Generous holidays and flexible PTO Competitive phantom equity Paid for exams and certifications Peer bonus awards State of the art laptop and tools Equipment &amp; Office Stipend Individual professional development plan Annual stipend for Learning and Development Work with an amazing worldwide team and in an incredible corporate culture NOTE: This position requires current legal authorization to work in the country where this position is located. Caylent is not able to sponsor visa or work permit applications at this time. At Caylent, we are committed to fair, transparent, and inclusive hiring practices. As part of our recruitment process, we may use artificial intelligence (AI) tools or automated systems to assist with the screening and evaluation of applications to help match candidate qualifications with job requirements. These tools are designed to support — not replace — human decision-making. Final hiring decisions are always made by our trained recruitment professionals. If an AI or automated tool is used during your application process, it will only be in accordance with applicable laws and regulations, and your information will be handled in a secure and confidential manner. If you have any questions, please contact talent@caylent.com Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent. We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com.",
-    "url": "https://jobicy.com/jobs/161629-senior-qa-engineer-4",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Mexico",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "dynamodb",
-      "aws",
-      "github-actions",
-      "llm",
-      "machine-learning",
-      "sqs",
-      "cypress",
-      "playwright",
-      "selenium"
-    ],
-    "tags": [
-      "QA & Testing"
-    ],
-    "posted_at": "2026-11-12T13:25:53+00:00",
-    "fetched_at": "2026-11-15T03:13:47.195Z",
-    "raw": {
-      "id": 161629,
-      "url": "https://jobicy.com/jobs/161629-senior-qa-engineer-4",
-      "jobSlug": "161629-senior-qa-engineer-4",
-      "jobTitle": "Senior QA Engineer",
-      "companyName": "Caylent",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/9ed8d81b-221.jpg",
-      "jobIndustry": [
-        "QA & Testing"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Mexico",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "jobDescription": "<p><a href=\"https://jobicy.com/company/caylent\" target=\"_blank\" rel=\"noopener\">Caylent</a> is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production.</p>\n<p>Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first.</p>\n<p>We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien!</p>\n<p><strong>The Mission</strong></p>\n<p>This role is a Senior QA/Test Engineer specializing in Amazon Connect and contact center technology, responsible for designing and executing comprehensive test strategies across contact flows, routing, IVR/self-service, and AI-driven conversational agents. They validate legacy-to-Connect migrations, build and maintain manual and automated test suites (Playwright, Cypress, Selenium) spanning UI, API, and serverless backend components, and ensure production readiness through cutover validation, monitoring verification, and incident triage. Beyond hands-on testing, they partner with engineers to shift quality left, run UAT sessions with customer stakeholders, and contribute reusable test assets and mentorship to strengthen Caylent's contact center QA practice.</p>\n<p> <strong>Your Assignment</strong></p>\n<p><strong><em>Test Strategy &amp; Contact Center Quality</em></strong></p>\n<ul>\n<li>Design and execute test strategies for Amazon Connect implementations covering contact flows, routing logic, IVR/self-service, Cases/Tasks workflows, and Contact Lens configurations</li>\n<li>Build test plans that validate AI agent behavior: intent recognition accuracy, escalation paths, barge-in/fallback handling, hallucination guardrails, and multilingual/SSML voice interactions</li>\n<li>Validate legacy-to-Connect migrations (i.e. Avaya, Genesys, Connect, NICE) through parallel-run testing, flow conversion verification, and data migration validation</li>\n<li>Define and track quality metrics (defect density, test coverage, escape rate) and report on release readiness to delivery leads and customer stakeholders</li>\n<li>Hands-on experience with web application and web automation testing</li>\n</ul>\n<p><strong><em>Manual, Automated &amp; Full-Stack Testing</em></strong></p>\n<ul>\n<li>Build, maintain, and execute manual and automated IVR test suites, using tools such as Cyara, Hammer, or Botium (preferred).</li>\n<li>Build, maintain, and execute manual and automated web application test suites, using frameworks such as Cypress, Selenium, or Playwright (preferred).</li>\n<li>Build and maintain manual and automated test suites: Playwright E2E and API tests, Cypress, Selenium, integration tests against live Amazon Connect instances, and end-to-end tests of Amazon connect call flows.</li>\n<li>Test custom Agent Workspace experiences (Amazon Connect, Agent Assist) </li>\n<li>Validate serverless, event-driven backends (Lambda, EventBridge, Step Functions, SQS/SNS, DynamoDB, Kinesis) with integration and contract tests</li>\n</ul>\n<p><strong><em>Production Readiness &amp; Operations</em></strong></p>\n<ul>\n<li>Execute phased rollout and cutover validation for live contact centers, where testing gaps translate directly into missed calls and customer impact</li>\n<li>Verify monitoring and alerting coverage (CloudWatch metrics, alarms, dashboards) across voice, chat, tasks, queues, agents, Lambda, and AI agents prior to go-live</li>\n<li>Participate in production incident triage, reproducing defects and validating fixes across the contact center stack</li>\n<li>Perform security and compliance validation: least-privilege IAM checks, DevSecOps scan review, and encryption standard verification</li>\n</ul>\n<p><strong><em>Collaboration &amp; Practice Contribution</em></strong></p>\n<ul>\n<li>Partner with engineers during development to shift testing left: pairing on test design, reviewing acceptance criteria, and flagging risk areas early</li>\n<li>Run UAT sessions with customer stakeholders, triage findings, and drive defects to resolution ahead of production cutovers</li>\n<li>Contribute reusable test assets (automated suites, test data sets, QA checklists) back to the CXE practice</li>\n<li>Mentor junior QA engineers on contact center testing patterns and Caylent's quality standards</li>\n</ul>\n<p><strong> </strong></p>\n<p> <strong>Your Qualifications</strong></p>\n<ul>\n<li>8+ years of QA/test engineering experience, including 3+ years testing contact center, CCaaS, or IVR/voice platforms</li>\n<li>Hands-on experience with Amazon Connect or a comparable CCaaS platform: contact flows, routing, Cases/Tasks, and reporting</li>\n<li>Proficiency with automated testing frameworks (Playwright E2E and API tests, Cypress, Selenium) for unit, integration, and E2E testing</li>\n<li>Experience testing serverless/event-driven AWS architectures (Lambda, API Gateway, DynamoDB, Step Functions)</li>\n<li>Working knowledge of conversational AI / voice testing considerations: intent accuracy, latency, fallback behavior</li>\n<li>Strong defect documentation and triage skills; comfortable running UAT sessions with business and technical stakeholders</li>\n<li>Familiarity with CI/CD pipelines (GitHub Actions) and integrating automated tests into deployment workflows</li>\n</ul>\n<p> <strong>Preferred Qualifications</strong></p>\n<ul>\n<li>Contact center migration testing experience (i.e. Avaya, Genesys, Connect, NICE)</li>\n<li>Experience with AI observability/trace validation (agent spans, token/cost attribution) or accessibility engineering</li>\n<li>AWS certifications (Solutions Architect, Developer, or ML/Connect-relevant Specialty)</li>\n<li>Contact center operations fluency: Quality management, outbound compliance, and CX KPIs</li>\n<li>Consulting or client-delivery background</li>\n<li>Hands on experience with Cyara Botium</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>100% remote work</li>\n<li>Medical Insurance for you and eligible dependents</li>\n<li>Generous holidays and flexible PTO</li>\n<li>Competitive phantom equity</li>\n<li>Paid for exams and certifications</li>\n<li>Peer bonus awards</li>\n<li>State of the art laptop and tools</li>\n<li>Equipment &amp; Office Stipend</li>\n<li>Individual professional development plan</li>\n<li>Annual stipend for Learning and Development</li>\n<li>Work with an amazing worldwide team and in an incredible corporate culture</li>\n</ul>\n<p><em><strong>NOTE: This position requires current legal authorization to work in the country where this position is located. Caylent is not able to sponsor visa or work permit applications at this time.</strong></em></p>\n<p>At Caylent, we are committed to fair, transparent, and inclusive hiring practices. As part of our recruitment process, we may use artificial intelligence (AI) tools or automated systems to assist with the screening and evaluation of applications to help match candidate qualifications with job requirements.<br>These tools are designed to support — not replace — human decision-making. Final hiring decisions are always made by our trained recruitment professionals.<br>If an AI or automated tool is used during your application process, it will only be in accordance with applicable laws and regulations, and your information will be handled in a secure and confidential manner.<br>If you have any questions, please contact talent@caylent.com </p>\n<p>Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent. </p>\n<p>We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com.</p>",
-      "pubDate": "2026-11-12T13:25:53+00:00"
-    }
-  },
-  {
-    "id": "jobicy:161624",
-    "platform": "jobicy",
-    "external_id": "161624",
-    "title": "Senior Platform Engineer",
-    "company": "Caylent",
-    "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production. Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first. We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien! Mission The mission of this role is to build and extend Caylent's internal AI-native platform, spanning process automation, GenAI/agentic tooling (built on AWS Bedrock), and delivery enablement, while maintaining the services that power it. As a key member of our Builders team, you'll collaborate closely with teammates and temporary collaborators, sharing knowledge and mentoring others while directly addressing the needs of internal stakeholders across the organization. What You Should Expect: You'll be at the forefront of improving how our organization operates from within. You'll enjoy: Direct Impact on Colleagues: See the immediate results of your work as internal users adopt your solutions, provide feedback, and collaborate with you to refine tools that make their daily work more efficient. Internal Customer Relationships: Build meaningful connections across departments as you understand their challenges and deliver solutions that address their pain points, giving you unique visibility into how the business operates. Impactful Problem-Solving: Tackle real business challenges that directly improve our operational efficiency and bottom line. Your work will make a tangible difference in how our company functions. Technology Diversity : Work across our tech stack with Python backends, Vite frontends, AWS cloud infrastructure, and cutting-edge GenAI solutions using AWS Bedrock Growth Opportunities : Develop both technical depth in cloud-native architecture and business acumen as you translate organizational challenges into technical solutions. Key Responsibilities: - Design and implement backend solutions for core services using Python and Terraform. - Build and extend GenAI/agentic solutions (RAG, tool-calling agents, evaluation loops) on AWS Bedrock as part of our platform stack. - Contribute to frontend interfaces (React/Vite) for the tools and platforms you help build. - Optimize and maintain cloud native applications with a focus on scalability, performance, and reliability. - Collaborate with other engineers and stakeholders to drive the development of tools that enhance process efficiency and automate repetitive tasks. - Contribute to service enhancements, ensuring alignment with business objectives and technical best practices. Qualifications: Experience developing Generative AI solutions. Must have built at least one simple AI-powered feature or application end-to-end, and be comfortable with the AI SDLC, not just theoretical exposure. Proficiency in Python for backend development. Experience deploying and managing services in a cloud-native environment. Experience developing Generative AI solutions Experience with frontend development (React/Vite) for building user interfaces. Preferred Qualifications: Knowledge of AI/ML model integration and working with AI platforms like AWS Bedrock Experience with DevOps practices, CI/CD pipelines, and automated testing frameworks. Experience with Rust Understanding of business processes related to process optimization and SG&amp;A efficiency. Benefits 100% remote work Medical Insurance for you and eligible dependents Generous holidays and flexible PTO Competitive phantom equity Paid for exams and certifications Peer bonus awards State of the art laptop and tools Equipment &amp; Office Stipend Individual professional development plan Annual stipend for Learning and Development Work with an amazing worldwide team and in an incredible corporate culture NOTE: This position requires current legal authorization to work in the country where this position is located. Caylent is not able to sponsor visa or work permit applications at this time. At Caylent, we are committed to fair, transparent, and inclusive hiring practices. As part of our recruitment process, we may use artificial intelligence (AI) tools or automated systems to assist with the screening and evaluation of applications to help match candidate qualifications with job requirements. These tools are designed to support — not replace — human decision-making. Final hiring decisions are always made by our trained recruitment professionals. If an AI or automated tool is used during your application process, it will only be in accordance with applicable laws and regulations, and your information will be handled in a secure and confidential manner. If you have any questions, please contact talent@caylent.com Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent. We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com.",
-    "url": "https://jobicy.com/jobs/161624-senior-platform-engineer-8",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "salary_type": "yearly",
-    "contract_type": "full-time",
-    "experience_level": "senior",
-    "location": "Mexico",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "python",
-      "rust",
-      "react",
-      "aws",
-      "terraform",
-      "llm",
-      "machine-learning",
-      "rag",
-      "vite"
-    ],
-    "tags": [
-      "Software Engineering"
-    ],
-    "posted_at": "2026-11-12T13:24:58+00:00",
-    "fetched_at": "2026-11-15T03:13:47.196Z",
-    "raw": {
-      "id": 161624,
-      "url": "https://jobicy.com/jobs/161624-senior-platform-engineer-8",
-      "jobSlug": "161624-senior-platform-engineer-8",
-      "jobTitle": "Senior Platform Engineer",
-      "companyName": "Caylent",
-      "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/9ed8d81b-221.jpg",
-      "jobIndustry": [
-        "Software Engineering"
-      ],
-      "jobType": [
-        "Full-Time"
-      ],
-      "jobGeo": "Mexico",
-      "jobLevel": "Senior",
-      "jobExcerpt": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "jobDescription": "<p><a href=\"https://jobicy.com/company/caylent\" target=\"_blank\" rel=\"noopener\">Caylent</a> is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production.</p>\n<p>Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first.</p>\n<p>We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien!</p>\n<p><strong>Mission</strong></p>\n<p>The mission of this role is to build and extend Caylent's internal AI-native platform, spanning process automation, GenAI/agentic tooling (built on AWS Bedrock), and delivery enablement, while maintaining the services that power it. As a key member of our Builders team, you'll collaborate closely with teammates and temporary collaborators, sharing knowledge and mentoring others while directly addressing the needs of internal stakeholders across the organization.<strong><br></strong></p>\n<p><strong>What You Should Expect:</strong></p>\n<p>You'll be at the forefront of improving how our organization operates from within. You'll enjoy:</p>\n<p><strong>Direct Impact on Colleagues:</strong> See the immediate results of your work as internal users adopt your solutions, provide feedback, and collaborate with you to refine tools that make their daily work more efficient.</p>\n<p><strong>Internal Customer Relationships:</strong> Build meaningful connections across departments as you understand their challenges and deliver solutions that address their pain points, giving you unique visibility into how the business operates.</p>\n<p><strong>Impactful Problem-Solving:</strong> Tackle real business challenges that directly improve our operational efficiency and bottom line. Your work will make a tangible difference in how our company functions.</p>\n<p><strong>Technology Diversity</strong>: Work across our tech stack with Python backends, Vite frontends, AWS cloud infrastructure, and cutting-edge GenAI solutions using AWS Bedrock</p>\n<p><strong>Growth Opportunities</strong>: Develop both technical depth in cloud-native architecture and business acumen as you translate organizational challenges into technical solutions.</p>\n<p><strong></strong></p>\n<p></p>\n<p><strong>Key Responsibilities:</strong></p>\n<p>- Design and implement backend solutions for core services using Python and Terraform.</p>\n<p>- Build and extend GenAI/agentic solutions (RAG, tool-calling agents, evaluation loops) on AWS Bedrock as part of our platform stack.</p>\n<p>- Contribute to frontend interfaces (React/Vite) for the tools and platforms you help build.</p>\n<p>- Optimize and maintain cloud native applications with a focus on scalability, performance, and reliability.</p>\n<p>- Collaborate with other engineers and stakeholders to drive the development of tools that enhance process efficiency and automate repetitive tasks.</p>\n<p>- Contribute to service enhancements, ensuring alignment with business objectives and technical best practices.</p>\n<p><strong> </strong></p>\n<p><strong>Qualifications:</strong></p>\n<ul>\n<li>Experience developing Generative AI solutions. Must have built at least one simple AI-powered feature or application end-to-end, and be comfortable with the AI SDLC, not just theoretical exposure.</li>\n<li>Proficiency in Python for backend development.</li>\n<li>Experience deploying and managing services in a cloud-native environment.</li>\n<li>Experience developing Generative AI solutions</li>\n<li>Experience with frontend development (React/Vite) for building user interfaces.</li>\n</ul>\n<p><strong>Preferred Qualifications:</strong></p>\n<ul>\n<li>Knowledge of AI/ML model integration and working with AI platforms like AWS Bedrock</li>\n<li>Experience with DevOps practices, CI/CD pipelines, and automated testing frameworks.</li>\n<li>Experience with Rust</li>\n<li>Understanding of business processes related to process optimization and SG&amp;A efficiency.</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>100% remote work</li>\n<li>Medical Insurance for you and eligible dependents</li>\n<li>Generous holidays and flexible PTO</li>\n<li>Competitive phantom equity</li>\n<li>Paid for exams and certifications</li>\n<li>Peer bonus awards</li>\n<li>State of the art laptop and tools</li>\n<li>Equipment &amp; Office Stipend</li>\n<li>Individual professional development plan</li>\n<li>Annual stipend for Learning and Development</li>\n<li>Work with an amazing worldwide team and in an incredible corporate culture</li>\n</ul>\n<p><em><strong>NOTE: This position requires current legal authorization to work in the country where this position is located. Caylent is not able to sponsor visa or work permit applications at this time.</strong></em></p>\n<p>At Caylent, we are committed to fair, transparent, and inclusive hiring practices. As part of our recruitment process, we may use artificial intelligence (AI) tools or automated systems to assist with the screening and evaluation of applications to help match candidate qualifications with job requirements.<br>These tools are designed to support — not replace — human decision-making. Final hiring decisions are always made by our trained recruitment professionals.<br>If an AI or automated tool is used during your application process, it will only be in accordance with applicable laws and regulations, and your information will be handled in a secure and confidential manner.<br>If you have any questions, please contact talent@caylent.com </p>\n<p>Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent. </p>\n<p>We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com.</p>",
-      "pubDate": "2026-11-12T13:24:58+00:00"
     }
   }
 ]
