@@ -1,5 +1,52 @@
 [
   {
+    "id": "wwr:vertican-senior-applied-ai-engineer-document-intelligence",
+    "platform": "wwr",
+    "external_id": "vertican-senior-applied-ai-engineer-document-intelligence",
+    "title": "Senior Applied AI Engineer, Document Intelligence",
+    "company": "Vertican",
+    "description": "Headquarters: New Jersey, USA URL: https://vertican.com About the role For 40 years Vertican has buildt software that runs law firms. One year ago we created a new modern AI platform for document automation (processing/extraction/redacting) which our customers have been adopting faster than any product we've ever had. Our suite of AI-enabled products save customers thousands of hours each week by processing high volumes of documents with precision and speed.The AI team is growing and we'd like you to join. We are hiring an engineer to own the document processing pipelines end to end: design, benchmarking, experimenting with new architectures and tools, threshold required for deploying a new pipeline, etc. We believe it's important to build our own tooling to help us run, improve, and measure our applications. Therefore, the ideal candidate thinks outside the box on how to not just build the product/pipeline, but also the tooling needed around it. You will be the first dedicated ML hire on the product taking over from the engineering manager who build the current solution and will work directly with the founding engineering team. This is a senior, hands-on individual-contributor role, but we are small team and you'll be involved in design, planning, roadmapping, and architectural decisions. What you will do Design the pipelines. Own the architecture of the extraction-to-posting pipelines: page classification, field extraction, candidate retrieval, claim matching, confidence gating and the hand-off to human review, etc. Decide where rules end and models begin, and what each stage must guarantee to the next, what the separation of concerns are, etc. We have different pipelines for different document types and expect that at any given point in time we may have new ones emerge and may consolidate others. Evaluate new systems before we adopt them. Run structured trials of candidate components and recommend what to keep. Examples include probabilistic record linkage (Splink), Azure AI Content Understanding and Document Intelligence, Azure OpenAI and Foundry-hosted models, and LLM agents with tools. Similarly, test new models with the existing pipeline as they are relased from the frontier labs. Build the evaluation process. You'll own the process of evaluating false positives, false negatives, errors of ommission, etc, that we ultimately use to determine if we should upgrade the pipeline.&nbsp; Ship and operate. Take components from trial to production in our python workers on the cloud, instrument them, watch cost and quota, and diagnose the cases reviewers send back. Set direction. Work with leadereship on the planing for accuracy, cost improvement, and overall product improvements. What we are looking for Required 6+ years building ML or data-intensive systems, at least 3 of them owning a production pipeline whose output people acted on. Solid backend engineering understanding and ideally cloud architecture understanding. Ideally hands-on experience with document understanding: OCR or layout models, field extraction from scanned PDFs, or intelligent document processing products. Experience with entity resolution or record linkage at scale (Splink, Dedupe, Zingg, or your own blocking-and-scoring system) against databases of hundreds of thousands of rows. You have designed an evaluation from scratch: built a labeled ground-truth set, chosen the metrics, and defended a threshold to a non-technical stakeholder. Production experience with LLM APIs, including structured output, tool calling and cost or rate-limit management; you can say when an LLM is the wrong tool. Strong Python and SQL. Comfortable reading Postgres query plans and writing the raw query when the ORM gets in the way. Engineering/Scientist mindset: you are scientific about testing the pipeline and how results are interpeted/presented. Nice to have Azure AI services (Content Understanding, Document Intelligence, Azure OpenAI, Foundry) or the AWS and GCP equivalents. Financial document processing: checks, remittance advices, lockbox files, payment matching, or accounts receivable automation. Exposure to collections, legal operations or other regulated workflows handling PII. Probabilistic matching theory (Fellegi-Sunter) or active-learning labeling workflows. Experience building human-review tooling or feedback loops that feed back into training and evaluation data. How we work and what we offer Small team, direct access to large datasets, weekly planning, daily standup, everyone remote in US timezones. What we offer: A small team of tight-knit, like-minded people passionate about high quality software Competitive compensation, commensurate with a senior individual-contributor role. Monthly payments in USD Vertican is an equal opportunity employer. We hire on merit and do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status. To apply: https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+    "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "python",
+      "postgresql",
+      "aws",
+      "gcp",
+      "azure",
+      "llm",
+      "machine-learning",
+      "foundry"
+    ],
+    "tags": [
+      "programming",
+      "Back-End Programming"
+    ],
+    "posted_at": "2026-11-05T17:12:27.000Z",
+    "fetched_at": "2026-11-24T16:31:02.608Z",
+    "raw": {
+      "media:content": {
+        "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6696/logo.gif",
+        "@_type": "image/png"
+      },
+      "title": "Vertican: Senior Applied AI Engineer, Document Intelligence",
+      "region": "Anywhere in the World",
+      "category": "Back-End Programming",
+      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6696/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> New Jersey, USA\n    <br /><strong>URL:</strong> <a href=\"https://vertican.com\">https://vertican.com</a>\n</p>\n\n<h2>About the role</h2>\n<p>For 40 years Vertican has buildt software that runs law firms. One year ago we created a new modern AI platform for document automation (processing/extraction/redacting) which our customers have been adopting faster than any product we've ever had. Our suite of AI-enabled products save customers thousands of hours each week by processing high volumes of documents with precision and speed.The AI team is growing and we'd like you to join.</p>\n<p>We are hiring an engineer to own the document processing pipelines end to end: design, benchmarking, experimenting with new architectures and tools, threshold required for deploying a new pipeline, etc.</p>\n<p>We believe it's important to build our own tooling to help us run, improve, and measure our applications. Therefore, the ideal candidate thinks outside the box on how to not just build the product/pipeline, but also the tooling needed around it.</p>\n<p>You will be the first dedicated ML hire on the product taking over from the engineering manager who build the current solution and will work directly with the founding engineering team.</p>\n<p>This is a senior, hands-on individual-contributor role, but we are small team and you'll be involved in design, planning, roadmapping, and architectural decisions.</p>\n<h2>What you will do</h2>\n<p><strong>Design the pipelines.</strong> Own the architecture of the extraction-to-posting pipelines: page classification, field extraction, candidate retrieval, claim matching, confidence gating and the hand-off to human review, etc. Decide where rules end and models begin, and what each stage must guarantee to the next, what the separation of concerns are, etc.</p>\n<p>We have different pipelines for different document types and expect that at any given point in time we may have new ones emerge and may consolidate others.</p>\n<p><strong>Evaluate new systems before we adopt them.</strong> Run structured trials of candidate components and recommend what to keep. Examples include probabilistic record linkage (Splink), Azure AI Content Understanding and Document Intelligence, Azure OpenAI and Foundry-hosted models, and LLM agents with tools. Similarly, test new models with the existing pipeline as they are relased from the frontier labs.</p>\n<p><strong>Build the evaluation process.</strong> You'll own the process of evaluating false positives, false negatives, errors of ommission, etc, that we ultimately use to determine if we should upgrade the pipeline.&nbsp;</p>\n<p><strong>Ship and operate.</strong> Take components from trial to production in our python workers on the cloud, instrument them, watch cost and quota, and diagnose the cases reviewers send back.</p>\n<p><strong>Set direction.</strong> Work with leadereship on the planing for accuracy, cost improvement, and overall product improvements.</p>\n<h2>What we are looking for</h2>\n<p><strong>Required</strong></p>\n<ul>\n<li>6+ years building ML or data-intensive systems, at least 3 of them owning a production pipeline whose output people acted on.</li>\n<li>Solid backend engineering understanding and ideally cloud architecture understanding.</li>\n<li>Ideally hands-on experience with document understanding: OCR or layout models, field extraction from scanned PDFs, or intelligent document processing products.</li>\n<li>Experience with entity resolution or record linkage at scale (Splink, Dedupe, Zingg, or your own blocking-and-scoring system) against databases of hundreds of thousands of rows.</li>\n<li>You have designed an evaluation from scratch: built a labeled ground-truth set, chosen the metrics, and defended a threshold to a non-technical stakeholder.</li>\n<li>Production experience with LLM APIs, including structured output, tool calling and cost or rate-limit management; you can say when an LLM is the wrong tool.</li>\n<li>Strong Python and SQL. Comfortable reading Postgres query plans and writing the raw query when the ORM gets in the way.</li>\n<li>Engineering/Scientist mindset: you are scientific about testing the pipeline and how results are interpeted/presented.</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Azure AI services (Content Understanding, Document Intelligence, Azure OpenAI, Foundry) or the AWS and GCP equivalents.</li>\n<li>Financial document processing: checks, remittance advices, lockbox files, payment matching, or accounts receivable automation.</li>\n<li>Exposure to collections, legal operations or other regulated workflows handling PII.</li>\n<li>Probabilistic matching theory (Fellegi-Sunter) or active-learning labeling workflows.</li>\n<li>Experience building human-review tooling or feedback loops that feed back into training and evaluation data.</li>\n</ul>\n<h2>How we work and what we offer</h2>\n<p>Small team, direct access to large datasets, weekly planning, daily standup, everyone remote in US timezones.</p>\n<p>What we offer:</p>\n<ul>\n<li>A small team of tight-knit, like-minded people passionate about high quality software</li>\n<li>Competitive compensation, commensurate with a senior individual-contributor role.</li>\n<li>Monthly payments in USD</li>\n</ul>\n<p>Vertican is an equal opportunity employer. We hire on merit and do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence\">https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence</a></p>",
+      "pubDate": "Thu, 05 Nov 2026 17:12:27 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+      "link": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence"
+    }
+  },
+  {
     "id": "wwr:toptal-cryptography-specialist-for-ai-lab",
     "platform": "wwr",
     "external_id": "toptal-cryptography-specialist-for-ai-lab",
@@ -27,7 +74,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-05T17:09:07.000Z",
-    "fetched_at": "2026-11-24T03:28:58.494Z",
+    "fetched_at": "2026-11-24T16:31:02.608Z",
     "raw": {
       "title": "Toptal: Cryptography Specialist for AI lab",
       "region": "Anywhere in the World",
@@ -73,7 +120,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-05T13:22:33.000Z",
-    "fetched_at": "2026-11-24T03:28:58.495Z",
+    "fetched_at": "2026-11-24T16:31:02.609Z",
     "raw": {
       "title": "DRFIRST COM INC: Senior Software Engineer",
       "region": "USA Only",
@@ -113,7 +160,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-05T12:39:27.000Z",
-    "fetched_at": "2026-11-24T03:28:58.496Z",
+    "fetched_at": "2026-11-24T16:31:02.610Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0017/0601/logo.gif",
@@ -158,7 +205,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-04T21:41:56.000Z",
-    "fetched_at": "2026-11-24T03:28:58.496Z",
+    "fetched_at": "2026-11-24T16:31:02.610Z",
     "raw": {
       "title": "Toptal: ML Inference Engineer – Terminal-Bench Task Designer",
       "region": "Anywhere in the World",
@@ -192,7 +239,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-04T17:00:32.000Z",
-    "fetched_at": "2026-11-24T03:28:58.497Z",
+    "fetched_at": "2026-11-24T16:31:02.611Z",
     "raw": {
       "title": "Crazy Maple Studio: Screenwriter - ReelShort (Contractor)",
       "region": "USA Only",
@@ -230,7 +277,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T18:08:52.000Z",
-    "fetched_at": "2026-11-24T03:28:58.498Z",
+    "fetched_at": "2026-11-24T16:31:02.611Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif",
@@ -268,7 +315,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-06-16T17:30:51.000Z",
-    "fetched_at": "2026-11-24T03:28:58.498Z",
+    "fetched_at": "2026-11-24T16:31:02.612Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif",
@@ -308,7 +355,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-03T17:00:19.000Z",
-    "fetched_at": "2026-11-24T03:28:58.499Z",
+    "fetched_at": "2026-11-24T16:31:02.612Z",
     "raw": {
       "title": "MANTECH: Quantum Research Scientist",
       "region": "USA Only",
@@ -342,7 +389,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-03T17:00:16.000Z",
-    "fetched_at": "2026-11-24T03:28:58.501Z",
+    "fetched_at": "2026-11-24T16:31:02.614Z",
     "raw": {
       "title": "Custom Mechanical Solutions: Quality and Reliability Engineer",
       "region": "USA Only",
@@ -388,7 +435,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-08-05T05:52:46.000Z",
-    "fetched_at": "2026-11-24T03:28:58.502Z",
+    "fetched_at": "2026-11-24T16:31:02.614Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0161/6774/logo.gif",
@@ -434,7 +481,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-02T15:51:54.000Z",
-    "fetched_at": "2026-11-24T03:28:58.502Z",
+    "fetched_at": "2026-11-24T16:31:02.614Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6677/logo.gif",
@@ -474,7 +521,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-11-01T07:31:04.000Z",
-    "fetched_at": "2026-11-24T03:28:58.504Z",
+    "fetched_at": "2026-11-24T16:31:02.616Z",
     "raw": {
       "title": "Knock: Lending Manager (Front End) - Remote",
       "region": "Anywhere in the World",
@@ -513,7 +560,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-01T07:30:53.000Z",
-    "fetched_at": "2026-11-24T03:28:58.506Z",
+    "fetched_at": "2026-11-24T16:31:02.618Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Principal Product Management, Growth",
       "region": "Anywhere in the World",
@@ -559,7 +606,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-11-01T07:30:35.000Z",
-    "fetched_at": "2026-11-24T03:28:58.508Z",
+    "fetched_at": "2026-11-24T16:31:02.619Z",
     "raw": {
       "title": "Oportun: Senior ML Engineer (R14284)",
       "region": "Anywhere in the World",
@@ -598,7 +645,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-10-31T07:31:12.000Z",
-    "fetched_at": "2026-11-24T03:28:58.509Z",
+    "fetched_at": "2026-11-24T16:31:02.620Z",
     "raw": {
       "title": "Dropbox: Backend Product Software Engineer",
       "region": "Anywhere in the World",
@@ -642,7 +689,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-31T07:31:02.000Z",
-    "fetched_at": "2026-11-24T03:28:58.510Z",
+    "fetched_at": "2026-11-24T16:31:02.621Z",
     "raw": {
       "title": "GitLab: Backend Engineer, Knowledge Graph",
       "region": "Anywhere in the World",
@@ -688,7 +735,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-30T07:31:21.000Z",
-    "fetched_at": "2026-11-24T03:28:58.512Z",
+    "fetched_at": "2026-11-24T16:31:02.622Z",
     "raw": {
       "title": "Jumio: Principal Enterprise Architect",
       "region": "Anywhere in the World",
@@ -722,7 +769,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2024-05-13T03:14:30.000Z",
-    "fetched_at": "2026-11-24T03:28:58.513Z",
+    "fetched_at": "2026-11-24T16:31:02.623Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif",
@@ -760,7 +807,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-29T07:30:57.000Z",
-    "fetched_at": "2026-11-24T03:28:58.514Z",
+    "fetched_at": "2026-11-24T16:31:02.624Z",
     "raw": {
       "title": "Salesloft: HR Enablement Lead",
       "region": "Anywhere in the World",
@@ -805,7 +852,7 @@
       "Back-End Programming"
     ],
     "posted_at": "2026-10-29T07:30:52.000Z",
-    "fetched_at": "2026-11-24T03:28:58.517Z",
+    "fetched_at": "2026-11-24T16:31:02.626Z",
     "raw": {
       "title": "Legion: Senior Integration Engineer",
       "region": "Anywhere in the World",
@@ -843,7 +890,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-10-28T16:49:37.000Z",
-    "fetched_at": "2026-11-24T03:28:58.518Z",
+    "fetched_at": "2026-11-24T16:31:02.626Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0015/9228/logo.gif",
@@ -881,7 +928,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-27T07:31:09.000Z",
-    "fetched_at": "2026-11-24T03:28:58.519Z",
+    "fetched_at": "2026-11-24T16:31:02.627Z",
     "raw": {
       "title": "Coinbase: Broker Dealer Operations, Associate",
       "region": "Anywhere in the World",
@@ -915,7 +962,7 @@
       "Full-Stack Programming"
     ],
     "posted_at": "2026-10-27T07:30:57.000Z",
-    "fetched_at": "2026-11-24T03:28:58.520Z",
+    "fetched_at": "2026-11-24T16:31:02.628Z",
     "raw": {
       "title": "Coinbase: Associate Manager, Internal Audit",
       "region": "Anywhere in the World",
@@ -956,7 +1003,7 @@
       "Front-End Programming"
     ],
     "posted_at": "2026-10-26T07:31:27.000Z",
-    "fetched_at": "2026-11-24T03:28:58.521Z",
+    "fetched_at": "2026-11-24T16:31:02.629Z",
     "raw": {
       "title": "Reddit: Frontend Engineer, Ads",
       "region": "Anywhere in the World",
@@ -968,48 +1015,140 @@
     }
   },
   {
-    "id": "wwr:planetscale-software-engineer-planetscale-postgres",
+    "id": "wwr:gemini-staff-platform-security-engineer",
     "platform": "wwr",
-    "external_id": "planetscale-software-engineer-planetscale-postgres",
-    "title": "Software Engineer - PlanetScale Postgres",
-    "company": "PlanetScale",
-    "description": "Headquarters: Remote PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform delivers a fully managed, multi-cloud Postgres service designed for the most demanding production workloads. We handle the complexity of provisioning, scaling, replication, and failover - so engineering teams can focus on building their products. Our customers entrust us with their most precious digital asset, their data, so the stakes couldn't be higher. We're looking for a Software Engineer to join our Postgres engineering team and help us build a world-class managed Postgres offering. What's the job to be done? You will design and build the control plane that provisions, scales, and heals Postgres clusters with minimal customer-visible downtime. You will build and maintain high availability, disaster recovery, and data protection solutions that keep customer databases safe through infrastructure failures. You will tune Postgres to operate at scale for some of the largest and most demanding workloads in the world. You will build tooling and automation for database operations, backup, restore, and migration workflows - and participate in an on-call rotation. You will work directly with customers to understand their workloads and translate real-world needs into platform improvements. These attributes best describe you… You have strong experience building, operating, or maintaining large-scale Postgres deployments in production. You have an excellent understanding of low-level operating systems concepts including multi-threading, memory management, networking, storage, and performance. You have strong fundamental computer science skills and can reason about distributed, fault-tolerant systems. You thrive in a collaborative environment, enjoy mentoring other engineers, and communicate complex technical tradeoffs clearly. You are self-motivated and can work independently with minimal guidance while making sound technical decisions. What you will need 5+ years of software engineering experience designing, building, and supporting large-scale systems in production. Strong proficiency in Go, with experience in other languages like Ruby, Python, Zig or Rust. Experience building and maintaining distributed, fault-tolerant services. Working knowledge of Kubernetes and containerized applications. Experience building and operating distributed systems at scale. What else will help you be successful Experience building or operating a database-as-a-service or managed database platform. Experience with connection pooling and proxy layers for Postgres. Experience with cloud platforms (AWS, GCP, Azure) and infrastructure-as-code. Contributions to open-source projects, especially in the Postgres or database infrastructure space. Experience working with remote, geographically distributed teams. Previous experience at a high-growth technology company. Why PlanetScale We're redefining how high-growth companies manage data at scale—and we work with some of the most exciting brands in gaming, consumer tech, and B2B SaaS. As a Software Engineer, you'll be at the core of building the platform that powers world-class apps used by hundreds of millions of users worldwide. PlanetScale is a profitable company with a philosophy centered around building small teams of p99 individuals and is recognized as one of the fastest growing companies in America. At PlanetScale we believe in supporting people to do their best work and thrive no matter the location. Our mission is to build a diverse, equitable, and inclusive company. We strive to build an inclusive environment where all people feel that they are equally respected and valued, whether they are a candidate or an employee. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, pregnancy status, and veteran status. If you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate! Total Compensation and Pay Transparency An employee's total compensation consists of base salary + variable comp where appropriate + benefits + equity. A member of our Talent Acquisition team will be happy to answer any further questions when we engage with you to begin the interview process. Base salary range: $120,000 - $290,000 USD To apply: https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-    "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+    "external_id": "gemini-staff-platform-security-engineer",
+    "title": "Staff Platform Security Engineer",
+    "company": "Gemini",
+    "description": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. The Department: Platform Security The Platform Security team secures Gemini’s infrastructure through service hardening and by developing and supporting a suite of foundational tools. We provide secure-by-default infrastructure, consumable security services, and expert consultation to engineering teams for secure cloud and non-cloud infrastructure. The Role: Staff Platform Security Engineer The Platform Security team builds and delivers zero-trust foundations and paved paths so every Gemini team can ship safely on supported cloud platforms. As a Staff Security Engineer, you will build security services, tools, and automation while hardening our cloud environments (primarily AWS), securing container orchestration platforms, and implementing infrastructure-as-code security guardrails. This is a hands-on engineering role where you'll write production code daily, not just infrastructure-as-code. You'll design and build security platforms that scale across our engineering organization. This role requires deep technical expertise in cloud security, strong Terraform proficiency, and strong software development skills to build production services. You will partner closely with engineering teams to enable rapid, secure delivery while maintaining zero standing privilege and least-privilege access models. Responsibilities: Build and maintain security services, tools, and automation using Python or Go Design and implement security controls for AWS and Kubernetes environments using infrastructure-as-code Create reusable libraries, frameworks, and platforms that enable secure-by-default patterns Develop automated security monitoring, scanning, and remediation services Build CI/CD security gates and policy-as-code validation tools Partner with engineering teams on architecture decisions and provide security consultation Participate in on-call rotation for critical security incidents and infrastructure issues Minimum Qualifications: 8+ years of experience in the field Strong software development skills in Python or Go with experience building production services Strong experience securing AWS environments including IAM, VPC, KMS, and native security services Deep Terraform expertise including module development, CI/CD gates, policy testing, remote state management, and zero-downtime deployments Proven expertise with Kubernetes security including admission controls, RBAC, network policies, and runtime protection Experience with distributed systems, cloud-native architectures, and SRE principles Demonstrated ability to build, deploy, and maintain security tools and services in production Preferred Qualifications: Experience with GCP security services and multi-cloud environments including Azure Knowledge of policy-as-code tools such as Open Policy Agent, Sentinel, or similar Experience with container security scanning, image signing, and supply chain security Background in incident response for cloud and container environments Experience with service mesh technologies and zero-trust networking Contributions to open source security tools or cloud security communities It Pays to Work Here &nbsp; The compensation &amp; benefits package for this role includes: Competitive starting pay A discretionary annual bonus Long-term incentive in the form of a new hire equity grant Comprehensive health plans 401K with company matching Paid Parental Leave Flexible time off Salary Range : The base salary range for this role is between $168,000 - $240,000 in the State of New York, the State of California and the State of Washington. This range is not inclusive of our discretionary bonus or equity package. When determining a candidate’s compensation, we consider a number of factors including skillset, experience, job scope, and current market data. In the United States, we offer a hybrid work approach at our hub offices, balancing the benefits of in-person collaboration with the flexibility of remote work. Expectations may vary by location and role, so candidates are encouraged to connect with their recruiter to learn more about the specific policy for the role. Employees who do not live near one of our hubs are part of our remote workforce. All employees, however, are required to onboard in-person at one of our office locations. At Gemini, we strive to build diverse teams that reflect the people we want to empower through our products, and we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini is proud to be an equal opportunity workplace. If you have a specific need that requires accommodation, please let a member of the People Team know. #LI-AA1 To apply: https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "salary_type": null,
     "contract_type": "full-time",
-    "experience_level": "senior",
+    "experience_level": "lead",
     "location": "Remote",
     "remote_type": "remote",
     "timezone": null,
     "tech_stack": [
       "python",
-      "rust",
-      "ruby",
-      "zig",
-      "postgresql",
-      "planetscale",
       "aws",
       "gcp",
       "azure",
-      "kubernetes"
+      "kubernetes",
+      "terraform",
+      "web3"
     ],
     "tags": [
-      "programming",
-      "Full-Stack Programming"
+      "devops",
+      "DevOps and Sysadmin"
     ],
-    "posted_at": "2026-10-25T07:30:54.000Z",
-    "fetched_at": "2026-11-24T03:28:58.522Z",
+    "posted_at": "2026-11-24T06:02:17.000Z",
+    "fetched_at": "2026-11-24T16:31:03.295Z",
     "raw": {
-      "title": "PlanetScale: Software Engineer - PlanetScale Postgres",
+      "title": "Gemini: Staff Platform Security Engineer",
       "region": "Anywhere in the World",
-      "category": "Full-Stack Programming",
-      "description": "<p>\n  <strong>Headquarters:</strong> Remote\n</p>\n\n<p>PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform delivers a fully managed, multi-cloud Postgres service designed for the most demanding production workloads. We handle the complexity of provisioning, scaling, replication, and failover - so engineering teams can focus on building their products.</p>\n<p>Our customers entrust us with their most precious digital asset, their data, so the stakes couldn't be higher. We're looking for a Software Engineer to join our Postgres engineering team and help us build a world-class managed Postgres offering.</p>\n<h3>What's the job to be done?</h3>\n<ul>\n<li>You will design and build the control plane that provisions, scales, and heals Postgres clusters with minimal customer-visible downtime.</li>\n<li>You will build and maintain high availability, disaster recovery, and data protection solutions that keep customer databases safe through infrastructure failures.</li>\n<li>You will tune Postgres to operate at scale for some of the largest and most demanding workloads in the world.</li>\n<li>You will build tooling and automation for database operations, backup, restore, and migration workflows - and participate in an on-call rotation.</li>\n<li>You will work directly with customers to understand their workloads and translate real-world needs into platform improvements.</li>\n</ul>\n<h3>These attributes best describe you…</h3>\n<ul>\n<li>You have strong experience building, operating, or maintaining large-scale Postgres deployments in production.</li>\n<li>You have an excellent understanding of low-level operating systems concepts including multi-threading, memory management, networking, storage, and performance.</li>\n<li>You have strong fundamental computer science skills and can reason about distributed, fault-tolerant systems.</li>\n<li>You thrive in a collaborative environment, enjoy mentoring other engineers, and communicate complex technical tradeoffs clearly.</li>\n<li>You are self-motivated and can work independently with minimal guidance while making sound technical decisions.</li>\n</ul>\n<h3>What you will need</h3>\n<ul>\n<li>5+ years of software engineering experience designing, building, and supporting large-scale systems in production.</li>\n<li>Strong proficiency in Go, with experience in other languages like Ruby, Python, Zig or Rust.</li>\n<li>Experience building and maintaining distributed, fault-tolerant services.</li>\n<li>Working knowledge of Kubernetes and containerized applications.</li>\n<li>Experience building and operating distributed systems at scale.</li>\n</ul>\n<h3>What else will help you be successful</h3>\n<ul>\n<li>Experience building or operating a database-as-a-service or managed database platform.</li>\n<li>Experience with connection pooling and proxy layers for Postgres.</li>\n<li>Experience with cloud platforms (AWS, GCP, Azure) and infrastructure-as-code.</li>\n<li>Contributions to open-source projects, especially in the Postgres or database infrastructure space.</li>\n<li>Experience working with remote, geographically distributed teams.</li>\n<li>Previous experience at a high-growth technology company.</li>\n</ul>\n<h3>Why PlanetScale</h3>\n<p>We're redefining how high-growth companies manage data at scale—and we work with some of the most exciting brands in gaming, consumer tech, and B2B SaaS. As a Software Engineer, you'll be at the core of building the platform that powers world-class apps used by hundreds of millions of users worldwide. PlanetScale is a profitable company with a philosophy centered around building small teams of p99 individuals and is recognized as one of the fastest growing companies in America.</p>\n<p>At PlanetScale we believe in supporting people to do their best work and thrive no matter the location. Our mission is to build a diverse, equitable, and inclusive company. We strive to build an inclusive environment where all people feel that they are equally respected and valued, whether they are a candidate or an employee. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, pregnancy status, and veteran status.</p>\n<p>If you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!</p>\n<h3>Total Compensation and Pay Transparency</h3>\n<p>An employee's total compensation consists of base salary + variable comp where appropriate + benefits + equity. A member of our Talent Acquisition team will be happy to answer any further questions when we engage with you to begin the interview process.</p>\n<p><strong>Base salary range: $120,000 - $290,000 USD</strong></p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres\">https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres</a></p>",
-      "pubDate": "Sun, 25 Oct 2026 07:30:54 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-      "link": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres"
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> New York, New York; Miami, Florida; Remote (USA)\n</p>\n\n<p><strong>About the Company</strong></p>\n<p>Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact.</p>\n<p><span><strong>The Department: Platform Security</strong></span></p>\n<p>The Platform Security team secures Gemini’s infrastructure through service hardening and by developing and supporting a suite of foundational tools. We provide secure-by-default infrastructure, consumable security services, and expert consultation to engineering teams for secure cloud and non-cloud infrastructure.</p>\n<p><span><strong>The Role: Staff Platform Security Engineer</strong></span></p>\n<p>The Platform Security team builds and delivers zero-trust foundations and paved paths so every Gemini team can ship safely on supported cloud platforms. As a Staff Security Engineer, you will build security services, tools, and automation while hardening our cloud environments (primarily AWS), securing container orchestration platforms, and implementing infrastructure-as-code security guardrails. This is a hands-on engineering role where you'll write production code daily, not just infrastructure-as-code.</p>\n<p>You'll design and build security platforms that scale across our engineering organization. This role requires deep technical expertise in cloud security, strong Terraform proficiency, and strong software development skills to build production services. You will partner closely with engineering teams to enable rapid, secure delivery while maintaining zero standing privilege and least-privilege access models.</p>\n<p><span><strong>Responsibilities:</strong></span></p>\n<ul>\n<li>Build and maintain security services, tools, and automation using Python or Go</li>\n<li>Design and implement security controls for AWS and Kubernetes environments using infrastructure-as-code</li>\n<li>Create reusable libraries, frameworks, and platforms that enable secure-by-default patterns</li>\n<li>Develop automated security monitoring, scanning, and remediation services</li>\n<li>Build CI/CD security gates and policy-as-code validation tools</li>\n<li>Partner with engineering teams on architecture decisions and provide security consultation</li>\n<li>Participate in on-call rotation for critical security incidents and infrastructure issues</li>\n</ul>\n<p><strong>Minimum Qualifications:</strong></p>\n<ul>\n<li>8+ years of experience in the field</li>\n<li>Strong software development skills in Python or Go with experience building production services</li>\n<li>Strong experience securing AWS environments including IAM, VPC, KMS, and native security services</li>\n<li>Deep Terraform expertise including module development, CI/CD gates, policy testing, remote state management, and zero-downtime deployments</li>\n<li>Proven expertise with Kubernetes security including admission controls, RBAC, network policies, and runtime protection</li>\n<li>Experience with distributed systems, cloud-native architectures, and SRE principles</li>\n<li>Demonstrated ability to build, deploy, and maintain security tools and services in production</li>\n</ul>\n<p><strong>Preferred Qualifications:</strong></p>\n<ul>\n<li>Experience with GCP security services and multi-cloud environments including Azure</li>\n<li>Knowledge of policy-as-code tools such as Open Policy Agent, Sentinel, or similar</li>\n<li>Experience with container security scanning, image signing, and supply chain security</li>\n<li>Background in incident response for cloud and container environments</li>\n<li>Experience with service mesh technologies and zero-trust networking</li>\n<li>Contributions to open source security tools or cloud security communities</li>\n</ul>\n<div class=\"p-rich_text_section\"><strong>It Pays to Work Here</strong></div>\n<div class=\"p-rich_text_section\">&nbsp;</div>\n<div class=\"p-rich_text_section\">The compensation &amp; benefits package for this role includes:</div>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\">\n<li>Competitive starting pay</li>\n<li>A discretionary annual bonus</li>\n<li>Long-term incentive in the form of a new hire equity grant</li>\n<li>Comprehensive health plans</li>\n<li>401K with company matching</li>\n<li>Paid Parental Leave</li>\n<li>Flexible time off</li>\n</ul>\n<p><strong>Salary Range</strong>: The base salary range for this role is between $168,000 - $240,000 in the State of New York, the State of California and the State of Washington. This range is not inclusive of our discretionary bonus or equity package. When determining a candidate’s compensation, we consider a number of factors including skillset, experience, job scope, and current market data.</p>\n<p><em>In the United States, we offer a hybrid work approach at our hub offices, balancing the benefits of in-person collaboration with the flexibility of remote work. Expectations may vary by location and role, so candidates are encouraged to connect with their recruiter to learn more about the specific policy for the role. Employees who do not live near one of our hubs are part of our remote workforce. All employees, however, are required to onboard in-person at one of our office locations.</em></p>\n<p><em><span>At Gemini, we strive to build diverse teams that reflect the people we want to empower through our products, and we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini is proud to be an equal opportunity workplace. If you have a specific need that requires accommodation, please let a member of the People Team know.</span></em></p>\n<p><em><span>#LI-AA1</span></em></p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer\">https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer</a></p>",
+      "pubDate": "Tue, 24 Nov 2026 06:02:17 +0000",
+      "expires_at": "Thu, 24 Dec 2026 06:02:17 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer"
+    }
+  },
+  {
+    "id": "wwr:gemini-staff-platform-engineer",
+    "platform": "wwr",
+    "external_id": "gemini-staff-platform-engineer",
+    "title": "Staff Platform Engineer",
+    "company": "Gemini",
+    "description": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. The Department: Platform Our Platform organization’s purpose is to enable Gemini to scale effectively and empower our engineering teams to focus on building innovative financial products and experiences for individuals around the world. Platform builds a scalable and secure foundation that enables Engineering to develop, deploy, validate, and operate services in production; improve reliability; reduce repetitive operational work; and improve system efficiency through architectural improvements. The Platform team builds products for engineers. We work directly with product, application engineering, data, and security teams to understand their needs, establish safe defaults, and provide standard workflows for building and operating services. We treat internal platforms as production software with users, service-level objectives, roadmaps, documentation, and feedback loops. The Role: Staff Platform Engineer You will provide technical leadership for the software and infrastructure that form Gemini’s internal engineering platform. This is a software engineering role grounded in deep production and infrastructure experience. You will build self-service systems, developer tools, and automation that improve the way teams create, deploy, scale, observe, and operate services. You will shape platform strategy across cloud, networking, compute, storage, infrastructure automation, CI/CD, and the systems required to run highly available services in production. You will partner with engineering, security, data, and product leaders to turn broad operational needs into reliable platform products, establish clear technical direction, and drive adoption across teams. You will make infrastructure programmable, secure, observable, and resilient; use SLOs and error budgets to guide tradeoffs; and continuously replace manual operational work with well-designed software. The role spans software, systems, and infrastructure engineering, with an emphasis on solving cross-functional problems and delivering measurable improvements to developer productivity and production reliability. What success looks like in this role: Engineers can safely self-serve common workflows through documented, well-supported platform products.&nbsp;Platform capabilities are adopted because they reduce complexity and improve outcomes.&nbsp;Reliability, deployment safety, developer experience, and infrastructure efficiency improve measurably over time.&nbsp;Operational load grows more slowly than the number and scale of services supported by the team.&nbsp;Platform engineers remain close to production while spending the majority of their time on durable software and systems improvements. Responsibilities: Set technical direction for platform capabilities and contribute to a long-term plan for cloud, networking, infrastructure, delivery, and reliability engineering. Lead architecture recommendations and technical engagements across the software development lifecycle, from early design through production operation. Design, build, and maintain platform services, APIs, CLIs, controllers, workflows, and automation in languages such as Go, TypeScript, Python, or similar; own them through design, implementation, testing, deployment, and production operation. Build self-service capabilities that let engineers provision environments, deploy services, manage infrastructure, and respond to operational conditions safely without relying on manual platform intervention. Experience with build tooling such as Bazel or Buck2. Create and evolve standard workflows for service development and delivery, including templates, libraries, deployment workflows, policy-as-code, and reusable platform building blocks. Design and improve the cloud, compute, storage, identity, and infrastructure building blocks used by engineering teams. Design and operate core network infrastructure across public clouds and regions, including routing, connectivity, traffic management, and security controls. Operate and improve the compute, container, networking, and cloud infrastructure that supports critical services and new workloads, including distributed and AI-enabled systems where appropriate. Improve the systems and workflows used to provision infrastructure, connect services, deliver changes, and recover from failures across environments. Define and use service-level indicators, SLOs, error budgets, and production-readiness standards with engineering teams to make reliability and launch decisions explicit and measurable. Improve observability, alerting, capacity planning, performance, and failure handling; design systems that degrade gracefully, roll out progressively, and recover automatically where safe. Lead or coordinate response to significant incidents, ensure effective post-incident follow-through, and turn recurring operational work into permanent improvements through postmortems. Reduce repetitive operational work. Measure it, automate or eliminate it, and keep the team focused primarily on engineering work that improves reliability, scale, security, cost, or developer experience. Influence engineering standards and practices across teams through design reviews, technical writing, prototypes, internal education, and direct collaboration. Build alignment across competing priorities and stakeholders; make pragmatic tradeoffs while preserving clear interfaces and room for future evolution. Mentor engineers, develop technical leaders, and raise the quality of platform engineering practices across Gemini. Qualifications: 8+ years of professional software engineering, infrastructure engineering, SRE, or an equivalent combination of experience, including substantial ownership of production systems. Strong software engineering ability in at least one language such as Go, Python, TypeScript, Rust, or similar, with experience building maintainable services, automation, CLIs, APIs, or developer tools. Demonstrated experience operating infrastructure and distributed systems in production, including diagnosing failures, managing capacity, improving performance, and designing for high availability and recovery. Experience designing, operating, or improving production systems across cloud infrastructure, networking, compute, storage, deployment platforms, or related infrastructure domains. Hands-on experience with cloud platforms such as AWS, GCP, or Azure and infrastructure as code, such as Terraform or an equivalent system. Experience with containers and orchestration, such as Kubernetes, EKS, GKE, AKS, Docker, or Nomad, including workload deployment, networking, security, and operational troubleshooting. Experience owning and managing cloud network security controls, including network firewalls, DNS filtering, and network segmentation. Experience designing or improving CI/CD and automated software delivery systems, including testing, deployment, progressive rollout, rollback, and change validation. Practical experience with observability: metrics, logs, traces, alerting, dashboards, and production health models. Familiarity with OpenTelemetry or comparable tooling is valuable. Working knowledge of SLOs, error budgets, incident response, blameless postmortems, and techniques for reducing operational toil. Experience with high-availability architectures, capacity planning, failure recovery, and the operational tradeoffs required to run critical systems at scale. Experience building secure-by-default systems and collaborating with security teams on identity, access control, secrets, supply-chain security, and policy enforcement. Ability to learn unfamiliar technologies and domains quickly, including the infrastructure and reliability characteristics of data-intensive, event-driven, or AI/ML workloads. Track record of setting technical direction, leading architecture across multiple teams, and influencing decisions without relying on direct authority. Experience mentoring engineers, developing technical leaders, and communicating complex technical tradeoffs to both technical and non-technical stakeholders. Strong technical communication and leadership skills; able to turn cross-functional problems into maintainable systems and delivered results. It Pays to Work Here &nbsp; The compensation &amp; benefits package for this role includes: Competitive starting pay A discretionary annual bonus Long-term incentive in the form of a new hire equity grant Comprehensive health plans 401K with company matching Paid Parental Leave Flexible time off Salary Range : The base salary range for this role is between $168,000 - $240,000 in the State of New York. This range is not inclusive of our discretionary bonus or equity package. When determining a candidate’s compensation, we consider a number of factors including skillset, experience, job scope, and current market data. In the United States, we offer a hybrid work approach at our hub offices, balancing the benefits of in-person collaboration with the flexibility of remote work. Expectations may vary by location and role, so candidates are encouraged to connect with their recruiter to learn more about the specific policy for the role. Employees who do not live near one of our hubs are part of our remote workforce. All employees, however, are required to onboard in-person at one of our office locations. At Gemini, we strive to build diverse teams that reflect the people we want to empower through our products, and we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini is proud to be an equal opportunity workplace. If you have a specific need that requires accommodation, please let a member of the People Team know. #LI-AA1 To apply: https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer",
+    "url": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [
+      "typescript",
+      "python",
+      "rust",
+      "aws",
+      "gcp",
+      "azure",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "machine-learning",
+      "web3"
+    ],
+    "tags": [
+      "devops",
+      "DevOps and Sysadmin"
+    ],
+    "posted_at": "2026-11-24T06:02:15.000Z",
+    "fetched_at": "2026-11-24T16:31:03.296Z",
+    "raw": {
+      "title": "Gemini: Staff Platform Engineer",
+      "region": "Anywhere in the World",
+      "country": "",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> New York, New York; Miami, Florida; Remote (USA)\n</p>\n\n<p><strong>About the Company</strong></p>\n<p>Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact.</p>\n<p><span><strong>The Department: Platform</strong></span></p>\n<p>Our Platform organization’s purpose is to enable Gemini to scale effectively and empower our engineering teams to focus on building innovative financial products and experiences for individuals around the world. Platform builds a scalable and secure foundation that enables Engineering to develop, deploy, validate, and operate services in production; improve reliability; reduce repetitive operational work; and improve system efficiency through architectural improvements.</p>\n<p>The Platform team builds products for engineers. We work directly with product, application engineering, data, and security teams to understand their needs, establish safe defaults, and provide standard workflows for building and operating services. We treat internal platforms as production software with users, service-level objectives, roadmaps, documentation, and feedback loops.</p>\n<p><span><strong>The Role: Staff Platform Engineer</strong></span></p>\n<p>You will provide technical leadership for the software and infrastructure that form Gemini’s internal engineering platform. This is a software engineering role grounded in deep production and infrastructure experience. You will build self-service systems, developer tools, and automation that improve the way teams create, deploy, scale, observe, and operate services.</p>\n<p>You will shape platform strategy across cloud, networking, compute, storage, infrastructure automation, CI/CD, and the systems required to run highly available services in production. You will partner with engineering, security, data, and product leaders to turn broad operational needs into reliable platform products, establish clear technical direction, and drive adoption across teams.</p>\n<p>You will make infrastructure programmable, secure, observable, and resilient; use SLOs and error budgets to guide tradeoffs; and continuously replace manual operational work with well-designed software. The role spans software, systems, and infrastructure engineering, with an emphasis on solving cross-functional problems and delivering measurable improvements to developer productivity and production reliability.</p>\n<p>What success looks like in this role: Engineers can safely self-serve common workflows through documented, well-supported platform products.&nbsp;Platform capabilities are adopted because they reduce complexity and improve outcomes.&nbsp;Reliability, deployment safety, developer experience, and infrastructure efficiency improve measurably over time.&nbsp;Operational load grows more slowly than the number and scale of services supported by the team.&nbsp;Platform engineers remain close to production while spending the majority of their time on durable software and systems improvements.</p>\n<p><span><strong>Responsibilities:</strong></span></p>\n<ul>\n<li>Set technical direction for platform capabilities and contribute to a long-term plan for cloud, networking, infrastructure, delivery, and reliability engineering.</li>\n<li>Lead architecture recommendations and technical engagements across the software development lifecycle, from early design through production operation.</li>\n<li>Design, build, and maintain platform services, APIs, CLIs, controllers, workflows, and automation in languages such as Go, TypeScript, Python, or similar; own them through design, implementation, testing, deployment, and production operation.</li>\n<li>Build self-service capabilities that let engineers provision environments, deploy services, manage infrastructure, and respond to operational conditions safely without relying on manual platform intervention.</li>\n<li>Experience with build tooling such as Bazel or Buck2.</li>\n<li>Create and evolve standard workflows for service development and delivery, including templates, libraries, deployment workflows, policy-as-code, and reusable platform building blocks.</li>\n<li>Design and improve the cloud, compute, storage, identity, and infrastructure building blocks used by engineering teams.</li>\n<li>Design and operate core network infrastructure across public clouds and regions, including routing, connectivity, traffic management, and security controls.</li>\n<li>Operate and improve the compute, container, networking, and cloud infrastructure that supports critical services and new workloads, including distributed and AI-enabled systems where appropriate.</li>\n<li>Improve the systems and workflows used to provision infrastructure, connect services, deliver changes, and recover from failures across environments.</li>\n<li>Define and use service-level indicators, SLOs, error budgets, and production-readiness standards with engineering teams to make reliability and launch decisions explicit and measurable.</li>\n<li>Improve observability, alerting, capacity planning, performance, and failure handling; design systems that degrade gracefully, roll out progressively, and recover automatically where safe.</li>\n<li>Lead or coordinate response to significant incidents, ensure effective post-incident follow-through, and turn recurring operational work into permanent improvements through postmortems.</li>\n<li>Reduce repetitive operational work. Measure it, automate or eliminate it, and keep the team focused primarily on engineering work that improves reliability, scale, security, cost, or developer experience.</li>\n<li>Influence engineering standards and practices across teams through design reviews, technical writing, prototypes, internal education, and direct collaboration.</li>\n<li>Build alignment across competing priorities and stakeholders; make pragmatic tradeoffs while preserving clear interfaces and room for future evolution.</li>\n<li>Mentor engineers, develop technical leaders, and raise the quality of platform engineering practices across Gemini.</li>\n</ul>\n<p><strong>Qualifications:</strong></p>\n<ul>\n<li>8+ years of professional software engineering, infrastructure engineering, SRE, or an equivalent combination of experience, including substantial ownership of production systems.</li>\n<li>Strong software engineering ability in at least one language such as Go, Python, TypeScript, Rust, or similar, with experience building maintainable services, automation, CLIs, APIs, or developer tools.</li>\n<li>Demonstrated experience operating infrastructure and distributed systems in production, including diagnosing failures, managing capacity, improving performance, and designing for high availability and recovery.</li>\n<li>Experience designing, operating, or improving production systems across cloud infrastructure, networking, compute, storage, deployment platforms, or related infrastructure domains.</li>\n<li>Hands-on experience with cloud platforms such as AWS, GCP, or Azure and infrastructure as code, such as Terraform or an equivalent system.</li>\n<li>Experience with containers and orchestration, such as Kubernetes, EKS, GKE, AKS, Docker, or Nomad, including workload deployment, networking, security, and operational troubleshooting.</li>\n<li>Experience owning and managing cloud network security controls, including network firewalls, DNS filtering, and network segmentation.</li>\n<li>Experience designing or improving CI/CD and automated software delivery systems, including testing, deployment, progressive rollout, rollback, and change validation.</li>\n<li>Practical experience with observability: metrics, logs, traces, alerting, dashboards, and production health models. Familiarity with OpenTelemetry or comparable tooling is valuable.</li>\n<li>Working knowledge of SLOs, error budgets, incident response, blameless postmortems, and techniques for reducing operational toil.</li>\n<li>Experience with high-availability architectures, capacity planning, failure recovery, and the operational tradeoffs required to run critical systems at scale.</li>\n<li>Experience building secure-by-default systems and collaborating with security teams on identity, access control, secrets, supply-chain security, and policy enforcement.</li>\n<li>Ability to learn unfamiliar technologies and domains quickly, including the infrastructure and reliability characteristics of data-intensive, event-driven, or AI/ML workloads.</li>\n<li>Track record of setting technical direction, leading architecture across multiple teams, and influencing decisions without relying on direct authority.</li>\n<li>Experience mentoring engineers, developing technical leaders, and communicating complex technical tradeoffs to both technical and non-technical stakeholders.</li>\n<li>Strong technical communication and leadership skills; able to turn cross-functional problems into maintainable systems and delivered results.</li>\n</ul>\n<div class=\"p-rich_text_section\"><strong>It Pays to Work Here</strong></div>\n<div class=\"p-rich_text_section\">&nbsp;</div>\n<div class=\"p-rich_text_section\">The compensation &amp; benefits package for this role includes:</div>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\">\n<li>Competitive starting pay</li>\n<li>A discretionary annual bonus</li>\n<li>Long-term incentive in the form of a new hire equity grant</li>\n<li>Comprehensive health plans</li>\n<li>401K with company matching</li>\n<li>Paid Parental Leave</li>\n<li>Flexible time off</li>\n</ul>\n<p><strong>Salary Range</strong>: The base salary range for this role is between $168,000 - $240,000 in the State of New York. This range is not inclusive of our discretionary bonus or equity package. When determining a candidate’s compensation, we consider a number of factors including skillset, experience, job scope, and current market data.</p>\n<p><em>In the United States, we offer a hybrid work approach at our hub offices, balancing the benefits of in-person collaboration with the flexibility of remote work. Expectations may vary by location and role, so candidates are encouraged to connect with their recruiter to learn more about the specific policy for the role. Employees who do not live near one of our hubs are part of our remote workforce. All employees, however, are required to onboard in-person at one of our office locations.</em></p>\n<p><em><span>At Gemini, we strive to build diverse teams that reflect the people we want to empower through our products, and we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini is proud to be an equal opportunity workplace. If you have a specific need that requires accommodation, please let a member of the People Team know.</span></em></p>\n<p><em><span>#LI-AA1</span></em></p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer\">https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer</a></p>",
+      "pubDate": "Tue, 24 Nov 2026 06:02:15 +0000",
+      "expires_at": "Thu, 24 Dec 2026 06:02:15 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer",
+      "link": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer"
+    }
+  },
+  {
+    "id": "wwr:upsun-general-accountant-accounts-payable",
+    "platform": "wwr",
+    "external_id": "upsun-general-accountant-accounts-payable",
+    "title": "General Accountant - Accounts Payable",
+    "company": "Upsun",
+    "description": "Headquarters: Remote • France, Spain, Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products: one that shapes the work, and one that runs it. Upsun Dispatch™: the AI-first product accelerator. Dispatch governs and simplifies collaboration between AI agents and cross-functional human teams, so work gets shaped, reviewed, and moved to production faster. Ship better code, not just more code. Upsun Cloud: the Cloud Application Platform for AI acceleration. Cloud is where that software runs. It helps organizations launch agentic software into production confidently and reliably, with: Predictable performance, even at scale Secure, compliant environments by default Real-time observability and profiling built in Cloning, configuration, and provisioning in seconds Sandbox environments where AI agents can build and test safely The name says it all. \"Up\" means uptime, reliability, and acceleration. \"Sun\" reflects our follow-the-sun-support, a 24x7, globally distributed support team keeping the lights on while you rest. Our core belief is that software should power brighter solutions and greater innovation.&nbsp; What's our commonality, our cultural fabric? A curious spirit and a thirst for knowledge; an eagerness for innovative ideas and cultures. We believe we can build anything together in an environment that frees you to do your best work. Our values:&nbsp; We make a positive impact. We aim for the stars. We care for each other.&nbsp; Impact of a General Accountant - Accounts Payable&nbsp; As a General Accountant - Accounts Payable, you will keep our vendor payments accurate, controlled and on time across multiple entities and currencies as Upsun grows globally. You will join our Finance and Accounting team of 9 people, which provides accurate reporting, strong controls and operational rigour across the business. You will work closely with accounting and consolidation on month-end close and reconciliations, support the external audit, partner with FP&amp;A on spend visibility, and manage relationships with suppliers and our banking and treasury partners. What to expect Own the procure-to-pay cycle: Manage AP across our 8 entities in Europe, North America and APAC, from vendor master data and invoice processing to employee expense reimbursements, preparing payment runs for execution with our Treasury team. Process accurately and on time: Match invoices and code to the correct GL accounts, cost centers and VAT/tax codes. Work across entities and jurisdictions: Record AP transactions in line with local statutory and group reporting requirements, including VAT/tax treatment, intercompany recharges and multi-currency postings. Manage employee expenses: Review and process expense reports and reimbursements in Payhawk, checking them against the expense policy and supporting receipts. Make sure they’re coded correctly with VAT recovered, and that card transactions are reconciled. Protect every payment: Apply AP and payment controls, including approval workflows, segregation of duties, vendor bank detail verification and duplicate-payment checks, with documentation ready for audit. Partner across the business: Be the go-to contact for the CFO, FP&amp;A and employees across the company on supplier spend, payments and vendor questions. Own your part of the close: Reconcile the AP subledger to the GL, book accruals and prepayments, reconcile employee expense and card accounts, and support the monthly close and external audit. Resolve exceptions: Investigate and resolve invoice discrepancies, payment rejections, vendor statement differences and employee reimbursement queries across currencies and time zones. Improve daily workflows: Maximize use of our ERP and AP tool (Payhawk) to reduce manual work. Share ideas to automate routine AP tasks, and help the team put them in place. What you bring Accounting standards: Hands-on experience applying IFRS, French GAAP (PCG) or US GAAP to AP transactions, accruals and reconciliations, plus working knowledge of VAT/GST on purchases. AP operations experience: You have run AP workstreams independently in a multi-entity, multi-currency environment. Covering invoice processing, employee expenses, payment proposals and vendor reconciliations. Controls knowledge: You understand payment and internal controls (approvals, segregation of duties, vendor bank changes), and you apply them consistently. You know when to escalate a high-risk item. Systems skills: You are proficient with a modern ERP such as NetSuite, banking platforms, and AP automation tools. You also have advanced Excel or Google Sheets skills. Precision and remote collaboration: You are detail-oriented and deadline-driven, especially at month-end. You work well with others remotely across time zones. Bonus points CPA or an equivalent qualification, such as ACCA. Working proficiency in French. Experience using AP automation tools to reduce manual work. High-growth SaaS or tech environment: used to fast-changing processes and scaling. Where we hire At Upsun, remote work isn’t just a trend. It’s our foundation. Upsunners are a global workforce, and we thrive in a multicultural team. We’re committed to open source and an open, welcoming environment. Our team spans more than 30 countries and a wide range of experience levels, and we’re currently hiring for this role in Canada, France or Spain . We’re unable to provide visa sponsorship at this time, but we welcome applications from all qualified candidates who are legally authorized to work in these countries. How we hire Our interview process is a chance for us to understand how you think, what you’ve built, and what you want to take on next, and for you to get to know us. Together, we’ll explore where your strengths and interests meet the challenges our teams are solving. We know a great hire won’t meet every requirement above. If you can see yourself making the team better, we want to hear your story. Few of us would be here if someone hadn’t taken a chance on us. You can expect interviews on Google Meet to follow the order below. 45 Minutes with Talent Acquisition&nbsp; 60 Minutes with Hiring Manager (Senior Director, FP&amp;A and IT) 60 Minutes with Team (Director &amp; IC) 60 Minutes with Cross Team (Data and Analytics)&nbsp; All roles require background checks. What we offer A product you can believe in - Join us in transforming how businesses build and manage web applications, driven making a positive impact as a proud B Corp . An Award-Winning Workplace - We’ve been recognized by Forbes’ Top 30 Companies for Remote Jobs and France’s Best Workplaces for Women. ️ A culture that values your voice - Join a flexible, open, and inclusive work environment where your voice is encouraged, and your ideas shape our growth and evolution. A global team - Collaborate with colleagues from diverse backgrounds across the world, embracing different perspectives Benefits and perks - Make the most of what matters to you Flexible PTO Comprehensive healthcare coverage (UK, Canada, France, Spain, USA) Company stock options Professional development budget Office equipment budget ‍️ Wellness budget Annual team gatherings Inclusive parental leave ️ Remote work travel program You belong here At Upsun, we celebrate diversity in all its forms and are committed to fostering an inclusive, equitable, and supportive workplace where everyone can thrive. We embrace and value different perspectives, backgrounds, and experiences, because they make us stronger as a team. Whoever you are, wherever you're from, and whatever path you've taken, you are welcome here. We encourage you to bring your whole self to work, connect with others, and share your passion. If you need accommodations at any stage of our hiring process, please let us know. We're here to ensure an accessible and comfortable experience for you. To apply: https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable",
+    "url": "https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_type": null,
+    "contract_type": "full-time",
+    "experience_level": "lead",
+    "location": "Remote",
+    "remote_type": "remote",
+    "timezone": null,
+    "tech_stack": [],
+    "tags": [
+      "devops",
+      "DevOps and Sysadmin"
+    ],
+    "posted_at": "2026-11-24T06:02:14.000Z",
+    "fetched_at": "2026-11-24T16:31:03.297Z",
+    "raw": {
+      "title": "Upsun: General Accountant - Accounts Payable",
+      "region": "Anywhere in the World",
+      "country": "🇪🇸 Spain and 🇨🇦 Canada",
+      "state": "",
+      "skills": "",
+      "category": "DevOps and Sysadmin",
+      "type": "Full-Time",
+      "description": "<p>\n  <strong>Headquarters:</strong> Remote • France, Spain, Canada\n</p>\n\n<h1><span><strong>About Upsun</strong></span></h1>\n<p><span>Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure.</span></p>\n<p><span>Upsun brings this together through two products: one that shapes the work, and one that runs it.</span></p>\n<ul>\n<li><span><strong>Upsun Dispatch™: the AI-first product accelerator.</strong> Dispatch governs and simplifies collaboration between AI agents and cross-functional human teams, so work gets shaped, reviewed, and moved to production faster. Ship better code, not just more code.</span></li>\n<li><span><strong>Upsun Cloud: the Cloud Application Platform for AI acceleration.</strong> Cloud is where that software runs. It helps organizations launch agentic software into production confidently and reliably, with:</span>\n<ul>\n<li><span>Predictable performance, even at scale</span></li>\n<li><span>Secure, compliant environments by default</span></li>\n<li><span>Real-time observability and profiling built in</span></li>\n<li><span>Cloning, configuration, and provisioning in seconds</span></li>\n<li><span>Sandbox environments where AI agents can build and test safely</span></li>\n</ul>\n</li>\n</ul>\n<p><span>The name says it all. \"Up\" means uptime, reliability, and acceleration. \"Sun\" reflects our follow-the-sun-support, a 24x7, globally distributed support team keeping the lights on while you rest. Our core belief is that software should power brighter solutions and greater innovation.&nbsp;</span></p>\n<p><span>What's our commonality, our cultural fabric? A curious spirit and a thirst for knowledge; an eagerness for innovative ideas and cultures. We believe we can build anything together in an environment that frees you to do your best work. </span></p>\n<p><span>Our values:&nbsp;</span></p>\n<p><span> We make a positive impact.</span></p>\n<p><span> We aim for the stars.</span></p>\n<p><span> We care for each other.&nbsp;</span></p>\n<h1><span><strong>Impact of a General Accountant - Accounts Payable&nbsp;</strong></span></h1>\n<p><span>As a General Accountant - Accounts Payable, you will keep our vendor payments accurate, controlled and on time across multiple entities and currencies as Upsun grows globally.</span></p>\n<p><span>You will join our Finance and Accounting team of 9 people, which provides accurate reporting, strong controls and operational rigour across the business.</span><span>You will work closely with accounting and consolidation on month-end close and reconciliations, support the external audit, partner with FP&amp;A on spend visibility, and manage relationships with suppliers and our banking and treasury partners.</span></p>\n<h1><span><strong>What to expect</strong></span></h1>\n<ul>\n<li><span><strong>Own the procure-to-pay cycle:</strong> Manage AP across our 8 entities in Europe, North America and APAC, from vendor master data and invoice processing to employee expense reimbursements, preparing payment runs for execution with our Treasury team.</span></li>\n<li><span><strong>Process accurately and on time:</strong> Match invoices and code to the correct GL accounts, cost centers and VAT/tax codes.</span></li>\n<li><span><strong>Work across entities and jurisdictions:</strong> Record AP transactions in line with local statutory and group reporting requirements, including VAT/tax treatment, intercompany recharges and multi-currency postings.</span></li>\n<li><span><strong>Manage employee expenses: </strong>Review and process expense reports and reimbursements in Payhawk, checking them against the expense policy and supporting receipts. Make sure they’re coded correctly with VAT recovered, and that card transactions are reconciled.</span></li>\n<li><span><strong>Protect every payment:</strong> Apply AP and payment controls, including approval workflows, segregation of duties, vendor bank detail verification and duplicate-payment checks, with documentation ready for audit.</span></li>\n<li><span><strong>Partner across the business:</strong> Be the go-to contact for the CFO, FP&amp;A and employees across the company on supplier spend, payments and vendor questions.</span></li>\n<li><span><strong>Own your part of the close:</strong> Reconcile the AP subledger to the GL, book accruals and prepayments, reconcile employee expense and card accounts, and support the monthly close and external audit.</span></li>\n<li><span><strong>Resolve exceptions:</strong> Investigate and resolve invoice discrepancies, payment rejections, vendor statement differences and employee reimbursement queries across currencies and time zones.</span></li>\n<li><span><strong>Improve daily workflows:</strong> Maximize use of our ERP and AP tool (Payhawk) to reduce manual work. Share ideas to automate routine AP tasks, and help the team put them in place.</span></li>\n</ul>\n<h1><span><strong>What you bring</strong></span></h1>\n<ul>\n<li><span><strong>Accounting standards:</strong> Hands-on experience applying IFRS, French GAAP (PCG) or US GAAP to AP transactions, accruals and reconciliations, plus working knowledge of VAT/GST on purchases.</span></li>\n<li><span><strong>AP operations experience:</strong> You have run AP workstreams independently in a multi-entity, multi-currency environment. Covering invoice processing, employee expenses, payment proposals and vendor reconciliations.</span></li>\n<li><span><strong>Controls knowledge:</strong> You understand payment and internal controls (approvals, segregation of duties, vendor bank changes), and you apply them consistently. You know when to escalate a high-risk item.</span></li>\n<li><span><strong>Systems skills:</strong> You are proficient with a modern ERP such as NetSuite, banking platforms, and AP automation tools. You also have advanced Excel or Google Sheets skills.</span></li>\n<li><span><strong>Precision and remote collaboration:</strong> You are detail-oriented and deadline-driven, especially at month-end. You work well with others remotely across time zones.</span></li>\n</ul>\n<h1><span><strong>Bonus points</strong></span></h1>\n<ul>\n<li><span>CPA or an equivalent qualification, such as ACCA.</span></li>\n<li><span>Working proficiency in French.</span></li>\n<li><span>Experience using AP automation tools to reduce manual work.</span></li>\n<li><span>High-growth SaaS or tech environment: used to fast-changing processes and scaling.</span></li>\n</ul>\n<h1><span><strong>Where we hire</strong></span></h1>\n<p><span><span>At Upsun, remote work isn’t just a trend. It’s our foundation. Upsunners are a global workforce, and we thrive in a multicultural team. We’re committed to open source and an open, welcoming environment. Our team spans more than 30 countries and a wide range of experience levels, and we’re currently hiring for this role in <strong>Canada, France or Spain</strong>. We’re unable to provide visa sponsorship at this time, but we welcome applications from all qualified candidates who are legally authorized to work in these countries.</span></span></p>\n<h1><span><strong>How we hire</strong></span></h1>\n<p><span>Our interview process is a chance for us to understand how you think, what you’ve built, and what you want to take on next, and for you to get to know us. Together, we’ll explore where your strengths and interests meet the challenges our teams are solving.</span><br><br><span>We know a great hire won’t meet every requirement above. If you can see yourself making the team better, we want to hear your story. Few of us would be here if someone hadn’t taken a chance on us.</span><br><br><span>You can expect interviews on Google Meet to follow the order below.</span></p>\n<ol>\n<li><span>45 Minutes with Talent Acquisition&nbsp;</span></li>\n<li><span>60 Minutes with Hiring Manager (Senior Director, FP&amp;A and IT)</span></li>\n<li><span>60 Minutes with Team (Director &amp; IC)</span></li>\n<li><span>60 Minutes with Cross Team (Data and Analytics)&nbsp;</span></li>\n</ol>\n<p><em>All roles require background checks.</em></p>\n<h1><span><strong>What we offer</strong></span></h1>\n<p><span> <strong>A product you can believe in</strong> - Join us in transforming how businesses build and manage web applications, driven making a positive impact as a proud <strong>B Corp</strong>.</span></p>\n<p><span><strong> An Award-Winning Workplace</strong> - We’ve been recognized by Forbes’ Top 30 Companies for Remote Jobs and France’s Best Workplaces for Women.</span></p>\n<p><span>️ <strong>A culture that values your voice </strong>- Join a flexible, open, and inclusive work environment where your voice is encouraged, and your ideas shape our growth and evolution.</span></p>\n<p><span> <strong>A global team </strong>- Collaborate with colleagues from diverse backgrounds across the world, embracing different perspectives</span></p>\n<p><span><strong> </strong><strong>Benefits and perks</strong> - Make the most of what matters to you</span></p>\n<blockquote>\n<p> Flexible PTO</p>\n<p> Comprehensive healthcare coverage (UK, Canada, France, Spain, USA)</p>\n<p> Company stock options</p>\n<p> Professional development budget</p>\n<p> Office equipment budget</p>\n<p>‍️ Wellness budget</p>\n<p> Annual team gatherings</p>\n<p> Inclusive parental leave</p>\n<p>️ Remote work travel program</p>\n</blockquote>\n<h1><span><strong>You belong here</strong></span></h1>\n<p><span>At Upsun, we celebrate diversity in all its forms and are committed to fostering an inclusive, equitable, and supportive workplace where everyone can thrive. We embrace and value different perspectives, backgrounds, and experiences, because they make us stronger as a team. Whoever you are, wherever you're from, and whatever path you've taken, you are welcome here. We encourage you to bring your whole self to work, connect with others, and share your passion. </span><span>If you need accommodations at any stage of our hiring process, please let us know. We're here to ensure an accessible and comfortable experience for you.<br></span></p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable\">https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable</a></p>",
+      "pubDate": "Tue, 24 Nov 2026 06:02:14 +0000",
+      "expires_at": "Thu, 24 Dec 2026 06:02:14 +0000",
+      "guid": "https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable",
+      "link": "https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable"
     }
   },
   {
@@ -1046,7 +1185,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T18:32:25.000Z",
-    "fetched_at": "2026-11-24T03:28:58.897Z",
+    "fetched_at": "2026-11-24T16:31:03.298Z",
     "raw": {
       "title": "Reddit: Engineering Manager, Ranking Platform",
       "region": "Anywhere in the World",
@@ -1091,7 +1230,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T18:32:20.000Z",
-    "fetched_at": "2026-11-24T03:28:58.899Z",
+    "fetched_at": "2026-11-24T16:31:03.300Z",
     "raw": {
       "title": "MetaMask: Senior Manager, Application Security",
       "region": "Anywhere in the World",
@@ -1137,7 +1276,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T18:32:20.000Z",
-    "fetched_at": "2026-11-24T03:28:58.901Z",
+    "fetched_at": "2026-11-24T16:31:03.301Z",
     "raw": {
       "title": "Grafana Labs: Engineering Manager - Grafana Infrastructure (Remote, Ireland)",
       "region": "Anywhere in the World",
@@ -1183,7 +1322,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T18:32:12.000Z",
-    "fetched_at": "2026-11-24T03:28:58.903Z",
+    "fetched_at": "2026-11-24T16:31:03.302Z",
     "raw": {
       "title": "Grafana Labs: Engineering Manager - Grafana Infrastructure (Remote, Canada)",
       "region": "Anywhere in the World",
@@ -1224,7 +1363,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T18:32:07.000Z",
-    "fetched_at": "2026-11-24T03:28:58.904Z",
+    "fetched_at": "2026-11-24T16:31:03.303Z",
     "raw": {
       "title": "LaunchDarkly: Senior Director, Enablement",
       "region": "Anywhere in the World",
@@ -1274,7 +1413,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T18:31:31.000Z",
-    "fetched_at": "2026-11-24T03:28:58.906Z",
+    "fetched_at": "2026-11-24T16:31:03.304Z",
     "raw": {
       "title": "Gusto, Inc.: Site Reliability Engineer",
       "region": "Anywhere in the World",
@@ -1315,7 +1454,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T18:31:19.000Z",
-    "fetched_at": "2026-11-24T03:28:58.907Z",
+    "fetched_at": "2026-11-24T16:31:03.305Z",
     "raw": {
       "title": "Pinterest: Manager II, Engineering - Kubernetes Platform",
       "region": "Anywhere in the World",
@@ -1354,7 +1493,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T06:02:30.000Z",
-    "fetched_at": "2026-11-24T03:28:58.909Z",
+    "fetched_at": "2026-11-24T16:31:03.307Z",
     "raw": {
       "title": "Clover Health: Associate Counsel, Vendor and Provider Contracting",
       "region": "Anywhere in the World",
@@ -1398,7 +1537,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T06:01:56.000Z",
-    "fetched_at": "2026-11-24T03:28:58.911Z",
+    "fetched_at": "2026-11-24T16:31:03.308Z",
     "raw": {
       "title": "BeyondTrust: Senior Security Technical Program Manager",
       "region": "Anywhere in the World",
@@ -1446,7 +1585,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T06:01:42.000Z",
-    "fetched_at": "2026-11-24T03:28:58.912Z",
+    "fetched_at": "2026-11-24T16:31:03.309Z",
     "raw": {
       "title": "Collibra: Senior Federal Enterprise Solution Architect",
       "region": "Anywhere in the World",
@@ -1488,7 +1627,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-23T06:01:38.000Z",
-    "fetched_at": "2026-11-24T03:28:58.913Z",
+    "fetched_at": "2026-11-24T16:31:03.310Z",
     "raw": {
       "title": "LaunchDarkly: Security Analyst - Governance, Risk, and Compliance",
       "region": "Anywhere in the World",
@@ -1527,7 +1666,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T18:32:35.000Z",
-    "fetched_at": "2026-11-24T03:28:58.915Z",
+    "fetched_at": "2026-11-24T16:31:03.311Z",
     "raw": {
       "title": "Ping Identity: Director, Sales (Nordics & Eastern Europe)",
       "region": "Anywhere in the World",
@@ -1566,7 +1705,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T18:32:30.000Z",
-    "fetched_at": "2026-11-24T03:28:58.916Z",
+    "fetched_at": "2026-11-24T16:31:03.312Z",
     "raw": {
       "title": "Ping Identity: Director, Sales (Nordics & Eastern Europe)",
       "region": "Anywhere in the World",
@@ -1609,7 +1748,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T18:31:39.000Z",
-    "fetched_at": "2026-11-24T03:28:58.917Z",
+    "fetched_at": "2026-11-24T16:31:03.313Z",
     "raw": {
       "title": "Keeper Security: Bilingual Systems Support Engineer, Spanish (Wednesday - Sunday)",
       "region": "Anywhere in the World",
@@ -1654,7 +1793,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T18:31:25.000Z",
-    "fetched_at": "2026-11-24T03:28:58.919Z",
+    "fetched_at": "2026-11-24T16:31:03.314Z",
     "raw": {
       "title": "Datadog: Regional Manager, Sales Engineering - Key Accounts (East)",
       "region": "Anywhere in the World",
@@ -1693,7 +1832,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T06:02:34.000Z",
-    "fetched_at": "2026-11-24T03:28:58.920Z",
+    "fetched_at": "2026-11-24T16:31:03.315Z",
     "raw": {
       "title": "Ping Identity: Director, Sales (Middle East)",
       "region": "Anywhere in the World",
@@ -1732,7 +1871,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T06:02:29.000Z",
-    "fetched_at": "2026-11-24T03:28:58.921Z",
+    "fetched_at": "2026-11-24T16:31:03.316Z",
     "raw": {
       "title": "Ping Identity: Director, Sales (Middle East)",
       "region": "Anywhere in the World",
@@ -1784,7 +1923,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T06:02:08.000Z",
-    "fetched_at": "2026-11-24T03:28:58.922Z",
+    "fetched_at": "2026-11-24T16:31:03.317Z",
     "raw": {
       "title": "Upgrade: Senior QA Automation Engineer (Platform)",
       "region": "Anywhere in the World",
@@ -1836,7 +1975,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T06:02:04.000Z",
-    "fetched_at": "2026-11-24T03:28:58.924Z",
+    "fetched_at": "2026-11-24T16:31:03.318Z",
     "raw": {
       "title": "Upgrade: Senior QA Automation Engineer - HELOC (LATAM)",
       "region": "Anywhere in the World",
@@ -1875,7 +2014,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T06:01:34.000Z",
-    "fetched_at": "2026-11-24T03:28:58.925Z",
+    "fetched_at": "2026-11-24T16:31:03.318Z",
     "raw": {
       "title": "JFrog: Senior Technical Project Manager",
       "region": "Anywhere in the World",
@@ -1928,7 +2067,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-22T06:01:31.000Z",
-    "fetched_at": "2026-11-24T03:28:58.926Z",
+    "fetched_at": "2026-11-24T16:31:03.319Z",
     "raw": {
       "title": "JFrog: Professional Services DevOps Architect",
       "region": "Anywhere in the World",
@@ -1942,59 +2081,6 @@
       "expires_at": "Tue, 22 Dec 2026 06:01:31 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-architect",
       "link": "https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-architect"
-    }
-  },
-  {
-    "id": "wwr:smartsheet-software-engineer-remote-eligible-in-bulgaria",
-    "platform": "wwr",
-    "external_id": "smartsheet-software-engineer-remote-eligible-in-bulgaria",
-    "title": "Software Engineer  (Remote Eligible in Bulgaria)",
-    "company": "Smartsheet",
-    "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. As a global leader in Intelligent Work Management with a market cap of $10bn, we’ve continued to scale our engineering presence internationally. Since expanding into Bulgaria in October 2024, we’ve grown to a team of 70+ engineers.&nbsp; As we continue building this operation, we’re looking for talented and motivated Software Engineers who are passionate about continuous learning and excited to grow in a fast-paced, innovative environment. Smartsheet runs on a modern SaaS stack hosted on AWS, with infrastructure defined and managed as code using Terraform and strong engineering best practices. Our core platform includes a legacy Java monolith alongside a growing ecosystem of microservices, primarily built in Java and Go (with a small number of Kotlin services). On the front end, product teams that deliver UI experiences use React. You will work remotely from Bulgaria and will be reporting to an engineering leader. You Will: Contribute to the entire development lifecycle, from concept to release, ensuring quality at every step. Participate in system architecture discussions to design scalable, high-availability applications. Implement new features and improve existing functionality to enhance our product offerings.. Maintain and develop service APIs that serve millions of users. Collaborate with systems engineers to debug infrastructure challenges. Take part in all phases of quality assurance and defect resolution to maintain the reliability of our systems. Work across multiple disciplines such as front-end, back-end, test automation, and infrastructure to broaden your technical expertise. Perform other duties as assigned. You Have: Experience with programming languages like Golang, Java, C, or Node.js. Familiarity with front-end technologies (HTML, CSS, JavaScript, React.js)&nbsp; Knowledge of Object-Oriented design and Microservice Architecture. Experience with scalable, high-availability applications. Comfort working in Linux command line environments. A degree in Computer Science or equivalent industry experience. Legally eligible to work in Bulgaria on an ongoing basis. Fluency in English is required. Nice to Have: Experience with DynamoDB, MySQL, or other relational and non-relational databases. Familiarity with AWS and Docker, or AWS certifications (AWS Developer, AWS Solution Architect). Experience with service orchestration tools like Kubernetes or HashiCorp &nbsp; Get to Know Us: At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together. Equal Opportunity Employer: Smartsheet is an Equal Opportunity (EEO) employer committed to fostering an inclusive environment with the best employees. It is our policy to provide equal employment opportunities to all qualified applicants in accordance with applicable laws in the US, UK, Australia, Germany, Costa Rica, Japan, Bulgaria, India, and Singapore. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.&nbsp; If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know. &nbsp; &nbsp; To apply: https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria",
-    "url": "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "javascript",
-      "go",
-      "java",
-      "kotlin",
-      "react",
-      "nodejs",
-      "mysql",
-      "dynamodb",
-      "aws",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "linux"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-11-21T18:32:07.000Z",
-    "fetched_at": "2026-11-24T03:28:58.927Z",
-    "raw": {
-      "title": "Smartsheet: Software Engineer  (Remote Eligible in Bulgaria)",
-      "region": "Anywhere in the World",
-      "country": "",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> -REMOTE, BULGARIA-\n</p>\n\n<div class=\"content-intro\"><p>For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.</p></div><p>As a global leader in Intelligent Work Management with a market cap of $10bn, we’ve continued to scale our engineering presence internationally. Since expanding into Bulgaria in October 2024, we’ve grown to a team of 70+ engineers.&nbsp; As we continue building this operation, we’re looking for talented and motivated <strong>Software Engineers</strong> who are passionate about continuous learning and excited to grow in a fast-paced, innovative environment.</p>\n<p>Smartsheet runs on a modern SaaS stack hosted on AWS, with infrastructure defined and managed as code using Terraform and strong engineering best practices. Our core platform includes a legacy Java monolith alongside a growing ecosystem of microservices, primarily built in Java and Go (with a small number of Kotlin services). On the front end, product teams that deliver UI experiences use React.</p>\n<p>You will work remotely from Bulgaria and will be reporting to an engineering leader.</p>\n<p><strong>You Will:</strong></p>\n<ul>\n<li>Contribute to the entire development lifecycle, from concept to release, ensuring quality at every step.</li>\n<li>Participate in system architecture discussions to design scalable, high-availability applications.</li>\n<li>Implement new features and improve existing functionality to enhance our product offerings..</li>\n<li>Maintain and develop service APIs that serve millions of users.</li>\n<li>Collaborate with systems engineers to debug infrastructure challenges.</li>\n<li>Take part in all phases of quality assurance and defect resolution to maintain the reliability of our systems.</li>\n<li>Work across multiple disciplines such as front-end, back-end, test automation, and infrastructure to broaden your technical expertise.</li>\n<li>Perform other duties as assigned.</li>\n</ul>\n<p><strong>You Have:</strong></p>\n<ul>\n<li>Experience with programming languages like Golang, Java, C, or Node.js.</li>\n<li>Familiarity with front-end technologies (HTML, CSS, JavaScript, React.js)&nbsp;</li>\n<li>Knowledge of Object-Oriented design and Microservice Architecture.</li>\n<li>Experience with scalable, high-availability applications.</li>\n<li>Comfort working in Linux command line environments.</li>\n<li>A degree in Computer Science or equivalent industry experience.</li>\n<li>Legally eligible to work in Bulgaria on an ongoing basis.</li>\n<li>Fluency in English is required.</li>\n</ul>\n<p><strong>Nice to Have:</strong></p>\n<ul>\n<li>Experience with DynamoDB, MySQL, or other relational and non-relational databases.</li>\n<li>Familiarity with AWS and Docker, or AWS certifications (AWS Developer, AWS Solution Architect).</li>\n<li>Experience with service orchestration tools like Kubernetes or HashiCorp</li>\n</ul><div class=\"content-conclusion\"><p>&nbsp;</p>\n<p><strong>Get to Know Us:</strong></p>\n<p>At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together.</p>\n<p><strong>Equal Opportunity Employer:</strong></p>\n<p>Smartsheet is an Equal Opportunity (EEO) employer committed to fostering an inclusive environment with the best employees. It is our policy to provide equal employment opportunities to all qualified applicants in accordance with applicable laws in the US, UK, Australia, Germany, Costa Rica, Japan, Bulgaria, India, and Singapore. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.&nbsp;</p>\n<p>If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria\">https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria</a></p>",
-      "pubDate": "Sat, 21 Nov 2026 18:32:07 +0000",
-      "expires_at": "Mon, 21 Dec 2026 18:32:07 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria",
-      "link": "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria"
     }
   },
   {
@@ -2033,7 +2119,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T18:32:07.000Z",
-    "fetched_at": "2026-11-24T03:28:58.929Z",
+    "fetched_at": "2026-11-24T16:31:03.320Z",
     "raw": {
       "title": "Gemini: Senior Platform Engineer",
       "region": "Anywhere in the World",
@@ -2072,7 +2158,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T18:31:36.000Z",
-    "fetched_at": "2026-11-24T03:28:58.930Z",
+    "fetched_at": "2026-11-24T16:31:03.321Z",
     "raw": {
       "title": "Salesloft: Senior Salesforce Business Systems Administrator",
       "region": "Anywhere in the World",
@@ -2111,7 +2197,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T18:31:20.000Z",
-    "fetched_at": "2026-11-24T03:28:58.932Z",
+    "fetched_at": "2026-11-24T16:31:03.323Z",
     "raw": {
       "title": "Ping Identity: Director, Sales",
       "region": "Anywhere in the World",
@@ -2150,7 +2236,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T18:31:16.000Z",
-    "fetched_at": "2026-11-24T03:28:58.933Z",
+    "fetched_at": "2026-11-24T16:31:03.324Z",
     "raw": {
       "title": "Ping Identity: Director, Public Sector Channels",
       "region": "Anywhere in the World",
@@ -2191,7 +2277,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T17:01:10.000Z",
-    "fetched_at": "2026-11-24T03:28:58.935Z",
+    "fetched_at": "2026-11-24T16:31:03.325Z",
     "raw": {
       "title": "Reddit: Principal Engineer, Security",
       "region": "USA Only",
@@ -2232,7 +2318,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T06:02:45.000Z",
-    "fetched_at": "2026-11-24T03:28:58.936Z",
+    "fetched_at": "2026-11-24T16:31:03.325Z",
     "raw": {
       "title": "Ping Identity: Business Services Assistant",
       "region": "Anywhere in the World",
@@ -2280,7 +2366,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T06:02:45.000Z",
-    "fetched_at": "2026-11-24T03:28:58.937Z",
+    "fetched_at": "2026-11-24T16:31:03.326Z",
     "raw": {
       "title": "Smartsheet: Software Engineer I (Remote Eligible)",
       "region": "Anywhere in the World",
@@ -2332,7 +2418,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T06:02:13.000Z",
-    "fetched_at": "2026-11-24T03:28:58.938Z",
+    "fetched_at": "2026-11-24T16:31:03.327Z",
     "raw": {
       "title": "Stability AI: Staff Software Engineer, Data",
       "region": "Anywhere in the World",
@@ -2384,7 +2470,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T06:01:43.000Z",
-    "fetched_at": "2026-11-24T03:28:58.939Z",
+    "fetched_at": "2026-11-24T16:31:03.328Z",
     "raw": {
       "title": "Upgrade: Senior QA Automation Developer (Platform)",
       "region": "Anywhere in the World",
@@ -2436,7 +2522,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-21T06:01:43.000Z",
-    "fetched_at": "2026-11-24T03:28:58.940Z",
+    "fetched_at": "2026-11-24T16:31:03.329Z",
     "raw": {
       "title": "Upgrade: Senior QA Automation Engineer (HELOC)",
       "region": "Anywhere in the World",
@@ -2475,7 +2561,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T18:32:28.000Z",
-    "fetched_at": "2026-11-24T03:28:58.942Z",
+    "fetched_at": "2026-11-24T16:31:03.330Z",
     "raw": {
       "title": "BeyondTrust: Lead-to-Cash Business Partner",
       "region": "Anywhere in the World",
@@ -2529,7 +2615,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T18:32:06.000Z",
-    "fetched_at": "2026-11-24T03:28:58.943Z",
+    "fetched_at": "2026-11-24T16:31:03.331Z",
     "raw": {
       "title": "Wrike: Senior CloudOps Engineer (Network Engineer)",
       "region": "Anywhere in the World",
@@ -2575,7 +2661,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T18:31:16.000Z",
-    "fetched_at": "2026-11-24T03:28:58.944Z",
+    "fetched_at": "2026-11-24T16:31:03.331Z",
     "raw": {
       "title": "Discord: Staff Software Engineer, Enterprise Platform",
       "region": "Anywhere in the World",
@@ -2627,7 +2713,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T18:31:01.000Z",
-    "fetched_at": "2026-11-24T03:28:58.945Z",
+    "fetched_at": "2026-11-24T16:31:03.332Z",
     "raw": {
       "title": "Upgrade: Senior QA Automation Developer (HELOC)",
       "region": "Anywhere in the World",
@@ -2675,7 +2761,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T18:31:01.000Z",
-    "fetched_at": "2026-11-24T03:28:58.946Z",
+    "fetched_at": "2026-11-24T16:31:03.333Z",
     "raw": {
       "title": "Upgrade: Principal DevSecOps Engineer",
       "region": "Anywhere in the World",
@@ -2717,7 +2803,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T18:30:43.000Z",
-    "fetched_at": "2026-11-24T03:28:58.948Z",
+    "fetched_at": "2026-11-24T16:31:03.334Z",
     "raw": {
       "title": "Upsun: Software Engineer",
       "region": "Anywhere in the World",
@@ -2731,53 +2817,6 @@
       "expires_at": "Sun, 20 Dec 2026 18:30:43 +0000",
       "guid": "https://weworkremotely.com/remote-jobs/upsun-software-engineer",
       "link": "https://weworkremotely.com/remote-jobs/upsun-software-engineer"
-    }
-  },
-  {
-    "id": "wwr:sumo-logic-presales-solutions-engineer",
-    "platform": "wwr",
-    "external_id": "sumo-logic-presales-solutions-engineer",
-    "title": "PreSales Solutions Engineer",
-    "company": "Sumo Logic",
-    "description": "Headquarters: Remote US As a Sales Engineer , you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. During the sales cycle you will guide clients through trials and POVs, demonstrating Sumo Logic’s ability to meet and exceed their requirements and building a positive relationship that will provide continuous value to our customers. Finally, you will have the opportunity to work cross-functionally with our Product Management and Engineering teams to share your knowledge and experiences to ultimately improve our business and our customers’ success. We seek talent who wants to leverage their technical and people skills to help deliver solutions to clients directly and become a trusted advisor in the process. Above all else, you should be highly self-motivated and extremely curious to learn more Sumo Logic and the vast problems that it can solve. Responsibilities Partner with the Account Executives to understand customer challenges and mains, and articulate Sumo Logic’s value proposition, vision, and strategy to customers Technically close complex opportunities through advanced competitive knowledge, technical skill, and credibility Understand and help orchestrate all phases of the sales cycle, including leading technical validations during the Proof of Value phase&nbsp; Be successful working with all levels of an organization, from executives down to individual developers and Site Reliability Engineers Deliver product and technical demonstrations of the Sumo Logic service Work cross functionally with Product Management and Engineering to improve the Sumo Logic service based on your experience with customers Be a \"hunter/farmer mentality\" who can build technical relationships with prospects and customers. Requirements B.S. in Computer Science, Engineering, or a related field; M.S. in Computer Science, Engineering, or a related field (preferred) 3+ years as a Solutions Engineer (preferred), Solutions Architect (preferred), Sales Engineer (preferred), Implementation Consultant, Support Engineer, Site Reliability Engineer, or a Software Developer with experience leading projects and/or working with customers Hands on knowledge of Security related products, technologies, and sources such as IDS/IPS, SIEM/Log Management, Network / Endpoint Security, Threat Detection, Incident Response, MSSP/MDR, Threat Feeds, CASB, etc Experience with open source collections (Telegraf, FluentBit, FluentD, Open Telemetry, etc.) (preferred) Experience with leading and running technical validations like Proof of Value (preferred) Experience selling and working with pure SaaS solutions in multi-tenant architectures Experience with Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure (certification is preferred) A broad background and understanding of technical infrastructure (servers, networking devices, storage, etc.) Modern application architecture (micro-services, containers) understanding and experience working with Kubernetes, Docker, and/or Lambda (preferred) Experience with various monitoring tools like Splunk, Datadog, Elastic, New Relic, etc. (preferred) Comfortable working in a dynamic, fast-paced startup environment and experience at a successful startup (preferred) Strong written and verbal communication skills, as well as business and technical acumen&nbsp; Sumo Logic, Inc. helps make the digital world secure, fast, and reliable by unifying critical security and operational data through its Intelligent Operations Platform. Built to address the increasing complexity of modern cybersecurity and cloud operations challenges, we empower digital teams to move from reaction to readiness—combining agentic AI-powered SIEM and log analytics into a single platform to detect, investigate, and resolve modern challenges. Customers around the world rely on Sumo Logic for trusted insights to protect against security threats, ensure reliability, and gain powerful insights into their digital environments. For more information, visit www.sumologic.com. Sumo Logic Privacy Policy . Employees will be responsible for complying with applicable federal privacy laws and regulations, as well as organizational policies related to data protection. The expected annual base salary range for this position is $114,000 - $133,000. Compensation varies based on a variety of factors which include (but aren’t limited to) role level, skills and competencies, qualifications, knowledge, location, and experience. In addition to base pay, certain roles are eligible to participate in our bonus or commission plans and equity awards. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, a 401(k) retirement plan, and paid time off. This position will remain open until filled; there is no application deadline. To be considered, please submit your application. &nbsp; Must be authorized to work in the United States at the time of hire and for the duration of employment. At this time, we are not able to offer new non-immigrant visa sponsorship or OPT hiring for this position. To apply: https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer",
-    "url": "https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "salary_type": null,
-    "contract_type": "full-time",
-    "experience_level": "lead",
-    "location": "Remote",
-    "remote_type": "remote",
-    "timezone": null,
-    "tech_stack": [
-      "aws",
-      "gcp",
-      "azure",
-      "docker",
-      "kubernetes",
-      "datadog",
-      "newrelic"
-    ],
-    "tags": [
-      "devops",
-      "DevOps and Sysadmin"
-    ],
-    "posted_at": "2026-11-20T06:01:44.000Z",
-    "fetched_at": "2026-11-24T03:28:58.949Z",
-    "raw": {
-      "title": "Sumo Logic: PreSales Solutions Engineer",
-      "region": "Anywhere in the World",
-      "country": "",
-      "state": "",
-      "skills": "",
-      "category": "DevOps and Sysadmin",
-      "type": "Full-Time",
-      "description": "<p>\n  <strong>Headquarters:</strong> Remote US\n</p>\n\n<p>As a <strong>Sales Engineer</strong>, you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. During the sales cycle you will guide clients through trials and POVs, demonstrating Sumo Logic’s ability to meet and exceed their requirements and building a positive relationship that will provide continuous value to our customers. Finally, you will have the opportunity to work cross-functionally with our Product Management and Engineering teams to share your knowledge and experiences to ultimately improve our business and our customers’ success.</p>\n<p>We seek talent who wants to leverage their technical and people skills to help deliver solutions to clients directly and become a trusted advisor in the process. Above all else, you should be highly self-motivated and extremely curious to learn more Sumo Logic and the vast problems that it can solve.</p>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>Partner with the Account Executives to understand customer challenges and mains, and articulate Sumo Logic’s value proposition, vision, and strategy to customers</li>\n<li>Technically close complex opportunities through advanced competitive knowledge, technical skill, and credibility</li>\n<li>Understand and help orchestrate all phases of the sales cycle, including leading technical validations during the Proof of Value phase&nbsp;</li>\n<li>Be successful working with all levels of an organization, from executives down to individual developers and Site Reliability Engineers</li>\n<li>Deliver product and technical demonstrations of the Sumo Logic service</li>\n<li>Work cross functionally with Product Management and Engineering to improve the Sumo Logic service based on your experience with customers</li>\n<li>Be a \"hunter/farmer mentality\" who can build technical relationships with prospects and customers.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li>B.S. in Computer Science, Engineering, or a related field; M.S. in Computer Science, Engineering, or a related field (preferred)</li>\n<li>3+ years as a Solutions Engineer (preferred), Solutions Architect (preferred), Sales Engineer (preferred), Implementation Consultant, Support Engineer, Site Reliability Engineer, or a Software Developer with experience leading projects and/or working with customers</li>\n<li>Hands on knowledge of Security related products, technologies, and sources such as IDS/IPS, SIEM/Log Management, Network / Endpoint Security, Threat Detection, Incident Response, MSSP/MDR, Threat Feeds, CASB, etc</li>\n<li>Experience with open source collections (Telegraf, FluentBit, FluentD, Open Telemetry, etc.) (preferred)</li>\n<li>Experience with leading and running technical validations like Proof of Value (preferred)</li>\n<li>Experience selling and working with pure SaaS solutions in multi-tenant architectures</li>\n<li>Experience with Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure (certification is preferred)</li>\n<li>A broad background and understanding of technical infrastructure (servers, networking devices, storage, etc.)</li>\n<li>Modern application architecture (micro-services, containers) understanding and experience working with Kubernetes, Docker, and/or Lambda (preferred)</li>\n<li>Experience with various monitoring tools like Splunk, Datadog, Elastic, New Relic, etc. (preferred)</li>\n<li>Comfortable working in a dynamic, fast-paced startup environment and experience at a successful startup (preferred)</li>\n<li>Strong written and verbal communication skills, as well as business and technical acumen&nbsp;</li>\n</ul>\n<p class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">Sumo Logic, Inc. helps make the digital world secure, fast, and reliable by unifying critical security and operational data through its Intelligent Operations Platform. Built to address the increasing complexity of modern cybersecurity and cloud operations challenges, we empower digital teams to move from reaction to readiness—combining agentic AI-powered SIEM and log analytics into a single platform to detect, investigate, and resolve modern challenges. Customers around the world rely on Sumo Logic for trusted insights to protect against security threats, ensure reliability, and gain powerful insights into their digital environments. For more information, visit</span><a class=\"XqQF9c\" href=\"http://www.sumologic.com/\"><span class=\"C9DxTc \"> www.sumologic.com.</span></a></p>\n<p class=\"zfr3Q CDt4Ke \"><a class=\"XqQF9c\" href=\"https://www.sumologic.com/privacy-statement/\"><span class=\"C9DxTc aw5Odc \">Sumo Logic Privacy Policy</span></a><span class=\"C9DxTc \">. Employees will be responsible for complying with applicable federal privacy laws and regulations, as well as organizational policies related to data protection.</span></p>\n<p class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">The expected annual base salary range for this position is $114,000 - $133,000. Compensation varies based on a variety of factors which include (but aren’t limited to) role level, skills and competencies, qualifications, knowledge, location, and experience. In addition to base pay, certain roles are eligible to participate in our bonus or commission plans and equity awards. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, a 401(k) retirement plan, and paid time off.</span></p>\n<p class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">This position will remain open until filled; there is no application deadline. To be considered, please submit your application.</span><span class=\"C9DxTc \">&nbsp;</span></p>\n<p class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">Must be authorized to work in the United States at the time of hire and for the duration of employment. At this time, we are not able to offer new non-immigrant visa sponsorship or OPT hiring for this position.</span></p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer\">https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer</a></p>",
-      "pubDate": "Fri, 20 Nov 2026 06:01:44 +0000",
-      "expires_at": "Sun, 20 Dec 2026 06:01:44 +0000",
-      "guid": "https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer",
-      "link": "https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer"
     }
   },
   {
@@ -2806,7 +2845,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T06:01:44.000Z",
-    "fetched_at": "2026-11-24T03:28:58.949Z",
+    "fetched_at": "2026-11-24T16:31:03.335Z",
     "raw": {
       "title": "BeyondTrust: Inside Solutions Engineer",
       "region": "Anywhere in the World",
@@ -2851,7 +2890,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T06:01:35.000Z",
-    "fetched_at": "2026-11-24T03:28:58.951Z",
+    "fetched_at": "2026-11-24T16:31:03.336Z",
     "raw": {
       "title": "Fivetran : Manager Security Engineer, Operations",
       "region": "Anywhere in the World",
@@ -2896,7 +2935,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T06:01:35.000Z",
-    "fetched_at": "2026-11-24T03:28:58.953Z",
+    "fetched_at": "2026-11-24T16:31:03.338Z",
     "raw": {
       "title": "Fivetran : Manager Security Engineer, Operations",
       "region": "Anywhere in the World",
@@ -2942,7 +2981,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T06:01:06.000Z",
-    "fetched_at": "2026-11-24T03:28:58.955Z",
+    "fetched_at": "2026-11-24T16:31:03.339Z",
     "raw": {
       "title": "PagerDuty: Forward Deployed Engineer (SDEV)",
       "region": "Anywhere in the World",
@@ -2994,7 +3033,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T06:00:43.000Z",
-    "fetched_at": "2026-11-24T03:28:58.956Z",
+    "fetched_at": "2026-11-24T16:31:03.340Z",
     "raw": {
       "title": "Discord: Senior Platform Security Engineer",
       "region": "Anywhere in the World",
@@ -3043,7 +3082,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-20T06:00:43.000Z",
-    "fetched_at": "2026-11-24T03:28:58.958Z",
+    "fetched_at": "2026-11-24T16:31:03.341Z",
     "raw": {
       "title": "Collibra: Federal Enterprise Solution Architect",
       "region": "Anywhere in the World",
@@ -3088,7 +3127,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T18:31:40.000Z",
-    "fetched_at": "2026-11-24T03:28:58.959Z",
+    "fetched_at": "2026-11-24T16:31:03.342Z",
     "raw": {
       "title": "CircleCI: Staff Software Engineer",
       "region": "Anywhere in the World",
@@ -3135,7 +3174,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T18:31:23.000Z",
-    "fetched_at": "2026-11-24T03:28:58.961Z",
+    "fetched_at": "2026-11-24T16:31:03.343Z",
     "raw": {
       "title": "Prove: Site Reliability Engineer, Sr. Site Reliability Engineer",
       "region": "Anywhere in the World",
@@ -3176,7 +3215,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T18:31:14.000Z",
-    "fetched_at": "2026-11-24T03:28:58.962Z",
+    "fetched_at": "2026-11-24T16:31:03.344Z",
     "raw": {
       "title": "Dropbox: Application Security Engineer",
       "region": "Anywhere in the World",
@@ -3224,7 +3263,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T18:31:00.000Z",
-    "fetched_at": "2026-11-24T03:28:58.963Z",
+    "fetched_at": "2026-11-24T16:31:03.345Z",
     "raw": {
       "title": "Flexport: Staff Security Engineer, Product Security",
       "region": "Anywhere in the World",
@@ -3269,7 +3308,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T18:30:55.000Z",
-    "fetched_at": "2026-11-24T03:28:58.964Z",
+    "fetched_at": "2026-11-24T16:31:03.346Z",
     "raw": {
       "title": "Gemini: Senior Manager, Platform Security",
       "region": "Anywhere in the World",
@@ -3323,7 +3362,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T06:01:49.000Z",
-    "fetched_at": "2026-11-24T03:28:58.966Z",
+    "fetched_at": "2026-11-24T16:31:03.347Z",
     "raw": {
       "title": "CircleCI: Senior Support Engineer",
       "region": "Anywhere in the World",
@@ -3372,7 +3411,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T06:01:49.000Z",
-    "fetched_at": "2026-11-24T03:28:58.967Z",
+    "fetched_at": "2026-11-24T16:31:03.348Z",
     "raw": {
       "title": "Flexport: Security Engineer, Product Security",
       "region": "Anywhere in the World",
@@ -3417,7 +3456,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T06:01:49.000Z",
-    "fetched_at": "2026-11-24T03:28:58.968Z",
+    "fetched_at": "2026-11-24T16:31:03.349Z",
     "raw": {
       "title": "Flexport: Security Engineer, Corporate Security",
       "region": "Anywhere in the World",
@@ -3466,7 +3505,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T06:01:30.000Z",
-    "fetched_at": "2026-11-24T03:28:58.970Z",
+    "fetched_at": "2026-11-24T16:31:03.350Z",
     "raw": {
       "title": "Upgrade: Principal DevSecOps Developer",
       "region": "Anywhere in the World",
@@ -3505,7 +3544,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T06:01:25.000Z",
-    "fetched_at": "2026-11-24T03:28:58.971Z",
+    "fetched_at": "2026-11-24T16:31:03.351Z",
     "raw": {
       "title": "Huntress Labs: Competitive Intelligence Strategist",
       "region": "Anywhere in the World",
@@ -3546,7 +3585,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-19T06:01:14.000Z",
-    "fetched_at": "2026-11-24T03:28:58.972Z",
+    "fetched_at": "2026-11-24T16:31:03.352Z",
     "raw": {
       "title": "Jumio: Product and Project Marketing Specialist (Temp to Hire)",
       "region": "Anywhere in the World",
@@ -3599,7 +3638,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-16T18:32:34.000Z",
-    "fetched_at": "2026-11-24T03:28:58.973Z",
+    "fetched_at": "2026-11-24T16:31:03.352Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6807/logo.gif",
@@ -3645,7 +3684,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-16T18:32:34.000Z",
-    "fetched_at": "2026-11-24T03:28:58.973Z",
+    "fetched_at": "2026-11-24T16:31:03.352Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6803/logo.gif",
@@ -3696,7 +3735,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-16T18:32:34.000Z",
-    "fetched_at": "2026-11-24T03:28:58.974Z",
+    "fetched_at": "2026-11-24T16:31:03.353Z",
     "raw": {
       "title": "EPAM Systems: Senior DevOps Engineer (DHDP)",
       "region": "Anywhere in the World",
@@ -3754,7 +3793,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-16T18:32:34.000Z",
-    "fetched_at": "2026-11-24T03:28:58.976Z",
+    "fetched_at": "2026-11-24T16:31:03.354Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/6804/logo.gif",
@@ -3811,7 +3850,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-10T22:32:18.000Z",
-    "fetched_at": "2026-11-24T03:28:58.977Z",
+    "fetched_at": "2026-11-24T16:31:03.355Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0000/0069/logo.gif",
@@ -3871,7 +3910,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-09T01:53:39.000Z",
-    "fetched_at": "2026-11-24T03:28:58.978Z",
+    "fetched_at": "2026-11-24T16:31:03.356Z",
     "raw": {
       "title": "Edgewater Federal Solutions, Inc.: Full-Stack Platform Engineer",
       "region": "USA Only",
@@ -3927,7 +3966,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-09T01:53:23.000Z",
-    "fetched_at": "2026-11-24T03:28:58.979Z",
+    "fetched_at": "2026-11-24T16:31:03.357Z",
     "raw": {
       "title": "Halcyon: Senior Backend Cloud Engineer",
       "region": "USA Only",
@@ -3966,7 +4005,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-11-02T07:31:12.000Z",
-    "fetched_at": "2026-11-24T03:28:58.980Z",
+    "fetched_at": "2026-11-24T16:31:03.358Z",
     "raw": {
       "title": "Salesloft: Salesforce Business Systems Administrator",
       "region": "Anywhere in the World",
@@ -4016,7 +4055,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-30T07:31:10.000Z",
-    "fetched_at": "2026-11-24T03:28:58.982Z",
+    "fetched_at": "2026-11-24T16:31:03.359Z",
     "raw": {
       "title": "Smartsheet: DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
       "region": "Anywhere in the World",
@@ -4072,7 +4111,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-29T07:30:52.000Z",
-    "fetched_at": "2026-11-24T03:28:58.984Z",
+    "fetched_at": "2026-11-24T16:31:03.360Z",
     "raw": {
       "title": "ZoomInfo Technologies LLC: Principal Data Engineer",
       "region": "Anywhere in the World",
@@ -4114,7 +4153,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-27T07:30:51.000Z",
-    "fetched_at": "2026-11-24T03:28:58.985Z",
+    "fetched_at": "2026-11-24T16:31:03.362Z",
     "raw": {
       "title": "Upsun: Senior IT Systems Engineer",
       "region": "Anywhere in the World",
@@ -4156,7 +4195,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-27T03:42:29.000Z",
-    "fetched_at": "2026-11-24T03:28:58.987Z",
+    "fetched_at": "2026-11-24T16:31:03.363Z",
     "raw": {
       "media:content": {
         "@_url": "https://wwr-pro.s3.amazonaws.com/logos/0171/5346/logo.gif",
@@ -4199,7 +4238,7 @@
       "DevOps and Sysadmin"
     ],
     "posted_at": "2026-10-26T07:31:16.000Z",
-    "fetched_at": "2026-11-24T03:28:58.989Z",
+    "fetched_at": "2026-11-24T16:31:03.365Z",
     "raw": {
       "title": "Ping Identity: Director, Global Alliances – Accenture",
       "region": "Anywhere in the World",
